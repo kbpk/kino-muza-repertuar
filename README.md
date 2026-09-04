@@ -10,6 +10,7 @@ Przy filmach znajdziesz:
 
 - godziny i sale,
 - krótki oraz pełny opis z Kina Muza,
+- gatunki filmów z Filmwebu,
 - język, napisy albo informację o dubbingu,
 - plakaty,
 - odnośniki i dostępne oceny z IMDb, Filmwebu oraz Rotten Tomatoes,
@@ -45,6 +46,10 @@ npm start
 ```
 
 Strona będzie dostępna pod `http://localhost:8080`.
+
+## Licencja
+
+Kod źródłowy jest dostępny na licencji [MIT](LICENSE). Licencja nie obejmuje repertuaru, opisów, ocen, plakatów, znaków towarowych ani innych materiałów pobieranych z zewnętrznych serwisów. Prawa do nich należą do ich właścicieli.
 
 ## Automatyzacja
 

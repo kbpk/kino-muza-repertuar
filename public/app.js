@@ -28,6 +28,7 @@ const searchRow = document.querySelector("#search-row");
 const dateFilters = [...document.querySelectorAll(".date-filter")];
 const dateFrom = document.querySelector("#date-from");
 const dateTo = document.querySelector("#date-to");
+const nativeFilterInputs = [dateFrom, dateTo, startTime, endTime];
 const tabs = [...document.querySelectorAll("[role=tab]")];
 const themeToggle = document.querySelector("#theme-toggle");
 const themeColor = document.querySelector("#theme-color");
@@ -61,6 +62,21 @@ themeToggle.addEventListener("click", () => {
 });
 systemTheme.addEventListener("change", updateThemeButton);
 updateThemeButton();
+
+function nativeFilterLabel(input) {
+  if (!input.value) return "";
+  if (input.type !== "date") return input.value;
+  const [year, month, day] = input.value.split("-");
+  return `${day}.${month}.${year}`;
+}
+
+function updateNativeFilterDisplay(input) {
+  document.querySelector(`#${input.id}-value`).textContent = nativeFilterLabel(input);
+}
+
+function updateNativeFilterDisplays() {
+  for (const input of nativeFilterInputs) updateNativeFilterDisplay(input);
+}
 
 const element = (tag, className, text) => {
   const node = document.createElement(tag);
@@ -527,6 +543,7 @@ async function load() {
     const today = new Intl.DateTimeFormat("en-CA", { timeZone: "Europe/Warsaw" }).format(new Date());
     dateFrom.value = today;
     state.dateFrom = today;
+    updateNativeFilterDisplays();
     state.selectedDate = state.index.currentDates.includes(today) ? today : state.index.currentDates[0];
     const date = new Date(state.index.fetchedAt);
     updated.textContent = `Aktualizacja: ${new Intl.DateTimeFormat("pl-PL", { day: "2-digit", month: "2-digit", hour: "2-digit", minute: "2-digit" }).format(date)}`;
@@ -567,6 +584,7 @@ for (const input of [dateFrom, dateTo]) {
     }
     state.dateFrom = dateFrom.value;
     state.dateTo = dateTo.value;
+    updateNativeFilterDisplays();
     updateFilterClear();
     render();
   };
@@ -577,6 +595,7 @@ for (const input of [dateFrom, dateTo]) {
 function updateTimeFilters() {
   state.startTime = startTime.value;
   state.endTime = endTime.value;
+  updateNativeFilterDisplays();
   updateFilterClear();
   render();
 }
@@ -619,6 +638,7 @@ filterClear.addEventListener("click", () => {
   state.dateTo = "";
   state.startTime = "";
   state.endTime = "";
+  updateNativeFilterDisplays();
   selectHalls(state.hallValues);
 });
 

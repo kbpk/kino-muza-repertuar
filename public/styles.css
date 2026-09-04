@@ -57,6 +57,7 @@
 }
 
 * { box-sizing: border-box; }
+html { -webkit-text-size-adjust: 100%; text-size-adjust: 100%; }
 html, body { max-width: 100%; overflow-x: hidden; }
 body { margin: 0; background: var(--background); font-size: 15px; line-height: 1.45; }
 a { color: inherit; }
@@ -82,10 +83,13 @@ main { min-height: calc(100vh - 120px); padding: 20px 0 48px; }
 .filters { display: flex; flex-wrap: wrap; align-items: end; justify-content: flex-end; gap: 8px; }
 .search-row { display: flex; align-items: end; gap: 8px; }
 .filter-field { display: grid; min-width: 0; grid-template-rows: 16px 40px; gap: 2px; color: var(--muted); font-size: 11px; }
-input[type="search"], .time-input, .date-input, .sort-input { height: 40px; border: 1px solid var(--line); border-radius: 7px; padding: 0 10px; color: var(--text); background: var(--surface); }
+input[type="search"], .native-input-shell, .sort-input { height: 40px; border: 1px solid var(--line); border-radius: 7px; padding: 0 10px; color: var(--text); background: var(--surface); }
 input[type="search"] { width: 210px; }
-.time-input { width: 108px; min-width: 0; font-variant-numeric: tabular-nums; }
-.date-input { width: 145px; min-width: 0; font-variant-numeric: tabular-nums; }
+.native-input-shell { position: relative; display: flex; width: 108px; min-width: 0; align-items: center; overflow: hidden; font-variant-numeric: tabular-nums; }
+.date-filter .native-input-shell { width: 145px; }
+.native-input-value { display: block; overflow: hidden; color: var(--text); font-size: 15px; line-height: 1; text-overflow: ellipsis; white-space: nowrap; }
+.time-input, .date-input { position: absolute; inset: 0; width: 100%; min-width: 0; height: 100%; border: 0; padding: 0; opacity: 0; cursor: pointer; }
+.native-input-shell:focus-within { outline: 2px solid var(--accent); outline-offset: 2px; }
 .sort-input { width: 172px; min-width: 0; }
 .hall-dropdown { position: relative; width: 132px; }
 .hall-dropdown summary { display: flex; height: 40px; align-items: center; justify-content: space-between; gap: 8px; border: 1px solid var(--line); border-radius: 7px; padding: 0 10px; color: var(--text); background: var(--surface); font-size: 13px; cursor: pointer; list-style: none; }
@@ -107,6 +111,7 @@ input[type="search"] { width: 210px; }
 .filter-clear:hover { border-color: var(--text); color: var(--text); }
 .filter-clear[hidden] { display: none; }
 input:focus-visible, button:focus-visible, a:focus-visible, summary:focus-visible { outline: 2px solid var(--accent); outline-offset: 2px; }
+.native-input-shell input:focus-visible { outline: 0; }
 .freshness-warning { margin: 0 0 18px; border-left: 3px solid var(--accent); padding: 8px 10px; color: var(--text); background: var(--soft); font-size: 13px; }
 .freshness-warning[hidden] { display: none; }
 .status { min-height: 0; margin: 0; color: var(--muted); font-size: 13px; }
@@ -186,12 +191,13 @@ footer { padding: 18px 0 32px; border-top: 1px solid var(--line); color: var(--m
   .filter-field { grid-template-rows: 16px 44px; }
   .date-filter, .time-filter, .hall-filter, .sort-filter { width: auto; max-width: none; min-width: 0; }
   .filters > *, .filter-field > *, .search-row > * { min-width: 0; max-width: 100%; }
-  .date-filter .date-input, .time-filter .time-input { display: block; width: 0; min-width: 100%; max-width: 100%; min-inline-size: 100%; max-inline-size: 100%; overflow: hidden; -webkit-appearance: none; appearance: none; font-size: 16px; }
+  .date-filter .native-input-shell, .time-filter .native-input-shell { width: 100%; min-width: 0; max-width: 100%; }
+  .date-filter .date-input, .time-filter .time-input { width: 100%; min-width: 0; max-width: 100%; -webkit-appearance: none; appearance: none; font-size: 16px; }
   .sort-filter .sort-input { display: block; width: 100%; min-width: 0; max-width: 100%; min-inline-size: 0; max-inline-size: 100%; overflow: hidden; font-size: 16px; }
   .hall-dropdown { width: 100%; min-width: 0; }
   .hall-dropdown summary { height: 44px; }
   .hall-menu { right: auto; left: 0; }
-  .date-input::-webkit-date-and-time-value, .time-input::-webkit-date-and-time-value { width: 100%; min-width: 0; text-align: left; }
+  input[type="search"], .native-input-value, .hall-dropdown summary, .sort-input { font-size: 16px; }
   .search-row { display: grid; grid-column: 1 / -1; grid-template-columns: minmax(0, 1fr); align-items: end; }
   .search-row.has-clear { grid-template-columns: minmax(0, 1fr) 44px; }
   .search-filter { min-width: 0; }
@@ -200,7 +206,7 @@ footer { padding: 18px 0 32px; border-top: 1px solid var(--line); color: var(--m
   .movie-row { grid-template-columns: 1fr; gap: 9px; }
   .times { justify-content: flex-start; }
   .date-groups { min-width: 0; }
-  .github-link, .json-link, .theme-toggle, .tab, .date-arrow, .day-button, input[type="search"], .time-input, .date-input, .sort-input, .filter-clear, .showtime { min-height: 44px; }
+  .github-link, .json-link, .theme-toggle, .tab, .date-arrow, .day-button, input[type="search"], .native-input-shell, .sort-input, .filter-clear, .showtime { min-height: 44px; }
   .github-link, .json-link, .theme-toggle { min-width: 44px; }
 }
 

@@ -41,19 +41,31 @@
         <div class="filters" aria-label="Filtry repertuaru">
           <label class="filter-field date-filter" hidden>
             <span>Data od</span>
-            <input id="date-from" class="date-input" type="date" aria-label="Najwcześniejsza data seansu">
+            <span class="native-input-shell">
+              <span id="date-from-value" class="native-input-value" aria-hidden="true"></span>
+              <input id="date-from" class="date-input" type="date" aria-label="Najwcześniejsza data seansu">
+            </span>
           </label>
           <label class="filter-field date-filter" hidden>
             <span>Data do</span>
-            <input id="date-to" class="date-input" type="date" aria-label="Najpóźniejsza data seansu">
+            <span class="native-input-shell">
+              <span id="date-to-value" class="native-input-value" aria-hidden="true"></span>
+              <input id="date-to" class="date-input" type="date" aria-label="Najpóźniejsza data seansu">
+            </span>
           </label>
           <label class="filter-field time-filter">
             <span>Start od</span>
-            <input id="start-time" class="time-input" type="time" aria-label="Najwcześniejsza godzina rozpoczęcia">
+            <span class="native-input-shell">
+              <span id="start-time-value" class="native-input-value" aria-hidden="true"></span>
+              <input id="start-time" class="time-input" type="time" aria-label="Najwcześniejsza godzina rozpoczęcia">
+            </span>
           </label>
           <label class="filter-field time-filter">
             <span>Koniec do</span>
-            <input id="end-time" class="time-input" type="time" aria-label="Najpóźniejsza godzina zakończenia">
+            <span class="native-input-shell">
+              <span id="end-time-value" class="native-input-value" aria-hidden="true"></span>
+              <input id="end-time" class="time-input" type="time" aria-label="Najpóźniejsza godzina zakończenia">
+            </span>
           </label>
           <div class="filter-field hall-filter">
             <span id="hall-filter-label">Sale</span>

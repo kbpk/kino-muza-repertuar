@@ -1,12 +1,12 @@
 {
   "schemaVersion": 1,
   "date": "2026-09-06",
-  "updatedAt": "2026-09-04T11:17:30.998Z",
+  "updatedAt": "2026-09-04T20:19:12.612Z",
   "source": "https://www.kinomuza.pl/repertoire/day/",
   "day": {
     "id": "02",
     "date": "06.09",
-    "now": "2026-09-04 13:16:33",
+    "now": "2026-09-04 22:18:49",
     "info": [],
     "repertoire": [
       {
@@ -40,6 +40,7 @@
         "cycle": "dzieciaki, do kina!",
         "description": "Nowe przygody Pucia, bohatera kultowej serii książek, przyniosą jeszcze więcej śmiechu, wzruszeń i spotkań ze zwierzęcymi bohaterami. W animacji ponownie usłyszymy Artura Barcisia, Joannę Pach-Żbikowską i Małgorzatę Sochę, a także oprawę muzyczną Grzegorza Turnaua.",
         "shortDescription": "Nowe przygody Pucia, bohatera kultowej serii książek, przyniosą jeszcze więcej śmiechu, wzruszeń i spotkań ze zwierzęcymi bohaterami. W animacji ponownie usłyszymy Artura Barcisia, Joannę Pach-Żbikowską i Małgorzatę Sochę, a także oprawę muzyczną Grzegorza Turnaua.",
+        "genres": [],
         "external": {
           "imdb": {
             "id": "tt44692732",
@@ -82,6 +83,9 @@
         "thumb": "https://www.kinomuza.pl/content/uploads/2026/07/AREK.MAMA-5-800x450.png",
         "description": "Czuły, skrzący się humorem portret człowieka w walce o marzenia, w którym każdy odnajdzie cząstkę siebie. W pewnym momencie życia wszyscy jesteśmy Arkami.",
         "shortDescription": "Czuły, skrzący się humorem portret człowieka w walce o marzenia, w którym każdy odnajdzie cząstkę siebie. W pewnym momencie życia wszyscy jesteśmy Arkami.",
+        "genres": [
+          "Dokumentalny"
+        ],
         "external": {
           "imdb": {
             "id": "tt44898388",
@@ -92,6 +96,9 @@
           "filmweb": {
             "id": "10119673",
             "url": "https://www.filmweb.pl/film/Arek.Mama.Panorama-2026-10119673",
+            "genres": [
+              "Dokumentalny"
+            ],
             "rating": 6.9,
             "votes": 265
           },
@@ -131,6 +138,9 @@
         "cycle": "dzieciaki, do kina!",
         "description": "Pogodna 12-letnia Mira marzy o własnej wystawie sztuki, lecz pojawienie się nowej, popularnej koleżanki sprawia, że musi zdecydować, czy podążyć za presją otoczenia, czy pozostać wierna sobie i swoim pasjom.",
         "shortDescription": "Pogodna 12-letnia Mira marzy o własnej wystawie sztuki, lecz pojawienie się nowej, popularnej koleżanki sprawia, że musi zdecydować, czy podążyć za presją otoczenia, czy pozostać wierna sobie i swoim pasjom.",
+        "genres": [
+          "Familijny"
+        ],
         "external": {
           "imdb": {
             "id": "tt38453860",
@@ -141,6 +151,9 @@
           "filmweb": {
             "id": "10103143",
             "url": "https://www.filmweb.pl/film/Mira-2025-10103143",
+            "genres": [
+              "Familijny"
+            ],
             "rating": 5.8,
             "votes": 6
           },
@@ -178,6 +191,11 @@
         "thumb": "https://www.kinomuza.pl/content/uploads/2026/04/odyseja-1-800x450.jpg",
         "description": "Opowieść o podróży Odyseusza, króla Itaki, który musi stawić czoła licznym wyzwaniom próbując wrócić do domu po wojnie trojańskiej.",
         "shortDescription": "Opowieść o podróży Odyseusza, króla Itaki, który musi stawić czoła licznym wyzwaniom próbując wrócić do domu po wojnie trojańskiej.",
+        "genres": [
+          "Dramat",
+          "Fantasy",
+          "Przygodowy"
+        ],
         "external": {
           "imdb": {
             "id": "tt33764258",
@@ -188,6 +206,11 @@
           "filmweb": {
             "id": "10068387",
             "url": "https://www.filmweb.pl/film/Odyseja-2026-10068387",
+            "genres": [
+              "Dramat",
+              "Fantasy",
+              "Przygodowy"
+            ],
             "rating": 7.7,
             "votes": 65719
           },
@@ -201,7 +224,7 @@
             "criticsRating": 94,
             "criticsVotes": 506,
             "audienceRating": 97,
-            "audienceVotes": 31742
+            "audienceVotes": 31769
           }
         },
         "longDescription": "Christopher Nolan, który nakręcił takie filmy jak „Interstellar” oraz „Oppenheimer” jest znany z tego, że nie boi się żadnego gatunku filmowego. Po świetnie przyjętym i nagrodzonym 7 Oscarami® „Oppenheimerze” opowiadajacym historię powstania pierwszej bomby atomowej, teraz reżyser pracuje nad adaptacją „Odysei”.\n\nTo opowieść autorstwa Homera uznawana za jedno z najważniejszych dzieł literatury zachodniej. Opowiada o podróży Odyseusza, króla Itaki, który musi stawić czoła licznym wyzwaniom próbując wrócić do domu po wojnie trojańskiej. Powstała już niejedna ekranizacja klasycznego dzieła Homera, ale tym razem film nakręcony zostanie w technologii IMAX i będzie pierwszym tak nowoczesnym podejściem do „Odysei”.\n\nW filmie „Odysei” zobaczymy między innymi: Matta Damona, Toma Hollanda, Anne Hathaway, Zendayę, Roberta Pattinsona, Lupite Nyong’o oraz Charlize Theron.",
@@ -236,6 +259,10 @@
         "thumb": "https://www.kinomuza.pl/content/uploads/2026/07/sunny-dancer-1-800x450.jpg",
         "description": "Siedemnastoletnia Ivy jest przekonana, że czeka ją najgorsze lato życia. Cztery tygodnie na obozie wakacyjnym, w grupie outsiderów, których wcale nie chciała poznać.",
         "shortDescription": "Siedemnastoletnia Ivy jest przekonana, że czeka ją najgorsze lato życia. Cztery tygodnie na obozie wakacyjnym, w grupie outsiderów, których wcale nie chciała poznać.",
+        "genres": [
+          "Dramat",
+          "Komedia"
+        ],
         "external": {
           "imdb": {
             "id": "tt32212403",
@@ -246,6 +273,10 @@
           "filmweb": {
             "id": "10117005",
             "url": "https://www.filmweb.pl/film/Sunny+Dancer-2026-10117005",
+            "genres": [
+              "Dramat",
+              "Komedia"
+            ],
             "rating": 7.2,
             "votes": 550
           },
@@ -294,6 +325,9 @@
         "thumb": "https://www.kinomuza.pl/content/uploads/2026/07/historie-rownolegle-histoires-paralleles-7871-pscarolebethuel-1280x720-1-800x450.jpg",
         "description": "Pisarka odkrywa trójkąt miłosny rodzący się między braćmi, a tajemniczą Anną. Wirtuozersko poprowadzona historia miłosnego trójkąta, który staje się obsesją znakomitej pisarki.",
         "shortDescription": "Pisarka odkrywa trójkąt miłosny rodzący się między braćmi, a tajemniczą Anną. Wirtuozersko poprowadzona historia miłosnego trójkąta, który staje się obsesją znakomitej pisarki.",
+        "genres": [
+          "Melodramat"
+        ],
         "external": {
           "imdb": {
             "id": "tt36646880",
@@ -304,6 +338,9 @@
           "filmweb": {
             "id": "10079944",
             "url": "https://www.filmweb.pl/film/Historie+r%C3%B3wnoleg%C5%82e-2026-10079944",
+            "genres": [
+              "Melodramat"
+            ],
             "rating": 5.8,
             "votes": 1102
           },
@@ -352,6 +389,9 @@
         "thumb": "https://www.kinomuza.pl/content/uploads/2026/05/ojczyzna-1-800x450.jpg",
         "description": "Opowieść o relacjach między Mannem, laureatem Nagrody Nobla w dziedzinie literatury, a jego córką Eriką, aktorką i pisarką. Akcja rozgrywa się w szczytowym okresie zimnej wojny.",
         "shortDescription": "Opowieść o relacjach między Mannem, laureatem Nagrody Nobla w dziedzinie literatury, a jego córką Eriką, aktorką i pisarką. Akcja rozgrywa się w szczytowym okresie zimnej wojny.",
+        "genres": [
+          "Dramat"
+        ],
         "external": {
           "imdb": {
             "id": "tt37304295",
@@ -362,6 +402,9 @@
           "filmweb": {
             "id": "10074985",
             "url": "https://www.filmweb.pl/film/Ojczyzna-2026-10074985",
+            "genres": [
+              "Dramat"
+            ],
             "rating": 6.9,
             "votes": 7532
           },
@@ -410,6 +453,11 @@
         "thumb": "https://www.kinomuza.pl/content/uploads/2026/04/odyseja-1-800x450.jpg",
         "description": "Opowieść o podróży Odyseusza, króla Itaki, który musi stawić czoła licznym wyzwaniom próbując wrócić do domu po wojnie trojańskiej.",
         "shortDescription": "Opowieść o podróży Odyseusza, króla Itaki, który musi stawić czoła licznym wyzwaniom próbując wrócić do domu po wojnie trojańskiej.",
+        "genres": [
+          "Dramat",
+          "Fantasy",
+          "Przygodowy"
+        ],
         "external": {
           "imdb": {
             "id": "tt33764258",
@@ -420,6 +468,11 @@
           "filmweb": {
             "id": "10068387",
             "url": "https://www.filmweb.pl/film/Odyseja-2026-10068387",
+            "genres": [
+              "Dramat",
+              "Fantasy",
+              "Przygodowy"
+            ],
             "rating": 7.7,
             "votes": 65719
           },
@@ -433,7 +486,7 @@
             "criticsRating": 94,
             "criticsVotes": 506,
             "audienceRating": 97,
-            "audienceVotes": 31742
+            "audienceVotes": 31769
           }
         },
         "longDescription": "Christopher Nolan, który nakręcił takie filmy jak „Interstellar” oraz „Oppenheimer” jest znany z tego, że nie boi się żadnego gatunku filmowego. Po świetnie przyjętym i nagrodzonym 7 Oscarami® „Oppenheimerze” opowiadajacym historię powstania pierwszej bomby atomowej, teraz reżyser pracuje nad adaptacją „Odysei”.\n\nTo opowieść autorstwa Homera uznawana za jedno z najważniejszych dzieł literatury zachodniej. Opowiada o podróży Odyseusza, króla Itaki, który musi stawić czoła licznym wyzwaniom próbując wrócić do domu po wojnie trojańskiej. Powstała już niejedna ekranizacja klasycznego dzieła Homera, ale tym razem film nakręcony zostanie w technologii IMAX i będzie pierwszym tak nowoczesnym podejściem do „Odysei”.\n\nW filmie „Odysei” zobaczymy między innymi: Matta Damona, Toma Hollanda, Anne Hathaway, Zendayę, Roberta Pattinsona, Lupite Nyong’o oraz Charlize Theron.",
@@ -468,6 +521,9 @@
         "thumb": "https://www.kinomuza.pl/content/uploads/2026/08/camp-1-800x450.jpg",
         "description": "Na dnie jeziora jest dziura. To z niej pochodzą filmy. Przygotujcie się na Małą Śmierć.",
         "shortDescription": "Na dnie jeziora jest dziura. To z niej pochodzą filmy. Przygotujcie się na Małą Śmierć.",
+        "genres": [
+          "Czarna komedia"
+        ],
         "external": {
           "imdb": {
             "id": "tt35298123",
@@ -478,8 +534,11 @@
           "filmweb": {
             "id": "10114411",
             "url": "https://www.filmweb.pl/film/Mi%C5%82o%C5%9B%C4%87%2C+%C5%9Bmier%C4%87+i+dojrzewanie+w+Camp+Miasma-2026-10114411",
+            "genres": [
+              "Czarna komedia"
+            ],
             "rating": 7.3,
-            "votes": 580
+            "votes": 588
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/teenage_sex_and_death_at_camp_miasma",
@@ -489,9 +548,9 @@
               "Jane Schoenbrun"
             ],
             "criticsRating": 94,
-            "criticsVotes": 267,
+            "criticsVotes": 268,
             "audienceRating": 78,
-            "audienceVotes": 484
+            "audienceVotes": 485
           }
         },
         "longDescription": "Na dnie jeziora jest dziura. To z niej pochodzą filmy.\n\nMłoda, utalentowana reżyserka Kris (Hannah Einbinder) dostaje od studia filmowego szansę życia – ma nakręcić remake kultowej serii horrorów „Camp Miasma”, która cieszyła się ogromną popularnością w latach osiemdziesiątych i dziewięćdziesiątych. Aby znaleźć inspirację, udaje się na spotkanie z Billy (Gillian Anderson), która grała główną rolę w pierwowzorze projektu. Wizyta u ekscentrycznej aktorki szybko przeradza się w coś więcej niż zwykły wywiad.\n\n„Miłość, śmierć i dojrzewanie w Camp Miasma” zadebiutowała na festiwalu w Cannes, gdzie szturmem zdobyła serca krytyków i widzów – a także prestiżową nominację w sekcji Un Certain Regard. Najnowszy film Jane Shoenbrun (twórcy docenianego „W blasku ekranu”) ma obecnie 100% pozytywnych recenzji na Rotten Tomatoes, a widzowie wychodzą z seansów zachwyceni.\n\nChoć film Shoenbrun opowiada o powstawaniu fikcyjnej serii horrorów, sam w sobie horrorem nie jest, a zaledwie czerpie z jego estetyki. To przepiękna pod względem wizualnym kinofilska uczta opowiadająca przede wszystkim o bezgranicznej miłości do kina. I o tym, jak ta miłość zmienia nasze życie.\n\nW centrum tej opowieści stoją dwie aktorki reprezentujące dwa różne pokolenia. Legendarna Gillian Anderson wciela się w rolę ekscentrycznej diwy, a znana z serialu „Hacks” Hannah Einbinder w niepewną swojej pozycji, ale utalentowaną reżyserkę. Razem tworzą najbardziej elektryzujący ekranowy duet tego roku.",
@@ -526,6 +585,10 @@
         "thumb": "https://www.kinomuza.pl/content/uploads/2025/10/kadry-1-1-800x450.jpg",
         "description": "Poruszająca historia miłości Williama, ambitnego dramaturga i jego żony Agnes. Ich idylliczne życie zostaje zburzone, gdy wybucha epidemia dżumy, która dotyka ich dzieci.",
         "shortDescription": "Poruszająca historia miłości Williama, ambitnego dramaturga i jego żony Agnes. Ich idylliczne życie zostaje zburzone, gdy wybucha epidemia dżumy, która dotyka ich dzieci.",
+        "genres": [
+          "Biograficzny",
+          "Dramat"
+        ],
         "external": {
           "imdb": {
             "id": "tt14905854",
@@ -536,6 +599,10 @@
           "filmweb": {
             "id": "10035555",
             "url": "https://www.filmweb.pl/film/Hamnet-2025-10035555",
+            "genres": [
+              "Biograficzny",
+              "Dramat"
+            ],
             "rating": 7.6,
             "votes": 28394
           },
@@ -584,6 +651,10 @@
         "thumb": "https://www.kinomuza.pl/content/uploads/2026/07/gorzkie-swieta-4-800x450.jpg",
         "description": "Pedro Almodóvar powraca w szczytowej formie z jednym ze swoich najbardziej osobistych filmów. Almodóvar składa tu poruszające wyznanie wiary w siłę kina, pamięci i narracji.",
         "shortDescription": "Pedro Almodóvar powraca w szczytowej formie z jednym ze swoich najbardziej osobistych filmów. Almodóvar składa tu poruszające wyznanie wiary w siłę kina, pamięci i narracji.",
+        "genres": [
+          "Dramat",
+          "Komedia"
+        ],
         "external": {
           "imdb": {
             "id": "tt28088049",
@@ -594,6 +665,10 @@
           "filmweb": {
             "id": "10085499",
             "url": "https://www.filmweb.pl/film/Gorzkie+%C5%9Bwi%C4%99ta-2026-10085499",
+            "genres": [
+              "Dramat",
+              "Komedia"
+            ],
             "rating": 5.7,
             "votes": 1626
           },
@@ -642,6 +717,9 @@
         "thumb": "https://www.kinomuza.pl/content/uploads/2026/08/róża-1-800x450.jpg",
         "description": "Oto prawdziwa historia oszustki, która zwodziła władze i lud. Urodziła się kobietą, acz nosiła po męsku i pod fałszywym imieniem dopuściła wielu niecnych czynów.",
         "shortDescription": "Oto prawdziwa historia oszustki, która zwodziła władze i lud. Urodziła się kobietą, acz nosiła po męsku i pod fałszywym imieniem dopuściła wielu niecnych czynów.",
+        "genres": [
+          "Dramat historyczny"
+        ],
         "external": {
           "imdb": {
             "id": "tt25399154",
@@ -652,6 +730,9 @@
           "filmweb": {
             "id": "10113205",
             "url": "https://www.filmweb.pl/film/R%C3%B3%C5%BCa-2026-10113205",
+            "genres": [
+              "Dramat historyczny"
+            ],
             "rating": 7.1,
             "votes": 666
           },
@@ -700,6 +781,9 @@
         "thumb": "https://www.kinomuza.pl/content/uploads/2026/05/500-2-800x450.jpg",
         "description": "Ciepły, poruszający film drogi laureata BAFT-y Morgana Matthewsa, w którym subtelny humor przeplata się ze wzruszeniem.",
         "shortDescription": "Ciepły, poruszający film drogi laureata BAFT-y Morgana Matthewsa, w którym subtelny humor przeplata się ze wzruszeniem.",
+        "genres": [
+          "Dramat"
+        ],
         "external": {
           "imdb": {
             "id": "tt31216533",
@@ -710,8 +794,11 @@
           "filmweb": {
             "id": "10117286",
             "url": "https://www.filmweb.pl/film/500+mil-2026-10117286",
+            "genres": [
+              "Dramat"
+            ],
             "rating": 7.3,
-            "votes": 334
+            "votes": 349
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/500_miles_2026",
@@ -758,6 +845,9 @@
         "thumb": "https://www.kinomuza.pl/content/uploads/2026/08/camp-1-800x450.jpg",
         "description": "Na dnie jeziora jest dziura. To z niej pochodzą filmy. Przygotujcie się na Małą Śmierć.",
         "shortDescription": "Na dnie jeziora jest dziura. To z niej pochodzą filmy. Przygotujcie się na Małą Śmierć.",
+        "genres": [
+          "Czarna komedia"
+        ],
         "external": {
           "imdb": {
             "id": "tt35298123",
@@ -768,8 +858,11 @@
           "filmweb": {
             "id": "10114411",
             "url": "https://www.filmweb.pl/film/Mi%C5%82o%C5%9B%C4%87%2C+%C5%9Bmier%C4%87+i+dojrzewanie+w+Camp+Miasma-2026-10114411",
+            "genres": [
+              "Czarna komedia"
+            ],
             "rating": 7.3,
-            "votes": 580
+            "votes": 588
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/teenage_sex_and_death_at_camp_miasma",
@@ -779,9 +872,9 @@
               "Jane Schoenbrun"
             ],
             "criticsRating": 94,
-            "criticsVotes": 267,
+            "criticsVotes": 268,
             "audienceRating": 78,
-            "audienceVotes": 484
+            "audienceVotes": 485
           }
         },
         "longDescription": "Na dnie jeziora jest dziura. To z niej pochodzą filmy.\n\nMłoda, utalentowana reżyserka Kris (Hannah Einbinder) dostaje od studia filmowego szansę życia – ma nakręcić remake kultowej serii horrorów „Camp Miasma”, która cieszyła się ogromną popularnością w latach osiemdziesiątych i dziewięćdziesiątych. Aby znaleźć inspirację, udaje się na spotkanie z Billy (Gillian Anderson), która grała główną rolę w pierwowzorze projektu. Wizyta u ekscentrycznej aktorki szybko przeradza się w coś więcej niż zwykły wywiad.\n\n„Miłość, śmierć i dojrzewanie w Camp Miasma” zadebiutowała na festiwalu w Cannes, gdzie szturmem zdobyła serca krytyków i widzów – a także prestiżową nominację w sekcji Un Certain Regard. Najnowszy film Jane Shoenbrun (twórcy docenianego „W blasku ekranu”) ma obecnie 100% pozytywnych recenzji na Rotten Tomatoes, a widzowie wychodzą z seansów zachwyceni.\n\nChoć film Shoenbrun opowiada o powstawaniu fikcyjnej serii horrorów, sam w sobie horrorem nie jest, a zaledwie czerpie z jego estetyki. To przepiękna pod względem wizualnym kinofilska uczta opowiadająca przede wszystkim o bezgranicznej miłości do kina. I o tym, jak ta miłość zmienia nasze życie.\n\nW centrum tej opowieści stoją dwie aktorki reprezentujące dwa różne pokolenia. Legendarna Gillian Anderson wciela się w rolę ekscentrycznej diwy, a znana z serialu „Hacks” Hannah Einbinder w niepewną swojej pozycji, ale utalentowaną reżyserkę. Razem tworzą najbardziej elektryzujący ekranowy duet tego roku.",
@@ -816,6 +909,11 @@
         "thumb": "https://www.kinomuza.pl/content/uploads/2026/09/57ef7a282819ac320da3a5de72836119-800x450.jpg",
         "description": "Młody Anthony Bourdain podczas upalnego lata 1976 roku odkrywa swoją pasję, powołanie i to, kim tak naprawdę jest.",
         "shortDescription": "Młody Anthony Bourdain podczas upalnego lata 1976 roku odkrywa swoją pasję, powołanie i to, kim tak naprawdę jest.",
+        "genres": [
+          "Komedia",
+          "Biograficzny",
+          "Dramat"
+        ],
         "external": {
           "imdb": {
             "id": "tt33095251",
@@ -826,8 +924,13 @@
           "filmweb": {
             "id": "10079933",
             "url": "https://www.filmweb.pl/film/Tony-2026-10079933",
+            "genres": [
+              "Komedia",
+              "Biograficzny",
+              "Dramat"
+            ],
             "rating": 7.2,
-            "votes": 479
+            "votes": 545
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/tony_2026",
@@ -837,9 +940,9 @@
               "Matt Johnson"
             ],
             "criticsRating": 93,
-            "criticsVotes": 219,
+            "criticsVotes": 221,
             "audienceRating": 92,
-            "audienceVotes": 823
+            "audienceVotes": 826
           }
         },
         "longDescription": "Anthony Bourdain – buntownik, outsider, głos pokolenia, jeden z najbardziej znanych szefów kuchni i jedna z największych, najbardziej charyzmatycznych osobowości telewizyjnych. Podróżnik, pisarz, odkrywca, którego miliony ludzi na całym świecie pokochały za bezkompromisowy styl, miłość do życia, szacunek do ludzi, odwagę, ciekawość świata i autentyczność. „Tony” to historia początków jego drogi – kim był, zanim stał się Anthonym Bourdainem.\n\nUpalne lato 1976 roku, Provincetown – miasto pulsujące wolnością, seksem i energią. Młody, marzący o karierze pisarza, Tony (Dominic Sessa), by podreperować budżet, trafia na zmywak do restauracji serwującej owoce morza, prowadzonej przez tajemniczego szefa kuchni (Antonio Banderas). W intensywnej, chaotycznej, a jednocześnie niezwykle kreatywnej atmosferze Tony odkrywa swoją pasję, powołanie i to, kim tak naprawdę jest.",
@@ -874,6 +977,9 @@
         "thumb": "https://www.kinomuza.pl/content/uploads/2026/05/mlodsza-siostra-1-800x450.jpg",
         "description": "Subtelny portret młodej dziewczyny, która wchodzi w dorosłe życie i kształtuje swoją tożsamość.",
         "shortDescription": "Subtelny portret młodej dziewczyny, która wchodzi w dorosłe życie i kształtuje swoją tożsamość.",
+        "genres": [
+          "Dramat"
+        ],
         "external": {
           "imdb": {
             "id": "tt28326501",
@@ -884,6 +990,9 @@
           "filmweb": {
             "id": "10070385",
             "url": "https://www.filmweb.pl/film/M%C5%82odsza+siostra-2025-10070385",
+            "genres": [
+              "Dramat"
+            ],
             "rating": 6.2,
             "votes": 335
           },

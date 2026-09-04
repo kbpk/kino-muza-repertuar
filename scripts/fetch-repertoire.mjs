@@ -2,7 +2,6 @@ import { createHash } from "node:crypto";
 import { mkdir, readdir, readFile, unlink, writeFile } from "node:fs/promises";
 import { join } from "node:path";
 import { fileURLToPath } from "node:url";
-import sharp from "sharp";
 import { enrichRepertoire } from "./external-ratings.mjs";
 import { enrichMuzaDetails } from "./muza-details.mjs";
 
@@ -81,6 +80,7 @@ async function cacheImage(url, mediaDirectory) {
   if (!contentType.startsWith("image/")) throw new Error(`Nieprawidłowy typ miniatury: ${contentType}`);
   const source = Buffer.from(await response.arrayBuffer());
   if (source.length > 15 * 1024 * 1024) throw new Error("Miniatura przekracza limit 15 MB");
+  const { default: sharp } = await import("sharp");
   const optimized = await sharp(source, { limitInputPixels: 40_000_000 })
     .rotate()
     .resize(240, 345, { fit: "contain", background: { r: 0, g: 0, b: 0, alpha: 0 } })

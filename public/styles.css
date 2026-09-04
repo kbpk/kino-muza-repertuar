@@ -67,10 +67,11 @@ h1 { margin: 0; font-size: 21px; letter-spacing: -.02em; }
 h1 span { color: var(--muted); font-weight: 400; }
 .header-actions { display: flex; align-items: center; gap: 12px; }
 .updated { margin: 0; color: var(--muted); font-size: 13px; }
-.github-link, .theme-toggle { display: grid; width: 34px; height: 34px; place-items: center; border: 1px solid var(--line); border-radius: 50%; padding: 0; color: var(--text); background: var(--surface); cursor: pointer; }
-.github-link { text-decoration: none; }
-.github-link:hover, .theme-toggle:hover { border-color: var(--text); }
+.github-link, .json-link, .theme-toggle { display: grid; width: 34px; height: 34px; place-items: center; border: 1px solid var(--line); border-radius: 50%; padding: 0; color: var(--text); background: var(--surface); cursor: pointer; }
+.github-link, .json-link { text-decoration: none; }
+.github-link:hover, .json-link:hover, .theme-toggle:hover { border-color: var(--text); }
 .github-link svg { width: 18px; height: 18px; fill: currentColor; }
+.json-link span { font-family: ui-monospace, SFMono-Regular, Consolas, monospace; font-size: 14px; font-weight: 700; letter-spacing: -.12em; line-height: 1; }
 .theme-toggle span { font-size: 18px; line-height: 1; }
 main { min-height: calc(100vh - 120px); padding: 20px 0 48px; }
 .toolbar { display: flex; justify-content: space-between; align-items: center; gap: 16px; margin-bottom: 18px; }
@@ -144,7 +145,9 @@ footer { padding: 18px 0 32px; border-top: 1px solid var(--line); color: var(--m
 .sr-only { position: absolute; width: 1px; height: 1px; overflow: hidden; clip: rect(0, 0, 0, 0); white-space: nowrap; }
 
 @media (max-width: 700px) {
-  .header-inner { padding: 14px 0; }
+  .header-inner { gap: 8px; padding: 14px 0; }
+  .header-actions { gap: 4px; }
+  h1 { font-size: 19px; }
   .updated { display: none; }
   .toolbar { align-items: stretch; flex-direction: column; }
   .tabs { align-self: flex-start; }
@@ -158,6 +161,6 @@ footer { padding: 18px 0 32px; border-top: 1px solid var(--line); color: var(--m
   .movie-row { grid-template-columns: 1fr; gap: 9px; }
   .times { justify-content: flex-start; }
   .date-groups { min-width: 0; }
-  .github-link, .theme-toggle, .tab, .date-arrow, .day-button, input[type="search"], .time-input, .date-input, .filter-clear, .showtime { min-height: 44px; }
-  .github-link, .theme-toggle { min-width: 44px; }
+  .github-link, .json-link, .theme-toggle, .tab, .date-arrow, .day-button, input[type="search"], .time-input, .date-input, .filter-clear, .showtime { min-height: 44px; }
+  .github-link, .json-link, .theme-toggle { min-width: 44px; }
 }

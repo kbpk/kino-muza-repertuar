@@ -23,9 +23,13 @@ Dane pochodzą z publicznego repertuaru [Kina Muza](https://www.kinomuza.pl/repe
 
 Repertuar jest aktualizowany codziennie o 12:00 i 18:00 czasu polskiego, a we wtorki dodatkowo o 14:00, 16:00 i 17:00. Każda aktualizacja jest testowana, zapisywana w osobnym PR-ze i automatycznie publikowana na GitHub Pages.
 
+Cały aktualny repertuar jest dostępny również jako jeden dokument JSON:
+
+`https://kbpk.github.io/kino-muza-repertuar/data/repertoire.json`
+
 ## Jak to działa
 
-Viewer jest statyczną stroną bez serwera aplikacyjnego i kluczy API. GitHub Actions pobiera repertuar do pierwszego pustego dnia, zachowuje każdy dzień jako osobny plik JSON i optymalizuje plakaty do małych plików WebP. Opisy są pobierane podczas aktualizacji, a nie w przeglądarce użytkownika. Service Worker przechowuje ostatnią poprawną wersję do użycia podczas krótkiej awarii sieci.
+Viewer jest statyczną stroną bez serwera aplikacyjnego i kluczy API. GitHub Actions pobiera repertuar do pierwszego pustego dnia, zachowuje każdy dzień jako osobny plik JSON i optymalizuje plakaty do małych plików WebP. Podczas publikacji pliki dzienne są składane w zbiorczy `data/repertoire.json`, który nie jest dublowany w historii repozytorium. Opisy są pobierane podczas aktualizacji, a nie w przeglądarce użytkownika. Service Worker przechowuje ostatnią poprawną wersję do użycia podczas krótkiej awarii sieci.
 
 Dopasowania do zewnętrznych baz wykorzystują polski i oryginalny tytuł, rok oraz reżysera. Jeśli dopasowanie nie jest wystarczająco pewne, link prowadzi do wyników wyszukiwania zamiast do potencjalnie błędnego filmu.
 

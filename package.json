@@ -5,6 +5,8 @@
   "type": "module",
   "scripts": {
     "build:data": "node scripts/fetch-repertoire.mjs",
+    "build:json": "node scripts/build-current-json.mjs",
+    "prestart": "npm run build:json",
     "test": "node --test",
     "start": "node scripts/serve.mjs"
   },

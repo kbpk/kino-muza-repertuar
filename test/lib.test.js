@@ -1,6 +1,6 @@
 import assert from "node:assert/strict";
 import test from "node:test";
-import { dateLabel, externalLinks, groupMovies, metadata, nextAvailableDate, previousAvailableDate, searchMatches, showingEndMinutes, showingMatchesTime } from "../public/lib.js";
+import { dateLabel, externalLinks, groupMovies, isRepertoireStale, metadata, nextAvailableDate, previousAvailableDate, searchMatches, showingEndMinutes, showingMatchesTime } from "../public/lib.js";
 import { dayIso, normalizeDay, trimAtFirstEmptyDay } from "../scripts/fetch-repertoire.mjs";
 
 test("grupuje seanse tego samego filmu", () => {
@@ -102,4 +102,16 @@ test("historia wskazuje poprzedni dostępny dzień", () => {
   assert.equal(previousAvailableDate(dates, "2026-09-01"), null);
   assert.equal(nextAvailableDate(dates, "2026-09-04"), "2026-09-05");
   assert.equal(nextAvailableDate(dates, "2026-09-05"), null);
+});
+
+test("ostrzega po nieudanej oczekiwanej aktualizacji", () => {
+  const afterEveningGrace = new Date("2026-09-04T18:31:00Z");
+  assert.equal(isRepertoireStale("2026-09-04T11:17:00Z", afterEveningGrace), true);
+  assert.equal(isRepertoireStale("2026-09-04T16:10:00Z", afterEveningGrace), false);
+});
+
+test("uwzględnia dodatkowe wtorkowe aktualizacje", () => {
+  const afterTuesdayGrace = new Date("2026-09-08T14:31:00Z");
+  assert.equal(isRepertoireStale("2026-09-08T11:10:00Z", afterTuesdayGrace), true);
+  assert.equal(isRepertoireStale("2026-09-08T12:10:00Z", afterTuesdayGrace), false);
 });

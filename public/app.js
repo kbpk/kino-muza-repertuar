@@ -1,4 +1,4 @@
-import { dateLabel, externalLinks, fullDate, groupMovies, metadata, nextAvailableDate, previousAvailableDate, searchMatches, showingMatchesTime } from "./lib.js";
+import { dateLabel, externalLinks, fullDate, groupMovies, isRepertoireStale, metadata, nextAvailableDate, previousAvailableDate, searchMatches, showingMatchesTime } from "./lib.js";
 
 const VIEW_STORAGE_KEY = "muza-view";
 const storedView = (() => {
@@ -12,6 +12,7 @@ const storedView = (() => {
 const state = { index: null, currentDays: [], dayCache: new Map(), view: storedView, query: "", startTime: "", endTime: "", dateFrom: "", dateTo: "", selectedDate: null };
 const content = document.querySelector("#content");
 const updated = document.querySelector("#updated");
+const freshnessWarning = document.querySelector("#freshness-warning");
 const status = document.querySelector("#status");
 const search = document.querySelector("#search");
 const startTime = document.querySelector("#start-time");
@@ -372,6 +373,7 @@ async function load() {
     state.selectedDate = state.index.currentDates.includes(today) ? today : state.index.currentDates[0];
     const date = new Date(state.index.fetchedAt);
     updated.textContent = `Aktualizacja: ${new Intl.DateTimeFormat("pl-PL", { day: "2-digit", month: "2-digit", hour: "2-digit", minute: "2-digit" }).format(date)}`;
+    freshnessWarning.hidden = !isRepertoireStale(state.index.fetchedAt);
     updateFilterClear();
     render();
   } catch (error) {

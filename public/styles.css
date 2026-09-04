@@ -89,6 +89,8 @@ input[type="search"] { width: 210px; }
 .filter-clear:hover { border-color: var(--text); color: var(--text); }
 .filter-clear[hidden] { display: none; }
 input:focus-visible, button:focus-visible, a:focus-visible, summary:focus-visible { outline: 2px solid var(--accent); outline-offset: 2px; }
+.freshness-warning { margin: 0 0 18px; border-left: 3px solid var(--accent); padding: 8px 10px; color: var(--text); background: var(--soft); font-size: 13px; }
+.freshness-warning[hidden] { display: none; }
 .status { min-height: 0; margin: 0; color: var(--muted); font-size: 13px; }
 .day-picker { display: grid; grid-template-columns: 44px minmax(0, 1fr) 44px; align-items: center; gap: 4px; margin-bottom: 24px; }
 .day-strip { display: flex; min-width: 0; gap: 4px; overflow-x: auto; padding: 2px; scrollbar-width: none; -webkit-overflow-scrolling: touch; overscroll-behavior-inline: contain; touch-action: pan-x pan-y; }

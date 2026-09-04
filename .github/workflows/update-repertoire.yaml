@@ -2,10 +2,9 @@ name: Aktualizuj repertuar
 
 on:
   schedule:
-    # Kandydaci dla 12:00 i 18:00 w Polsce w czasie letnim i zimowym.
-    - cron: "0 10,11,16,17 * * *"
-    # Kandydaci dla dodatkowych wtorkowych uruchomień o 14:00, 16:00 i 17:00.
-    - cron: "0 12-15 * * 2"
+    # Dwie próby poza szczytem pełnej godziny oraz godzina ratunkowa dla CET/CEST.
+    - cron: "7,37 10-12,16-18 * * *"
+    - cron: "7,37 13-15 * * 2"
   workflow_dispatch:
 
 permissions:
@@ -23,6 +22,10 @@ jobs:
     outputs:
       run: ${{ steps.check.outputs.run }}
     steps:
+      - uses: actions/checkout@v7
+        if: github.event_name == 'schedule'
+        with:
+          ref: main
       - name: Sprawdź godzinę w Polsce
         id: check
         env:
@@ -34,14 +37,48 @@ jobs:
           fi
 
           weekday="$(TZ=Europe/Warsaw date +%u)"
-          hour="$(TZ=Europe/Warsaw date +%H)"
-          run=false
-          if [ "$hour" = "12" ] || [ "$hour" = "18" ]; then
-            run=true
-          elif [ "$weekday" = "2" ] && { [ "$hour" = "14" ] || [ "$hour" = "16" ] || [ "$hour" = "17" ]; }; then
-            run=true
+          local_date="$(TZ=Europe/Warsaw date +%F)"
+          raw_hour="$(TZ=Europe/Warsaw date +%H)"
+          hour="$((10#$raw_hour))"
+          targets=(12 18)
+          if [ "$weekday" = "2" ]; then
+            targets+=(14 16 17)
           fi
-          echo "run=$run" >> "$GITHUB_OUTPUT"
+
+          target_hour=""
+          for candidate in "${targets[@]}"; do
+            if [ "$hour" -eq "$candidate" ]; then
+              target_hour="$candidate"
+              break
+            fi
+          done
+          if [ -z "$target_hour" ]; then
+            for candidate in "${targets[@]}"; do
+              if [ "$hour" -eq "$((candidate + 1))" ]; then
+                target_hour="$candidate"
+                break
+              fi
+            done
+          fi
+
+          if [ -z "$target_hour" ]; then
+            echo "run=false" >> "$GITHUB_OUTPUT"
+            exit 0
+          fi
+
+          printf -v target_key "%s %02d" "$local_date" "$target_hour"
+          fetched_at="$(jq -r '.fetchedAt // empty' public/data/index.json)"
+          fetched_key=""
+          if [ -n "$fetched_at" ]; then
+            fetched_key="$(TZ=Europe/Warsaw date -d "$fetched_at" '+%F %H' 2>/dev/null || true)"
+          fi
+          if [ -z "$fetched_key" ] || [[ "$fetched_key" < "$target_key" ]]; then
+            echo "run=true" >> "$GITHUB_OUTPUT"
+            echo "Aktualizacja $target_key jest wymagana."
+          else
+            echo "run=false" >> "$GITHUB_OUTPUT"
+            echo "Aktualizacja $target_key już istnieje."
+          fi
 
   update:
     needs: schedule-gate
@@ -51,6 +88,7 @@ jobs:
       - uses: actions/checkout@v7
         with:
           fetch-depth: 0
+          ref: main
       - uses: actions/setup-node@v7
         with:
           node-version: 22

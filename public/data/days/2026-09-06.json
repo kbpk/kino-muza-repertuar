@@ -1,12 +1,12 @@
 {
   "schemaVersion": 1,
   "date": "2026-09-06",
-  "updatedAt": "2026-09-04T09:33:23.625Z",
+  "updatedAt": "2026-09-04T11:17:30.998Z",
   "source": "https://www.kinomuza.pl/repertoire/day/",
   "day": {
     "id": "02",
     "date": "06.09",
-    "now": "2026-09-04 11:31:59",
+    "now": "2026-09-04 13:16:33",
     "info": [],
     "repertoire": [
       {
@@ -183,7 +183,7 @@
             "id": "tt33764258",
             "url": "https://www.imdb.com/title/tt33764258/",
             "rating": 8.4,
-            "votes": 467598
+            "votes": 470219
           },
           "filmweb": {
             "id": "10068387",
@@ -201,7 +201,7 @@
             "criticsRating": 94,
             "criticsVotes": 506,
             "audienceRating": 97,
-            "audienceVotes": 31738
+            "audienceVotes": 31742
           }
         },
         "longDescription": "Christopher Nolan, który nakręcił takie filmy jak „Interstellar” oraz „Oppenheimer” jest znany z tego, że nie boi się żadnego gatunku filmowego. Po świetnie przyjętym i nagrodzonym 7 Oscarami® „Oppenheimerze” opowiadajacym historię powstania pierwszej bomby atomowej, teraz reżyser pracuje nad adaptacją „Odysei”.\n\nTo opowieść autorstwa Homera uznawana za jedno z najważniejszych dzieł literatury zachodniej. Opowiada o podróży Odyseusza, króla Itaki, który musi stawić czoła licznym wyzwaniom próbując wrócić do domu po wojnie trojańskiej. Powstała już niejedna ekranizacja klasycznego dzieła Homera, ale tym razem film nakręcony zostanie w technologii IMAX i będzie pierwszym tak nowoczesnym podejściem do „Odysei”.\n\nW filmie „Odysei” zobaczymy między innymi: Matta Damona, Toma Hollanda, Anne Hathaway, Zendayę, Roberta Pattinsona, Lupite Nyong’o oraz Charlize Theron.",
@@ -241,7 +241,7 @@
             "id": "tt32212403",
             "url": "https://www.imdb.com/title/tt32212403/",
             "rating": 7.3,
-            "votes": 938
+            "votes": 968
           },
           "filmweb": {
             "id": "10117005",
@@ -299,7 +299,7 @@
             "id": "tt36646880",
             "url": "https://www.imdb.com/title/tt36646880/",
             "rating": 6,
-            "votes": 538
+            "votes": 543
           },
           "filmweb": {
             "id": "10079944",
@@ -357,7 +357,7 @@
             "id": "tt37304295",
             "url": "https://www.imdb.com/title/tt37304295/",
             "rating": 7.1,
-            "votes": 976
+            "votes": 995
           },
           "filmweb": {
             "id": "10074985",
@@ -415,7 +415,7 @@
             "id": "tt33764258",
             "url": "https://www.imdb.com/title/tt33764258/",
             "rating": 8.4,
-            "votes": 467598
+            "votes": 470219
           },
           "filmweb": {
             "id": "10068387",
@@ -433,7 +433,7 @@
             "criticsRating": 94,
             "criticsVotes": 506,
             "audienceRating": 97,
-            "audienceVotes": 31738
+            "audienceVotes": 31742
           }
         },
         "longDescription": "Christopher Nolan, który nakręcił takie filmy jak „Interstellar” oraz „Oppenheimer” jest znany z tego, że nie boi się żadnego gatunku filmowego. Po świetnie przyjętym i nagrodzonym 7 Oscarami® „Oppenheimerze” opowiadajacym historię powstania pierwszej bomby atomowej, teraz reżyser pracuje nad adaptacją „Odysei”.\n\nTo opowieść autorstwa Homera uznawana za jedno z najważniejszych dzieł literatury zachodniej. Opowiada o podróży Odyseusza, króla Itaki, który musi stawić czoła licznym wyzwaniom próbując wrócić do domu po wojnie trojańskiej. Powstała już niejedna ekranizacja klasycznego dzieła Homera, ale tym razem film nakręcony zostanie w technologii IMAX i będzie pierwszym tak nowoczesnym podejściem do „Odysei”.\n\nW filmie „Odysei” zobaczymy między innymi: Matta Damona, Toma Hollanda, Anne Hathaway, Zendayę, Roberta Pattinsona, Lupite Nyong’o oraz Charlize Theron.",
@@ -473,13 +473,13 @@
             "id": "tt35298123",
             "url": "https://www.imdb.com/title/tt35298123/",
             "rating": 7.2,
-            "votes": 7984
+            "votes": 8212
           },
           "filmweb": {
             "id": "10114411",
             "url": "https://www.filmweb.pl/film/Mi%C5%82o%C5%9B%C4%87%2C+%C5%9Bmier%C4%87+i+dojrzewanie+w+Camp+Miasma-2026-10114411",
             "rating": 7.3,
-            "votes": 579
+            "votes": 580
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/teenage_sex_and_death_at_camp_miasma",
@@ -531,7 +531,7 @@
             "id": "tt14905854",
             "url": "https://www.imdb.com/title/tt14905854/",
             "rating": 7.8,
-            "votes": 132836
+            "votes": 132937
           },
           "filmweb": {
             "id": "10035555",
@@ -589,7 +589,7 @@
             "id": "tt28088049",
             "url": "https://www.imdb.com/title/tt28088049/",
             "rating": 6.3,
-            "votes": 4246
+            "votes": 4303
           },
           "filmweb": {
             "id": "10085499",
@@ -647,7 +647,7 @@
             "id": "tt25399154",
             "url": "https://www.imdb.com/title/tt25399154/",
             "rating": 7.6,
-            "votes": 1140
+            "votes": 1143
           },
           "filmweb": {
             "id": "10113205",
@@ -669,7 +669,7 @@
           }
         },
         "longDescription": "Oto prawdziwa historia oszustki, która zwodziła władze i lud. Urodziła się kobietą, acz nosiła po męsku i pod fałszywym imieniem dopuściła wielu niecnych czynów.\n\n„Róża” to jeden z najgłośniejszych tytułów ostatniego Berlinale za sprawą brawurowej roli Sandry Hüller, nagrodzonej Srebrnym Niedźwiedziem za tytułową kreację. Aktorka znana z „Anatomii upadku”, „Projektu Hail Mary”, „Strefy interesów” i „Toniego Erdmanna” wciela się tym razem w tajemniczego żołnierza. Do tej roli przeszła nie tylko niezwykłą fizyczną metamorfozę, ukrywając kobiecość pod męskim strojem, ale też fenomenalnie połączyła szorstkość z łagodnością i humorem.\n\nDo położonej na uboczu wsi przybywa naznaczony wojną żołnierz, który podaje się za spadkobiercę porzuconego gospodarstwa. Obcy budzi początkowo nieufność, ale szybko przekonuje do siebie wieśniaków dzięki przywiezionym dokumentom, niepospolitej pracowitości i gotowości, by podporządkować się surowym regułom protestanckiej wspólnoty. W okrutnych realiach XVII-wiecznych Niemiec ktoś, kto nie ma żadnych praw, może być sobą wyłącznie w przebraniu – dlatego tytułowa postać musi skrzętnie ukrywać swoją prawdziwą naturę i tożsamość.\n\n„Róża” jest przewrotną opowieścią o cenie wolności i o odwadze życia na własnych zasadach. Kwestionujący patriarchalny przywilej i binarny podział płci, chłodno analizujący mechanizmy społeczne, film Markusa Schleinzera okazuje się zaskakująco współczesny. Choć minimalistyczny, to pieczołowicie odtwarza detale życia XVII-wiecznej niemieckiej wsi, a eleganckie, surowe zdjęcia budują gęstą atmosferę narastającego zagrożenia. Schleinzer, podobnie jak Robert Eggers, jest mistrzem stylizacji i niepokojącej aury. Dla obu historia bywa pretekstem do filmowej przypowieści o naszych czasach. „Róża” składa hołd tym, którzy przetarli nam ścieżki, ale też przypomina, że prawo do bycia sobą jest zdobyczą, o którą wciąż trzeba walczyć.",
-        "poster": "media/posters/e21d9062daed32bdd616.webp"
+        "poster": "media/posters/774badb86fa96b1bd72d.webp"
       },
       {
         "hour": "19:15",
@@ -705,7 +705,7 @@
             "id": "tt31216533",
             "url": "https://www.imdb.com/title/tt31216533/",
             "rating": 7.3,
-            "votes": 357
+            "votes": 358
           },
           "filmweb": {
             "id": "10117286",
@@ -763,13 +763,13 @@
             "id": "tt35298123",
             "url": "https://www.imdb.com/title/tt35298123/",
             "rating": 7.2,
-            "votes": 7984
+            "votes": 8212
           },
           "filmweb": {
             "id": "10114411",
             "url": "https://www.filmweb.pl/film/Mi%C5%82o%C5%9B%C4%87%2C+%C5%9Bmier%C4%87+i+dojrzewanie+w+Camp+Miasma-2026-10114411",
             "rating": 7.3,
-            "votes": 579
+            "votes": 580
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/teenage_sex_and_death_at_camp_miasma",
@@ -821,13 +821,13 @@
             "id": "tt33095251",
             "url": "https://www.imdb.com/title/tt33095251/",
             "rating": 7.6,
-            "votes": 6244
+            "votes": 6476
           },
           "filmweb": {
             "id": "10079933",
             "url": "https://www.filmweb.pl/film/Tony-2026-10079933",
             "rating": 7.2,
-            "votes": 477
+            "votes": 479
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/tony_2026",
@@ -843,7 +843,7 @@
           }
         },
         "longDescription": "Anthony Bourdain – buntownik, outsider, głos pokolenia, jeden z najbardziej znanych szefów kuchni i jedna z największych, najbardziej charyzmatycznych osobowości telewizyjnych. Podróżnik, pisarz, odkrywca, którego miliony ludzi na całym świecie pokochały za bezkompromisowy styl, miłość do życia, szacunek do ludzi, odwagę, ciekawość świata i autentyczność. „Tony” to historia początków jego drogi – kim był, zanim stał się Anthonym Bourdainem.\n\nUpalne lato 1976 roku, Provincetown – miasto pulsujące wolnością, seksem i energią. Młody, marzący o karierze pisarza, Tony (Dominic Sessa), by podreperować budżet, trafia na zmywak do restauracji serwującej owoce morza, prowadzonej przez tajemniczego szefa kuchni (Antonio Banderas). W intensywnej, chaotycznej, a jednocześnie niezwykle kreatywnej atmosferze Tony odkrywa swoją pasję, powołanie i to, kim tak naprawdę jest.",
-        "poster": "media/posters/cc7518dd5bf4191117af.webp"
+        "poster": "media/posters/4c5e33e77e2fa1c55b1f.webp"
       },
       {
         "hour": "21:15",
@@ -879,7 +879,7 @@
             "id": "tt28326501",
             "url": "https://www.imdb.com/title/tt28326501/",
             "rating": 6.8,
-            "votes": 1937
+            "votes": 1940
           },
           "filmweb": {
             "id": "10070385",

@@ -1,12 +1,12 @@
 {
   "schemaVersion": 1,
   "date": "2026-09-04",
-  "updatedAt": "2026-09-04T09:33:23.625Z",
+  "updatedAt": "2026-09-04T11:17:30.998Z",
   "source": "https://www.kinomuza.pl/repertoire/day/",
   "day": {
     "id": "00",
     "date": "04.09",
-    "now": "2026-09-04 11:32:25",
+    "now": "2026-09-04 13:16:32",
     "info": [],
     "repertoire": [
       {
@@ -43,7 +43,7 @@
             "id": "tt28088049",
             "url": "https://www.imdb.com/title/tt28088049/",
             "rating": 6.3,
-            "votes": 4246
+            "votes": 4303
           },
           "filmweb": {
             "id": "10085499",
@@ -101,7 +101,7 @@
             "id": "tt36646880",
             "url": "https://www.imdb.com/title/tt36646880/",
             "rating": 6,
-            "votes": 538
+            "votes": 543
           },
           "filmweb": {
             "id": "10079944",
@@ -159,13 +159,13 @@
             "id": "tt33095251",
             "url": "https://www.imdb.com/title/tt33095251/",
             "rating": 7.6,
-            "votes": 6244
+            "votes": 6476
           },
           "filmweb": {
             "id": "10079933",
             "url": "https://www.filmweb.pl/film/Tony-2026-10079933",
             "rating": 7.2,
-            "votes": 477
+            "votes": 479
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/tony_2026",
@@ -181,7 +181,7 @@
           }
         },
         "longDescription": "Anthony Bourdain – buntownik, outsider, głos pokolenia, jeden z najbardziej znanych szefów kuchni i jedna z największych, najbardziej charyzmatycznych osobowości telewizyjnych. Podróżnik, pisarz, odkrywca, którego miliony ludzi na całym świecie pokochały za bezkompromisowy styl, miłość do życia, szacunek do ludzi, odwagę, ciekawość świata i autentyczność. „Tony” to historia początków jego drogi – kim był, zanim stał się Anthonym Bourdainem.\n\nUpalne lato 1976 roku, Provincetown – miasto pulsujące wolnością, seksem i energią. Młody, marzący o karierze pisarza, Tony (Dominic Sessa), by podreperować budżet, trafia na zmywak do restauracji serwującej owoce morza, prowadzonej przez tajemniczego szefa kuchni (Antonio Banderas). W intensywnej, chaotycznej, a jednocześnie niezwykle kreatywnej atmosferze Tony odkrywa swoją pasję, powołanie i to, kim tak naprawdę jest.",
-        "poster": "media/posters/cc7518dd5bf4191117af.webp"
+        "poster": "media/posters/4c5e33e77e2fa1c55b1f.webp"
       },
       {
         "hour": "16:00",
@@ -217,7 +217,7 @@
             "id": "tt28088049",
             "url": "https://www.imdb.com/title/tt28088049/",
             "rating": 6.3,
-            "votes": 4246
+            "votes": 4303
           },
           "filmweb": {
             "id": "10085499",
@@ -275,7 +275,7 @@
             "id": "tt32212403",
             "url": "https://www.imdb.com/title/tt32212403/",
             "rating": 7.3,
-            "votes": 938
+            "votes": 968
           },
           "filmweb": {
             "id": "10117005",
@@ -333,13 +333,13 @@
             "id": "tt35298123",
             "url": "https://www.imdb.com/title/tt35298123/",
             "rating": 7.2,
-            "votes": 7984
+            "votes": 8212
           },
           "filmweb": {
             "id": "10114411",
             "url": "https://www.filmweb.pl/film/Mi%C5%82o%C5%9B%C4%87%2C+%C5%9Bmier%C4%87+i+dojrzewanie+w+Camp+Miasma-2026-10114411",
             "rating": 7.3,
-            "votes": 579
+            "votes": 580
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/teenage_sex_and_death_at_camp_miasma",
@@ -391,7 +391,7 @@
             "id": "tt33764258",
             "url": "https://www.imdb.com/title/tt33764258/",
             "rating": 8.4,
-            "votes": 467598
+            "votes": 470219
           },
           "filmweb": {
             "id": "10068387",
@@ -409,7 +409,7 @@
             "criticsRating": 94,
             "criticsVotes": 506,
             "audienceRating": 97,
-            "audienceVotes": 31738
+            "audienceVotes": 31742
           }
         },
         "longDescription": "Christopher Nolan, który nakręcił takie filmy jak „Interstellar” oraz „Oppenheimer” jest znany z tego, że nie boi się żadnego gatunku filmowego. Po świetnie przyjętym i nagrodzonym 7 Oscarami® „Oppenheimerze” opowiadajacym historię powstania pierwszej bomby atomowej, teraz reżyser pracuje nad adaptacją „Odysei”.\n\nTo opowieść autorstwa Homera uznawana za jedno z najważniejszych dzieł literatury zachodniej. Opowiada o podróży Odyseusza, króla Itaki, który musi stawić czoła licznym wyzwaniom próbując wrócić do domu po wojnie trojańskiej. Powstała już niejedna ekranizacja klasycznego dzieła Homera, ale tym razem film nakręcony zostanie w technologii IMAX i będzie pierwszym tak nowoczesnym podejściem do „Odysei”.\n\nW filmie „Odysei” zobaczymy między innymi: Matta Damona, Toma Hollanda, Anne Hathaway, Zendayę, Roberta Pattinsona, Lupite Nyong’o oraz Charlize Theron.",
@@ -449,7 +449,7 @@
             "id": "tt31216533",
             "url": "https://www.imdb.com/title/tt31216533/",
             "rating": 7.3,
-            "votes": 357
+            "votes": 358
           },
           "filmweb": {
             "id": "10117286",
@@ -508,13 +508,13 @@
             "id": "tt0250223",
             "url": "https://www.imdb.com/title/tt0250223/",
             "rating": 6.7,
-            "votes": 63812
+            "votes": 63822
           },
           "filmweb": {
             "id": "30896",
             "url": "https://www.filmweb.pl/film/Asterix+i+Obelix%3A+Misja+Kleopatra-2002-30896",
             "rating": 7.3,
-            "votes": 234869
+            "votes": 234872
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/asterix-obelix-mission-cleopatre",
@@ -566,7 +566,7 @@
             "id": "tt28326501",
             "url": "https://www.imdb.com/title/tt28326501/",
             "rating": 6.8,
-            "votes": 1937
+            "votes": 1940
           },
           "filmweb": {
             "id": "10070385",
@@ -624,13 +624,13 @@
             "id": "tt33095251",
             "url": "https://www.imdb.com/title/tt33095251/",
             "rating": 7.6,
-            "votes": 6244
+            "votes": 6476
           },
           "filmweb": {
             "id": "10079933",
             "url": "https://www.filmweb.pl/film/Tony-2026-10079933",
             "rating": 7.2,
-            "votes": 477
+            "votes": 479
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/tony_2026",
@@ -646,7 +646,7 @@
           }
         },
         "longDescription": "Anthony Bourdain – buntownik, outsider, głos pokolenia, jeden z najbardziej znanych szefów kuchni i jedna z największych, najbardziej charyzmatycznych osobowości telewizyjnych. Podróżnik, pisarz, odkrywca, którego miliony ludzi na całym świecie pokochały za bezkompromisowy styl, miłość do życia, szacunek do ludzi, odwagę, ciekawość świata i autentyczność. „Tony” to historia początków jego drogi – kim był, zanim stał się Anthonym Bourdainem.\n\nUpalne lato 1976 roku, Provincetown – miasto pulsujące wolnością, seksem i energią. Młody, marzący o karierze pisarza, Tony (Dominic Sessa), by podreperować budżet, trafia na zmywak do restauracji serwującej owoce morza, prowadzonej przez tajemniczego szefa kuchni (Antonio Banderas). W intensywnej, chaotycznej, a jednocześnie niezwykle kreatywnej atmosferze Tony odkrywa swoją pasję, powołanie i to, kim tak naprawdę jest.",
-        "poster": "media/posters/cc7518dd5bf4191117af.webp"
+        "poster": "media/posters/4c5e33e77e2fa1c55b1f.webp"
       },
       {
         "hour": "21:15",
@@ -682,13 +682,13 @@
             "id": "tt35298123",
             "url": "https://www.imdb.com/title/tt35298123/",
             "rating": 7.2,
-            "votes": 7984
+            "votes": 8212
           },
           "filmweb": {
             "id": "10114411",
             "url": "https://www.filmweb.pl/film/Mi%C5%82o%C5%9B%C4%87%2C+%C5%9Bmier%C4%87+i+dojrzewanie+w+Camp+Miasma-2026-10114411",
             "rating": 7.3,
-            "votes": 579
+            "votes": 580
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/teenage_sex_and_death_at_camp_miasma",

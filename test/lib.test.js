@@ -96,6 +96,17 @@ test("kończy repertuar na pierwszym pustym dniu", () => {
   assert.deepEqual(trimAtFirstEmptyDay(days).map((day) => day.id), ["00", "01"]);
 });
 
+test("po ostatnim seansie dnia zaczyna od kolejnego dostępnego dnia", () => {
+  const days = [
+    { id: "00", repertoire: [] },
+    { id: "01", repertoire: [{ title: "Jutro" }] },
+    { id: "02", repertoire: [{ title: "Pojutrze" }] },
+    { id: "03", repertoire: [] },
+    { id: "04", repertoire: [{ title: "Nie pokazuj" }] },
+  ];
+  assert.deepEqual(trimAtFirstEmptyDay(days).map((day) => day.id), ["01", "02"]);
+});
+
 test("wyznacza nazwę dziennego archiwum z daty seansu", () => {
   assert.equal(dayIso({ repertoire: [{ datetime: "2026-09-04 18:00:00" }] }), "2026-09-04");
   assert.equal(dayIso({ repertoire: [] }), "");

@@ -109,8 +109,11 @@ export function normalizeDay(day) {
 }
 
 export function trimAtFirstEmptyDay(days) {
-  const firstEmpty = days.findIndex((day) => day.repertoire.length === 0);
-  return firstEmpty === -1 ? days : days.slice(0, firstEmpty);
+  const firstAvailable = days.findIndex((day) => day.repertoire.length > 0);
+  if (firstAvailable === -1) return [];
+  const available = days.slice(firstAvailable);
+  const firstEmpty = available.findIndex((day) => day.repertoire.length === 0);
+  return firstEmpty === -1 ? available : available.slice(0, firstEmpty);
 }
 
 export function dayIso(day) {

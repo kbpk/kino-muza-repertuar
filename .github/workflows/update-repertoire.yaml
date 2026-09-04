@@ -1,0 +1,103 @@
+name: Aktualizuj repertuar
+
+on:
+  schedule:
+    # Kandydaci dla 12:00 i 18:00 w Polsce w czasie letnim i zimowym.
+    - cron: "0 10,11,16,17 * * *"
+    # Kandydaci dla dodatkowych wtorkowych uruchomień o 14:00, 16:00 i 17:00.
+    - cron: "0 12-15 * * 2"
+  workflow_dispatch:
+
+permissions:
+  actions: write
+  contents: write
+  pull-requests: write
+
+concurrency:
+  group: repertoire-update
+  cancel-in-progress: false
+
+jobs:
+  schedule-gate:
+    runs-on: ubuntu-latest
+    outputs:
+      run: ${{ steps.check.outputs.run }}
+    steps:
+      - name: Sprawdź godzinę w Polsce
+        id: check
+        env:
+          EVENT_NAME: ${{ github.event_name }}
+        run: |
+          if [ "$EVENT_NAME" != "schedule" ]; then
+            echo "run=true" >> "$GITHUB_OUTPUT"
+            exit 0
+          fi
+
+          weekday="$(TZ=Europe/Warsaw date +%u)"
+          hour="$(TZ=Europe/Warsaw date +%H)"
+          run=false
+          if [ "$hour" = "12" ] || [ "$hour" = "18" ]; then
+            run=true
+          elif [ "$weekday" = "2" ] && { [ "$hour" = "14" ] || [ "$hour" = "16" ] || [ "$hour" = "17" ]; }; then
+            run=true
+          fi
+          echo "run=$run" >> "$GITHUB_OUTPUT"
+
+  update:
+    needs: schedule-gate
+    if: needs.schedule-gate.outputs.run == 'true'
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+          cache: npm
+      - name: Zainstaluj zależności buildowe
+        run: npm ci
+      - name: Przywróć cache danych zewnętrznych
+        uses: actions/cache@v4
+        with:
+          path: .cache
+          key: muza-metadata-${{ github.run_id }}
+          restore-keys: muza-metadata-
+      - name: Testy
+        run: npm test
+      - name: Pobierz bieżący repertuar
+        run: npm run build:data
+      - name: Utwórz PR z aktualizacją
+        id: update-pr
+        env:
+          GH_TOKEN: ${{ github.token }}
+          UPDATE_BRANCH: automation/repertoire-${{ github.run_id }}
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add public/data/index.json public/data/days public/media/posters
+          if git diff --cached --quiet; then
+            echo "Brak zmian w repertuarze."
+            exit 0
+          fi
+
+          git switch -c "$UPDATE_BRANCH"
+          git commit -m "data: update repertoire"
+          git push --set-upstream origin "$UPDATE_BRANCH"
+          pr_url="$(gh pr create \
+            --base main \
+            --head "$UPDATE_BRANCH" \
+            --title "data: aktualizacja repertuaru" \
+            --body "Automatyczna aktualizacja z przebiegu $GITHUB_SERVER_URL/$GITHUB_REPOSITORY/actions/runs/$GITHUB_RUN_ID.")"
+          echo "url=$pr_url" >> "$GITHUB_OUTPUT"
+      - name: Automatycznie scal PR po testach
+        if: steps.update-pr.outputs.url != ''
+        env:
+          GH_TOKEN: ${{ github.token }}
+          PR_URL: ${{ steps.update-pr.outputs.url }}
+        run: gh pr merge "$PR_URL" --squash --delete-branch
+      - name: Uruchom publikację scalonej aktualizacji
+        if: steps.update-pr.outputs.url != ''
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: gh workflow run deploy-pages.yaml --ref main

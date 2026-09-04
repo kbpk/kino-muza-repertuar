@@ -78,7 +78,7 @@ main { min-height: calc(100vh - 120px); padding: 20px 0 48px; }
 .tab { border: 0; border-radius: 5px; padding: 7px 13px; color: var(--muted); background: transparent; cursor: pointer; }
 .tab[aria-selected="true"] { color: var(--selected-text); background: var(--text); }
 .filters { display: flex; flex-wrap: wrap; align-items: end; justify-content: flex-end; gap: 8px; }
-.filter-field { display: grid; grid-template-rows: 16px 40px; gap: 2px; color: var(--muted); font-size: 11px; }
+.filter-field { display: grid; min-width: 0; grid-template-rows: 16px 40px; gap: 2px; color: var(--muted); font-size: 11px; }
 input[type="search"], .time-input, .date-input { height: 40px; border: 1px solid var(--line); border-radius: 7px; padding: 0 10px; color: var(--text); background: var(--surface); }
 input[type="search"] { width: 210px; }
 .time-input { width: 108px; min-width: 0; font-variant-numeric: tabular-nums; }
@@ -89,11 +89,12 @@ input[type="search"] { width: 210px; }
 .filter-clear[hidden] { display: none; }
 input:focus-visible, button:focus-visible, a:focus-visible, summary:focus-visible { outline: 2px solid var(--accent); outline-offset: 2px; }
 .status { min-height: 0; margin: 0; color: var(--muted); font-size: 13px; }
-.day-picker { display: grid; grid-template-columns: 44px minmax(0, 1fr) 44px; gap: 4px; margin-bottom: 24px; }
-.day-strip { display: flex; min-width: 0; gap: 4px; overflow-x: auto; padding-bottom: 4px; }
+.day-picker { display: grid; grid-template-columns: 44px minmax(0, 1fr) 44px; align-items: center; gap: 4px; margin-bottom: 24px; }
+.day-strip { display: flex; min-width: 0; gap: 4px; overflow-x: auto; padding: 2px; scrollbar-width: none; -webkit-overflow-scrolling: touch; overscroll-behavior-inline: contain; touch-action: pan-x pan-y; }
+.day-strip::-webkit-scrollbar { display: none; width: 0; height: 0; }
 .day-button { flex: 1 0 58px; min-width: 58px; border: 1px solid var(--line); border-radius: 6px; padding: 7px 4px; color: var(--muted); background: var(--surface); cursor: pointer; }
 .day-button.active { border-color: var(--text); color: var(--selected-text); background: var(--text); }
-.date-arrow { min-width: 44px; border: 1px solid var(--line); border-radius: 6px; color: var(--text); background: var(--soft); font-size: 24px; line-height: 1; cursor: pointer; }
+.date-arrow { display: grid; width: 40px; height: 44px; min-width: 0; place-items: center; justify-self: center; border: 1px solid var(--line); border-radius: 6px; padding: 0; color: var(--text); background: var(--soft); font-size: 22px; line-height: 1; cursor: pointer; }
 .date-arrow:hover:not(:disabled) { border-color: var(--text); }
 .date-arrow:disabled { color: var(--disabled); background: var(--disabled-background); cursor: default; }
 .day-label, .day-date { display: block; }
@@ -126,7 +127,7 @@ input:focus-visible, button:focus-visible, a:focus-visible, summary:focus-visibl
 .facts { color: var(--muted); }
 .times { display: flex; flex-wrap: wrap; gap: 7px; justify-content: flex-end; }
 .showtime { display: inline-flex; overflow: hidden; align-items: stretch; border: 1px solid var(--show-border); border-radius: 5px; color: var(--text); background: var(--surface); font-size: 14px; text-decoration: none; font-variant-numeric: tabular-nums; }
-.show-hour { padding: 5px 7px; }
+.show-hour { display: flex; align-items: center; padding: 5px 7px; }
 .show-hall { display: flex; align-items: center; border-left: 1px solid var(--show-divider); padding: 5px 7px; color: var(--hall-text); background: var(--soft); font-size: 12px; font-weight: 700; text-transform: uppercase; }
 a.showtime:hover { border-color: var(--accent); box-shadow: inset 0 0 0 1px var(--accent); }
 .no-ticket { opacity: .65; }
@@ -149,8 +150,8 @@ footer { padding: 18px 0 32px; border-top: 1px solid var(--line); color: var(--m
   .tabs { align-self: flex-start; }
   .filters { display: flex; width: 100%; }
   .filter-field { grid-template-rows: 16px 44px; }
-  .date-filter, .time-filter { flex: 1 1 calc(50% - 4px); }
-  .date-filter .date-input, .time-filter .time-input { width: 100%; }
+  .date-filter, .time-filter { width: calc(50% - 4px); max-width: calc(50% - 4px); flex: 1 1 calc(50% - 4px); min-width: 0; }
+  .date-filter .date-input, .time-filter .time-input { display: block; width: 100%; min-width: 0; max-width: 100%; }
   .search-filter { flex: 1 1 calc(100% - 52px); }
   input[type="search"] { width: 100%; }
   .day-button { flex-basis: 60px; }

@@ -107,6 +107,19 @@ export function nextAvailableDate(availableDates, selectedDate) {
   return availableDates.find((date) => date > selectedDate) || null;
 }
 
+export function mergeDaysByDate(...collections) {
+  const days = new Map();
+  for (const collection of collections) {
+    for (const day of collection || []) {
+      const date = fullDate(day);
+      if (date) days.set(date, day);
+    }
+  }
+  return [...days.entries()]
+    .sort(([left], [right]) => left.localeCompare(right))
+    .map(([, day]) => day);
+}
+
 function warsawClock(value) {
   const parts = Object.fromEntries(new Intl.DateTimeFormat("en-CA", {
     timeZone: "Europe/Warsaw",

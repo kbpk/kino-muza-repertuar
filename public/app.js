@@ -1,4 +1,4 @@
-import { dateLabel, detailsMetadata, externalLinks, fullDate, groupMovies, isRepertoireStale, metadata, nextAvailableDate, previousAvailableDate, searchMatches, showingMatchesHall, showingMatchesTime, sortMovies } from "./lib.js";
+import { dateLabel, detailsMetadata, externalLinks, fullDate, groupMovies, isRepertoireStale, mergeDaysByDate, metadata, nextAvailableDate, previousAvailableDate, searchMatches, showingMatchesHall, showingMatchesTime, sortMovies } from "./lib.js";
 
 const VIEW_STORAGE_KEY = "muza-view";
 const storedView = (() => {
@@ -353,11 +353,25 @@ function renderDayPicker(days, target) {
   return dayStrip;
 }
 
+function revealSelectedDay(dayStrip) {
+  const selected = dayStrip.querySelector(".day-button.active");
+  if (!selected) return;
+  const stripRect = dayStrip.getBoundingClientRect();
+  const selectedRect = selected.getBoundingClientRect();
+  if (selectedRect.left < stripRect.left) {
+    dayStrip.scrollLeft += selectedRect.left - stripRect.left;
+  } else if (selectedRect.right > stripRect.right) {
+    dayStrip.scrollLeft += selectedRect.right - stripRect.right;
+  }
+  state.dayStripScrollLeft = dayStrip.scrollLeft;
+}
+
 function renderDays() {
   const previousStrip = content.querySelector(".day-strip");
   if (previousStrip) state.dayStripScrollLeft = previousStrip.scrollLeft;
   const wrapper = element("div");
-  const dayStrip = renderDayPicker(state.currentDays, wrapper);
+  const pickerDays = mergeDaysByDate(state.currentDays, state.dayCache.values());
+  const dayStrip = renderDayPicker(pickerDays, wrapper);
   const day = state.dayCache.get(state.selectedDate) || state.currentDays[0];
   const movies = filteredMovies([day]);
   const heading = element("div", "list-heading");
@@ -379,6 +393,7 @@ function renderDays() {
   wrapper.append(list);
   content.replaceChildren(wrapper);
   dayStrip.scrollLeft = state.dayStripScrollLeft;
+  revealSelectedDay(dayStrip);
   fitDayLabels(dayStrip);
   if ("ResizeObserver" in window) {
     dayStripResizeObserver = new ResizeObserver(() => fitDayLabels(dayStrip));

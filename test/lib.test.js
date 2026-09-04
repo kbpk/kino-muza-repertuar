@@ -1,6 +1,6 @@
 import assert from "node:assert/strict";
 import test from "node:test";
-import { dateLabel, detailsMetadata, externalLinks, groupMovies, isRepertoireStale, metadata, nextAvailableDate, previousAvailableDate, searchMatches, showingEndMinutes, showingMatchesHall, showingMatchesTime, sortMovies } from "../public/lib.js";
+import { dateLabel, detailsMetadata, externalLinks, fullDate, groupMovies, isRepertoireStale, mergeDaysByDate, metadata, nextAvailableDate, previousAvailableDate, searchMatches, showingEndMinutes, showingMatchesHall, showingMatchesTime, sortMovies } from "../public/lib.js";
 import { dayIso, normalizeDay, preservePastShowings, trimAtFirstEmptyDay } from "../scripts/fetch-repertoire.mjs";
 
 test("grupuje seanse tego samego filmu", () => {
@@ -174,6 +174,22 @@ test("historia wskazuje poprzedni dostępny dzień", () => {
   assert.equal(previousAvailableDate(dates, "2026-09-01"), null);
   assert.equal(nextAvailableDate(dates, "2026-09-04"), "2026-09-05");
   assert.equal(nextAvailableDate(dates, "2026-09-05"), null);
+});
+
+test("pasek dni dołącza załadowaną historię bez duplikowania bieżących dni", () => {
+  const current = [
+    { date: "2026-09-05", repertoire: [] },
+    { date: "2026-09-06", repertoire: [] },
+  ];
+  const cache = new Map([
+    ["2026-09-04", { date: "2026-09-04", repertoire: [] }],
+    ["2026-09-05", current[0]],
+  ]);
+  assert.deepEqual(mergeDaysByDate(current, cache.values()).map(fullDate), [
+    "2026-09-04",
+    "2026-09-05",
+    "2026-09-06",
+  ]);
 });
 
 test("ostrzega po nieudanej oczekiwanej aktualizacji", () => {

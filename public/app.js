@@ -1,4 +1,4 @@
-import { dateLabel, externalLinks, fullDate, groupMovies, isRepertoireStale, metadata, nextAvailableDate, previousAvailableDate, searchMatches, showingMatchesTime } from "./lib.js";
+import { dateLabel, detailsMetadata, externalLinks, fullDate, groupMovies, isRepertoireStale, metadata, nextAvailableDate, previousAvailableDate, searchMatches, showingMatchesHall, showingMatchesTime, sortMovies } from "./lib.js";
 
 const VIEW_STORAGE_KEY = "muza-view";
 const storedView = (() => {
@@ -9,7 +9,7 @@ const storedView = (() => {
     return "days";
   }
 })();
-const state = { index: null, currentDays: [], dayCache: new Map(), view: storedView, query: "", startTime: "", endTime: "", dateFrom: "", dateTo: "", selectedDate: null };
+const state = { index: null, currentDays: [], dayCache: new Map(), view: storedView, query: "", startTime: "", endTime: "", hallValues: [], halls: null, sortBy: "title", dateFrom: "", dateTo: "", selectedDate: null, dayStripScrollLeft: 0 };
 const content = document.querySelector("#content");
 const updated = document.querySelector("#updated");
 const freshnessWarning = document.querySelector("#freshness-warning");
@@ -17,7 +17,14 @@ const status = document.querySelector("#status");
 const search = document.querySelector("#search");
 const startTime = document.querySelector("#start-time");
 const endTime = document.querySelector("#end-time");
+const hallDropdown = document.querySelector("#hall-dropdown");
+const hallSummary = document.querySelector("#hall-summary");
+const hallOptions = document.querySelector("#hall-options");
+const hallSelectAll = document.querySelector("#hall-select-all");
+const hallSelectNone = document.querySelector("#hall-select-none");
+const sort = document.querySelector("#sort");
 const filterClear = document.querySelector("#filter-clear");
+const searchRow = document.querySelector("#search-row");
 const dateFilters = [...document.querySelectorAll(".date-filter")];
 const dateFrom = document.querySelector("#date-from");
 const dateTo = document.querySelector("#date-to");
@@ -26,6 +33,7 @@ const themeToggle = document.querySelector("#theme-toggle");
 const themeColor = document.querySelector("#theme-color");
 let detailsId = 0;
 let movieListObserver = null;
+let dayStripResizeObserver = null;
 const MOVIE_RENDER_BATCH = 20;
 for (const tab of tabs) tab.setAttribute("aria-selected", String(tab.dataset.view === state.view));
 for (const filter of dateFilters) filter.hidden = state.view !== "movies";
@@ -81,15 +89,18 @@ function matches(movie) {
 }
 
 function filteredMovies(days, from = "", to = "") {
-  return groupMovies(days.filter((day) => {
+  const movies = groupMovies(days.filter((day) => {
     const date = fullDate(day);
     return (!from || date >= from) && (!to || date <= to);
   }).map((day) => ({
     ...day,
     repertoire: (day?.repertoire || []).filter((show) => (
-      matches(show) && showingMatchesTime(show, show.duration, state.startTime, state.endTime)
+      matches(show)
+      && showingMatchesTime(show, show.duration, state.startTime, state.endTime)
+      && showingMatchesHall(show, state.halls)
     )),
   })));
+  return sortMovies(movies, state.sortBy);
 }
 
 function timeFiltersActive() {
@@ -100,8 +111,34 @@ function dateFiltersActive() {
   return Boolean(state.dateFrom || state.dateTo);
 }
 
+function hallFilterActive() {
+  return state.halls !== null && state.halls.size !== state.hallValues.length;
+}
+
+function updateHallControls() {
+  const selected = state.halls || new Set(state.hallValues);
+  const allSelected = selected.size === state.hallValues.length;
+  hallSummary.textContent = allSelected
+    ? "Wszystkie"
+    : selected.size === 0
+      ? "Brak"
+      : [...selected].sort((left, right) => left.localeCompare(right, "pl", { numeric: true })).join(", ");
+  hallSelectAll.disabled = allSelected;
+  hallSelectNone.disabled = selected.size === 0;
+}
+
+function selectHalls(values) {
+  state.halls = new Set(values);
+  for (const checkbox of hallOptions.querySelectorAll("input")) checkbox.checked = state.halls.has(checkbox.value);
+  updateHallControls();
+  updateFilterClear();
+  render();
+}
+
 function updateFilterClear() {
-  filterClear.hidden = !timeFiltersActive() && !(state.view === "movies" && dateFiltersActive());
+  const visible = timeFiltersActive() || hallFilterActive() || (state.view === "movies" && dateFiltersActive());
+  filterClear.hidden = !visible;
+  searchRow.classList.toggle("has-clear", visible);
 }
 
 function movieLinks(movie) {
@@ -113,10 +150,9 @@ function movieLinks(movie) {
     const value = percent ? `${rating}%` : number.format(rating);
     return votes == null ? `${name} ${value}` : `${name} ${value} (${number.format(votes)})`;
   };
-  if (movie.movieLink) wrapper.append(link("Muza", movie.movieLink));
   wrapper.append(
-    link(score("IMDb", movie.external?.imdb?.rating, movie.external?.imdb?.votes), external.imdb),
     link(score("Filmweb", movie.external?.filmweb?.rating, movie.external?.filmweb?.votes), external.filmweb),
+    link(score("IMDb", movie.external?.imdb?.rating, movie.external?.imdb?.votes), external.imdb),
     link(score("Rotten Tomatoes", movie.external?.rottenTomatoes?.criticsRating, movie.external?.rottenTomatoes?.criticsVotes, true), external.rottenTomatoes),
   );
   return wrapper;
@@ -124,7 +160,7 @@ function movieLinks(movie) {
 
 function details(movie) {
   const hasLongDescription = movie.longDescription && movie.longDescription.trim() !== movie.description?.trim();
-  const button = element("button", "details-toggle", hasLongDescription ? "Pełny opis" : "Szczegóły");
+  const button = element("button", "details-toggle", "Szczegóły");
   const body = element("div", "details-body");
   const id = `movie-details-${++detailsId}`;
   button.type = "button";
@@ -132,27 +168,30 @@ function details(movie) {
   button.setAttribute("aria-controls", id);
   body.id = id;
   body.hidden = true;
-  if (hasLongDescription) body.append(element("p", "description", movie.longDescription));
-  const facts = [
-    movie.deaf && "napisy dla niesłyszących",
-    movie.ad && "audiodeskrypcja",
-    movie.tape35mm && "35 mm",
-    movie.prePremier && "przedpremiera",
-    movie.cycle,
-    movie.event,
-  ].filter(Boolean);
-  if (facts.length) body.append(element("p", "facts", facts.join(" · ")));
+  const facts = detailsMetadata(movie);
+  if (facts.length) {
+    const list = element("dl", "details-meta");
+    for (const [name, value] of facts) {
+      list.append(element("dt", "details-name", name), element("dd", "details-value", value));
+    }
+    body.append(list);
+  }
+  if (hasLongDescription) body.append(element("p", "description long-description", movie.longDescription));
   button.addEventListener("click", () => {
     body.hidden = !body.hidden;
     button.setAttribute("aria-expanded", String(!body.hidden));
   });
-  return { button, body };
+  return { button: facts.length || hasLongDescription ? button : null, body };
 }
 
 function titleBlock(movie) {
   const block = element("div", "title-block");
-  const heading = element("h3", "movie-title", movie.title);
-  if (movie.originalTitle && movie.originalTitle !== movie.title) heading.append(element("span", "original-title", ` (${movie.originalTitle})`));
+  const heading = element("h3", "movie-title");
+  const title = movie.movieLink
+    ? link(movie.title, movie.movieLink, "movie-title-link")
+    : element("span", "movie-title-text", movie.title);
+  if (movie.originalTitle && movie.originalTitle !== movie.title) title.append(element("span", "original-title", ` (${movie.originalTitle})`));
+  heading.append(title);
   block.append(heading);
   const meta = metadata(movie);
   if (meta.length) {
@@ -163,8 +202,13 @@ function titleBlock(movie) {
   if (movie.description) block.append(element("p", "short-description", movie.description));
   const expanded = details(movie);
   const actions = element("div", "movie-actions");
-  actions.append(movieLinks(movie), expanded.button);
-  block.append(actions, expanded.body);
+  actions.append(movieLinks(movie));
+  if (expanded.button) {
+    actions.append(expanded.button);
+    block.append(actions, expanded.body);
+  } else {
+    block.append(actions);
+  }
   return block;
 }
 
@@ -196,10 +240,69 @@ function timeWithHall(show) {
   return item;
 }
 
+function fitDayLabels(dayStrip) {
+  const labels = [...dayStrip.querySelectorAll(".day-label.has-short")];
+  for (const label of labels) label.classList.remove("is-compact");
+  for (const label of labels) {
+    const full = label.querySelector(".day-label-full");
+    label.classList.toggle("is-compact", full.scrollWidth > label.clientWidth);
+  }
+}
+
+function enableDayStripDragging(dayStrip) {
+  let pointerId = null;
+  let startX = 0;
+  let startScrollLeft = 0;
+  let dragged = false;
+  let suppressClick = false;
+
+  dayStrip.addEventListener("pointerdown", (event) => {
+    if (event.pointerType !== "mouse" || event.button !== 0) return;
+    pointerId = event.pointerId;
+    startX = event.clientX;
+    startScrollLeft = dayStrip.scrollLeft;
+    dragged = false;
+  });
+  dayStrip.addEventListener("pointermove", (event) => {
+    if (event.pointerId !== pointerId) return;
+    const distance = event.clientX - startX;
+    if (Math.abs(distance) > 4) {
+      dragged = true;
+      dayStrip.classList.add("dragging");
+      if (!dayStrip.hasPointerCapture(pointerId)) dayStrip.setPointerCapture(pointerId);
+    }
+    if (!dragged) return;
+    event.preventDefault();
+    dayStrip.scrollLeft = startScrollLeft - distance;
+  });
+  const finishDragging = (event) => {
+    if (event.pointerId !== pointerId) return;
+    if (dragged) {
+      suppressClick = true;
+      setTimeout(() => { suppressClick = false; }, 0);
+    }
+    dayStrip.classList.remove("dragging");
+    if (dayStrip.hasPointerCapture(pointerId)) dayStrip.releasePointerCapture(pointerId);
+    pointerId = null;
+  };
+  dayStrip.addEventListener("pointerup", finishDragging);
+  dayStrip.addEventListener("pointercancel", finishDragging);
+  dayStrip.addEventListener("click", (event) => {
+    if (!suppressClick) return;
+    event.preventDefault();
+    event.stopPropagation();
+  }, true);
+  dayStrip.addEventListener("dragstart", (event) => event.preventDefault());
+}
+
 function renderDayPicker(days, target) {
   const picker = element("div", "day-picker");
   const dayStrip = element("div", "day-strip");
   picker.setAttribute("aria-label", "Wybierz dzień");
+  dayStrip.addEventListener("scroll", () => {
+    state.dayStripScrollLeft = dayStrip.scrollLeft;
+  }, { passive: true });
+  enableDayStripDragging(dayStrip);
   const previousDate = previousAvailableDate(state.index.availableDates, state.selectedDate);
   const nextDate = nextAvailableDate(state.index.availableDates, state.selectedDate);
   const navigationButton = (label, date, direction) => {
@@ -225,9 +328,20 @@ function renderDayPicker(days, target) {
   for (const day of days) {
     const date = fullDate(day);
     const button = element("button", "day-button");
+    const fullLabel = dateLabel(day).split(",")[0];
+    const label = element("span", "day-label");
+    const shortLabel = date
+      ? new Intl.DateTimeFormat("pl-PL", { weekday: "short" }).format(new Date(`${date}T12:00:00`))
+      : fullLabel;
     button.type = "button";
+    button.setAttribute("aria-label", dateLabel(day));
     button.classList.toggle("active", date === state.selectedDate);
-    button.append(element("span", "day-label", dateLabel(day).split(",")[0]), element("strong", "day-date", day.date));
+    label.append(element("span", "day-label-full", fullLabel));
+    if (fullLabel.length > 7) {
+      label.classList.add("has-short");
+      label.append(element("span", "day-label-short", shortLabel));
+    }
+    button.append(label, element("strong", "day-date", day.date));
     button.addEventListener("click", () => {
       state.selectedDate = date;
       render();
@@ -236,11 +350,14 @@ function renderDayPicker(days, target) {
   }
   picker.append(dayStrip, navigationButton("›", nextDate, "Następny"));
   target.append(picker);
+  return dayStrip;
 }
 
 function renderDays() {
+  const previousStrip = content.querySelector(".day-strip");
+  if (previousStrip) state.dayStripScrollLeft = previousStrip.scrollLeft;
   const wrapper = element("div");
-  renderDayPicker(state.currentDays, wrapper);
+  const dayStrip = renderDayPicker(state.currentDays, wrapper);
   const day = state.dayCache.get(state.selectedDate) || state.currentDays[0];
   const movies = filteredMovies([day]);
   const heading = element("div", "list-heading");
@@ -261,6 +378,12 @@ function renderDays() {
   if (!movies.length) list.append(element("p", "empty", state.query ? "Brak pasujących filmów." : "Brak zaplanowanych seansów."));
   wrapper.append(list);
   content.replaceChildren(wrapper);
+  dayStrip.scrollLeft = state.dayStripScrollLeft;
+  fitDayLabels(dayStrip);
+  if ("ResizeObserver" in window) {
+    dayStripResizeObserver = new ResizeObserver(() => fitDayLabels(dayStrip));
+    dayStripResizeObserver.observe(dayStrip);
+  }
   status.textContent = "";
 }
 
@@ -332,11 +455,15 @@ function renderMovies(days) {
     while (rendered < movies.length) appendBatch();
     sentinel.remove();
   }
-  status.textContent = state.query || timeFiltersActive() || dateFiltersActive() ? `Znaleziono: ${movies.length}` : "";
+  status.textContent = state.query || timeFiltersActive() || hallFilterActive() || dateFiltersActive() ? `Znaleziono: ${movies.length}` : "";
 }
 
 function render() {
   if (!state.index) return;
+  if (dayStripResizeObserver) {
+    dayStripResizeObserver.disconnect();
+    dayStripResizeObserver = null;
+  }
   if (movieListObserver) {
     movieListObserver.disconnect();
     movieListObserver = null;
@@ -360,6 +487,21 @@ async function load() {
     if (!response.ok) throw new Error(`HTTP ${response.status}`);
     state.index = await response.json();
     state.currentDays = await Promise.all(state.index.currentDates.map(loadDay));
+    const halls = [...new Set(state.currentDays.flatMap((day) => day.repertoire || []).map((show) => String(show.hall || "").trim()).filter(Boolean))]
+      .sort((left, right) => left.localeCompare(right, "pl", { numeric: true }));
+    state.hallValues = halls;
+    state.halls = new Set(halls);
+    for (const value of halls) {
+      const label = element("label", "hall-option");
+      const checkbox = element("input", "hall-checkbox");
+      checkbox.type = "checkbox";
+      checkbox.value = value;
+      checkbox.checked = true;
+      checkbox.setAttribute("aria-label", `Sala ${value}`);
+      label.append(checkbox, element("span", "", value));
+      hallOptions.append(label);
+    }
+    updateHallControls();
     const availableDates = state.currentDays.map(fullDate).filter(Boolean).sort();
     if (availableDates.length) {
       for (const input of [dateFrom, dateTo]) {
@@ -429,6 +571,30 @@ for (const input of [startTime, endTime]) {
   input.addEventListener("change", updateTimeFilters);
 }
 
+sort.addEventListener("change", () => {
+  state.sortBy = sort.value;
+  render();
+});
+
+hallOptions.addEventListener("change", () => {
+  state.halls = new Set([...hallOptions.querySelectorAll("input:checked")].map((input) => input.value));
+  updateHallControls();
+  updateFilterClear();
+  render();
+});
+
+hallSelectAll.addEventListener("click", () => selectHalls(state.hallValues));
+hallSelectNone.addEventListener("click", () => selectHalls([]));
+
+document.addEventListener("click", (event) => {
+  if (hallDropdown.open && !hallDropdown.contains(event.target)) hallDropdown.open = false;
+});
+hallDropdown.addEventListener("keydown", (event) => {
+  if (event.key !== "Escape") return;
+  hallDropdown.open = false;
+  hallSummary.focus();
+});
+
 filterClear.addEventListener("click", () => {
   dateFrom.value = "";
   dateTo.value = "";
@@ -438,8 +604,7 @@ filterClear.addEventListener("click", () => {
   state.dateTo = "";
   state.startTime = "";
   state.endTime = "";
-  filterClear.hidden = true;
-  render();
+  selectHalls(state.hallValues);
 });
 
 load();

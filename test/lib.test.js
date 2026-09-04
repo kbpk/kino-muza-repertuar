@@ -1,7 +1,7 @@
 import assert from "node:assert/strict";
 import test from "node:test";
-import { dateLabel, externalLinks, groupMovies, isRepertoireStale, metadata, nextAvailableDate, previousAvailableDate, searchMatches, showingEndMinutes, showingMatchesTime } from "../public/lib.js";
-import { dayIso, normalizeDay, trimAtFirstEmptyDay } from "../scripts/fetch-repertoire.mjs";
+import { dateLabel, detailsMetadata, externalLinks, groupMovies, isRepertoireStale, metadata, nextAvailableDate, previousAvailableDate, searchMatches, showingEndMinutes, showingMatchesHall, showingMatchesTime, sortMovies } from "../public/lib.js";
+import { dayIso, normalizeDay, preservePastShowings, trimAtFirstEmptyDay } from "../scripts/fetch-repertoire.mjs";
 
 test("grupuje seanse tego samego filmu", () => {
   const movie = { title: "Film", year: "2026", movieLink: "https://example.test/film", hour: "18:00" };
@@ -45,13 +45,39 @@ test("opisuje dziś i jutro po polsku", () => {
   assert.equal(dateLabel({ repertoire: [{ datetime: "2026-09-05 18:00:00" }] }, now), "Jutro, 5 września");
 });
 
-test("metadane zawierają datę premiery", () => {
-  assert.deepEqual(metadata({ director: " Jan Kowalski ", year: "2026", premiereDate: "2026-09-04" }), [
+test("metadane pod tytułem zawierają tylko najważniejsze informacje", () => {
+  assert.deepEqual(metadata({ director: " Jan Kowalski ", genres: ["Dramat", "Komedia"], countries: "Polska", age: "16", year: "2026", premiereDate: "2026-09-04" }), [
     "reż. Jan Kowalski",
     "2026",
-    "premiera 2026-09-04",
+    "Dramat, Komedia",
     "język: -",
     "napisy: -",
+  ]);
+});
+
+test("szczegóły zawierają dodatkowe informacje Muzy bez daty premiery", () => {
+  assert.deepEqual(detailsMetadata({
+    countries: "Polska",
+    age: "16",
+    cycle: "Klasyka",
+    event: "Pokaz 4K",
+    deaf: true,
+    ad: true,
+    tape35mm: true,
+    prePremier: true,
+    ticketPrice: "25 zł",
+    ticketHalfPrice: "20 zł",
+    premiereDate: "2026-09-04",
+  }), [
+    ["Kraj produkcji", "Polska"],
+    ["Wiek", "16+"],
+    ["Cykl", "Klasyka"],
+    ["Wydarzenie", "Pokaz 4K"],
+    ["Dostępność", "napisy dla niesłyszących, audiodeskrypcja"],
+    ["Format", "35 mm"],
+    ["Status", "przedpremiera"],
+    ["Bilet normalny", "25 zł"],
+    ["Bilet ulgowy", "20 zł"],
   ]);
 });
 
@@ -75,12 +101,27 @@ test("wyznacza nazwę dziennego archiwum z daty seansu", () => {
   assert.equal(dayIso({ repertoire: [] }), "");
 });
 
-test("wyszukiwanie rozumie skróty, polskie znaki i literówki", () => {
-  const movie = { title: "Gorzkie święta", director: "Pedro Almodóvar", countries: "Hiszpania" };
+test("zachowuje zakończone seanse, ale ufa Muzie w sprawie przyszłych", () => {
+  const previous = { repertoire: [
+    { datetime: "2026-09-04 14:00:00", title: "Zakończony", hall: "1" },
+    { datetime: "2026-09-04 22:00:00", title: "Odwołany", hall: "2" },
+  ] };
+  const current = {
+    now: "2026-09-04 20:00:00",
+    repertoire: [{ datetime: "2026-09-04 21:00:00", title: "Aktualny", hall: "3" }],
+  };
+  assert.deepEqual(preservePastShowings(previous, current).repertoire.map(({ title }) => title), ["Zakończony", "Aktualny"]);
+});
+
+test("wyszukiwanie rozumie skróty, polskie znaki i literówki tylko w tytułach", () => {
+  const movie = { title: "Gorzkie święta", originalTitle: "Bitter Christmas", director: "Pedro Almodóvar", countries: "Hiszpania" };
   assert.equal(searchMatches(movie, "grz"), true);
   assert.equal(searchMatches(movie, "gorzkue"), true);
   assert.equal(searchMatches(movie, "swieta"), true);
-  assert.equal(searchMatches(movie, "grz almodvar"), true);
+  assert.equal(searchMatches(movie, "bitter"), true);
+  assert.equal(searchMatches(movie, "grz almodvar"), false);
+  assert.equal(searchMatches(movie, "almodvar"), false);
+  assert.equal(searchMatches(movie, "hiszpania"), false);
   assert.equal(searchMatches(movie, "nolan"), false);
   assert.equal(searchMatches(movie, ""), true);
 });
@@ -94,6 +135,26 @@ test("filtruje seanse po najwcześniejszym starcie i najpóźniejszym końcu", (
   assert.equal(showingMatchesTime(show, "", "", "20:00"), false);
   assert.equal(showingEndMinutes({ hour: "23:00" }, "90"), 1470);
   assert.equal(showingMatchesTime({ hour: "23:00" }, "90", "", "24:30"), true);
+});
+
+test("opcjonalnie filtruje seanse po sali", () => {
+  assert.equal(showingMatchesHall({ hall: "2" }), true);
+  assert.equal(showingMatchesHall({ hall: "2" }, new Set(["1", "2"])), true);
+  assert.equal(showingMatchesHall({ hall: "3" }, new Set(["1", "2"])), false);
+  assert.equal(showingMatchesHall({ hall: "2" }, new Set()), false);
+});
+
+test("sortuje filmy alfabetycznie, po ocenach i pierwszym seansie", () => {
+  const movies = [
+    { title: "B", external: { filmweb: { rating: 7 }, imdb: { rating: 8 }, rottenTomatoes: { criticsRating: 70 } }, showings: [{ datetime: "2026-09-05 18:00:00" }] },
+    { title: "A", external: { filmweb: { rating: 8 }, imdb: { rating: 7 }, rottenTomatoes: { criticsRating: 90 } }, showings: [{ datetime: "2026-09-05 20:00:00" }] },
+    { title: "C", external: {}, showings: [{ datetime: "2026-09-05 16:00:00" }] },
+  ];
+  assert.deepEqual(sortMovies(movies).map(({ title }) => title), ["A", "B", "C"]);
+  assert.deepEqual(sortMovies(movies, "filmweb").map(({ title }) => title), ["A", "B", "C"]);
+  assert.deepEqual(sortMovies(movies, "imdb").map(({ title }) => title), ["B", "A", "C"]);
+  assert.deepEqual(sortMovies(movies, "rottenTomatoes").map(({ title }) => title), ["A", "B", "C"]);
+  assert.deepEqual(sortMovies(movies, "firstShowing").map(({ title }) => title), ["C", "B", "A"]);
 });
 
 test("historia wskazuje poprzedni dostępny dzień", () => {

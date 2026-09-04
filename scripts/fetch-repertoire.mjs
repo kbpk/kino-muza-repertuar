@@ -119,6 +119,25 @@ export function dayIso(day) {
   return "";
 }
 
+function showingKey(show) {
+  return [show.datetime, show.title, show.hall].map((value) => String(value || "")).join("|");
+}
+
+export function preservePastShowings(previousDay, currentDay) {
+  if (!previousDay?.repertoire?.length || !currentDay?.now) return currentDay;
+  const currentKeys = new Set((currentDay.repertoire || []).map(showingKey));
+  const past = previousDay.repertoire.filter((show) => (
+    show.datetime
+    && show.datetime < currentDay.now
+    && !currentKeys.has(showingKey(show))
+  ));
+  return {
+    ...currentDay,
+    repertoire: [...past, ...(currentDay.repertoire || [])]
+      .sort((left, right) => String(left.datetime || "").localeCompare(String(right.datetime || ""))),
+  };
+}
+
 async function writeDailyArchive(days, dataDirectory, fetchedAt, source) {
   const daysDirectory = join(dataDirectory, "days");
   await mkdir(daysDirectory, { recursive: true });
@@ -132,13 +151,14 @@ async function writeDailyArchive(days, dataDirectory, fetchedAt, source) {
     } catch {
       // Pierwszy zapis danego dnia.
     }
-    const unchanged = previous && JSON.stringify(previous.day) === JSON.stringify(day);
+    const archivedDay = preservePastShowings(previous?.day, day);
+    const unchanged = previous && JSON.stringify(previous.day) === JSON.stringify(archivedDay);
     const payload = {
       schemaVersion: 1,
       date,
       updatedAt: unchanged ? previous.updatedAt : fetchedAt,
       source,
-      day,
+      day: archivedDay,
     };
     await writeFile(path, `${JSON.stringify(payload, null, 2)}\n`);
   }

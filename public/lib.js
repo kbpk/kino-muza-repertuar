@@ -58,7 +58,7 @@ function tokenMatches(query, words) {
 export function searchMatches(movie, query) {
   const normalizedQuery = normalizeSearch(query);
   if (!normalizedQuery) return true;
-  const haystack = normalizeSearch([movie.title, movie.originalTitle, movie.director, movie.countries].filter(Boolean).join(" "));
+  const haystack = normalizeSearch([movie.title, movie.originalTitle].filter(Boolean).join(" "));
   if (haystack.includes(normalizedQuery)) return true;
   const words = haystack.split(" ").filter(Boolean);
   return normalizedQuery.split(" ").every((token) => tokenMatches(token, words));
@@ -91,6 +91,12 @@ export function showingMatchesTime(show, duration, startFrom = "", endBy = "") {
 
   const end = showingEndMinutes(show, duration);
   return end !== null && end <= latestEnd;
+}
+
+export function showingMatchesHall(show, selectedHalls = null) {
+  if (selectedHalls === null) return true;
+  const halls = selectedHalls instanceof Set ? selectedHalls : new Set(selectedHalls);
+  return halls.has(String(show.hall || ""));
 }
 
 export function previousAvailableDate(availableDates, selectedDate) {
@@ -160,6 +166,41 @@ export function groupMovies(days) {
   return [...movies.values()].sort((a, b) => a.title.localeCompare(b.title, "pl"));
 }
 
+function firstShowing(movie) {
+  return (movie.showings || [])
+    .map((show) => show.datetime || `${show.date || ""} ${show.hour || ""}`)
+    .filter(Boolean)
+    .sort()[0] || "";
+}
+
+export function sortMovies(movies, sortBy = "title") {
+  const titleOrder = (left, right) => left.title.localeCompare(right.title, "pl");
+  const rating = (movie) => {
+    if (sortBy === "filmweb") return movie.external?.filmweb?.rating;
+    if (sortBy === "imdb") return movie.external?.imdb?.rating;
+    if (sortBy === "rottenTomatoes") return movie.external?.rottenTomatoes?.criticsRating;
+    return null;
+  };
+  return [...movies].sort((left, right) => {
+    if (sortBy === "firstShowing") {
+      const leftShowing = firstShowing(left);
+      const rightShowing = firstShowing(right);
+      if (leftShowing && rightShowing && leftShowing !== rightShowing) return leftShowing.localeCompare(rightShowing);
+      if (leftShowing !== rightShowing) return leftShowing ? -1 : 1;
+      return titleOrder(left, right);
+    }
+    if (["filmweb", "imdb", "rottenTomatoes"].includes(sortBy)) {
+      const leftRating = rating(left);
+      const rightRating = rating(right);
+      const leftMissing = !Number.isFinite(leftRating);
+      const rightMissing = !Number.isFinite(rightRating);
+      if (leftMissing !== rightMissing) return leftMissing ? 1 : -1;
+      if (!leftMissing && leftRating !== rightRating) return rightRating - leftRating;
+    }
+    return titleOrder(left, right);
+  });
+}
+
 export function externalLinks(movie) {
   const title = movie.originalTitle || movie.title;
   const query = [title, movie.year].filter(Boolean).join(" ");
@@ -195,11 +236,27 @@ export function metadata(movie) {
 
   return [
     movie.director && `reż. ${movie.director.trim()}`,
-    movie.countries,
     movie.year,
     movie.duration && `${movie.duration} min`,
-    movie.premiereDate && `premiera ${movie.premiereDate}`,
-    movie.age && `${movie.age}+`,
+    movie.genres?.length && movie.genres.join(", "),
     ...language,
   ].filter(Boolean);
+}
+
+export function detailsMetadata(movie) {
+  const accessibility = [
+    movie.deaf && "napisy dla niesłyszących",
+    movie.ad && "audiodeskrypcja",
+  ].filter(Boolean);
+  return [
+    ["Kraj produkcji", movie.countries],
+    ["Wiek", movie.age && `${movie.age}+`],
+    ["Cykl", movie.cycle],
+    ["Wydarzenie", movie.event && movie.event !== movie.cycle ? movie.event : ""],
+    ["Dostępność", accessibility.join(", ")],
+    ["Format", movie.tape35mm ? "35 mm" : ""],
+    ["Status", movie.prePremier ? "przedpremiera" : ""],
+    ["Bilet normalny", movie.ticketPrice],
+    ["Bilet ulgowy", movie.ticketHalfPrice],
+  ].filter(([, value]) => value);
 }

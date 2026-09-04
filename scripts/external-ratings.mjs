@@ -3,7 +3,7 @@ import { join } from "node:path";
 import { gunzipSync } from "node:zlib";
 
 const CACHE_MAX_AGE = 12 * 60 * 60 * 1000;
-const MATCH_VERSION = 10;
+const MATCH_VERSION = 11;
 const IMDb_RATINGS_URL = "https://datasets.imdbws.com/title.ratings.tsv.gz";
 
 export function normalize(value = "") {
@@ -183,6 +183,13 @@ export function filmwebPosterUrl(path) {
   return `https://fwcdn.pl/fpo${normalized.replace(/\.\$\./, ".3.")}`;
 }
 
+export function filmwebGenres(preview) {
+  return [...new Set((preview?.genres || [])
+    .map((genre) => typeof genre?.name === "string" ? genre.name : genre?.name?.text)
+    .map((name) => String(name || "").trim())
+    .filter(Boolean))];
+}
+
 async function matchFilmweb(movie) {
   for (const title of candidateTitles(movie)) {
     const result = await (await fetchWithRetry(`https://www.filmweb.pl/api/v1/search?query=${encodeURIComponent(title)}`)).json();
@@ -206,6 +213,7 @@ async function matchFilmweb(movie) {
       id: String(candidate.id),
       url: `https://www.filmweb.pl/film/${slug}-${candidate.info.year}-${candidate.id}`,
       posterUrl: filmwebPosterUrl(candidate.info.posterPath || candidate.preview?.poster?.path),
+      genres: filmwebGenres(candidate.preview),
       rating: Number.isFinite(rating.rate) ? Math.round(rating.rate * 10) / 10 : null,
       votes: Number.isFinite(rating.count) ? rating.count : null,
     };
@@ -388,12 +396,14 @@ export async function enrichRepertoire(days, { cacheDirectory = ".cache" } = {})
   for (const day of days) {
     for (const movie of day.repertoire) {
       const entry = entries[cacheKey(movie)];
+      movie.genres = entry?.filmweb?.genres || [];
       movie.external = entry ? {
         imdb: entry.imdb,
         filmweb: entry.filmweb ? {
           id: entry.filmweb.id,
           url: entry.filmweb.url,
           posterUrl: entry.filmweb.posterUrl,
+          genres: entry.filmweb.genres || [],
           rating: entry.filmweb.rating,
           votes: entry.filmweb.votes,
         } : null,

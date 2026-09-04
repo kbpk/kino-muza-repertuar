@@ -4,6 +4,7 @@ import {
   chooseFilmwebCandidate,
   chooseImdbCandidate,
   candidateTitles,
+  filmwebGenres,
   normalize,
   filmwebPosterUrl,
   parseRottenTomatoesPage,
@@ -71,6 +72,14 @@ test("buduje adres wystarczająco dużego plakatu Filmwebu", () => {
     filmwebPosterUrl("/54/99/10085499/8255327.$.jpg"),
     "https://fwcdn.pl/fpo/54/99/10085499/8255327.3.jpg",
   );
+});
+
+test("odczytuje polskie gatunki z podglądu Filmwebu", () => {
+  assert.deepEqual(filmwebGenres({ genres: [
+    { name: { text: "Dramat" } },
+    { name: { text: "Komedia" } },
+    { name: { text: "Dramat" } },
+  ] }), ["Dramat", "Komedia"]);
 });
 
 test("odczytuje wyniki i oceny Rotten Tomatoes", () => {

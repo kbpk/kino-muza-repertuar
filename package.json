@@ -1,0 +1,17 @@
+{
+  "name": "kino-muza-repertuar",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "build:data": "node scripts/fetch-repertoire.mjs",
+    "test": "node --test",
+    "start": "node scripts/serve.mjs"
+  },
+  "engines": {
+    "node": ">=20"
+  },
+  "dependencies": {
+    "sharp": "0.34.3"
+  }
+}

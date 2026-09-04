@@ -42,7 +42,7 @@ jobs:
           hour="$((10#$raw_hour))"
           targets=(12 18)
           if [ "$weekday" = "2" ]; then
-            targets+=(14 16 17)
+            targets+=(14 16)
           fi
 
           target_hour=""

@@ -129,7 +129,7 @@ export function isRepertoireStale(fetchedAt, now = new Date(), graceMinutes = 15
 
   const localNow = warsawClock(now);
   const weekday = new Date(`${localNow.date}T12:00:00Z`).getUTCDay();
-  const targets = weekday === 2 ? [12, 14, 16, 17, 18] : [12, 18];
+  const targets = weekday === 2 ? [12, 14, 16, 18] : [12, 18];
   const dueToday = targets.filter((hour) => localNow.minutes >= hour * 60 + graceMinutes);
   const expectedDate = dueToday.length ? localNow.date : previousDate(localNow.date);
   const expectedHour = dueToday.at(-1) ?? 18;

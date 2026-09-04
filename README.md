@@ -22,7 +22,7 @@ Domyślnie wyświetlany jest dzisiejszy repertuar. Starsze zapisane dni pozostaj
 
 Dane pochodzą z publicznego repertuaru [Kina Muza](https://www.kinomuza.pl/repertuar/). Strona jest projektem nieoficjalnym i nie jest powiązana z kinem. Informacje o seansach mogą się zmienić, dlatego przed zakupem warto sprawdzić dane na stronie Muzy.
 
-Repertuar jest aktualizowany codziennie około 12:00 i 18:00 czasu polskiego, a we wtorki dodatkowo około 14:00 i 16:00. Dla każdego terminu GitHub dostaje dwie próby poza szczytem pełnej godziny oraz próbę ratunkową w kolejnej godzinie. Pierwszy sukces zapisany w `fetchedAt` blokuje duplikaty. Każda aktualizacja jest testowana, zapisywana w osobnym PR-ze i automatycznie publikowana na GitHub Pages. Jeśli mimo bufora dane pozostają starsze od ostatniej oczekiwanej aktualizacji, viewer pokazuje ostrzeżenie.
+Repertuar jest aktualizowany codziennie około 12:00 i 18:00 czasu polskiego, a we wtorki dodatkowo około 14:00 i 16:00. Dla każdego terminu GitHub dostaje dwie próby poza szczytem pełnej godziny oraz próbę ratunkową w kolejnej godzinie. Opóźniony przebieg nadrabia ostatnią należną aktualizację, a pierwszy sukces zapisany w `fetchedAt` blokuje duplikaty. Każda aktualizacja jest testowana, zapisywana w osobnym PR-ze i automatycznie publikowana na GitHub Pages. Jeśli mimo bufora dane pozostają starsze od ostatniej oczekiwanej aktualizacji, viewer pokazuje ostrzeżenie.
 
 Cały aktualny repertuar jest dostępny również jako jeden dokument JSON:
 

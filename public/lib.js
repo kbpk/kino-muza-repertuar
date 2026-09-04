@@ -142,20 +142,28 @@ function previousDate(date) {
   return new Date(Date.UTC(year, month - 1, day - 1)).toISOString().slice(0, 10);
 }
 
-export function isRepertoireStale(fetchedAt, now = new Date(), graceMinutes = 150) {
-  const fetched = new Date(fetchedAt);
-  if (Number.isNaN(fetched.getTime())) return true;
-
+export function expectedRepertoireUpdate(now = new Date(), graceMinutes = 150) {
   const localNow = warsawClock(now);
   const weekday = new Date(`${localNow.date}T12:00:00Z`).getUTCDay();
   const targets = weekday === 2 ? [12, 14, 16, 18] : [12, 18];
   const dueToday = targets.filter((hour) => localNow.minutes >= hour * 60 + graceMinutes);
-  const expectedDate = dueToday.length ? localNow.date : previousDate(localNow.date);
-  const expectedHour = dueToday.at(-1) ?? 18;
+  const date = dueToday.length ? localNow.date : previousDate(localNow.date);
+  const hour = dueToday.at(-1) ?? 18;
+  return {
+    date,
+    hour,
+    key: `${date} ${String(hour).padStart(2, "0")}:00`,
+  };
+}
+
+export function isRepertoireStale(fetchedAt, now = new Date(), graceMinutes = 150) {
+  const fetched = new Date(fetchedAt);
+  if (Number.isNaN(fetched.getTime())) return true;
+
+  const expected = expectedRepertoireUpdate(now, graceMinutes);
   const localFetched = warsawClock(fetched);
   const fetchedKey = `${localFetched.date} ${localFetched.time}`;
-  const expectedKey = `${expectedDate} ${String(expectedHour).padStart(2, "0")}:00`;
-  return fetchedKey < expectedKey;
+  return fetchedKey < expected.key;
 }
 
 export function groupMovies(days) {

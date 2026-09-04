@@ -1,12 +1,12 @@
 {
   "schemaVersion": 1,
   "date": "2026-09-10",
-  "updatedAt": "2026-09-04T11:17:30.998Z",
+  "updatedAt": "2026-09-04T20:19:12.612Z",
   "source": "https://www.kinomuza.pl/repertoire/day/",
   "day": {
     "id": "06",
     "date": "10.09",
-    "now": "2026-09-04 13:16:40",
+    "now": "2026-09-04 22:18:50",
     "info": [],
     "repertoire": [
       {
@@ -39,6 +39,10 @@
         "cycle": "przyzwoicie tanie czwartki",
         "description": "Siedemnastoletnia Ivy jest przekonana, że czeka ją najgorsze lato życia. Cztery tygodnie na obozie wakacyjnym, w grupie outsiderów, których wcale nie chciała poznać.",
         "shortDescription": "Siedemnastoletnia Ivy jest przekonana, że czeka ją najgorsze lato życia. Cztery tygodnie na obozie wakacyjnym, w grupie outsiderów, których wcale nie chciała poznać.",
+        "genres": [
+          "Dramat",
+          "Komedia"
+        ],
         "external": {
           "imdb": {
             "id": "tt32212403",
@@ -49,6 +53,10 @@
           "filmweb": {
             "id": "10117005",
             "url": "https://www.filmweb.pl/film/Sunny+Dancer-2026-10117005",
+            "genres": [
+              "Dramat",
+              "Komedia"
+            ],
             "rating": 7.2,
             "votes": 550
           },
@@ -98,6 +106,9 @@
         "cycle": "przyzwoicie tanie czwartki",
         "description": "Pisarka odkrywa trójkąt miłosny rodzący się między braćmi, a tajemniczą Anną. Wirtuozersko poprowadzona historia miłosnego trójkąta, który staje się obsesją znakomitej pisarki.",
         "shortDescription": "Pisarka odkrywa trójkąt miłosny rodzący się między braćmi, a tajemniczą Anną. Wirtuozersko poprowadzona historia miłosnego trójkąta, który staje się obsesją znakomitej pisarki.",
+        "genres": [
+          "Melodramat"
+        ],
         "external": {
           "imdb": {
             "id": "tt36646880",
@@ -108,6 +119,9 @@
           "filmweb": {
             "id": "10079944",
             "url": "https://www.filmweb.pl/film/Historie+r%C3%B3wnoleg%C5%82e-2026-10079944",
+            "genres": [
+              "Melodramat"
+            ],
             "rating": 5.8,
             "votes": 1102
           },
@@ -157,6 +171,9 @@
         "cycle": "przyzwoicie tanie czwartki",
         "description": "Ciepły, poruszający film drogi laureata BAFT-y Morgana Matthewsa, w którym subtelny humor przeplata się ze wzruszeniem.",
         "shortDescription": "Ciepły, poruszający film drogi laureata BAFT-y Morgana Matthewsa, w którym subtelny humor przeplata się ze wzruszeniem.",
+        "genres": [
+          "Dramat"
+        ],
         "external": {
           "imdb": {
             "id": "tt31216533",
@@ -167,8 +184,11 @@
           "filmweb": {
             "id": "10117286",
             "url": "https://www.filmweb.pl/film/500+mil-2026-10117286",
+            "genres": [
+              "Dramat"
+            ],
             "rating": 7.3,
-            "votes": 334
+            "votes": 349
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/500_miles_2026",
@@ -216,6 +236,9 @@
         "cycle": "przyzwoicie tanie czwartki",
         "description": "Na dnie jeziora jest dziura. To z niej pochodzą filmy. Przygotujcie się na Małą Śmierć.",
         "shortDescription": "Na dnie jeziora jest dziura. To z niej pochodzą filmy. Przygotujcie się na Małą Śmierć.",
+        "genres": [
+          "Czarna komedia"
+        ],
         "external": {
           "imdb": {
             "id": "tt35298123",
@@ -226,8 +249,11 @@
           "filmweb": {
             "id": "10114411",
             "url": "https://www.filmweb.pl/film/Mi%C5%82o%C5%9B%C4%87%2C+%C5%9Bmier%C4%87+i+dojrzewanie+w+Camp+Miasma-2026-10114411",
+            "genres": [
+              "Czarna komedia"
+            ],
             "rating": 7.3,
-            "votes": 580
+            "votes": 588
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/teenage_sex_and_death_at_camp_miasma",
@@ -237,9 +263,9 @@
               "Jane Schoenbrun"
             ],
             "criticsRating": 94,
-            "criticsVotes": 267,
+            "criticsVotes": 268,
             "audienceRating": 78,
-            "audienceVotes": 484
+            "audienceVotes": 485
           }
         },
         "longDescription": "Na dnie jeziora jest dziura. To z niej pochodzą filmy.\n\nMłoda, utalentowana reżyserka Kris (Hannah Einbinder) dostaje od studia filmowego szansę życia – ma nakręcić remake kultowej serii horrorów „Camp Miasma”, która cieszyła się ogromną popularnością w latach osiemdziesiątych i dziewięćdziesiątych. Aby znaleźć inspirację, udaje się na spotkanie z Billy (Gillian Anderson), która grała główną rolę w pierwowzorze projektu. Wizyta u ekscentrycznej aktorki szybko przeradza się w coś więcej niż zwykły wywiad.\n\n„Miłość, śmierć i dojrzewanie w Camp Miasma” zadebiutowała na festiwalu w Cannes, gdzie szturmem zdobyła serca krytyków i widzów – a także prestiżową nominację w sekcji Un Certain Regard. Najnowszy film Jane Shoenbrun (twórcy docenianego „W blasku ekranu”) ma obecnie 100% pozytywnych recenzji na Rotten Tomatoes, a widzowie wychodzą z seansów zachwyceni.\n\nChoć film Shoenbrun opowiada o powstawaniu fikcyjnej serii horrorów, sam w sobie horrorem nie jest, a zaledwie czerpie z jego estetyki. To przepiękna pod względem wizualnym kinofilska uczta opowiadająca przede wszystkim o bezgranicznej miłości do kina. I o tym, jak ta miłość zmienia nasze życie.\n\nW centrum tej opowieści stoją dwie aktorki reprezentujące dwa różne pokolenia. Legendarna Gillian Anderson wciela się w rolę ekscentrycznej diwy, a znana z serialu „Hacks” Hannah Einbinder w niepewną swojej pozycji, ale utalentowaną reżyserkę. Razem tworzą najbardziej elektryzujący ekranowy duet tego roku.",
@@ -275,6 +301,10 @@
         "cycle": "przyzwoicie tanie czwartki",
         "description": "Poruszająca historia miłości Williama, ambitnego dramaturga i jego żony Agnes. Ich idylliczne życie zostaje zburzone, gdy wybucha epidemia dżumy, która dotyka ich dzieci.",
         "shortDescription": "Poruszająca historia miłości Williama, ambitnego dramaturga i jego żony Agnes. Ich idylliczne życie zostaje zburzone, gdy wybucha epidemia dżumy, która dotyka ich dzieci.",
+        "genres": [
+          "Biograficzny",
+          "Dramat"
+        ],
         "external": {
           "imdb": {
             "id": "tt14905854",
@@ -285,6 +315,10 @@
           "filmweb": {
             "id": "10035555",
             "url": "https://www.filmweb.pl/film/Hamnet-2025-10035555",
+            "genres": [
+              "Biograficzny",
+              "Dramat"
+            ],
             "rating": 7.6,
             "votes": 28394
           },
@@ -334,6 +368,10 @@
         "cycle": "przyzwoicie tanie czwartki",
         "description": "Pedro Almodóvar powraca w szczytowej formie z jednym ze swoich najbardziej osobistych filmów. Almodóvar składa tu poruszające wyznanie wiary w siłę kina, pamięci i narracji.",
         "shortDescription": "Pedro Almodóvar powraca w szczytowej formie z jednym ze swoich najbardziej osobistych filmów. Almodóvar składa tu poruszające wyznanie wiary w siłę kina, pamięci i narracji.",
+        "genres": [
+          "Dramat",
+          "Komedia"
+        ],
         "external": {
           "imdb": {
             "id": "tt28088049",
@@ -344,6 +382,10 @@
           "filmweb": {
             "id": "10085499",
             "url": "https://www.filmweb.pl/film/Gorzkie+%C5%9Bwi%C4%99ta-2026-10085499",
+            "genres": [
+              "Dramat",
+              "Komedia"
+            ],
             "rating": 5.7,
             "votes": 1626
           },
@@ -394,6 +436,9 @@
         "cycle": "Najlepsze z Najgorszych",
         "description": "Krwiożercze pacynki z wielkim apetytem. Niskobudżetowy horror, w którym klasyczna opowieść o rozbitkach zamienia się w krwawy teatr kukiełkowy o atmosferze starej, lekko przeklętej kasety VHS.",
         "shortDescription": "Krwiożercze pacynki z wielkim apetytem. Niskobudżetowy horror, w którym klasyczna opowieść o rozbitkach zamienia się w krwawy teatr kukiełkowy o atmosferze starej, lekko przeklętej kasety VHS.",
+        "genres": [
+          "Horror"
+        ],
         "external": {
           "imdb": {
             "id": "tt0088752",
@@ -404,6 +449,9 @@
           "filmweb": {
             "id": "190758",
             "url": "https://www.filmweb.pl/film/Atak+potwork%C3%B3w-1985-190758",
+            "genres": [
+              "Horror"
+            ],
             "rating": 3.7,
             "votes": 130
           },
@@ -452,6 +500,9 @@
         "thumb": "https://www.kinomuza.pl/content/uploads/2026/09/UEBERLEBEN_Foto_02YORK_Foto_023154-800x450.jpg",
         "description": "Trzy Niemki – Claudia, Anna i Ulli – przybywają na początku lat 80. do Nowego Jorku i próbują się zadomowić w mieście, które hipnotyzuje swoich mieszkańców i przyciąga ich jak magnes.",
         "shortDescription": "Trzy Niemki – Claudia, Anna i Ulli – przybywają na początku lat 80. do Nowego Jorku i próbują się zadomowić w mieście, które hipnotyzuje swoich mieszkańców i przyciąga ich jak magnes.",
+        "genres": [
+          "Dokumentalny"
+        ],
         "external": {
           "imdb": {
             "id": "tt0098733",
@@ -462,6 +513,9 @@
           "filmweb": {
             "id": "248722",
             "url": "https://www.filmweb.pl/film/%C3%9Cberleben+in+New+York-1989-248722",
+            "genres": [
+              "Dokumentalny"
+            ],
             "rating": 6.4,
             "votes": 12
           },
@@ -500,6 +554,11 @@
         "cycle": "przyzwoicie tanie czwartki",
         "description": "Opowieść o podróży Odyseusza, króla Itaki, który musi stawić czoła licznym wyzwaniom próbując wrócić do domu po wojnie trojańskiej.",
         "shortDescription": "Opowieść o podróży Odyseusza, króla Itaki, który musi stawić czoła licznym wyzwaniom próbując wrócić do domu po wojnie trojańskiej.",
+        "genres": [
+          "Dramat",
+          "Fantasy",
+          "Przygodowy"
+        ],
         "external": {
           "imdb": {
             "id": "tt33764258",
@@ -510,6 +569,11 @@
           "filmweb": {
             "id": "10068387",
             "url": "https://www.filmweb.pl/film/Odyseja-2026-10068387",
+            "genres": [
+              "Dramat",
+              "Fantasy",
+              "Przygodowy"
+            ],
             "rating": 7.7,
             "votes": 65719
           },
@@ -523,7 +587,7 @@
             "criticsRating": 94,
             "criticsVotes": 506,
             "audienceRating": 97,
-            "audienceVotes": 31742
+            "audienceVotes": 31769
           }
         },
         "longDescription": "Christopher Nolan, który nakręcił takie filmy jak „Interstellar” oraz „Oppenheimer” jest znany z tego, że nie boi się żadnego gatunku filmowego. Po świetnie przyjętym i nagrodzonym 7 Oscarami® „Oppenheimerze” opowiadajacym historię powstania pierwszej bomby atomowej, teraz reżyser pracuje nad adaptacją „Odysei”.\n\nTo opowieść autorstwa Homera uznawana za jedno z najważniejszych dzieł literatury zachodniej. Opowiada o podróży Odyseusza, króla Itaki, który musi stawić czoła licznym wyzwaniom próbując wrócić do domu po wojnie trojańskiej. Powstała już niejedna ekranizacja klasycznego dzieła Homera, ale tym razem film nakręcony zostanie w technologii IMAX i będzie pierwszym tak nowoczesnym podejściem do „Odysei”.\n\nW filmie „Odysei” zobaczymy między innymi: Matta Damona, Toma Hollanda, Anne Hathaway, Zendayę, Roberta Pattinsona, Lupite Nyong’o oraz Charlize Theron.",
@@ -559,6 +623,11 @@
         "cycle": "przyzwoicie tanie czwartki",
         "description": "Młody Anthony Bourdain podczas upalnego lata 1976 roku odkrywa swoją pasję, powołanie i to, kim tak naprawdę jest.",
         "shortDescription": "Młody Anthony Bourdain podczas upalnego lata 1976 roku odkrywa swoją pasję, powołanie i to, kim tak naprawdę jest.",
+        "genres": [
+          "Komedia",
+          "Biograficzny",
+          "Dramat"
+        ],
         "external": {
           "imdb": {
             "id": "tt33095251",
@@ -569,8 +638,13 @@
           "filmweb": {
             "id": "10079933",
             "url": "https://www.filmweb.pl/film/Tony-2026-10079933",
+            "genres": [
+              "Komedia",
+              "Biograficzny",
+              "Dramat"
+            ],
             "rating": 7.2,
-            "votes": 479
+            "votes": 545
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/tony_2026",
@@ -580,9 +654,9 @@
               "Matt Johnson"
             ],
             "criticsRating": 93,
-            "criticsVotes": 219,
+            "criticsVotes": 221,
             "audienceRating": 92,
-            "audienceVotes": 823
+            "audienceVotes": 826
           }
         },
         "longDescription": "Anthony Bourdain – buntownik, outsider, głos pokolenia, jeden z najbardziej znanych szefów kuchni i jedna z największych, najbardziej charyzmatycznych osobowości telewizyjnych. Podróżnik, pisarz, odkrywca, którego miliony ludzi na całym świecie pokochały za bezkompromisowy styl, miłość do życia, szacunek do ludzi, odwagę, ciekawość świata i autentyczność. „Tony” to historia początków jego drogi – kim był, zanim stał się Anthonym Bourdainem.\n\nUpalne lato 1976 roku, Provincetown – miasto pulsujące wolnością, seksem i energią. Młody, marzący o karierze pisarza, Tony (Dominic Sessa), by podreperować budżet, trafia na zmywak do restauracji serwującej owoce morza, prowadzonej przez tajemniczego szefa kuchni (Antonio Banderas). W intensywnej, chaotycznej, a jednocześnie niezwykle kreatywnej atmosferze Tony odkrywa swoją pasję, powołanie i to, kim tak naprawdę jest.",
@@ -618,6 +692,9 @@
         "cycle": "przyzwoicie tanie czwartki",
         "description": "Na dnie jeziora jest dziura. To z niej pochodzą filmy. Przygotujcie się na Małą Śmierć.",
         "shortDescription": "Na dnie jeziora jest dziura. To z niej pochodzą filmy. Przygotujcie się na Małą Śmierć.",
+        "genres": [
+          "Czarna komedia"
+        ],
         "external": {
           "imdb": {
             "id": "tt35298123",
@@ -628,8 +705,11 @@
           "filmweb": {
             "id": "10114411",
             "url": "https://www.filmweb.pl/film/Mi%C5%82o%C5%9B%C4%87%2C+%C5%9Bmier%C4%87+i+dojrzewanie+w+Camp+Miasma-2026-10114411",
+            "genres": [
+              "Czarna komedia"
+            ],
             "rating": 7.3,
-            "votes": 580
+            "votes": 588
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/teenage_sex_and_death_at_camp_miasma",
@@ -639,9 +719,9 @@
               "Jane Schoenbrun"
             ],
             "criticsRating": 94,
-            "criticsVotes": 267,
+            "criticsVotes": 268,
             "audienceRating": 78,
-            "audienceVotes": 484
+            "audienceVotes": 485
           }
         },
         "longDescription": "Na dnie jeziora jest dziura. To z niej pochodzą filmy.\n\nMłoda, utalentowana reżyserka Kris (Hannah Einbinder) dostaje od studia filmowego szansę życia – ma nakręcić remake kultowej serii horrorów „Camp Miasma”, która cieszyła się ogromną popularnością w latach osiemdziesiątych i dziewięćdziesiątych. Aby znaleźć inspirację, udaje się na spotkanie z Billy (Gillian Anderson), która grała główną rolę w pierwowzorze projektu. Wizyta u ekscentrycznej aktorki szybko przeradza się w coś więcej niż zwykły wywiad.\n\n„Miłość, śmierć i dojrzewanie w Camp Miasma” zadebiutowała na festiwalu w Cannes, gdzie szturmem zdobyła serca krytyków i widzów – a także prestiżową nominację w sekcji Un Certain Regard. Najnowszy film Jane Shoenbrun (twórcy docenianego „W blasku ekranu”) ma obecnie 100% pozytywnych recenzji na Rotten Tomatoes, a widzowie wychodzą z seansów zachwyceni.\n\nChoć film Shoenbrun opowiada o powstawaniu fikcyjnej serii horrorów, sam w sobie horrorem nie jest, a zaledwie czerpie z jego estetyki. To przepiękna pod względem wizualnym kinofilska uczta opowiadająca przede wszystkim o bezgranicznej miłości do kina. I o tym, jak ta miłość zmienia nasze życie.\n\nW centrum tej opowieści stoją dwie aktorki reprezentujące dwa różne pokolenia. Legendarna Gillian Anderson wciela się w rolę ekscentrycznej diwy, a znana z serialu „Hacks” Hannah Einbinder w niepewną swojej pozycji, ale utalentowaną reżyserkę. Razem tworzą najbardziej elektryzujący ekranowy duet tego roku.",

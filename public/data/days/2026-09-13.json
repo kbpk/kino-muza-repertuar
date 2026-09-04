@@ -1,12 +1,12 @@
 {
   "schemaVersion": 1,
   "date": "2026-09-13",
-  "updatedAt": "2026-09-04T11:17:30.998Z",
+  "updatedAt": "2026-09-04T20:19:12.612Z",
   "source": "https://www.kinomuza.pl/repertoire/day/",
   "day": {
     "id": "09",
     "date": "13.09",
-    "now": "2026-09-04 13:16:46",
+    "now": "2026-09-04 22:18:50",
     "info": [],
     "repertoire": [
       {
@@ -38,11 +38,17 @@
         "thumb": "https://www.kinomuza.pl/content/uploads/2026/09/HAERTE_Foto_Marion-Erdmann_Andreas-Marquardt-800x450.jpg",
         "description": "Historia opowiedziana jest z perspektywy jego samego oraz jego partnerki Marion. Przez wiele lat Marion, podobnie jak wiele innych kobiet, pracowała dla niego jako prostytutka.",
         "shortDescription": "Historia opowiedziana jest z perspektywy jego samego oraz jego partnerki Marion. Przez wiele lat Marion, podobnie jak wiele innych kobiet, pracowała dla niego jako prostytutka.",
+        "genres": [
+          "Biograficzny"
+        ],
         "external": {
           "imdb": null,
           "filmweb": {
             "id": "736559",
             "url": "https://www.filmweb.pl/film/H%C3%A4rte-2015-736559",
+            "genres": [
+              "Biograficzny"
+            ],
             "rating": 6.2,
             "votes": 5
           },

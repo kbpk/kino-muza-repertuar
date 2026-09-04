@@ -1,12 +1,12 @@
 {
   "schemaVersion": 1,
   "date": "2026-09-11",
-  "updatedAt": "2026-09-04T11:17:30.998Z",
+  "updatedAt": "2026-09-04T20:19:12.612Z",
   "source": "https://www.kinomuza.pl/repertoire/day/",
   "day": {
     "id": "07",
     "date": "11.09",
-    "now": "2026-09-04 13:16:45",
+    "now": "2026-09-04 22:18:50",
     "info": [],
     "repertoire": [
       {
@@ -38,6 +38,10 @@
         "thumb": "https://www.kinomuza.pl/content/uploads/2026/09/EINSTEIN_DES_SEX_DER_Foto_04-800x450.jpg",
         "description": "Liberalny Żyd Hirschfeld zakłada w 1897 roku „Komitet Naukowo-Humanitarny” i wspiera petycję przeciwko paragrafowi 175 niemieckiego kodeksu karnego, który kryminalizował homoseksualność. Współpracuje z ruchem psychoanalitycznym, jednak później popada w konflikt z Freudem i Jungiem.",
         "shortDescription": "Liberalny Żyd Hirschfeld zakłada w 1897 roku „Komitet Naukowo-Humanitarny” i wspiera petycję przeciwko paragrafowi 175 niemieckiego kodeksu karnego, który kryminalizował homoseksualność. Współpracuje z ruchem psychoanalitycznym, jednak później popada w konflikt z Freudem i Jungiem.",
+        "genres": [
+          "Dokumentalny",
+          "Dramat"
+        ],
         "external": {
           "imdb": {
             "id": "tt0161542",
@@ -48,6 +52,10 @@
           "filmweb": {
             "id": "190526",
             "url": "https://www.filmweb.pl/film/Der+Einstein+des+Sex-1999-190526",
+            "genres": [
+              "Dokumentalny",
+              "Dramat"
+            ],
             "rating": 6,
             "votes": 25
           },

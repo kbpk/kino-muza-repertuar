@@ -1,0 +1,61 @@
+{
+  "schemaVersion": 1,
+  "date": "2026-09-11",
+  "updatedAt": "2026-09-04T09:33:23.625Z",
+  "source": "https://www.kinomuza.pl/repertoire/day/",
+  "day": {
+    "id": "07",
+    "date": "11.09",
+    "now": "2026-09-04 11:32:27",
+    "info": [],
+    "repertoire": [
+      {
+        "hour": "19:00",
+        "datetime": "2026-09-11 19:00:00",
+        "title": "Einstein seksu",
+        "originalTitle": "Der Einstein des Sex",
+        "director": "Rosa von Praunheim",
+        "year": "1999",
+        "premiereDate": "",
+        "duration": "100",
+        "countries": "Niemcy, Niderlandy",
+        "shortDesc": "<p>Liberalny Żyd Hirschfeld zakłada w 1897 roku „Komitet Naukowo-Humanitarny” i wspiera petycję przeciwko paragrafowi 175 niemieckiego kodeksu karnego, który kryminalizował homoseksualność. Współpracuje z ruchem psychoanalitycznym, jednak później popada w konflikt z Freudem i Jungiem.</p>\n",
+        "lang": "de",
+        "subtitlesLang": "pl",
+        "age": "16",
+        "credits": "reż. Rosa von Praunheim <br>Niemcy, Niderlandy <br>1999,100’",
+        "desc": "<p>Liberalny Żyd Hirschfeld zakłada w 1897 roku „Komitet Naukowo-Humanitarny” i wspiera petycję przeciwko paragrafowi 175 niemieckiego kodeksu karnego, który kryminalizował homoseksualność. Współpracuje z ruchem psychoanalitycznym, jednak później popada w konflikt z Freudem i Jungiem.</p>\n",
+        "hall": "2",
+        "movieLink": "https://www.kinomuza.pl/movie/einstein-seksu/",
+        "ticketLink": "https://estradapoznan.bilety24.pl/kup-bilety/?id=980085#total",
+        "prePremier": false,
+        "tape35mm": false,
+        "ad": false,
+        "deaf": false,
+        "ticketPrice": "",
+        "ticketHalfPrice": "",
+        "alt": "Einstein seksu",
+        "thumb": "https://www.kinomuza.pl/content/uploads/2026/09/EINSTEIN_DES_SEX_DER_Foto_04-800x450.jpg",
+        "description": "Liberalny Żyd Hirschfeld zakłada w 1897 roku „Komitet Naukowo-Humanitarny” i wspiera petycję przeciwko paragrafowi 175 niemieckiego kodeksu karnego, który kryminalizował homoseksualność. Współpracuje z ruchem psychoanalitycznym, jednak później popada w konflikt z Freudem i Jungiem.",
+        "shortDescription": "Liberalny Żyd Hirschfeld zakłada w 1897 roku „Komitet Naukowo-Humanitarny” i wspiera petycję przeciwko paragrafowi 175 niemieckiego kodeksu karnego, który kryminalizował homoseksualność. Współpracuje z ruchem psychoanalitycznym, jednak później popada w konflikt z Freudem i Jungiem.",
+        "external": {
+          "imdb": {
+            "id": "tt0161542",
+            "url": "https://www.imdb.com/title/tt0161542/",
+            "rating": 6.1,
+            "votes": 740
+          },
+          "filmweb": {
+            "id": "190526",
+            "url": "https://www.filmweb.pl/film/Der+Einstein+des+Sex-1999-190526",
+            "rating": 6,
+            "votes": 25
+          },
+          "rottenTomatoes": null
+        },
+        "longDescription": "Przed seansem prelekcja Bartosza Żurawieckiego – pisarz, krytyk filmowy, dziennikarz, dramaturg, felietonista. Szef działu recenzji w miesięczniku „Kino”. Laureat Nagrody im. Krzysztofa Mętraka dla krytyków filmowych. Laureat nagrody Polskiego Instytutu Sztuki Filmowej za blog „Czego nie widać”. Autor powieści „Trzech panów w łóżku, nie licząc kota”, „Ja, czyli 66 moich miłości”, „Nieobecni”, „Do Lolelaj. Gejowska utopia”. W 2019 roku opublikował książkę reporterską „Festiwale wyklęte”. W 2023 roku ukazała się „Ojczyzna moralnie czysta. Początki HIV w Polsce”, za którą otrzymał nominację do Nagrody im. Ryszarda Kapuścińskiego dla najlepszego reportażu literackiego. Rok później na półki księgarni trafiła biografia Bogusława Kaczyńskiego zatytułowana „Primadonna”. Ostatnio wydał powieść „Ach, Ustka! Wspomnienia starego idioty”. Publikował m.in. w „Filmie”, „Kinie”, Dwutygodniku.com, „Gazecie Wyborczej”, „Newsweeku”, „Przekroju”, „Tygodniku Powszechnym”, „Ruchu Muzycznym”, filmwebie.pl.\n\nRosa von Praunheim, reżyser filmowy i od lat 60. XX wieku jeden z pionierów politycznego ruchu gejowskiego w Niemczech, przedstawia postać Magnusa Hirschfelda, prekursora seksuologii (1868-1935).\n\nLiberalny Żyd Hirschfeld zakłada w 1897 roku „Komitet Naukowo-Humanitarny” i wspiera petycję przeciwko paragrafowi 175 niemieckiego kodeksu karnego, który kryminalizował homoseksualność. Współpracuje z ruchem psychoanalitycznym, jednak później popada w konflikt z Freudem i Jungiem.Założony przez niego w 1919 roku Instytut Badań Seksuologicznych przynosi mu międzynarodowe uznanie. Po przejęciu władzy przez narodowych socjalistów instytut zostaje jednak zlikwidowany, a Hirschfeld umiera na emigracji.\n\nPraunheim przedstawia kolejne etapy jego życia niemal jak w filmie edukacyjnym, ukazując je w porządku chronologicznym i opatrując komentarzem.",
+        "poster": "media/posters/906960d73a7b288ca349.webp"
+      }
+    ]
+  }
+}

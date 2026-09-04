@@ -1,0 +1,711 @@
+{
+  "schemaVersion": 1,
+  "date": "2026-09-04",
+  "updatedAt": "2026-09-04T09:33:23.625Z",
+  "source": "https://www.kinomuza.pl/repertoire/day/",
+  "day": {
+    "id": "00",
+    "date": "04.09",
+    "now": "2026-09-04 11:32:25",
+    "info": [],
+    "repertoire": [
+      {
+        "hour": "14:00",
+        "datetime": "2026-09-04 14:00:00",
+        "title": "Gorzkie święta",
+        "originalTitle": "Bitter Christmas",
+        "director": "Pedro Almodóvar",
+        "year": "2026",
+        "premiereDate": "2026-08-28",
+        "duration": "111",
+        "countries": "Hiszpania",
+        "shortDesc": "<p>Pedro Almodóvar powraca w szczytowej formie z jednym ze swoich najbardziej osobistych filmów. Almodóvar składa tu poruszające wyznanie wiary w siłę kina, pamięci i narracji.</p>\n",
+        "lang": "es",
+        "subtitlesLang": "pl",
+        "age": "16",
+        "credits": "reż. Pedro Almodóvar <br>Hiszpania <br>2026,111’",
+        "desc": "<p>Pedro Almodóvar powraca w szczytowej formie z jednym ze swoich najbardziej osobistych filmów. Almodóvar składa tu poruszające wyznanie wiary w siłę kina, pamięci i narracji.</p>\n",
+        "hall": "2",
+        "movieLink": "https://www.kinomuza.pl/movie/gorzkie-swieta/",
+        "ticketLink": "https://estradapoznan.bilety24.pl/kup-bilety/?id=983015#total",
+        "prePremier": false,
+        "tape35mm": false,
+        "ad": false,
+        "deaf": false,
+        "ticketPrice": "",
+        "ticketHalfPrice": "",
+        "alt": "Gorzkie święta",
+        "thumb": "https://www.kinomuza.pl/content/uploads/2026/07/gorzkie-swieta-4-800x450.jpg",
+        "description": "Pedro Almodóvar powraca w szczytowej formie z jednym ze swoich najbardziej osobistych filmów. Almodóvar składa tu poruszające wyznanie wiary w siłę kina, pamięci i narracji.",
+        "shortDescription": "Pedro Almodóvar powraca w szczytowej formie z jednym ze swoich najbardziej osobistych filmów. Almodóvar składa tu poruszające wyznanie wiary w siłę kina, pamięci i narracji.",
+        "external": {
+          "imdb": {
+            "id": "tt28088049",
+            "url": "https://www.imdb.com/title/tt28088049/",
+            "rating": 6.3,
+            "votes": 4246
+          },
+          "filmweb": {
+            "id": "10085499",
+            "url": "https://www.filmweb.pl/film/Gorzkie+%C5%9Bwi%C4%99ta-2026-10085499",
+            "rating": 5.7,
+            "votes": 1626
+          },
+          "rottenTomatoes": {
+            "url": "https://www.rottentomatoes.com/m/bitter_christmas",
+            "title": "Bitter Christmas",
+            "year": "2026",
+            "directors": [
+              "Pedro Almodóvar"
+            ],
+            "criticsRating": 90,
+            "criticsVotes": 59,
+            "audienceRating": null,
+            "audienceVotes": null
+          }
+        },
+        "longDescription": "Pedro Almodóvar powraca w szczytowej formie z jednym ze swoich najbardziej osobistych filmów. W „Gorzkich świętach” – jego pierwszej od 5 lat hiszpańskojęzycznej produkcji – jest wszystko, za co widzowie kochają jego kino: namiętność, intensywne kolory, przewrotny humor i pełnokrwiste postaci, które wymykają się prostym schematom. Na ekranie pojawiają się aktorzy i aktorki znani z wcześniejszych filmów reżysera: Bárbara Lennie, Leonardo Sbaraglia, Victoria Luengo, Aitana Sánchez-Gijón, Milena Smit oraz jedna z najważniejszych muz Almodóvara – Rossy de Palma.\n\nBohaterką filmu jest czterdziestoletnia Elza (Bárbara Lennie), która po śmierci matki rzuca się w wir pracy, nie pozwalając sobie na żałobę. Dopiero atak paniki zmusza ją do zatrzymania się i wyruszenia w podróż, która stanie się konfrontacją z przeszłością, utraconymi relacjami i niespełnionymi pragnieniami. Z przypadkowych spotkań, emocjonalnych zwrotów i splatających się życiorysów Almodóvar tka opowieść o tym, jak pamięć, fikcja i pragnienie nieustannie przepisują nasze życie.\n\n„Gorzkie święta” to szczególny prezent dla tych, którzy dorastali z kinem hiszpańskiego mistrza – od „Kobiet na skraju załamania nerwowego”, przez „Wszystko o mojej matce” i „Porozmawiaj z nią”, po „Volver”, „Przerwane objęcia” i „Ból i blask”. To także film, który idzie o krok dalej: jeszcze mocniej pokazuje, że każdy z nas nie tylko przeżywa własną historię, ale też bez końca ją sobie opowiada. Almodóvar składa tu poruszające wyznanie wiary w siłę kina, pamięci i narracji.\n\nFilm dostępny z audiodeskrypcją lub lektorem. Skorzystaj bezpłatnie z aplikacji Kino Dostępne 2.0 w Twoim telefonie – http://kinodostepne.pl",
+        "poster": "media/posters/3ec6053fecffef465d0a.webp"
+      },
+      {
+        "hour": "14:30",
+        "datetime": "2026-09-04 14:30:00",
+        "title": "Historie równoległe",
+        "originalTitle": "Parallel Tales",
+        "director": "Asghar Farhadi",
+        "year": "2026",
+        "premiereDate": "2026-08-14",
+        "duration": "139",
+        "countries": "Belgia, Francja, USA, Włochy",
+        "shortDesc": "<p class=\"wp-block-paragraph\">Pisarka odkrywa trójkąt miłosny rodzący się między braćmi, a tajemniczą Anną. Wirtuozersko poprowadzona historia miłosnego trójkąta, który staje się obsesją znakomitej pisarki.</p>\n",
+        "lang": "fr",
+        "subtitlesLang": "pl",
+        "age": "16",
+        "credits": "reż. Asghar Farhadi <br>Belgia, Francja, USA, Włochy <br>2026,139’",
+        "desc": "<p class=\"wp-block-paragraph\">Pisarka odkrywa trójkąt miłosny rodzący się między braćmi, a tajemniczą Anną. Wirtuozersko poprowadzona historia miłosnego trójkąta, który staje się obsesją znakomitej pisarki.</p>\n",
+        "hall": "1",
+        "movieLink": "https://www.kinomuza.pl/movie/historie-rownolegle/",
+        "ticketLink": "https://estradapoznan.bilety24.pl/kup-bilety/?id=983010#total",
+        "prePremier": false,
+        "tape35mm": false,
+        "ad": false,
+        "deaf": false,
+        "ticketPrice": "",
+        "ticketHalfPrice": "",
+        "alt": "Historie równoległe",
+        "thumb": "https://www.kinomuza.pl/content/uploads/2026/07/historie-rownolegle-histoires-paralleles-7871-pscarolebethuel-1280x720-1-800x450.jpg",
+        "description": "Pisarka odkrywa trójkąt miłosny rodzący się między braćmi, a tajemniczą Anną. Wirtuozersko poprowadzona historia miłosnego trójkąta, który staje się obsesją znakomitej pisarki.",
+        "shortDescription": "Pisarka odkrywa trójkąt miłosny rodzący się między braćmi, a tajemniczą Anną. Wirtuozersko poprowadzona historia miłosnego trójkąta, który staje się obsesją znakomitej pisarki.",
+        "external": {
+          "imdb": {
+            "id": "tt36646880",
+            "url": "https://www.imdb.com/title/tt36646880/",
+            "rating": 6,
+            "votes": 538
+          },
+          "filmweb": {
+            "id": "10079944",
+            "url": "https://www.filmweb.pl/film/Historie+r%C3%B3wnoleg%C5%82e-2026-10079944",
+            "rating": 5.8,
+            "votes": 1102
+          },
+          "rottenTomatoes": {
+            "url": "https://www.rottentomatoes.com/m/parallel_tales",
+            "title": "Parallel Tales",
+            "year": "",
+            "directors": [
+              "Asghar Farhadi"
+            ],
+            "criticsRating": 19,
+            "criticsVotes": 31,
+            "audienceRating": null,
+            "audienceVotes": 7
+          }
+        },
+        "longDescription": "Pisarka odkrywa trójkąt miłosny rodzący się między braćmi, a tajemniczą Anną.\n\nPrezentowany w konkursie tegorocznego Festiwalu w Cannes nowy film znakomitego Asghara Farhadiego, zdobywcy OSCARÓW za „Rozstanie” i „Klienta”.\n\nWyprodukowany przez Macieja Musiała i Krzysztofa Piesiewicza film inspirowany 6 częścią słynnego „DEKALOGU” Krzysztofa Kieślowskiego.\n\nGwiazdorska obsada w pełnej pasji i tajemnic opowieści o niebezpiecznych konsekwencjach igrania z namiętnościami.\n\nWirtuozersko poprowadzona historia miłosnego trójkąta, który staje się obsesją znakomitej pisarki.\n\nW poszukiwaniu inspiracji do nowej powieści Sylvie zaczyna podglądać mieszkających naprzeciwko braci i ich tajemniczą, piękna przyjaciółkę. Kiedy Sylvie zatrudnia do pomocy w codziennych obowiązkach młodego Adama, nie spodziewa się, że wkroczy on tak zdecydowanie w życie jej i obserwowanych przez nią braci. Adam spróbuje przekroczyć niebezpieczną granicę między fikcją kreowaną przez Sylvie, a rzeczywistością rodzącego się na ich oczach miłosnego trójkąta.",
+        "poster": "media/posters/2b6e4513672d1abd0541.webp"
+      },
+      {
+        "hour": "14:45",
+        "datetime": "2026-09-04 14:45:00",
+        "title": "Tony",
+        "originalTitle": "Tony",
+        "director": " Matt Johnson",
+        "year": "2026",
+        "premiereDate": "2026-09-04",
+        "duration": "106",
+        "countries": "USA",
+        "shortDesc": "<p>Młody Anthony Bourdain podczas upalnego lata 1976 roku odkrywa swoją pasję, powołanie i to, kim tak naprawdę jest.</p>\n",
+        "lang": "en",
+        "subtitlesLang": "pl",
+        "age": "16",
+        "credits": "reż.  Matt Johnson <br>USA <br>2026,106’",
+        "desc": "<p>Młody Anthony Bourdain podczas upalnego lata 1976 roku odkrywa swoją pasję, powołanie i to, kim tak naprawdę jest.</p>\n",
+        "hall": "3",
+        "movieLink": "https://www.kinomuza.pl/movie/tony/",
+        "ticketLink": "https://estradapoznan.bilety24.pl/kup-bilety/?id=983022#total",
+        "prePremier": false,
+        "tape35mm": false,
+        "ad": false,
+        "deaf": false,
+        "ticketPrice": "",
+        "ticketHalfPrice": "",
+        "alt": "Tony",
+        "thumb": "https://www.kinomuza.pl/content/uploads/2026/09/57ef7a282819ac320da3a5de72836119-800x450.jpg",
+        "description": "Młody Anthony Bourdain podczas upalnego lata 1976 roku odkrywa swoją pasję, powołanie i to, kim tak naprawdę jest.",
+        "shortDescription": "Młody Anthony Bourdain podczas upalnego lata 1976 roku odkrywa swoją pasję, powołanie i to, kim tak naprawdę jest.",
+        "external": {
+          "imdb": {
+            "id": "tt33095251",
+            "url": "https://www.imdb.com/title/tt33095251/",
+            "rating": 7.6,
+            "votes": 6244
+          },
+          "filmweb": {
+            "id": "10079933",
+            "url": "https://www.filmweb.pl/film/Tony-2026-10079933",
+            "rating": 7.2,
+            "votes": 477
+          },
+          "rottenTomatoes": {
+            "url": "https://www.rottentomatoes.com/m/tony_2026",
+            "title": "Tony (2026)",
+            "year": "2026",
+            "directors": [
+              "Matt Johnson"
+            ],
+            "criticsRating": 93,
+            "criticsVotes": 219,
+            "audienceRating": 92,
+            "audienceVotes": 823
+          }
+        },
+        "longDescription": "Anthony Bourdain – buntownik, outsider, głos pokolenia, jeden z najbardziej znanych szefów kuchni i jedna z największych, najbardziej charyzmatycznych osobowości telewizyjnych. Podróżnik, pisarz, odkrywca, którego miliony ludzi na całym świecie pokochały za bezkompromisowy styl, miłość do życia, szacunek do ludzi, odwagę, ciekawość świata i autentyczność. „Tony” to historia początków jego drogi – kim był, zanim stał się Anthonym Bourdainem.\n\nUpalne lato 1976 roku, Provincetown – miasto pulsujące wolnością, seksem i energią. Młody, marzący o karierze pisarza, Tony (Dominic Sessa), by podreperować budżet, trafia na zmywak do restauracji serwującej owoce morza, prowadzonej przez tajemniczego szefa kuchni (Antonio Banderas). W intensywnej, chaotycznej, a jednocześnie niezwykle kreatywnej atmosferze Tony odkrywa swoją pasję, powołanie i to, kim tak naprawdę jest.",
+        "poster": "media/posters/cc7518dd5bf4191117af.webp"
+      },
+      {
+        "hour": "16:00",
+        "datetime": "2026-09-04 16:00:00",
+        "title": "Gorzkie święta",
+        "originalTitle": "Bitter Christmas",
+        "director": "Pedro Almodóvar",
+        "year": "2026",
+        "premiereDate": "2026-08-28",
+        "duration": "111",
+        "countries": "Hiszpania",
+        "shortDesc": "<p>Pedro Almodóvar powraca w szczytowej formie z jednym ze swoich najbardziej osobistych filmów. Almodóvar składa tu poruszające wyznanie wiary w siłę kina, pamięci i narracji.</p>\n",
+        "lang": "es",
+        "subtitlesLang": "pl",
+        "age": "16",
+        "credits": "reż. Pedro Almodóvar <br>Hiszpania <br>2026,111’",
+        "desc": "<p>Pedro Almodóvar powraca w szczytowej formie z jednym ze swoich najbardziej osobistych filmów. Almodóvar składa tu poruszające wyznanie wiary w siłę kina, pamięci i narracji.</p>\n",
+        "hall": "2",
+        "movieLink": "https://www.kinomuza.pl/movie/gorzkie-swieta/",
+        "ticketLink": "https://estradapoznan.bilety24.pl/kup-bilety/?id=983016#total",
+        "prePremier": false,
+        "tape35mm": false,
+        "ad": false,
+        "deaf": false,
+        "ticketPrice": "",
+        "ticketHalfPrice": "",
+        "alt": "Gorzkie święta",
+        "thumb": "https://www.kinomuza.pl/content/uploads/2026/07/gorzkie-swieta-4-800x450.jpg",
+        "description": "Pedro Almodóvar powraca w szczytowej formie z jednym ze swoich najbardziej osobistych filmów. Almodóvar składa tu poruszające wyznanie wiary w siłę kina, pamięci i narracji.",
+        "shortDescription": "Pedro Almodóvar powraca w szczytowej formie z jednym ze swoich najbardziej osobistych filmów. Almodóvar składa tu poruszające wyznanie wiary w siłę kina, pamięci i narracji.",
+        "external": {
+          "imdb": {
+            "id": "tt28088049",
+            "url": "https://www.imdb.com/title/tt28088049/",
+            "rating": 6.3,
+            "votes": 4246
+          },
+          "filmweb": {
+            "id": "10085499",
+            "url": "https://www.filmweb.pl/film/Gorzkie+%C5%9Bwi%C4%99ta-2026-10085499",
+            "rating": 5.7,
+            "votes": 1626
+          },
+          "rottenTomatoes": {
+            "url": "https://www.rottentomatoes.com/m/bitter_christmas",
+            "title": "Bitter Christmas",
+            "year": "2026",
+            "directors": [
+              "Pedro Almodóvar"
+            ],
+            "criticsRating": 90,
+            "criticsVotes": 59,
+            "audienceRating": null,
+            "audienceVotes": null
+          }
+        },
+        "longDescription": "Pedro Almodóvar powraca w szczytowej formie z jednym ze swoich najbardziej osobistych filmów. W „Gorzkich świętach” – jego pierwszej od 5 lat hiszpańskojęzycznej produkcji – jest wszystko, za co widzowie kochają jego kino: namiętność, intensywne kolory, przewrotny humor i pełnokrwiste postaci, które wymykają się prostym schematom. Na ekranie pojawiają się aktorzy i aktorki znani z wcześniejszych filmów reżysera: Bárbara Lennie, Leonardo Sbaraglia, Victoria Luengo, Aitana Sánchez-Gijón, Milena Smit oraz jedna z najważniejszych muz Almodóvara – Rossy de Palma.\n\nBohaterką filmu jest czterdziestoletnia Elza (Bárbara Lennie), która po śmierci matki rzuca się w wir pracy, nie pozwalając sobie na żałobę. Dopiero atak paniki zmusza ją do zatrzymania się i wyruszenia w podróż, która stanie się konfrontacją z przeszłością, utraconymi relacjami i niespełnionymi pragnieniami. Z przypadkowych spotkań, emocjonalnych zwrotów i splatających się życiorysów Almodóvar tka opowieść o tym, jak pamięć, fikcja i pragnienie nieustannie przepisują nasze życie.\n\n„Gorzkie święta” to szczególny prezent dla tych, którzy dorastali z kinem hiszpańskiego mistrza – od „Kobiet na skraju załamania nerwowego”, przez „Wszystko o mojej matce” i „Porozmawiaj z nią”, po „Volver”, „Przerwane objęcia” i „Ból i blask”. To także film, który idzie o krok dalej: jeszcze mocniej pokazuje, że każdy z nas nie tylko przeżywa własną historię, ale też bez końca ją sobie opowiada. Almodóvar składa tu poruszające wyznanie wiary w siłę kina, pamięci i narracji.\n\nFilm dostępny z audiodeskrypcją lub lektorem. Skorzystaj bezpłatnie z aplikacji Kino Dostępne 2.0 w Twoim telefonie – http://kinodostepne.pl",
+        "poster": "media/posters/3ec6053fecffef465d0a.webp"
+      },
+      {
+        "hour": "16:45",
+        "datetime": "2026-09-04 16:45:00",
+        "title": "Sunny Dancer",
+        "originalTitle": "",
+        "director": "George Jaques",
+        "year": "2026",
+        "premiereDate": "2026-08-28",
+        "duration": "106",
+        "countries": "Wielka Brytania, Niemcy",
+        "shortDesc": "<p>Siedemnastoletnia Ivy jest przekonana, że czeka ją najgorsze lato życia. Cztery tygodnie na obozie wakacyjnym, w grupie outsiderów, których wcale nie chciała poznać.</p>\n",
+        "lang": "en",
+        "subtitlesLang": "pl",
+        "age": "16",
+        "credits": "reż. George Jaques <br>Wielka Brytania, Niemcy <br>2026,106’",
+        "desc": "<p>Siedemnastoletnia Ivy jest przekonana, że czeka ją najgorsze lato życia. Cztery tygodnie na obozie wakacyjnym, w grupie outsiderów, których wcale nie chciała poznać.</p>\n",
+        "hall": "3",
+        "movieLink": "https://www.kinomuza.pl/movie/sunny-dancer/",
+        "ticketLink": "https://estradapoznan.bilety24.pl/kup-bilety/?id=983023#total",
+        "prePremier": false,
+        "tape35mm": false,
+        "ad": false,
+        "deaf": false,
+        "ticketPrice": "",
+        "ticketHalfPrice": "",
+        "alt": "Sunny Dancer",
+        "thumb": "https://www.kinomuza.pl/content/uploads/2026/07/sunny-dancer-1-800x450.jpg",
+        "description": "Siedemnastoletnia Ivy jest przekonana, że czeka ją najgorsze lato życia. Cztery tygodnie na obozie wakacyjnym, w grupie outsiderów, których wcale nie chciała poznać.",
+        "shortDescription": "Siedemnastoletnia Ivy jest przekonana, że czeka ją najgorsze lato życia. Cztery tygodnie na obozie wakacyjnym, w grupie outsiderów, których wcale nie chciała poznać.",
+        "external": {
+          "imdb": {
+            "id": "tt32212403",
+            "url": "https://www.imdb.com/title/tt32212403/",
+            "rating": 7.3,
+            "votes": 938
+          },
+          "filmweb": {
+            "id": "10117005",
+            "url": "https://www.filmweb.pl/film/Sunny+Dancer-2026-10117005",
+            "rating": 7.2,
+            "votes": 550
+          },
+          "rottenTomatoes": {
+            "url": "https://www.rottentomatoes.com/m/sunny_dancer",
+            "title": "Sunny Dancer",
+            "year": "2026",
+            "directors": [
+              "George Jaques"
+            ],
+            "criticsRating": 86,
+            "criticsVotes": 21,
+            "audienceRating": null,
+            "audienceVotes": null
+          }
+        },
+        "longDescription": "Siedemnastoletnia Ivy (Bella Ramsey) jest przekonana, że czeka ją najgorsze lato życia. Cztery tygodnie na obozie wakacyjnym, w grupie outsiderów, których wcale nie chciała poznać – to brzmi jak katastrofa. A jednak w miejscu, gdzie nikt nie ma czasu na udawanie, Ivy znajduje paczkę znajomych, z którymi przeżywa NAJLEPSZE.LATO.EVER. Naładowany muzyką „Sunny Dancer” to intensywna, pełna radości i czarnego humoru opowieść o tym, że nieraz trzeba totalnie zburzyć swój plan, aby zacząć chłonąć świat wszystkimi zmysłami.",
+        "poster": "media/posters/94cd1082fcad1856fc1c.webp"
+      },
+      {
+        "hour": "17:00",
+        "datetime": "2026-09-04 17:00:00",
+        "title": "Miłość, śmierć i dojrzewanie w camp Miasma",
+        "originalTitle": "Teenage Sex and Death at Camp Miasma",
+        "director": " Jane Schoenbrun",
+        "year": "2026",
+        "premiereDate": "2026-09-04",
+        "duration": "106",
+        "countries": "USA",
+        "shortDesc": "<p>Na dnie jeziora jest dziura. To z niej pochodzą filmy. Przygotujcie się na Małą Śmierć.</p>\n",
+        "lang": "en",
+        "subtitlesLang": "pl",
+        "age": "16",
+        "credits": "reż.  Jane Schoenbrun <br>USA <br>2026,106’",
+        "desc": "<p>Na dnie jeziora jest dziura. To z niej pochodzą filmy. Przygotujcie się na Małą Śmierć.</p>\n",
+        "hall": "1",
+        "movieLink": "https://www.kinomuza.pl/movie/milosc-smierc-i-dojrzewanie-na-camp-miasma/",
+        "ticketLink": "https://estradapoznan.bilety24.pl/kup-bilety/?id=983012#total",
+        "prePremier": false,
+        "tape35mm": false,
+        "ad": false,
+        "deaf": false,
+        "ticketPrice": "",
+        "ticketHalfPrice": "",
+        "alt": "Miłość, śmierć i dojrzewanie w camp Miasma",
+        "thumb": "https://www.kinomuza.pl/content/uploads/2026/08/camp-1-800x450.jpg",
+        "description": "Na dnie jeziora jest dziura. To z niej pochodzą filmy. Przygotujcie się na Małą Śmierć.",
+        "shortDescription": "Na dnie jeziora jest dziura. To z niej pochodzą filmy. Przygotujcie się na Małą Śmierć.",
+        "external": {
+          "imdb": {
+            "id": "tt35298123",
+            "url": "https://www.imdb.com/title/tt35298123/",
+            "rating": 7.2,
+            "votes": 7984
+          },
+          "filmweb": {
+            "id": "10114411",
+            "url": "https://www.filmweb.pl/film/Mi%C5%82o%C5%9B%C4%87%2C+%C5%9Bmier%C4%87+i+dojrzewanie+w+Camp+Miasma-2026-10114411",
+            "rating": 7.3,
+            "votes": 579
+          },
+          "rottenTomatoes": {
+            "url": "https://www.rottentomatoes.com/m/teenage_sex_and_death_at_camp_miasma",
+            "title": "Teenage Sex and Death at Camp Miasma",
+            "year": "2026",
+            "directors": [
+              "Jane Schoenbrun"
+            ],
+            "criticsRating": 94,
+            "criticsVotes": 267,
+            "audienceRating": 78,
+            "audienceVotes": 484
+          }
+        },
+        "longDescription": "Na dnie jeziora jest dziura. To z niej pochodzą filmy.\n\nMłoda, utalentowana reżyserka Kris (Hannah Einbinder) dostaje od studia filmowego szansę życia – ma nakręcić remake kultowej serii horrorów „Camp Miasma”, która cieszyła się ogromną popularnością w latach osiemdziesiątych i dziewięćdziesiątych. Aby znaleźć inspirację, udaje się na spotkanie z Billy (Gillian Anderson), która grała główną rolę w pierwowzorze projektu. Wizyta u ekscentrycznej aktorki szybko przeradza się w coś więcej niż zwykły wywiad.\n\n„Miłość, śmierć i dojrzewanie w Camp Miasma” zadebiutowała na festiwalu w Cannes, gdzie szturmem zdobyła serca krytyków i widzów – a także prestiżową nominację w sekcji Un Certain Regard. Najnowszy film Jane Shoenbrun (twórcy docenianego „W blasku ekranu”) ma obecnie 100% pozytywnych recenzji na Rotten Tomatoes, a widzowie wychodzą z seansów zachwyceni.\n\nChoć film Shoenbrun opowiada o powstawaniu fikcyjnej serii horrorów, sam w sobie horrorem nie jest, a zaledwie czerpie z jego estetyki. To przepiękna pod względem wizualnym kinofilska uczta opowiadająca przede wszystkim o bezgranicznej miłości do kina. I o tym, jak ta miłość zmienia nasze życie.\n\nW centrum tej opowieści stoją dwie aktorki reprezentujące dwa różne pokolenia. Legendarna Gillian Anderson wciela się w rolę ekscentrycznej diwy, a znana z serialu „Hacks” Hannah Einbinder w niepewną swojej pozycji, ale utalentowaną reżyserkę. Razem tworzą najbardziej elektryzujący ekranowy duet tego roku.",
+        "poster": "media/posters/1294a835ebec7b71a0d9.webp"
+      },
+      {
+        "hour": "18:00",
+        "datetime": "2026-09-04 18:00:00",
+        "title": "Odyseja",
+        "originalTitle": "The Odyssey",
+        "director": "Christopher Nolan",
+        "year": "2026",
+        "premiereDate": "2026-07-17",
+        "duration": "172",
+        "countries": "USA, Wielka Brytania",
+        "shortDesc": "<p>Opowieść o podróży Odyseusza, króla Itaki, który musi stawić czoła licznym wyzwaniom próbując wrócić do domu po wojnie trojańskiej.</p>\n",
+        "lang": "en",
+        "subtitlesLang": "pl",
+        "age": "16",
+        "credits": "reż. Christopher Nolan <br>USA, Wielka Brytania <br>2026,172’",
+        "desc": "<p>Opowieść o podróży Odyseusza, króla Itaki, który musi stawić czoła licznym wyzwaniom próbując wrócić do domu po wojnie trojańskiej.</p>\n",
+        "hall": "2",
+        "movieLink": "https://www.kinomuza.pl/movie/odyseja/",
+        "ticketLink": "https://estradapoznan.bilety24.pl/kup-bilety/?id=983017#total",
+        "prePremier": false,
+        "tape35mm": false,
+        "ad": false,
+        "deaf": false,
+        "ticketPrice": "",
+        "ticketHalfPrice": "",
+        "alt": "Odyseja",
+        "thumb": "https://www.kinomuza.pl/content/uploads/2026/04/odyseja-1-800x450.jpg",
+        "description": "Opowieść o podróży Odyseusza, króla Itaki, który musi stawić czoła licznym wyzwaniom próbując wrócić do domu po wojnie trojańskiej.",
+        "shortDescription": "Opowieść o podróży Odyseusza, króla Itaki, który musi stawić czoła licznym wyzwaniom próbując wrócić do domu po wojnie trojańskiej.",
+        "external": {
+          "imdb": {
+            "id": "tt33764258",
+            "url": "https://www.imdb.com/title/tt33764258/",
+            "rating": 8.4,
+            "votes": 467598
+          },
+          "filmweb": {
+            "id": "10068387",
+            "url": "https://www.filmweb.pl/film/Odyseja-2026-10068387",
+            "rating": 7.7,
+            "votes": 65719
+          },
+          "rottenTomatoes": {
+            "url": "https://www.rottentomatoes.com/m/the_odyssey_2026",
+            "title": "The Odyssey (2026)",
+            "year": "2026",
+            "directors": [
+              "Christopher Nolan"
+            ],
+            "criticsRating": 94,
+            "criticsVotes": 506,
+            "audienceRating": 97,
+            "audienceVotes": 31738
+          }
+        },
+        "longDescription": "Christopher Nolan, który nakręcił takie filmy jak „Interstellar” oraz „Oppenheimer” jest znany z tego, że nie boi się żadnego gatunku filmowego. Po świetnie przyjętym i nagrodzonym 7 Oscarami® „Oppenheimerze” opowiadajacym historię powstania pierwszej bomby atomowej, teraz reżyser pracuje nad adaptacją „Odysei”.\n\nTo opowieść autorstwa Homera uznawana za jedno z najważniejszych dzieł literatury zachodniej. Opowiada o podróży Odyseusza, króla Itaki, który musi stawić czoła licznym wyzwaniom próbując wrócić do domu po wojnie trojańskiej. Powstała już niejedna ekranizacja klasycznego dzieła Homera, ale tym razem film nakręcony zostanie w technologii IMAX i będzie pierwszym tak nowoczesnym podejściem do „Odysei”.\n\nW filmie „Odysei” zobaczymy między innymi: Matta Damona, Toma Hollanda, Anne Hathaway, Zendayę, Roberta Pattinsona, Lupite Nyong’o oraz Charlize Theron.",
+        "poster": "media/posters/4e9b762158e1eb7c4e3f.webp"
+      },
+      {
+        "hour": "18:45",
+        "datetime": "2026-09-04 18:45:00",
+        "title": "500 mil",
+        "originalTitle": "500 Miles",
+        "director": "Morgan Matthews",
+        "year": "2026",
+        "premiereDate": "2026-09-04",
+        "duration": "102",
+        "countries": "Irlandia, Wielka Brytania, Cypr",
+        "shortDesc": "<p>Ciepły, poruszający film drogi laureata BAFT-y Morgana Matthewsa, w którym subtelny humor przeplata się ze wzruszeniem.</p>\n",
+        "lang": "en",
+        "subtitlesLang": "pl",
+        "age": "16",
+        "credits": "reż. Morgan Matthews <br>Irlandia, Wielka Brytania, Cypr <br>2026,102’",
+        "desc": "<p>Ciepły, poruszający film drogi laureata BAFT-y Morgana Matthewsa, w którym subtelny humor przeplata się ze wzruszeniem.</p>\n",
+        "hall": "3",
+        "movieLink": "https://www.kinomuza.pl/movie/500-mil/",
+        "ticketLink": "https://estradapoznan.bilety24.pl/kup-bilety/?id=983024#total",
+        "prePremier": false,
+        "tape35mm": false,
+        "ad": false,
+        "deaf": false,
+        "ticketPrice": "",
+        "ticketHalfPrice": "",
+        "alt": "500 mil",
+        "thumb": "https://www.kinomuza.pl/content/uploads/2026/05/500-2-800x450.jpg",
+        "description": "Ciepły, poruszający film drogi laureata BAFT-y Morgana Matthewsa, w którym subtelny humor przeplata się ze wzruszeniem.",
+        "shortDescription": "Ciepły, poruszający film drogi laureata BAFT-y Morgana Matthewsa, w którym subtelny humor przeplata się ze wzruszeniem.",
+        "external": {
+          "imdb": {
+            "id": "tt31216533",
+            "url": "https://www.imdb.com/title/tt31216533/",
+            "rating": 7.3,
+            "votes": 357
+          },
+          "filmweb": {
+            "id": "10117286",
+            "url": "https://www.filmweb.pl/film/500+mil-2026-10117286",
+            "rating": 7.3,
+            "votes": 334
+          },
+          "rottenTomatoes": {
+            "url": "https://www.rottentomatoes.com/m/500_miles_2026",
+            "title": "500 Miles (2026)",
+            "year": "",
+            "directors": [
+              "Morgan Matthews"
+            ],
+            "criticsRating": 67,
+            "criticsVotes": 12,
+            "audienceRating": null,
+            "audienceVotes": null
+          }
+        },
+        "longDescription": "500 mil  to ciepły, poruszający film drogi laureata BAFT-y Morgana Matthewsa, w którym subtelny humor przeplata się ze wzruszeniem, a historia przywodzi na myśl wrażliwość  Billy’ego Elliota  i emocjonalną szczerość  Był sobie chłopiec .\n\nNastoletni Finn (Roman Griffin Davis, znany z  Jojo Rabbit ) i jego młodszy brat Charlie (Dexter Sol Ansell,  Rycerz siedmiu królestw ) uciekają z domu, by uniknąć rozdzielenia po rozstaniu rodziców. Ich celem jest dzikie zachodnie wybrzeże Irlandii oraz dom ukochanego dziadka Johna (Bill Nighy,  To właśnie miłość ) – ostatnia bezpieczna przystań w ich rozpadającym się świecie.\n\nPrzed nimi 500 mil niełatwej podróży, podczas której muszą polegać na sprycie, uroku osobistym  i życzliwości napotkanych ludzi – zwłaszcza wolnej duchem ulicznej muzykantki Cáit (Maisie Williams,  Gra o tron ).\n\n500 mil  to jednak coś więcej niż film drogi. To szczera, pozbawiona fałszywej nuty i głęboko refleksyjna opowieść o rodzinie, nadziei i potrzebie bliskości, która w finale nabiera nowego znaczenia i sprawia, że po seansie wraca się myślami do pierwszych scen.\n\nFilm dostępny z audiodeskrypcją lub lektorem. Skorzystaj bezpłatnie z aplikacji Kino Dostępne 2.0 w Twoim telefonie – http://kinodostepne.pl",
+        "poster": "media/posters/da48f0cf278f46ab08f2.webp"
+      },
+      {
+        "hour": "19:00",
+        "datetime": "2026-09-04 19:00:00",
+        "title": "Asterix i Obelix: Misja Kleopatra",
+        "originalTitle": "Asterix & Obelix: Mission Cleopatra",
+        "director": "Alain Chabat",
+        "year": "2002",
+        "premiereDate": "",
+        "duration": "107",
+        "countries": "Francja, Niemcy, Belgia",
+        "shortDesc": "<p>Piramidalnie śmieszna komedia powraca w nowej wersji odrestaurowanej 4K z oryginalnym, kultowym polskim dubbingiem!</p>\n",
+        "lang": "",
+        "subtitlesLang": "",
+        "age": "16",
+        "credits": "reż. Alain Chabat <br>Francja, Niemcy, Belgia <br>2002,107’",
+        "desc": "<p>Piramidalnie śmieszna komedia powraca w nowej wersji odrestaurowanej 4K z oryginalnym, kultowym polskim dubbingiem!</p>\n",
+        "hall": "1",
+        "movieLink": "https://www.kinomuza.pl/movie/asterix-i-obelix-misja-kleopatra-2/",
+        "ticketLink": "https://estradapoznan.bilety24.pl/kup-bilety/?id=983013#total",
+        "prePremier": false,
+        "tape35mm": false,
+        "ad": false,
+        "deaf": false,
+        "ticketPrice": "",
+        "ticketHalfPrice": "",
+        "alt": "Asterix i Obelix: Misja Kleopatra",
+        "thumb": "https://www.kinomuza.pl/content/uploads/2026/08/obelix-3-800x450.jpg",
+        "dubbing": true,
+        "description": "Piramidalnie śmieszna komedia powraca w nowej wersji odrestaurowanej 4K z oryginalnym, kultowym polskim dubbingiem!",
+        "shortDescription": "Piramidalnie śmieszna komedia powraca w nowej wersji odrestaurowanej 4K z oryginalnym, kultowym polskim dubbingiem!",
+        "external": {
+          "imdb": {
+            "id": "tt0250223",
+            "url": "https://www.imdb.com/title/tt0250223/",
+            "rating": 6.7,
+            "votes": 63812
+          },
+          "filmweb": {
+            "id": "30896",
+            "url": "https://www.filmweb.pl/film/Asterix+i+Obelix%3A+Misja+Kleopatra-2002-30896",
+            "rating": 7.3,
+            "votes": 234869
+          },
+          "rottenTomatoes": {
+            "url": "https://www.rottentomatoes.com/m/asterix-obelix-mission-cleopatre",
+            "title": "Asterix & Obelix: Mission Cleopatre",
+            "year": "2002",
+            "directors": [
+              "Alain Chabat"
+            ],
+            "criticsRating": 88,
+            "criticsVotes": 8,
+            "audienceRating": 79,
+            "audienceVotes": 2718
+          }
+        },
+        "longDescription": "Wersja odrestaurowana 4K z oryginalnym polskim dubbingiem\n\n„Jak to jest być skrybą, dobrze?” To pytanie fani  Asterixa i Obelixa: Misji Kleopatry  zadają sobie gdzieś tak od starożytności. Piramidalnie śmieszna komedia powraca w nowej wersji odrestaurowanej 4K z oryginalnym, kultowym polskim dubbingiem! Najbardziej lubiana przez publiczność część cyklu to błyskotliwa adaptacja komiksów René Goscinnego i Alberta Uderzo o przygodach nieustraszonych Galów.\n\nStarożytna Aleksandria. Kleopatra (Monica Bellucci) zakłada się z Juliuszem Cezarem, że Egipcjanie w trzy miesiące wybudują mu wielki pałac. Architektem powołanym do tego niemożliwego zadania jest niepozorny Numernabis (Jamel Debbouze) – jeśli zawiedzie, stanie się pożywką dla krokodyli. Pomoc dla budowniczych może nadejść tylko z jednej strony: od mieszającego magiczną miksturę Panoramiksa oraz jego druhów, Asteriksa (Christian Clavier) i Obeliksa (Gérard Depardieu). Czy wspólnie wygrają oni z czasem, złośliwymi przeciwnikami i dumnymi Rzymianami?\n\nSzalona komedia Alaina Chabata ma grono wiernych wielbicieli na całym świecie, ale szczególnie dobrze zadomowiła się w Polsce. Spektakularne tłumaczenie dialogów autorstwa Bartosza Wierzbięty oraz genialne głosy polskich aktorów (m.in. Cezary Pazura, Wiktor Zborowski, Mieczysław Morański, Magdalena Wójcik) sprawiły, że  Asterix i Obelix: Misja Kleopatra  to film-fenomen, chyba najbardziej dowcipna rozrywka wszech czasów oraz dzieło-mem, do którego nawiązania nie mają końca. Od „Widać mnie, nie widać mnie” do „A rodzina zdrowa?” – wszyscy rozmawiamy dziś dialogami z  Misji Kleopatry.\n\nZapraszamy do kin na wakacje all inclusive w starożytnym Egipcie: dla całej rodziny!",
+        "poster": "media/posters/b66c948d1fb6fe57654f.webp"
+      },
+      {
+        "hour": "20:45",
+        "datetime": "2026-09-04 20:45:00",
+        "title": "Młodsza siostra",
+        "originalTitle": "The Little Sister",
+        "director": "Hafsia Herzi",
+        "year": "2025",
+        "premiereDate": "2026-09-04",
+        "duration": "106",
+        "countries": "Francja, Niemcy",
+        "shortDesc": "<p>Subtelny portret młodej dziewczyny, która wchodzi w dorosłe życie i kształtuje swoją tożsamość.</p>\n",
+        "lang": "",
+        "subtitlesLang": "pl",
+        "age": "16",
+        "credits": "reż. Hafsia Herzi <br>Francja, Niemcy <br>2025,106’",
+        "desc": "<p>Subtelny portret młodej dziewczyny, która wchodzi w dorosłe życie i kształtuje swoją tożsamość.</p>\n",
+        "hall": "3",
+        "movieLink": "https://www.kinomuza.pl/movie/mlodsza-siostra/",
+        "ticketLink": "https://estradapoznan.bilety24.pl/kup-bilety/?id=983025#total",
+        "prePremier": false,
+        "tape35mm": false,
+        "ad": false,
+        "deaf": false,
+        "ticketPrice": "",
+        "ticketHalfPrice": "",
+        "alt": "Młodsza siostra",
+        "thumb": "https://www.kinomuza.pl/content/uploads/2026/05/mlodsza-siostra-1-800x450.jpg",
+        "description": "Subtelny portret młodej dziewczyny, która wchodzi w dorosłe życie i kształtuje swoją tożsamość.",
+        "shortDescription": "Subtelny portret młodej dziewczyny, która wchodzi w dorosłe życie i kształtuje swoją tożsamość.",
+        "external": {
+          "imdb": {
+            "id": "tt28326501",
+            "url": "https://www.imdb.com/title/tt28326501/",
+            "rating": 6.8,
+            "votes": 1937
+          },
+          "filmweb": {
+            "id": "10070385",
+            "url": "https://www.filmweb.pl/film/M%C5%82odsza+siostra-2025-10070385",
+            "rating": 6.2,
+            "votes": 335
+          },
+          "rottenTomatoes": {
+            "url": "https://www.rottentomatoes.com/m/the_little_sister_2025",
+            "title": "The Little Sister (2025)",
+            "year": "2025",
+            "directors": [
+              "Hafsia Herzi"
+            ],
+            "criticsRating": 86,
+            "criticsVotes": 42,
+            "audienceRating": null,
+            "audienceVotes": 11
+          }
+        },
+        "longDescription": "Subtelny portret młodej dziewczyny, która wchodzi w dorosłe życie i kształtuje swoją tożsamość.\n\nZa tę znakomitą rolę, debiutantka Nadia Melliti otrzymała nagrodę dla najlepszej żeńskiej roli na festiwalu w Cannes oraz Cezara i Nagrodę Lumière dla najbardziej obiecującej aktorki.\n\nSiedemnastoletnia Fatima (nagrodzana za tę rolę Nadia Melliti) jest najmłodszą z trzech córek francusko-algierskiej rodziny mieszkającej na paryskich przedmieściach. Dziewczyna jest dobrą uczennicą, z zaangażowaniem uprawia sport, ma kochających rodziców. Na pozór więc jej życie to sielanka.\n\nJej rzeczywistość to jednak ciągłe balansowanie między lojalnością wobec kochającej, ale dość konserwatywnej rodziny, wiarą muzułmańską a rodzącym się w niej pociągiem do kobiet. Fatima obawia się, że to ostatnie dla jej bliskich byłoby to nie do zaakceptowania.\n\nRejestrując się na portalu randkowym, bohaterka zaczyna eksplorować swoją seksualność, poznawać własne potrzeby, zastanawiać się nad swoją tożsamością, zwłaszcza gdy wchodzi w relację z pielęgniarką Ji-Na (Ji-min Park). Związek przynosi Fatimie zarówno radość, jak i ból, pozwalając jej lepiej zrozumieć siebie.",
+        "poster": "media/posters/45e7a9a347b5a76f7578.webp"
+      },
+      {
+        "hour": "21:00",
+        "datetime": "2026-09-04 21:00:00",
+        "title": "Tony",
+        "originalTitle": "Tony",
+        "director": " Matt Johnson",
+        "year": "2026",
+        "premiereDate": "2026-09-04",
+        "duration": "106",
+        "countries": "USA",
+        "shortDesc": "<p>Młody Anthony Bourdain podczas upalnego lata 1976 roku odkrywa swoją pasję, powołanie i to, kim tak naprawdę jest.</p>\n",
+        "lang": "en",
+        "subtitlesLang": "pl",
+        "age": "16",
+        "credits": "reż.  Matt Johnson <br>USA <br>2026,106’",
+        "desc": "<p>Młody Anthony Bourdain podczas upalnego lata 1976 roku odkrywa swoją pasję, powołanie i to, kim tak naprawdę jest.</p>\n",
+        "hall": "2",
+        "movieLink": "https://www.kinomuza.pl/movie/tony/",
+        "ticketLink": "https://estradapoznan.bilety24.pl/kup-bilety/?id=983021#total",
+        "prePremier": false,
+        "tape35mm": false,
+        "ad": false,
+        "deaf": false,
+        "ticketPrice": "",
+        "ticketHalfPrice": "",
+        "alt": "Tony",
+        "thumb": "https://www.kinomuza.pl/content/uploads/2026/09/57ef7a282819ac320da3a5de72836119-800x450.jpg",
+        "description": "Młody Anthony Bourdain podczas upalnego lata 1976 roku odkrywa swoją pasję, powołanie i to, kim tak naprawdę jest.",
+        "shortDescription": "Młody Anthony Bourdain podczas upalnego lata 1976 roku odkrywa swoją pasję, powołanie i to, kim tak naprawdę jest.",
+        "external": {
+          "imdb": {
+            "id": "tt33095251",
+            "url": "https://www.imdb.com/title/tt33095251/",
+            "rating": 7.6,
+            "votes": 6244
+          },
+          "filmweb": {
+            "id": "10079933",
+            "url": "https://www.filmweb.pl/film/Tony-2026-10079933",
+            "rating": 7.2,
+            "votes": 477
+          },
+          "rottenTomatoes": {
+            "url": "https://www.rottentomatoes.com/m/tony_2026",
+            "title": "Tony (2026)",
+            "year": "2026",
+            "directors": [
+              "Matt Johnson"
+            ],
+            "criticsRating": 93,
+            "criticsVotes": 219,
+            "audienceRating": 92,
+            "audienceVotes": 823
+          }
+        },
+        "longDescription": "Anthony Bourdain – buntownik, outsider, głos pokolenia, jeden z najbardziej znanych szefów kuchni i jedna z największych, najbardziej charyzmatycznych osobowości telewizyjnych. Podróżnik, pisarz, odkrywca, którego miliony ludzi na całym świecie pokochały za bezkompromisowy styl, miłość do życia, szacunek do ludzi, odwagę, ciekawość świata i autentyczność. „Tony” to historia początków jego drogi – kim był, zanim stał się Anthonym Bourdainem.\n\nUpalne lato 1976 roku, Provincetown – miasto pulsujące wolnością, seksem i energią. Młody, marzący o karierze pisarza, Tony (Dominic Sessa), by podreperować budżet, trafia na zmywak do restauracji serwującej owoce morza, prowadzonej przez tajemniczego szefa kuchni (Antonio Banderas). W intensywnej, chaotycznej, a jednocześnie niezwykle kreatywnej atmosferze Tony odkrywa swoją pasję, powołanie i to, kim tak naprawdę jest.",
+        "poster": "media/posters/cc7518dd5bf4191117af.webp"
+      },
+      {
+        "hour": "21:15",
+        "datetime": "2026-09-04 21:15:00",
+        "title": "Miłość, śmierć i dojrzewanie w camp Miasma",
+        "originalTitle": "Teenage Sex and Death at Camp Miasma",
+        "director": " Jane Schoenbrun",
+        "year": "2026",
+        "premiereDate": "2026-09-04",
+        "duration": "106",
+        "countries": "USA",
+        "shortDesc": "<p>Na dnie jeziora jest dziura. To z niej pochodzą filmy. Przygotujcie się na Małą Śmierć.</p>\n",
+        "lang": "en",
+        "subtitlesLang": "pl",
+        "age": "16",
+        "credits": "reż.  Jane Schoenbrun <br>USA <br>2026,106’",
+        "desc": "<p>Na dnie jeziora jest dziura. To z niej pochodzą filmy. Przygotujcie się na Małą Śmierć.</p>\n",
+        "hall": "1",
+        "movieLink": "https://www.kinomuza.pl/movie/milosc-smierc-i-dojrzewanie-na-camp-miasma/",
+        "ticketLink": "https://estradapoznan.bilety24.pl/kup-bilety/?id=983014#total",
+        "prePremier": false,
+        "tape35mm": false,
+        "ad": false,
+        "deaf": false,
+        "ticketPrice": "",
+        "ticketHalfPrice": "",
+        "alt": "Miłość, śmierć i dojrzewanie w camp Miasma",
+        "thumb": "https://www.kinomuza.pl/content/uploads/2026/08/camp-1-800x450.jpg",
+        "description": "Na dnie jeziora jest dziura. To z niej pochodzą filmy. Przygotujcie się na Małą Śmierć.",
+        "shortDescription": "Na dnie jeziora jest dziura. To z niej pochodzą filmy. Przygotujcie się na Małą Śmierć.",
+        "external": {
+          "imdb": {
+            "id": "tt35298123",
+            "url": "https://www.imdb.com/title/tt35298123/",
+            "rating": 7.2,
+            "votes": 7984
+          },
+          "filmweb": {
+            "id": "10114411",
+            "url": "https://www.filmweb.pl/film/Mi%C5%82o%C5%9B%C4%87%2C+%C5%9Bmier%C4%87+i+dojrzewanie+w+Camp+Miasma-2026-10114411",
+            "rating": 7.3,
+            "votes": 579
+          },
+          "rottenTomatoes": {
+            "url": "https://www.rottentomatoes.com/m/teenage_sex_and_death_at_camp_miasma",
+            "title": "Teenage Sex and Death at Camp Miasma",
+            "year": "2026",
+            "directors": [
+              "Jane Schoenbrun"
+            ],
+            "criticsRating": 94,
+            "criticsVotes": 267,
+            "audienceRating": 78,
+            "audienceVotes": 484
+          }
+        },
+        "longDescription": "Na dnie jeziora jest dziura. To z niej pochodzą filmy.\n\nMłoda, utalentowana reżyserka Kris (Hannah Einbinder) dostaje od studia filmowego szansę życia – ma nakręcić remake kultowej serii horrorów „Camp Miasma”, która cieszyła się ogromną popularnością w latach osiemdziesiątych i dziewięćdziesiątych. Aby znaleźć inspirację, udaje się na spotkanie z Billy (Gillian Anderson), która grała główną rolę w pierwowzorze projektu. Wizyta u ekscentrycznej aktorki szybko przeradza się w coś więcej niż zwykły wywiad.\n\n„Miłość, śmierć i dojrzewanie w Camp Miasma” zadebiutowała na festiwalu w Cannes, gdzie szturmem zdobyła serca krytyków i widzów – a także prestiżową nominację w sekcji Un Certain Regard. Najnowszy film Jane Shoenbrun (twórcy docenianego „W blasku ekranu”) ma obecnie 100% pozytywnych recenzji na Rotten Tomatoes, a widzowie wychodzą z seansów zachwyceni.\n\nChoć film Shoenbrun opowiada o powstawaniu fikcyjnej serii horrorów, sam w sobie horrorem nie jest, a zaledwie czerpie z jego estetyki. To przepiękna pod względem wizualnym kinofilska uczta opowiadająca przede wszystkim o bezgranicznej miłości do kina. I o tym, jak ta miłość zmienia nasze życie.\n\nW centrum tej opowieści stoją dwie aktorki reprezentujące dwa różne pokolenia. Legendarna Gillian Anderson wciela się w rolę ekscentrycznej diwy, a znana z serialu „Hacks” Hannah Einbinder w niepewną swojej pozycji, ale utalentowaną reżyserkę. Razem tworzą najbardziej elektryzujący ekranowy duet tego roku.",
+        "poster": "media/posters/1294a835ebec7b71a0d9.webp"
+      }
+    ]
+  }
+}

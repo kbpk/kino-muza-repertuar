@@ -1,0 +1,67 @@
+{
+  "schemaVersion": 1,
+  "date": "2026-09-13",
+  "updatedAt": "2026-09-04T09:33:23.625Z",
+  "source": "https://www.kinomuza.pl/repertoire/day/",
+  "day": {
+    "id": "09",
+    "date": "13.09",
+    "now": "2026-09-04 11:33:00",
+    "info": [],
+    "repertoire": [
+      {
+        "hour": "19:15",
+        "datetime": "2026-09-13 19:15:00",
+        "title": "Niezłomność",
+        "originalTitle": "Härte",
+        "director": "Rosa von Praunheim",
+        "year": "2015",
+        "premiereDate": "",
+        "duration": "89",
+        "countries": "Niemcy",
+        "shortDesc": "<p>Historia opowiedziana jest z perspektywy jego samego oraz jego partnerki Marion. Przez wiele lat Marion, podobnie jak wiele innych kobiet, pracowała dla niego jako prostytutka.</p>\n",
+        "lang": "de",
+        "subtitlesLang": "pl",
+        "age": "16",
+        "credits": "reż. Rosa von Praunheim <br>Niemcy <br>2015,89’",
+        "desc": "<p>Historia opowiedziana jest z perspektywy jego samego oraz jego partnerki Marion. Przez wiele lat Marion, podobnie jak wiele innych kobiet, pracowała dla niego jako prostytutka.</p>\n",
+        "hall": "3",
+        "movieLink": "https://www.kinomuza.pl/movie/niezlomnosc/",
+        "ticketLink": "https://estradapoznan.bilety24.pl/kup-bilety/?id=980072#total",
+        "prePremier": false,
+        "tape35mm": false,
+        "ad": false,
+        "deaf": false,
+        "ticketPrice": "",
+        "ticketHalfPrice": "",
+        "alt": "Niezłomność",
+        "thumb": "https://www.kinomuza.pl/content/uploads/2026/09/HAERTE_Foto_Marion-Erdmann_Andreas-Marquardt-800x450.jpg",
+        "description": "Historia opowiedziana jest z perspektywy jego samego oraz jego partnerki Marion. Przez wiele lat Marion, podobnie jak wiele innych kobiet, pracowała dla niego jako prostytutka.",
+        "shortDescription": "Historia opowiedziana jest z perspektywy jego samego oraz jego partnerki Marion. Przez wiele lat Marion, podobnie jak wiele innych kobiet, pracowała dla niego jako prostytutka.",
+        "external": {
+          "imdb": null,
+          "filmweb": {
+            "id": "736559",
+            "url": "https://www.filmweb.pl/film/H%C3%A4rte-2015-736559",
+            "rating": 6.2,
+            "votes": 5
+          },
+          "rottenTomatoes": {
+            "url": "https://www.rottentomatoes.com/m/harte",
+            "title": "Härte (Tough Love)",
+            "year": "",
+            "directors": [
+              "Rosa von Praunheim"
+            ],
+            "criticsRating": null,
+            "criticsVotes": 1,
+            "audienceRating": null,
+            "audienceVotes": 1
+          }
+        },
+        "longDescription": "Niezłomność  to  prawdziwa   historia   Andreasa   Marquardta   sportowca ,  który   stał   się   brutalnym   sutenerem ,   siedział   osiem   lat  w  więzieniu , a następnie   dzięki   terapii   przepracował traumę związaną z  przemocą  i  wykorzystywaniem   seksualnym ,  których   doświadczał  w  dzieciństwie   ze   strony   swojej m atki .  Obecnie   angażuje   się  w  działalność   charytatywną  na  rzecz   dzieci   będących   ofiarami   przemocy Historia   opowiedziana   jest  z  perspektywy   jego   samego   oraz   jego   partnerki Marion.  P rzez   wiele   lat  Marion,  podobnie   jak   wiele   innych   kobiet ,  pracowała   dla   niego   jako   prostytutka . Jako  jedyna   pozostała   jednak   przy   nim  i do  dziś   wspiera  go  oraz   trwa  u  jego   boku .",
+        "poster": "media/posters/4377929432620af1a565.webp"
+      }
+    ]
+  }
+}

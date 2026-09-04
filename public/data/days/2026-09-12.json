@@ -1,0 +1,61 @@
+{
+  "schemaVersion": 1,
+  "date": "2026-09-12",
+  "updatedAt": "2026-09-04T09:33:23.625Z",
+  "source": "https://www.kinomuza.pl/repertoire/day/",
+  "day": {
+    "id": "08",
+    "date": "12.09",
+    "now": "2026-09-04 11:32:44",
+    "info": [],
+    "repertoire": [
+      {
+        "hour": "19:15",
+        "datetime": "2026-09-12 19:15:00",
+        "title": "Moje matki",
+        "originalTitle": "Meine Mütter - Spurensuche in Riga",
+        "director": "Rosa von Praunheim",
+        "year": "2007",
+        "premiereDate": "",
+        "duration": "87",
+        "countries": "Niemcy",
+        "shortDesc": "<p>Reżyser rozpoczyna poszukiwania swoich nieznanych „prawdziwych” rodziców. Śledztwo prowadzi  go przez niemieckie archiwa oraz na Łotwę, gdzie natrafia na liczne ślady tragicznej i zbrodniczej niemieckiej przeszłości.</p>\n",
+        "lang": "de",
+        "subtitlesLang": "pl",
+        "age": "16",
+        "credits": "reż. Rosa von Praunheim <br>Niemcy <br>2007,87’",
+        "desc": "<p>Reżyser rozpoczyna poszukiwania swoich nieznanych „prawdziwych” rodziców. Śledztwo prowadzi  go przez niemieckie archiwa oraz na Łotwę, gdzie natrafia na liczne ślady tragicznej i zbrodniczej niemieckiej przeszłości.</p>\n",
+        "hall": "3",
+        "movieLink": "https://www.kinomuza.pl/movie/moje-matki/",
+        "ticketLink": "https://estradapoznan.bilety24.pl/kup-bilety/?id=980067#total",
+        "prePremier": false,
+        "tape35mm": false,
+        "ad": false,
+        "deaf": false,
+        "ticketPrice": "",
+        "ticketHalfPrice": "",
+        "alt": "Moje matki",
+        "thumb": "https://www.kinomuza.pl/content/uploads/2026/09/MEINE_MUETTER_SPURENSUCHE_IN_RIGA_Rosa_von_Praunheim_Filmset_Regisseur_05-800x450.jpg",
+        "description": "Reżyser rozpoczyna poszukiwania swoich nieznanych „prawdziwych” rodziców. Śledztwo prowadzi  go przez niemieckie archiwa oraz na Łotwę, gdzie natrafia na liczne ślady tragicznej i zbrodniczej niemieckiej przeszłości.",
+        "shortDescription": "Reżyser rozpoczyna poszukiwania swoich nieznanych „prawdziwych” rodziców. Śledztwo prowadzi  go przez niemieckie archiwa oraz na Łotwę, gdzie natrafia na liczne ślady tragicznej i zbrodniczej niemieckiej przeszłości.",
+        "external": {
+          "imdb": {
+            "id": "tt1139364",
+            "url": "https://www.imdb.com/title/tt1139364/",
+            "rating": 7.7,
+            "votes": 58
+          },
+          "filmweb": {
+            "id": "479788",
+            "url": "https://www.filmweb.pl/film/Meine+M%C3%BCtter+-+Spurensuche+in+Riga-2007-479788",
+            "rating": 7.5,
+            "votes": 2
+          },
+          "rottenTomatoes": null
+        },
+        "longDescription": "Rosa von Praunheim (Holger Mischwitzky, ur. 1942), ikona niemieckiego kina gejowskiego, dopiero w wieku 60 lat dowiedział się, że Gertrud nie była jego biologiczną matką, lecz zabrała go z domu dziecka w Rydze i adoptowała.  \n\nReżyser rozpoczyna poszukiwania swoich nieznanych „prawdziwych” rodziców. Śledztwo prowadzi go przez niemieckie archiwa oraz na Łotwę, gdzie natrafia na liczne ślady tragicznej i zbrodniczej niemieckiej przeszłości. Odkrywa tożsamość swojej matki, która zmarła już w 1946 roku, lecz mimo to pod koniec zadaje sobie pytanie: „Czy naprawdę chcę to wszystko wiedzieć?”  \n\nChoć w filmie Rosa von Praunheim poszukuje własnej tożsamości, film „Moje matki” wykracza daleko poza indywidualne losy bohatera, oferując poruszające spojrzenie na historię Niemiec.",
+        "poster": "media/posters/19ce816405ba991327ca.webp"
+      }
+    ]
+  }
+}

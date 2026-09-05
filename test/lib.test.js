@@ -1,7 +1,7 @@
 import assert from "node:assert/strict";
 import test from "node:test";
 import { dateLabel, detailsMetadata, externalLinks, fullDate, groupMovies, isRepertoireStale, mergeDaysByDate, metadata, nextAvailableDate, previousAvailableDate, searchMatches, showingEndMinutes, showingMatchesHall, showingMatchesTime, sortMovies } from "../public/lib.js";
-import { dayIso, normalizeDay, preservePastShowings, trimAtFirstEmptyDay } from "../scripts/fetch-repertoire.mjs";
+import { dayIso, extractRepertoireDates, nonEmptyDays, normalizeDay, preservePastShowings, repertoireDayOffsets, sourceDate } from "../scripts/fetch-repertoire.mjs";
 
 test("grupuje seanse tego samego filmu", () => {
   const movie = { title: "Film", year: "2026", movieLink: "https://example.test/film", hour: "18:00" };
@@ -35,7 +35,10 @@ test("używa dokładnych linków po dopasowaniu", () => {
 });
 
 test("usuwa HTML z opisu, ale zachowuje tekst", () => {
-  const day = normalizeDay({ id: "00", repertoire: [{ title: "Film", desc: "<p>A &amp; B<br>Druga linia</p><script>x</script>" }] });
+  const day = normalizeDay({ id: "00", repertoire: [{ title: " Film ", originalTitle: " THE FILM ", director: " Reżyser ", desc: "<p>A &amp; B<br>Druga linia</p><script>x</script>" }] });
+  assert.equal(day.repertoire[0].title, "Film");
+  assert.equal(day.repertoire[0].originalTitle, "THE FILM");
+  assert.equal(day.repertoire[0].director, "Reżyser");
   assert.equal(day.repertoire[0].description, "A & B\nDruga linia x");
 });
 
@@ -86,25 +89,35 @@ test("dubbing zastępuje język i napisy w zawsze widocznych metadanych", () => 
   assert.equal(metadata({ dubbing: false }).includes("dubbing"), false);
 });
 
-test("kończy repertuar na pierwszym pustym dniu", () => {
+test("pomija puste dni, ale zachowuje późniejsze seanse", () => {
   const days = [
     { id: "00", repertoire: [{ title: "A" }] },
     { id: "01", repertoire: [{ title: "B" }] },
     { id: "02", repertoire: [] },
-    { id: "03", repertoire: [{ title: "nie pokazuj" }] },
+    { id: "03", repertoire: [{ title: "pokaż" }] },
   ];
-  assert.deepEqual(trimAtFirstEmptyDay(days).map((day) => day.id), ["00", "01"]);
+  assert.deepEqual(nonEmptyDays(days).map((day) => day.id), ["00", "01", "03"]);
 });
 
-test("po ostatnim seansie dnia zaczyna od kolejnego dostępnego dnia", () => {
-  const days = [
-    { id: "00", repertoire: [] },
-    { id: "01", repertoire: [{ title: "Jutro" }] },
-    { id: "02", repertoire: [{ title: "Pojutrze" }] },
-    { id: "03", repertoire: [] },
-    { id: "04", repertoire: [{ title: "Nie pokazuj" }] },
-  ];
-  assert.deepEqual(trimAtFirstEmptyDay(days).map((day) => day.id), ["01", "02"]);
+test("odczytuje unikalne daty tylko z zakładki filmów", () => {
+  const html = `
+    <span class="day lh-1">01.01</span>
+    <div class="tab-films" id="movies">
+      <span class="h2 day lh-1">22.09</span>
+      <span class="lh-1 day h2">03.11</span>
+      <span class="day lh-1">22.09</span>
+    </div>`;
+  assert.deepEqual(extractRepertoireDates(html), ["22.09", "03.11"]);
+  assert.deepEqual(extractRepertoireDates("<main>brak zakładki</main>"), []);
+});
+
+test("łączy najbliższe dni z odległymi datami i obsługuje zmianę roku", () => {
+  assert.deepEqual(repertoireDayOffsets(["22.09", "03.11", "04.09", "31.02"], "2026-09-05", 3), [0, 1, 2, 17, 59, 364]);
+});
+
+test("ustala datę bazową z czasu odpowiedzi Muzy", () => {
+  assert.equal(sourceDate({ now: "2026-09-05 08:45:04", repertoire: [] }), "2026-09-05");
+  assert.equal(sourceDate({ repertoire: [{ datetime: "2026-09-06 18:00:00" }] }), "2026-09-06");
 });
 
 test("wyznacza nazwę dziennego archiwum z daty seansu", () => {

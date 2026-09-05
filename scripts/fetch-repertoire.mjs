@@ -6,6 +6,7 @@ import { enrichRepertoire } from "./external-ratings.mjs";
 import { enrichMuzaDetails } from "./muza-details.mjs";
 
 const DEFAULT_SOURCE = "https://www.kinomuza.pl/repertoire/day/";
+const DEFAULT_DISCOVERY_SOURCE = "https://www.kinomuza.pl/repertuar/";
 const DEFAULT_DAYS = 13;
 const ROOT = fileURLToPath(new URL("..", import.meta.url));
 const POSTER_VERSION = 2;
@@ -102,18 +103,68 @@ export function normalizeDay(day) {
     info: Array.isArray(day.info) ? day.info : [],
     repertoire: (Array.isArray(day.repertoire) ? day.repertoire : []).map((show) => ({
       ...show,
+      title: String(show.title || "").trim(),
+      originalTitle: String(show.originalTitle || "").trim(),
+      director: String(show.director || "").trim(),
       description: plainText(show.desc || show.shortDesc || ""),
       shortDescription: plainText(show.shortDesc || ""),
     })),
   };
 }
 
-export function trimAtFirstEmptyDay(days) {
-  const firstAvailable = days.findIndex((day) => day.repertoire.length > 0);
-  if (firstAvailable === -1) return [];
-  const available = days.slice(firstAvailable);
-  const firstEmpty = available.findIndex((day) => day.repertoire.length === 0);
-  return firstEmpty === -1 ? available : available.slice(0, firstEmpty);
+export function nonEmptyDays(days) {
+  return days.filter((day) => day.repertoire.length > 0);
+}
+
+export function extractRepertoireDates(html) {
+  const source = String(html || "");
+  const moviesStart = source.search(/<[^>]+\bid=["']movies["'][^>]*>/i);
+  if (moviesStart === -1) return [];
+
+  const dates = new Set();
+  const spanPattern = /<span\b([^>]*)>([\s\S]*?)<\/span>/gi;
+  for (const match of source.slice(moviesStart).matchAll(spanPattern)) {
+    const className = match[1].match(/\bclass=["']([^"']*)["']/i)?.[1] || "";
+    if (!/(?:^|\s)day(?:\s|$)/i.test(className) || !/(?:^|\s)lh-1(?:\s|$)/i.test(className)) continue;
+    const date = plainText(match[2]);
+    if (/^\d{2}\.\d{2}$/.test(date)) dates.add(date);
+  }
+  return [...dates];
+}
+
+function validIsoDate(year, month, day) {
+  const date = new Date(Date.UTC(year, month - 1, day));
+  if (date.getUTCFullYear() !== year || date.getUTCMonth() !== month - 1 || date.getUTCDate() !== day) return null;
+  return date;
+}
+
+export function repertoireDayOffsets(dates, todayIso, baselineDays = DEFAULT_DAYS) {
+  if (!/^\d{4}-\d{2}-\d{2}$/.test(todayIso)) throw new Error(`Nieprawidłowa data bazowa: ${todayIso}`);
+  const today = new Date(`${todayIso}T00:00:00Z`);
+  if (Number.isNaN(today.valueOf())) throw new Error(`Nieprawidłowa data bazowa: ${todayIso}`);
+
+  const baselineCount = Math.max(1, Number.isInteger(baselineDays) ? baselineDays : DEFAULT_DAYS);
+  const offsets = new Set(Array.from({ length: baselineCount }, (_, index) => index));
+  for (const value of dates) {
+    const match = String(value).match(/^(\d{2})\.(\d{2})$/);
+    if (!match) continue;
+    const day = Number(match[1]);
+    const month = Number(match[2]);
+    let date = validIsoDate(today.getUTCFullYear(), month, day);
+    if (!date) continue;
+    if (date < today) date = validIsoDate(today.getUTCFullYear() + 1, month, day);
+    if (!date) continue;
+    offsets.add(Math.round((date - today) / 86_400_000));
+  }
+  return [...offsets].sort((left, right) => left - right);
+}
+
+export function sourceDate(day) {
+  const now = String(day?.now || "");
+  if (/^\d{4}-\d{2}-\d{2}/.test(now)) return now.slice(0, 10);
+  const date = dayIso(day);
+  if (date) return date;
+  throw new Error("Odpowiedź Muzy nie zawiera daty bazowej");
 }
 
 export function dayIso(day) {
@@ -188,6 +239,7 @@ async function pruneUnusedPosters(dataDirectory, posterDirectory) {
 
 export async function buildSnapshot({
   source = DEFAULT_SOURCE,
+  discoverySource = DEFAULT_DISCOVERY_SOURCE,
   daysCount = DEFAULT_DAYS,
   outputDirectory = join(ROOT, "public"),
   skipImages = false,
@@ -195,16 +247,26 @@ export async function buildSnapshot({
   skipMuzaDetails = false,
 } = {}) {
   const startedAt = Date.now();
-  const indexes = Array.from({ length: daysCount }, (_, index) => index);
-  const fetchedDays = await mapConcurrent(indexes, 3, async (index) => {
+  const fetchDay = async (index) => {
     const response = await fetchWithRetry(`${source}${index}`);
     const payload = await response.json();
     if (!payload || typeof payload !== "object" || !Array.isArray(payload.repertoire)) {
       throw new Error(`Nieprawidłowa odpowiedź dla dnia ${index}`);
     }
     return normalizeDay(payload);
-  });
-  const days = trimAtFirstEmptyDay(fetchedDays);
+  };
+  const [firstDay, discoveryResponse] = await Promise.all([
+    fetchDay(0),
+    fetchWithRetry(discoverySource),
+  ]);
+  const discoveredDates = extractRepertoireDates(await discoveryResponse.text());
+  if (discoveredDates.length === 0) {
+    throw new Error(`Nie znaleziono dat repertuaru na ${discoverySource}`);
+  }
+  const indexes = repertoireDayOffsets(discoveredDates, sourceDate(firstDay), daysCount);
+  const remainingDays = await mapConcurrent(indexes.filter((index) => index !== 0), 3, fetchDay);
+  const fetchedDays = [firstDay, ...remainingDays];
+  const days = nonEmptyDays(fetchedDays);
 
   const dataDirectory = join(outputDirectory, "data");
   const posterDirectory = join(outputDirectory, "media", "posters");
@@ -266,6 +328,7 @@ export async function buildSnapshot({
 if (process.argv[1] === fileURLToPath(import.meta.url)) {
   const snapshot = await buildSnapshot({
     source: process.env.MUZA_SOURCE_URL || DEFAULT_SOURCE,
+    discoverySource: process.env.MUZA_DISCOVERY_URL || DEFAULT_DISCOVERY_SOURCE,
     daysCount: Number(process.env.MUZA_DAYS || DEFAULT_DAYS),
     outputDirectory: process.env.OUTPUT_DIR || join(ROOT, "public"),
     skipImages: process.env.SKIP_IMAGES === "1",

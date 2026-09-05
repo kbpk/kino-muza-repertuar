@@ -85,6 +85,17 @@ function updateNativeFilterDisplays() {
   for (const input of nativeFilterInputs) updateNativeFilterDisplay(input);
 }
 
+for (const input of nativeFilterInputs) {
+  input.addEventListener("click", () => {
+    if (typeof input.showPicker !== "function") return;
+    try {
+      input.showPicker();
+    } catch {
+      // Samo kliknięcie nadal obsługuje natywny picker w przeglądarkach bez showPicker().
+    }
+  });
+}
+
 const element = (tag, className, text) => {
   const node = document.createElement(tag);
   if (className) node.className = className;

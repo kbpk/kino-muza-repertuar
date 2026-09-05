@@ -1,6 +1,6 @@
 import assert from "node:assert/strict";
 import test from "node:test";
-import { dateLabel, detailsMetadata, externalLinks, fullDate, groupMovies, isRepertoireStale, mergeDaysByDate, metadata, nextAvailableDate, previousAvailableDate, searchMatches, showingEndMinutes, showingMatchesHall, showingMatchesTime, sortMovies } from "../public/lib.js";
+import { dateLabel, detailsMetadata, externalLinks, fullDate, groupMovies, isRepertoireStale, mergeDaysByDate, metadata, nextAvailableDate, parseViewerParams, previousAvailableDate, searchMatches, showingEndMinutes, showingMatchesHall, showingMatchesTime, sortMovies, viewerParams } from "../public/lib.js";
 import { dayIso, extractRepertoireDates, nonEmptyDays, normalizeDay, preservePastShowings, repertoireDayOffsets, sourceDate } from "../scripts/fetch-repertoire.mjs";
 
 test("grupuje seanse tego samego filmu", () => {
@@ -148,6 +148,65 @@ test("wyszukiwanie rozumie skróty, polskie znaki i literówki tylko w tytułach
   assert.equal(searchMatches(movie, "hiszpania"), false);
   assert.equal(searchMatches(movie, "nolan"), false);
   assert.equal(searchMatches(movie, ""), true);
+});
+
+test("odtwarza widok i filtry z parametrów adresu", () => {
+  assert.deepEqual(parseViewerParams("?view=titles&day=2026-09-03&q=Gorzkie+%C5%9Bwi%C4%99ta&start=18%3A00&end=22%3A30&dateFrom=2026-09-05&dateTo=2026-09-22&halls=1%2C3&sort=filmweb"), {
+    present: true,
+    view: "movies",
+    selectedDate: "2026-09-03",
+    query: "Gorzkie święta",
+    startTime: "18:00",
+    endTime: "22:30",
+    dateFrom: "2026-09-05",
+    dateTo: "2026-09-22",
+    halls: ["1", "3"],
+    sortBy: "filmweb",
+  });
+});
+
+test("buduje link odtwarzający aktywne filtry", () => {
+  const params = viewerParams({
+    view: "days",
+    selectedDate: "2026-09-22",
+    query: "Żywot Mateusza",
+    startTime: "18:00",
+    endTime: "",
+    dateFrom: "",
+    dateTo: "",
+    halls: new Set(["1", "3"]),
+    sortBy: "imdb",
+  }, ["1", "2", "3"]);
+  assert.deepEqual(parseViewerParams(`?${params}`), {
+    present: true,
+    view: "days",
+    selectedDate: "2026-09-22",
+    query: "Żywot Mateusza",
+    startTime: "18:00",
+    endTime: "",
+    dateFrom: "",
+    dateTo: "",
+    halls: ["1", "3"],
+    sortBy: "imdb",
+  });
+});
+
+test("adres rozróżnia wszystkie sale od odznaczenia wszystkich", () => {
+  const base = { view: "movies", selectedDate: null, query: "", startTime: "", endTime: "", dateFrom: "", dateTo: "", sortBy: "title" };
+  assert.equal(viewerParams({ ...base, halls: new Set(["1", "2"]) }, ["1", "2"]).has("halls"), false);
+  assert.equal(viewerParams({ ...base, halls: new Set() }, ["1", "2"]).get("halls"), "");
+  assert.deepEqual(parseViewerParams("?view=titles&halls=").halls, []);
+});
+
+test("odrzuca niepoprawne parametry i porządkuje zakres dat", () => {
+  const parsed = parseViewerParams("?view=wrong&day=2026-02-30&start=24%3A00&end=19%3A60&dateFrom=2026-09-22&dateTo=2026-09-05&sort=unknown", "movies");
+  assert.equal(parsed.view, "movies");
+  assert.equal(parsed.selectedDate, null);
+  assert.equal(parsed.startTime, "");
+  assert.equal(parsed.endTime, "");
+  assert.equal(parsed.dateFrom, "2026-09-05");
+  assert.equal(parsed.dateTo, "2026-09-22");
+  assert.equal(parsed.sortBy, "title");
 });
 
 test("filtruje seanse po najwcześniejszym starcie i najpóźniejszym końcu", () => {

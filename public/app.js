@@ -1,4 +1,4 @@
-import { dateLabel, detailsMetadata, externalLinks, fullDate, groupMovies, isRepertoireStale, mergeDaysByDate, metadata, nextAvailableDate, previousAvailableDate, searchMatches, showingMatchesHall, showingMatchesTime, sortMovies } from "./lib.js";
+import { dateLabel, detailsMetadata, externalLinks, fullDate, groupMovies, isRepertoireStale, mergeDaysByDate, metadata, nextAvailableDate, parseViewerParams, previousAvailableDate, searchMatches, showingMatchesHall, showingMatchesTime, sortMovies, viewerParams } from "./lib.js";
 
 const VIEW_STORAGE_KEY = "muza-view";
 const storedView = (() => {
@@ -9,7 +9,8 @@ const storedView = (() => {
     return "days";
   }
 })();
-const state = { index: null, currentDays: [], dayCache: new Map(), view: storedView, query: "", startTime: "", endTime: "", hallValues: [], halls: null, sortBy: "title", dateFrom: "", dateTo: "", selectedDate: null, dayStripScrollLeft: 0 };
+const initialParams = parseViewerParams(window.location.search, storedView);
+const state = { index: null, currentDays: [], dayCache: new Map(), view: initialParams.view, query: initialParams.query, startTime: initialParams.startTime, endTime: initialParams.endTime, hallValues: [], halls: null, sortBy: initialParams.sortBy, dateFrom: initialParams.dateFrom, dateTo: initialParams.dateTo, selectedDate: initialParams.selectedDate, dayStripScrollLeft: 0 };
 const content = document.querySelector("#content");
 const updated = document.querySelector("#updated");
 const freshnessWarning = document.querySelector("#freshness-warning");
@@ -36,6 +37,12 @@ let detailsId = 0;
 let movieListObserver = null;
 let dayStripResizeObserver = null;
 const MOVIE_RENDER_BATCH = 20;
+search.value = state.query;
+startTime.value = state.startTime;
+endTime.value = state.endTime;
+dateFrom.value = state.dateFrom;
+dateTo.value = state.dateTo;
+sort.value = state.sortBy;
 for (const tab of tabs) tab.setAttribute("aria-selected", String(tab.dataset.view === state.view));
 for (const filter of dateFilters) filter.hidden = state.view !== "movies";
 
@@ -491,6 +498,9 @@ function renderMovies(days) {
 
 function render() {
   if (!state.index) return;
+  const url = new URL(window.location.href);
+  url.search = viewerParams(state, state.hallValues).toString();
+  window.history.replaceState(null, "", url);
   if (dayStripResizeObserver) {
     dayStripResizeObserver.disconnect();
     dayStripResizeObserver = null;
@@ -521,13 +531,15 @@ async function load() {
     const halls = [...new Set(state.currentDays.flatMap((day) => day.repertoire || []).map((show) => String(show.hall || "").trim()).filter(Boolean))]
       .sort((left, right) => left.localeCompare(right, "pl", { numeric: true }));
     state.hallValues = halls;
-    state.halls = new Set(halls);
+    state.halls = initialParams.halls === null
+      ? new Set(halls)
+      : new Set(initialParams.halls.filter((hall) => halls.includes(hall)));
     for (const value of halls) {
       const label = element("label", "hall-option");
       const checkbox = element("input", "hall-checkbox");
       checkbox.type = "checkbox";
       checkbox.value = value;
-      checkbox.checked = true;
+      checkbox.checked = state.halls.has(value);
       checkbox.setAttribute("aria-label", `Sala ${value}`);
       label.append(checkbox, element("span", "", value));
       hallOptions.append(label);
@@ -541,10 +553,16 @@ async function load() {
       }
     }
     const today = new Intl.DateTimeFormat("en-CA", { timeZone: "Europe/Warsaw" }).format(new Date());
-    dateFrom.value = today;
-    state.dateFrom = today;
+    if (!initialParams.present && !state.dateFrom) state.dateFrom = today;
+    dateFrom.value = state.dateFrom;
+    dateTo.value = state.dateTo;
     updateNativeFilterDisplays();
-    state.selectedDate = state.index.currentDates.includes(today) ? today : state.index.currentDates[0];
+    const availableArchive = state.index.availableDates || state.index.currentDates;
+    if (state.selectedDate && availableArchive.includes(state.selectedDate)) {
+      await loadDay(state.selectedDate);
+    } else {
+      state.selectedDate = state.index.currentDates.includes(today) ? today : state.index.currentDates[0];
+    }
     const date = new Date(state.index.fetchedAt);
     updated.textContent = `Aktualizacja: ${new Intl.DateTimeFormat("pl-PL", { day: "2-digit", month: "2-digit", hour: "2-digit", minute: "2-digit" }).format(date)}`;
     freshnessWarning.hidden = !isRepertoireStale(state.index.fetchedAt);
@@ -572,7 +590,7 @@ for (const tab of tabs) {
 }
 
 search.addEventListener("input", () => {
-  state.query = search.value.trim().toLocaleLowerCase("pl");
+  state.query = search.value.trim();
   render();
 });
 

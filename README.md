@@ -16,7 +16,7 @@ Przy filmach znajdziesz:
 - odnośniki i dostępne oceny z IMDb, Filmwebu oraz Rotten Tomatoes,
 - bezpośredni link do zakupu biletu.
 
-Domyślnie wyświetlany jest dzisiejszy repertuar. Starsze zapisane dni pozostają dostępne przyciskiem `‹`. Wybrany widok i motyw są zapamiętywane w przeglądarce, a układ działa na komputerach i telefonach.
+Domyślnie wyświetlany jest dzisiejszy repertuar. Starsze zapisane dni pozostają dostępne przyciskiem `‹`. Widok, wybrany dzień, wyszukiwanie, filtry i sortowanie są zapisywane w adresie strony, dzięki czemu można przesłać komuś link do dokładnie tych samych wyników. Motyw jest zapamiętywany w przeglądarce, a układ działa na komputerach i telefonach.
 
 ## Dane i aktualizacje
 

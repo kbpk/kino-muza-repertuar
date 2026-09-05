@@ -12,6 +12,59 @@ export function normalizeSearch(value = "") {
     .trim();
 }
 
+const VIEW_PARAMS = { repertoire: "days", titles: "movies", days: "days", movies: "movies" };
+const SORT_PARAMS = new Set(["title", "filmweb", "imdb", "rottenTomatoes", "firstShowing"]);
+const VIEWER_PARAM_NAMES = ["view", "day", "q", "start", "end", "dateFrom", "dateTo", "halls", "sort"];
+function validDateParam(value) {
+  if (!/^\d{4}-\d{2}-\d{2}$/.test(value || "")) return "";
+  const [year, month, day] = value.split("-").map(Number);
+  const date = new Date(Date.UTC(year, month - 1, day));
+  return date.getUTCFullYear() === year && date.getUTCMonth() === month - 1 && date.getUTCDate() === day ? value : "";
+}
+const validTimeParam = (value) => /^(?:[01]\d|2[0-3]):[0-5]\d$/.test(value || "") ? value : "";
+
+export function parseViewerParams(search = "", fallbackView = "days") {
+  const params = new URLSearchParams(search);
+  const requestedView = VIEW_PARAMS[params.get("view")];
+  const halls = params.has("halls")
+    ? [...new Set((params.get("halls") || "").split(",").map((value) => value.trim()).filter(Boolean))]
+    : null;
+  let dateFrom = validDateParam(params.get("dateFrom"));
+  let dateTo = validDateParam(params.get("dateTo"));
+  if (dateFrom && dateTo && dateFrom > dateTo) [dateFrom, dateTo] = [dateTo, dateFrom];
+  const sortBy = params.get("sort");
+  return {
+    present: VIEWER_PARAM_NAMES.some((name) => params.has(name)),
+    view: requestedView || (["days", "movies"].includes(fallbackView) ? fallbackView : "days"),
+    selectedDate: validDateParam(params.get("day")) || null,
+    query: (params.get("q") || "").trim(),
+    startTime: validTimeParam(params.get("start")),
+    endTime: validTimeParam(params.get("end")),
+    dateFrom,
+    dateTo,
+    halls,
+    sortBy: SORT_PARAMS.has(sortBy) ? sortBy : "title",
+  };
+}
+
+export function viewerParams(state, availableHalls = []) {
+  const params = new URLSearchParams();
+  params.set("view", state.view === "movies" ? "titles" : "repertoire");
+  if (state.view === "days" && validDateParam(state.selectedDate)) params.set("day", state.selectedDate);
+  if (state.query?.trim()) params.set("q", state.query.trim());
+  if (validTimeParam(state.startTime)) params.set("start", state.startTime);
+  if (validTimeParam(state.endTime)) params.set("end", state.endTime);
+  if (validDateParam(state.dateFrom)) params.set("dateFrom", state.dateFrom);
+  if (validDateParam(state.dateTo)) params.set("dateTo", state.dateTo);
+  if (state.halls !== null) {
+    const selected = [...new Set(state.halls)].sort((left, right) => left.localeCompare(right, "pl", { numeric: true }));
+    const allSelected = selected.length === availableHalls.length && availableHalls.every((hall) => selected.includes(hall));
+    if (!allSelected) params.set("halls", selected.join(","));
+  }
+  params.set("sort", SORT_PARAMS.has(state.sortBy) ? state.sortBy : "title");
+  return params;
+}
+
 function subsequenceMatch(query, word) {
   if (query.length < 3 || query[0] !== word[0]) return false;
   let queryIndex = 0;

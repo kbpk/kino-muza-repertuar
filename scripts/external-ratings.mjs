@@ -3,8 +3,9 @@ import { join } from "node:path";
 import { gunzipSync } from "node:zlib";
 
 const CACHE_MAX_AGE = 12 * 60 * 60 * 1000;
-const MATCH_VERSION = 11;
+const MATCH_VERSION = 14;
 const IMDb_RATINGS_URL = "https://datasets.imdbws.com/title.ratings.tsv.gz";
+const IMDb_GRAPHQL_URL = "https://api.graphql.imdb.com/";
 
 export function normalize(value = "") {
   return String(value)
@@ -137,13 +138,17 @@ async function safe(source, previous, worker) {
 
 export function chooseImdbCandidate(movie, candidates) {
   const eligible = candidates.filter((candidate) => candidate.id?.startsWith("tt") && ["feature", "movie"].includes(candidate.q || candidate.qid));
+  const expectedYear = Number(movie.year);
   const matches = eligible
-    .map((candidate) => ({ candidate, score: titleScore(movie, candidate.l, candidate.y) }))
+    .map((candidate) => {
+      const candidateYear = Number(candidate.y);
+      const yearMatches = !expectedYear || !candidateYear || Math.abs(expectedYear - candidateYear) <= 1;
+      return { candidate, score: yearMatches ? titleScore({ ...movie, year: "" }, candidate.l, "") : -100 };
+    })
     .filter(({ score }) => score >= 9)
     .sort((a, b) => b.score - a.score || (a.candidate.rank || Infinity) - (b.candidate.rank || Infinity));
   const best = matches[0];
   if (!best) {
-    const expectedYear = Number(movie.year);
     const sameYear = expectedYear ? eligible.filter((candidate) => Number(candidate.y) === expectedYear) : [];
     return sameYear.length === 1 && sameYear[0] === eligible[0] ? sameYear[0] : null;
   }
@@ -154,13 +159,67 @@ export function chooseImdbCandidate(movie, candidates) {
   return best.candidate;
 }
 
+export function imdbIdentityMatches(movie, identity) {
+  if (!movie.director || !identity?.directors?.some((director) => samePerson(movie.director, director))) return false;
+  const movieWithoutYear = { ...movie, year: "" };
+  return [identity.title, identity.originalTitle, identity.candidateTitle]
+    .some((title) => titleScore(movieWithoutYear, title, "") >= 9);
+}
+
+async function imdbIdentity(candidate) {
+  const query = `query($id: ID!) {
+    title(id: $id) {
+      titleText { text }
+      originalTitleText { text }
+      credits(first: 20, filter: { categories: ["director"] }) {
+        edges { node { name { nameText { text } } } }
+      }
+    }
+  }`;
+  const response = await fetchWithRetry(IMDb_GRAPHQL_URL, {
+    method: "POST",
+    headers: {
+      "content-type": "application/json",
+      origin: "https://www.imdb.com",
+      "x-imdb-client-name": "imdb-web-next-localized",
+      "x-imdb-user-country": "PL",
+    },
+    body: JSON.stringify({ query, variables: { id: candidate.id } }),
+  });
+  const title = (await response.json()).data?.title;
+  if (!title) throw new Error(`Brak szczegółów dla ${candidate.id}`);
+  return {
+    title: title.titleText?.text || "",
+    originalTitle: title.originalTitleText?.text || "",
+    candidateTitle: candidate.l || "",
+    directors: (title.credits?.edges || []).map((edge) => edge.node?.name?.nameText?.text).filter(Boolean),
+  };
+}
+
 async function matchImdb(movie) {
+  const verified = new Set();
   for (const title of candidateTitles(movie)) {
     const query = [title, movie.year].filter(Boolean).join(" ");
     const url = `https://v3.sg.media-imdb.com/suggestion/x/${encodeURIComponent(query)}.json`;
     const payload = await (await fetchWithRetry(url)).json();
-    const candidate = chooseImdbCandidate(movie, payload.d || []);
+    const candidates = payload.d || [];
+    const candidate = chooseImdbCandidate(movie, candidates);
     if (candidate) return { id: candidate.id, url: `https://www.imdb.com/title/${candidate.id}/`, rating: null, votes: null };
+
+    const movieWithoutYear = { ...movie, year: "" };
+    const distantCandidates = candidates
+      .filter((item) => item.id?.startsWith("tt") && ["feature", "movie"].includes(item.q || item.qid))
+      .filter((item) => titleScore(movieWithoutYear, item.l, "") >= 9)
+      .sort((left, right) => (left.rank || Infinity) - (right.rank || Infinity))
+      .slice(0, 4);
+    for (const distantCandidate of distantCandidates) {
+      if (verified.has(distantCandidate.id)) continue;
+      verified.add(distantCandidate.id);
+      const identity = await safe(`IMDb details ${movie.title}`, null, () => imdbIdentity(distantCandidate));
+      if (imdbIdentityMatches(movie, identity)) {
+        return { id: distantCandidate.id, url: `https://www.imdb.com/title/${distantCandidate.id}/`, rating: null, votes: null };
+      }
+    }
   }
   return null;
 }
@@ -168,12 +227,19 @@ async function matchImdb(movie) {
 export function chooseFilmwebCandidate(movie, candidates) {
   return candidates
     .filter((candidate) => candidate.preview?.directors?.some((director) => samePerson(movie.director, director.name)))
-    .map((candidate) => ({ candidate, score: Math.max(
-      titleScore(movie, candidate.info.title, candidate.info.year),
-      titleScore(movie, candidate.info.originalTitle, candidate.info.year),
-    ) }))
+    .map((candidate) => {
+      const expectedYear = Number(movie.year);
+      const candidateYear = Number(candidate.info.year);
+      const movieWithoutYear = { ...movie, year: "" };
+      const score = Math.max(
+        titleScore(movieWithoutYear, candidate.info.title, ""),
+        titleScore(movieWithoutYear, candidate.info.originalTitle, ""),
+      );
+      const yearDistance = expectedYear && candidateYear ? Math.abs(expectedYear - candidateYear) : 0;
+      return { candidate, score: yearDistance <= 1 || score >= 9 ? score : -100, yearDistance };
+    })
     .filter(({ score }) => score > 0)
-    .sort((a, b) => b.score - a.score)[0]?.candidate || null;
+    .sort((a, b) => b.score - a.score || a.yearDistance - b.yearDistance)[0]?.candidate || null;
 }
 
 export function filmwebPosterUrl(path) {

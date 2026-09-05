@@ -7,6 +7,7 @@ import {
   filmwebGenres,
   normalize,
   filmwebPosterUrl,
+  imdbIdentityMatches,
   parseRottenTomatoesPage,
   parseRottenTomatoesSearch,
   rottenTomatoesDirectUrls,
@@ -33,6 +34,15 @@ test("IMDb wybiera zgodny tytuł i rok", () => {
   assert.equal(result.id, "tt-right");
 });
 
+test("IMDb toleruje roczną różnicę daty premiery przy zgodnym tytule", () => {
+  const promisedLand = { title: "Ziemia obiecana", originalTitle: "The Promised Land", year: "1974" };
+  const result = chooseImdbCandidate(promisedLand, [
+    { id: "tt-new", l: "The Promised Land", y: 2023, q: "feature", rank: 1 },
+    { id: "tt0072446", l: "The Promised Land", y: 1975, q: "feature", rank: 20 },
+  ]);
+  assert.equal(result.id, "tt0072446");
+});
+
 test("IMDb odrzuca dwa równie prawdopodobne filmy", () => {
   const result = chooseImdbCandidate(movie, [
     { id: "tt-one", l: "The Odyssey", y: 2026, q: "feature", rank: 100 },
@@ -50,6 +60,20 @@ test("IMDb akceptuje jednoznaczny alias jako pierwsze trafienie ze zgodnym rokie
   assert.equal(result.id, "tt0084724");
 });
 
+test("IMDb potwierdza odległy rok zgodnością tytułu i reżysera", () => {
+  const delayed = { title: "Film", originalTitle: "The Film", year: "2018", director: "Jan Kowalski" };
+  assert.equal(imdbIdentityMatches(delayed, {
+    candidateTitle: "The Film",
+    title: "Film",
+    directors: ["Jan Kowalski"],
+  }), true);
+  assert.equal(imdbIdentityMatches(delayed, {
+    candidateTitle: "The Film",
+    title: "Film",
+    directors: ["Anna Nowak"],
+  }), false);
+});
+
 test("IMDb odrzuca alias, gdy zgodny rok nie jest jednoznaczny", () => {
   const city = { title: "Inny tytuł", originalTitle: "Nieznany tytuł", year: "1983" };
   const result = chooseImdbCandidate(city, [
@@ -65,6 +89,23 @@ test("Filmweb wymaga zgodnego reżysera", () => {
     { id: 2, info: { title: "Odyseja", originalTitle: "The Odyssey", year: 2026 }, preview: { directors: [{ name: "Christopher Nolan" }] } },
   ]);
   assert.equal(result.id, 2);
+});
+
+test("Filmweb toleruje roczną różnicę daty premiery przy zgodnym tytule i reżyserze", () => {
+  const konopielka = { title: "Konopielka", year: "1982", director: "Witold Leszczyński" };
+  const result = chooseFilmwebCandidate(konopielka, [
+    { id: 1111, info: { title: "Konopielka", year: 1981 }, preview: { directors: [{ name: "Witold Leszczyński" }] } },
+    { id: 2222, info: { title: "Konopielka", year: 2001 }, preview: { directors: [{ name: "Witold Leszczyński" }] } },
+  ]);
+  assert.equal(result.id, 1111);
+});
+
+test("Filmweb potwierdza większą różnicę roku zgodnością tytułu i reżysera", () => {
+  const delayed = { title: "Długo czekający film", year: "2018", director: "Jan Kowalski" };
+  const result = chooseFilmwebCandidate(delayed, [
+    { id: 3333, info: { title: "Długo czekający film", year: 2023 }, preview: { directors: [{ name: "Jan Kowalski" }] } },
+  ]);
+  assert.equal(result.id, 3333);
 });
 
 test("buduje adres wystarczająco dużego plakatu Filmwebu", () => {

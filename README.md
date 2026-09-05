@@ -30,9 +30,9 @@ Cały aktualny repertuar jest dostępny również jako jeden dokument JSON:
 
 ## Jak to działa
 
-Viewer jest statyczną stroną bez serwera aplikacyjnego i kluczy API. GitHub Actions pobiera repertuar do pierwszego pustego dnia, zachowuje każdy dzień jako osobny plik JSON i optymalizuje plakaty do małych plików WebP. Podczas publikacji pliki dzienne są składane w zbiorczy `data/repertoire.json`, który nie jest dublowany w historii repozytorium. Opisy są pobierane podczas aktualizacji, a nie w przeglądarce użytkownika. Service Worker przechowuje ostatnią poprawną wersję do użycia podczas krótkiej awarii sieci.
+Viewer jest statyczną stroną bez serwera aplikacyjnego i kluczy API. GitHub Actions odczytuje z zakładki „Filmy” wszystkie zapowiedziane daty, a pełne dane pobiera dla nich z dziennych endpointów repertuaru. Dzięki temu pojedynczy pusty dzień nie ukrywa późniejszych pokazów. Każdy dzień jest zachowywany jako osobny plik JSON, a plakaty są optymalizowane do małych plików WebP. Podczas publikacji pliki dzienne są składane w zbiorczy `data/repertoire.json`, który nie jest dublowany w historii repozytorium. Opisy są pobierane podczas aktualizacji, a nie w przeglądarce użytkownika. Service Worker przechowuje ostatnią poprawną wersję do użycia podczas krótkiej awarii sieci.
 
-Dopasowania do zewnętrznych baz wykorzystują polski i oryginalny tytuł, rok oraz reżysera. Jeśli dopasowanie nie jest wystarczająco pewne, link prowadzi do wyników wyszukiwania zamiast do potencjalnie błędnego filmu.
+Dopasowania do zewnętrznych baz wykorzystują polski i oryginalny tytuł, rok oraz reżysera. Rok jest wskazówką, a nie twardym ograniczeniem: większa różnica wymaga potwierdzenia zgodnego tytułu i reżysera. Jeśli dopasowanie nie jest wystarczająco pewne, link prowadzi do wyników wyszukiwania zamiast do potencjalnie błędnego filmu.
 
 ## Uruchomienie lokalne
 
@@ -74,6 +74,6 @@ gh workflow run update-repertoire.yaml --repo kbpk/kino-muza-repertuar
 gh workflow run deploy-pages.yaml --repo kbpk/kino-muza-repertuar
 ```
 
-Skrypt pobierający rozpoznaje zmienne `MUZA_SOURCE_URL`, `MUZA_DAYS`, `OUTPUT_DIR`, `SKIP_IMAGES`, `SKIP_EXTERNAL` i `SKIP_MUZA_DETAILS`.
+Skrypt pobierający rozpoznaje zmienne `MUZA_SOURCE_URL`, `MUZA_DISCOVERY_URL`, `MUZA_DAYS`, `OUTPUT_DIR`, `SKIP_IMAGES`, `SKIP_EXTERNAL` i `SKIP_MUZA_DETAILS`.
 
 Oceny IMDb pochodzą z [IMDb Non-Commercial Datasets](https://developer.imdb.com/non-commercial-datasets/).

@@ -1,12 +1,12 @@
 {
   "schemaVersion": 1,
   "date": "2026-09-05",
-  "updatedAt": "2026-09-05T07:15:03.507Z",
+  "updatedAt": "2026-09-05T13:27:22.134Z",
   "source": "https://www.kinomuza.pl/repertoire/day/",
   "day": {
     "id": "00",
     "date": "05.09",
-    "now": "2026-09-05 09:13:14",
+    "now": "2026-09-05 15:26:06",
     "info": [],
     "repertoire": [
       {
@@ -565,9 +565,9 @@
         "description": "Młody Anthony Bourdain podczas upalnego lata 1976 roku odkrywa swoją pasję, powołanie i to, kim tak naprawdę jest.",
         "shortDescription": "Młody Anthony Bourdain podczas upalnego lata 1976 roku odkrywa swoją pasję, powołanie i to, kim tak naprawdę jest.",
         "genres": [
-          "Komedia",
+          "Dramat",
           "Biograficzny",
-          "Dramat"
+          "Komedia"
         ],
         "external": {
           "imdb": {
@@ -580,12 +580,12 @@
             "id": "10079933",
             "url": "https://www.filmweb.pl/film/Tony-2026-10079933",
             "genres": [
-              "Komedia",
+              "Dramat",
               "Biograficzny",
-              "Dramat"
+              "Komedia"
             ],
             "rating": 7.3,
-            "votes": 859
+            "votes": 960
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/tony_2026",
@@ -597,7 +597,7 @@
             "criticsRating": 93,
             "criticsVotes": 221,
             "audienceRating": 92,
-            "audienceVotes": 831
+            "audienceVotes": 832
           }
         },
         "longDescription": "Anthony Bourdain – buntownik, outsider, głos pokolenia, jeden z najbardziej znanych szefów kuchni i jedna z największych, najbardziej charyzmatycznych osobowości telewizyjnych. Podróżnik, pisarz, odkrywca, którego miliony ludzi na całym świecie pokochały za bezkompromisowy styl, miłość do życia, szacunek do ludzi, odwagę, ciekawość świata i autentyczność. „Tony” to historia początków jego drogi – kim był, zanim stał się Anthonym Bourdainem.\n\nUpalne lato 1976 roku, Provincetown – miasto pulsujące wolnością, seksem i energią. Młody, marzący o karierze pisarza, Tony (Dominic Sessa), by podreperować budżet, trafia na zmywak do restauracji serwującej owoce morza, prowadzonej przez tajemniczego szefa kuchni (Antonio Banderas). W intensywnej, chaotycznej, a jednocześnie niezwykle kreatywnej atmosferze Tony odkrywa swoją pasję, powołanie i to, kim tak naprawdę jest.",
@@ -649,7 +649,7 @@
               "Dramat"
             ],
             "rating": 7.3,
-            "votes": 398
+            "votes": 406
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/500_miles_2026",
@@ -714,7 +714,7 @@
               "Dramat obyczajowy"
             ],
             "rating": 7.9,
-            "votes": 86570
+            "votes": 86574
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/graduate",
@@ -908,7 +908,7 @@
               "Czarna komedia"
             ],
             "rating": 7.3,
-            "votes": 714
+            "votes": 727
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/teenage_sex_and_death_at_camp_miasma",
@@ -1104,7 +1104,7 @@
               "Czarna komedia"
             ],
             "rating": 7.3,
-            "votes": 714
+            "votes": 727
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/teenage_sex_and_death_at_camp_miasma",

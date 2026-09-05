@@ -1,12 +1,12 @@
 {
   "schemaVersion": 1,
   "date": "2026-09-10",
-  "updatedAt": "2026-09-05T07:15:03.507Z",
+  "updatedAt": "2026-09-05T13:27:22.134Z",
   "source": "https://www.kinomuza.pl/repertoire/day/",
   "day": {
     "id": "05",
     "date": "10.09",
-    "now": "2026-09-05 09:13:42",
+    "now": "2026-09-05 15:26:08",
     "info": [],
     "repertoire": [
       {
@@ -188,7 +188,7 @@
               "Dramat"
             ],
             "rating": 7.3,
-            "votes": 398
+            "votes": 406
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/500_miles_2026",
@@ -253,7 +253,7 @@
               "Czarna komedia"
             ],
             "rating": 7.3,
-            "votes": 714
+            "votes": 727
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/teenage_sex_and_death_at_camp_miasma",
@@ -587,7 +587,7 @@
             "criticsRating": 94,
             "criticsVotes": 506,
             "audienceRating": 97,
-            "audienceVotes": 31837
+            "audienceVotes": 31845
           }
         },
         "longDescription": "Christopher Nolan, który nakręcił takie filmy jak „Interstellar” oraz „Oppenheimer” jest znany z tego, że nie boi się żadnego gatunku filmowego. Po świetnie przyjętym i nagrodzonym 7 Oscarami® „Oppenheimerze” opowiadajacym historię powstania pierwszej bomby atomowej, teraz reżyser pracuje nad adaptacją „Odysei”.\n\nTo opowieść autorstwa Homera uznawana za jedno z najważniejszych dzieł literatury zachodniej. Opowiada o podróży Odyseusza, króla Itaki, który musi stawić czoła licznym wyzwaniom próbując wrócić do domu po wojnie trojańskiej. Powstała już niejedna ekranizacja klasycznego dzieła Homera, ale tym razem film nakręcony zostanie w technologii IMAX i będzie pierwszym tak nowoczesnym podejściem do „Odysei”.\n\nW filmie „Odysei” zobaczymy między innymi: Matta Damona, Toma Hollanda, Anne Hathaway, Zendayę, Roberta Pattinsona, Lupite Nyong’o oraz Charlize Theron.",
@@ -624,9 +624,9 @@
         "description": "Młody Anthony Bourdain podczas upalnego lata 1976 roku odkrywa swoją pasję, powołanie i to, kim tak naprawdę jest.",
         "shortDescription": "Młody Anthony Bourdain podczas upalnego lata 1976 roku odkrywa swoją pasję, powołanie i to, kim tak naprawdę jest.",
         "genres": [
-          "Komedia",
+          "Dramat",
           "Biograficzny",
-          "Dramat"
+          "Komedia"
         ],
         "external": {
           "imdb": {
@@ -639,12 +639,12 @@
             "id": "10079933",
             "url": "https://www.filmweb.pl/film/Tony-2026-10079933",
             "genres": [
-              "Komedia",
+              "Dramat",
               "Biograficzny",
-              "Dramat"
+              "Komedia"
             ],
             "rating": 7.3,
-            "votes": 859
+            "votes": 960
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/tony_2026",
@@ -656,7 +656,7 @@
             "criticsRating": 93,
             "criticsVotes": 221,
             "audienceRating": 92,
-            "audienceVotes": 831
+            "audienceVotes": 832
           }
         },
         "longDescription": "Anthony Bourdain – buntownik, outsider, głos pokolenia, jeden z najbardziej znanych szefów kuchni i jedna z największych, najbardziej charyzmatycznych osobowości telewizyjnych. Podróżnik, pisarz, odkrywca, którego miliony ludzi na całym świecie pokochały za bezkompromisowy styl, miłość do życia, szacunek do ludzi, odwagę, ciekawość świata i autentyczność. „Tony” to historia początków jego drogi – kim był, zanim stał się Anthonym Bourdainem.\n\nUpalne lato 1976 roku, Provincetown – miasto pulsujące wolnością, seksem i energią. Młody, marzący o karierze pisarza, Tony (Dominic Sessa), by podreperować budżet, trafia na zmywak do restauracji serwującej owoce morza, prowadzonej przez tajemniczego szefa kuchni (Antonio Banderas). W intensywnej, chaotycznej, a jednocześnie niezwykle kreatywnej atmosferze Tony odkrywa swoją pasję, powołanie i to, kim tak naprawdę jest.",
@@ -709,7 +709,7 @@
               "Czarna komedia"
             ],
             "rating": 7.3,
-            "votes": 714
+            "votes": 727
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/teenage_sex_and_death_at_camp_miasma",

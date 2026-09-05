@@ -148,7 +148,7 @@ input:focus-visible, button:focus-visible, a:focus-visible, summary:focus-visibl
 .original-title { color: var(--muted); font-size: 13px; font-weight: 400; }
 .meta { display: flex; flex-wrap: wrap; gap: 0 4px; margin: 3px 0; color: var(--muted); font-size: 13px; }
 .meta-item { flex: 0 0 auto; max-width: 100%; white-space: normal; }
-.meta-item:not(:last-child)::after { content: " ·"; }
+.meta-item:not(:first-child)::before { content: "·\00a0"; }
 .short-description { max-width: 720px; margin: 5px 0 6px; color: var(--description); overflow-wrap: anywhere; font-size: 14px; }
 .movie-actions { display: flex; flex-wrap: wrap; align-items: center; gap: 4px 10px; }
 .links { display: inline-flex; flex-wrap: wrap; align-items: center; gap: 4px 9px; }

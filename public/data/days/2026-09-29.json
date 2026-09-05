@@ -1,0 +1,79 @@
+{
+  "schemaVersion": 1,
+  "date": "2026-09-29",
+  "updatedAt": "2026-09-05T07:15:03.507Z",
+  "source": "https://www.kinomuza.pl/repertoire/day/",
+  "day": {
+    "id": "24",
+    "date": "29.09",
+    "now": "2026-09-05 09:14:20",
+    "info": [],
+    "repertoire": [
+      {
+        "hour": "20:00",
+        "datetime": "2026-09-29 20:00:00",
+        "title": "Konopielka",
+        "originalTitle": "",
+        "director": "Witold Leszczyński",
+        "year": "1982",
+        "premiereDate": "",
+        "duration": "88",
+        "countries": "Polska",
+        "shortDesc": "<p>W podupadłej wsi na Białostocczyźnie pojawia się nauczycielka, która zakłóca swoim przyjazdem dotychczasowy rytm wiejskiego życia. Jej rewolucyjne pomysły spotykają się z oporem chłopa Kaziuka, który niechętny jest wszelkim zmianom</p>\n",
+        "lang": "pl",
+        "subtitlesLang": "",
+        "age": "16",
+        "credits": "reż. Witold Leszczyński  <br>Polska <br>1982,88’",
+        "desc": "<p>W podupadłej wsi na Białostocczyźnie pojawia się nauczycielka, która zakłóca swoim przyjazdem dotychczasowy rytm wiejskiego życia. Jej rewolucyjne pomysły spotykają się z oporem chłopa Kaziuka, który niechętny jest wszelkim zmianom</p>\n",
+        "hall": "1",
+        "movieLink": "https://www.kinomuza.pl/movie/konopielka/",
+        "ticketLink": "https://estradapoznan.bilety24.pl/kup-bilety/?id=984259#total",
+        "prePremier": false,
+        "tape35mm": false,
+        "ad": false,
+        "deaf": false,
+        "ticketPrice": "",
+        "ticketHalfPrice": "",
+        "alt": "Konopielka",
+        "thumb": "https://www.kinomuza.pl/content/uploads/2024/01/konopielka-1-800x450.jpg",
+        "cycle": "dkf kamera",
+        "description": "W podupadłej wsi na Białostocczyźnie pojawia się nauczycielka, która zakłóca swoim przyjazdem dotychczasowy rytm wiejskiego życia. Jej rewolucyjne pomysły spotykają się z oporem chłopa Kaziuka, który niechętny jest wszelkim zmianom",
+        "shortDescription": "W podupadłej wsi na Białostocczyźnie pojawia się nauczycielka, która zakłóca swoim przyjazdem dotychczasowy rytm wiejskiego życia. Jej rewolucyjne pomysły spotykają się z oporem chłopa Kaziuka, który niechętny jest wszelkim zmianom",
+        "genres": [
+          "Komedia obycz."
+        ],
+        "external": {
+          "imdb": {
+            "id": "tt0085807",
+            "url": "https://www.imdb.com/title/tt0085807/",
+            "rating": 7.5,
+            "votes": 1079
+          },
+          "filmweb": {
+            "id": "1111",
+            "url": "https://www.filmweb.pl/film/Konopielka-1981-1111",
+            "genres": [
+              "Komedia obycz."
+            ],
+            "rating": 7.7,
+            "votes": 33243
+          },
+          "rottenTomatoes": {
+            "url": "https://www.rottentomatoes.com/m/konopielka_1982",
+            "title": "Konopielka (1982)",
+            "year": "",
+            "directors": [
+              "Witold Leszczyński"
+            ],
+            "criticsRating": null,
+            "criticsVotes": null,
+            "audienceRating": 78,
+            "audienceVotes": 9
+          }
+        },
+        "longDescription": "„KONOPIELKA” jest ekranizacją głośnej powieści Edwarda Redlińskiego, która zaskarbiła sobie uznanie i sympatię czytelników dzięki emanującemu z niej humorowi, pod którym kryje się poważna refleksja nad cywilizacyjnym postępem. W podupadłej wsi na Białostocczyźnie pojawia się nauczycielka, która zakłóca swoim przyjazdem dotychczasowy rytm wiejskiego życia. Jej rewolucyjne pomysły spotykają się z oporem chłopa Kaziuka, który niechętny jest wszelkim zmianom (np. jedzeniu sztućcami z osobnych talerzy). Jednak wdzięki nauczycielki są dla Kaziuka mocnym argumentem do przewartościowania dotychczasowych poglądów.\n\nProwadzenie: Mateusz Cierechowicz, Łukasz Klawunn",
+        "poster": "media/posters/041749c2e11acd1b782d.webp"
+      }
+    ]
+  }
+}

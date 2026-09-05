@@ -1,12 +1,12 @@
 {
   "schemaVersion": 1,
   "date": "2026-09-08",
-  "updatedAt": "2026-09-04T22:27:24.698Z",
+  "updatedAt": "2026-09-05T07:15:03.507Z",
   "source": "https://www.kinomuza.pl/repertoire/day/",
   "day": {
     "id": "03",
     "date": "08.09",
-    "now": "2026-09-05 00:27:16",
+    "now": "2026-09-05 09:13:29",
     "info": [],
     "repertoire": [
       {
@@ -14,7 +14,7 @@
         "datetime": "2026-09-08 14:15:00",
         "title": "Ojczyzna",
         "originalTitle": "Fatherland",
-        "director": "Paweł Pawlikowski ",
+        "director": "Paweł Pawlikowski",
         "year": "2026",
         "premiereDate": "2026-06-19",
         "duration": "82",
@@ -46,7 +46,7 @@
             "id": "tt37304295",
             "url": "https://www.imdb.com/title/tt37304295/",
             "rating": 7.1,
-            "votes": 995
+            "votes": 1048
           },
           "filmweb": {
             "id": "10074985",
@@ -55,7 +55,7 @@
               "Dramat"
             ],
             "rating": 6.9,
-            "votes": 7532
+            "votes": 7535
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/fatherland_2026",
@@ -110,7 +110,7 @@
             "id": "tt28326501",
             "url": "https://www.imdb.com/title/tt28326501/",
             "rating": 6.8,
-            "votes": 1940
+            "votes": 1942
           },
           "filmweb": {
             "id": "10070385",
@@ -119,7 +119,7 @@
               "Dramat"
             ],
             "rating": 6.2,
-            "votes": 335
+            "votes": 340
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/the_little_sister_2025",
@@ -168,26 +168,26 @@
         "shortDescription": "Opowieść o podróży Odyseusza, króla Itaki, który musi stawić czoła licznym wyzwaniom próbując wrócić do domu po wojnie trojańskiej.",
         "genres": [
           "Dramat",
-          "Fantasy",
-          "Przygodowy"
+          "Przygodowy",
+          "Fantasy"
         ],
         "external": {
           "imdb": {
             "id": "tt33764258",
             "url": "https://www.imdb.com/title/tt33764258/",
             "rating": 8.4,
-            "votes": 470219
+            "votes": 472098
           },
           "filmweb": {
             "id": "10068387",
             "url": "https://www.filmweb.pl/film/Odyseja-2026-10068387",
             "genres": [
               "Dramat",
-              "Fantasy",
-              "Przygodowy"
+              "Przygodowy",
+              "Fantasy"
             ],
             "rating": 7.7,
-            "votes": 65719
+            "votes": 66021
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/the_odyssey_2026",
@@ -199,7 +199,7 @@
             "criticsRating": 94,
             "criticsVotes": 506,
             "audienceRating": 97,
-            "audienceVotes": 31769
+            "audienceVotes": 31837
           }
         },
         "longDescription": "Christopher Nolan, który nakręcił takie filmy jak „Interstellar” oraz „Oppenheimer” jest znany z tego, że nie boi się żadnego gatunku filmowego. Po świetnie przyjętym i nagrodzonym 7 Oscarami® „Oppenheimerze” opowiadajacym historię powstania pierwszej bomby atomowej, teraz reżyser pracuje nad adaptacją „Odysei”.\n\nTo opowieść autorstwa Homera uznawana za jedno z najważniejszych dzieł literatury zachodniej. Opowiada o podróży Odyseusza, króla Itaki, który musi stawić czoła licznym wyzwaniom próbując wrócić do domu po wojnie trojańskiej. Powstała już niejedna ekranizacja klasycznego dzieła Homera, ale tym razem film nakręcony zostanie w technologii IMAX i będzie pierwszym tak nowoczesnym podejściem do „Odysei”.\n\nW filmie „Odysei” zobaczymy między innymi: Matta Damona, Toma Hollanda, Anne Hathaway, Zendayę, Roberta Pattinsona, Lupite Nyong’o oraz Charlize Theron.",
@@ -242,7 +242,7 @@
             "id": "tt31216533",
             "url": "https://www.imdb.com/title/tt31216533/",
             "rating": 7.3,
-            "votes": 358
+            "votes": 362
           },
           "filmweb": {
             "id": "10117286",
@@ -251,7 +251,7 @@
               "Dramat"
             ],
             "rating": 7.3,
-            "votes": 349
+            "votes": 398
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/500_miles_2026",
@@ -307,7 +307,7 @@
             "id": "tt32212403",
             "url": "https://www.imdb.com/title/tt32212403/",
             "rating": 7.3,
-            "votes": 968
+            "votes": 985
           },
           "filmweb": {
             "id": "10117005",
@@ -317,7 +317,7 @@
               "Komedia"
             ],
             "rating": 7.2,
-            "votes": 550
+            "votes": 587
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/sunny_dancer",
@@ -340,7 +340,7 @@
         "datetime": "2026-09-08 19:00:00",
         "title": "Miłość, śmierć i dojrzewanie w camp Miasma",
         "originalTitle": "Teenage Sex and Death at Camp Miasma",
-        "director": " Jane Schoenbrun",
+        "director": "Jane Schoenbrun",
         "year": "2026",
         "premiereDate": "2026-09-04",
         "duration": "106",
@@ -372,7 +372,7 @@
             "id": "tt35298123",
             "url": "https://www.imdb.com/title/tt35298123/",
             "rating": 7.2,
-            "votes": 8212
+            "votes": 8364
           },
           "filmweb": {
             "id": "10114411",
@@ -381,7 +381,7 @@
               "Czarna komedia"
             ],
             "rating": 7.3,
-            "votes": 588
+            "votes": 714
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/teenage_sex_and_death_at_camp_miasma",
@@ -393,7 +393,7 @@
             "criticsRating": 94,
             "criticsVotes": 268,
             "audienceRating": 78,
-            "audienceVotes": 485
+            "audienceVotes": 487
           }
         },
         "longDescription": "Na dnie jeziora jest dziura. To z niej pochodzą filmy.\n\nMłoda, utalentowana reżyserka Kris (Hannah Einbinder) dostaje od studia filmowego szansę życia – ma nakręcić remake kultowej serii horrorów „Camp Miasma”, która cieszyła się ogromną popularnością w latach osiemdziesiątych i dziewięćdziesiątych. Aby znaleźć inspirację, udaje się na spotkanie z Billy (Gillian Anderson), która grała główną rolę w pierwowzorze projektu. Wizyta u ekscentrycznej aktorki szybko przeradza się w coś więcej niż zwykły wywiad.\n\n„Miłość, śmierć i dojrzewanie w Camp Miasma” zadebiutowała na festiwalu w Cannes, gdzie szturmem zdobyła serca krytyków i widzów – a także prestiżową nominację w sekcji Un Certain Regard. Najnowszy film Jane Shoenbrun (twórcy docenianego „W blasku ekranu”) ma obecnie 100% pozytywnych recenzji na Rotten Tomatoes, a widzowie wychodzą z seansów zachwyceni.\n\nChoć film Shoenbrun opowiada o powstawaniu fikcyjnej serii horrorów, sam w sobie horrorem nie jest, a zaledwie czerpie z jego estetyki. To przepiękna pod względem wizualnym kinofilska uczta opowiadająca przede wszystkim o bezgranicznej miłości do kina. I o tym, jak ta miłość zmienia nasze życie.\n\nW centrum tej opowieści stoją dwie aktorki reprezentujące dwa różne pokolenia. Legendarna Gillian Anderson wciela się w rolę ekscentrycznej diwy, a znana z serialu „Hacks” Hannah Einbinder w niepewną swojej pozycji, ale utalentowaną reżyserkę. Razem tworzą najbardziej elektryzujący ekranowy duet tego roku.",
@@ -404,7 +404,7 @@
         "datetime": "2026-09-08 19:00:00",
         "title": "Tony",
         "originalTitle": "Tony",
-        "director": " Matt Johnson",
+        "director": "Matt Johnson",
         "year": "2026",
         "premiereDate": "2026-09-04",
         "duration": "106",
@@ -438,7 +438,7 @@
             "id": "tt33095251",
             "url": "https://www.imdb.com/title/tt33095251/",
             "rating": 7.6,
-            "votes": 6476
+            "votes": 6646
           },
           "filmweb": {
             "id": "10079933",
@@ -448,8 +448,8 @@
               "Biograficzny",
               "Dramat"
             ],
-            "rating": 7.2,
-            "votes": 545
+            "rating": 7.3,
+            "votes": 859
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/tony_2026",
@@ -461,7 +461,7 @@
             "criticsRating": 93,
             "criticsVotes": 221,
             "audienceRating": 92,
-            "audienceVotes": 826
+            "audienceVotes": 831
           }
         },
         "longDescription": "Anthony Bourdain – buntownik, outsider, głos pokolenia, jeden z najbardziej znanych szefów kuchni i jedna z największych, najbardziej charyzmatycznych osobowości telewizyjnych. Podróżnik, pisarz, odkrywca, którego miliony ludzi na całym świecie pokochały za bezkompromisowy styl, miłość do życia, szacunek do ludzi, odwagę, ciekawość świata i autentyczność. „Tony” to historia początków jego drogi – kim był, zanim stał się Anthonym Bourdainem.\n\nUpalne lato 1976 roku, Provincetown – miasto pulsujące wolnością, seksem i energią. Młody, marzący o karierze pisarza, Tony (Dominic Sessa), by podreperować budżet, trafia na zmywak do restauracji serwującej owoce morza, prowadzonej przez tajemniczego szefa kuchni (Antonio Banderas). W intensywnej, chaotycznej, a jednocześnie niezwykle kreatywnej atmosferze Tony odkrywa swoją pasję, powołanie i to, kim tak naprawdę jest.",
@@ -553,7 +553,7 @@
             "id": "tt36646880",
             "url": "https://www.imdb.com/title/tt36646880/",
             "rating": 6,
-            "votes": 543
+            "votes": 548
           },
           "filmweb": {
             "id": "10079944",
@@ -562,7 +562,7 @@
               "Melodramat"
             ],
             "rating": 5.8,
-            "votes": 1102
+            "votes": 1111
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/parallel_tales",
@@ -618,7 +618,7 @@
             "id": "tt28088049",
             "url": "https://www.imdb.com/title/tt28088049/",
             "rating": 6.3,
-            "votes": 4303
+            "votes": 4345
           },
           "filmweb": {
             "id": "10085499",
@@ -628,7 +628,7 @@
               "Komedia"
             ],
             "rating": 5.7,
-            "votes": 1626
+            "votes": 1695
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/bitter_christmas",
@@ -651,7 +651,7 @@
         "datetime": "2026-09-08 21:15:00",
         "title": "Miłość, śmierć i dojrzewanie w camp Miasma",
         "originalTitle": "Teenage Sex and Death at Camp Miasma",
-        "director": " Jane Schoenbrun",
+        "director": "Jane Schoenbrun",
         "year": "2026",
         "premiereDate": "2026-09-04",
         "duration": "106",
@@ -683,7 +683,7 @@
             "id": "tt35298123",
             "url": "https://www.imdb.com/title/tt35298123/",
             "rating": 7.2,
-            "votes": 8212
+            "votes": 8364
           },
           "filmweb": {
             "id": "10114411",
@@ -692,7 +692,7 @@
               "Czarna komedia"
             ],
             "rating": 7.3,
-            "votes": 588
+            "votes": 714
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/teenage_sex_and_death_at_camp_miasma",
@@ -704,7 +704,7 @@
             "criticsRating": 94,
             "criticsVotes": 268,
             "audienceRating": 78,
-            "audienceVotes": 485
+            "audienceVotes": 487
           }
         },
         "longDescription": "Na dnie jeziora jest dziura. To z niej pochodzą filmy.\n\nMłoda, utalentowana reżyserka Kris (Hannah Einbinder) dostaje od studia filmowego szansę życia – ma nakręcić remake kultowej serii horrorów „Camp Miasma”, która cieszyła się ogromną popularnością w latach osiemdziesiątych i dziewięćdziesiątych. Aby znaleźć inspirację, udaje się na spotkanie z Billy (Gillian Anderson), która grała główną rolę w pierwowzorze projektu. Wizyta u ekscentrycznej aktorki szybko przeradza się w coś więcej niż zwykły wywiad.\n\n„Miłość, śmierć i dojrzewanie w Camp Miasma” zadebiutowała na festiwalu w Cannes, gdzie szturmem zdobyła serca krytyków i widzów – a także prestiżową nominację w sekcji Un Certain Regard. Najnowszy film Jane Shoenbrun (twórcy docenianego „W blasku ekranu”) ma obecnie 100% pozytywnych recenzji na Rotten Tomatoes, a widzowie wychodzą z seansów zachwyceni.\n\nChoć film Shoenbrun opowiada o powstawaniu fikcyjnej serii horrorów, sam w sobie horrorem nie jest, a zaledwie czerpie z jego estetyki. To przepiękna pod względem wizualnym kinofilska uczta opowiadająca przede wszystkim o bezgranicznej miłości do kina. I o tym, jak ta miłość zmienia nasze życie.\n\nW centrum tej opowieści stoją dwie aktorki reprezentujące dwa różne pokolenia. Legendarna Gillian Anderson wciela się w rolę ekscentrycznej diwy, a znana z serialu „Hacks” Hannah Einbinder w niepewną swojej pozycji, ale utalentowaną reżyserkę. Razem tworzą najbardziej elektryzujący ekranowy duet tego roku.",

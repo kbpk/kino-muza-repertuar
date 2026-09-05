@@ -1,0 +1,80 @@
+{
+  "schemaVersion": 1,
+  "date": "2026-10-06",
+  "updatedAt": "2026-09-05T07:15:03.507Z",
+  "source": "https://www.kinomuza.pl/repertoire/day/",
+  "day": {
+    "id": "31",
+    "date": "06.10",
+    "now": "2026-09-05 09:14:20",
+    "info": [],
+    "repertoire": [
+      {
+        "hour": "20:00",
+        "datetime": "2026-10-06 20:00:00",
+        "title": "Bez znieczulenia",
+        "originalTitle": "ROUGH TREATMENT",
+        "director": "Andrzej Wajda",
+        "year": "1978",
+        "premiereDate": "",
+        "duration": "125",
+        "countries": "Polska",
+        "shortDesc": "<p>Przejmująca diagnoza społeczeństwa końca lat 70., portret człowieka osaczonego przez system i własne słabości, jedna z najbardziej przenikliwych analiz moralnego kryzysu w polskim kinie.</p>\n",
+        "lang": "pl",
+        "subtitlesLang": "en",
+        "age": "16",
+        "credits": "reż. Andrzej Wajda  <br>Polska <br>1978,125’",
+        "desc": "<p>Przejmująca diagnoza społeczeństwa końca lat 70., portret człowieka osaczonego przez system i własne słabości, jedna z najbardziej przenikliwych analiz moralnego kryzysu w polskim kinie.</p>\n",
+        "hall": "1",
+        "movieLink": "https://www.kinomuza.pl/movie/bez-znieczulenia/",
+        "ticketLink": "https://estradapoznan.bilety24.pl/kup-bilety/?id=879050#total",
+        "prePremier": false,
+        "tape35mm": false,
+        "ad": false,
+        "deaf": false,
+        "ticketPrice": "",
+        "ticketHalfPrice": "",
+        "alt": "Bez znieczulenia",
+        "thumb": "https://www.kinomuza.pl/content/uploads/2026/02/bez-zniecz-2-800x450.jpg",
+        "description": "Przejmująca diagnoza społeczeństwa końca lat 70., portret człowieka osaczonego przez system i własne słabości, jedna z najbardziej przenikliwych analiz moralnego kryzysu w polskim kinie.",
+        "shortDescription": "Przejmująca diagnoza społeczeństwa końca lat 70., portret człowieka osaczonego przez system i własne słabości, jedna z najbardziej przenikliwych analiz moralnego kryzysu w polskim kinie.",
+        "genres": [
+          "Psychologiczny",
+          "Dramat obyczajowy"
+        ],
+        "external": {
+          "imdb": {
+            "id": "tt0078857",
+            "url": "https://www.imdb.com/title/tt0078857/",
+            "rating": 7.3,
+            "votes": 833
+          },
+          "filmweb": {
+            "id": "4154",
+            "url": "https://www.filmweb.pl/film/Bez+znieczulenia-1978-4154",
+            "genres": [
+              "Psychologiczny",
+              "Dramat obyczajowy"
+            ],
+            "rating": 7.6,
+            "votes": 6854
+          },
+          "rottenTomatoes": {
+            "url": "https://www.rottentomatoes.com/m/without_anesthesia",
+            "title": "Rough Treatment",
+            "year": "",
+            "directors": [
+              "Andrzej Wajda"
+            ],
+            "criticsRating": null,
+            "criticsVotes": 2,
+            "audienceRating": 75,
+            "audienceVotes": 12
+          }
+        },
+        "longDescription": "Przygnębiający obraz polskiej rzeczywistości politycznej i społecznej drugiej połowy lat 70., a zarazem krytyczna diagnoza postaw w czasie nieufności i opresji ze strony systemu. Z kolejnej dziennikarskiej wyprawy do Polski wraca popularny reporter – wzorowany na postaci Ryszarda Kapuścińskiego. Z zaskoczeniem przyjmuje, że staje się – bez żadnego wyjaśnienia – obiektem zorganizowanej nagonki. W pracy zostaje zaszczuty przez młodszego kolegę, w środowisku oskarżany jest o koniunkturalizm i oportunizm, w domu żona składa pozew o rozwód. Dotychczas człowiek sukcesu, nagle opuszczony przez wszystkich, postawiony jest w sytuacji Kafkowskiej, tracąc wiarę w jakiekolwiek wartości, a nawet sens życia.\n\nZnakomita interpretacja Zbigniewa Zapasiewicza nadała postaci Jerzego tragizm, ale także pewną niejednoznaczność. Bohater niegdyś korzystał z benefitów systemu, który najpierw niewidzialnym mechanizmem dopuszczał do apanaży, by bez zapowiedzi bezwzględnie niszczyć dawnych luminarzy. Mało który film tak brutalnie pokazał mechanizm komunistycznego totalitaryzmu, aparat hipokryzji, oportunizmu, środowiskowej zawiści, promocji miernot i kuszenia awansem. Niewiele też filmów okazało się tak profetycznych i wciąż aktualnych, opisując świat degradacji wartości, uprzedmiotowienia ludzi, kłamstwa i manipulacji.",
+        "poster": "media/posters/f96793032b656c808f8a.webp"
+      }
+    ]
+  }
+}

@@ -1,0 +1,79 @@
+{
+  "schemaVersion": 1,
+  "date": "2026-11-03",
+  "updatedAt": "2026-09-05T07:15:03.507Z",
+  "source": "https://www.kinomuza.pl/repertoire/day/",
+  "day": {
+    "id": "59",
+    "date": "03.11",
+    "now": "2026-09-05 09:14:21",
+    "info": [],
+    "repertoire": [
+      {
+        "hour": "20:00",
+        "datetime": "2026-11-03 20:00:00",
+        "title": "Ziemia obiecana",
+        "originalTitle": "THE PROMISED LAND",
+        "director": "Andrzej Wajda",
+        "year": "1974",
+        "premiereDate": "",
+        "duration": "179",
+        "countries": "Polska",
+        "shortDesc": "<p>Brawurowa wizja rodzącego się kapitalizmu i bezwzględnej gry interesów w XIX-wiecznej Łodzi, a zarazem monumentalne dzieło o narodzinach nowoczesności i cenie, jaką płacą za nią ludzie.</p>\n",
+        "lang": "pl",
+        "subtitlesLang": "en",
+        "age": "16",
+        "credits": "reż. Andrzej Wajda  <br>Polska <br>1974,179’",
+        "desc": "<p>Brawurowa wizja rodzącego się kapitalizmu i bezwzględnej gry interesów w XIX-wiecznej Łodzi, a zarazem monumentalne dzieło o narodzinach nowoczesności i cenie, jaką płacą za nią ludzie.</p>\n",
+        "hall": "1",
+        "movieLink": "https://www.kinomuza.pl/movie/ziemia-obiecana/",
+        "ticketLink": "https://estradapoznan.bilety24.pl/kup-bilety/?id=879051#total",
+        "prePremier": false,
+        "tape35mm": false,
+        "ad": false,
+        "deaf": false,
+        "ticketPrice": "",
+        "ticketHalfPrice": "",
+        "alt": "Ziemia obiecana",
+        "thumb": "https://www.kinomuza.pl/content/uploads/2026/02/ziemia-o-3-800x450.jpg",
+        "description": "Brawurowa wizja rodzącego się kapitalizmu i bezwzględnej gry interesów w XIX-wiecznej Łodzi, a zarazem monumentalne dzieło o narodzinach nowoczesności i cenie, jaką płacą za nią ludzie.",
+        "shortDescription": "Brawurowa wizja rodzącego się kapitalizmu i bezwzględnej gry interesów w XIX-wiecznej Łodzi, a zarazem monumentalne dzieło o narodzinach nowoczesności i cenie, jaką płacą za nią ludzie.",
+        "genres": [
+          "Obyczajowy"
+        ],
+        "external": {
+          "imdb": {
+            "id": "tt0072446",
+            "url": "https://www.imdb.com/title/tt0072446/",
+            "rating": 7.8,
+            "votes": 4638
+          },
+          "filmweb": {
+            "id": "1073",
+            "url": "https://www.filmweb.pl/film/Ziemia+obiecana-1974-1073",
+            "genres": [
+              "Obyczajowy"
+            ],
+            "rating": 7.9,
+            "votes": 60316
+          },
+          "rottenTomatoes": {
+            "url": "https://www.rottentomatoes.com/m/ziemia_obiecana",
+            "title": "The Promised Land",
+            "year": "",
+            "directors": [
+              "Andrzej Wajda",
+              "Christian Sesma"
+            ],
+            "criticsRating": null,
+            "criticsVotes": 3,
+            "audienceRating": 92,
+            "audienceVotes": 163
+          }
+        },
+        "longDescription": "Brawurowo zrealizowana adaptacja niemal zapomnianej powieści Władysława Reymonta, przedstawiająca na tle gwałtownie rozwijającej się pod koniec XIX wieku Łodzi losy trzech przyjaciół: Niemca Maksa, Żyda Moryca i Polaka Karola. Bohaterowie decydują się założyć w mieście własną fabrykę włókienniczą, co nie jest w smak żydowskiej, niemieckiej i rosyjskiej konkurencji. Po drodze Karol Borowiecki uwodzi Lucy Zuckerową, ponętną żonę starego fabrykanta, wykorzystując romans do zdobycia kapitału, a Moryc Welt prowadzi ryzykowne spekulacje finansowe i handlowe w środowisku żydowskim, balansując na granicy bankructwa i oszustwa. Równolegle Maks Baum negocjuje z niemieckimi przemysłowcami, próbując uratować podupadający rodzinny interes, a wielcy finansiści, Bucholz, Grünspan i Müller, próbują pozyskać młodych i ambitnych do swych interesów. Ostatecznie Borowiecki dla realizacji swych planów decyduje się sprzedać rodzinny majątek, przeprowadzić narzeczoną Ankę do Łodzi i oddać wzniosłe wartości wilczym regułom kapitalizmu.\n\nTen olśniewający plastycznie, narracyjnie i aktorsko film wygrywa we wszystkich rankingach na najlepszy film w historii polskiej kinematografii. Siła reżyserii Andrzeja Wajdy, zdolność do pomieszczenia w jednym filmie tak wielu wątków i ogromne bogactwo inscenizacyjne zasłużyły na najwyższe laury. Sama sekwencja w teatrze jest dziś postrzegana jako jedno z największych osiągnięć filmowej narracji, w ramach której reżyser, na niewielkiej przestrzeni, zdołał połączyć kilkadziesiąt postaci i wątków. Wśród nagród brakło tylko Oscara, bo choć film był faworytem, to na skutek nieuprawnionych oskarżeń o antysemityzm przegrał walkę o tę statuetkę.",
+        "poster": "media/posters/062e4bbdc2ada154ebee.webp"
+      }
+    ]
+  }
+}

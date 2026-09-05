@@ -1,0 +1,68 @@
+{
+  "schemaVersion": 1,
+  "date": "2026-09-15",
+  "updatedAt": "2026-09-05T07:15:03.507Z",
+  "source": "https://www.kinomuza.pl/repertoire/day/",
+  "day": {
+    "id": "10",
+    "date": "15.09",
+    "now": "2026-09-05 09:13:56",
+    "info": [],
+    "repertoire": [
+      {
+        "hour": "20:00",
+        "datetime": "2026-09-15 20:00:00",
+        "title": "Sami swoi",
+        "originalTitle": "",
+        "director": "Sylwester Chęciński",
+        "year": "1967",
+        "premiereDate": "",
+        "duration": "78",
+        "countries": "Polska",
+        "shortDesc": "<p>Przed wojną kargulowa krowa weszła na łąkę Pawlaków, co spowodowało, że spłonęły dwie stodoły, polała się krew i Jaśko Pawlak, uciekając przed karą za pocięcie kosą Kargula, musiał wyemigrować do Ameryki.</p>\n",
+        "lang": "pl",
+        "subtitlesLang": "",
+        "age": "16",
+        "credits": "reż. Sylwester Chęciński <br>Polska <br>1967,78’",
+        "desc": "<p>Przed wojną kargulowa krowa weszła na łąkę Pawlaków, co spowodowało, że spłonęły dwie stodoły, polała się krew i Jaśko Pawlak, uciekając przed karą za pocięcie kosą Kargula, musiał wyemigrować do Ameryki.</p>\n",
+        "hall": "1",
+        "movieLink": "https://www.kinomuza.pl/movie/sami-swoi/",
+        "ticketLink": "https://estradapoznan.bilety24.pl/kup-bilety/?id=984257#total",
+        "prePremier": false,
+        "tape35mm": false,
+        "ad": false,
+        "deaf": false,
+        "ticketPrice": "",
+        "ticketHalfPrice": "",
+        "alt": "Sami swoi",
+        "thumb": "https://www.kinomuza.pl/content/uploads/2026/09/sami_swoi_01020242_gallery-800x450.jpg",
+        "cycle": "dkf kamera",
+        "description": "Przed wojną kargulowa krowa weszła na łąkę Pawlaków, co spowodowało, że spłonęły dwie stodoły, polała się krew i Jaśko Pawlak, uciekając przed karą za pocięcie kosą Kargula, musiał wyemigrować do Ameryki.",
+        "shortDescription": "Przed wojną kargulowa krowa weszła na łąkę Pawlaków, co spowodowało, że spłonęły dwie stodoły, polała się krew i Jaśko Pawlak, uciekając przed karą za pocięcie kosą Kargula, musiał wyemigrować do Ameryki.",
+        "genres": [
+          "Komedia obycz."
+        ],
+        "external": {
+          "imdb": {
+            "id": "tt0062228",
+            "url": "https://www.imdb.com/title/tt0062228/",
+            "rating": 7.9,
+            "votes": 4370
+          },
+          "filmweb": {
+            "id": "1113",
+            "url": "https://www.filmweb.pl/film/Sami+swoi-1967-1113",
+            "genres": [
+              "Komedia obycz."
+            ],
+            "rating": 7.8,
+            "votes": 271065
+          },
+          "rottenTomatoes": null
+        },
+        "longDescription": "Przed wojną kargulowa krowa weszła na łąkę Pawlaków, co spowodowało, że spłonęły dwie stodoły, polała się krew i Jaśko Pawlak, uciekając przed karą za pocięcie kosą Kargula, musiał wyemigrować do Ameryki. Tenże Jaśko, teraz John, przyjeżdża po wojnie do Polski i zastaje sytuację niezwykłą – obie rodziny żyją w zgodzie i harmonii. Tak jednak nie od razu było, ale życie zmusiło emigrantów zza Buga do zakończenia dawnego sporu, a miłość Witii Pawlaka i Jadźki Kargulanki połączyła ich więzami rodzinnymi.\n\nProwadzenie: Anna Czerwińska, Dominika Stachowiak",
+        "poster": "media/posters/7185e4cb13e8087fc01d.webp"
+      }
+    ]
+  }
+}

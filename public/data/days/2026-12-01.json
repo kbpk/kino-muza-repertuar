@@ -1,0 +1,78 @@
+{
+  "schemaVersion": 1,
+  "date": "2026-12-01",
+  "updatedAt": "2026-09-05T07:15:03.507Z",
+  "source": "https://www.kinomuza.pl/repertoire/day/",
+  "day": {
+    "id": "87",
+    "date": "01.12",
+    "now": "2026-09-05 09:14:31",
+    "info": [],
+    "repertoire": [
+      {
+        "hour": "20:30",
+        "datetime": "2026-12-01 20:30:00",
+        "title": "Wszystko na sprzedaż",
+        "originalTitle": "EVERYTHING FOR SALE",
+        "director": "Andrzej Wajda",
+        "year": "1968",
+        "premiereDate": "",
+        "duration": "94",
+        "countries": "Polska",
+        "shortDesc": "<p>Autotematyczne spojrzenie na środowisko filmowe, intymny hołd dla Zbigniewa Cybulskiego i osobista opowieść o utracie, pamięci i mitologii kina.</p>\n",
+        "lang": "pl",
+        "subtitlesLang": "en",
+        "age": "16",
+        "credits": "reż. Andrzej Wajda  <br>Polska <br>1968,94’",
+        "desc": "<p>Autotematyczne spojrzenie na środowisko filmowe, intymny hołd dla Zbigniewa Cybulskiego i osobista opowieść o utracie, pamięci i mitologii kina.</p>\n",
+        "hall": "1",
+        "movieLink": "https://www.kinomuza.pl/movie/wszystko-na-sprzedaz/",
+        "ticketLink": "https://estradapoznan.bilety24.pl/kup-bilety/?id=879052#total",
+        "prePremier": false,
+        "tape35mm": false,
+        "ad": false,
+        "deaf": false,
+        "ticketPrice": "",
+        "ticketHalfPrice": "",
+        "alt": "Wszystko na sprzedaż",
+        "thumb": "https://www.kinomuza.pl/content/uploads/2026/02/wszystko_na_sprzedaz_06_gallery-800x450.jpg",
+        "description": "Autotematyczne spojrzenie na środowisko filmowe, intymny hołd dla Zbigniewa Cybulskiego i osobista opowieść o utracie, pamięci i mitologii kina.",
+        "shortDescription": "Autotematyczne spojrzenie na środowisko filmowe, intymny hołd dla Zbigniewa Cybulskiego i osobista opowieść o utracie, pamięci i mitologii kina.",
+        "genres": [
+          "Dramat"
+        ],
+        "external": {
+          "imdb": {
+            "id": "tt0065226",
+            "url": "https://www.imdb.com/title/tt0065226/",
+            "rating": 6.8,
+            "votes": 982
+          },
+          "filmweb": {
+            "id": "1119",
+            "url": "https://www.filmweb.pl/film/Wszystko+na+sprzeda%C5%BC-1968-1119",
+            "genres": [
+              "Dramat"
+            ],
+            "rating": 7.2,
+            "votes": 7129
+          },
+          "rottenTomatoes": {
+            "url": "https://www.rottentomatoes.com/m/everything_for_sale_1987",
+            "title": "Everything for Sale",
+            "year": "1969",
+            "directors": [
+              "Andrzej Wajda"
+            ],
+            "criticsRating": null,
+            "criticsVotes": 2,
+            "audienceRating": 69,
+            "audienceVotes": 13
+          }
+        },
+        "longDescription": "W trakcie realizacji pewnego filmu aktor grający w nim główną rolę opuszcza plan filmowy i nie wraca na zdjęcia. Reżyser (Andrzej Łapicki) organizuje dalszą pracę nad filmem, jeździ samochodem po Warszawie i jej okolicach, spotyka się kolejno z żoną (Beata Tyszkiewicz), dawną partnerką Aktora (Elżbieta Czyżewska) oraz przyjacielem (Daniel Olbrychski), próbując zrozumieć przyczyny ucieczki i jednocześnie znaleźć sposób na dokończenie filmu. Coraz bardziej zagubiony i bezradny, czuje coraz większą obcość względem środowiskowych koterii, towarzyskich animozji i kłamstwa, w którym pławią się członkowie ekipy. Nad ranem dociera do bohaterów informacja o tragicznej śmierci aktora. Film trzeba jednak kręcić dalej.\n\nWszystko na sprzedaż to autotematyczna opowieść o utracie przyjaciela i wielkiego aktora. W tym bardzo osobistym filmie, do którego Wajda po raz pierwszy samodzielnie napisał oryginalny scenariusz, reżyser snuje refleksję nad fenomenem Zbigniewa Cybulskiego, portretuje rodzime środowisko filmowe oraz – jedyny raz w tak bezpośredni sposób – mówi o samym sobie. W alter ego Wajdy wcielił się Andrzej Łapicki, a pozostali aktorzy nasycają swoje postaci własnymi doświadczeniami i cechami charakterów. Dzięki temu Wszystko na sprzedaż staje się intymną, ale zarazem brawurowo nakręconą, ekspresyjną i najbardziej modernistyczną w karierze Wajdy odpowiedzią na słowa, które o reżyserze miał wygłosić niedługo przed śmiercią Cybulski: „powiedzcie mu, że jeszcze za mną zatęskni”.",
+        "poster": "media/posters/b0165d8067bc460f7531.webp"
+      }
+    ]
+  }
+}

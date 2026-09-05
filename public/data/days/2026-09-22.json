@@ -1,0 +1,72 @@
+{
+  "schemaVersion": 1,
+  "date": "2026-09-22",
+  "updatedAt": "2026-09-05T07:15:03.507Z",
+  "source": "https://www.kinomuza.pl/repertoire/day/",
+  "day": {
+    "id": "17",
+    "date": "22.09",
+    "now": "2026-09-05 09:14:09",
+    "info": [],
+    "repertoire": [
+      {
+        "hour": "20:00",
+        "datetime": "2026-09-22 20:00:00",
+        "title": "Żywot Mateusza",
+        "originalTitle": "",
+        "director": "Witold Leszczyński",
+        "year": "1967",
+        "premiereDate": "",
+        "duration": "76",
+        "countries": "Polska",
+        "shortDesc": "<p>Matis żyje w świecie własnych doznań daremnie próbując nawiązać kontakty z ludźmi z okolicy. Siostra jest dla niego jedyną życiową ostoją. Kiedy między nią a młodym drwalem Janem narodzi się uczucie, Matis uzna je za zapowiedź swej ostatecznej klęski.</p>\n",
+        "lang": "pl",
+        "subtitlesLang": "",
+        "age": "16",
+        "credits": "reż. Witold Leszczyński  <br>Polska <br>1967,76’",
+        "desc": "<p>Matis żyje w świecie własnych doznań daremnie próbując nawiązać kontakty z ludźmi z okolicy. Siostra jest dla niego jedyną życiową ostoją. Kiedy między nią a młodym drwalem Janem narodzi się uczucie, Matis uzna je za zapowiedź swej ostatecznej klęski.</p>\n",
+        "hall": "1",
+        "movieLink": "https://www.kinomuza.pl/movie/zywot-mateusza/",
+        "ticketLink": "https://estradapoznan.bilety24.pl/kup-bilety/?id=984258#total",
+        "prePremier": false,
+        "tape35mm": false,
+        "ad": false,
+        "deaf": false,
+        "ticketPrice": "",
+        "ticketHalfPrice": "",
+        "alt": "Żywot Mateusza",
+        "thumb": "https://www.kinomuza.pl/content/uploads/2026/09/zywot_mateusza_06_gallery-800x450.jpg",
+        "cycle": "dkf kamera",
+        "description": "Matis żyje w świecie własnych doznań daremnie próbując nawiązać kontakty z ludźmi z okolicy. Siostra jest dla niego jedyną życiową ostoją. Kiedy między nią a młodym drwalem Janem narodzi się uczucie, Matis uzna je za zapowiedź swej ostatecznej klęski.",
+        "shortDescription": "Matis żyje w świecie własnych doznań daremnie próbując nawiązać kontakty z ludźmi z okolicy. Siostra jest dla niego jedyną życiową ostoją. Kiedy między nią a młodym drwalem Janem narodzi się uczucie, Matis uzna je za zapowiedź swej ostatecznej klęski.",
+        "genres": [
+          "Dramat",
+          "Poetycki",
+          "Psychologiczny"
+        ],
+        "external": {
+          "imdb": {
+            "id": "tt0062529",
+            "url": "https://www.imdb.com/title/tt0062529/",
+            "rating": 7.1,
+            "votes": 551
+          },
+          "filmweb": {
+            "id": "12135",
+            "url": "https://www.filmweb.pl/film/%C5%BBywot+Mateusza-1967-12135",
+            "genres": [
+              "Dramat",
+              "Poetycki",
+              "Psychologiczny"
+            ],
+            "rating": 7.7,
+            "votes": 8284
+          },
+          "rottenTomatoes": null
+        },
+        "longDescription": "Bohaterem filmu jest Matis – Mateusz (Franciszek Pieczka), mieszkający z siostrą Olgą w domku nad jeziorem. Rodzeństwo utrzymuje się ze sprzedaży swetrów robionych na drutach przez Olgę. Matis żyje w świecie własnych doznań daremnie próbując nawiązać kontakty z ludźmi z okolicy. Siostra jest dla niego jedyną życiową ostoją. Kiedy między nią a młodym drwalem Janem narodzi się uczucie, Matis uzna je za zapowiedź swej ostatecznej klęski.\n\nProwadzenie: Mateusz Cierechowicz, Łukasz Klawunn",
+        "poster": "media/posters/0eb19c07c02c470e4cd3.webp"
+      }
+    ]
+  }
+}

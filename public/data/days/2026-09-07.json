@@ -1,12 +1,12 @@
 {
   "schemaVersion": 1,
   "date": "2026-09-07",
-  "updatedAt": "2026-09-05T18:14:06.470Z",
+  "updatedAt": "2026-09-06T13:40:47.646Z",
   "source": "https://www.kinomuza.pl/repertoire/day/",
   "day": {
-    "id": "02",
+    "id": "01",
     "date": "07.09",
-    "now": "2026-09-05 20:13:11",
+    "now": "2026-09-06 15:39:46",
     "info": [],
     "repertoire": [
       {
@@ -55,7 +55,7 @@
               "Dokumentalny"
             ],
             "rating": 6.9,
-            "votes": 267
+            "votes": 268
           },
           "rottenTomatoes": null
         },
@@ -99,7 +99,7 @@
             "id": "tt37304295",
             "url": "https://www.imdb.com/title/tt37304295/",
             "rating": 7.1,
-            "votes": 1048
+            "votes": 1076
           },
           "filmweb": {
             "id": "10074985",
@@ -108,7 +108,7 @@
               "Dramat"
             ],
             "rating": 6.9,
-            "votes": 7535
+            "votes": 7551
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/fatherland_2026",
@@ -164,7 +164,7 @@
             "id": "tt32212403",
             "url": "https://www.imdb.com/title/tt32212403/",
             "rating": 7.3,
-            "votes": 985
+            "votes": 994
           },
           "filmweb": {
             "id": "10117005",
@@ -174,7 +174,7 @@
               "Komedia"
             ],
             "rating": 7.2,
-            "votes": 587
+            "votes": 616
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/sunny_dancer",
@@ -229,7 +229,7 @@
             "id": "tt36646880",
             "url": "https://www.imdb.com/title/tt36646880/",
             "rating": 6,
-            "votes": 548
+            "votes": 551
           },
           "filmweb": {
             "id": "10079944",
@@ -238,7 +238,7 @@
               "Melodramat"
             ],
             "rating": 5.8,
-            "votes": 1111
+            "votes": 1115
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/parallel_tales",
@@ -302,7 +302,7 @@
               "Dramat"
             ],
             "rating": 6.2,
-            "votes": 342
+            "votes": 353
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/the_little_sister_2025",
@@ -359,7 +359,7 @@
             "id": "tt33095251",
             "url": "https://www.imdb.com/title/tt33095251/",
             "rating": 7.6,
-            "votes": 6646
+            "votes": 6745
           },
           "filmweb": {
             "id": "10079933",
@@ -369,8 +369,8 @@
               "Biograficzny",
               "Komedia"
             ],
-            "rating": 7.3,
-            "votes": 960
+            "rating": 7.2,
+            "votes": 1489
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/tony_2026",
@@ -380,9 +380,9 @@
               "Matt Johnson"
             ],
             "criticsRating": 93,
-            "criticsVotes": 221,
+            "criticsVotes": 222,
             "audienceRating": 92,
-            "audienceVotes": 832
+            "audienceVotes": 845
           }
         },
         "longDescription": "Anthony Bourdain – buntownik, outsider, głos pokolenia, jeden z najbardziej znanych szefów kuchni i jedna z największych, najbardziej charyzmatycznych osobowości telewizyjnych. Podróżnik, pisarz, odkrywca, którego miliony ludzi na całym świecie pokochały za bezkompromisowy styl, miłość do życia, szacunek do ludzi, odwagę, ciekawość świata i autentyczność. „Tony” to historia początków jego drogi – kim był, zanim stał się Anthonym Bourdainem.\n\nUpalne lato 1976 roku, Provincetown – miasto pulsujące wolnością, seksem i energią. Młody, marzący o karierze pisarza, Tony (Dominic Sessa), by podreperować budżet, trafia na zmywak do restauracji serwującej owoce morza, prowadzonej przez tajemniczego szefa kuchni (Antonio Banderas). W intensywnej, chaotycznej, a jednocześnie niezwykle kreatywnej atmosferze Tony odkrywa swoją pasję, powołanie i to, kim tak naprawdę jest.",
@@ -419,26 +419,26 @@
         "shortDescription": "Opowieść o podróży Odyseusza, króla Itaki, który musi stawić czoła licznym wyzwaniom próbując wrócić do domu po wojnie trojańskiej.",
         "genres": [
           "Dramat",
-          "Przygodowy",
-          "Fantasy"
+          "Fantasy",
+          "Przygodowy"
         ],
         "external": {
           "imdb": {
             "id": "tt33764258",
             "url": "https://www.imdb.com/title/tt33764258/",
             "rating": 8.4,
-            "votes": 472098
+            "votes": 473235
           },
           "filmweb": {
             "id": "10068387",
             "url": "https://www.filmweb.pl/film/Odyseja-2026-10068387",
             "genres": [
               "Dramat",
-              "Przygodowy",
-              "Fantasy"
+              "Fantasy",
+              "Przygodowy"
             ],
             "rating": 7.7,
-            "votes": 66021
+            "votes": 66438
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/the_odyssey_2026",
@@ -447,10 +447,10 @@
             "directors": [
               "Christopher Nolan"
             ],
-            "criticsRating": 94,
-            "criticsVotes": 506,
+            "criticsRating": 93,
+            "criticsVotes": 507,
             "audienceRating": 97,
-            "audienceVotes": 31845
+            "audienceVotes": 32013
           }
         },
         "longDescription": "Christopher Nolan, który nakręcił takie filmy jak „Interstellar” oraz „Oppenheimer” jest znany z tego, że nie boi się żadnego gatunku filmowego. Po świetnie przyjętym i nagrodzonym 7 Oscarami® „Oppenheimerze” opowiadajacym historię powstania pierwszej bomby atomowej, teraz reżyser pracuje nad adaptacją „Odysei”.\n\nTo opowieść autorstwa Homera uznawana za jedno z najważniejszych dzieł literatury zachodniej. Opowiada o podróży Odyseusza, króla Itaki, który musi stawić czoła licznym wyzwaniom próbując wrócić do domu po wojnie trojańskiej. Powstała już niejedna ekranizacja klasycznego dzieła Homera, ale tym razem film nakręcony zostanie w technologii IMAX i będzie pierwszym tak nowoczesnym podejściem do „Odysei”.\n\nW filmie „Odysei” zobaczymy między innymi: Matta Damona, Toma Hollanda, Anne Hathaway, Zendayę, Roberta Pattinsona, Lupite Nyong’o oraz Charlize Theron.",
@@ -497,7 +497,7 @@
               "Dokumentalny"
             ],
             "rating": 6.3,
-            "votes": 28
+            "votes": 29
           },
           "rottenTomatoes": null
         },
@@ -541,7 +541,7 @@
             "id": "tt35298123",
             "url": "https://www.imdb.com/title/tt35298123/",
             "rating": 7.2,
-            "votes": 8364
+            "votes": 8472
           },
           "filmweb": {
             "id": "10114411",
@@ -549,8 +549,8 @@
             "genres": [
               "Czarna komedia"
             ],
-            "rating": 7.3,
-            "votes": 727
+            "rating": 7.2,
+            "votes": 874
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/teenage_sex_and_death_at_camp_miasma",
@@ -562,7 +562,7 @@
             "criticsRating": 94,
             "criticsVotes": 268,
             "audienceRating": 78,
-            "audienceVotes": 487
+            "audienceVotes": 493
           }
         },
         "longDescription": "Na dnie jeziora jest dziura. To z niej pochodzą filmy.\n\nMłoda, utalentowana reżyserka Kris (Hannah Einbinder) dostaje od studia filmowego szansę życia – ma nakręcić remake kultowej serii horrorów „Camp Miasma”, która cieszyła się ogromną popularnością w latach osiemdziesiątych i dziewięćdziesiątych. Aby znaleźć inspirację, udaje się na spotkanie z Billy (Gillian Anderson), która grała główną rolę w pierwowzorze projektu. Wizyta u ekscentrycznej aktorki szybko przeradza się w coś więcej niż zwykły wywiad.\n\n„Miłość, śmierć i dojrzewanie w Camp Miasma” zadebiutowała na festiwalu w Cannes, gdzie szturmem zdobyła serca krytyków i widzów – a także prestiżową nominację w sekcji Un Certain Regard. Najnowszy film Jane Shoenbrun (twórcy docenianego „W blasku ekranu”) ma obecnie 100% pozytywnych recenzji na Rotten Tomatoes, a widzowie wychodzą z seansów zachwyceni.\n\nChoć film Shoenbrun opowiada o powstawaniu fikcyjnej serii horrorów, sam w sobie horrorem nie jest, a zaledwie czerpie z jego estetyki. To przepiękna pod względem wizualnym kinofilska uczta opowiadająca przede wszystkim o bezgranicznej miłości do kina. I o tym, jak ta miłość zmienia nasze życie.\n\nW centrum tej opowieści stoją dwie aktorki reprezentujące dwa różne pokolenia. Legendarna Gillian Anderson wciela się w rolę ekscentrycznej diwy, a znana z serialu „Hacks” Hannah Einbinder w niepewną swojej pozycji, ale utalentowaną reżyserkę. Razem tworzą najbardziej elektryzujący ekranowy duet tego roku.",
@@ -659,7 +659,7 @@
             "id": "tt28088049",
             "url": "https://www.imdb.com/title/tt28088049/",
             "rating": 6.3,
-            "votes": 4345
+            "votes": 4367
           },
           "filmweb": {
             "id": "10085499",
@@ -669,7 +669,7 @@
               "Komedia"
             ],
             "rating": 5.7,
-            "votes": 1695
+            "votes": 1759
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/bitter_christmas",
@@ -725,7 +725,7 @@
             "id": "tt31216533",
             "url": "https://www.imdb.com/title/tt31216533/",
             "rating": 7.3,
-            "votes": 362
+            "votes": 367
           },
           "filmweb": {
             "id": "10117286",
@@ -734,7 +734,7 @@
               "Dramat"
             ],
             "rating": 7.3,
-            "votes": 406
+            "votes": 509
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/500_miles_2026",
@@ -789,7 +789,7 @@
             "id": "tt35298123",
             "url": "https://www.imdb.com/title/tt35298123/",
             "rating": 7.2,
-            "votes": 8364
+            "votes": 8472
           },
           "filmweb": {
             "id": "10114411",
@@ -797,8 +797,8 @@
             "genres": [
               "Czarna komedia"
             ],
-            "rating": 7.3,
-            "votes": 727
+            "rating": 7.2,
+            "votes": 874
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/teenage_sex_and_death_at_camp_miasma",
@@ -810,7 +810,7 @@
             "criticsRating": 94,
             "criticsVotes": 268,
             "audienceRating": 78,
-            "audienceVotes": 487
+            "audienceVotes": 493
           }
         },
         "longDescription": "Na dnie jeziora jest dziura. To z niej pochodzą filmy.\n\nMłoda, utalentowana reżyserka Kris (Hannah Einbinder) dostaje od studia filmowego szansę życia – ma nakręcić remake kultowej serii horrorów „Camp Miasma”, która cieszyła się ogromną popularnością w latach osiemdziesiątych i dziewięćdziesiątych. Aby znaleźć inspirację, udaje się na spotkanie z Billy (Gillian Anderson), która grała główną rolę w pierwowzorze projektu. Wizyta u ekscentrycznej aktorki szybko przeradza się w coś więcej niż zwykły wywiad.\n\n„Miłość, śmierć i dojrzewanie w Camp Miasma” zadebiutowała na festiwalu w Cannes, gdzie szturmem zdobyła serca krytyków i widzów – a także prestiżową nominację w sekcji Un Certain Regard. Najnowszy film Jane Shoenbrun (twórcy docenianego „W blasku ekranu”) ma obecnie 100% pozytywnych recenzji na Rotten Tomatoes, a widzowie wychodzą z seansów zachwyceni.\n\nChoć film Shoenbrun opowiada o powstawaniu fikcyjnej serii horrorów, sam w sobie horrorem nie jest, a zaledwie czerpie z jego estetyki. To przepiękna pod względem wizualnym kinofilska uczta opowiadająca przede wszystkim o bezgranicznej miłości do kina. I o tym, jak ta miłość zmienia nasze życie.\n\nW centrum tej opowieści stoją dwie aktorki reprezentujące dwa różne pokolenia. Legendarna Gillian Anderson wciela się w rolę ekscentrycznej diwy, a znana z serialu „Hacks” Hannah Einbinder w niepewną swojej pozycji, ale utalentowaną reżyserkę. Razem tworzą najbardziej elektryzujący ekranowy duet tego roku.",

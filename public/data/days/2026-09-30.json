@@ -1,0 +1,65 @@
+{
+  "schemaVersion": 1,
+  "date": "2026-09-30",
+  "updatedAt": "2026-09-07T18:47:37.048Z",
+  "source": "https://www.kinomuza.pl/repertoire/day/",
+  "day": {
+    "id": "23",
+    "date": "30.09",
+    "now": "2026-09-07 20:46:59",
+    "info": [],
+    "repertoire": [
+      {
+        "hour": "15:00",
+        "datetime": "2026-09-30 15:00:00",
+        "title": "Obcy",
+        "originalTitle": "L’étranger",
+        "director": "François Ozon",
+        "year": "2025",
+        "premiereDate": "2026-09-18",
+        "duration": "122",
+        "countries": "francja",
+        "shortDesc": "<p>Aktualna opowieść o poszukiwaniu sensu w świecie, w którym wszelki sens został zagubiony. Oszczędne dialogi i piękne czarno-białe zdjęcia, stanowiące hołd dla klasycznego kina.</p>\n",
+        "lang": "",
+        "subtitlesLang": "pl",
+        "age": "16",
+        "credits": "reż. François Ozon <br>francja <br>2025,122’",
+        "desc": "<p>Aktualna opowieść o poszukiwaniu sensu w świecie, w którym wszelki sens został zagubiony. Oszczędne dialogi i piękne czarno-białe zdjęcia, stanowiące hołd dla klasycznego kina.</p>\n",
+        "hall": "1",
+        "movieLink": "https://www.kinomuza.pl/movie/letranger/",
+        "ticketLink": "https://estradapoznan.bilety24.pl/kup-bilety/?id=972261#total",
+        "prePremier": false,
+        "tape35mm": false,
+        "ad": false,
+        "deaf": false,
+        "ticketPrice": "",
+        "ticketHalfPrice": "",
+        "alt": "Obcy",
+        "thumb": "https://www.kinomuza.pl/content/uploads/2026/05/obcy-1-800x450.jpg",
+        "cycle": "senior w muzie",
+        "description": "Aktualna opowieść o poszukiwaniu sensu w świecie, w którym wszelki sens został zagubiony. Oszczędne dialogi i piękne czarno-białe zdjęcia, stanowiące hołd dla klasycznego kina.",
+        "shortDescription": "Aktualna opowieść o poszukiwaniu sensu w świecie, w którym wszelki sens został zagubiony. Oszczędne dialogi i piękne czarno-białe zdjęcia, stanowiące hołd dla klasycznego kina.",
+        "genres": [
+          "Dramat",
+          "Kryminał"
+        ],
+        "external": {
+          "imdb": null,
+          "filmweb": {
+            "id": "10089279",
+            "url": "https://www.filmweb.pl/film/Obcy-2025-10089279",
+            "genres": [
+              "Dramat",
+              "Kryminał"
+            ],
+            "rating": 6.9,
+            "votes": 722
+          },
+          "rottenTomatoes": null
+        },
+        "longDescription": "„Obcy” ( L’étranger ) to nowa ekranizacja jednej z najwybitniejszych francuskich powieści XX wieku autorstwa Alberta Camusa, opublikowanej w 1942 roku.\n\nFrançois Ozon opowiada historię Meursaulta, skromnego, niepozornego urzędnika, którego codziennej rutyny nie przerywa nawet śmierć matki. Do czasu, gdy pewnego gorącego dnia na plaży dochodzi do tragicznego zdarzenia. Adaptacja Ozona, która miała premierę w Konkursie Głównym festiwalu w Wenecji, to niezwykle aktualna opowieść o poszukiwaniu sensu w świecie, w którym wszelki sens został zagubiony. Oszczędne dialogi i piękne czarno-białe zdjęcia, stanowiące hołd dla klasycznego kina, budują wyjątkową atmosferę filmu. W rolach głównych Benjamin Voisin („Stracone złudzenia”, „Lato ‘85”) oraz Rebecca Marder („Moja zbrodnia”).",
+        "poster": "media/posters/8cef881389870c3fdbd8.webp"
+      }
+    ]
+  }
+}

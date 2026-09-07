@@ -1,0 +1,81 @@
+{
+  "schemaVersion": 1,
+  "date": "2026-09-16",
+  "updatedAt": "2026-09-07T18:47:37.048Z",
+  "source": "https://www.kinomuza.pl/repertoire/day/",
+  "day": {
+    "id": "09",
+    "date": "16.09",
+    "now": "2026-09-07 20:46:32",
+    "info": [],
+    "repertoire": [
+      {
+        "hour": "15:00",
+        "datetime": "2026-09-16 15:00:00",
+        "title": "Gorzkie święta",
+        "originalTitle": "Bitter Christmas",
+        "director": "Pedro Almodóvar",
+        "year": "2026",
+        "premiereDate": "2026-08-28",
+        "duration": "111",
+        "countries": "Hiszpania",
+        "shortDesc": "<p>Pedro Almodóvar powraca w szczytowej formie z jednym ze swoich najbardziej osobistych filmów. Almodóvar składa tu poruszające wyznanie wiary w siłę kina, pamięci i narracji.</p>\n",
+        "lang": "es",
+        "subtitlesLang": "pl",
+        "age": "16",
+        "credits": "reż. Pedro Almodóvar <br>Hiszpania <br>2026,111’",
+        "desc": "<p>Pedro Almodóvar powraca w szczytowej formie z jednym ze swoich najbardziej osobistych filmów. Almodóvar składa tu poruszające wyznanie wiary w siłę kina, pamięci i narracji.</p>\n",
+        "hall": "1",
+        "movieLink": "https://www.kinomuza.pl/movie/gorzkie-swieta/",
+        "ticketLink": "https://estradapoznan.bilety24.pl/kup-bilety/?id=972259#total",
+        "prePremier": false,
+        "tape35mm": false,
+        "ad": false,
+        "deaf": false,
+        "ticketPrice": "",
+        "ticketHalfPrice": "",
+        "alt": "Gorzkie święta",
+        "thumb": "https://www.kinomuza.pl/content/uploads/2026/07/gorzkie-swieta-4-800x450.jpg",
+        "cycle": "senior w muzie",
+        "description": "Pedro Almodóvar powraca w szczytowej formie z jednym ze swoich najbardziej osobistych filmów. Almodóvar składa tu poruszające wyznanie wiary w siłę kina, pamięci i narracji.",
+        "shortDescription": "Pedro Almodóvar powraca w szczytowej formie z jednym ze swoich najbardziej osobistych filmów. Almodóvar składa tu poruszające wyznanie wiary w siłę kina, pamięci i narracji.",
+        "genres": [
+          "Dramat",
+          "Komedia"
+        ],
+        "external": {
+          "imdb": {
+            "id": "tt28088049",
+            "url": "https://www.imdb.com/title/tt28088049/",
+            "rating": 6.3,
+            "votes": 4416
+          },
+          "filmweb": {
+            "id": "10085499",
+            "url": "https://www.filmweb.pl/film/Gorzkie+%C5%9Bwi%C4%99ta-2026-10085499",
+            "genres": [
+              "Dramat",
+              "Komedia"
+            ],
+            "rating": 5.8,
+            "votes": 1827
+          },
+          "rottenTomatoes": {
+            "url": "https://www.rottentomatoes.com/m/bitter_christmas",
+            "title": "Bitter Christmas",
+            "year": "2026",
+            "directors": [
+              "Pedro Almodóvar"
+            ],
+            "criticsRating": 90,
+            "criticsVotes": 59,
+            "audienceRating": null,
+            "audienceVotes": null
+          }
+        },
+        "longDescription": "Pedro Almodóvar powraca w szczytowej formie z jednym ze swoich najbardziej osobistych filmów. W „Gorzkich świętach” – jego pierwszej od 5 lat hiszpańskojęzycznej produkcji – jest wszystko, za co widzowie kochają jego kino: namiętność, intensywne kolory, przewrotny humor i pełnokrwiste postaci, które wymykają się prostym schematom. Na ekranie pojawiają się aktorzy i aktorki znani z wcześniejszych filmów reżysera: Bárbara Lennie, Leonardo Sbaraglia, Victoria Luengo, Aitana Sánchez-Gijón, Milena Smit oraz jedna z najważniejszych muz Almodóvara – Rossy de Palma.\n\nBohaterką filmu jest czterdziestoletnia Elza (Bárbara Lennie), która po śmierci matki rzuca się w wir pracy, nie pozwalając sobie na żałobę. Dopiero atak paniki zmusza ją do zatrzymania się i wyruszenia w podróż, która stanie się konfrontacją z przeszłością, utraconymi relacjami i niespełnionymi pragnieniami. Z przypadkowych spotkań, emocjonalnych zwrotów i splatających się życiorysów Almodóvar tka opowieść o tym, jak pamięć, fikcja i pragnienie nieustannie przepisują nasze życie.\n\n„Gorzkie święta” to szczególny prezent dla tych, którzy dorastali z kinem hiszpańskiego mistrza – od „Kobiet na skraju załamania nerwowego”, przez „Wszystko o mojej matce” i „Porozmawiaj z nią”, po „Volver”, „Przerwane objęcia” i „Ból i blask”. To także film, który idzie o krok dalej: jeszcze mocniej pokazuje, że każdy z nas nie tylko przeżywa własną historię, ale też bez końca ją sobie opowiada. Almodóvar składa tu poruszające wyznanie wiary w siłę kina, pamięci i narracji.\n\nFilm dostępny z audiodeskrypcją lub lektorem. Skorzystaj bezpłatnie z aplikacji Kino Dostępne 2.0 w Twoim telefonie – http://kinodostepne.pl",
+        "poster": "media/posters/3ec6053fecffef465d0a.webp"
+      }
+    ]
+  }
+}

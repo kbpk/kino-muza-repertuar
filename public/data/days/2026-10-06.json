@@ -1,12 +1,12 @@
 {
   "schemaVersion": 1,
   "date": "2026-10-06",
-  "updatedAt": "2026-09-06T18:15:20.840Z",
+  "updatedAt": "2026-09-07T12:04:41.676Z",
   "source": "https://www.kinomuza.pl/repertoire/day/",
   "day": {
-    "id": "30",
+    "id": "29",
     "date": "06.10",
-    "now": "2026-09-06 20:15:16",
+    "now": "2026-09-07 14:04:24",
     "info": [],
     "repertoire": [
       {
@@ -39,8 +39,8 @@
         "description": "Przejmująca diagnoza społeczeństwa końca lat 70., portret człowieka osaczonego przez system i własne słabości, jedna z najbardziej przenikliwych analiz moralnego kryzysu w polskim kinie.",
         "shortDescription": "Przejmująca diagnoza społeczeństwa końca lat 70., portret człowieka osaczonego przez system i własne słabości, jedna z najbardziej przenikliwych analiz moralnego kryzysu w polskim kinie.",
         "genres": [
-          "Psychologiczny",
-          "Dramat obyczajowy"
+          "Dramat obyczajowy",
+          "Psychologiczny"
         ],
         "external": {
           "imdb": {
@@ -53,11 +53,11 @@
             "id": "4154",
             "url": "https://www.filmweb.pl/film/Bez+znieczulenia-1978-4154",
             "genres": [
-              "Psychologiczny",
-              "Dramat obyczajowy"
+              "Dramat obyczajowy",
+              "Psychologiczny"
             ],
             "rating": 7.6,
-            "votes": 6856
+            "votes": 6857
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/without_anesthesia",

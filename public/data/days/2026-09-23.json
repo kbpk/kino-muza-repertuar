@@ -1,0 +1,79 @@
+{
+  "schemaVersion": 1,
+  "date": "2026-09-23",
+  "updatedAt": "2026-09-07T18:47:37.048Z",
+  "source": "https://www.kinomuza.pl/repertoire/day/",
+  "day": {
+    "id": "16",
+    "date": "23.09",
+    "now": "2026-09-07 20:46:58",
+    "info": [],
+    "repertoire": [
+      {
+        "hour": "15:00",
+        "datetime": "2026-09-23 15:00:00",
+        "title": "500 mil",
+        "originalTitle": "500 Miles",
+        "director": "Morgan Matthews",
+        "year": "2026",
+        "premiereDate": "2026-09-04",
+        "duration": "102",
+        "countries": "Irlandia, Wielka Brytania, Cypr",
+        "shortDesc": "<p>Ciepły, poruszający film drogi laureata BAFT-y Morgana Matthewsa, w którym subtelny humor przeplata się ze wzruszeniem.</p>\n",
+        "lang": "en",
+        "subtitlesLang": "pl",
+        "age": "16",
+        "credits": "reż. Morgan Matthews <br>Irlandia, Wielka Brytania, Cypr <br>2026,102’",
+        "desc": "<p>Ciepły, poruszający film drogi laureata BAFT-y Morgana Matthewsa, w którym subtelny humor przeplata się ze wzruszeniem.</p>\n",
+        "hall": "1",
+        "movieLink": "https://www.kinomuza.pl/movie/500-mil/",
+        "ticketLink": "https://estradapoznan.bilety24.pl/kup-bilety/?id=972260#total",
+        "prePremier": false,
+        "tape35mm": false,
+        "ad": false,
+        "deaf": false,
+        "ticketPrice": "",
+        "ticketHalfPrice": "",
+        "alt": "500 mil",
+        "thumb": "https://www.kinomuza.pl/content/uploads/2026/05/500-2-800x450.jpg",
+        "cycle": "senior w muzie",
+        "description": "Ciepły, poruszający film drogi laureata BAFT-y Morgana Matthewsa, w którym subtelny humor przeplata się ze wzruszeniem.",
+        "shortDescription": "Ciepły, poruszający film drogi laureata BAFT-y Morgana Matthewsa, w którym subtelny humor przeplata się ze wzruszeniem.",
+        "genres": [
+          "Dramat"
+        ],
+        "external": {
+          "imdb": {
+            "id": "tt31216533",
+            "url": "https://www.imdb.com/title/tt31216533/",
+            "rating": 7.4,
+            "votes": 377
+          },
+          "filmweb": {
+            "id": "10117286",
+            "url": "https://www.filmweb.pl/film/500+mil-2026-10117286",
+            "genres": [
+              "Dramat"
+            ],
+            "rating": 7.3,
+            "votes": 632
+          },
+          "rottenTomatoes": {
+            "url": "https://www.rottentomatoes.com/m/500_miles_2026",
+            "title": "500 Miles (2026)",
+            "year": "",
+            "directors": [
+              "Morgan Matthews"
+            ],
+            "criticsRating": 67,
+            "criticsVotes": 12,
+            "audienceRating": null,
+            "audienceVotes": null
+          }
+        },
+        "longDescription": "500 mil  to ciepły, poruszający film drogi laureata BAFT-y Morgana Matthewsa, w którym subtelny humor przeplata się ze wzruszeniem, a historia przywodzi na myśl wrażliwość  Billy’ego Elliota  i emocjonalną szczerość  Był sobie chłopiec .\n\nNastoletni Finn (Roman Griffin Davis, znany z  Jojo Rabbit ) i jego młodszy brat Charlie (Dexter Sol Ansell,  Rycerz siedmiu królestw ) uciekają z domu, by uniknąć rozdzielenia po rozstaniu rodziców. Ich celem jest dzikie zachodnie wybrzeże Irlandii oraz dom ukochanego dziadka Johna (Bill Nighy,  To właśnie miłość ) – ostatnia bezpieczna przystań w ich rozpadającym się świecie.\n\nPrzed nimi 500 mil niełatwej podróży, podczas której muszą polegać na sprycie, uroku osobistym  i życzliwości napotkanych ludzi – zwłaszcza wolnej duchem ulicznej muzykantki Cáit (Maisie Williams,  Gra o tron ).\n\n500 mil  to jednak coś więcej niż film drogi. To szczera, pozbawiona fałszywej nuty i głęboko refleksyjna opowieść o rodzinie, nadziei i potrzebie bliskości, która w finale nabiera nowego znaczenia i sprawia, że po seansie wraca się myślami do pierwszych scen.\n\nFilm dostępny z audiodeskrypcją lub lektorem. Skorzystaj bezpłatnie z aplikacji Kino Dostępne 2.0 w Twoim telefonie – http://kinodostepne.pl",
+        "poster": "media/posters/da48f0cf278f46ab08f2.webp"
+      }
+    ]
+  }
+}

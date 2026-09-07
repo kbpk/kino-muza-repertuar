@@ -1,12 +1,12 @@
 {
   "schemaVersion": 1,
   "date": "2026-09-15",
-  "updatedAt": "2026-09-07T12:04:41.676Z",
+  "updatedAt": "2026-09-07T18:47:37.048Z",
   "source": "https://www.kinomuza.pl/repertoire/day/",
   "day": {
     "id": "08",
     "date": "15.09",
-    "now": "2026-09-07 14:03:57",
+    "now": "2026-09-07 20:46:31",
     "info": [],
     "repertoire": [
       {
@@ -47,7 +47,7 @@
             "id": "tt0062228",
             "url": "https://www.imdb.com/title/tt0062228/",
             "rating": 7.9,
-            "votes": 4370
+            "votes": 4372
           },
           "filmweb": {
             "id": "1113",

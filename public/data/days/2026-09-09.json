@@ -1,12 +1,12 @@
 {
   "schemaVersion": 1,
   "date": "2026-09-09",
-  "updatedAt": "2026-09-07T12:04:41.676Z",
+  "updatedAt": "2026-09-07T18:47:37.048Z",
   "source": "https://www.kinomuza.pl/repertoire/day/",
   "day": {
     "id": "02",
     "date": "09.09",
-    "now": "2026-09-07 14:03:37",
+    "now": "2026-09-07 20:46:18",
     "info": [],
     "repertoire": [
       {
@@ -46,7 +46,7 @@
             "id": "tt28326501",
             "url": "https://www.imdb.com/title/tt28326501/",
             "rating": 6.8,
-            "votes": 1942
+            "votes": 1945
           },
           "filmweb": {
             "id": "10070385",
@@ -110,7 +110,7 @@
             "id": "tt36646880",
             "url": "https://www.imdb.com/title/tt36646880/",
             "rating": 6,
-            "votes": 551
+            "votes": 555
           },
           "filmweb": {
             "id": "10079944",
@@ -175,7 +175,7 @@
             "id": "tt33305621",
             "url": "https://www.imdb.com/title/tt33305621/",
             "rating": 4.6,
-            "votes": 377
+            "votes": 378
           },
           "filmweb": {
             "id": "10090061",
@@ -241,7 +241,7 @@
             "id": "tt33095251",
             "url": "https://www.imdb.com/title/tt33095251/",
             "rating": 7.6,
-            "votes": 6745
+            "votes": 6978
           },
           "filmweb": {
             "id": "10079933",
@@ -267,7 +267,7 @@
             "audienceVotes": 862
           }
         },
-        "longDescription": "Anthony Bourdain – buntownik, outsider, głos pokolenia, jeden z najbardziej znanych szefów kuchni i jedna z największych, najbardziej charyzmatycznych osobowości telewizyjnych. Podróżnik, pisarz, odkrywca, którego miliony ludzi na całym świecie pokochały za bezkompromisowy styl, miłość do życia, szacunek do ludzi, odwagę, ciekawość świata i autentyczność. „Tony” to historia początków jego drogi – kim był, zanim stał się Anthonym Bourdainem.\n\nUpalne lato 1976 roku, Provincetown – miasto pulsujące wolnością, seksem i energią. Młody, marzący o karierze pisarza, Tony (Dominic Sessa), by podreperować budżet, trafia na zmywak do restauracji serwującej owoce morza, prowadzonej przez tajemniczego szefa kuchni (Antonio Banderas). W intensywnej, chaotycznej, a jednocześnie niezwykle kreatywnej atmosferze Tony odkrywa swoją pasję, powołanie i to, kim tak naprawdę jest.",
+        "longDescription": "Anthony Bourdain – buntownik, outsider, głos pokolenia, jeden z najbardziej znanych szefów kuchni i jedna z największych, najbardziej charyzmatycznych osobowości telewizyjnych. Podróżnik, pisarz, odkrywca, którego miliony ludzi na całym świecie pokochały za bezkompromisowy styl, miłość do życia, szacunek do ludzi, odwagę, ciekawość świata i autentyczność. „Tony” to historia początków jego drogi – kim był, zanim stał się Anthonym Bourdainem.\n\nUpalne lato 1976 roku, Provincetown – miasto pulsujące wolnością, seksem i energią. Młody, marzący o karierze pisarza, Tony (Dominic Sessa), by podreperować budżet, trafia na zmywak do restauracji serwującej owoce morza, prowadzonej przez tajemniczego szefa kuchni (Antonio Banderas). W intensywnej, chaotycznej, a jednocześnie niezwykle kreatywnej atmosferze Tony odkrywa swoją pasję, powołanie i to, kim tak naprawdę jest.\n\nFilm dostępny z audiodeskrypcją lub lektorem. Skorzystaj bezpłatnie z aplikacji Kino Dostępne 2.0 w Twoim telefonie – http://kinodostepne.pl",
         "poster": "media/posters/4c5e33e77e2fa1c55b1f.webp"
       },
       {
@@ -306,8 +306,8 @@
           "imdb": {
             "id": "tt31216533",
             "url": "https://www.imdb.com/title/tt31216533/",
-            "rating": 7.3,
-            "votes": 367
+            "rating": 7.4,
+            "votes": 377
           },
           "filmweb": {
             "id": "10117286",
@@ -370,8 +370,8 @@
           "imdb": {
             "id": "tt37304295",
             "url": "https://www.imdb.com/title/tt37304295/",
-            "rating": 7.1,
-            "votes": 1076
+            "rating": 7.2,
+            "votes": 1143
           },
           "filmweb": {
             "id": "10074985",
@@ -437,7 +437,7 @@
             "id": "tt33764258",
             "url": "https://www.imdb.com/title/tt33764258/",
             "rating": 8.4,
-            "votes": 473235
+            "votes": 475973
           },
           "filmweb": {
             "id": "10068387",
@@ -503,7 +503,7 @@
             "id": "tt35298123",
             "url": "https://www.imdb.com/title/tt35298123/",
             "rating": 7.2,
-            "votes": 8472
+            "votes": 8673
           },
           "filmweb": {
             "id": "10114411",
@@ -634,7 +634,7 @@
             "id": "tt28088049",
             "url": "https://www.imdb.com/title/tt28088049/",
             "rating": 6.3,
-            "votes": 4367
+            "votes": 4416
           },
           "filmweb": {
             "id": "10085499",
@@ -699,7 +699,7 @@
             "id": "tt35298123",
             "url": "https://www.imdb.com/title/tt35298123/",
             "rating": 7.2,
-            "votes": 8472
+            "votes": 8673
           },
           "filmweb": {
             "id": "10114411",
@@ -764,7 +764,7 @@
             "id": "tt32212403",
             "url": "https://www.imdb.com/title/tt32212403/",
             "rating": 7.3,
-            "votes": 994
+            "votes": 1008
           },
           "filmweb": {
             "id": "10117005",

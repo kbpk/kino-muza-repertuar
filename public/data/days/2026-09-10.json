@@ -1,12 +1,12 @@
 {
   "schemaVersion": 1,
   "date": "2026-09-10",
-  "updatedAt": "2026-09-06T18:15:20.840Z",
+  "updatedAt": "2026-09-07T12:04:41.676Z",
   "source": "https://www.kinomuza.pl/repertoire/day/",
   "day": {
-    "id": "04",
+    "id": "03",
     "date": "10.09",
-    "now": "2026-09-06 20:14:48",
+    "now": "2026-09-07 14:03:23",
     "info": [],
     "repertoire": [
       {
@@ -58,7 +58,7 @@
               "Komedia"
             ],
             "rating": 7.2,
-            "votes": 616
+            "votes": 656
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/sunny_dancer",
@@ -123,7 +123,7 @@
               "Melodramat"
             ],
             "rating": 5.8,
-            "votes": 1115
+            "votes": 1122
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/parallel_tales",
@@ -188,7 +188,7 @@
               "Dramat"
             ],
             "rating": 7.3,
-            "votes": 509
+            "votes": 632
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/500_miles_2026",
@@ -252,8 +252,8 @@
             "genres": [
               "Czarna komedia"
             ],
-            "rating": 7.2,
-            "votes": 874
+            "rating": 7.1,
+            "votes": 1026
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/teenage_sex_and_death_at_camp_miasma",
@@ -265,7 +265,7 @@
             "criticsRating": 94,
             "criticsVotes": 268,
             "audienceRating": 78,
-            "audienceVotes": 493
+            "audienceVotes": 495
           }
         },
         "longDescription": "Na dnie jeziora jest dziura. To z niej pochodzą filmy.\n\nMłoda, utalentowana reżyserka Kris (Hannah Einbinder) dostaje od studia filmowego szansę życia – ma nakręcić remake kultowej serii horrorów „Camp Miasma”, która cieszyła się ogromną popularnością w latach osiemdziesiątych i dziewięćdziesiątych. Aby znaleźć inspirację, udaje się na spotkanie z Billy (Gillian Anderson), która grała główną rolę w pierwowzorze projektu. Wizyta u ekscentrycznej aktorki szybko przeradza się w coś więcej niż zwykły wywiad.\n\n„Miłość, śmierć i dojrzewanie w Camp Miasma” zadebiutowała na festiwalu w Cannes, gdzie szturmem zdobyła serca krytyków i widzów – a także prestiżową nominację w sekcji Un Certain Regard. Najnowszy film Jane Shoenbrun (twórcy docenianego „W blasku ekranu”) ma obecnie 100% pozytywnych recenzji na Rotten Tomatoes, a widzowie wychodzą z seansów zachwyceni.\n\nChoć film Shoenbrun opowiada o powstawaniu fikcyjnej serii horrorów, sam w sobie horrorem nie jest, a zaledwie czerpie z jego estetyki. To przepiękna pod względem wizualnym kinofilska uczta opowiadająca przede wszystkim o bezgranicznej miłości do kina. I o tym, jak ta miłość zmienia nasze życie.\n\nW centrum tej opowieści stoją dwie aktorki reprezentujące dwa różne pokolenia. Legendarna Gillian Anderson wciela się w rolę ekscentrycznej diwy, a znana z serialu „Hacks” Hannah Einbinder w niepewną swojej pozycji, ale utalentowaną reżyserkę. Razem tworzą najbardziej elektryzujący ekranowy duet tego roku.",
@@ -302,8 +302,9 @@
         "description": "Poruszająca historia miłości Williama, ambitnego dramaturga i jego żony Agnes. Ich idylliczne życie zostaje zburzone, gdy wybucha epidemia dżumy, która dotyka ich dzieci.",
         "shortDescription": "Poruszająca historia miłości Williama, ambitnego dramaturga i jego żony Agnes. Ich idylliczne życie zostaje zburzone, gdy wybucha epidemia dżumy, która dotyka ich dzieci.",
         "genres": [
+          "Dramat",
           "Biograficzny",
-          "Dramat"
+          "Kostiumowy"
         ],
         "external": {
           "imdb": {
@@ -316,11 +317,12 @@
             "id": "10035555",
             "url": "https://www.filmweb.pl/film/Hamnet-2025-10035555",
             "genres": [
+              "Dramat",
               "Biograficzny",
-              "Dramat"
+              "Kostiumowy"
             ],
             "rating": 7.6,
-            "votes": 28548
+            "votes": 28637
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/hamnet",
@@ -386,8 +388,8 @@
               "Dramat",
               "Komedia"
             ],
-            "rating": 5.7,
-            "votes": 1759
+            "rating": 5.8,
+            "votes": 1827
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/bitter_christmas",
@@ -575,7 +577,7 @@
               "Przygodowy"
             ],
             "rating": 7.7,
-            "votes": 66438
+            "votes": 66928
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/the_odyssey_2026",
@@ -587,7 +589,7 @@
             "criticsRating": 93,
             "criticsVotes": 507,
             "audienceRating": 97,
-            "audienceVotes": 32013
+            "audienceVotes": 32217
           }
         },
         "longDescription": "Christopher Nolan, który nakręcił takie filmy jak „Interstellar” oraz „Oppenheimer” jest znany z tego, że nie boi się żadnego gatunku filmowego. Po świetnie przyjętym i nagrodzonym 7 Oscarami® „Oppenheimerze” opowiadajacym historię powstania pierwszej bomby atomowej, teraz reżyser pracuje nad adaptacją „Odysei”.\n\nTo opowieść autorstwa Homera uznawana za jedno z najważniejszych dzieł literatury zachodniej. Opowiada o podróży Odyseusza, króla Itaki, który musi stawić czoła licznym wyzwaniom próbując wrócić do domu po wojnie trojańskiej. Powstała już niejedna ekranizacja klasycznego dzieła Homera, ale tym razem film nakręcony zostanie w technologii IMAX i będzie pierwszym tak nowoczesnym podejściem do „Odysei”.\n\nW filmie „Odysei” zobaczymy między innymi: Matta Damona, Toma Hollanda, Anne Hathaway, Zendayę, Roberta Pattinsona, Lupite Nyong’o oraz Charlize Theron.",
@@ -625,8 +627,8 @@
         "shortDescription": "Młody Anthony Bourdain podczas upalnego lata 1976 roku odkrywa swoją pasję, powołanie i to, kim tak naprawdę jest.",
         "genres": [
           "Dramat",
-          "Biograficzny",
-          "Komedia"
+          "Komedia",
+          "Biograficzny"
         ],
         "external": {
           "imdb": {
@@ -640,11 +642,11 @@
             "url": "https://www.filmweb.pl/film/Tony-2026-10079933",
             "genres": [
               "Dramat",
-              "Biograficzny",
-              "Komedia"
+              "Komedia",
+              "Biograficzny"
             ],
             "rating": 7.2,
-            "votes": 1489
+            "votes": 1960
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/tony_2026",
@@ -656,7 +658,7 @@
             "criticsRating": 93,
             "criticsVotes": 222,
             "audienceRating": 92,
-            "audienceVotes": 845
+            "audienceVotes": 862
           }
         },
         "longDescription": "Anthony Bourdain – buntownik, outsider, głos pokolenia, jeden z najbardziej znanych szefów kuchni i jedna z największych, najbardziej charyzmatycznych osobowości telewizyjnych. Podróżnik, pisarz, odkrywca, którego miliony ludzi na całym świecie pokochały za bezkompromisowy styl, miłość do życia, szacunek do ludzi, odwagę, ciekawość świata i autentyczność. „Tony” to historia początków jego drogi – kim był, zanim stał się Anthonym Bourdainem.\n\nUpalne lato 1976 roku, Provincetown – miasto pulsujące wolnością, seksem i energią. Młody, marzący o karierze pisarza, Tony (Dominic Sessa), by podreperować budżet, trafia na zmywak do restauracji serwującej owoce morza, prowadzonej przez tajemniczego szefa kuchni (Antonio Banderas). W intensywnej, chaotycznej, a jednocześnie niezwykle kreatywnej atmosferze Tony odkrywa swoją pasję, powołanie i to, kim tak naprawdę jest.",
@@ -708,8 +710,8 @@
             "genres": [
               "Czarna komedia"
             ],
-            "rating": 7.2,
-            "votes": 874
+            "rating": 7.1,
+            "votes": 1026
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/teenage_sex_and_death_at_camp_miasma",
@@ -721,7 +723,7 @@
             "criticsRating": 94,
             "criticsVotes": 268,
             "audienceRating": 78,
-            "audienceVotes": 493
+            "audienceVotes": 495
           }
         },
         "longDescription": "Na dnie jeziora jest dziura. To z niej pochodzą filmy.\n\nMłoda, utalentowana reżyserka Kris (Hannah Einbinder) dostaje od studia filmowego szansę życia – ma nakręcić remake kultowej serii horrorów „Camp Miasma”, która cieszyła się ogromną popularnością w latach osiemdziesiątych i dziewięćdziesiątych. Aby znaleźć inspirację, udaje się na spotkanie z Billy (Gillian Anderson), która grała główną rolę w pierwowzorze projektu. Wizyta u ekscentrycznej aktorki szybko przeradza się w coś więcej niż zwykły wywiad.\n\n„Miłość, śmierć i dojrzewanie w Camp Miasma” zadebiutowała na festiwalu w Cannes, gdzie szturmem zdobyła serca krytyków i widzów – a także prestiżową nominację w sekcji Un Certain Regard. Najnowszy film Jane Shoenbrun (twórcy docenianego „W blasku ekranu”) ma obecnie 100% pozytywnych recenzji na Rotten Tomatoes, a widzowie wychodzą z seansów zachwyceni.\n\nChoć film Shoenbrun opowiada o powstawaniu fikcyjnej serii horrorów, sam w sobie horrorem nie jest, a zaledwie czerpie z jego estetyki. To przepiękna pod względem wizualnym kinofilska uczta opowiadająca przede wszystkim o bezgranicznej miłości do kina. I o tym, jak ta miłość zmienia nasze życie.\n\nW centrum tej opowieści stoją dwie aktorki reprezentujące dwa różne pokolenia. Legendarna Gillian Anderson wciela się w rolę ekscentrycznej diwy, a znana z serialu „Hacks” Hannah Einbinder w niepewną swojej pozycji, ale utalentowaną reżyserkę. Razem tworzą najbardziej elektryzujący ekranowy duet tego roku.",

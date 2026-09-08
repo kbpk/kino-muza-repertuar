@@ -1,12 +1,12 @@
 {
   "schemaVersion": 1,
   "date": "2026-09-12",
-  "updatedAt": "2026-09-07T18:47:37.048Z",
+  "updatedAt": "2026-09-08T14:30:34.739Z",
   "source": "https://www.kinomuza.pl/repertoire/day/",
   "day": {
-    "id": "05",
+    "id": "04",
     "date": "12.09",
-    "now": "2026-09-07 20:46:18",
+    "now": "2026-09-08 16:29:35",
     "info": [],
     "repertoire": [
       {
@@ -61,6 +61,70 @@
         },
         "longDescription": "Rosa von Praunheim (Holger Mischwitzky, ur. 1942), ikona niemieckiego kina gejowskiego, dopiero w wieku 60 lat dowiedział się, że Gertrud nie była jego biologiczną matką, lecz zabrała go z domu dziecka w Rydze i adoptowała.  \n\nReżyser rozpoczyna poszukiwania swoich nieznanych „prawdziwych” rodziców. Śledztwo prowadzi go przez niemieckie archiwa oraz na Łotwę, gdzie natrafia na liczne ślady tragicznej i zbrodniczej niemieckiej przeszłości. Odkrywa tożsamość swojej matki, która zmarła już w 1946 roku, lecz mimo to pod koniec zadaje sobie pytanie: „Czy naprawdę chcę to wszystko wiedzieć?”  \n\nChoć w filmie Rosa von Praunheim poszukuje własnej tożsamości, film „Moje matki” wykracza daleko poza indywidualne losy bohatera, oferując poruszające spojrzenie na historię Niemiec.",
         "poster": "media/posters/19ce816405ba991327ca.webp"
+      },
+      {
+        "hour": "21:15",
+        "datetime": "2026-09-12 21:15:00",
+        "title": "Bez końca",
+        "originalTitle": "Closure",
+        "director": "Michał Marczak",
+        "year": "2026",
+        "premiereDate": "2026-09-11",
+        "duration": "108",
+        "countries": "Polska, Francja ",
+        "shortDesc": "<p>Daniel nie słyszał, jak jego syn Krzysiek wychodzi z domu i idzie na most, gdzie widziano go po raz ostatni. Odtąd Daniel i jego żona żyją w zawieszeniu między nadzieją a strachem.</p>\n",
+        "lang": "pl",
+        "subtitlesLang": "",
+        "age": "16",
+        "credits": "reż. Michał Marczak <br>Polska, Francja  <br>2026,108’",
+        "desc": "<p>Daniel nie słyszał, jak jego syn Krzysiek wychodzi z domu i idzie na most, gdzie widziano go po raz ostatni. Odtąd Daniel i jego żona żyją w zawieszeniu między nadzieją a strachem.</p>\n",
+        "hall": "1",
+        "movieLink": "https://www.kinomuza.pl/movie/bez-konca/",
+        "ticketLink": "",
+        "prePremier": false,
+        "tape35mm": false,
+        "ad": false,
+        "deaf": false,
+        "ticketPrice": "",
+        "ticketHalfPrice": "",
+        "alt": "Bez końca",
+        "thumb": "https://www.kinomuza.pl/content/uploads/2026/03/closure-stills-0-2875099-closure-stills-dir-michal-marczak-01-main-800x450.jpeg",
+        "description": "Daniel nie słyszał, jak jego syn Krzysiek wychodzi z domu i idzie na most, gdzie widziano go po raz ostatni. Odtąd Daniel i jego żona żyją w zawieszeniu między nadzieją a strachem.",
+        "shortDescription": "Daniel nie słyszał, jak jego syn Krzysiek wychodzi z domu i idzie na most, gdzie widziano go po raz ostatni. Odtąd Daniel i jego żona żyją w zawieszeniu między nadzieją a strachem.",
+        "genres": [
+          "Dokumentalny"
+        ],
+        "external": {
+          "imdb": {
+            "id": "tt39075417",
+            "url": "https://www.imdb.com/title/tt39075417/",
+            "rating": 7,
+            "votes": 72
+          },
+          "filmweb": {
+            "id": "10081351",
+            "url": "https://www.filmweb.pl/film/Bez+ko%C5%84ca-2026-10081351",
+            "genres": [
+              "Dokumentalny"
+            ],
+            "rating": 7.3,
+            "votes": 538
+          },
+          "rottenTomatoes": {
+            "url": "https://www.rottentomatoes.com/m/closure_2026",
+            "title": "Closure (2026)",
+            "year": "",
+            "directors": [
+              "Michał Marczak"
+            ],
+            "criticsRating": 100,
+            "criticsVotes": 10,
+            "audienceRating": null,
+            "audienceVotes": null
+          }
+        },
+        "longDescription": "Daniel nie słyszał, jak jego szesnastoletni syn Krzysztof wychodzi nad ranem z domu. Nie wiedział, co zaciągnęło chłopaka na most nad Wisłą – wiedział tylko, że to tam widziano go po raz ostatni. Kamera CCTV uchwyciła go, a potem, między jednym jej obrotem a drugim, Krzysiek zniknął. Możliwości są dwie: albo skoczył do rzeki, albo ukradkiem zszedł z mostu. Od tamtej pory Daniel i jego żona Agnieszka żyją w stanie zawieszenia: między rozpaczliwą nadzieją a paraliżującym strachem. Daniel nie potrafi biernie czekać na coraz mniej prawdopodobny przełom w policyjnym śledztwie, buduje więc łódź wyposażoną w kamery i drony z zamiarem samodzielnego zbadania mrocznych głębin rzeki. To początek poszukiwań, które pochłoną go w całości. Dzień po dniu przeczesuje Wisłę, nieustannie rozwijając nowe narzędzia i techniki poszukiwawcze. Zaczynają odzywać się do niego inne rodziny uwięzione w tej samej otchłani niepewności i bez końca poszukujące odpowiedzi. Długie, samotne godziny spędzone na łodzi stają się dla Daniela szansą na rozliczenie z życiem sprzed zniknięcia Krzysztofa. Wraz z mijaniem kolejnych miesięcy jego ból tylko się pogłębia; ojciec zmaga się z ciągłym napięciem między niesłabnącym pędem do dalszych poszukiwań a bolesną rzeczywistością, w której nieodwracalna strata odmieni jego życie raz na zawsze.\n\nFilm dostępny z audiodeskrypcją lub lektorem. Skorzystaj bezpłatnie z aplikacji Kino Dostępne 2.0 w Twoim telefonie – http://kinodostepne.pl",
+        "poster": "media/posters/876f4065c3094089984b.webp"
       }
     ]
   }

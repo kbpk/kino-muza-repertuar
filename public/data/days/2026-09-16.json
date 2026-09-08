@@ -1,12 +1,12 @@
 {
   "schemaVersion": 1,
   "date": "2026-09-16",
-  "updatedAt": "2026-09-07T18:47:37.048Z",
+  "updatedAt": "2026-09-08T14:30:34.739Z",
   "source": "https://www.kinomuza.pl/repertoire/day/",
   "day": {
-    "id": "09",
+    "id": "08",
     "date": "16.09",
-    "now": "2026-09-07 20:46:32",
+    "now": "2026-09-08 16:29:45",
     "info": [],
     "repertoire": [
       {
@@ -57,8 +57,8 @@
               "Dramat",
               "Komedia"
             ],
-            "rating": 5.8,
-            "votes": 1827
+            "rating": 5.7,
+            "votes": 1874
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/bitter_christmas",

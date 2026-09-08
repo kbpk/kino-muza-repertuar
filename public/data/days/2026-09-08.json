@@ -1,12 +1,12 @@
 {
   "schemaVersion": 1,
   "date": "2026-09-08",
-  "updatedAt": "2026-09-07T18:47:37.048Z",
+  "updatedAt": "2026-09-08T14:30:34.739Z",
   "source": "https://www.kinomuza.pl/repertoire/day/",
   "day": {
-    "id": "01",
+    "id": "00",
     "date": "08.09",
-    "now": "2026-09-07 20:46:18",
+    "now": "2026-09-08 16:29:33",
     "info": [],
     "repertoire": [
       {
@@ -187,7 +187,7 @@
               "Przygodowy"
             ],
             "rating": 7.7,
-            "votes": 66928
+            "votes": 67217
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/the_odyssey_2026",
@@ -199,7 +199,7 @@
             "criticsRating": 93,
             "criticsVotes": 507,
             "audienceRating": 97,
-            "audienceVotes": 32217
+            "audienceVotes": 32404
           }
         },
         "longDescription": "Christopher Nolan, który nakręcił takie filmy jak „Interstellar” oraz „Oppenheimer” jest znany z tego, że nie boi się żadnego gatunku filmowego. Po świetnie przyjętym i nagrodzonym 7 Oscarami® „Oppenheimerze” opowiadajacym historię powstania pierwszej bomby atomowej, teraz reżyser pracuje nad adaptacją „Odysei”.\n\nTo opowieść autorstwa Homera uznawana za jedno z najważniejszych dzieł literatury zachodniej. Opowiada o podróży Odyseusza, króla Itaki, który musi stawić czoła licznym wyzwaniom próbując wrócić do domu po wojnie trojańskiej. Powstała już niejedna ekranizacja klasycznego dzieła Homera, ale tym razem film nakręcony zostanie w technologii IMAX i będzie pierwszym tak nowoczesnym podejściem do „Odysei”.\n\nW filmie „Odysei” zobaczymy między innymi: Matta Damona, Toma Hollanda, Anne Hathaway, Zendayę, Roberta Pattinsona, Lupite Nyong’o oraz Charlize Theron.",
@@ -251,7 +251,7 @@
               "Dramat"
             ],
             "rating": 7.3,
-            "votes": 632
+            "votes": 722
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/500_miles_2026",
@@ -299,8 +299,8 @@
         "description": "Siedemnastoletnia Ivy jest przekonana, że czeka ją najgorsze lato życia. Cztery tygodnie na obozie wakacyjnym, w grupie outsiderów, których wcale nie chciała poznać.",
         "shortDescription": "Siedemnastoletnia Ivy jest przekonana, że czeka ją najgorsze lato życia. Cztery tygodnie na obozie wakacyjnym, w grupie outsiderów, których wcale nie chciała poznać.",
         "genres": [
-          "Dramat",
-          "Komedia"
+          "Komedia",
+          "Dramat"
         ],
         "external": {
           "imdb": {
@@ -313,11 +313,11 @@
             "id": "10117005",
             "url": "https://www.filmweb.pl/film/Sunny+Dancer-2026-10117005",
             "genres": [
-              "Dramat",
-              "Komedia"
+              "Komedia",
+              "Dramat"
             ],
             "rating": 7.2,
-            "votes": 656
+            "votes": 694
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/sunny_dancer",
@@ -381,7 +381,7 @@
               "Czarna komedia"
             ],
             "rating": 7.1,
-            "votes": 1026
+            "votes": 1188
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/teenage_sex_and_death_at_camp_miasma",
@@ -391,9 +391,9 @@
               "Jane Schoenbrun"
             ],
             "criticsRating": 94,
-            "criticsVotes": 268,
+            "criticsVotes": 269,
             "audienceRating": 78,
-            "audienceVotes": 495
+            "audienceVotes": 501
           }
         },
         "longDescription": "Na dnie jeziora jest dziura. To z niej pochodzą filmy.\n\nMłoda, utalentowana reżyserka Kris (Hannah Einbinder) dostaje od studia filmowego szansę życia – ma nakręcić remake kultowej serii horrorów „Camp Miasma”, która cieszyła się ogromną popularnością w latach osiemdziesiątych i dziewięćdziesiątych. Aby znaleźć inspirację, udaje się na spotkanie z Billy (Gillian Anderson), która grała główną rolę w pierwowzorze projektu. Wizyta u ekscentrycznej aktorki szybko przeradza się w coś więcej niż zwykły wywiad.\n\n„Miłość, śmierć i dojrzewanie w Camp Miasma” zadebiutowała na festiwalu w Cannes, gdzie szturmem zdobyła serca krytyków i widzów – a także prestiżową nominację w sekcji Un Certain Regard. Najnowszy film Jane Shoenbrun (twórcy docenianego „W blasku ekranu”) ma obecnie 100% pozytywnych recenzji na Rotten Tomatoes, a widzowie wychodzą z seansów zachwyceni.\n\nChoć film Shoenbrun opowiada o powstawaniu fikcyjnej serii horrorów, sam w sobie horrorem nie jest, a zaledwie czerpie z jego estetyki. To przepiękna pod względem wizualnym kinofilska uczta opowiadająca przede wszystkim o bezgranicznej miłości do kina. I o tym, jak ta miłość zmienia nasze życie.\n\nW centrum tej opowieści stoją dwie aktorki reprezentujące dwa różne pokolenia. Legendarna Gillian Anderson wciela się w rolę ekscentrycznej diwy, a znana z serialu „Hacks” Hannah Einbinder w niepewną swojej pozycji, ale utalentowaną reżyserkę. Razem tworzą najbardziej elektryzujący ekranowy duet tego roku.",
@@ -449,7 +449,7 @@
               "Biograficzny"
             ],
             "rating": 7.2,
-            "votes": 1960
+            "votes": 2370
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/tony_2026",
@@ -459,9 +459,9 @@
               "Matt Johnson"
             ],
             "criticsRating": 93,
-            "criticsVotes": 222,
+            "criticsVotes": 223,
             "audienceRating": 92,
-            "audienceVotes": 862
+            "audienceVotes": 884
           }
         },
         "longDescription": "Anthony Bourdain – buntownik, outsider, głos pokolenia, jeden z najbardziej znanych szefów kuchni i jedna z największych, najbardziej charyzmatycznych osobowości telewizyjnych. Podróżnik, pisarz, odkrywca, którego miliony ludzi na całym świecie pokochały za bezkompromisowy styl, miłość do życia, szacunek do ludzi, odwagę, ciekawość świata i autentyczność. „Tony” to historia początków jego drogi – kim był, zanim stał się Anthonym Bourdainem.\n\nUpalne lato 1976 roku, Provincetown – miasto pulsujące wolnością, seksem i energią. Młody, marzący o karierze pisarza, Tony (Dominic Sessa), by podreperować budżet, trafia na zmywak do restauracji serwującej owoce morza, prowadzonej przez tajemniczego szefa kuchni (Antonio Banderas). W intensywnej, chaotycznej, a jednocześnie niezwykle kreatywnej atmosferze Tony odkrywa swoją pasję, powołanie i to, kim tak naprawdę jest.\n\nFilm dostępny z audiodeskrypcją lub lektorem. Skorzystaj bezpłatnie z aplikacji Kino Dostępne 2.0 w Twoim telefonie – http://kinodostepne.pl",
@@ -562,7 +562,7 @@
               "Melodramat"
             ],
             "rating": 5.8,
-            "votes": 1122
+            "votes": 1128
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/parallel_tales",
@@ -627,8 +627,8 @@
               "Dramat",
               "Komedia"
             ],
-            "rating": 5.8,
-            "votes": 1827
+            "rating": 5.7,
+            "votes": 1874
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/bitter_christmas",
@@ -692,7 +692,7 @@
               "Czarna komedia"
             ],
             "rating": 7.1,
-            "votes": 1026
+            "votes": 1188
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/teenage_sex_and_death_at_camp_miasma",
@@ -702,9 +702,9 @@
               "Jane Schoenbrun"
             ],
             "criticsRating": 94,
-            "criticsVotes": 268,
+            "criticsVotes": 269,
             "audienceRating": 78,
-            "audienceVotes": 495
+            "audienceVotes": 501
           }
         },
         "longDescription": "Na dnie jeziora jest dziura. To z niej pochodzą filmy.\n\nMłoda, utalentowana reżyserka Kris (Hannah Einbinder) dostaje od studia filmowego szansę życia – ma nakręcić remake kultowej serii horrorów „Camp Miasma”, która cieszyła się ogromną popularnością w latach osiemdziesiątych i dziewięćdziesiątych. Aby znaleźć inspirację, udaje się na spotkanie z Billy (Gillian Anderson), która grała główną rolę w pierwowzorze projektu. Wizyta u ekscentrycznej aktorki szybko przeradza się w coś więcej niż zwykły wywiad.\n\n„Miłość, śmierć i dojrzewanie w Camp Miasma” zadebiutowała na festiwalu w Cannes, gdzie szturmem zdobyła serca krytyków i widzów – a także prestiżową nominację w sekcji Un Certain Regard. Najnowszy film Jane Shoenbrun (twórcy docenianego „W blasku ekranu”) ma obecnie 100% pozytywnych recenzji na Rotten Tomatoes, a widzowie wychodzą z seansów zachwyceni.\n\nChoć film Shoenbrun opowiada o powstawaniu fikcyjnej serii horrorów, sam w sobie horrorem nie jest, a zaledwie czerpie z jego estetyki. To przepiękna pod względem wizualnym kinofilska uczta opowiadająca przede wszystkim o bezgranicznej miłości do kina. I o tym, jak ta miłość zmienia nasze życie.\n\nW centrum tej opowieści stoją dwie aktorki reprezentujące dwa różne pokolenia. Legendarna Gillian Anderson wciela się w rolę ekscentrycznej diwy, a znana z serialu „Hacks” Hannah Einbinder w niepewną swojej pozycji, ale utalentowaną reżyserkę. Razem tworzą najbardziej elektryzujący ekranowy duet tego roku.",

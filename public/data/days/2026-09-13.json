@@ -1,14 +1,82 @@
 {
   "schemaVersion": 1,
   "date": "2026-09-13",
-  "updatedAt": "2026-09-07T18:47:37.048Z",
+  "updatedAt": "2026-09-08T14:30:34.739Z",
   "source": "https://www.kinomuza.pl/repertoire/day/",
   "day": {
-    "id": "06",
+    "id": "05",
     "date": "13.09",
-    "now": "2026-09-07 20:46:31",
+    "now": "2026-09-08 16:29:35",
     "info": [],
     "repertoire": [
+      {
+        "hour": "17:00",
+        "datetime": "2026-09-13 17:00:00",
+        "title": "Tony",
+        "originalTitle": "Tony",
+        "director": "Matt Johnson",
+        "year": "2026",
+        "premiereDate": "2026-09-04",
+        "duration": "106",
+        "countries": "USA",
+        "shortDesc": "<p>Młody Anthony Bourdain podczas upalnego lata 1976 roku odkrywa swoją pasję, powołanie i to, kim tak naprawdę jest.</p>\n",
+        "lang": "en",
+        "subtitlesLang": "pl",
+        "age": "16",
+        "credits": "reż.  Matt Johnson <br>USA <br>2026,106’",
+        "desc": "<p>Młody Anthony Bourdain podczas upalnego lata 1976 roku odkrywa swoją pasję, powołanie i to, kim tak naprawdę jest.</p>\n",
+        "hall": "1",
+        "movieLink": "https://www.kinomuza.pl/movie/tony/",
+        "ticketLink": "",
+        "prePremier": false,
+        "tape35mm": false,
+        "ad": false,
+        "deaf": false,
+        "ticketPrice": "",
+        "ticketHalfPrice": "",
+        "alt": "Tony",
+        "thumb": "https://www.kinomuza.pl/content/uploads/2026/09/57ef7a282819ac320da3a5de72836119-800x450.jpg",
+        "description": "Młody Anthony Bourdain podczas upalnego lata 1976 roku odkrywa swoją pasję, powołanie i to, kim tak naprawdę jest.",
+        "shortDescription": "Młody Anthony Bourdain podczas upalnego lata 1976 roku odkrywa swoją pasję, powołanie i to, kim tak naprawdę jest.",
+        "genres": [
+          "Dramat",
+          "Komedia",
+          "Biograficzny"
+        ],
+        "external": {
+          "imdb": {
+            "id": "tt33095251",
+            "url": "https://www.imdb.com/title/tt33095251/",
+            "rating": 7.6,
+            "votes": 6978
+          },
+          "filmweb": {
+            "id": "10079933",
+            "url": "https://www.filmweb.pl/film/Tony-2026-10079933",
+            "genres": [
+              "Dramat",
+              "Komedia",
+              "Biograficzny"
+            ],
+            "rating": 7.2,
+            "votes": 2370
+          },
+          "rottenTomatoes": {
+            "url": "https://www.rottentomatoes.com/m/tony_2026",
+            "title": "Tony (2026)",
+            "year": "2026",
+            "directors": [
+              "Matt Johnson"
+            ],
+            "criticsRating": 93,
+            "criticsVotes": 223,
+            "audienceRating": 92,
+            "audienceVotes": 884
+          }
+        },
+        "longDescription": "Anthony Bourdain – buntownik, outsider, głos pokolenia, jeden z najbardziej znanych szefów kuchni i jedna z największych, najbardziej charyzmatycznych osobowości telewizyjnych. Podróżnik, pisarz, odkrywca, którego miliony ludzi na całym świecie pokochały za bezkompromisowy styl, miłość do życia, szacunek do ludzi, odwagę, ciekawość świata i autentyczność. „Tony” to historia początków jego drogi – kim był, zanim stał się Anthonym Bourdainem.\n\nUpalne lato 1976 roku, Provincetown – miasto pulsujące wolnością, seksem i energią. Młody, marzący o karierze pisarza, Tony (Dominic Sessa), by podreperować budżet, trafia na zmywak do restauracji serwującej owoce morza, prowadzonej przez tajemniczego szefa kuchni (Antonio Banderas). W intensywnej, chaotycznej, a jednocześnie niezwykle kreatywnej atmosferze Tony odkrywa swoją pasję, powołanie i to, kim tak naprawdę jest.\n\nFilm dostępny z audiodeskrypcją lub lektorem. Skorzystaj bezpłatnie z aplikacji Kino Dostępne 2.0 w Twoim telefonie – http://kinodostepne.pl",
+        "poster": "media/posters/4c5e33e77e2fa1c55b1f.webp"
+      },
       {
         "hour": "19:15",
         "datetime": "2026-09-13 19:15:00",

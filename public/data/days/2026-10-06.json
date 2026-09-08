@@ -1,12 +1,12 @@
 {
   "schemaVersion": 1,
   "date": "2026-10-06",
-  "updatedAt": "2026-09-07T18:47:37.048Z",
+  "updatedAt": "2026-09-08T14:30:34.739Z",
   "source": "https://www.kinomuza.pl/repertoire/day/",
   "day": {
-    "id": "29",
+    "id": "28",
     "date": "06.10",
-    "now": "2026-09-07 20:47:10",
+    "now": "2026-09-08 16:30:08",
     "info": [],
     "repertoire": [
       {
@@ -57,7 +57,7 @@
               "Psychologiczny"
             ],
             "rating": 7.6,
-            "votes": 6857
+            "votes": 6861
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/without_anesthesia",

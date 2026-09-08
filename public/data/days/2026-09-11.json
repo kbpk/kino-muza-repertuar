@@ -1,14 +1,142 @@
 {
   "schemaVersion": 1,
   "date": "2026-09-11",
-  "updatedAt": "2026-09-07T18:47:37.048Z",
+  "updatedAt": "2026-09-08T14:30:34.739Z",
   "source": "https://www.kinomuza.pl/repertoire/day/",
   "day": {
-    "id": "04",
+    "id": "03",
     "date": "11.09",
-    "now": "2026-09-07 20:46:18",
+    "now": "2026-09-08 16:29:35",
     "info": [],
     "repertoire": [
+      {
+        "hour": "14:30",
+        "datetime": "2026-09-11 14:30:00",
+        "title": "Historie równoległe",
+        "originalTitle": "Parallel Tales",
+        "director": "Asghar Farhadi",
+        "year": "2026",
+        "premiereDate": "2026-08-14",
+        "duration": "139",
+        "countries": "Belgia, Francja, USA, Włochy",
+        "shortDesc": "<p class=\"wp-block-paragraph\">Pisarka odkrywa trójkąt miłosny rodzący się między braćmi, a tajemniczą Anną. Wirtuozersko poprowadzona historia miłosnego trójkąta, który staje się obsesją znakomitej pisarki.</p>\n",
+        "lang": "fr",
+        "subtitlesLang": "pl",
+        "age": "16",
+        "credits": "reż. Asghar Farhadi <br>Belgia, Francja, USA, Włochy <br>2026,139’",
+        "desc": "<p class=\"wp-block-paragraph\">Pisarka odkrywa trójkąt miłosny rodzący się między braćmi, a tajemniczą Anną. Wirtuozersko poprowadzona historia miłosnego trójkąta, który staje się obsesją znakomitej pisarki.</p>\n",
+        "hall": "1",
+        "movieLink": "https://www.kinomuza.pl/movie/historie-rownolegle/",
+        "ticketLink": "",
+        "prePremier": false,
+        "tape35mm": false,
+        "ad": false,
+        "deaf": false,
+        "ticketPrice": "",
+        "ticketHalfPrice": "",
+        "alt": "Historie równoległe",
+        "thumb": "https://www.kinomuza.pl/content/uploads/2026/07/historie-rownolegle-histoires-paralleles-7871-pscarolebethuel-1280x720-1-800x450.jpg",
+        "description": "Pisarka odkrywa trójkąt miłosny rodzący się między braćmi, a tajemniczą Anną. Wirtuozersko poprowadzona historia miłosnego trójkąta, który staje się obsesją znakomitej pisarki.",
+        "shortDescription": "Pisarka odkrywa trójkąt miłosny rodzący się między braćmi, a tajemniczą Anną. Wirtuozersko poprowadzona historia miłosnego trójkąta, który staje się obsesją znakomitej pisarki.",
+        "genres": [
+          "Melodramat"
+        ],
+        "external": {
+          "imdb": {
+            "id": "tt36646880",
+            "url": "https://www.imdb.com/title/tt36646880/",
+            "rating": 6,
+            "votes": 555
+          },
+          "filmweb": {
+            "id": "10079944",
+            "url": "https://www.filmweb.pl/film/Historie+r%C3%B3wnoleg%C5%82e-2026-10079944",
+            "genres": [
+              "Melodramat"
+            ],
+            "rating": 5.8,
+            "votes": 1128
+          },
+          "rottenTomatoes": {
+            "url": "https://www.rottentomatoes.com/m/parallel_tales",
+            "title": "Parallel Tales",
+            "year": "",
+            "directors": [
+              "Asghar Farhadi"
+            ],
+            "criticsRating": 19,
+            "criticsVotes": 31,
+            "audienceRating": null,
+            "audienceVotes": 7
+          }
+        },
+        "longDescription": "Pisarka odkrywa trójkąt miłosny rodzący się między braćmi, a tajemniczą Anną.\n\nPrezentowany w konkursie tegorocznego Festiwalu w Cannes nowy film znakomitego Asghara Farhadiego, zdobywcy OSCARÓW za „Rozstanie” i „Klienta”.\n\nWyprodukowany przez Macieja Musiała i Krzysztofa Piesiewicza film inspirowany 6 częścią słynnego „DEKALOGU” Krzysztofa Kieślowskiego.\n\nGwiazdorska obsada w pełnej pasji i tajemnic opowieści o niebezpiecznych konsekwencjach igrania z namiętnościami.\n\nWirtuozersko poprowadzona historia miłosnego trójkąta, który staje się obsesją znakomitej pisarki.\n\nW poszukiwaniu inspiracji do nowej powieści Sylvie zaczyna podglądać mieszkających naprzeciwko braci i ich tajemniczą, piękna przyjaciółkę. Kiedy Sylvie zatrudnia do pomocy w codziennych obowiązkach młodego Adama, nie spodziewa się, że wkroczy on tak zdecydowanie w życie jej i obserwowanych przez nią braci. Adam spróbuje przekroczyć niebezpieczną granicę między fikcją kreowaną przez Sylvie, a rzeczywistością rodzącego się na ich oczach miłosnego trójkąta.",
+        "poster": "media/posters/2b6e4513672d1abd0541.webp"
+      },
+      {
+        "hour": "17:00",
+        "datetime": "2026-09-11 17:00:00",
+        "title": "Bez końca",
+        "originalTitle": "Closure",
+        "director": "Michał Marczak",
+        "year": "2026",
+        "premiereDate": "2026-09-11",
+        "duration": "108",
+        "countries": "Polska, Francja ",
+        "shortDesc": "<p>Daniel nie słyszał, jak jego syn Krzysiek wychodzi z domu i idzie na most, gdzie widziano go po raz ostatni. Odtąd Daniel i jego żona żyją w zawieszeniu między nadzieją a strachem.</p>\n",
+        "lang": "pl",
+        "subtitlesLang": "",
+        "age": "16",
+        "credits": "reż. Michał Marczak <br>Polska, Francja  <br>2026,108’",
+        "desc": "<p>Daniel nie słyszał, jak jego syn Krzysiek wychodzi z domu i idzie na most, gdzie widziano go po raz ostatni. Odtąd Daniel i jego żona żyją w zawieszeniu między nadzieją a strachem.</p>\n",
+        "hall": "1",
+        "movieLink": "https://www.kinomuza.pl/movie/bez-konca/",
+        "ticketLink": "",
+        "prePremier": false,
+        "tape35mm": false,
+        "ad": false,
+        "deaf": false,
+        "ticketPrice": "",
+        "ticketHalfPrice": "",
+        "alt": "Bez końca",
+        "thumb": "https://www.kinomuza.pl/content/uploads/2026/03/closure-stills-0-2875099-closure-stills-dir-michal-marczak-01-main-800x450.jpeg",
+        "description": "Daniel nie słyszał, jak jego syn Krzysiek wychodzi z domu i idzie na most, gdzie widziano go po raz ostatni. Odtąd Daniel i jego żona żyją w zawieszeniu między nadzieją a strachem.",
+        "shortDescription": "Daniel nie słyszał, jak jego syn Krzysiek wychodzi z domu i idzie na most, gdzie widziano go po raz ostatni. Odtąd Daniel i jego żona żyją w zawieszeniu między nadzieją a strachem.",
+        "genres": [
+          "Dokumentalny"
+        ],
+        "external": {
+          "imdb": {
+            "id": "tt39075417",
+            "url": "https://www.imdb.com/title/tt39075417/",
+            "rating": 7,
+            "votes": 72
+          },
+          "filmweb": {
+            "id": "10081351",
+            "url": "https://www.filmweb.pl/film/Bez+ko%C5%84ca-2026-10081351",
+            "genres": [
+              "Dokumentalny"
+            ],
+            "rating": 7.3,
+            "votes": 538
+          },
+          "rottenTomatoes": {
+            "url": "https://www.rottentomatoes.com/m/closure_2026",
+            "title": "Closure (2026)",
+            "year": "",
+            "directors": [
+              "Michał Marczak"
+            ],
+            "criticsRating": 100,
+            "criticsVotes": 10,
+            "audienceRating": null,
+            "audienceVotes": null
+          }
+        },
+        "longDescription": "Daniel nie słyszał, jak jego szesnastoletni syn Krzysztof wychodzi nad ranem z domu. Nie wiedział, co zaciągnęło chłopaka na most nad Wisłą – wiedział tylko, że to tam widziano go po raz ostatni. Kamera CCTV uchwyciła go, a potem, między jednym jej obrotem a drugim, Krzysiek zniknął. Możliwości są dwie: albo skoczył do rzeki, albo ukradkiem zszedł z mostu. Od tamtej pory Daniel i jego żona Agnieszka żyją w stanie zawieszenia: między rozpaczliwą nadzieją a paraliżującym strachem. Daniel nie potrafi biernie czekać na coraz mniej prawdopodobny przełom w policyjnym śledztwie, buduje więc łódź wyposażoną w kamery i drony z zamiarem samodzielnego zbadania mrocznych głębin rzeki. To początek poszukiwań, które pochłoną go w całości. Dzień po dniu przeczesuje Wisłę, nieustannie rozwijając nowe narzędzia i techniki poszukiwawcze. Zaczynają odzywać się do niego inne rodziny uwięzione w tej samej otchłani niepewności i bez końca poszukujące odpowiedzi. Długie, samotne godziny spędzone na łodzi stają się dla Daniela szansą na rozliczenie z życiem sprzed zniknięcia Krzysztofa. Wraz z mijaniem kolejnych miesięcy jego ból tylko się pogłębia; ojciec zmaga się z ciągłym napięciem między niesłabnącym pędem do dalszych poszukiwań a bolesną rzeczywistością, w której nieodwracalna strata odmieni jego życie raz na zawsze.\n\nFilm dostępny z audiodeskrypcją lub lektorem. Skorzystaj bezpłatnie z aplikacji Kino Dostępne 2.0 w Twoim telefonie – http://kinodostepne.pl",
+        "poster": "media/posters/876f4065c3094089984b.webp"
+      },
       {
         "hour": "19:00",
         "datetime": "2026-09-11 19:00:00",

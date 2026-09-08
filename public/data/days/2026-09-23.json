@@ -1,12 +1,12 @@
 {
   "schemaVersion": 1,
   "date": "2026-09-23",
-  "updatedAt": "2026-09-07T18:47:37.048Z",
+  "updatedAt": "2026-09-08T14:30:34.739Z",
   "source": "https://www.kinomuza.pl/repertoire/day/",
   "day": {
-    "id": "16",
+    "id": "15",
     "date": "23.09",
-    "now": "2026-09-07 20:46:58",
+    "now": "2026-09-08 16:29:59",
     "info": [],
     "repertoire": [
       {
@@ -56,7 +56,7 @@
               "Dramat"
             ],
             "rating": 7.3,
-            "votes": 632
+            "votes": 722
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/500_miles_2026",

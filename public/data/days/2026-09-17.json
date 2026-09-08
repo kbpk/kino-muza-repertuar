@@ -1,14 +1,148 @@
 {
   "schemaVersion": 1,
   "date": "2026-09-17",
-  "updatedAt": "2026-09-07T18:47:37.048Z",
+  "updatedAt": "2026-09-08T14:30:34.739Z",
   "source": "https://www.kinomuza.pl/repertoire/day/",
   "day": {
-    "id": "10",
+    "id": "09",
     "date": "17.09",
-    "now": "2026-09-07 20:46:44",
+    "now": "2026-09-08 16:29:54",
     "info": [],
     "repertoire": [
+      {
+        "hour": "17:00",
+        "datetime": "2026-09-17 17:00:00",
+        "title": "Bez końca",
+        "originalTitle": "Closure",
+        "director": "Michał Marczak",
+        "year": "2026",
+        "premiereDate": "2026-09-11",
+        "duration": "108",
+        "countries": "Polska, Francja ",
+        "shortDesc": "<p>Daniel nie słyszał, jak jego syn Krzysiek wychodzi z domu i idzie na most, gdzie widziano go po raz ostatni. Odtąd Daniel i jego żona żyją w zawieszeniu między nadzieją a strachem.</p>\n",
+        "lang": "pl",
+        "subtitlesLang": "",
+        "age": "16",
+        "credits": "reż. Michał Marczak <br>Polska, Francja  <br>2026,108’",
+        "desc": "<p>Daniel nie słyszał, jak jego syn Krzysiek wychodzi z domu i idzie na most, gdzie widziano go po raz ostatni. Odtąd Daniel i jego żona żyją w zawieszeniu między nadzieją a strachem.</p>\n",
+        "hall": "1",
+        "movieLink": "https://www.kinomuza.pl/movie/bez-konca/",
+        "ticketLink": "",
+        "prePremier": false,
+        "tape35mm": false,
+        "ad": false,
+        "deaf": false,
+        "ticketPrice": "",
+        "ticketHalfPrice": "",
+        "alt": "Bez końca",
+        "thumb": "https://www.kinomuza.pl/content/uploads/2026/03/closure-stills-0-2875099-closure-stills-dir-michal-marczak-01-main-800x450.jpeg",
+        "cycle": "przyzwoicie tanie czwartki",
+        "description": "Daniel nie słyszał, jak jego syn Krzysiek wychodzi z domu i idzie na most, gdzie widziano go po raz ostatni. Odtąd Daniel i jego żona żyją w zawieszeniu między nadzieją a strachem.",
+        "shortDescription": "Daniel nie słyszał, jak jego syn Krzysiek wychodzi z domu i idzie na most, gdzie widziano go po raz ostatni. Odtąd Daniel i jego żona żyją w zawieszeniu między nadzieją a strachem.",
+        "genres": [
+          "Dokumentalny"
+        ],
+        "external": {
+          "imdb": {
+            "id": "tt39075417",
+            "url": "https://www.imdb.com/title/tt39075417/",
+            "rating": 7,
+            "votes": 72
+          },
+          "filmweb": {
+            "id": "10081351",
+            "url": "https://www.filmweb.pl/film/Bez+ko%C5%84ca-2026-10081351",
+            "genres": [
+              "Dokumentalny"
+            ],
+            "rating": 7.3,
+            "votes": 538
+          },
+          "rottenTomatoes": {
+            "url": "https://www.rottentomatoes.com/m/closure_2026",
+            "title": "Closure (2026)",
+            "year": "",
+            "directors": [
+              "Michał Marczak"
+            ],
+            "criticsRating": 100,
+            "criticsVotes": 10,
+            "audienceRating": null,
+            "audienceVotes": null
+          }
+        },
+        "longDescription": "Daniel nie słyszał, jak jego szesnastoletni syn Krzysztof wychodzi nad ranem z domu. Nie wiedział, co zaciągnęło chłopaka na most nad Wisłą – wiedział tylko, że to tam widziano go po raz ostatni. Kamera CCTV uchwyciła go, a potem, między jednym jej obrotem a drugim, Krzysiek zniknął. Możliwości są dwie: albo skoczył do rzeki, albo ukradkiem zszedł z mostu. Od tamtej pory Daniel i jego żona Agnieszka żyją w stanie zawieszenia: między rozpaczliwą nadzieją a paraliżującym strachem. Daniel nie potrafi biernie czekać na coraz mniej prawdopodobny przełom w policyjnym śledztwie, buduje więc łódź wyposażoną w kamery i drony z zamiarem samodzielnego zbadania mrocznych głębin rzeki. To początek poszukiwań, które pochłoną go w całości. Dzień po dniu przeczesuje Wisłę, nieustannie rozwijając nowe narzędzia i techniki poszukiwawcze. Zaczynają odzywać się do niego inne rodziny uwięzione w tej samej otchłani niepewności i bez końca poszukujące odpowiedzi. Długie, samotne godziny spędzone na łodzi stają się dla Daniela szansą na rozliczenie z życiem sprzed zniknięcia Krzysztofa. Wraz z mijaniem kolejnych miesięcy jego ból tylko się pogłębia; ojciec zmaga się z ciągłym napięciem między niesłabnącym pędem do dalszych poszukiwań a bolesną rzeczywistością, w której nieodwracalna strata odmieni jego życie raz na zawsze.\n\nFilm dostępny z audiodeskrypcją lub lektorem. Skorzystaj bezpłatnie z aplikacji Kino Dostępne 2.0 w Twoim telefonie – http://kinodostepne.pl",
+        "poster": "media/posters/876f4065c3094089984b.webp"
+      },
+      {
+        "hour": "19:00",
+        "datetime": "2026-09-17 19:00:00",
+        "title": "Tony",
+        "originalTitle": "Tony",
+        "director": "Matt Johnson",
+        "year": "2026",
+        "premiereDate": "2026-09-04",
+        "duration": "106",
+        "countries": "USA",
+        "shortDesc": "<p>Młody Anthony Bourdain podczas upalnego lata 1976 roku odkrywa swoją pasję, powołanie i to, kim tak naprawdę jest.</p>\n",
+        "lang": "en",
+        "subtitlesLang": "pl",
+        "age": "16",
+        "credits": "reż.  Matt Johnson <br>USA <br>2026,106’",
+        "desc": "<p>Młody Anthony Bourdain podczas upalnego lata 1976 roku odkrywa swoją pasję, powołanie i to, kim tak naprawdę jest.</p>\n",
+        "hall": "1",
+        "movieLink": "https://www.kinomuza.pl/movie/tony/",
+        "ticketLink": "",
+        "prePremier": false,
+        "tape35mm": false,
+        "ad": false,
+        "deaf": false,
+        "ticketPrice": "",
+        "ticketHalfPrice": "",
+        "alt": "Tony",
+        "thumb": "https://www.kinomuza.pl/content/uploads/2026/09/57ef7a282819ac320da3a5de72836119-800x450.jpg",
+        "cycle": "przyzwoicie tanie czwartki",
+        "description": "Młody Anthony Bourdain podczas upalnego lata 1976 roku odkrywa swoją pasję, powołanie i to, kim tak naprawdę jest.",
+        "shortDescription": "Młody Anthony Bourdain podczas upalnego lata 1976 roku odkrywa swoją pasję, powołanie i to, kim tak naprawdę jest.",
+        "genres": [
+          "Dramat",
+          "Komedia",
+          "Biograficzny"
+        ],
+        "external": {
+          "imdb": {
+            "id": "tt33095251",
+            "url": "https://www.imdb.com/title/tt33095251/",
+            "rating": 7.6,
+            "votes": 6978
+          },
+          "filmweb": {
+            "id": "10079933",
+            "url": "https://www.filmweb.pl/film/Tony-2026-10079933",
+            "genres": [
+              "Dramat",
+              "Komedia",
+              "Biograficzny"
+            ],
+            "rating": 7.2,
+            "votes": 2370
+          },
+          "rottenTomatoes": {
+            "url": "https://www.rottentomatoes.com/m/tony_2026",
+            "title": "Tony (2026)",
+            "year": "2026",
+            "directors": [
+              "Matt Johnson"
+            ],
+            "criticsRating": 93,
+            "criticsVotes": 223,
+            "audienceRating": 92,
+            "audienceVotes": 884
+          }
+        },
+        "longDescription": "Anthony Bourdain – buntownik, outsider, głos pokolenia, jeden z najbardziej znanych szefów kuchni i jedna z największych, najbardziej charyzmatycznych osobowości telewizyjnych. Podróżnik, pisarz, odkrywca, którego miliony ludzi na całym świecie pokochały za bezkompromisowy styl, miłość do życia, szacunek do ludzi, odwagę, ciekawość świata i autentyczność. „Tony” to historia początków jego drogi – kim był, zanim stał się Anthonym Bourdainem.\n\nUpalne lato 1976 roku, Provincetown – miasto pulsujące wolnością, seksem i energią. Młody, marzący o karierze pisarza, Tony (Dominic Sessa), by podreperować budżet, trafia na zmywak do restauracji serwującej owoce morza, prowadzonej przez tajemniczego szefa kuchni (Antonio Banderas). W intensywnej, chaotycznej, a jednocześnie niezwykle kreatywnej atmosferze Tony odkrywa swoją pasję, powołanie i to, kim tak naprawdę jest.\n\nFilm dostępny z audiodeskrypcją lub lektorem. Skorzystaj bezpłatnie z aplikacji Kino Dostępne 2.0 w Twoim telefonie – http://kinodostepne.pl",
+        "poster": "media/posters/4c5e33e77e2fa1c55b1f.webp"
+      },
       {
         "hour": "19:00",
         "datetime": "2026-09-17 19:00:00",

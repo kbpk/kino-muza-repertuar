@@ -1,12 +1,12 @@
 {
   "schemaVersion": 1,
   "date": "2026-09-13",
-  "updatedAt": "2026-09-08T17:14:45.234Z",
+  "updatedAt": "2026-09-09T14:32:27.294Z",
   "source": "https://www.kinomuza.pl/repertoire/day/",
   "day": {
-    "id": "05",
+    "id": "04",
     "date": "13.09",
-    "now": "2026-09-08 19:13:45",
+    "now": "2026-09-09 16:31:11",
     "info": [],
     "repertoire": [
       {
@@ -192,7 +192,7 @@
             "id": "tt28088049",
             "url": "https://www.imdb.com/title/tt28088049/",
             "rating": 6.3,
-            "votes": 4416
+            "votes": 4513
           },
           "filmweb": {
             "id": "10085499",
@@ -202,7 +202,7 @@
               "Komedia"
             ],
             "rating": 5.7,
-            "votes": 1874
+            "votes": 1919
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/bitter_christmas",
@@ -251,26 +251,26 @@
         "shortDescription": "Opowieść o podróży Odyseusza, króla Itaki, który musi stawić czoła licznym wyzwaniom próbując wrócić do domu po wojnie trojańskiej.",
         "genres": [
           "Dramat",
-          "Fantasy",
-          "Przygodowy"
+          "Przygodowy",
+          "Fantasy"
         ],
         "external": {
           "imdb": {
             "id": "tt33764258",
             "url": "https://www.imdb.com/title/tt33764258/",
             "rating": 8.4,
-            "votes": 475973
+            "votes": 481120
           },
           "filmweb": {
             "id": "10068387",
             "url": "https://www.filmweb.pl/film/Odyseja-2026-10068387",
             "genres": [
               "Dramat",
-              "Fantasy",
-              "Przygodowy"
+              "Przygodowy",
+              "Fantasy"
             ],
             "rating": 7.7,
-            "votes": 67217
+            "votes": 67456
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/the_odyssey_2026",
@@ -279,10 +279,10 @@
             "directors": [
               "Christopher Nolan"
             ],
-            "criticsRating": 93,
-            "criticsVotes": 507,
-            "audienceRating": 97,
-            "audienceVotes": 32404
+            "criticsRating": 94,
+            "criticsVotes": 508,
+            "audienceRating": 96,
+            "audienceVotes": 32500
           }
         },
         "longDescription": "Christopher Nolan, który nakręcił takie filmy jak „Interstellar” oraz „Oppenheimer” jest znany z tego, że nie boi się żadnego gatunku filmowego. Po świetnie przyjętym i nagrodzonym 7 Oscarami® „Oppenheimerze” opowiadajacym historię powstania pierwszej bomby atomowej, teraz reżyser pracuje nad adaptacją „Odysei”.\n\nTo opowieść autorstwa Homera uznawana za jedno z najważniejszych dzieł literatury zachodniej. Opowiada o podróży Odyseusza, króla Itaki, który musi stawić czoła licznym wyzwaniom próbując wrócić do domu po wojnie trojańskiej. Powstała już niejedna ekranizacja klasycznego dzieła Homera, ale tym razem film nakręcony zostanie w technologii IMAX i będzie pierwszym tak nowoczesnym podejściem do „Odysei”.\n\nW filmie „Odysei” zobaczymy między innymi: Matta Damona, Toma Hollanda, Anne Hathaway, Zendayę, Roberta Pattinsona, Lupite Nyong’o oraz Charlize Theron.",
@@ -325,7 +325,7 @@
             "id": "tt28326501",
             "url": "https://www.imdb.com/title/tt28326501/",
             "rating": 6.8,
-            "votes": 1945
+            "votes": 1951
           },
           "filmweb": {
             "id": "10070385",
@@ -334,7 +334,7 @@
               "Dramat"
             ],
             "rating": 6.2,
-            "votes": 370
+            "votes": 377
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/the_little_sister_2025",
@@ -389,7 +389,7 @@
             "id": "tt39075417",
             "url": "https://www.imdb.com/title/tt39075417/",
             "rating": 7,
-            "votes": 72
+            "votes": 73
           },
           "filmweb": {
             "id": "10081351",
@@ -398,7 +398,7 @@
               "Dokumentalny"
             ],
             "rating": 7.3,
-            "votes": 538
+            "votes": 540
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/closure_2026",
@@ -455,7 +455,7 @@
             "id": "tt14905854",
             "url": "https://www.imdb.com/title/tt14905854/",
             "rating": 7.8,
-            "votes": 133328
+            "votes": 133681
           },
           "filmweb": {
             "id": "10035555",
@@ -466,7 +466,7 @@
               "Kostiumowy"
             ],
             "rating": 7.6,
-            "votes": 28698
+            "votes": 28728
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/hamnet",
@@ -523,7 +523,7 @@
             "id": "tt33095251",
             "url": "https://www.imdb.com/title/tt33095251/",
             "rating": 7.6,
-            "votes": 6978
+            "votes": 7387
           },
           "filmweb": {
             "id": "10079933",
@@ -534,7 +534,7 @@
               "Biograficzny"
             ],
             "rating": 7.2,
-            "votes": 2370
+            "votes": 2751
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/tony_2026",
@@ -546,7 +546,7 @@
             "criticsRating": 93,
             "criticsVotes": 223,
             "audienceRating": 92,
-            "audienceVotes": 884
+            "audienceVotes": 893
           }
         },
         "longDescription": "Anthony Bourdain – buntownik, outsider, głos pokolenia, jeden z najbardziej znanych szefów kuchni i jedna z największych, najbardziej charyzmatycznych osobowości telewizyjnych. Podróżnik, pisarz, odkrywca, którego miliony ludzi na całym świecie pokochały za bezkompromisowy styl, miłość do życia, szacunek do ludzi, odwagę, ciekawość świata i autentyczność. „Tony” to historia początków jego drogi – kim był, zanim stał się Anthonym Bourdainem.\n\nUpalne lato 1976 roku, Provincetown – miasto pulsujące wolnością, seksem i energią. Młody, marzący o karierze pisarza, Tony (Dominic Sessa), by podreperować budżet, trafia na zmywak do restauracji serwującej owoce morza, prowadzonej przez tajemniczego szefa kuchni (Antonio Banderas). W intensywnej, chaotycznej, a jednocześnie niezwykle kreatywnej atmosferze Tony odkrywa swoją pasję, powołanie i to, kim tak naprawdę jest.\n\nFilm dostępny z audiodeskrypcją lub lektorem. Skorzystaj bezpłatnie z aplikacji Kino Dostępne 2.0 w Twoim telefonie – http://kinodostepne.pl",
@@ -590,7 +590,7 @@
             "id": "tt28088049",
             "url": "https://www.imdb.com/title/tt28088049/",
             "rating": 6.3,
-            "votes": 4416
+            "votes": 4513
           },
           "filmweb": {
             "id": "10085499",
@@ -600,7 +600,7 @@
               "Komedia"
             ],
             "rating": 5.7,
-            "votes": 1874
+            "votes": 1919
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/bitter_christmas",
@@ -655,7 +655,7 @@
             "id": "tt35298123",
             "url": "https://www.imdb.com/title/tt35298123/",
             "rating": 7.2,
-            "votes": 8673
+            "votes": 9044
           },
           "filmweb": {
             "id": "10114411",
@@ -663,8 +663,8 @@
             "genres": [
               "Czarna komedia"
             ],
-            "rating": 7.1,
-            "votes": 1188
+            "rating": 7,
+            "votes": 1319
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/teenage_sex_and_death_at_camp_miasma",
@@ -676,7 +676,7 @@
             "criticsRating": 94,
             "criticsVotes": 269,
             "audienceRating": 78,
-            "audienceVotes": 501
+            "audienceVotes": 507
           }
         },
         "longDescription": "Na dnie jeziora jest dziura. To z niej pochodzą filmy.\n\nMłoda, utalentowana reżyserka Kris (Hannah Einbinder) dostaje od studia filmowego szansę życia – ma nakręcić remake kultowej serii horrorów „Camp Miasma”, która cieszyła się ogromną popularnością w latach osiemdziesiątych i dziewięćdziesiątych. Aby znaleźć inspirację, udaje się na spotkanie z Billy (Gillian Anderson), która grała główną rolę w pierwowzorze projektu. Wizyta u ekscentrycznej aktorki szybko przeradza się w coś więcej niż zwykły wywiad.\n\n„Miłość, śmierć i dojrzewanie w Camp Miasma” zadebiutowała na festiwalu w Cannes, gdzie szturmem zdobyła serca krytyków i widzów – a także prestiżową nominację w sekcji Un Certain Regard. Najnowszy film Jane Shoenbrun (twórcy docenianego „W blasku ekranu”) ma obecnie 100% pozytywnych recenzji na Rotten Tomatoes, a widzowie wychodzą z seansów zachwyceni.\n\nChoć film Shoenbrun opowiada o powstawaniu fikcyjnej serii horrorów, sam w sobie horrorem nie jest, a zaledwie czerpie z jego estetyki. To przepiękna pod względem wizualnym kinofilska uczta opowiadająca przede wszystkim o bezgranicznej miłości do kina. I o tym, jak ta miłość zmienia nasze życie.\n\nW centrum tej opowieści stoją dwie aktorki reprezentujące dwa różne pokolenia. Legendarna Gillian Anderson wciela się w rolę ekscentrycznej diwy, a znana z serialu „Hacks” Hannah Einbinder w niepewną swojej pozycji, ale utalentowaną reżyserkę. Razem tworzą najbardziej elektryzujący ekranowy duet tego roku.",
@@ -721,7 +721,7 @@
             "id": "tt33095251",
             "url": "https://www.imdb.com/title/tt33095251/",
             "rating": 7.6,
-            "votes": 6978
+            "votes": 7387
           },
           "filmweb": {
             "id": "10079933",
@@ -732,7 +732,7 @@
               "Biograficzny"
             ],
             "rating": 7.2,
-            "votes": 2370
+            "votes": 2751
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/tony_2026",
@@ -744,7 +744,7 @@
             "criticsRating": 93,
             "criticsVotes": 223,
             "audienceRating": 92,
-            "audienceVotes": 884
+            "audienceVotes": 893
           }
         },
         "longDescription": "Anthony Bourdain – buntownik, outsider, głos pokolenia, jeden z najbardziej znanych szefów kuchni i jedna z największych, najbardziej charyzmatycznych osobowości telewizyjnych. Podróżnik, pisarz, odkrywca, którego miliony ludzi na całym świecie pokochały za bezkompromisowy styl, miłość do życia, szacunek do ludzi, odwagę, ciekawość świata i autentyczność. „Tony” to historia początków jego drogi – kim był, zanim stał się Anthonym Bourdainem.\n\nUpalne lato 1976 roku, Provincetown – miasto pulsujące wolnością, seksem i energią. Młody, marzący o karierze pisarza, Tony (Dominic Sessa), by podreperować budżet, trafia na zmywak do restauracji serwującej owoce morza, prowadzonej przez tajemniczego szefa kuchni (Antonio Banderas). W intensywnej, chaotycznej, a jednocześnie niezwykle kreatywnej atmosferze Tony odkrywa swoją pasję, powołanie i to, kim tak naprawdę jest.\n\nFilm dostępny z audiodeskrypcją lub lektorem. Skorzystaj bezpłatnie z aplikacji Kino Dostępne 2.0 w Twoim telefonie – http://kinodostepne.pl",
@@ -845,8 +845,8 @@
           "imdb": {
             "id": "tt31216533",
             "url": "https://www.imdb.com/title/tt31216533/",
-            "rating": 7.4,
-            "votes": 377
+            "rating": 7.3,
+            "votes": 399
           },
           "filmweb": {
             "id": "10117286",
@@ -854,8 +854,8 @@
             "genres": [
               "Dramat"
             ],
-            "rating": 7.3,
-            "votes": 722
+            "rating": 7.4,
+            "votes": 827
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/500_miles_2026",
@@ -910,7 +910,7 @@
             "id": "tt35298123",
             "url": "https://www.imdb.com/title/tt35298123/",
             "rating": 7.2,
-            "votes": 8673
+            "votes": 9044
           },
           "filmweb": {
             "id": "10114411",
@@ -918,8 +918,8 @@
             "genres": [
               "Czarna komedia"
             ],
-            "rating": 7.1,
-            "votes": 1188
+            "rating": 7,
+            "votes": 1319
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/teenage_sex_and_death_at_camp_miasma",
@@ -931,7 +931,7 @@
             "criticsRating": 94,
             "criticsVotes": 269,
             "audienceRating": 78,
-            "audienceVotes": 501
+            "audienceVotes": 507
           }
         },
         "longDescription": "Na dnie jeziora jest dziura. To z niej pochodzą filmy.\n\nMłoda, utalentowana reżyserka Kris (Hannah Einbinder) dostaje od studia filmowego szansę życia – ma nakręcić remake kultowej serii horrorów „Camp Miasma”, która cieszyła się ogromną popularnością w latach osiemdziesiątych i dziewięćdziesiątych. Aby znaleźć inspirację, udaje się na spotkanie z Billy (Gillian Anderson), która grała główną rolę w pierwowzorze projektu. Wizyta u ekscentrycznej aktorki szybko przeradza się w coś więcej niż zwykły wywiad.\n\n„Miłość, śmierć i dojrzewanie w Camp Miasma” zadebiutowała na festiwalu w Cannes, gdzie szturmem zdobyła serca krytyków i widzów – a także prestiżową nominację w sekcji Un Certain Regard. Najnowszy film Jane Shoenbrun (twórcy docenianego „W blasku ekranu”) ma obecnie 100% pozytywnych recenzji na Rotten Tomatoes, a widzowie wychodzą z seansów zachwyceni.\n\nChoć film Shoenbrun opowiada o powstawaniu fikcyjnej serii horrorów, sam w sobie horrorem nie jest, a zaledwie czerpie z jego estetyki. To przepiękna pod względem wizualnym kinofilska uczta opowiadająca przede wszystkim o bezgranicznej miłości do kina. I o tym, jak ta miłość zmienia nasze życie.\n\nW centrum tej opowieści stoją dwie aktorki reprezentujące dwa różne pokolenia. Legendarna Gillian Anderson wciela się w rolę ekscentrycznej diwy, a znana z serialu „Hacks” Hannah Einbinder w niepewną swojej pozycji, ale utalentowaną reżyserkę. Razem tworzą najbardziej elektryzujący ekranowy duet tego roku.",
@@ -974,7 +974,7 @@
             "id": "tt39075417",
             "url": "https://www.imdb.com/title/tt39075417/",
             "rating": 7,
-            "votes": 72
+            "votes": 73
           },
           "filmweb": {
             "id": "10081351",
@@ -983,7 +983,7 @@
               "Dokumentalny"
             ],
             "rating": 7.3,
-            "votes": 538
+            "votes": 540
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/closure_2026",

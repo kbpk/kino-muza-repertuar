@@ -1,12 +1,12 @@
 {
   "schemaVersion": 1,
   "date": "2026-09-22",
-  "updatedAt": "2026-09-09T19:16:07.000Z",
+  "updatedAt": "2026-09-10T14:24:13.067Z",
   "source": "https://www.kinomuza.pl/repertoire/day/",
   "day": {
-    "id": "13",
+    "id": "12",
     "date": "22.09",
-    "now": "2026-09-09 21:15:44",
+    "now": "2026-09-10 16:23:21",
     "info": [],
     "repertoire": [
       {
@@ -40,9 +40,9 @@
         "description": "Matis żyje w świecie własnych doznań daremnie próbując nawiązać kontakty z ludźmi z okolicy. Siostra jest dla niego jedyną życiową ostoją. Kiedy między nią a młodym drwalem Janem narodzi się uczucie, Matis uzna je za zapowiedź swej ostatecznej klęski.",
         "shortDescription": "Matis żyje w świecie własnych doznań daremnie próbując nawiązać kontakty z ludźmi z okolicy. Siostra jest dla niego jedyną życiową ostoją. Kiedy między nią a młodym drwalem Janem narodzi się uczucie, Matis uzna je za zapowiedź swej ostatecznej klęski.",
         "genres": [
-          "Dramat",
+          "Poetycki",
           "Psychologiczny",
-          "Poetycki"
+          "Dramat"
         ],
         "external": {
           "imdb": {
@@ -55,12 +55,12 @@
             "id": "12135",
             "url": "https://www.filmweb.pl/film/%C5%BBywot+Mateusza-1967-12135",
             "genres": [
-              "Dramat",
+              "Poetycki",
               "Psychologiczny",
-              "Poetycki"
+              "Dramat"
             ],
             "rating": 7.7,
-            "votes": 8291
+            "votes": 8292
           },
           "rottenTomatoes": null
         },

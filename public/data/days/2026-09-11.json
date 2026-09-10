@@ -1,12 +1,12 @@
 {
   "schemaVersion": 1,
   "date": "2026-09-11",
-  "updatedAt": "2026-09-10T14:24:13.067Z",
+  "updatedAt": "2026-09-10T19:07:40.025Z",
   "source": "https://www.kinomuza.pl/repertoire/day/",
   "day": {
     "id": "01",
     "date": "11.09",
-    "now": "2026-09-10 16:22:46",
+    "now": "2026-09-10 21:06:48",
     "info": [],
     "repertoire": [
       {
@@ -45,8 +45,8 @@
           "imdb": {
             "id": "tt44898388",
             "url": "https://www.imdb.com/title/tt44898388/",
-            "rating": 6.4,
-            "votes": 5
+            "rating": 6.5,
+            "votes": 6
           },
           "filmweb": {
             "id": "10119673",
@@ -99,7 +99,7 @@
             "id": "tt36646880",
             "url": "https://www.imdb.com/title/tt36646880/",
             "rating": 6,
-            "votes": 579
+            "votes": 587
           },
           "filmweb": {
             "id": "10079944",
@@ -163,7 +163,7 @@
             "id": "tt37304295",
             "url": "https://www.imdb.com/title/tt37304295/",
             "rating": 7.2,
-            "votes": 1293
+            "votes": 1364
           },
           "filmweb": {
             "id": "10074985",
@@ -229,7 +229,7 @@
             "id": "tt33764258",
             "url": "https://www.imdb.com/title/tt33764258/",
             "rating": 8.4,
-            "votes": 481120
+            "votes": 483163
           },
           "filmweb": {
             "id": "10068387",
@@ -295,7 +295,7 @@
             "id": "tt31216533",
             "url": "https://www.imdb.com/title/tt31216533/",
             "rating": 7.3,
-            "votes": 399
+            "votes": 408
           },
           "filmweb": {
             "id": "10117286",
@@ -425,7 +425,7 @@
             "id": "tt14905854",
             "url": "https://www.imdb.com/title/tt14905854/",
             "rating": 7.8,
-            "votes": 133681
+            "votes": 133881
           },
           "filmweb": {
             "id": "10035555",
@@ -493,7 +493,7 @@
             "id": "tt33095251",
             "url": "https://www.imdb.com/title/tt33095251/",
             "rating": 7.6,
-            "votes": 7387
+            "votes": 7551
           },
           "filmweb": {
             "id": "10079933",
@@ -614,7 +614,7 @@
             "id": "tt35298123",
             "url": "https://www.imdb.com/title/tt35298123/",
             "rating": 7.2,
-            "votes": 9044
+            "votes": 9228
           },
           "filmweb": {
             "id": "10114411",
@@ -679,7 +679,7 @@
             "id": "tt32212403",
             "url": "https://www.imdb.com/title/tt32212403/",
             "rating": 7.2,
-            "votes": 1037
+            "votes": 1055
           },
           "filmweb": {
             "id": "10117005",
@@ -745,7 +745,7 @@
             "id": "tt28088049",
             "url": "https://www.imdb.com/title/tt28088049/",
             "rating": 6.3,
-            "votes": 4513
+            "votes": 4552
           },
           "filmweb": {
             "id": "10085499",

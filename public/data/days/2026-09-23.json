@@ -1,12 +1,12 @@
 {
   "schemaVersion": 1,
   "date": "2026-09-23",
-  "updatedAt": "2026-09-10T14:24:13.067Z",
+  "updatedAt": "2026-09-10T19:07:40.025Z",
   "source": "https://www.kinomuza.pl/repertoire/day/",
   "day": {
     "id": "13",
     "date": "23.09",
-    "now": "2026-09-10 16:23:34",
+    "now": "2026-09-10 21:07:23",
     "info": [],
     "repertoire": [
       {
@@ -47,7 +47,7 @@
             "id": "tt31216533",
             "url": "https://www.imdb.com/title/tt31216533/",
             "rating": 7.3,
-            "votes": 399
+            "votes": 408
           },
           "filmweb": {
             "id": "10117286",

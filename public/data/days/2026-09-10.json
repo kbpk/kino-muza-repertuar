@@ -1,12 +1,12 @@
 {
   "schemaVersion": 1,
   "date": "2026-09-10",
-  "updatedAt": "2026-09-09T19:16:07.000Z",
+  "updatedAt": "2026-09-10T14:24:13.067Z",
   "source": "https://www.kinomuza.pl/repertoire/day/",
   "day": {
-    "id": "01",
+    "id": "00",
     "date": "10.09",
-    "now": "2026-09-09 21:15:08",
+    "now": "2026-09-10 16:22:37",
     "info": [],
     "repertoire": [
       {
@@ -253,7 +253,7 @@
               "Czarna komedia"
             ],
             "rating": 7,
-            "votes": 1319
+            "votes": 1467
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/teenage_sex_and_death_at_camp_miasma",
@@ -265,7 +265,7 @@
             "criticsRating": 94,
             "criticsVotes": 269,
             "audienceRating": 78,
-            "audienceVotes": 507
+            "audienceVotes": 510
           }
         },
         "longDescription": "Na dnie jeziora jest dziura. To z niej pochodzą filmy.\n\nMłoda, utalentowana reżyserka Kris (Hannah Einbinder) dostaje od studia filmowego szansę życia – ma nakręcić remake kultowej serii horrorów „Camp Miasma”, która cieszyła się ogromną popularnością w latach osiemdziesiątych i dziewięćdziesiątych. Aby znaleźć inspirację, udaje się na spotkanie z Billy (Gillian Anderson), która grała główną rolę w pierwowzorze projektu. Wizyta u ekscentrycznej aktorki szybko przeradza się w coś więcej niż zwykły wywiad.\n\n„Miłość, śmierć i dojrzewanie w Camp Miasma” zadebiutowała na festiwalu w Cannes, gdzie szturmem zdobyła serca krytyków i widzów – a także prestiżową nominację w sekcji Un Certain Regard. Najnowszy film Jane Shoenbrun (twórcy docenianego „W blasku ekranu”) ma obecnie 100% pozytywnych recenzji na Rotten Tomatoes, a widzowie wychodzą z seansów zachwyceni.\n\nChoć film Shoenbrun opowiada o powstawaniu fikcyjnej serii horrorów, sam w sobie horrorem nie jest, a zaledwie czerpie z jego estetyki. To przepiękna pod względem wizualnym kinofilska uczta opowiadająca przede wszystkim o bezgranicznej miłości do kina. I o tym, jak ta miłość zmienia nasze życie.\n\nW centrum tej opowieści stoją dwie aktorki reprezentujące dwa różne pokolenia. Legendarna Gillian Anderson wciela się w rolę ekscentrycznej diwy, a znana z serialu „Hacks” Hannah Einbinder w niepewną swojej pozycji, ale utalentowaną reżyserkę. Razem tworzą najbardziej elektryzujący ekranowy duet tego roku.",
@@ -302,8 +302,8 @@
         "description": "Poruszająca historia miłości Williama, ambitnego dramaturga i jego żony Agnes. Ich idylliczne życie zostaje zburzone, gdy wybucha epidemia dżumy, która dotyka ich dzieci.",
         "shortDescription": "Poruszająca historia miłości Williama, ambitnego dramaturga i jego żony Agnes. Ich idylliczne życie zostaje zburzone, gdy wybucha epidemia dżumy, która dotyka ich dzieci.",
         "genres": [
-          "Dramat",
           "Biograficzny",
+          "Dramat",
           "Kostiumowy"
         ],
         "external": {
@@ -317,12 +317,12 @@
             "id": "10035555",
             "url": "https://www.filmweb.pl/film/Hamnet-2025-10035555",
             "genres": [
-              "Dramat",
               "Biograficzny",
+              "Dramat",
               "Kostiumowy"
             ],
             "rating": 7.6,
-            "votes": 28728
+            "votes": 28755
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/hamnet",
@@ -334,7 +334,7 @@
             "criticsRating": 86,
             "criticsVotes": 353,
             "audienceRating": 93,
-            "audienceVotes": 2671
+            "audienceVotes": 2672
           }
         },
         "longDescription": "Film Hamnet, autorstwa nagrodzonej Oscarem® scenarzystki i reżyserki Chloé Zhao (Nomadland)., opowiada poruszającą historię miłosną, która zainspirowała Szekspira do stworzenia ponadczasowego arcydzieła Hamlet.\n\nTo poruszająca historię miłości Williama, ambitnego dramaturga i jego żony Agnes. Ich idylliczne życie zostaje zburzone, gdy wybucha epidemia dżumy, która dotyka ich dzieci, Hamneta i Judith. Po latach William pisze nową sztukę zatytułowaną Hamlet, aby poradzić sobie z żałobą.\n\nFilm powstał na podstawie bestsellerowej powieści Maggie O’Farrell z 2020 roku, która sprzedała się w 2 milionach egzemplarzy w Wielkiej Brytanii i USA oraz została przetłumaczona na 40 języków.\n\nW głównych rolach występują: Jessie Buckley, Paul Mescal, Emily Watson i Joe Alwyn.",
@@ -371,8 +371,8 @@
         "description": "Pedro Almodóvar powraca w szczytowej formie z jednym ze swoich najbardziej osobistych filmów. Almodóvar składa tu poruszające wyznanie wiary w siłę kina, pamięci i narracji.",
         "shortDescription": "Pedro Almodóvar powraca w szczytowej formie z jednym ze swoich najbardziej osobistych filmów. Almodóvar składa tu poruszające wyznanie wiary w siłę kina, pamięci i narracji.",
         "genres": [
-          "Dramat",
-          "Komedia"
+          "Komedia",
+          "Dramat"
         ],
         "external": {
           "imdb": {
@@ -385,11 +385,11 @@
             "id": "10085499",
             "url": "https://www.filmweb.pl/film/Gorzkie+%C5%9Bwi%C4%99ta-2026-10085499",
             "genres": [
-              "Dramat",
-              "Komedia"
+              "Komedia",
+              "Dramat"
             ],
             "rating": 5.7,
-            "votes": 1919
+            "votes": 1972
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/bitter_christmas",
@@ -455,7 +455,7 @@
               "Horror"
             ],
             "rating": 3.7,
-            "votes": 131
+            "votes": 132
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/attack_of_the_beast_creatures",
@@ -577,7 +577,7 @@
               "Fantasy"
             ],
             "rating": 7.7,
-            "votes": 67456
+            "votes": 67689
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/the_odyssey_2026",
@@ -587,9 +587,9 @@
               "Christopher Nolan"
             ],
             "criticsRating": 94,
-            "criticsVotes": 508,
+            "criticsVotes": 509,
             "audienceRating": 96,
-            "audienceVotes": 32500
+            "audienceVotes": 32565
           }
         },
         "longDescription": "Christopher Nolan, który nakręcił takie filmy jak „Interstellar” oraz „Oppenheimer” jest znany z tego, że nie boi się żadnego gatunku filmowego. Po świetnie przyjętym i nagrodzonym 7 Oscarami® „Oppenheimerze” opowiadajacym historię powstania pierwszej bomby atomowej, teraz reżyser pracuje nad adaptacją „Odysei”.\n\nTo opowieść autorstwa Homera uznawana za jedno z najważniejszych dzieł literatury zachodniej. Opowiada o podróży Odyseusza, króla Itaki, który musi stawić czoła licznym wyzwaniom próbując wrócić do domu po wojnie trojańskiej. Powstała już niejedna ekranizacja klasycznego dzieła Homera, ale tym razem film nakręcony zostanie w technologii IMAX i będzie pierwszym tak nowoczesnym podejściem do „Odysei”.\n\nW filmie „Odysei” zobaczymy między innymi: Matta Damona, Toma Hollanda, Anne Hathaway, Zendayę, Roberta Pattinsona, Lupite Nyong’o oraz Charlize Theron.",
@@ -646,7 +646,7 @@
               "Biograficzny"
             ],
             "rating": 7.2,
-            "votes": 2751
+            "votes": 3092
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/tony_2026",
@@ -656,9 +656,9 @@
               "Matt Johnson"
             ],
             "criticsRating": 93,
-            "criticsVotes": 223,
+            "criticsVotes": 224,
             "audienceRating": 92,
-            "audienceVotes": 893
+            "audienceVotes": 901
           }
         },
         "longDescription": "Anthony Bourdain – buntownik, outsider, głos pokolenia, jeden z najbardziej znanych szefów kuchni i jedna z największych, najbardziej charyzmatycznych osobowości telewizyjnych. Podróżnik, pisarz, odkrywca, którego miliony ludzi na całym świecie pokochały za bezkompromisowy styl, miłość do życia, szacunek do ludzi, odwagę, ciekawość świata i autentyczność. „Tony” to historia początków jego drogi – kim był, zanim stał się Anthonym Bourdainem.\n\nUpalne lato 1976 roku, Provincetown – miasto pulsujące wolnością, seksem i energią. Młody, marzący o karierze pisarza, Tony (Dominic Sessa), by podreperować budżet, trafia na zmywak do restauracji serwującej owoce morza, prowadzonej przez tajemniczego szefa kuchni (Antonio Banderas). W intensywnej, chaotycznej, a jednocześnie niezwykle kreatywnej atmosferze Tony odkrywa swoją pasję, powołanie i to, kim tak naprawdę jest.\n\nFilm dostępny z audiodeskrypcją lub lektorem. Skorzystaj bezpłatnie z aplikacji Kino Dostępne 2.0 w Twoim telefonie – http://kinodostepne.pl",
@@ -711,7 +711,7 @@
               "Czarna komedia"
             ],
             "rating": 7,
-            "votes": 1319
+            "votes": 1467
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/teenage_sex_and_death_at_camp_miasma",
@@ -723,7 +723,7 @@
             "criticsRating": 94,
             "criticsVotes": 269,
             "audienceRating": 78,
-            "audienceVotes": 507
+            "audienceVotes": 510
           }
         },
         "longDescription": "Na dnie jeziora jest dziura. To z niej pochodzą filmy.\n\nMłoda, utalentowana reżyserka Kris (Hannah Einbinder) dostaje od studia filmowego szansę życia – ma nakręcić remake kultowej serii horrorów „Camp Miasma”, która cieszyła się ogromną popularnością w latach osiemdziesiątych i dziewięćdziesiątych. Aby znaleźć inspirację, udaje się na spotkanie z Billy (Gillian Anderson), która grała główną rolę w pierwowzorze projektu. Wizyta u ekscentrycznej aktorki szybko przeradza się w coś więcej niż zwykły wywiad.\n\n„Miłość, śmierć i dojrzewanie w Camp Miasma” zadebiutowała na festiwalu w Cannes, gdzie szturmem zdobyła serca krytyków i widzów – a także prestiżową nominację w sekcji Un Certain Regard. Najnowszy film Jane Shoenbrun (twórcy docenianego „W blasku ekranu”) ma obecnie 100% pozytywnych recenzji na Rotten Tomatoes, a widzowie wychodzą z seansów zachwyceni.\n\nChoć film Shoenbrun opowiada o powstawaniu fikcyjnej serii horrorów, sam w sobie horrorem nie jest, a zaledwie czerpie z jego estetyki. To przepiękna pod względem wizualnym kinofilska uczta opowiadająca przede wszystkim o bezgranicznej miłości do kina. I o tym, jak ta miłość zmienia nasze życie.\n\nW centrum tej opowieści stoją dwie aktorki reprezentujące dwa różne pokolenia. Legendarna Gillian Anderson wciela się w rolę ekscentrycznej diwy, a znana z serialu „Hacks” Hannah Einbinder w niepewną swojej pozycji, ale utalentowaną reżyserkę. Razem tworzą najbardziej elektryzujący ekranowy duet tego roku.",

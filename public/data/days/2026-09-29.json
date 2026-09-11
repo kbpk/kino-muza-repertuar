@@ -1,12 +1,12 @@
 {
   "schemaVersion": 1,
   "date": "2026-09-29",
-  "updatedAt": "2026-09-11T14:25:09.450Z",
+  "updatedAt": "2026-09-11T19:08:53.628Z",
   "source": "https://www.kinomuza.pl/repertoire/day/",
   "day": {
     "id": "18",
     "date": "29.09",
-    "now": "2026-09-11 16:24:16",
+    "now": "2026-09-11 21:08:39",
     "info": [],
     "repertoire": [
       {
@@ -47,7 +47,7 @@
             "id": "tt0085807",
             "url": "https://www.imdb.com/title/tt0085807/",
             "rating": 7.5,
-            "votes": 1079
+            "votes": 1080
           },
           "filmweb": {
             "id": "1111",

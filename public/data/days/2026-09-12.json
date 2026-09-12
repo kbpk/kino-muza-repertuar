@@ -1,12 +1,12 @@
 {
   "schemaVersion": 1,
   "date": "2026-09-12",
-  "updatedAt": "2026-09-11T19:08:53.628Z",
+  "updatedAt": "2026-09-12T13:36:13.031Z",
   "source": "https://www.kinomuza.pl/repertoire/day/",
   "day": {
-    "id": "01",
+    "id": "00",
     "date": "12.09",
-    "now": "2026-09-11 21:08:20",
+    "now": "2026-09-12 15:34:52",
     "info": [],
     "repertoire": [
       {
@@ -537,8 +537,8 @@
             "genres": [
               "Dramat"
             ],
-            "rating": 7.4,
-            "votes": 976
+            "rating": 7.3,
+            "votes": 1019
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/500_miles_2026",
@@ -606,7 +606,7 @@
               "Komedia"
             ],
             "rating": 7.1,
-            "votes": 3381
+            "votes": 3674
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/tony_2026",
@@ -616,9 +616,9 @@
               "Matt Johnson"
             ],
             "criticsRating": 93,
-            "criticsVotes": 224,
-            "audienceRating": 93,
-            "audienceVotes": 909
+            "criticsVotes": 225,
+            "audienceRating": 92,
+            "audienceVotes": 912
           }
         },
         "longDescription": "Anthony Bourdain – buntownik, outsider, głos pokolenia, jeden z najbardziej znanych szefów kuchni i jedna z największych, najbardziej charyzmatycznych osobowości telewizyjnych. Podróżnik, pisarz, odkrywca, którego miliony ludzi na całym świecie pokochały za bezkompromisowy styl, miłość do życia, szacunek do ludzi, odwagę, ciekawość świata i autentyczność. „Tony” to historia początków jego drogi – kim był, zanim stał się Anthonym Bourdainem.\n\nUpalne lato 1976 roku, Provincetown – miasto pulsujące wolnością, seksem i energią. Młody, marzący o karierze pisarza, Tony (Dominic Sessa), by podreperować budżet, trafia na zmywak do restauracji serwującej owoce morza, prowadzonej przez tajemniczego szefa kuchni (Antonio Banderas). W intensywnej, chaotycznej, a jednocześnie niezwykle kreatywnej atmosferze Tony odkrywa swoją pasję, powołanie i to, kim tak naprawdę jest.\n\nFilm dostępny z audiodeskrypcją lub lektorem. Skorzystaj bezpłatnie z aplikacji Kino Dostępne 2.0 w Twoim telefonie – http://kinodostepne.pl",
@@ -672,7 +672,7 @@
               "Komedia"
             ],
             "rating": 5.7,
-            "votes": 2006
+            "votes": 2039
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/bitter_christmas",
@@ -736,7 +736,7 @@
               "Dokumentalny"
             ],
             "rating": 7.3,
-            "votes": 549
+            "votes": 572
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/closure_2026",
@@ -800,7 +800,7 @@
               "Czarna komedia"
             ],
             "rating": 7,
-            "votes": 1572
+            "votes": 1699
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/teenage_sex_and_death_at_camp_miasma",
@@ -812,7 +812,7 @@
             "criticsRating": 94,
             "criticsVotes": 269,
             "audienceRating": 79,
-            "audienceVotes": 512
+            "audienceVotes": 514
           }
         },
         "longDescription": "Na dnie jeziora jest dziura. To z niej pochodzą filmy.\n\nMłoda, utalentowana reżyserka Kris (Hannah Einbinder) dostaje od studia filmowego szansę życia – ma nakręcić remake kultowej serii horrorów „Camp Miasma”, która cieszyła się ogromną popularnością w latach osiemdziesiątych i dziewięćdziesiątych. Aby znaleźć inspirację, udaje się na spotkanie z Billy (Gillian Anderson), która grała główną rolę w pierwowzorze projektu. Wizyta u ekscentrycznej aktorki szybko przeradza się w coś więcej niż zwykły wywiad.\n\n„Miłość, śmierć i dojrzewanie w Camp Miasma” zadebiutowała na festiwalu w Cannes, gdzie szturmem zdobyła serca krytyków i widzów – a także prestiżową nominację w sekcji Un Certain Regard. Najnowszy film Jane Shoenbrun (twórcy docenianego „W blasku ekranu”) ma obecnie 100% pozytywnych recenzji na Rotten Tomatoes, a widzowie wychodzą z seansów zachwyceni.\n\nChoć film Shoenbrun opowiada o powstawaniu fikcyjnej serii horrorów, sam w sobie horrorem nie jest, a zaledwie czerpie z jego estetyki. To przepiękna pod względem wizualnym kinofilska uczta opowiadająca przede wszystkim o bezgranicznej miłości do kina. I o tym, jak ta miłość zmienia nasze życie.\n\nW centrum tej opowieści stoją dwie aktorki reprezentujące dwa różne pokolenia. Legendarna Gillian Anderson wciela się w rolę ekscentrycznej diwy, a znana z serialu „Hacks” Hannah Einbinder w niepewną swojej pozycji, ale utalentowaną reżyserkę. Razem tworzą najbardziej elektryzujący ekranowy duet tego roku.",
@@ -868,7 +868,7 @@
               "Komedia"
             ],
             "rating": 7.1,
-            "votes": 3381
+            "votes": 3674
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/tony_2026",
@@ -878,9 +878,9 @@
               "Matt Johnson"
             ],
             "criticsRating": 93,
-            "criticsVotes": 224,
-            "audienceRating": 93,
-            "audienceVotes": 909
+            "criticsVotes": 225,
+            "audienceRating": 92,
+            "audienceVotes": 912
           }
         },
         "longDescription": "Anthony Bourdain – buntownik, outsider, głos pokolenia, jeden z najbardziej znanych szefów kuchni i jedna z największych, najbardziej charyzmatycznych osobowości telewizyjnych. Podróżnik, pisarz, odkrywca, którego miliony ludzi na całym świecie pokochały za bezkompromisowy styl, miłość do życia, szacunek do ludzi, odwagę, ciekawość świata i autentyczność. „Tony” to historia początków jego drogi – kim był, zanim stał się Anthonym Bourdainem.\n\nUpalne lato 1976 roku, Provincetown – miasto pulsujące wolnością, seksem i energią. Młody, marzący o karierze pisarza, Tony (Dominic Sessa), by podreperować budżet, trafia na zmywak do restauracji serwującej owoce morza, prowadzonej przez tajemniczego szefa kuchni (Antonio Banderas). W intensywnej, chaotycznej, a jednocześnie niezwykle kreatywnej atmosferze Tony odkrywa swoją pasję, powołanie i to, kim tak naprawdę jest.\n\nFilm dostępny z audiodeskrypcją lub lektorem. Skorzystaj bezpłatnie z aplikacji Kino Dostępne 2.0 w Twoim telefonie – http://kinodostepne.pl",
@@ -985,7 +985,7 @@
               "Dramat"
             ],
             "rating": 6.2,
-            "votes": 390
+            "votes": 397
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/the_little_sister_2025",
@@ -1049,7 +1049,7 @@
               "Dokumentalny"
             ],
             "rating": 7.3,
-            "votes": 549
+            "votes": 572
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/closure_2026",
@@ -1113,7 +1113,7 @@
               "Czarna komedia"
             ],
             "rating": 7,
-            "votes": 1572
+            "votes": 1699
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/teenage_sex_and_death_at_camp_miasma",
@@ -1125,7 +1125,7 @@
             "criticsRating": 94,
             "criticsVotes": 269,
             "audienceRating": 79,
-            "audienceVotes": 512
+            "audienceVotes": 514
           }
         },
         "longDescription": "Na dnie jeziora jest dziura. To z niej pochodzą filmy.\n\nMłoda, utalentowana reżyserka Kris (Hannah Einbinder) dostaje od studia filmowego szansę życia – ma nakręcić remake kultowej serii horrorów „Camp Miasma”, która cieszyła się ogromną popularnością w latach osiemdziesiątych i dziewięćdziesiątych. Aby znaleźć inspirację, udaje się na spotkanie z Billy (Gillian Anderson), która grała główną rolę w pierwowzorze projektu. Wizyta u ekscentrycznej aktorki szybko przeradza się w coś więcej niż zwykły wywiad.\n\n„Miłość, śmierć i dojrzewanie w Camp Miasma” zadebiutowała na festiwalu w Cannes, gdzie szturmem zdobyła serca krytyków i widzów – a także prestiżową nominację w sekcji Un Certain Regard. Najnowszy film Jane Shoenbrun (twórcy docenianego „W blasku ekranu”) ma obecnie 100% pozytywnych recenzji na Rotten Tomatoes, a widzowie wychodzą z seansów zachwyceni.\n\nChoć film Shoenbrun opowiada o powstawaniu fikcyjnej serii horrorów, sam w sobie horrorem nie jest, a zaledwie czerpie z jego estetyki. To przepiękna pod względem wizualnym kinofilska uczta opowiadająca przede wszystkim o bezgranicznej miłości do kina. I o tym, jak ta miłość zmienia nasze życie.\n\nW centrum tej opowieści stoją dwie aktorki reprezentujące dwa różne pokolenia. Legendarna Gillian Anderson wciela się w rolę ekscentrycznej diwy, a znana z serialu „Hacks” Hannah Einbinder w niepewną swojej pozycji, ale utalentowaną reżyserkę. Razem tworzą najbardziej elektryzujący ekranowy duet tego roku.",

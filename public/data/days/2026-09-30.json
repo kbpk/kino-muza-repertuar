@@ -1,12 +1,12 @@
 {
   "schemaVersion": 1,
   "date": "2026-09-30",
-  "updatedAt": "2026-09-11T19:08:53.628Z",
+  "updatedAt": "2026-09-12T13:36:13.031Z",
   "source": "https://www.kinomuza.pl/repertoire/day/",
   "day": {
-    "id": "19",
+    "id": "18",
     "date": "30.09",
-    "now": "2026-09-11 21:08:40",
+    "now": "2026-09-12 15:35:44",
     "info": [],
     "repertoire": [
       {
@@ -40,8 +40,8 @@
         "description": "Aktualna opowieść o poszukiwaniu sensu w świecie, w którym wszelki sens został zagubiony. Oszczędne dialogi i piękne czarno-białe zdjęcia, stanowiące hołd dla klasycznego kina.",
         "shortDescription": "Aktualna opowieść o poszukiwaniu sensu w świecie, w którym wszelki sens został zagubiony. Oszczędne dialogi i piękne czarno-białe zdjęcia, stanowiące hołd dla klasycznego kina.",
         "genres": [
-          "Kryminał",
-          "Dramat"
+          "Dramat",
+          "Kryminał"
         ],
         "external": {
           "imdb": null,
@@ -49,11 +49,11 @@
             "id": "10089279",
             "url": "https://www.filmweb.pl/film/Obcy-2025-10089279",
             "genres": [
-              "Kryminał",
-              "Dramat"
+              "Dramat",
+              "Kryminał"
             ],
             "rating": 6.9,
-            "votes": 768
+            "votes": 782
           },
           "rottenTomatoes": null
         },

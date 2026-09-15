@@ -1,0 +1,65 @@
+{
+  "schemaVersion": 1,
+  "date": "2026-10-07",
+  "updatedAt": "2026-09-15T14:58:21.298Z",
+  "source": "https://www.kinomuza.pl/repertoire/day/",
+  "day": {
+    "id": "22",
+    "date": "07.10",
+    "now": "2026-09-15 16:57:54",
+    "info": [],
+    "repertoire": [
+      {
+        "hour": "15:00",
+        "datetime": "2026-10-07 15:00:00",
+        "title": "Krótki film o miłości",
+        "originalTitle": "",
+        "director": "Krzysztof Kieślowski",
+        "year": "1988",
+        "premiereDate": "",
+        "duration": "89",
+        "countries": "Polska",
+        "shortDesc": "<p>Tomek ma dziewiętnaście lat, jest młodym, wrażliwym człowiekiem. Mieszka u matki swojego przyjaciela, który wyjechał z misją wojskową do Syrii. Wieczorami przez lunetę podgląda mieszkającą w pobliżu Magdę, piękną, dojrzałą kobietę.</p>\n",
+        "lang": "pl",
+        "subtitlesLang": "",
+        "age": "16",
+        "credits": "reż. Krzysztof Kieślowski <br>Polska <br>1988,89’",
+        "desc": "<p>Tomek ma dziewiętnaście lat, jest młodym, wrażliwym człowiekiem. Mieszka u matki swojego przyjaciela, który wyjechał z misją wojskową do Syrii. Wieczorami przez lunetę podgląda mieszkającą w pobliżu Magdę, piękną, dojrzałą kobietę.</p>\n",
+        "hall": "1",
+        "movieLink": "https://www.kinomuza.pl/movie/krotki-film-o-milosci/",
+        "ticketLink": "https://estradapoznan.bilety24.pl/kup-bilety/?id=989124#total",
+        "prePremier": false,
+        "tape35mm": false,
+        "ad": false,
+        "deaf": false,
+        "ticketPrice": "",
+        "ticketHalfPrice": "",
+        "alt": "Krótki film o miłości",
+        "thumb": "https://www.kinomuza.pl/content/uploads/2026/09/KROTKI-FILM-O-MILOSCI-1-800x450.png",
+        "cycle": "senior w muzie",
+        "description": "Tomek ma dziewiętnaście lat, jest młodym, wrażliwym człowiekiem. Mieszka u matki swojego przyjaciela, który wyjechał z misją wojskową do Syrii. Wieczorami przez lunetę podgląda mieszkającą w pobliżu Magdę, piękną, dojrzałą kobietę.",
+        "shortDescription": "Tomek ma dziewiętnaście lat, jest młodym, wrażliwym człowiekiem. Mieszka u matki swojego przyjaciela, który wyjechał z misją wojskową do Syrii. Wieczorami przez lunetę podgląda mieszkającą w pobliżu Magdę, piękną, dojrzałą kobietę.",
+        "genres": [
+          "Dramat",
+          "Psychologiczny"
+        ],
+        "external": {
+          "imdb": null,
+          "filmweb": {
+            "id": "1158",
+            "url": "https://www.filmweb.pl/film/Kr%C3%B3tki+film+o+mi%C5%82o%C5%9Bci-1988-1158",
+            "genres": [
+              "Dramat",
+              "Psychologiczny"
+            ],
+            "rating": 7.8,
+            "votes": 49846
+          },
+          "rottenTomatoes": null
+        },
+        "longDescription": "Tomek ma dziewiętnaście lat, jest młodym, wrażliwym człowiekiem. Mieszka u matki swojego przyjaciela, który wyjechał z misją wojskową do Syrii. Wieczorami przez lunetę podgląda mieszkającą w pobliżu Magdę, piękną, dojrzałą kobietę. Odziera ją z prywatności, z ukrycia próbuje ingerować w jej życie osobiste, podstępem doprowadza do pozornie przypadkowych spotkań. Przy tym dokonuje poświęceń, znamionujących wielkie uczucie. Pewnego dnia, wyjawia Magdzie całą prawdę, uzasadniając swoje postępowanie miłością. Kobieta jest oburzona, nie daje wiary uczuciom Tomka. Mimo to dochodzi do zbliżenia, po tym jak chłopak zaprasza Magdę do kawiarni.",
+        "poster": "media/posters/7b3f5f43c03ee52c5ee6.webp"
+      }
+    ]
+  }
+}

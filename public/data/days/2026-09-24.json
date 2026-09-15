@@ -1,0 +1,84 @@
+{
+  "schemaVersion": 1,
+  "date": "2026-09-24",
+  "updatedAt": "2026-09-15T14:58:21.298Z",
+  "source": "https://www.kinomuza.pl/repertoire/day/",
+  "day": {
+    "id": "09",
+    "date": "24.09",
+    "now": "2026-09-15 16:57:24",
+    "info": [],
+    "repertoire": [
+      {
+        "hour": "18:30",
+        "datetime": "2026-09-24 18:30:00",
+        "title": "Przedstawienie",
+        "originalTitle": "Performance",
+        "director": "Donald Cammell, Nicolas Roeg",
+        "year": "1970",
+        "premiereDate": "",
+        "duration": "105",
+        "countries": "Wielka Brytania",
+        "shortDesc": "<p>Psychodeliczne, enigmatyczne i bardzo odważne formalnie kino gangsterskie; aktorski pojedynek przeciwieństw – Micka Jaggera i Jamesa Foxa; demoniczny, psychodeliczny obraz wschodniego Londynu u kresu swingujących lat 60.</p>\n",
+        "lang": "en",
+        "subtitlesLang": "pl",
+        "age": "16",
+        "credits": "reż. Donald Cammell, Nicolas Roeg <br>Wielka Brytania <br>1970,105’",
+        "desc": "<p>Psychodeliczne, enigmatyczne i bardzo odważne formalnie kino gangsterskie; aktorski pojedynek przeciwieństw – Micka Jaggera i Jamesa Foxa; demoniczny, psychodeliczny obraz wschodniego Londynu u kresu swingujących lat 60.</p>\n",
+        "hall": "1",
+        "movieLink": "https://www.kinomuza.pl/movie/przedstawienie/",
+        "ticketLink": "https://estradapoznan.bilety24.pl/kup-bilety/?id=988790#total",
+        "prePremier": false,
+        "tape35mm": false,
+        "ad": false,
+        "deaf": false,
+        "ticketPrice": "",
+        "ticketHalfPrice": "",
+        "alt": "Przedstawienie",
+        "thumb": "https://www.kinomuza.pl/content/uploads/2026/09/przedstawienie-800x450.png",
+        "event": "COOL BRITANNIA",
+        "cycle": "Cool Britannia",
+        "description": "Psychodeliczne, enigmatyczne i bardzo odważne formalnie kino gangsterskie; aktorski pojedynek przeciwieństw – Micka Jaggera i Jamesa Foxa; demoniczny, psychodeliczny obraz wschodniego Londynu u kresu swingujących lat 60.",
+        "shortDescription": "Psychodeliczne, enigmatyczne i bardzo odważne formalnie kino gangsterskie; aktorski pojedynek przeciwieństw – Micka Jaggera i Jamesa Foxa; demoniczny, psychodeliczny obraz wschodniego Londynu u kresu swingujących lat 60.",
+        "genres": [
+          "Muzyczny",
+          "Dramat",
+          "Kryminał"
+        ],
+        "external": {
+          "imdb": {
+            "id": "tt0066214",
+            "url": "https://www.imdb.com/title/tt0066214/",
+            "rating": 6.7,
+            "votes": 12348
+          },
+          "filmweb": {
+            "id": "98365",
+            "url": "https://www.filmweb.pl/film/Przedstawienie-1970-98365",
+            "genres": [
+              "Muzyczny",
+              "Dramat",
+              "Kryminał"
+            ],
+            "rating": 6.7,
+            "votes": 1252
+          },
+          "rottenTomatoes": {
+            "url": "https://www.rottentomatoes.com/m/performance",
+            "title": "Performance",
+            "year": "1970",
+            "directors": [
+              "Donald Cammell"
+            ],
+            "criticsRating": 81,
+            "criticsVotes": 36,
+            "audienceRating": 78,
+            "audienceVotes": 1008
+          }
+        },
+        "longDescription": "Psychodeliczne, enigmatyczne i bardzo odważne formalnie kino gangsterskie; aktorski pojedynek przeciwieństw – Micka Jaggera i Jamesa Foxa; demoniczny, psychodeliczny obraz wschodniego Londynu u kresu swingujących lat 60. (kiedy Notting Hill nie było jeszcze zgentryfikowane). Wszystkie te określenie mogą służyć jako opis niezwykłego „PRZEDSTAWIENIA” („PERFORMANCE”).\n\nChas, brutalny gangster, musi się ukryć przed wyrokiem swych szefów. Kryjówkę znajduje w labiryntowym domu byłego gwiazdora rocka, Turnera. Zderzenie hipermęskości z androgycznością prowadzi do zatarcia granic między tożsamościami obu bohaterów. W przemianie tej uczestniczą także dwie dziewczyny Turnera – Pherber (w tej roli wspaniała Anita Pallenberg) oraz chłopięca Lucy.\n\nTwórcy filmu – Donnald Cammell i Nicolas Roeg mają dziś status twórców kultowych. Cammell był filmowcem i malarzem zafascynowanym okultyzmem, Roeg – reżyserem ekspertymentującym z narracją, autorem jednych z najważniejszych (i najgłośniejszych) brytyjskich filmów („CZŁOWIEK, KTÓRY SPADŁ NA ZIEMIĘ” z Davidem Bowie czy „BAD TIMING” z Theresą Russell i Artem Garfunkelem). Choć dla obu twórców był to debiut fabularny, film uderza precyzją stylu: wyostrzony, nieskazitelny gangsterski szyk rozbija się o barokowy, duszący przepych dekadenckiej bohemy. To brzytwa i halucynogen w jednym.",
+        "poster": "media/posters/90c2aa9906586c34a968.webp"
+      }
+    ]
+  }
+}

@@ -1,12 +1,12 @@
 {
   "schemaVersion": 1,
   "date": "2026-11-03",
-  "updatedAt": "2026-09-15T14:58:21.298Z",
+  "updatedAt": "2026-09-15T17:40:14.198Z",
   "source": "https://www.kinomuza.pl/repertoire/day/",
   "day": {
     "id": "49",
     "date": "03.11",
-    "now": "2026-09-15 16:57:54",
+    "now": "2026-09-15 19:40:06",
     "info": [],
     "repertoire": [
       {
@@ -46,7 +46,7 @@
             "id": "tt0072446",
             "url": "https://www.imdb.com/title/tt0072446/",
             "rating": 7.8,
-            "votes": 4645
+            "votes": 4647
           },
           "filmweb": {
             "id": "1073",

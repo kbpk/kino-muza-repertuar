@@ -1,14 +1,185 @@
 {
   "schemaVersion": 1,
   "date": "2026-09-24",
-  "updatedAt": "2026-09-15T17:40:14.198Z",
+  "updatedAt": "2026-09-16T14:55:36.236Z",
   "source": "https://www.kinomuza.pl/repertoire/day/",
   "day": {
-    "id": "09",
+    "id": "08",
     "date": "24.09",
-    "now": "2026-09-15 19:39:24",
+    "now": "2026-09-16 16:54:30",
     "info": [],
     "repertoire": [
+      {
+        "hour": "14:00",
+        "datetime": "2026-09-24 14:00:00",
+        "title": "Obcy",
+        "originalTitle": "L’étranger",
+        "director": "François Ozon",
+        "year": "2025",
+        "premiereDate": "2026-09-18",
+        "duration": "122",
+        "countries": "francja",
+        "shortDesc": "<p>Aktualna opowieść o poszukiwaniu sensu w świecie, w którym wszelki sens został zagubiony. Oszczędne dialogi i piękne czarno-białe zdjęcia, stanowiące hołd dla klasycznego kina.</p>\n",
+        "lang": "",
+        "subtitlesLang": "pl",
+        "age": "16",
+        "credits": "reż. François Ozon <br>francja <br>2025,122’",
+        "desc": "<p>Aktualna opowieść o poszukiwaniu sensu w świecie, w którym wszelki sens został zagubiony. Oszczędne dialogi i piękne czarno-białe zdjęcia, stanowiące hołd dla klasycznego kina.</p>\n",
+        "hall": "1",
+        "movieLink": "https://www.kinomuza.pl/movie/letranger/",
+        "ticketLink": "https://estradapoznan.bilety24.pl/kup-bilety/?id=989842#total",
+        "prePremier": false,
+        "tape35mm": false,
+        "ad": false,
+        "deaf": false,
+        "ticketPrice": "",
+        "ticketHalfPrice": "",
+        "alt": "Obcy",
+        "thumb": "https://www.kinomuza.pl/content/uploads/2026/05/obcy-1-800x450.jpg",
+        "cycle": "przyzwoicie tanie czwartki",
+        "description": "Aktualna opowieść o poszukiwaniu sensu w świecie, w którym wszelki sens został zagubiony. Oszczędne dialogi i piękne czarno-białe zdjęcia, stanowiące hołd dla klasycznego kina.",
+        "shortDescription": "Aktualna opowieść o poszukiwaniu sensu w świecie, w którym wszelki sens został zagubiony. Oszczędne dialogi i piękne czarno-białe zdjęcia, stanowiące hołd dla klasycznego kina.",
+        "genres": [
+          "Dramat",
+          "Kryminał"
+        ],
+        "external": {
+          "imdb": null,
+          "filmweb": {
+            "id": "10089279",
+            "url": "https://www.filmweb.pl/film/Obcy-2025-10089279",
+            "genres": [
+              "Dramat",
+              "Kryminał"
+            ],
+            "rating": 7,
+            "votes": 876
+          },
+          "rottenTomatoes": null
+        },
+        "longDescription": "„Obcy” ( L’étranger ) to nowa ekranizacja jednej z najwybitniejszych francuskich powieści XX wieku autorstwa Alberta Camusa, opublikowanej w 1942 roku.\n\nFrançois Ozon opowiada historię Meursaulta, skromnego, niepozornego urzędnika, którego codziennej rutyny nie przerywa nawet śmierć matki. Do czasu, gdy pewnego gorącego dnia na plaży dochodzi do tragicznego zdarzenia. Adaptacja Ozona, która miała premierę w Konkursie Głównym festiwalu w Wenecji, to niezwykle aktualna opowieść o poszukiwaniu sensu w świecie, w którym wszelki sens został zagubiony. Oszczędne dialogi i piękne czarno-białe zdjęcia, stanowiące hołd dla klasycznego kina, budują wyjątkową atmosferę filmu. W rolach głównych Benjamin Voisin („Stracone złudzenia”, „Lato ‘85”) oraz Rebecca Marder („Moja zbrodnia”).",
+        "poster": "media/posters/8cef881389870c3fdbd8.webp"
+      },
+      {
+        "hour": "16:15",
+        "datetime": "2026-09-24 16:15:00",
+        "title": "Tony",
+        "originalTitle": "Tony",
+        "director": "Matt Johnson",
+        "year": "2026",
+        "premiereDate": "2026-09-04",
+        "duration": "106",
+        "countries": "USA",
+        "shortDesc": "<p>Młody Anthony Bourdain podczas upalnego lata 1976 roku odkrywa swoją pasję, powołanie i to, kim tak naprawdę jest.</p>\n",
+        "lang": "en",
+        "subtitlesLang": "pl",
+        "age": "16",
+        "credits": "reż.  Matt Johnson <br>USA <br>2026,106’",
+        "desc": "<p>Młody Anthony Bourdain podczas upalnego lata 1976 roku odkrywa swoją pasję, powołanie i to, kim tak naprawdę jest.</p>\n",
+        "hall": "1",
+        "movieLink": "https://www.kinomuza.pl/movie/tony/",
+        "ticketLink": "https://estradapoznan.bilety24.pl/kup-bilety/?id=989843#total",
+        "prePremier": false,
+        "tape35mm": false,
+        "ad": false,
+        "deaf": false,
+        "ticketPrice": "",
+        "ticketHalfPrice": "",
+        "alt": "Tony",
+        "thumb": "https://www.kinomuza.pl/content/uploads/2026/09/57ef7a282819ac320da3a5de72836119-800x450.jpg",
+        "cycle": "przyzwoicie tanie czwartki",
+        "description": "Młody Anthony Bourdain podczas upalnego lata 1976 roku odkrywa swoją pasję, powołanie i to, kim tak naprawdę jest.",
+        "shortDescription": "Młody Anthony Bourdain podczas upalnego lata 1976 roku odkrywa swoją pasję, powołanie i to, kim tak naprawdę jest.",
+        "genres": [
+          "Biograficzny",
+          "Komedia",
+          "Dramat"
+        ],
+        "external": {
+          "imdb": {
+            "id": "tt33095251",
+            "url": "https://www.imdb.com/title/tt33095251/",
+            "rating": 7.6,
+            "votes": 8104
+          },
+          "filmweb": {
+            "id": "10079933",
+            "url": "https://www.filmweb.pl/film/Tony-2026-10079933",
+            "genres": [
+              "Biograficzny",
+              "Komedia",
+              "Dramat"
+            ],
+            "rating": 7.1,
+            "votes": 4773
+          },
+          "rottenTomatoes": {
+            "url": "https://www.rottentomatoes.com/m/tony_2026",
+            "title": "Tony (2026)",
+            "year": "2026",
+            "directors": [
+              "Matt Johnson"
+            ],
+            "criticsRating": 93,
+            "criticsVotes": 227,
+            "audienceRating": 92,
+            "audienceVotes": 932
+          }
+        },
+        "longDescription": "Anthony Bourdain – buntownik, outsider, głos pokolenia, jeden z najbardziej znanych szefów kuchni i jedna z największych, najbardziej charyzmatycznych osobowości telewizyjnych. Podróżnik, pisarz, odkrywca, którego miliony ludzi na całym świecie pokochały za bezkompromisowy styl, miłość do życia, szacunek do ludzi, odwagę, ciekawość świata i autentyczność. „Tony” to historia początków jego drogi – kim był, zanim stał się Anthonym Bourdainem.\n\nUpalne lato 1976 roku, Provincetown – miasto pulsujące wolnością, seksem i energią. Młody, marzący o karierze pisarza, Tony (Dominic Sessa), by podreperować budżet, trafia na zmywak do restauracji serwującej owoce morza, prowadzonej przez tajemniczego szefa kuchni (Antonio Banderas). W intensywnej, chaotycznej, a jednocześnie niezwykle kreatywnej atmosferze Tony odkrywa swoją pasję, powołanie i to, kim tak naprawdę jest.\n\nFilm dostępny z audiodeskrypcją lub lektorem. Skorzystaj bezpłatnie z aplikacji Kino Dostępne 2.0 w Twoim telefonie – http://kinodostepne.pl",
+        "poster": "media/posters/4c5e33e77e2fa1c55b1f.webp"
+      },
+      {
+        "hour": "16:45",
+        "datetime": "2026-09-24 16:45:00",
+        "title": "Obcy",
+        "originalTitle": "L’étranger",
+        "director": "François Ozon",
+        "year": "2025",
+        "premiereDate": "2026-09-18",
+        "duration": "122",
+        "countries": "francja",
+        "shortDesc": "<p>Aktualna opowieść o poszukiwaniu sensu w świecie, w którym wszelki sens został zagubiony. Oszczędne dialogi i piękne czarno-białe zdjęcia, stanowiące hołd dla klasycznego kina.</p>\n",
+        "lang": "",
+        "subtitlesLang": "pl",
+        "age": "16",
+        "credits": "reż. François Ozon <br>francja <br>2025,122’",
+        "desc": "<p>Aktualna opowieść o poszukiwaniu sensu w świecie, w którym wszelki sens został zagubiony. Oszczędne dialogi i piękne czarno-białe zdjęcia, stanowiące hołd dla klasycznego kina.</p>\n",
+        "hall": "3",
+        "movieLink": "https://www.kinomuza.pl/movie/letranger/",
+        "ticketLink": "https://estradapoznan.bilety24.pl/kup-bilety/?id=989993#total",
+        "prePremier": false,
+        "tape35mm": false,
+        "ad": false,
+        "deaf": false,
+        "ticketPrice": "",
+        "ticketHalfPrice": "",
+        "alt": "Obcy",
+        "thumb": "https://www.kinomuza.pl/content/uploads/2026/05/obcy-1-800x450.jpg",
+        "cycle": "przyzwoicie tanie czwartki",
+        "description": "Aktualna opowieść o poszukiwaniu sensu w świecie, w którym wszelki sens został zagubiony. Oszczędne dialogi i piękne czarno-białe zdjęcia, stanowiące hołd dla klasycznego kina.",
+        "shortDescription": "Aktualna opowieść o poszukiwaniu sensu w świecie, w którym wszelki sens został zagubiony. Oszczędne dialogi i piękne czarno-białe zdjęcia, stanowiące hołd dla klasycznego kina.",
+        "genres": [
+          "Dramat",
+          "Kryminał"
+        ],
+        "external": {
+          "imdb": null,
+          "filmweb": {
+            "id": "10089279",
+            "url": "https://www.filmweb.pl/film/Obcy-2025-10089279",
+            "genres": [
+              "Dramat",
+              "Kryminał"
+            ],
+            "rating": 7,
+            "votes": 876
+          },
+          "rottenTomatoes": null
+        },
+        "longDescription": "„Obcy” ( L’étranger ) to nowa ekranizacja jednej z najwybitniejszych francuskich powieści XX wieku autorstwa Alberta Camusa, opublikowanej w 1942 roku.\n\nFrançois Ozon opowiada historię Meursaulta, skromnego, niepozornego urzędnika, którego codziennej rutyny nie przerywa nawet śmierć matki. Do czasu, gdy pewnego gorącego dnia na plaży dochodzi do tragicznego zdarzenia. Adaptacja Ozona, która miała premierę w Konkursie Głównym festiwalu w Wenecji, to niezwykle aktualna opowieść o poszukiwaniu sensu w świecie, w którym wszelki sens został zagubiony. Oszczędne dialogi i piękne czarno-białe zdjęcia, stanowiące hołd dla klasycznego kina, budują wyjątkową atmosferę filmu. W rolach głównych Benjamin Voisin („Stracone złudzenia”, „Lato ‘85”) oraz Rebecca Marder („Moja zbrodnia”).",
+        "poster": "media/posters/8cef881389870c3fdbd8.webp"
+      },
       {
         "hour": "18:30",
         "datetime": "2026-09-24 18:30:00",
@@ -78,6 +249,122 @@
         },
         "longDescription": "Psychodeliczne, enigmatyczne i bardzo odważne formalnie kino gangsterskie; aktorski pojedynek przeciwieństw – Micka Jaggera i Jamesa Foxa; demoniczny, psychodeliczny obraz wschodniego Londynu u kresu swingujących lat 60. (kiedy Notting Hill nie było jeszcze zgentryfikowane). Wszystkie te określenie mogą służyć jako opis niezwykłego „PRZEDSTAWIENIA” („PERFORMANCE”).\n\nChas, brutalny gangster, musi się ukryć przed wyrokiem swych szefów. Kryjówkę znajduje w labiryntowym domu byłego gwiazdora rocka, Turnera. Zderzenie hipermęskości z androgycznością prowadzi do zatarcia granic między tożsamościami obu bohaterów. W przemianie tej uczestniczą także dwie dziewczyny Turnera – Pherber (w tej roli wspaniała Anita Pallenberg) oraz chłopięca Lucy.\n\nTwórcy filmu – Donnald Cammell i Nicolas Roeg mają dziś status twórców kultowych. Cammell był filmowcem i malarzem zafascynowanym okultyzmem, Roeg – reżyserem ekspertymentującym z narracją, autorem jednych z najważniejszych (i najgłośniejszych) brytyjskich filmów („CZŁOWIEK, KTÓRY SPADŁ NA ZIEMIĘ” z Davidem Bowie czy „BAD TIMING” z Theresą Russell i Artem Garfunkelem). Choć dla obu twórców był to debiut fabularny, film uderza precyzją stylu: wyostrzony, nieskazitelny gangsterski szyk rozbija się o barokowy, duszący przepych dekadenckiej bohemy. To brzytwa i halucynogen w jednym.",
         "poster": "media/posters/90c2aa9906586c34a968.webp"
+      },
+      {
+        "hour": "21:00",
+        "datetime": "2026-09-24 21:00:00",
+        "title": "Obcy",
+        "originalTitle": "L’étranger",
+        "director": "François Ozon",
+        "year": "2025",
+        "premiereDate": "2026-09-18",
+        "duration": "122",
+        "countries": "francja",
+        "shortDesc": "<p>Aktualna opowieść o poszukiwaniu sensu w świecie, w którym wszelki sens został zagubiony. Oszczędne dialogi i piękne czarno-białe zdjęcia, stanowiące hołd dla klasycznego kina.</p>\n",
+        "lang": "",
+        "subtitlesLang": "pl",
+        "age": "16",
+        "credits": "reż. François Ozon <br>francja <br>2025,122’",
+        "desc": "<p>Aktualna opowieść o poszukiwaniu sensu w świecie, w którym wszelki sens został zagubiony. Oszczędne dialogi i piękne czarno-białe zdjęcia, stanowiące hołd dla klasycznego kina.</p>\n",
+        "hall": "2",
+        "movieLink": "https://www.kinomuza.pl/movie/letranger/",
+        "ticketLink": "https://estradapoznan.bilety24.pl/kup-bilety/?id=989967#total",
+        "prePremier": false,
+        "tape35mm": false,
+        "ad": false,
+        "deaf": false,
+        "ticketPrice": "",
+        "ticketHalfPrice": "",
+        "alt": "Obcy",
+        "thumb": "https://www.kinomuza.pl/content/uploads/2026/05/obcy-1-800x450.jpg",
+        "cycle": "przyzwoicie tanie czwartki",
+        "description": "Aktualna opowieść o poszukiwaniu sensu w świecie, w którym wszelki sens został zagubiony. Oszczędne dialogi i piękne czarno-białe zdjęcia, stanowiące hołd dla klasycznego kina.",
+        "shortDescription": "Aktualna opowieść o poszukiwaniu sensu w świecie, w którym wszelki sens został zagubiony. Oszczędne dialogi i piękne czarno-białe zdjęcia, stanowiące hołd dla klasycznego kina.",
+        "genres": [
+          "Dramat",
+          "Kryminał"
+        ],
+        "external": {
+          "imdb": null,
+          "filmweb": {
+            "id": "10089279",
+            "url": "https://www.filmweb.pl/film/Obcy-2025-10089279",
+            "genres": [
+              "Dramat",
+              "Kryminał"
+            ],
+            "rating": 7,
+            "votes": 876
+          },
+          "rottenTomatoes": null
+        },
+        "longDescription": "„Obcy” ( L’étranger ) to nowa ekranizacja jednej z najwybitniejszych francuskich powieści XX wieku autorstwa Alberta Camusa, opublikowanej w 1942 roku.\n\nFrançois Ozon opowiada historię Meursaulta, skromnego, niepozornego urzędnika, którego codziennej rutyny nie przerywa nawet śmierć matki. Do czasu, gdy pewnego gorącego dnia na plaży dochodzi do tragicznego zdarzenia. Adaptacja Ozona, która miała premierę w Konkursie Głównym festiwalu w Wenecji, to niezwykle aktualna opowieść o poszukiwaniu sensu w świecie, w którym wszelki sens został zagubiony. Oszczędne dialogi i piękne czarno-białe zdjęcia, stanowiące hołd dla klasycznego kina, budują wyjątkową atmosferę filmu. W rolach głównych Benjamin Voisin („Stracone złudzenia”, „Lato ‘85”) oraz Rebecca Marder („Moja zbrodnia”).",
+        "poster": "media/posters/8cef881389870c3fdbd8.webp"
+      },
+      {
+        "hour": "21:30",
+        "datetime": "2026-09-24 21:30:00",
+        "title": "Miłość, śmierć i dojrzewanie w camp Miasma",
+        "originalTitle": "Teenage Sex and Death at Camp Miasma",
+        "director": "Jane Schoenbrun",
+        "year": "2026",
+        "premiereDate": "2026-09-04",
+        "duration": "106",
+        "countries": "USA",
+        "shortDesc": "<p>Na dnie jeziora jest dziura. To z niej pochodzą filmy. Przygotujcie się na Małą Śmierć.</p>\n",
+        "lang": "en",
+        "subtitlesLang": "pl",
+        "age": "16",
+        "credits": "reż.  Jane Schoenbrun <br>USA <br>2026,106’",
+        "desc": "<p>Na dnie jeziora jest dziura. To z niej pochodzą filmy. Przygotujcie się na Małą Śmierć.</p>\n",
+        "hall": "1",
+        "movieLink": "https://www.kinomuza.pl/movie/milosc-smierc-i-dojrzewanie-na-camp-miasma/",
+        "ticketLink": "https://estradapoznan.bilety24.pl/kup-bilety/?id=989844#total",
+        "prePremier": false,
+        "tape35mm": false,
+        "ad": false,
+        "deaf": false,
+        "ticketPrice": "",
+        "ticketHalfPrice": "",
+        "alt": "Miłość, śmierć i dojrzewanie w camp Miasma",
+        "thumb": "https://www.kinomuza.pl/content/uploads/2026/08/camp-1-800x450.jpg",
+        "cycle": "przyzwoicie tanie czwartki",
+        "description": "Na dnie jeziora jest dziura. To z niej pochodzą filmy. Przygotujcie się na Małą Śmierć.",
+        "shortDescription": "Na dnie jeziora jest dziura. To z niej pochodzą filmy. Przygotujcie się na Małą Śmierć.",
+        "genres": [
+          "Czarna komedia"
+        ],
+        "external": {
+          "imdb": {
+            "id": "tt35298123",
+            "url": "https://www.imdb.com/title/tt35298123/",
+            "rating": 7.2,
+            "votes": 9761
+          },
+          "filmweb": {
+            "id": "10114411",
+            "url": "https://www.filmweb.pl/film/Mi%C5%82o%C5%9B%C4%87%2C+%C5%9Bmier%C4%87+i+dojrzewanie+w+Camp+Miasma-2026-10114411",
+            "genres": [
+              "Czarna komedia"
+            ],
+            "rating": 6.9,
+            "votes": 2149
+          },
+          "rottenTomatoes": {
+            "url": "https://www.rottentomatoes.com/m/teenage_sex_and_death_at_camp_miasma",
+            "title": "Teenage Sex and Death at Camp Miasma",
+            "year": "2026",
+            "directors": [
+              "Jane Schoenbrun"
+            ],
+            "criticsRating": 94,
+            "criticsVotes": 269,
+            "audienceRating": 79,
+            "audienceVotes": 528
+          }
+        },
+        "longDescription": "Na dnie jeziora jest dziura. To z niej pochodzą filmy.\n\nMłoda, utalentowana reżyserka Kris (Hannah Einbinder) dostaje od studia filmowego szansę życia – ma nakręcić remake kultowej serii horrorów „Camp Miasma”, która cieszyła się ogromną popularnością w latach osiemdziesiątych i dziewięćdziesiątych. Aby znaleźć inspirację, udaje się na spotkanie z Billy (Gillian Anderson), która grała główną rolę w pierwowzorze projektu. Wizyta u ekscentrycznej aktorki szybko przeradza się w coś więcej niż zwykły wywiad.\n\n„Miłość, śmierć i dojrzewanie w Camp Miasma” zadebiutowała na festiwalu w Cannes, gdzie szturmem zdobyła serca krytyków i widzów – a także prestiżową nominację w sekcji Un Certain Regard. Najnowszy film Jane Shoenbrun (twórcy docenianego „W blasku ekranu”) ma obecnie 100% pozytywnych recenzji na Rotten Tomatoes, a widzowie wychodzą z seansów zachwyceni.\n\nChoć film Shoenbrun opowiada o powstawaniu fikcyjnej serii horrorów, sam w sobie horrorem nie jest, a zaledwie czerpie z jego estetyki. To przepiękna pod względem wizualnym kinofilska uczta opowiadająca przede wszystkim o bezgranicznej miłości do kina. I o tym, jak ta miłość zmienia nasze życie.\n\nW centrum tej opowieści stoją dwie aktorki reprezentujące dwa różne pokolenia. Legendarna Gillian Anderson wciela się w rolę ekscentrycznej diwy, a znana z serialu „Hacks” Hannah Einbinder w niepewną swojej pozycji, ale utalentowaną reżyserkę. Razem tworzą najbardziej elektryzujący ekranowy duet tego roku.",
+        "poster": "media/posters/1294a835ebec7b71a0d9.webp"
       }
     ]
   }

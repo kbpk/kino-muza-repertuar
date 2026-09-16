@@ -1,12 +1,12 @@
 {
   "schemaVersion": 1,
   "date": "2026-09-23",
-  "updatedAt": "2026-09-15T17:40:14.198Z",
+  "updatedAt": "2026-09-16T14:55:36.236Z",
   "source": "https://www.kinomuza.pl/repertoire/day/",
   "day": {
-    "id": "08",
+    "id": "07",
     "date": "23.09",
-    "now": "2026-09-15 19:39:38",
+    "now": "2026-09-16 16:54:22",
     "info": [],
     "repertoire": [
       {
@@ -56,7 +56,7 @@
               "Dramat"
             ],
             "rating": 7.3,
-            "votes": 1180
+            "votes": 1207
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/500_miles_2026",
@@ -73,6 +73,242 @@
         },
         "longDescription": "500 mil  to ciepły, poruszający film drogi laureata BAFT-y Morgana Matthewsa, w którym subtelny humor przeplata się ze wzruszeniem, a historia przywodzi na myśl wrażliwość  Billy’ego Elliota  i emocjonalną szczerość  Był sobie chłopiec .\n\nNastoletni Finn (Roman Griffin Davis, znany z  Jojo Rabbit ) i jego młodszy brat Charlie (Dexter Sol Ansell,  Rycerz siedmiu królestw ) uciekają z domu, by uniknąć rozdzielenia po rozstaniu rodziców. Ich celem jest dzikie zachodnie wybrzeże Irlandii oraz dom ukochanego dziadka Johna (Bill Nighy,  To właśnie miłość ) – ostatnia bezpieczna przystań w ich rozpadającym się świecie.\n\nPrzed nimi 500 mil niełatwej podróży, podczas której muszą polegać na sprycie, uroku osobistym  i życzliwości napotkanych ludzi – zwłaszcza wolnej duchem ulicznej muzykantki Cáit (Maisie Williams,  Gra o tron ).\n\n500 mil  to jednak coś więcej niż film drogi. To szczera, pozbawiona fałszywej nuty i głęboko refleksyjna opowieść o rodzinie, nadziei i potrzebie bliskości, która w finale nabiera nowego znaczenia i sprawia, że po seansie wraca się myślami do pierwszych scen.\n\nFilm dostępny z audiodeskrypcją lub lektorem. Skorzystaj bezpłatnie z aplikacji Kino Dostępne 2.0 w Twoim telefonie – http://kinodostepne.pl",
         "poster": "media/posters/da48f0cf278f46ab08f2.webp"
+      },
+      {
+        "hour": "15:30",
+        "datetime": "2026-09-23 15:30:00",
+        "title": "Obcy",
+        "originalTitle": "L’étranger",
+        "director": "François Ozon",
+        "year": "2025",
+        "premiereDate": "2026-09-18",
+        "duration": "122",
+        "countries": "francja",
+        "shortDesc": "<p>Aktualna opowieść o poszukiwaniu sensu w świecie, w którym wszelki sens został zagubiony. Oszczędne dialogi i piękne czarno-białe zdjęcia, stanowiące hołd dla klasycznego kina.</p>\n",
+        "lang": "",
+        "subtitlesLang": "pl",
+        "age": "16",
+        "credits": "reż. François Ozon <br>francja <br>2025,122’",
+        "desc": "<p>Aktualna opowieść o poszukiwaniu sensu w świecie, w którym wszelki sens został zagubiony. Oszczędne dialogi i piękne czarno-białe zdjęcia, stanowiące hołd dla klasycznego kina.</p>\n",
+        "hall": "2",
+        "movieLink": "https://www.kinomuza.pl/movie/letranger/",
+        "ticketLink": "https://estradapoznan.bilety24.pl/kup-bilety/?id=989961#total",
+        "prePremier": false,
+        "tape35mm": false,
+        "ad": false,
+        "deaf": false,
+        "ticketPrice": "",
+        "ticketHalfPrice": "",
+        "alt": "Obcy",
+        "thumb": "https://www.kinomuza.pl/content/uploads/2026/05/obcy-1-800x450.jpg",
+        "description": "Aktualna opowieść o poszukiwaniu sensu w świecie, w którym wszelki sens został zagubiony. Oszczędne dialogi i piękne czarno-białe zdjęcia, stanowiące hołd dla klasycznego kina.",
+        "shortDescription": "Aktualna opowieść o poszukiwaniu sensu w świecie, w którym wszelki sens został zagubiony. Oszczędne dialogi i piękne czarno-białe zdjęcia, stanowiące hołd dla klasycznego kina.",
+        "genres": [
+          "Dramat",
+          "Kryminał"
+        ],
+        "external": {
+          "imdb": null,
+          "filmweb": {
+            "id": "10089279",
+            "url": "https://www.filmweb.pl/film/Obcy-2025-10089279",
+            "genres": [
+              "Dramat",
+              "Kryminał"
+            ],
+            "rating": 7,
+            "votes": 876
+          },
+          "rottenTomatoes": null
+        },
+        "longDescription": "„Obcy” ( L’étranger ) to nowa ekranizacja jednej z najwybitniejszych francuskich powieści XX wieku autorstwa Alberta Camusa, opublikowanej w 1942 roku.\n\nFrançois Ozon opowiada historię Meursaulta, skromnego, niepozornego urzędnika, którego codziennej rutyny nie przerywa nawet śmierć matki. Do czasu, gdy pewnego gorącego dnia na plaży dochodzi do tragicznego zdarzenia. Adaptacja Ozona, która miała premierę w Konkursie Głównym festiwalu w Wenecji, to niezwykle aktualna opowieść o poszukiwaniu sensu w świecie, w którym wszelki sens został zagubiony. Oszczędne dialogi i piękne czarno-białe zdjęcia, stanowiące hołd dla klasycznego kina, budują wyjątkową atmosferę filmu. W rolach głównych Benjamin Voisin („Stracone złudzenia”, „Lato ‘85”) oraz Rebecca Marder („Moja zbrodnia”).",
+        "poster": "media/posters/8cef881389870c3fdbd8.webp"
+      },
+      {
+        "hour": "18:00",
+        "datetime": "2026-09-23 18:00:00",
+        "title": "Odyseja",
+        "originalTitle": "The Odyssey",
+        "director": "Christopher Nolan",
+        "year": "2026",
+        "premiereDate": "2026-07-17",
+        "duration": "172",
+        "countries": "USA, Wielka Brytania",
+        "shortDesc": "<p>Opowieść o podróży Odyseusza, króla Itaki, który musi stawić czoła licznym wyzwaniom próbując wrócić do domu po wojnie trojańskiej.</p>\n",
+        "lang": "en",
+        "subtitlesLang": "pl",
+        "age": "16",
+        "credits": "reż. Christopher Nolan <br>USA, Wielka Brytania <br>2026,172’",
+        "desc": "<p>Opowieść o podróży Odyseusza, króla Itaki, który musi stawić czoła licznym wyzwaniom próbując wrócić do domu po wojnie trojańskiej.</p>\n",
+        "hall": "1",
+        "movieLink": "https://www.kinomuza.pl/movie/odyseja/",
+        "ticketLink": "https://estradapoznan.bilety24.pl/kup-bilety/?id=989840#total",
+        "prePremier": false,
+        "tape35mm": false,
+        "ad": false,
+        "deaf": false,
+        "ticketPrice": "",
+        "ticketHalfPrice": "",
+        "alt": "Odyseja",
+        "thumb": "https://www.kinomuza.pl/content/uploads/2026/04/odyseja-1-800x450.jpg",
+        "description": "Opowieść o podróży Odyseusza, króla Itaki, który musi stawić czoła licznym wyzwaniom próbując wrócić do domu po wojnie trojańskiej.",
+        "shortDescription": "Opowieść o podróży Odyseusza, króla Itaki, który musi stawić czoła licznym wyzwaniom próbując wrócić do domu po wojnie trojańskiej.",
+        "genres": [
+          "Fantasy",
+          "Dramat",
+          "Przygodowy"
+        ],
+        "external": {
+          "imdb": {
+            "id": "tt33764258",
+            "url": "https://www.imdb.com/title/tt33764258/",
+            "rating": 8.4,
+            "votes": 492857
+          },
+          "filmweb": {
+            "id": "10068387",
+            "url": "https://www.filmweb.pl/film/Odyseja-2026-10068387",
+            "genres": [
+              "Fantasy",
+              "Dramat",
+              "Przygodowy"
+            ],
+            "rating": 7.7,
+            "votes": 69356
+          },
+          "rottenTomatoes": {
+            "url": "https://www.rottentomatoes.com/m/the_odyssey_2026",
+            "title": "The Odyssey (2026)",
+            "year": "2026",
+            "directors": [
+              "Christopher Nolan"
+            ],
+            "criticsRating": 94,
+            "criticsVotes": 510,
+            "audienceRating": 96,
+            "audienceVotes": 33070
+          }
+        },
+        "longDescription": "Christopher Nolan, który nakręcił takie filmy jak „Interstellar” oraz „Oppenheimer” jest znany z tego, że nie boi się żadnego gatunku filmowego. Po świetnie przyjętym i nagrodzonym 7 Oscarami® „Oppenheimerze” opowiadajacym historię powstania pierwszej bomby atomowej, teraz reżyser pracuje nad adaptacją „Odysei”.\n\nTo opowieść autorstwa Homera uznawana za jedno z najważniejszych dzieł literatury zachodniej. Opowiada o podróży Odyseusza, króla Itaki, który musi stawić czoła licznym wyzwaniom próbując wrócić do domu po wojnie trojańskiej. Powstała już niejedna ekranizacja klasycznego dzieła Homera, ale tym razem film nakręcony zostanie w technologii IMAX i będzie pierwszym tak nowoczesnym podejściem do „Odysei”.\n\nW filmie „Odysei” zobaczymy między innymi: Matta Damona, Toma Hollanda, Anne Hathaway, Zendayę, Roberta Pattinsona, Lupite Nyong’o oraz Charlize Theron.",
+        "poster": "media/posters/4e9b762158e1eb7c4e3f.webp"
+      },
+      {
+        "hour": "19:00",
+        "datetime": "2026-09-23 19:00:00",
+        "title": "Obcy",
+        "originalTitle": "L’étranger",
+        "director": "François Ozon",
+        "year": "2025",
+        "premiereDate": "2026-09-18",
+        "duration": "122",
+        "countries": "francja",
+        "shortDesc": "<p>Aktualna opowieść o poszukiwaniu sensu w świecie, w którym wszelki sens został zagubiony. Oszczędne dialogi i piękne czarno-białe zdjęcia, stanowiące hołd dla klasycznego kina.</p>\n",
+        "lang": "",
+        "subtitlesLang": "pl",
+        "age": "16",
+        "credits": "reż. François Ozon <br>francja <br>2025,122’",
+        "desc": "<p>Aktualna opowieść o poszukiwaniu sensu w świecie, w którym wszelki sens został zagubiony. Oszczędne dialogi i piękne czarno-białe zdjęcia, stanowiące hołd dla klasycznego kina.</p>\n",
+        "hall": "3",
+        "movieLink": "https://www.kinomuza.pl/movie/letranger/",
+        "ticketLink": "https://estradapoznan.bilety24.pl/kup-bilety/?id=989990#total",
+        "prePremier": false,
+        "tape35mm": false,
+        "ad": false,
+        "deaf": false,
+        "ticketPrice": "",
+        "ticketHalfPrice": "",
+        "alt": "Obcy",
+        "thumb": "https://www.kinomuza.pl/content/uploads/2026/05/obcy-1-800x450.jpg",
+        "description": "Aktualna opowieść o poszukiwaniu sensu w świecie, w którym wszelki sens został zagubiony. Oszczędne dialogi i piękne czarno-białe zdjęcia, stanowiące hołd dla klasycznego kina.",
+        "shortDescription": "Aktualna opowieść o poszukiwaniu sensu w świecie, w którym wszelki sens został zagubiony. Oszczędne dialogi i piękne czarno-białe zdjęcia, stanowiące hołd dla klasycznego kina.",
+        "genres": [
+          "Dramat",
+          "Kryminał"
+        ],
+        "external": {
+          "imdb": null,
+          "filmweb": {
+            "id": "10089279",
+            "url": "https://www.filmweb.pl/film/Obcy-2025-10089279",
+            "genres": [
+              "Dramat",
+              "Kryminał"
+            ],
+            "rating": 7,
+            "votes": 876
+          },
+          "rottenTomatoes": null
+        },
+        "longDescription": "„Obcy” ( L’étranger ) to nowa ekranizacja jednej z najwybitniejszych francuskich powieści XX wieku autorstwa Alberta Camusa, opublikowanej w 1942 roku.\n\nFrançois Ozon opowiada historię Meursaulta, skromnego, niepozornego urzędnika, którego codziennej rutyny nie przerywa nawet śmierć matki. Do czasu, gdy pewnego gorącego dnia na plaży dochodzi do tragicznego zdarzenia. Adaptacja Ozona, która miała premierę w Konkursie Głównym festiwalu w Wenecji, to niezwykle aktualna opowieść o poszukiwaniu sensu w świecie, w którym wszelki sens został zagubiony. Oszczędne dialogi i piękne czarno-białe zdjęcia, stanowiące hołd dla klasycznego kina, budują wyjątkową atmosferę filmu. W rolach głównych Benjamin Voisin („Stracone złudzenia”, „Lato ‘85”) oraz Rebecca Marder („Moja zbrodnia”).",
+        "poster": "media/posters/8cef881389870c3fdbd8.webp"
+      },
+      {
+        "hour": "21:00",
+        "datetime": "2026-09-23 21:00:00",
+        "title": "Tony",
+        "originalTitle": "Tony",
+        "director": "Matt Johnson",
+        "year": "2026",
+        "premiereDate": "2026-09-04",
+        "duration": "106",
+        "countries": "USA",
+        "shortDesc": "<p>Młody Anthony Bourdain podczas upalnego lata 1976 roku odkrywa swoją pasję, powołanie i to, kim tak naprawdę jest.</p>\n",
+        "lang": "en",
+        "subtitlesLang": "pl",
+        "age": "16",
+        "credits": "reż.  Matt Johnson <br>USA <br>2026,106’",
+        "desc": "<p>Młody Anthony Bourdain podczas upalnego lata 1976 roku odkrywa swoją pasję, powołanie i to, kim tak naprawdę jest.</p>\n",
+        "hall": "1",
+        "movieLink": "https://www.kinomuza.pl/movie/tony/",
+        "ticketLink": "https://estradapoznan.bilety24.pl/kup-bilety/?id=989841#total",
+        "prePremier": false,
+        "tape35mm": false,
+        "ad": false,
+        "deaf": false,
+        "ticketPrice": "",
+        "ticketHalfPrice": "",
+        "alt": "Tony",
+        "thumb": "https://www.kinomuza.pl/content/uploads/2026/09/57ef7a282819ac320da3a5de72836119-800x450.jpg",
+        "description": "Młody Anthony Bourdain podczas upalnego lata 1976 roku odkrywa swoją pasję, powołanie i to, kim tak naprawdę jest.",
+        "shortDescription": "Młody Anthony Bourdain podczas upalnego lata 1976 roku odkrywa swoją pasję, powołanie i to, kim tak naprawdę jest.",
+        "genres": [
+          "Biograficzny",
+          "Komedia",
+          "Dramat"
+        ],
+        "external": {
+          "imdb": {
+            "id": "tt33095251",
+            "url": "https://www.imdb.com/title/tt33095251/",
+            "rating": 7.6,
+            "votes": 8104
+          },
+          "filmweb": {
+            "id": "10079933",
+            "url": "https://www.filmweb.pl/film/Tony-2026-10079933",
+            "genres": [
+              "Biograficzny",
+              "Komedia",
+              "Dramat"
+            ],
+            "rating": 7.1,
+            "votes": 4773
+          },
+          "rottenTomatoes": {
+            "url": "https://www.rottentomatoes.com/m/tony_2026",
+            "title": "Tony (2026)",
+            "year": "2026",
+            "directors": [
+              "Matt Johnson"
+            ],
+            "criticsRating": 93,
+            "criticsVotes": 227,
+            "audienceRating": 92,
+            "audienceVotes": 932
+          }
+        },
+        "longDescription": "Anthony Bourdain – buntownik, outsider, głos pokolenia, jeden z najbardziej znanych szefów kuchni i jedna z największych, najbardziej charyzmatycznych osobowości telewizyjnych. Podróżnik, pisarz, odkrywca, którego miliony ludzi na całym świecie pokochały za bezkompromisowy styl, miłość do życia, szacunek do ludzi, odwagę, ciekawość świata i autentyczność. „Tony” to historia początków jego drogi – kim był, zanim stał się Anthonym Bourdainem.\n\nUpalne lato 1976 roku, Provincetown – miasto pulsujące wolnością, seksem i energią. Młody, marzący o karierze pisarza, Tony (Dominic Sessa), by podreperować budżet, trafia na zmywak do restauracji serwującej owoce morza, prowadzonej przez tajemniczego szefa kuchni (Antonio Banderas). W intensywnej, chaotycznej, a jednocześnie niezwykle kreatywnej atmosferze Tony odkrywa swoją pasję, powołanie i to, kim tak naprawdę jest.\n\nFilm dostępny z audiodeskrypcją lub lektorem. Skorzystaj bezpłatnie z aplikacji Kino Dostępne 2.0 w Twoim telefonie – http://kinodostepne.pl",
+        "poster": "media/posters/4c5e33e77e2fa1c55b1f.webp"
       }
     ]
   }

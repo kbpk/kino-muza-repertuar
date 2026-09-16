@@ -1,0 +1,510 @@
+{
+  "schemaVersion": 1,
+  "date": "2026-09-20",
+  "updatedAt": "2026-09-16T14:55:36.236Z",
+  "source": "https://www.kinomuza.pl/repertoire/day/",
+  "day": {
+    "id": "04",
+    "date": "20.09",
+    "now": "2026-09-16 16:54:11",
+    "info": [],
+    "repertoire": [
+      {
+        "hour": "12:00",
+        "datetime": "2026-09-20 12:00:00",
+        "title": "Zapomniana wyspa",
+        "originalTitle": "FORGOTTEN ISLAND",
+        "director": "Joel Crawford, Januel Mercado",
+        "year": "2026",
+        "premiereDate": "2026-10-02",
+        "duration": "98",
+        "countries": "USA",
+        "shortDesc": "<p>To komedia przygodowa, która przenosi bohaterów na dawno zapomnianą, magiczną wyspę. Warto walczyć o najlepszą przyjaźń.</p>\n",
+        "lang": "",
+        "subtitlesLang": "",
+        "age": "12",
+        "credits": "reż. Joel Crawford, Januel Mercado <br>USA <br>2026,98’",
+        "desc": "<p>To komedia przygodowa, która przenosi bohaterów na dawno zapomnianą, magiczną wyspę. Warto walczyć o najlepszą przyjaźń.</p>\n",
+        "hall": "1",
+        "movieLink": "https://www.kinomuza.pl/movie/zapomniana-wyspa/",
+        "ticketLink": "https://estradapoznan.bilety24.pl/kup-bilety/?id=989846#total",
+        "prePremier": false,
+        "tape35mm": false,
+        "ad": false,
+        "deaf": false,
+        "ticketPrice": "",
+        "ticketHalfPrice": "",
+        "alt": "Zapomniana wyspa",
+        "thumb": "https://www.kinomuza.pl/content/uploads/2026/08/zaginiona-wyspa-1-800x450.jpg",
+        "dubbing": true,
+        "event": "Pokaz przedpremierowy",
+        "description": "To komedia przygodowa, która przenosi bohaterów na dawno zapomnianą, magiczną wyspę. Warto walczyć o najlepszą przyjaźń.",
+        "shortDescription": "To komedia przygodowa, która przenosi bohaterów na dawno zapomnianą, magiczną wyspę. Warto walczyć o najlepszą przyjaźń.",
+        "genres": [
+          "Animacja",
+          "Fantasy",
+          "Przygodowy"
+        ],
+        "external": {
+          "imdb": {
+            "id": "tt36583977",
+            "url": "https://www.imdb.com/title/tt36583977/",
+            "rating": 7.3,
+            "votes": 294
+          },
+          "filmweb": {
+            "id": "10116454",
+            "url": "https://www.filmweb.pl/film/Zapomniana+wyspa-2026-10116454",
+            "genres": [
+              "Animacja",
+              "Fantasy",
+              "Przygodowy"
+            ],
+            "rating": 0,
+            "votes": 0
+          },
+          "rottenTomatoes": {
+            "url": "https://www.rottentomatoes.com/m/forgotten_island",
+            "title": "Forgotten Island",
+            "year": "2026",
+            "directors": [
+              "Joel Crawford",
+              "Januel P. Mercado"
+            ],
+            "criticsRating": null,
+            "criticsVotes": 10,
+            "audienceRating": null,
+            "audienceVotes": null
+          }
+        },
+        "longDescription": "Warto walczyć o najlepszą przyjaźń.\n\nDreamWorks Animation, studio, które stworzyło niezapomniane więzi między chłopcem a smokiem w filmie „Jak wytresować smoka”, ogrem i osłem w animacji „Shrek” oraz robotem i gąsiątkiem w „Dzikim robocie”. Teraz przedstawia olśniewającą i wzruszającą historię o dwójce przyjaciół na całe życie, którzy muszą się zjednoczyć.\n\nNowy film został napisany i wyreżyserowany przez nominowanych do Oscara® Joela Crawforda i Januela Mercado, a jego producentem jest nominowany do Oscara® Mark Swift, twórca filmu „Kot w butach: Ostatnie życzenie”.\n\nNagrodzone nagrodą Grammy i Oscarem® H.E.R. i Liza Soberano użyczają głosu Jo i Raissie.\n\nTo przyjaciółki od najmłodszych lat, które właśnie kończą szkołę średnią i stoją u progu zupełnie nowych etapów życia.\n\nPodczas wspólnego świętowania ostatniego wieczoru przed rozstaniem dziewczyny przypadkiem odkrywają tajemniczy portal, który przenosi je na magiczną wyspę Nakali. To niezwykła kraina pełna fantastycznych i mitycznych stworzeń, o których od dzieciństwa słyszały w opowieściach przekazywanych przez ich filipińskie rodziny.\n\nNiektóre z tych postaci staną się przyjaciółmi, inne wrogami. Jo i Raissa muszą stawić czoła najgroźniejszemu stworzeniu na wyspie.\n\nKiedy odkryją, że wspomnienia ich przyjaźni są ceną za powrót do domu, Jo i Raissa będą ścigać się, by znaleźć sposób na opuszczenie wyspy, zanim zapomną o sobie na zawsze.",
+        "poster": "media/posters/626e1f16f3c8efb83633.webp"
+      },
+      {
+        "hour": "14:00",
+        "datetime": "2026-09-20 14:00:00",
+        "title": "Bez końca",
+        "originalTitle": "Closure",
+        "director": "Michał Marczak",
+        "year": "2026",
+        "premiereDate": "2026-09-11",
+        "duration": "108",
+        "countries": "Polska, Francja ",
+        "shortDesc": "<p>Daniel nie słyszał, jak jego syn Krzysiek wychodzi z domu i idzie na most, gdzie widziano go po raz ostatni. Odtąd Daniel i jego żona żyją w zawieszeniu między nadzieją a strachem.</p>\n",
+        "lang": "pl",
+        "subtitlesLang": "",
+        "age": "16",
+        "credits": "reż. Michał Marczak <br>Polska, Francja  <br>2026,108’",
+        "desc": "<p>Daniel nie słyszał, jak jego syn Krzysiek wychodzi z domu i idzie na most, gdzie widziano go po raz ostatni. Odtąd Daniel i jego żona żyją w zawieszeniu między nadzieją a strachem.</p>\n",
+        "hall": "1",
+        "movieLink": "https://www.kinomuza.pl/movie/bez-konca/",
+        "ticketLink": "https://estradapoznan.bilety24.pl/kup-bilety/?id=989832#total",
+        "prePremier": false,
+        "tape35mm": false,
+        "ad": false,
+        "deaf": false,
+        "ticketPrice": "",
+        "ticketHalfPrice": "",
+        "alt": "Bez końca",
+        "thumb": "https://www.kinomuza.pl/content/uploads/2026/03/closure-stills-0-2875099-closure-stills-dir-michal-marczak-01-main-800x450.jpeg",
+        "description": "Daniel nie słyszał, jak jego syn Krzysiek wychodzi z domu i idzie na most, gdzie widziano go po raz ostatni. Odtąd Daniel i jego żona żyją w zawieszeniu między nadzieją a strachem.",
+        "shortDescription": "Daniel nie słyszał, jak jego syn Krzysiek wychodzi z domu i idzie na most, gdzie widziano go po raz ostatni. Odtąd Daniel i jego żona żyją w zawieszeniu między nadzieją a strachem.",
+        "genres": [
+          "Dokumentalny"
+        ],
+        "external": {
+          "imdb": {
+            "id": "tt39075417",
+            "url": "https://www.imdb.com/title/tt39075417/",
+            "rating": 7.1,
+            "votes": 79
+          },
+          "filmweb": {
+            "id": "10081351",
+            "url": "https://www.filmweb.pl/film/Bez+ko%C5%84ca-2026-10081351",
+            "genres": [
+              "Dokumentalny"
+            ],
+            "rating": 7.3,
+            "votes": 706
+          },
+          "rottenTomatoes": {
+            "url": "https://www.rottentomatoes.com/m/closure_2026",
+            "title": "Closure (2026)",
+            "year": "",
+            "directors": [
+              "Michał Marczak"
+            ],
+            "criticsRating": 100,
+            "criticsVotes": 10,
+            "audienceRating": null,
+            "audienceVotes": null
+          }
+        },
+        "longDescription": "Daniel nie słyszał, jak jego szesnastoletni syn Krzysztof wychodzi nad ranem z domu. Nie wiedział, co zaciągnęło chłopaka na most nad Wisłą – wiedział tylko, że to tam widziano go po raz ostatni. Kamera CCTV uchwyciła go, a potem, między jednym jej obrotem a drugim, Krzysiek zniknął. Możliwości są dwie: albo skoczył do rzeki, albo ukradkiem zszedł z mostu. Od tamtej pory Daniel i jego żona Agnieszka żyją w stanie zawieszenia: między rozpaczliwą nadzieją a paraliżującym strachem. Daniel nie potrafi biernie czekać na coraz mniej prawdopodobny przełom w policyjnym śledztwie, buduje więc łódź wyposażoną w kamery i drony z zamiarem samodzielnego zbadania mrocznych głębin rzeki. To początek poszukiwań, które pochłoną go w całości. Dzień po dniu przeczesuje Wisłę, nieustannie rozwijając nowe narzędzia i techniki poszukiwawcze. Zaczynają odzywać się do niego inne rodziny uwięzione w tej samej otchłani niepewności i bez końca poszukujące odpowiedzi. Długie, samotne godziny spędzone na łodzi stają się dla Daniela szansą na rozliczenie z życiem sprzed zniknięcia Krzysztofa. Wraz z mijaniem kolejnych miesięcy jego ból tylko się pogłębia; ojciec zmaga się z ciągłym napięciem między niesłabnącym pędem do dalszych poszukiwań a bolesną rzeczywistością, w której nieodwracalna strata odmieni jego życie raz na zawsze.\n\nFilm dostępny z audiodeskrypcją lub lektorem. Skorzystaj bezpłatnie z aplikacji Kino Dostępne 2.0 w Twoim telefonie – http://kinodostepne.pl",
+        "poster": "media/posters/876f4065c3094089984b.webp"
+      },
+      {
+        "hour": "16:00",
+        "datetime": "2026-09-20 16:00:00",
+        "title": "Ojczyzna",
+        "originalTitle": "Fatherland",
+        "director": "Paweł Pawlikowski",
+        "year": "2026",
+        "premiereDate": "2026-06-19",
+        "duration": "82",
+        "countries": "Polska, Niemcy, Włochy, Francja ",
+        "shortDesc": "<p>Opowieść o relacjach między Mannem, laureatem Nagrody Nobla w dziedzinie literatury, a jego córką Eriką, aktorką i pisarką. Akcja rozgrywa się w szczytowym okresie zimnej wojny.</p>\n",
+        "lang": "de",
+        "subtitlesLang": "pl",
+        "age": "16",
+        "credits": "reż. Paweł Pawlikowski  <br>Polska, Niemcy, Włochy, Francja  <br>2026,82’",
+        "desc": "<p>Opowieść o relacjach między Mannem, laureatem Nagrody Nobla w dziedzinie literatury, a jego córką Eriką, aktorką i pisarką. Akcja rozgrywa się w szczytowym okresie zimnej wojny.</p>\n",
+        "hall": "1",
+        "movieLink": "https://www.kinomuza.pl/movie/ojczyzna/",
+        "ticketLink": "https://estradapoznan.bilety24.pl/kup-bilety/?id=989831#total",
+        "prePremier": false,
+        "tape35mm": false,
+        "ad": false,
+        "deaf": false,
+        "ticketPrice": "",
+        "ticketHalfPrice": "",
+        "alt": "Ojczyzna",
+        "thumb": "https://www.kinomuza.pl/content/uploads/2026/05/ojczyzna-1-800x450.jpg",
+        "description": "Opowieść o relacjach między Mannem, laureatem Nagrody Nobla w dziedzinie literatury, a jego córką Eriką, aktorką i pisarką. Akcja rozgrywa się w szczytowym okresie zimnej wojny.",
+        "shortDescription": "Opowieść o relacjach między Mannem, laureatem Nagrody Nobla w dziedzinie literatury, a jego córką Eriką, aktorką i pisarką. Akcja rozgrywa się w szczytowym okresie zimnej wojny.",
+        "genres": [
+          "Dramat"
+        ],
+        "external": {
+          "imdb": {
+            "id": "tt37304295",
+            "url": "https://www.imdb.com/title/tt37304295/",
+            "rating": 7.2,
+            "votes": 1650
+          },
+          "filmweb": {
+            "id": "10074985",
+            "url": "https://www.filmweb.pl/film/Ojczyzna-2026-10074985",
+            "genres": [
+              "Dramat"
+            ],
+            "rating": 6.9,
+            "votes": 7670
+          },
+          "rottenTomatoes": {
+            "url": "https://www.rottentomatoes.com/m/fatherland_2026",
+            "title": "Fatherland (2026)",
+            "year": "2026",
+            "directors": [
+              "Paweł Pawlikowski"
+            ],
+            "criticsRating": 96,
+            "criticsVotes": 48,
+            "audienceRating": null,
+            "audienceVotes": null
+          }
+        },
+        "longDescription": "Najnowszy, długo wyczekiwany film laureata Oscara, Pawła Pawlikowskiego, twórcy „Idy” i „Zimnej wojny”, który powalczy o jedną z najważniejszych nagród filmowych na świecie – Złotą Palmę (Palme d’Or) na tegorocznym 79. Międzynarodowym Festiwalu Filmowym w Cannes.\n\nPoprzedni film Pawlikowskiego, „Zimna wojna”, w Polsce również dystrybuowany przez Kino Świat, oprócz spektakularnego sukcesu międzynarodowego (52 nagrody i 126 nominacje, w tym do Oscara® dla najlepszego filmu nieanglojęzycznego, za najlepszą reżyserię i najlepsze zdjęcia) podbił serca polskiej publiczności, przyciągając do kin ponad 1 milion widzów.\n\nW swoim najnowszym dziele, podobnie jak w „Idzie” i „Zimnej wojnie”, reżyser podejmuje tematy tożsamości, winy, rodziny i miłości na tle chaosu i moralnego zagubienia powojennej Europy.\n\nW rolach głównych zobaczymy nominowaną do Oscara® Sandrę Hüller („Strefa interesów”, „Anatomia upadku”, „Projekt Hail Mary”) i Hannsa Zischlera („Monachium”). Scenariusz napisali Paweł Pawlikowski i Henk Handloegten. Do realizacji filmu reżyser ponownie zaprosił swój wieloletni zespół twórczy – nominowanego do Oscara® operatora Łukasza Żala („Hamnet”), kostiumografkę Aleksandrę Staszko („Ministranci”) oraz scenografów Katarzynę Sobańską i Marcela Sławińskiego („Lalka”).\n\n„Ojczyzna” opowiada o relacji między Thomasem Mannem (Hanns Zischler), laureatem Nagrody Nobla w dziedzinie literatury, a jego córką Eriką (Sandra Hüller) – aktorką i pisarką. Akcja rozgrywa się w szczytowym okresie zimnej wojny. Ojciec i córka wyruszają w trudną, pełną emocji podróż czarnym Buickiem przez zrujnowane Niemcy – z Frankfurtu pod kontrolą amerykańską do Weimaru pod wpływem sowieckim. Po raz pierwszy od zakończenia wojny Mann wraca do swojej ojczyzny, po tym jak podjął wcześniej trudną decyzję o emigracji do Stanów Zjednoczonych.\n\nFilm dostępny z audiodeskrypcją lub lektorem. Skorzystaj bezpłatnie z aplikacji Kino Dostępne 2.0 w Twoim telefonie – http://kinodostepne.pl",
+        "poster": "media/posters/9e96a2c7e4e71b13250e.webp"
+      },
+      {
+        "hour": "17:00",
+        "datetime": "2026-09-20 17:00:00",
+        "title": "Obcy",
+        "originalTitle": "L’étranger",
+        "director": "François Ozon",
+        "year": "2025",
+        "premiereDate": "2026-09-18",
+        "duration": "122",
+        "countries": "francja",
+        "shortDesc": "<p>Aktualna opowieść o poszukiwaniu sensu w świecie, w którym wszelki sens został zagubiony. Oszczędne dialogi i piękne czarno-białe zdjęcia, stanowiące hołd dla klasycznego kina.</p>\n",
+        "lang": "",
+        "subtitlesLang": "pl",
+        "age": "16",
+        "credits": "reż. François Ozon <br>francja <br>2025,122’",
+        "desc": "<p>Aktualna opowieść o poszukiwaniu sensu w świecie, w którym wszelki sens został zagubiony. Oszczędne dialogi i piękne czarno-białe zdjęcia, stanowiące hołd dla klasycznego kina.</p>\n",
+        "hall": "3",
+        "movieLink": "https://www.kinomuza.pl/movie/letranger/",
+        "ticketLink": "https://estradapoznan.bilety24.pl/kup-bilety/?id=989979#total",
+        "prePremier": false,
+        "tape35mm": false,
+        "ad": false,
+        "deaf": false,
+        "ticketPrice": "",
+        "ticketHalfPrice": "",
+        "alt": "Obcy",
+        "thumb": "https://www.kinomuza.pl/content/uploads/2026/05/obcy-1-800x450.jpg",
+        "description": "Aktualna opowieść o poszukiwaniu sensu w świecie, w którym wszelki sens został zagubiony. Oszczędne dialogi i piękne czarno-białe zdjęcia, stanowiące hołd dla klasycznego kina.",
+        "shortDescription": "Aktualna opowieść o poszukiwaniu sensu w świecie, w którym wszelki sens został zagubiony. Oszczędne dialogi i piękne czarno-białe zdjęcia, stanowiące hołd dla klasycznego kina.",
+        "genres": [
+          "Dramat",
+          "Kryminał"
+        ],
+        "external": {
+          "imdb": null,
+          "filmweb": {
+            "id": "10089279",
+            "url": "https://www.filmweb.pl/film/Obcy-2025-10089279",
+            "genres": [
+              "Dramat",
+              "Kryminał"
+            ],
+            "rating": 7,
+            "votes": 876
+          },
+          "rottenTomatoes": null
+        },
+        "longDescription": "„Obcy” ( L’étranger ) to nowa ekranizacja jednej z najwybitniejszych francuskich powieści XX wieku autorstwa Alberta Camusa, opublikowanej w 1942 roku.\n\nFrançois Ozon opowiada historię Meursaulta, skromnego, niepozornego urzędnika, którego codziennej rutyny nie przerywa nawet śmierć matki. Do czasu, gdy pewnego gorącego dnia na plaży dochodzi do tragicznego zdarzenia. Adaptacja Ozona, która miała premierę w Konkursie Głównym festiwalu w Wenecji, to niezwykle aktualna opowieść o poszukiwaniu sensu w świecie, w którym wszelki sens został zagubiony. Oszczędne dialogi i piękne czarno-białe zdjęcia, stanowiące hołd dla klasycznego kina, budują wyjątkową atmosferę filmu. W rolach głównych Benjamin Voisin („Stracone złudzenia”, „Lato ‘85”) oraz Rebecca Marder („Moja zbrodnia”).",
+        "poster": "media/posters/8cef881389870c3fdbd8.webp"
+      },
+      {
+        "hour": "17:30",
+        "datetime": "2026-09-20 17:30:00",
+        "title": "Orlando",
+        "originalTitle": "",
+        "director": "Sally Potter",
+        "year": "1992",
+        "premiereDate": "",
+        "duration": "93",
+        "countries": "Wielka Brytania",
+        "shortDesc": "<p>Nominowany do Oscara film w reżyserii Sally Potter z kultową rolą Tildy Swinton powraca na ekrany kin.</p>\n",
+        "lang": "en",
+        "subtitlesLang": "pl",
+        "age": "16",
+        "credits": "reż. Sally Potter <br>Wielka Brytania <br>1992,93’",
+        "desc": "<p>Nominowany do Oscara film w reżyserii Sally Potter z kultową rolą Tildy Swinton powraca na ekrany kin.</p>\n",
+        "hall": "1",
+        "movieLink": "https://www.kinomuza.pl/movie/orlando/",
+        "ticketLink": "https://estradapoznan.bilety24.pl/kup-bilety/?id=989833#total",
+        "prePremier": false,
+        "tape35mm": false,
+        "ad": false,
+        "deaf": false,
+        "ticketPrice": "",
+        "ticketHalfPrice": "",
+        "alt": "Orlando",
+        "thumb": "https://www.kinomuza.pl/content/uploads/2024/09/orlando-3-800x450.jpg",
+        "event": "Pokaz specjalny",
+        "description": "Nominowany do Oscara film w reżyserii Sally Potter z kultową rolą Tildy Swinton powraca na ekrany kin.",
+        "shortDescription": "Nominowany do Oscara film w reżyserii Sally Potter z kultową rolą Tildy Swinton powraca na ekrany kin.",
+        "genres": [
+          "Melodramat"
+        ],
+        "external": {
+          "imdb": {
+            "id": "tt0107756",
+            "url": "https://www.imdb.com/title/tt0107756/",
+            "rating": 7.1,
+            "votes": 21306
+          },
+          "filmweb": {
+            "id": "31126",
+            "url": "https://www.filmweb.pl/film/Orlando-1992-31126",
+            "genres": [
+              "Melodramat"
+            ],
+            "rating": 7,
+            "votes": 8716
+          },
+          "rottenTomatoes": {
+            "url": "https://www.rottentomatoes.com/m/orlando",
+            "title": "Orlando",
+            "year": "1992",
+            "directors": [
+              "Sally Potter"
+            ],
+            "criticsRating": 85,
+            "criticsVotes": 66,
+            "audienceRating": 82,
+            "audienceVotes": 1866
+          }
+        },
+        "longDescription": "Nominowany do Oscara film w reżyserii Sally Potter z kultową rolą Tildy Swinton powraca na ekrany kin.\n\nWizualnie olśniewająca adaptacja powieści Virginii Woolf, opowiadająca o młodym arystokracie, który przemierza kilka stuleci historii, doświadczając życia zarówno jako mężczyzna, jak i kobieta.\n\nAngielski arystokrata, poeta i ulubieniec królowej Elżbiety I, otrzymuje od monarchini niezwykły rozkaz: nigdy się nie zestarzeć. Tak zaczyna się czterowiekowa podróż Orlanda (Tilda Swinton) przez dworskie intrygi, wyprawy dyplomatyczne, literackie salony i wojny – podróż, w trakcie której bohater pewnego ranka budzi się jako kobieta, nie pytając dlaczego, i dalej żyje, kochana i zdradzana, walcząca o prawo do własnego majątku w świecie, który kobietom go odmawia.\n\nSally Potter, reżyserka wywodząca się z brytyjskiego kina eksperymentalnego, zrealizowała adaptację uznawaną przez dekady za nieekranizowalną – zachowując ironiczny dystans prozy Woolf dzięki charakterystycznym, bezpośrednim spojrzeniom bohatera w kamerę. Malarskie zdjęcia Aleksieja Rodionova, przepych kostiumów Sandy Powell (jej pierwsza nominacja do Oscara) i muzyka współtworzona przez samą Potter budują świat, w którym forma jest tak samo ważna jak treść: kostium, architektura i światło stają się językiem opowieści, nie tylko jej tłem.\n\nW obsadzie, obok Swinton, znaleźli się m.in. Billy Zane, Quentin Crisp (w roli Elżbiety I) oraz Charlotte Valandrey.\n\nFilm zdobył dwie nagrody BAFTA, dwie nominacje do Oscara i nagrodę publiczności na Festiwalu w Wenecji, na stałe wpisując się w kanon kina queerowego i historię brytyjskiej reżyserii kobiecej.",
+        "poster": "media/posters/950a5d968ab5a946d884.webp"
+      },
+      {
+        "hour": "19:00",
+        "datetime": "2026-09-20 19:00:00",
+        "title": "Obcy",
+        "originalTitle": "L’étranger",
+        "director": "François Ozon",
+        "year": "2025",
+        "premiereDate": "2026-09-18",
+        "duration": "122",
+        "countries": "francja",
+        "shortDesc": "<p>Aktualna opowieść o poszukiwaniu sensu w świecie, w którym wszelki sens został zagubiony. Oszczędne dialogi i piękne czarno-białe zdjęcia, stanowiące hołd dla klasycznego kina.</p>\n",
+        "lang": "",
+        "subtitlesLang": "pl",
+        "age": "16",
+        "credits": "reż. François Ozon <br>francja <br>2025,122’",
+        "desc": "<p>Aktualna opowieść o poszukiwaniu sensu w świecie, w którym wszelki sens został zagubiony. Oszczędne dialogi i piękne czarno-białe zdjęcia, stanowiące hołd dla klasycznego kina.</p>\n",
+        "hall": "2",
+        "movieLink": "https://www.kinomuza.pl/movie/letranger/",
+        "ticketLink": "https://estradapoznan.bilety24.pl/kup-bilety/?id=989953#total",
+        "prePremier": false,
+        "tape35mm": false,
+        "ad": false,
+        "deaf": false,
+        "ticketPrice": "",
+        "ticketHalfPrice": "",
+        "alt": "Obcy",
+        "thumb": "https://www.kinomuza.pl/content/uploads/2026/05/obcy-1-800x450.jpg",
+        "description": "Aktualna opowieść o poszukiwaniu sensu w świecie, w którym wszelki sens został zagubiony. Oszczędne dialogi i piękne czarno-białe zdjęcia, stanowiące hołd dla klasycznego kina.",
+        "shortDescription": "Aktualna opowieść o poszukiwaniu sensu w świecie, w którym wszelki sens został zagubiony. Oszczędne dialogi i piękne czarno-białe zdjęcia, stanowiące hołd dla klasycznego kina.",
+        "genres": [
+          "Dramat",
+          "Kryminał"
+        ],
+        "external": {
+          "imdb": null,
+          "filmweb": {
+            "id": "10089279",
+            "url": "https://www.filmweb.pl/film/Obcy-2025-10089279",
+            "genres": [
+              "Dramat",
+              "Kryminał"
+            ],
+            "rating": 7,
+            "votes": 876
+          },
+          "rottenTomatoes": null
+        },
+        "longDescription": "„Obcy” ( L’étranger ) to nowa ekranizacja jednej z najwybitniejszych francuskich powieści XX wieku autorstwa Alberta Camusa, opublikowanej w 1942 roku.\n\nFrançois Ozon opowiada historię Meursaulta, skromnego, niepozornego urzędnika, którego codziennej rutyny nie przerywa nawet śmierć matki. Do czasu, gdy pewnego gorącego dnia na plaży dochodzi do tragicznego zdarzenia. Adaptacja Ozona, która miała premierę w Konkursie Głównym festiwalu w Wenecji, to niezwykle aktualna opowieść o poszukiwaniu sensu w świecie, w którym wszelki sens został zagubiony. Oszczędne dialogi i piękne czarno-białe zdjęcia, stanowiące hołd dla klasycznego kina, budują wyjątkową atmosferę filmu. W rolach głównych Benjamin Voisin („Stracone złudzenia”, „Lato ‘85”) oraz Rebecca Marder („Moja zbrodnia”).",
+        "poster": "media/posters/8cef881389870c3fdbd8.webp"
+      },
+      {
+        "hour": "19:15",
+        "datetime": "2026-09-20 19:15:00",
+        "title": "Tony",
+        "originalTitle": "Tony",
+        "director": "Matt Johnson",
+        "year": "2026",
+        "premiereDate": "2026-09-04",
+        "duration": "106",
+        "countries": "USA",
+        "shortDesc": "<p>Młody Anthony Bourdain podczas upalnego lata 1976 roku odkrywa swoją pasję, powołanie i to, kim tak naprawdę jest.</p>\n",
+        "lang": "en",
+        "subtitlesLang": "pl",
+        "age": "16",
+        "credits": "reż.  Matt Johnson <br>USA <br>2026,106’",
+        "desc": "<p>Młody Anthony Bourdain podczas upalnego lata 1976 roku odkrywa swoją pasję, powołanie i to, kim tak naprawdę jest.</p>\n",
+        "hall": "1",
+        "movieLink": "https://www.kinomuza.pl/movie/tony/",
+        "ticketLink": "https://estradapoznan.bilety24.pl/kup-bilety/?id=989834#total",
+        "prePremier": false,
+        "tape35mm": false,
+        "ad": false,
+        "deaf": false,
+        "ticketPrice": "",
+        "ticketHalfPrice": "",
+        "alt": "Tony",
+        "thumb": "https://www.kinomuza.pl/content/uploads/2026/09/57ef7a282819ac320da3a5de72836119-800x450.jpg",
+        "description": "Młody Anthony Bourdain podczas upalnego lata 1976 roku odkrywa swoją pasję, powołanie i to, kim tak naprawdę jest.",
+        "shortDescription": "Młody Anthony Bourdain podczas upalnego lata 1976 roku odkrywa swoją pasję, powołanie i to, kim tak naprawdę jest.",
+        "genres": [
+          "Biograficzny",
+          "Komedia",
+          "Dramat"
+        ],
+        "external": {
+          "imdb": {
+            "id": "tt33095251",
+            "url": "https://www.imdb.com/title/tt33095251/",
+            "rating": 7.6,
+            "votes": 8104
+          },
+          "filmweb": {
+            "id": "10079933",
+            "url": "https://www.filmweb.pl/film/Tony-2026-10079933",
+            "genres": [
+              "Biograficzny",
+              "Komedia",
+              "Dramat"
+            ],
+            "rating": 7.1,
+            "votes": 4773
+          },
+          "rottenTomatoes": {
+            "url": "https://www.rottentomatoes.com/m/tony_2026",
+            "title": "Tony (2026)",
+            "year": "2026",
+            "directors": [
+              "Matt Johnson"
+            ],
+            "criticsRating": 93,
+            "criticsVotes": 227,
+            "audienceRating": 92,
+            "audienceVotes": 932
+          }
+        },
+        "longDescription": "Anthony Bourdain – buntownik, outsider, głos pokolenia, jeden z najbardziej znanych szefów kuchni i jedna z największych, najbardziej charyzmatycznych osobowości telewizyjnych. Podróżnik, pisarz, odkrywca, którego miliony ludzi na całym świecie pokochały za bezkompromisowy styl, miłość do życia, szacunek do ludzi, odwagę, ciekawość świata i autentyczność. „Tony” to historia początków jego drogi – kim był, zanim stał się Anthonym Bourdainem.\n\nUpalne lato 1976 roku, Provincetown – miasto pulsujące wolnością, seksem i energią. Młody, marzący o karierze pisarza, Tony (Dominic Sessa), by podreperować budżet, trafia na zmywak do restauracji serwującej owoce morza, prowadzonej przez tajemniczego szefa kuchni (Antonio Banderas). W intensywnej, chaotycznej, a jednocześnie niezwykle kreatywnej atmosferze Tony odkrywa swoją pasję, powołanie i to, kim tak naprawdę jest.\n\nFilm dostępny z audiodeskrypcją lub lektorem. Skorzystaj bezpłatnie z aplikacji Kino Dostępne 2.0 w Twoim telefonie – http://kinodostepne.pl",
+        "poster": "media/posters/4c5e33e77e2fa1c55b1f.webp"
+      },
+      {
+        "hour": "21:15",
+        "datetime": "2026-09-20 21:15:00",
+        "title": "Miłość, śmierć i dojrzewanie w camp Miasma",
+        "originalTitle": "Teenage Sex and Death at Camp Miasma",
+        "director": "Jane Schoenbrun",
+        "year": "2026",
+        "premiereDate": "2026-09-04",
+        "duration": "106",
+        "countries": "USA",
+        "shortDesc": "<p>Na dnie jeziora jest dziura. To z niej pochodzą filmy. Przygotujcie się na Małą Śmierć.</p>\n",
+        "lang": "en",
+        "subtitlesLang": "pl",
+        "age": "16",
+        "credits": "reż.  Jane Schoenbrun <br>USA <br>2026,106’",
+        "desc": "<p>Na dnie jeziora jest dziura. To z niej pochodzą filmy. Przygotujcie się na Małą Śmierć.</p>\n",
+        "hall": "1",
+        "movieLink": "https://www.kinomuza.pl/movie/milosc-smierc-i-dojrzewanie-na-camp-miasma/",
+        "ticketLink": "https://estradapoznan.bilety24.pl/kup-bilety/?id=989835#total",
+        "prePremier": false,
+        "tape35mm": false,
+        "ad": false,
+        "deaf": false,
+        "ticketPrice": "",
+        "ticketHalfPrice": "",
+        "alt": "Miłość, śmierć i dojrzewanie w camp Miasma",
+        "thumb": "https://www.kinomuza.pl/content/uploads/2026/08/camp-1-800x450.jpg",
+        "description": "Na dnie jeziora jest dziura. To z niej pochodzą filmy. Przygotujcie się na Małą Śmierć.",
+        "shortDescription": "Na dnie jeziora jest dziura. To z niej pochodzą filmy. Przygotujcie się na Małą Śmierć.",
+        "genres": [
+          "Czarna komedia"
+        ],
+        "external": {
+          "imdb": {
+            "id": "tt35298123",
+            "url": "https://www.imdb.com/title/tt35298123/",
+            "rating": 7.2,
+            "votes": 9761
+          },
+          "filmweb": {
+            "id": "10114411",
+            "url": "https://www.filmweb.pl/film/Mi%C5%82o%C5%9B%C4%87%2C+%C5%9Bmier%C4%87+i+dojrzewanie+w+Camp+Miasma-2026-10114411",
+            "genres": [
+              "Czarna komedia"
+            ],
+            "rating": 6.9,
+            "votes": 2149
+          },
+          "rottenTomatoes": {
+            "url": "https://www.rottentomatoes.com/m/teenage_sex_and_death_at_camp_miasma",
+            "title": "Teenage Sex and Death at Camp Miasma",
+            "year": "2026",
+            "directors": [
+              "Jane Schoenbrun"
+            ],
+            "criticsRating": 94,
+            "criticsVotes": 269,
+            "audienceRating": 79,
+            "audienceVotes": 528
+          }
+        },
+        "longDescription": "Na dnie jeziora jest dziura. To z niej pochodzą filmy.\n\nMłoda, utalentowana reżyserka Kris (Hannah Einbinder) dostaje od studia filmowego szansę życia – ma nakręcić remake kultowej serii horrorów „Camp Miasma”, która cieszyła się ogromną popularnością w latach osiemdziesiątych i dziewięćdziesiątych. Aby znaleźć inspirację, udaje się na spotkanie z Billy (Gillian Anderson), która grała główną rolę w pierwowzorze projektu. Wizyta u ekscentrycznej aktorki szybko przeradza się w coś więcej niż zwykły wywiad.\n\n„Miłość, śmierć i dojrzewanie w Camp Miasma” zadebiutowała na festiwalu w Cannes, gdzie szturmem zdobyła serca krytyków i widzów – a także prestiżową nominację w sekcji Un Certain Regard. Najnowszy film Jane Shoenbrun (twórcy docenianego „W blasku ekranu”) ma obecnie 100% pozytywnych recenzji na Rotten Tomatoes, a widzowie wychodzą z seansów zachwyceni.\n\nChoć film Shoenbrun opowiada o powstawaniu fikcyjnej serii horrorów, sam w sobie horrorem nie jest, a zaledwie czerpie z jego estetyki. To przepiękna pod względem wizualnym kinofilska uczta opowiadająca przede wszystkim o bezgranicznej miłości do kina. I o tym, jak ta miłość zmienia nasze życie.\n\nW centrum tej opowieści stoją dwie aktorki reprezentujące dwa różne pokolenia. Legendarna Gillian Anderson wciela się w rolę ekscentrycznej diwy, a znana z serialu „Hacks” Hannah Einbinder w niepewną swojej pozycji, ale utalentowaną reżyserkę. Razem tworzą najbardziej elektryzujący ekranowy duet tego roku.",
+        "poster": "media/posters/1294a835ebec7b71a0d9.webp"
+      }
+    ]
+  }
+}

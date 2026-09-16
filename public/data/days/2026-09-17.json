@@ -1,12 +1,12 @@
 {
   "schemaVersion": 1,
   "date": "2026-09-17",
-  "updatedAt": "2026-09-16T14:55:36.236Z",
+  "updatedAt": "2026-09-16T19:33:11.910Z",
   "source": "https://www.kinomuza.pl/repertoire/day/",
   "day": {
     "id": "01",
     "date": "17.09",
-    "now": "2026-09-16 16:54:11",
+    "now": "2026-09-16 21:31:59",
     "info": [],
     "repertoire": [
       {
@@ -46,8 +46,8 @@
           "imdb": {
             "id": "tt37304295",
             "url": "https://www.imdb.com/title/tt37304295/",
-            "rating": 7.2,
-            "votes": 1650
+            "rating": 7.3,
+            "votes": 1685
           },
           "filmweb": {
             "id": "10074985",
@@ -113,7 +113,7 @@
             "id": "tt32212403",
             "url": "https://www.imdb.com/title/tt32212403/",
             "rating": 7.2,
-            "votes": 1108
+            "votes": 1115
           },
           "filmweb": {
             "id": "10117005",
@@ -180,7 +180,7 @@
             "id": "tt28088049",
             "url": "https://www.imdb.com/title/tt28088049/",
             "rating": 6.3,
-            "votes": 4721
+            "votes": 4751
           },
           "filmweb": {
             "id": "10085499",
@@ -248,7 +248,7 @@
             "id": "tt33764258",
             "url": "https://www.imdb.com/title/tt33764258/",
             "rating": 8.4,
-            "votes": 492857
+            "votes": 494242
           },
           "filmweb": {
             "id": "10068387",
@@ -314,7 +314,7 @@
             "id": "tt36646880",
             "url": "https://www.imdb.com/title/tt36646880/",
             "rating": 6,
-            "votes": 697
+            "votes": 730
           },
           "filmweb": {
             "id": "10079944",
@@ -379,7 +379,7 @@
             "id": "tt39075417",
             "url": "https://www.imdb.com/title/tt39075417/",
             "rating": 7.1,
-            "votes": 79
+            "votes": 82
           },
           "filmweb": {
             "id": "10081351",
@@ -446,7 +446,7 @@
             "id": "tt33095251",
             "url": "https://www.imdb.com/title/tt33095251/",
             "rating": 7.6,
-            "votes": 8104
+            "votes": 8323
           },
           "filmweb": {
             "id": "10079933",
@@ -552,7 +552,7 @@
             "id": "tt31216533",
             "url": "https://www.imdb.com/title/tt31216533/",
             "rating": 7.4,
-            "votes": 444
+            "votes": 452
           },
           "filmweb": {
             "id": "10117286",
@@ -617,7 +617,7 @@
             "id": "tt35298123",
             "url": "https://www.imdb.com/title/tt35298123/",
             "rating": 7.2,
-            "votes": 9761
+            "votes": 9838
           },
           "filmweb": {
             "id": "10114411",
@@ -671,7 +671,6 @@
         "ticketHalfPrice": "",
         "alt": "Bez końca",
         "thumb": "https://www.kinomuza.pl/content/uploads/2026/03/closure-stills-0-2875099-closure-stills-dir-michal-marczak-01-main-800x450.jpeg",
-        "cycle": "poranki rodzinne",
         "description": "Daniel nie słyszał, jak jego syn Krzysiek wychodzi z domu i idzie na most, gdzie widziano go po raz ostatni. Odtąd Daniel i jego żona żyją w zawieszeniu między nadzieją a strachem.",
         "shortDescription": "Daniel nie słyszał, jak jego syn Krzysiek wychodzi z domu i idzie na most, gdzie widziano go po raz ostatni. Odtąd Daniel i jego żona żyją w zawieszeniu między nadzieją a strachem.",
         "genres": [
@@ -682,7 +681,7 @@
             "id": "tt39075417",
             "url": "https://www.imdb.com/title/tt39075417/",
             "rating": 7.1,
-            "votes": 79
+            "votes": 82
           },
           "filmweb": {
             "id": "10081351",
@@ -747,7 +746,7 @@
             "id": "tt28326501",
             "url": "https://www.imdb.com/title/tt28326501/",
             "rating": 6.8,
-            "votes": 1965
+            "votes": 1967
           },
           "filmweb": {
             "id": "10070385",

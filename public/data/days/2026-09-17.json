@@ -1,12 +1,12 @@
 {
   "schemaVersion": 1,
   "date": "2026-09-17",
-  "updatedAt": "2026-09-17T14:57:48.425Z",
+  "updatedAt": "2026-09-17T19:43:40.087Z",
   "source": "https://www.kinomuza.pl/repertoire/day/",
   "day": {
     "id": "00",
     "date": "17.09",
-    "now": "2026-09-17 16:56:16",
+    "now": "2026-09-17 21:42:35",
     "info": [],
     "repertoire": [
       {
@@ -748,7 +748,7 @@
             "id": "tt28326501",
             "url": "https://www.imdb.com/title/tt28326501/",
             "rating": 6.8,
-            "votes": 1967
+            "votes": 1972
           },
           "filmweb": {
             "id": "10070385",

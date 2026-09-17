@@ -1,12 +1,12 @@
 {
   "schemaVersion": 1,
   "date": "2026-09-17",
-  "updatedAt": "2026-09-16T19:33:11.910Z",
+  "updatedAt": "2026-09-17T14:57:48.425Z",
   "source": "https://www.kinomuza.pl/repertoire/day/",
   "day": {
-    "id": "01",
+    "id": "00",
     "date": "17.09",
-    "now": "2026-09-16 21:31:59",
+    "now": "2026-09-17 16:56:16",
     "info": [],
     "repertoire": [
       {
@@ -304,6 +304,7 @@
         "ticketHalfPrice": "",
         "alt": "Historie równoległe",
         "thumb": "https://www.kinomuza.pl/content/uploads/2026/07/historie-rownolegle-histoires-paralleles-7871-pscarolebethuel-1280x720-1-800x450.jpg",
+        "cycle": "przyzwoicie tanie czwartki",
         "description": "Pisarka odkrywa trójkąt miłosny rodzący się między braćmi, a tajemniczą Anną. Wirtuozersko poprowadzona historia miłosnego trójkąta, który staje się obsesją znakomitej pisarki.",
         "shortDescription": "Pisarka odkrywa trójkąt miłosny rodzący się między braćmi, a tajemniczą Anną. Wirtuozersko poprowadzona historia miłosnego trójkąta, który staje się obsesją znakomitej pisarki.",
         "genres": [
@@ -323,7 +324,7 @@
               "Melodramat"
             ],
             "rating": 5.8,
-            "votes": 1150
+            "votes": 1155
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/parallel_tales",
@@ -335,7 +336,7 @@
             "criticsRating": 19,
             "criticsVotes": 31,
             "audienceRating": null,
-            "audienceVotes": 7
+            "audienceVotes": 9
           }
         },
         "longDescription": "Pisarka odkrywa trójkąt miłosny rodzący się między braćmi, a tajemniczą Anną.\n\nPrezentowany w konkursie tegorocznego Festiwalu w Cannes nowy film znakomitego Asghara Farhadiego, zdobywcy OSCARÓW za „Rozstanie” i „Klienta”.\n\nWyprodukowany przez Macieja Musiała i Krzysztofa Piesiewicza film inspirowany 6 częścią słynnego „DEKALOGU” Krzysztofa Kieślowskiego.\n\nGwiazdorska obsada w pełnej pasji i tajemnic opowieści o niebezpiecznych konsekwencjach igrania z namiętnościami.\n\nWirtuozersko poprowadzona historia miłosnego trójkąta, który staje się obsesją znakomitej pisarki.\n\nW poszukiwaniu inspiracji do nowej powieści Sylvie zaczyna podglądać mieszkających naprzeciwko braci i ich tajemniczą, piękna przyjaciółkę. Kiedy Sylvie zatrudnia do pomocy w codziennych obowiązkach młodego Adama, nie spodziewa się, że wkroczy on tak zdecydowanie w życie jej i obserwowanych przez nią braci. Adam spróbuje przekroczyć niebezpieczną granicę między fikcją kreowaną przez Sylvie, a rzeczywistością rodzącego się na ich oczach miłosnego trójkąta.",
@@ -388,7 +389,7 @@
               "Dokumentalny"
             ],
             "rating": 7.3,
-            "votes": 706
+            "votes": 731
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/closure_2026",
@@ -438,8 +439,8 @@
         "shortDescription": "Młody Anthony Bourdain podczas upalnego lata 1976 roku odkrywa swoją pasję, powołanie i to, kim tak naprawdę jest.",
         "genres": [
           "Biograficzny",
-          "Komedia",
-          "Dramat"
+          "Dramat",
+          "Komedia"
         ],
         "external": {
           "imdb": {
@@ -453,11 +454,11 @@
             "url": "https://www.filmweb.pl/film/Tony-2026-10079933",
             "genres": [
               "Biograficzny",
-              "Komedia",
-              "Dramat"
+              "Dramat",
+              "Komedia"
             ],
             "rating": 7.1,
-            "votes": 4773
+            "votes": 5070
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/tony_2026",
@@ -467,9 +468,9 @@
               "Matt Johnson"
             ],
             "criticsRating": 93,
-            "criticsVotes": 227,
+            "criticsVotes": 229,
             "audienceRating": 92,
-            "audienceVotes": 932
+            "audienceVotes": 934
           }
         },
         "longDescription": "Anthony Bourdain – buntownik, outsider, głos pokolenia, jeden z najbardziej znanych szefów kuchni i jedna z największych, najbardziej charyzmatycznych osobowości telewizyjnych. Podróżnik, pisarz, odkrywca, którego miliony ludzi na całym świecie pokochały za bezkompromisowy styl, miłość do życia, szacunek do ludzi, odwagę, ciekawość świata i autentyczność. „Tony” to historia początków jego drogi – kim był, zanim stał się Anthonym Bourdainem.\n\nUpalne lato 1976 roku, Provincetown – miasto pulsujące wolnością, seksem i energią. Młody, marzący o karierze pisarza, Tony (Dominic Sessa), by podreperować budżet, trafia na zmywak do restauracji serwującej owoce morza, prowadzonej przez tajemniczego szefa kuchni (Antonio Banderas). W intensywnej, chaotycznej, a jednocześnie niezwykle kreatywnej atmosferze Tony odkrywa swoją pasję, powołanie i to, kim tak naprawdę jest.\n\nFilm dostępny z audiodeskrypcją lub lektorem. Skorzystaj bezpłatnie z aplikacji Kino Dostępne 2.0 w Twoim telefonie – http://kinodostepne.pl",
@@ -561,7 +562,7 @@
               "Dramat"
             ],
             "rating": 7.3,
-            "votes": 1207
+            "votes": 1245
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/500_miles_2026",
@@ -626,7 +627,7 @@
               "Czarna komedia"
             ],
             "rating": 6.9,
-            "votes": 2149
+            "votes": 2209
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/teenage_sex_and_death_at_camp_miasma",
@@ -638,7 +639,7 @@
             "criticsRating": 94,
             "criticsVotes": 269,
             "audienceRating": 79,
-            "audienceVotes": 528
+            "audienceVotes": 529
           }
         },
         "longDescription": "Na dnie jeziora jest dziura. To z niej pochodzą filmy.\n\nMłoda, utalentowana reżyserka Kris (Hannah Einbinder) dostaje od studia filmowego szansę życia – ma nakręcić remake kultowej serii horrorów „Camp Miasma”, która cieszyła się ogromną popularnością w latach osiemdziesiątych i dziewięćdziesiątych. Aby znaleźć inspirację, udaje się na spotkanie z Billy (Gillian Anderson), która grała główną rolę w pierwowzorze projektu. Wizyta u ekscentrycznej aktorki szybko przeradza się w coś więcej niż zwykły wywiad.\n\n„Miłość, śmierć i dojrzewanie w Camp Miasma” zadebiutowała na festiwalu w Cannes, gdzie szturmem zdobyła serca krytyków i widzów – a także prestiżową nominację w sekcji Un Certain Regard. Najnowszy film Jane Shoenbrun (twórcy docenianego „W blasku ekranu”) ma obecnie 100% pozytywnych recenzji na Rotten Tomatoes, a widzowie wychodzą z seansów zachwyceni.\n\nChoć film Shoenbrun opowiada o powstawaniu fikcyjnej serii horrorów, sam w sobie horrorem nie jest, a zaledwie czerpie z jego estetyki. To przepiękna pod względem wizualnym kinofilska uczta opowiadająca przede wszystkim o bezgranicznej miłości do kina. I o tym, jak ta miłość zmienia nasze życie.\n\nW centrum tej opowieści stoją dwie aktorki reprezentujące dwa różne pokolenia. Legendarna Gillian Anderson wciela się w rolę ekscentrycznej diwy, a znana z serialu „Hacks” Hannah Einbinder w niepewną swojej pozycji, ale utalentowaną reżyserkę. Razem tworzą najbardziej elektryzujący ekranowy duet tego roku.",
@@ -671,6 +672,7 @@
         "ticketHalfPrice": "",
         "alt": "Bez końca",
         "thumb": "https://www.kinomuza.pl/content/uploads/2026/03/closure-stills-0-2875099-closure-stills-dir-michal-marczak-01-main-800x450.jpeg",
+        "cycle": "przyzwoicie tanie czwartki",
         "description": "Daniel nie słyszał, jak jego syn Krzysiek wychodzi z domu i idzie na most, gdzie widziano go po raz ostatni. Odtąd Daniel i jego żona żyją w zawieszeniu między nadzieją a strachem.",
         "shortDescription": "Daniel nie słyszał, jak jego syn Krzysiek wychodzi z domu i idzie na most, gdzie widziano go po raz ostatni. Odtąd Daniel i jego żona żyją w zawieszeniu między nadzieją a strachem.",
         "genres": [
@@ -690,7 +692,7 @@
               "Dokumentalny"
             ],
             "rating": 7.3,
-            "votes": 706
+            "votes": 731
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/closure_2026",
@@ -755,7 +757,7 @@
               "Dramat"
             ],
             "rating": 6.2,
-            "votes": 418
+            "votes": 424
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/the_little_sister_2025",

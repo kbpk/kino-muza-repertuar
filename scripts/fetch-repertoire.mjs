@@ -10,6 +10,7 @@ const DEFAULT_DISCOVERY_SOURCE = "https://www.kinomuza.pl/repertuar/";
 const DEFAULT_DAYS = 13;
 const ROOT = fileURLToPath(new URL("..", import.meta.url));
 const POSTER_VERSION = 2;
+const HISTORY_RETENTION_DAYS = 7;
 
 function plainText(value = "") {
   return String(value)
@@ -173,6 +174,26 @@ export function dayIso(day) {
   return "";
 }
 
+export function archiveCutoffDate(todayIso, retentionDays = HISTORY_RETENTION_DAYS) {
+  if (!/^\d{4}-\d{2}-\d{2}$/.test(todayIso) || !Number.isInteger(retentionDays) || retentionDays < 0) {
+    throw new Error("Nieprawidłowa konfiguracja retencji archiwum");
+  }
+  const today = new Date(`${todayIso}T00:00:00Z`);
+  if (Number.isNaN(today.valueOf()) || today.toISOString().slice(0, 10) !== todayIso) {
+    throw new Error(`Nieprawidłowa data bazowa: ${todayIso}`);
+  }
+  today.setUTCDate(today.getUTCDate() - retentionDays);
+  return today.toISOString().slice(0, 10);
+}
+
+async function pruneExpiredDays(daysDirectory, todayIso) {
+  const cutoff = archiveCutoffDate(todayIso);
+  const files = (await readdir(daysDirectory)).filter((name) => /^\d{4}-\d{2}-\d{2}\.json$/.test(name));
+  await Promise.all(files
+    .filter((name) => name.slice(0, 10) < cutoff)
+    .map((name) => unlink(join(daysDirectory, name))));
+}
+
 function showingKey(show) {
   return [show.datetime, show.title, show.hall].map((value) => String(value || "")).join("|");
 }
@@ -192,7 +213,7 @@ export function preservePastShowings(previousDay, currentDay) {
   };
 }
 
-async function writeDailyArchive(days, dataDirectory, fetchedAt, source) {
+async function writeDailyArchive(days, dataDirectory, fetchedAt, source, todayIso) {
   const daysDirectory = join(dataDirectory, "days");
   await mkdir(daysDirectory, { recursive: true });
   for (const day of days) {
@@ -216,6 +237,7 @@ async function writeDailyArchive(days, dataDirectory, fetchedAt, source) {
     };
     await writeFile(path, `${JSON.stringify(payload, null, 2)}\n`);
   }
+  await pruneExpiredDays(daysDirectory, todayIso);
   return (await readdir(daysDirectory))
     .filter((name) => /^\d{4}-\d{2}-\d{2}\.json$/.test(name))
     .map((name) => name.slice(0, 10))
@@ -305,7 +327,7 @@ export async function buildSnapshot({
   }
 
   const fetchedAt = new Date().toISOString();
-  const availableDates = await writeDailyArchive(days, dataDirectory, fetchedAt, source);
+  const availableDates = await writeDailyArchive(days, dataDirectory, fetchedAt, source, sourceDate(firstDay));
   await pruneUnusedPosters(dataDirectory, posterDirectory);
   const snapshot = {
     schemaVersion: 1,

@@ -1,7 +1,7 @@
 import assert from "node:assert/strict";
 import test from "node:test";
 import { dateLabel, detailsMetadata, externalLinks, fullDate, groupMovies, isRepertoireStale, mergeDaysByDate, metadata, nextAvailableDate, parseViewerParams, previousAvailableDate, searchMatches, showingEndMinutes, showingMatchesHall, showingMatchesTime, sortMovies, viewerParams } from "../public/lib.js";
-import { dayIso, extractRepertoireDates, nonEmptyDays, normalizeDay, preservePastShowings, repertoireDayOffsets, sourceDate } from "../scripts/fetch-repertoire.mjs";
+import { archiveCutoffDate, dayIso, extractRepertoireDates, nonEmptyDays, normalizeDay, preservePastShowings, repertoireDayOffsets, sourceDate } from "../scripts/fetch-repertoire.mjs";
 
 test("grupuje seanse tego samego filmu", () => {
   const movie = { title: "Film", year: "2026", movieLink: "https://example.test/film", hour: "18:00" };
@@ -123,6 +123,12 @@ test("ustala datę bazową z czasu odpowiedzi Muzy", () => {
 test("wyznacza nazwę dziennego archiwum z daty seansu", () => {
   assert.equal(dayIso({ repertoire: [{ datetime: "2026-09-04 18:00:00" }] }), "2026-09-04");
   assert.equal(dayIso({ repertoire: [] }), "");
+});
+
+test("retencja zachowuje siedem pełnych dni wstecz", () => {
+  assert.equal(archiveCutoffDate("2026-09-19"), "2026-09-12");
+  assert.equal(archiveCutoffDate("2026-03-03"), "2026-02-24");
+  assert.throws(() => archiveCutoffDate("2026-02-30"), /data bazowa/);
 });
 
 test("zachowuje zakończone seanse, ale ufa Muzie w sprawie przyszłych", () => {

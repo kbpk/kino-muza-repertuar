@@ -16,7 +16,7 @@ Przy filmach znajdziesz:
 - odnośniki i dostępne oceny z IMDb, Filmwebu oraz Rotten Tomatoes,
 - bezpośredni link do zakupu biletu.
 
-Domyślnie wyświetlany jest dzisiejszy repertuar. Starsze zapisane dni pozostają dostępne przyciskiem `‹`. Widok, wybrany dzień, wyszukiwanie, filtry i sortowanie są zapisywane w adresie strony, dzięki czemu można przesłać komuś link do dokładnie tych samych wyników. Motyw jest zapamiętywany w przeglądarce, a układ działa na komputerach i telefonach.
+Domyślnie wyświetlany jest dzisiejszy repertuar. Zapisane dni z ostatnich 7 pełnych dni pozostają dostępne przyciskiem `‹`; starsze dane i nieużywane plakaty usuwa kolejna aktualizacja. Widok, wybrany dzień, wyszukiwanie, filtry i sortowanie są zapisywane w adresie strony, dzięki czemu można przesłać komuś link do dokładnie tych samych wyników. Motyw jest zapamiętywany w przeglądarce, a układ działa na komputerach i telefonach.
 
 ## Dane i aktualizacje
 
@@ -30,7 +30,7 @@ Cały aktualny repertuar jest dostępny również jako jeden dokument JSON:
 
 ## Jak to działa
 
-Viewer jest statyczną stroną bez serwera aplikacyjnego i kluczy API. GitHub Actions odczytuje z zakładki „Filmy” wszystkie zapowiedziane daty, a pełne dane pobiera dla nich z dziennych endpointów repertuaru. Dzięki temu pojedynczy pusty dzień nie ukrywa późniejszych pokazów. Każdy dzień jest zachowywany jako osobny plik JSON, a plakaty są optymalizowane do małych plików WebP. Podczas publikacji pliki dzienne są składane w zbiorczy `data/repertoire.json`, który nie jest dublowany w historii repozytorium. Opisy są pobierane podczas aktualizacji, a nie w przeglądarce użytkownika. Service Worker przechowuje ostatnią poprawną wersję do użycia podczas krótkiej awarii sieci.
+Viewer jest statyczną stroną bez serwera aplikacyjnego i kluczy API. GitHub Actions odczytuje z zakładki „Filmy” wszystkie zapowiedziane daty, a pełne dane pobiera dla nich z dziennych endpointów repertuaru. Dzięki temu pojedynczy pusty dzień nie ukrywa późniejszych pokazów. Każdy zachowany dzień ma osobny plik JSON, a plakaty są optymalizowane do małych plików WebP. Aktualizacja usuwa dni starsze niż 7 pełnych dni oraz plakaty, których nie używa żaden zachowany dzień. Podczas publikacji bieżące pliki dzienne są składane w zbiorczy `data/repertoire.json`, który nie jest dublowany w historii repozytorium. Opisy są pobierane podczas aktualizacji, a nie w przeglądarce użytkownika. Service Worker przechowuje ostatnią poprawną wersję do użycia podczas krótkiej awarii sieci.
 
 Dopasowania do zewnętrznych baz wykorzystują polski i oryginalny tytuł, rok oraz reżysera. Rok jest wskazówką, a nie twardym ograniczeniem: większa różnica wymaga potwierdzenia zgodnego tytułu i reżysera. Jeśli dopasowanie nie jest wystarczająco pewne, link prowadzi do wyników wyszukiwania zamiast do potencjalnie błędnego filmu.
 
@@ -53,8 +53,12 @@ Kod źródłowy jest dostępny na licencji [MIT](LICENSE). Licencja nie obejmuje
 
 ## Automatyzacja
 
-- `.github/workflows/update-repertoire.yaml` pobiera dane, uruchamia testy, tworzy PR i automatycznie scala aktualizację.
+Produkcyjne aktualizacje realizuje obecnie [pipeline GitHub Actions](infra/github-actions/README.md). Harmonogram pozostaje aktywny do czasu osobnego, zweryfikowanego przełączenia na nowy sposób aktualizacji.
+
+- `.github/workflows/update-repertoire.yaml` pobiera dane, uruchamia testy, tworzy PR i automatycznie scala aktualizację;
 - `.github/workflows/deploy-pages.yaml` testuje `main` i publikuje katalog `public` na GitHub Pages.
+
+Pełny opis harmonogramu, uprawnień, przepływu danych i późniejszego cutoveru znajduje się w [dokumentacji obecnego pipeline'u](infra/github-actions/README.md).
 
 Konfigurację repozytorium wykonuje się przez GitHub CLI:
 

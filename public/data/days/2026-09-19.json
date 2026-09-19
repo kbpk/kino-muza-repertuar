@@ -1,12 +1,12 @@
 {
   "schemaVersion": 1,
   "date": "2026-09-19",
-  "updatedAt": "2026-09-18T19:01:35.142Z",
+  "updatedAt": "2026-09-19T13:56:17.839Z",
   "source": "https://www.kinomuza.pl/repertoire/day/",
   "day": {
-    "id": "01",
+    "id": "00",
     "date": "19.09",
-    "now": "2026-09-18 21:01:04",
+    "now": "2026-09-19 15:55:04",
     "info": [],
     "repertoire": [
       {
@@ -415,8 +415,8 @@
           "imdb": {
             "id": "tt39075417",
             "url": "https://www.imdb.com/title/tt39075417/",
-            "rating": 7.2,
-            "votes": 83
+            "rating": 7.1,
+            "votes": 86
           },
           "filmweb": {
             "id": "10081351",
@@ -425,7 +425,7 @@
               "Dokumentalny"
             ],
             "rating": 7.3,
-            "votes": 768
+            "votes": 790
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/closure_2026",
@@ -473,27 +473,27 @@
         "description": "Poruszająca historia miłości Williama, ambitnego dramaturga i jego żony Agnes. Ich idylliczne życie zostaje zburzone, gdy wybucha epidemia dżumy, która dotyka ich dzieci.",
         "shortDescription": "Poruszająca historia miłości Williama, ambitnego dramaturga i jego żony Agnes. Ich idylliczne życie zostaje zburzone, gdy wybucha epidemia dżumy, która dotyka ich dzieci.",
         "genres": [
-          "Dramat",
+          "Kostiumowy",
           "Biograficzny",
-          "Kostiumowy"
+          "Dramat"
         ],
         "external": {
           "imdb": {
             "id": "tt14905854",
             "url": "https://www.imdb.com/title/tt14905854/",
             "rating": 7.8,
-            "votes": 134854
+            "votes": 135049
           },
           "filmweb": {
             "id": "10035555",
             "url": "https://www.filmweb.pl/film/Hamnet-2025-10035555",
             "genres": [
-              "Dramat",
+              "Kostiumowy",
               "Biograficzny",
-              "Kostiumowy"
+              "Dramat"
             ],
             "rating": 7.6,
-            "votes": 29073
+            "votes": 29114
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/hamnet",
@@ -548,7 +548,7 @@
             "id": "tt29283995",
             "url": "https://www.imdb.com/title/tt29283995/",
             "rating": 7,
-            "votes": 1499
+            "votes": 1529
           },
           "filmweb": {
             "id": "10093851",
@@ -557,7 +557,7 @@
               "Dramat"
             ],
             "rating": 6.8,
-            "votes": 463
+            "votes": 483
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/hen",
@@ -618,7 +618,7 @@
               "Dramat"
             ],
             "rating": 7,
-            "votes": 935
+            "votes": 1072
           },
           "rottenTomatoes": null
         },
@@ -662,7 +662,7 @@
             "id": "tt29283995",
             "url": "https://www.imdb.com/title/tt29283995/",
             "rating": 7,
-            "votes": 1499
+            "votes": 1529
           },
           "filmweb": {
             "id": "10093851",
@@ -671,7 +671,7 @@
               "Dramat"
             ],
             "rating": 6.8,
-            "votes": 463
+            "votes": 483
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/hen",
@@ -728,7 +728,7 @@
             "id": "tt33095251",
             "url": "https://www.imdb.com/title/tt33095251/",
             "rating": 7.5,
-            "votes": 8812
+            "votes": 9749
           },
           "filmweb": {
             "id": "10079933",
@@ -739,7 +739,7 @@
               "Komedia"
             ],
             "rating": 7.1,
-            "votes": 5323
+            "votes": 5532
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/tony_2026",
@@ -749,9 +749,9 @@
               "Matt Johnson"
             ],
             "criticsRating": 93,
-            "criticsVotes": 229,
+            "criticsVotes": 230,
             "audienceRating": 92,
-            "audienceVotes": 936
+            "audienceVotes": 937
           }
         },
         "longDescription": "Anthony Bourdain – buntownik, outsider, głos pokolenia, jeden z najbardziej znanych szefów kuchni i jedna z największych, najbardziej charyzmatycznych osobowości telewizyjnych. Podróżnik, pisarz, odkrywca, którego miliony ludzi na całym świecie pokochały za bezkompromisowy styl, miłość do życia, szacunek do ludzi, odwagę, ciekawość świata i autentyczność. „Tony” to historia początków jego drogi – kim był, zanim stał się Anthonym Bourdainem.\n\nUpalne lato 1976 roku, Provincetown – miasto pulsujące wolnością, seksem i energią. Młody, marzący o karierze pisarza, Tony (Dominic Sessa), by podreperować budżet, trafia na zmywak do restauracji serwującej owoce morza, prowadzonej przez tajemniczego szefa kuchni (Antonio Banderas). W intensywnej, chaotycznej, a jednocześnie niezwykle kreatywnej atmosferze Tony odkrywa swoją pasję, powołanie i to, kim tak naprawdę jest.\n\nFilm dostępny z audiodeskrypcją lub lektorem. Skorzystaj bezpłatnie z aplikacji Kino Dostępne 2.0 w Twoim telefonie – http://kinodostepne.pl",
@@ -795,7 +795,7 @@
             "id": "tt28088049",
             "url": "https://www.imdb.com/title/tt28088049/",
             "rating": 6.3,
-            "votes": 4782
+            "votes": 4817
           },
           "filmweb": {
             "id": "10085499",
@@ -805,7 +805,7 @@
               "Dramat"
             ],
             "rating": 5.7,
-            "votes": 2179
+            "votes": 2197
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/bitter_christmas",
@@ -862,7 +862,7 @@
             "id": "tt33095251",
             "url": "https://www.imdb.com/title/tt33095251/",
             "rating": 7.5,
-            "votes": 8812
+            "votes": 9749
           },
           "filmweb": {
             "id": "10079933",
@@ -873,7 +873,7 @@
               "Komedia"
             ],
             "rating": 7.1,
-            "votes": 5323
+            "votes": 5532
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/tony_2026",
@@ -883,9 +883,9 @@
               "Matt Johnson"
             ],
             "criticsRating": 93,
-            "criticsVotes": 229,
+            "criticsVotes": 230,
             "audienceRating": 92,
-            "audienceVotes": 936
+            "audienceVotes": 937
           }
         },
         "longDescription": "Anthony Bourdain – buntownik, outsider, głos pokolenia, jeden z najbardziej znanych szefów kuchni i jedna z największych, najbardziej charyzmatycznych osobowości telewizyjnych. Podróżnik, pisarz, odkrywca, którego miliony ludzi na całym świecie pokochały za bezkompromisowy styl, miłość do życia, szacunek do ludzi, odwagę, ciekawość świata i autentyczność. „Tony” to historia początków jego drogi – kim był, zanim stał się Anthonym Bourdainem.\n\nUpalne lato 1976 roku, Provincetown – miasto pulsujące wolnością, seksem i energią. Młody, marzący o karierze pisarza, Tony (Dominic Sessa), by podreperować budżet, trafia na zmywak do restauracji serwującej owoce morza, prowadzonej przez tajemniczego szefa kuchni (Antonio Banderas). W intensywnej, chaotycznej, a jednocześnie niezwykle kreatywnej atmosferze Tony odkrywa swoją pasję, powołanie i to, kim tak naprawdę jest.\n\nFilm dostępny z audiodeskrypcją lub lektorem. Skorzystaj bezpłatnie z aplikacji Kino Dostępne 2.0 w Twoim telefonie – http://kinodostepne.pl",
@@ -927,8 +927,8 @@
           "imdb": {
             "id": "tt35298123",
             "url": "https://www.imdb.com/title/tt35298123/",
-            "rating": 7.2,
-            "votes": 9914
+            "rating": 7.1,
+            "votes": 10190
           },
           "filmweb": {
             "id": "10114411",
@@ -937,7 +937,7 @@
               "Czarna komedia"
             ],
             "rating": 6.9,
-            "votes": 2289
+            "votes": 2353
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/teenage_sex_and_death_at_camp_miasma",
@@ -949,7 +949,7 @@
             "criticsRating": 94,
             "criticsVotes": 269,
             "audienceRating": 79,
-            "audienceVotes": 531
+            "audienceVotes": 532
           }
         },
         "longDescription": "Na dnie jeziora jest dziura. To z niej pochodzą filmy.\n\nMłoda, utalentowana reżyserka Kris (Hannah Einbinder) dostaje od studia filmowego szansę życia – ma nakręcić remake kultowej serii horrorów „Camp Miasma”, która cieszyła się ogromną popularnością w latach osiemdziesiątych i dziewięćdziesiątych. Aby znaleźć inspirację, udaje się na spotkanie z Billy (Gillian Anderson), która grała główną rolę w pierwowzorze projektu. Wizyta u ekscentrycznej aktorki szybko przeradza się w coś więcej niż zwykły wywiad.\n\n„Miłość, śmierć i dojrzewanie w Camp Miasma” zadebiutowała na festiwalu w Cannes, gdzie szturmem zdobyła serca krytyków i widzów – a także prestiżową nominację w sekcji Un Certain Regard. Najnowszy film Jane Shoenbrun (twórcy docenianego „W blasku ekranu”) ma obecnie 100% pozytywnych recenzji na Rotten Tomatoes, a widzowie wychodzą z seansów zachwyceni.\n\nChoć film Shoenbrun opowiada o powstawaniu fikcyjnej serii horrorów, sam w sobie horrorem nie jest, a zaledwie czerpie z jego estetyki. To przepiękna pod względem wizualnym kinofilska uczta opowiadająca przede wszystkim o bezgranicznej miłości do kina. I o tym, jak ta miłość zmienia nasze życie.\n\nW centrum tej opowieści stoją dwie aktorki reprezentujące dwa różne pokolenia. Legendarna Gillian Anderson wciela się w rolę ekscentrycznej diwy, a znana z serialu „Hacks” Hannah Einbinder w niepewną swojej pozycji, ale utalentowaną reżyserkę. Razem tworzą najbardziej elektryzujący ekranowy duet tego roku.",

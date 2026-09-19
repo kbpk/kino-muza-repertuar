@@ -1,12 +1,12 @@
 {
   "schemaVersion": 1,
   "date": "2026-09-30",
-  "updatedAt": "2026-09-18T19:01:35.142Z",
+  "updatedAt": "2026-09-19T13:56:17.839Z",
   "source": "https://www.kinomuza.pl/repertoire/day/",
   "day": {
-    "id": "12",
+    "id": "11",
     "date": "30.09",
-    "now": "2026-09-18 21:01:22",
+    "now": "2026-09-19 15:55:42",
     "info": [],
     "repertoire": [
       {
@@ -53,7 +53,7 @@
               "Dramat"
             ],
             "rating": 7,
-            "votes": 935
+            "votes": 1072
           },
           "rottenTomatoes": null
         },

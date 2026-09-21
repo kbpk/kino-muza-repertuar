@@ -1,0 +1,52 @@
+{
+  "schemaVersion": 1,
+  "date": "2026-10-01",
+  "updatedAt": "2026-09-21T16:27:29.259Z",
+  "source": "https://www.kinomuza.pl/repertoire/day/",
+  "day": {
+    "id": "10",
+    "date": "01.10",
+    "now": "2026-09-21 18:27:00",
+    "info": [],
+    "repertoire": [
+      {
+        "hour": "17:00",
+        "datetime": "2026-10-01 17:00:00",
+        "title": "Rozmowy z Fujisan",
+        "originalTitle": "Conversations with Fujisan",
+        "director": "Adam Frankiewicz i Zofia Tomczyk",
+        "year": "",
+        "premiereDate": "",
+        "duration": "55",
+        "countries": "",
+        "shortDesc": "<p>Rozmowy z Fujisan to film dokumentalny o słuchaniu świata poprzez nagrania terenowe.</p>\n",
+        "lang": "pl",
+        "subtitlesLang": "en",
+        "age": "16",
+        "credits": "reż. Adam Frankiewicz i Zofia Tomczyk <br>55’",
+        "desc": "<p>Rozmowy z Fujisan to film dokumentalny o słuchaniu świata poprzez nagrania terenowe.</p>\n",
+        "hall": "2",
+        "movieLink": "https://www.kinomuza.pl/?post_type=movie&p=105476",
+        "ticketLink": "",
+        "prePremier": false,
+        "tape35mm": false,
+        "ad": false,
+        "deaf": false,
+        "ticketPrice": "",
+        "ticketHalfPrice": "",
+        "alt": "Rozmowy z Fujisan",
+        "thumb": "https://www.kinomuza.pl/content/uploads/2026/09/fuj-1-800x450.jpg",
+        "description": "Rozmowy z Fujisan to film dokumentalny o słuchaniu świata poprzez nagrania terenowe.",
+        "shortDescription": "Rozmowy z Fujisan to film dokumentalny o słuchaniu świata poprzez nagrania terenowe.",
+        "genres": [],
+        "external": {
+          "imdb": null,
+          "filmweb": null,
+          "rottenTomatoes": null
+        },
+        "longDescription": "Rozmowy z Fujisan to film dokumentalny o słuchaniu świata poprzez nagrania terenowe.",
+        "poster": ""
+      }
+    ]
+  }
+}

@@ -1,0 +1,79 @@
+{
+  "schemaVersion": 1,
+  "date": "2026-10-14",
+  "updatedAt": "2026-09-21T16:27:29.259Z",
+  "source": "https://www.kinomuza.pl/repertoire/day/",
+  "day": {
+    "id": "23",
+    "date": "14.10",
+    "now": "2026-09-21 18:27:05",
+    "info": [],
+    "repertoire": [
+      {
+        "hour": "20:00",
+        "datetime": "2026-10-14 20:00:00",
+        "title": "Róża",
+        "originalTitle": "Rose",
+        "director": "Markus Schleinzer",
+        "year": "2026",
+        "premiereDate": "2026-10-09",
+        "duration": "93",
+        "countries": "Niemcy, Austria",
+        "shortDesc": "<p>Oto prawdziwa historia oszustki, która zwodziła władze i lud. Urodziła się kobietą, acz nosiła po męsku i pod fałszywym imieniem dopuściła wielu niecnych czynów.</p>\n",
+        "lang": "de",
+        "subtitlesLang": "pl",
+        "age": "16",
+        "credits": "reż. Markus Schleinzer <br>Niemcy, Austria <br>2026,93’",
+        "desc": "<p>Oto prawdziwa historia oszustki, która zwodziła władze i lud. Urodziła się kobietą, acz nosiła po męsku i pod fałszywym imieniem dopuściła wielu niecnych czynów.</p>\n",
+        "hall": "1",
+        "movieLink": "https://www.kinomuza.pl/movie/roza/",
+        "ticketLink": "https://estradapoznan.bilety24.pl/kup-bilety/?id=992416#total",
+        "prePremier": false,
+        "tape35mm": false,
+        "ad": false,
+        "deaf": false,
+        "ticketPrice": "",
+        "ticketHalfPrice": "",
+        "alt": "Róża",
+        "thumb": "https://www.kinomuza.pl/content/uploads/2026/08/róża-1-800x450.jpg",
+        "cycle": "filozoficzne środy z Gutek Film",
+        "description": "Oto prawdziwa historia oszustki, która zwodziła władze i lud. Urodziła się kobietą, acz nosiła po męsku i pod fałszywym imieniem dopuściła wielu niecnych czynów.",
+        "shortDescription": "Oto prawdziwa historia oszustki, która zwodziła władze i lud. Urodziła się kobietą, acz nosiła po męsku i pod fałszywym imieniem dopuściła wielu niecnych czynów.",
+        "genres": [
+          "Dramat historyczny"
+        ],
+        "external": {
+          "imdb": {
+            "id": "tt25399154",
+            "url": "https://www.imdb.com/title/tt25399154/",
+            "rating": 7.5,
+            "votes": 1579
+          },
+          "filmweb": {
+            "id": "10113205",
+            "url": "https://www.filmweb.pl/film/R%C3%B3%C5%BCa-2026-10113205",
+            "genres": [
+              "Dramat historyczny"
+            ],
+            "rating": 7.1,
+            "votes": 767
+          },
+          "rottenTomatoes": {
+            "url": "https://www.rottentomatoes.com/m/rose_2026",
+            "title": "Rose (2026)",
+            "year": "",
+            "directors": [
+              "Markus Schleinzer"
+            ],
+            "criticsRating": 100,
+            "criticsVotes": 26,
+            "audienceRating": null,
+            "audienceVotes": null
+          }
+        },
+        "longDescription": "Oto prawdziwa historia oszustki, która zwodziła władze i lud. Urodziła się kobietą, acz nosiła po męsku i pod fałszywym imieniem dopuściła wielu niecnych czynów.\n\n„Róża” to jeden z najgłośniejszych tytułów ostatniego Berlinale za sprawą brawurowej roli Sandry Hüller, nagrodzonej Srebrnym Niedźwiedziem za tytułową kreację. Aktorka znana z „Anatomii upadku”, „Projektu Hail Mary”, „Strefy interesów” i „Toniego Erdmanna” wciela się tym razem w tajemniczego żołnierza. Do tej roli przeszła nie tylko niezwykłą fizyczną metamorfozę, ukrywając kobiecość pod męskim strojem, ale też fenomenalnie połączyła szorstkość z łagodnością i humorem.\n\nDo położonej na uboczu wsi przybywa naznaczony wojną żołnierz, który podaje się za spadkobiercę porzuconego gospodarstwa. Obcy budzi początkowo nieufność, ale szybko przekonuje do siebie wieśniaków dzięki przywiezionym dokumentom, niepospolitej pracowitości i gotowości, by podporządkować się surowym regułom protestanckiej wspólnoty. W okrutnych realiach XVII-wiecznych Niemiec ktoś, kto nie ma żadnych praw, może być sobą wyłącznie w przebraniu – dlatego tytułowa postać musi skrzętnie ukrywać swoją prawdziwą naturę i tożsamość.\n\n„Róża” jest przewrotną opowieścią o cenie wolności i o odwadze życia na własnych zasadach. Kwestionujący patriarchalny przywilej i binarny podział płci, chłodno analizujący mechanizmy społeczne, film Markusa Schleinzera okazuje się zaskakująco współczesny. Choć minimalistyczny, to pieczołowicie odtwarza detale życia XVII-wiecznej niemieckiej wsi, a eleganckie, surowe zdjęcia budują gęstą atmosferę narastającego zagrożenia. Schleinzer, podobnie jak Robert Eggers, jest mistrzem stylizacji i niepokojącej aury. Dla obu historia bywa pretekstem do filmowej przypowieści o naszych czasach. „Róża” składa hołd tym, którzy przetarli nam ścieżki, ale też przypomina, że prawo do bycia sobą jest zdobyczą, o którą wciąż trzeba walczyć.",
+        "poster": "media/posters/774badb86fa96b1bd72d.webp"
+      }
+    ]
+  }
+}

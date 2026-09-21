@@ -1,12 +1,12 @@
 {
   "schemaVersion": 1,
   "date": "2026-09-29",
-  "updatedAt": "2026-09-20T18:43:56.156Z",
+  "updatedAt": "2026-09-21T20:33:43.729Z",
   "source": "https://www.kinomuza.pl/repertoire/day/",
   "day": {
-    "id": "09",
+    "id": "08",
     "date": "29.09",
-    "now": "2026-09-20 20:43:48",
+    "now": "2026-09-21 22:33:13",
     "info": [],
     "repertoire": [
       {
@@ -56,7 +56,7 @@
               "Komedia obycz."
             ],
             "rating": 7.7,
-            "votes": 33270
+            "votes": 33272
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/konopielka_1982",

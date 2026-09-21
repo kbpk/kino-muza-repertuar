@@ -1,12 +1,12 @@
 {
   "schemaVersion": 1,
   "date": "2026-09-30",
-  "updatedAt": "2026-09-20T18:43:56.156Z",
+  "updatedAt": "2026-09-21T20:33:43.729Z",
   "source": "https://www.kinomuza.pl/repertoire/day/",
   "day": {
-    "id": "10",
+    "id": "09",
     "date": "30.09",
-    "now": "2026-09-20 20:43:50",
+    "now": "2026-09-21 22:33:13",
     "info": [],
     "repertoire": [
       {
@@ -53,7 +53,7 @@
               "Kryminał"
             ],
             "rating": 7,
-            "votes": 1222
+            "votes": 1379
           },
           "rottenTomatoes": null
         },

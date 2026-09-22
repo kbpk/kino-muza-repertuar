@@ -1,0 +1,776 @@
+{
+  "schemaVersion": 1,
+  "date": "2026-09-25",
+  "updatedAt": "2026-09-22T17:37:36.685Z",
+  "source": "https://www.kinomuza.pl/repertoire/day/",
+  "day": {
+    "id": "03",
+    "date": "25.09",
+    "now": "2026-09-22 19:36:53",
+    "info": [],
+    "repertoire": [
+      {
+        "hour": "14:30",
+        "datetime": "2026-09-25 14:30:00",
+        "title": "Gorzkie święta",
+        "originalTitle": "Bitter Christmas",
+        "director": "Pedro Almodóvar",
+        "year": "2026",
+        "premiereDate": "2026-08-28",
+        "duration": "111",
+        "countries": "Hiszpania",
+        "shortDesc": "<p>Pedro Almodóvar powraca w szczytowej formie z jednym ze swoich najbardziej osobistych filmów. Almodóvar składa tu poruszające wyznanie wiary w siłę kina, pamięci i narracji.</p>\n",
+        "lang": "es",
+        "subtitlesLang": "pl",
+        "age": "16",
+        "credits": "reż. Pedro Almodóvar <br>Hiszpania <br>2026,111’",
+        "desc": "<p>Pedro Almodóvar powraca w szczytowej formie z jednym ze swoich najbardziej osobistych filmów. Almodóvar składa tu poruszające wyznanie wiary w siłę kina, pamięci i narracji.</p>\n",
+        "hall": "2",
+        "movieLink": "https://www.kinomuza.pl/movie/gorzkie-swieta/",
+        "ticketLink": "https://estradapoznan.bilety24.pl/kup-bilety/?id=993313#total",
+        "prePremier": false,
+        "tape35mm": false,
+        "ad": false,
+        "deaf": false,
+        "ticketPrice": "",
+        "ticketHalfPrice": "",
+        "alt": "Gorzkie święta",
+        "thumb": "https://www.kinomuza.pl/content/uploads/2026/07/gorzkie-swieta-4-800x450.jpg",
+        "description": "Pedro Almodóvar powraca w szczytowej formie z jednym ze swoich najbardziej osobistych filmów. Almodóvar składa tu poruszające wyznanie wiary w siłę kina, pamięci i narracji.",
+        "shortDescription": "Pedro Almodóvar powraca w szczytowej formie z jednym ze swoich najbardziej osobistych filmów. Almodóvar składa tu poruszające wyznanie wiary w siłę kina, pamięci i narracji.",
+        "genres": [
+          "Komedia",
+          "Dramat"
+        ],
+        "external": {
+          "imdb": {
+            "id": "tt28088049",
+            "url": "https://www.imdb.com/title/tt28088049/",
+            "rating": 6.3,
+            "votes": 4888
+          },
+          "filmweb": {
+            "id": "10085499",
+            "url": "https://www.filmweb.pl/film/Gorzkie+%C5%9Bwi%C4%99ta-2026-10085499",
+            "genres": [
+              "Komedia",
+              "Dramat"
+            ],
+            "rating": 5.7,
+            "votes": 2240
+          },
+          "rottenTomatoes": {
+            "url": "https://www.rottentomatoes.com/m/bitter_christmas",
+            "title": "Bitter Christmas",
+            "year": "2026",
+            "directors": [
+              "Pedro Almodóvar"
+            ],
+            "criticsRating": 89,
+            "criticsVotes": 63,
+            "audienceRating": null,
+            "audienceVotes": null
+          }
+        },
+        "longDescription": "Pedro Almodóvar powraca w szczytowej formie z jednym ze swoich najbardziej osobistych filmów. W „Gorzkich świętach” – jego pierwszej od 5 lat hiszpańskojęzycznej produkcji – jest wszystko, za co widzowie kochają jego kino: namiętność, intensywne kolory, przewrotny humor i pełnokrwiste postaci, które wymykają się prostym schematom. Na ekranie pojawiają się aktorzy i aktorki znani z wcześniejszych filmów reżysera: Bárbara Lennie, Leonardo Sbaraglia, Victoria Luengo, Aitana Sánchez-Gijón, Milena Smit oraz jedna z najważniejszych muz Almodóvara – Rossy de Palma.\n\nBohaterką filmu jest czterdziestoletnia Elza (Bárbara Lennie), która po śmierci matki rzuca się w wir pracy, nie pozwalając sobie na żałobę. Dopiero atak paniki zmusza ją do zatrzymania się i wyruszenia w podróż, która stanie się konfrontacją z przeszłością, utraconymi relacjami i niespełnionymi pragnieniami. Z przypadkowych spotkań, emocjonalnych zwrotów i splatających się życiorysów Almodóvar tka opowieść o tym, jak pamięć, fikcja i pragnienie nieustannie przepisują nasze życie.\n\n„Gorzkie święta” to szczególny prezent dla tych, którzy dorastali z kinem hiszpańskiego mistrza – od „Kobiet na skraju załamania nerwowego”, przez „Wszystko o mojej matce” i „Porozmawiaj z nią”, po „Volver”, „Przerwane objęcia” i „Ból i blask”. To także film, który idzie o krok dalej: jeszcze mocniej pokazuje, że każdy z nas nie tylko przeżywa własną historię, ale też bez końca ją sobie opowiada. Almodóvar składa tu poruszające wyznanie wiary w siłę kina, pamięci i narracji.\n\nFilm dostępny z audiodeskrypcją lub lektorem. Skorzystaj bezpłatnie z aplikacji Kino Dostępne 2.0 w Twoim telefonie – http://kinodostepne.pl",
+        "poster": "media/posters/3ec6053fecffef465d0a.webp"
+      },
+      {
+        "hour": "14:45",
+        "datetime": "2026-09-25 14:45:00",
+        "title": "Tony",
+        "originalTitle": "Tony",
+        "director": "Matt Johnson",
+        "year": "2026",
+        "premiereDate": "2026-09-04",
+        "duration": "106",
+        "countries": "USA",
+        "shortDesc": "<p>Młody Anthony Bourdain podczas upalnego lata 1976 roku odkrywa swoją pasję, powołanie i to, kim tak naprawdę jest.</p>\n",
+        "lang": "en",
+        "subtitlesLang": "pl",
+        "age": "16",
+        "credits": "reż.  Matt Johnson <br>USA <br>2026,106’",
+        "desc": "<p>Młody Anthony Bourdain podczas upalnego lata 1976 roku odkrywa swoją pasję, powołanie i to, kim tak naprawdę jest.</p>\n",
+        "hall": "1",
+        "movieLink": "https://www.kinomuza.pl/movie/tony/",
+        "ticketLink": "https://estradapoznan.bilety24.pl/kup-bilety/?id=993284#total",
+        "prePremier": false,
+        "tape35mm": false,
+        "ad": false,
+        "deaf": false,
+        "ticketPrice": "",
+        "ticketHalfPrice": "",
+        "alt": "Tony",
+        "thumb": "https://www.kinomuza.pl/content/uploads/2026/09/57ef7a282819ac320da3a5de72836119-800x450.jpg",
+        "description": "Młody Anthony Bourdain podczas upalnego lata 1976 roku odkrywa swoją pasję, powołanie i to, kim tak naprawdę jest.",
+        "shortDescription": "Młody Anthony Bourdain podczas upalnego lata 1976 roku odkrywa swoją pasję, powołanie i to, kim tak naprawdę jest.",
+        "genres": [
+          "Dramat",
+          "Biograficzny",
+          "Komedia"
+        ],
+        "external": {
+          "imdb": {
+            "id": "tt33095251",
+            "url": "https://www.imdb.com/title/tt33095251/",
+            "rating": 7.5,
+            "votes": 10761
+          },
+          "filmweb": {
+            "id": "10079933",
+            "url": "https://www.filmweb.pl/film/Tony-2026-10079933",
+            "genres": [
+              "Dramat",
+              "Biograficzny",
+              "Komedia"
+            ],
+            "rating": 7.1,
+            "votes": 6109
+          },
+          "rottenTomatoes": {
+            "url": "https://www.rottentomatoes.com/m/tony_2026",
+            "title": "Tony (2026)",
+            "year": "2026",
+            "directors": [
+              "Matt Johnson"
+            ],
+            "criticsRating": 93,
+            "criticsVotes": 230,
+            "audienceRating": 92,
+            "audienceVotes": 942
+          }
+        },
+        "longDescription": "Anthony Bourdain – buntownik, outsider, głos pokolenia, jeden z najbardziej znanych szefów kuchni i jedna z największych, najbardziej charyzmatycznych osobowości telewizyjnych. Podróżnik, pisarz, odkrywca, którego miliony ludzi na całym świecie pokochały za bezkompromisowy styl, miłość do życia, szacunek do ludzi, odwagę, ciekawość świata i autentyczność. „Tony” to historia początków jego drogi – kim był, zanim stał się Anthonym Bourdainem.\n\nUpalne lato 1976 roku, Provincetown – miasto pulsujące wolnością, seksem i energią. Młody, marzący o karierze pisarza, Tony (Dominic Sessa), by podreperować budżet, trafia na zmywak do restauracji serwującej owoce morza, prowadzonej przez tajemniczego szefa kuchni (Antonio Banderas). W intensywnej, chaotycznej, a jednocześnie niezwykle kreatywnej atmosferze Tony odkrywa swoją pasję, powołanie i to, kim tak naprawdę jest.\n\nFilm dostępny z audiodeskrypcją lub lektorem. Skorzystaj bezpłatnie z aplikacji Kino Dostępne 2.0 w Twoim telefonie – http://kinodostepne.pl",
+        "poster": "media/posters/4c5e33e77e2fa1c55b1f.webp"
+      },
+      {
+        "hour": "15:00",
+        "datetime": "2026-09-25 15:00:00",
+        "title": "Bez końca",
+        "originalTitle": "Closure",
+        "director": "Michał Marczak",
+        "year": "2026",
+        "premiereDate": "2026-09-11",
+        "duration": "108",
+        "countries": "Polska, Francja ",
+        "shortDesc": "<p>Daniel nie słyszał, jak jego syn Krzysiek wychodzi z domu i idzie na most, gdzie widziano go po raz ostatni. Odtąd Daniel i jego żona żyją w zawieszeniu między nadzieją a strachem.</p>\n",
+        "lang": "pl",
+        "subtitlesLang": "",
+        "age": "16",
+        "credits": "reż. Michał Marczak <br>Polska, Francja  <br>2026,108’",
+        "desc": "<p>Daniel nie słyszał, jak jego syn Krzysiek wychodzi z domu i idzie na most, gdzie widziano go po raz ostatni. Odtąd Daniel i jego żona żyją w zawieszeniu między nadzieją a strachem.</p>\n",
+        "hall": "3",
+        "movieLink": "https://www.kinomuza.pl/movie/bez-konca/",
+        "ticketLink": "https://estradapoznan.bilety24.pl/kup-bilety/?id=993352#total",
+        "prePremier": false,
+        "tape35mm": false,
+        "ad": false,
+        "deaf": false,
+        "ticketPrice": "",
+        "ticketHalfPrice": "",
+        "alt": "Bez końca",
+        "thumb": "https://www.kinomuza.pl/content/uploads/2026/03/closure-stills-0-2875099-closure-stills-dir-michal-marczak-01-main-800x450.jpeg",
+        "description": "Daniel nie słyszał, jak jego syn Krzysiek wychodzi z domu i idzie na most, gdzie widziano go po raz ostatni. Odtąd Daniel i jego żona żyją w zawieszeniu między nadzieją a strachem.",
+        "shortDescription": "Daniel nie słyszał, jak jego syn Krzysiek wychodzi z domu i idzie na most, gdzie widziano go po raz ostatni. Odtąd Daniel i jego żona żyją w zawieszeniu między nadzieją a strachem.",
+        "genres": [
+          "Dokumentalny"
+        ],
+        "external": {
+          "imdb": {
+            "id": "tt39075417",
+            "url": "https://www.imdb.com/title/tt39075417/",
+            "rating": 7.1,
+            "votes": 87
+          },
+          "filmweb": {
+            "id": "10081351",
+            "url": "https://www.filmweb.pl/film/Bez+ko%C5%84ca-2026-10081351",
+            "genres": [
+              "Dokumentalny"
+            ],
+            "rating": 7.3,
+            "votes": 857
+          },
+          "rottenTomatoes": {
+            "url": "https://www.rottentomatoes.com/m/closure_2026",
+            "title": "Closure (2026)",
+            "year": "",
+            "directors": [
+              "Michał Marczak"
+            ],
+            "criticsRating": 100,
+            "criticsVotes": 10,
+            "audienceRating": null,
+            "audienceVotes": null
+          }
+        },
+        "longDescription": "Daniel nie słyszał, jak jego szesnastoletni syn Krzysztof wychodzi nad ranem z domu. Nie wiedział, co zaciągnęło chłopaka na most nad Wisłą – wiedział tylko, że to tam widziano go po raz ostatni. Kamera CCTV uchwyciła go, a potem, między jednym jej obrotem a drugim, Krzysiek zniknął. Możliwości są dwie: albo skoczył do rzeki, albo ukradkiem zszedł z mostu. Od tamtej pory Daniel i jego żona Agnieszka żyją w stanie zawieszenia: między rozpaczliwą nadzieją a paraliżującym strachem. Daniel nie potrafi biernie czekać na coraz mniej prawdopodobny przełom w policyjnym śledztwie, buduje więc łódź wyposażoną w kamery i drony z zamiarem samodzielnego zbadania mrocznych głębin rzeki. To początek poszukiwań, które pochłoną go w całości. Dzień po dniu przeczesuje Wisłę, nieustannie rozwijając nowe narzędzia i techniki poszukiwawcze. Zaczynają odzywać się do niego inne rodziny uwięzione w tej samej otchłani niepewności i bez końca poszukujące odpowiedzi. Długie, samotne godziny spędzone na łodzi stają się dla Daniela szansą na rozliczenie z życiem sprzed zniknięcia Krzysztofa. Wraz z mijaniem kolejnych miesięcy jego ból tylko się pogłębia; ojciec zmaga się z ciągłym napięciem między niesłabnącym pędem do dalszych poszukiwań a bolesną rzeczywistością, w której nieodwracalna strata odmieni jego życie raz na zawsze.\n\nFilm dostępny z audiodeskrypcją lub lektorem. Skorzystaj bezpłatnie z aplikacji Kino Dostępne 2.0 w Twoim telefonie – http://kinodostepne.pl",
+        "poster": "media/posters/876f4065c3094089984b.webp"
+      },
+      {
+        "hour": "16:45",
+        "datetime": "2026-09-25 16:45:00",
+        "title": "Obcy",
+        "originalTitle": "L’étranger",
+        "director": "François Ozon",
+        "year": "2025",
+        "premiereDate": "2026-09-18",
+        "duration": "122",
+        "countries": "francja",
+        "shortDesc": "<p>Aktualna opowieść o poszukiwaniu sensu w świecie, w którym wszelki sens został zagubiony. Oszczędne dialogi i piękne czarno-białe zdjęcia, stanowiące hołd dla klasycznego kina.</p>\n",
+        "lang": "",
+        "subtitlesLang": "pl",
+        "age": "16",
+        "credits": "reż. François Ozon <br>francja <br>2025,122’",
+        "desc": "<p>Aktualna opowieść o poszukiwaniu sensu w świecie, w którym wszelki sens został zagubiony. Oszczędne dialogi i piękne czarno-białe zdjęcia, stanowiące hołd dla klasycznego kina.</p>\n",
+        "hall": "1",
+        "movieLink": "https://www.kinomuza.pl/movie/letranger/",
+        "ticketLink": "https://estradapoznan.bilety24.pl/kup-bilety/?id=993282#total",
+        "prePremier": false,
+        "tape35mm": false,
+        "ad": false,
+        "deaf": false,
+        "ticketPrice": "",
+        "ticketHalfPrice": "",
+        "alt": "Obcy",
+        "thumb": "https://www.kinomuza.pl/content/uploads/2026/05/obcy-1-800x450.jpg",
+        "description": "Aktualna opowieść o poszukiwaniu sensu w świecie, w którym wszelki sens został zagubiony. Oszczędne dialogi i piękne czarno-białe zdjęcia, stanowiące hołd dla klasycznego kina.",
+        "shortDescription": "Aktualna opowieść o poszukiwaniu sensu w świecie, w którym wszelki sens został zagubiony. Oszczędne dialogi i piękne czarno-białe zdjęcia, stanowiące hołd dla klasycznego kina.",
+        "genres": [
+          "Dramat",
+          "Kryminał"
+        ],
+        "external": {
+          "imdb": null,
+          "filmweb": {
+            "id": "10089279",
+            "url": "https://www.filmweb.pl/film/Obcy-2025-10089279",
+            "genres": [
+              "Dramat",
+              "Kryminał"
+            ],
+            "rating": 7,
+            "votes": 1497
+          },
+          "rottenTomatoes": null
+        },
+        "longDescription": "„Obcy” ( L’étranger ) to nowa ekranizacja jednej z najwybitniejszych francuskich powieści XX wieku autorstwa Alberta Camusa, opublikowanej w 1942 roku.\n\nFrançois Ozon opowiada historię Meursaulta, skromnego, niepozornego urzędnika, którego codziennej rutyny nie przerywa nawet śmierć matki. Do czasu, gdy pewnego gorącego dnia na plaży dochodzi do tragicznego zdarzenia. Adaptacja Ozona, która miała premierę w Konkursie Głównym festiwalu w Wenecji, to niezwykle aktualna opowieść o poszukiwaniu sensu w świecie, w którym wszelki sens został zagubiony. Oszczędne dialogi i piękne czarno-białe zdjęcia, stanowiące hołd dla klasycznego kina, budują wyjątkową atmosferę filmu. W rolach głównych Benjamin Voisin („Stracone złudzenia”, „Lato ‘85”) oraz Rebecca Marder („Moja zbrodnia”).",
+        "poster": "media/posters/8cef881389870c3fdbd8.webp"
+      },
+      {
+        "hour": "17:00",
+        "datetime": "2026-09-25 17:00:00",
+        "title": "Kura",
+        "originalTitle": "Hen",
+        "director": "György Pálfi",
+        "year": "2025",
+        "premiereDate": "2026-09-18",
+        "duration": "96",
+        "countries": "Niemcy, Grecja, Węgry",
+        "shortDesc": "<p>Pozornie bezbronne zwierzę ucieka z przemysłowej fermy drobiu w poszukiwaniu bezpiecznego miejsca, by wychować swoje pisklęta.</p>\n",
+        "lang": "",
+        "subtitlesLang": "pl",
+        "age": "16",
+        "credits": "reż. György Pálfi <br>Niemcy, Grecja, Węgry <br>2025,96’",
+        "desc": "<p>Pozornie bezbronne zwierzę ucieka z przemysłowej fermy drobiu w poszukiwaniu bezpiecznego miejsca, by wychować swoje pisklęta.</p>\n",
+        "hall": "2",
+        "movieLink": "https://www.kinomuza.pl/movie/kura/",
+        "ticketLink": "https://estradapoznan.bilety24.pl/kup-bilety/?id=993314#total",
+        "prePremier": false,
+        "tape35mm": false,
+        "ad": false,
+        "deaf": false,
+        "ticketPrice": "",
+        "ticketHalfPrice": "",
+        "alt": "Kura",
+        "thumb": "https://www.kinomuza.pl/content/uploads/2026/08/kura-2-800x450.jpg",
+        "description": "Pozornie bezbronne zwierzę ucieka z przemysłowej fermy drobiu w poszukiwaniu bezpiecznego miejsca, by wychować swoje pisklęta.",
+        "shortDescription": "Pozornie bezbronne zwierzę ucieka z przemysłowej fermy drobiu w poszukiwaniu bezpiecznego miejsca, by wychować swoje pisklęta.",
+        "genres": [
+          "Dramat"
+        ],
+        "external": {
+          "imdb": {
+            "id": "tt29283995",
+            "url": "https://www.imdb.com/title/tt29283995/",
+            "rating": 7,
+            "votes": 1573
+          },
+          "filmweb": {
+            "id": "10093851",
+            "url": "https://www.filmweb.pl/film/Kura-2025-10093851",
+            "genres": [
+              "Dramat"
+            ],
+            "rating": 6.8,
+            "votes": 618
+          },
+          "rottenTomatoes": {
+            "url": "https://www.rottentomatoes.com/m/hen",
+            "title": "Hen",
+            "year": "",
+            "directors": [
+              "Gyorgy Palfi"
+            ],
+            "criticsRating": 100,
+            "criticsVotes": 13,
+            "audienceRating": null,
+            "audienceVotes": 14
+          }
+        },
+        "longDescription": "Główną bohaterką nowego filmu cenionego węgierskiego reżysera Györgya Pálfiego jest tytułowa kura. Pozornie bezbronne zwierzę ucieka z przemysłowej fermy drobiu w poszukiwaniu bezpiecznego miejsca, by wychować swoje pisklęta.\n\nTrafia do greckiej nadmorskiej wioski, gdzie schwytana zostaje przez właściciela podupadłej restauracji i siłą rzeczy „wchodzi” do ludzkiego świata. Jest uważną obserwatorką zupełnie obcej dla niej rzeczywistości. Staje się też niemym świadkiem ludzkich dramatów, związanych z kryzysem migracyjnym, rodzinnymi konfliktami czy chciwością. W rolę głównej bohaterki wcieliło się osiem prawdziwych węgierskich kur: Eszti, Szandi, Feri, Enci, Eti, Enikő, Nóra i Anett. \n\nPrzyjmując nieoczywistą perspektywę, Pálfi opowiada o uniwersalnych wartościach – wolności, bezpieczeństwie, macierzyństwie – jakich poszukują jak widać nie tylko ludzie. Węgierski reżyser odważnie łączy filmowe gatunki, tworząc historię, która z jednej strony może nas bawić, a z drugiej jest prawdziwie poruszająca.",
+        "poster": "media/posters/798db284e44940a8ad04.webp"
+      },
+      {
+        "hour": "17:00",
+        "datetime": "2026-09-25 17:00:00",
+        "title": "Ojczyzna",
+        "originalTitle": "Fatherland",
+        "director": "Paweł Pawlikowski",
+        "year": "2026",
+        "premiereDate": "2026-06-19",
+        "duration": "82",
+        "countries": "Polska, Niemcy, Włochy, Francja ",
+        "shortDesc": "<p>Opowieść o relacjach między Mannem, laureatem Nagrody Nobla w dziedzinie literatury, a jego córką Eriką, aktorką i pisarką. Akcja rozgrywa się w szczytowym okresie zimnej wojny.</p>\n",
+        "lang": "de",
+        "subtitlesLang": "pl",
+        "age": "16",
+        "credits": "reż. Paweł Pawlikowski  <br>Polska, Niemcy, Włochy, Francja  <br>2026,82’",
+        "desc": "<p>Opowieść o relacjach między Mannem, laureatem Nagrody Nobla w dziedzinie literatury, a jego córką Eriką, aktorką i pisarką. Akcja rozgrywa się w szczytowym okresie zimnej wojny.</p>\n",
+        "hall": "3",
+        "movieLink": "https://www.kinomuza.pl/movie/ojczyzna/",
+        "ticketLink": "https://estradapoznan.bilety24.pl/kup-bilety/?id=993354#total",
+        "prePremier": false,
+        "tape35mm": false,
+        "ad": false,
+        "deaf": false,
+        "ticketPrice": "",
+        "ticketHalfPrice": "",
+        "alt": "Ojczyzna",
+        "thumb": "https://www.kinomuza.pl/content/uploads/2026/05/ojczyzna-1-800x450.jpg",
+        "description": "Opowieść o relacjach między Mannem, laureatem Nagrody Nobla w dziedzinie literatury, a jego córką Eriką, aktorką i pisarką. Akcja rozgrywa się w szczytowym okresie zimnej wojny.",
+        "shortDescription": "Opowieść o relacjach między Mannem, laureatem Nagrody Nobla w dziedzinie literatury, a jego córką Eriką, aktorką i pisarką. Akcja rozgrywa się w szczytowym okresie zimnej wojny.",
+        "genres": [
+          "Dramat"
+        ],
+        "external": {
+          "imdb": {
+            "id": "tt37304295",
+            "url": "https://www.imdb.com/title/tt37304295/",
+            "rating": 7.3,
+            "votes": 1890
+          },
+          "filmweb": {
+            "id": "10074985",
+            "url": "https://www.filmweb.pl/film/Ojczyzna-2026-10074985",
+            "genres": [
+              "Dramat"
+            ],
+            "rating": 6.9,
+            "votes": 7795
+          },
+          "rottenTomatoes": {
+            "url": "https://www.rottentomatoes.com/m/fatherland_2026",
+            "title": "Fatherland (2026)",
+            "year": "2026",
+            "directors": [
+              "Paweł Pawlikowski"
+            ],
+            "criticsRating": 96,
+            "criticsVotes": 48,
+            "audienceRating": null,
+            "audienceVotes": null
+          }
+        },
+        "longDescription": "Najnowszy, długo wyczekiwany film laureata Oscara, Pawła Pawlikowskiego, twórcy „Idy” i „Zimnej wojny”, który powalczy o jedną z najważniejszych nagród filmowych na świecie – Złotą Palmę (Palme d’Or) na tegorocznym 79. Międzynarodowym Festiwalu Filmowym w Cannes.\n\nPoprzedni film Pawlikowskiego, „Zimna wojna”, w Polsce również dystrybuowany przez Kino Świat, oprócz spektakularnego sukcesu międzynarodowego (52 nagrody i 126 nominacje, w tym do Oscara® dla najlepszego filmu nieanglojęzycznego, za najlepszą reżyserię i najlepsze zdjęcia) podbił serca polskiej publiczności, przyciągając do kin ponad 1 milion widzów.\n\nW swoim najnowszym dziele, podobnie jak w „Idzie” i „Zimnej wojnie”, reżyser podejmuje tematy tożsamości, winy, rodziny i miłości na tle chaosu i moralnego zagubienia powojennej Europy.\n\nW rolach głównych zobaczymy nominowaną do Oscara® Sandrę Hüller („Strefa interesów”, „Anatomia upadku”, „Projekt Hail Mary”) i Hannsa Zischlera („Monachium”). Scenariusz napisali Paweł Pawlikowski i Henk Handloegten. Do realizacji filmu reżyser ponownie zaprosił swój wieloletni zespół twórczy – nominowanego do Oscara® operatora Łukasza Żala („Hamnet”), kostiumografkę Aleksandrę Staszko („Ministranci”) oraz scenografów Katarzynę Sobańską i Marcela Sławińskiego („Lalka”).\n\n„Ojczyzna” opowiada o relacji między Thomasem Mannem (Hanns Zischler), laureatem Nagrody Nobla w dziedzinie literatury, a jego córką Eriką (Sandra Hüller) – aktorką i pisarką. Akcja rozgrywa się w szczytowym okresie zimnej wojny. Ojciec i córka wyruszają w trudną, pełną emocji podróż czarnym Buickiem przez zrujnowane Niemcy – z Frankfurtu pod kontrolą amerykańską do Weimaru pod wpływem sowieckim. Po raz pierwszy od zakończenia wojny Mann wraca do swojej ojczyzny, po tym jak podjął wcześniej trudną decyzję o emigracji do Stanów Zjednoczonych.\n\nFilm dostępny z audiodeskrypcją lub lektorem. Skorzystaj bezpłatnie z aplikacji Kino Dostępne 2.0 w Twoim telefonie – http://kinodostepne.pl",
+        "poster": "media/posters/9e96a2c7e4e71b13250e.webp"
+      },
+      {
+        "hour": "18:30",
+        "datetime": "2026-09-25 18:30:00",
+        "title": "Hamnet",
+        "originalTitle": "",
+        "director": "Chloé Zhao",
+        "year": "2025",
+        "premiereDate": "2026-01-23",
+        "duration": "125",
+        "countries": "Wielka Brytania",
+        "shortDesc": "<p>Poruszająca historia miłości Williama, ambitnego dramaturga i jego żony Agnes. Ich idylliczne życie zostaje zburzone, gdy wybucha epidemia dżumy, która dotyka ich dzieci.</p>\n",
+        "lang": "en",
+        "subtitlesLang": "pl",
+        "age": "16",
+        "credits": "reż. Chloé Zhao <br>Wielka Brytania <br>2025,125’",
+        "desc": "<p>Poruszająca historia miłości Williama, ambitnego dramaturga i jego żony Agnes. Ich idylliczne życie zostaje zburzone, gdy wybucha epidemia dżumy, która dotyka ich dzieci.</p>\n",
+        "hall": "3",
+        "movieLink": "https://www.kinomuza.pl/movie/hamnet/",
+        "ticketLink": "https://estradapoznan.bilety24.pl/kup-bilety/?id=993353#total",
+        "prePremier": false,
+        "tape35mm": false,
+        "ad": false,
+        "deaf": false,
+        "ticketPrice": "",
+        "ticketHalfPrice": "",
+        "alt": "Hamnet",
+        "thumb": "https://www.kinomuza.pl/content/uploads/2025/10/kadry-1-1-800x450.jpg",
+        "description": "Poruszająca historia miłości Williama, ambitnego dramaturga i jego żony Agnes. Ich idylliczne życie zostaje zburzone, gdy wybucha epidemia dżumy, która dotyka ich dzieci.",
+        "shortDescription": "Poruszająca historia miłości Williama, ambitnego dramaturga i jego żony Agnes. Ich idylliczne życie zostaje zburzone, gdy wybucha epidemia dżumy, która dotyka ich dzieci.",
+        "genres": [
+          "Biograficzny",
+          "Dramat",
+          "Kostiumowy"
+        ],
+        "external": {
+          "imdb": {
+            "id": "tt14905854",
+            "url": "https://www.imdb.com/title/tt14905854/",
+            "rating": 7.8,
+            "votes": 135504
+          },
+          "filmweb": {
+            "id": "10035555",
+            "url": "https://www.filmweb.pl/film/Hamnet-2025-10035555",
+            "genres": [
+              "Biograficzny",
+              "Dramat",
+              "Kostiumowy"
+            ],
+            "rating": 7.6,
+            "votes": 29250
+          },
+          "rottenTomatoes": {
+            "url": "https://www.rottentomatoes.com/m/hamnet",
+            "title": "Hamnet",
+            "year": "2025",
+            "directors": [
+              "Chloé Zhao"
+            ],
+            "criticsRating": 86,
+            "criticsVotes": 353,
+            "audienceRating": 93,
+            "audienceVotes": 2674
+          }
+        },
+        "longDescription": "Film Hamnet, autorstwa nagrodzonej Oscarem® scenarzystki i reżyserki Chloé Zhao (Nomadland)., opowiada poruszającą historię miłosną, która zainspirowała Szekspira do stworzenia ponadczasowego arcydzieła Hamlet.\n\nTo poruszająca historię miłości Williama, ambitnego dramaturga i jego żony Agnes. Ich idylliczne życie zostaje zburzone, gdy wybucha epidemia dżumy, która dotyka ich dzieci, Hamneta i Judith. Po latach William pisze nową sztukę zatytułowaną Hamlet, aby poradzić sobie z żałobą.\n\nFilm powstał na podstawie bestsellerowej powieści Maggie O’Farrell z 2020 roku, która sprzedała się w 2 milionach egzemplarzy w Wielkiej Brytanii i USA oraz została przetłumaczona na 40 języków.\n\nW głównych rolach występują: Jessie Buckley, Paul Mescal, Emily Watson i Joe Alwyn.",
+        "poster": "media/posters/d468745e383f9771eca2.webp"
+      },
+      {
+        "hour": "18:45",
+        "datetime": "2026-09-25 18:45:00",
+        "title": "Obcy",
+        "originalTitle": "L’étranger",
+        "director": "François Ozon",
+        "year": "2025",
+        "premiereDate": "2026-09-18",
+        "duration": "122",
+        "countries": "francja",
+        "shortDesc": "<p>Aktualna opowieść o poszukiwaniu sensu w świecie, w którym wszelki sens został zagubiony. Oszczędne dialogi i piękne czarno-białe zdjęcia, stanowiące hołd dla klasycznego kina.</p>\n",
+        "lang": "",
+        "subtitlesLang": "pl",
+        "age": "16",
+        "credits": "reż. François Ozon <br>francja <br>2025,122’",
+        "desc": "<p>Aktualna opowieść o poszukiwaniu sensu w świecie, w którym wszelki sens został zagubiony. Oszczędne dialogi i piękne czarno-białe zdjęcia, stanowiące hołd dla klasycznego kina.</p>\n",
+        "hall": "2",
+        "movieLink": "https://www.kinomuza.pl/movie/letranger/",
+        "ticketLink": "https://estradapoznan.bilety24.pl/kup-bilety/?id=993315#total",
+        "prePremier": false,
+        "tape35mm": false,
+        "ad": false,
+        "deaf": false,
+        "ticketPrice": "",
+        "ticketHalfPrice": "",
+        "alt": "Obcy",
+        "thumb": "https://www.kinomuza.pl/content/uploads/2026/05/obcy-1-800x450.jpg",
+        "description": "Aktualna opowieść o poszukiwaniu sensu w świecie, w którym wszelki sens został zagubiony. Oszczędne dialogi i piękne czarno-białe zdjęcia, stanowiące hołd dla klasycznego kina.",
+        "shortDescription": "Aktualna opowieść o poszukiwaniu sensu w świecie, w którym wszelki sens został zagubiony. Oszczędne dialogi i piękne czarno-białe zdjęcia, stanowiące hołd dla klasycznego kina.",
+        "genres": [
+          "Dramat",
+          "Kryminał"
+        ],
+        "external": {
+          "imdb": null,
+          "filmweb": {
+            "id": "10089279",
+            "url": "https://www.filmweb.pl/film/Obcy-2025-10089279",
+            "genres": [
+              "Dramat",
+              "Kryminał"
+            ],
+            "rating": 7,
+            "votes": 1497
+          },
+          "rottenTomatoes": null
+        },
+        "longDescription": "„Obcy” ( L’étranger ) to nowa ekranizacja jednej z najwybitniejszych francuskich powieści XX wieku autorstwa Alberta Camusa, opublikowanej w 1942 roku.\n\nFrançois Ozon opowiada historię Meursaulta, skromnego, niepozornego urzędnika, którego codziennej rutyny nie przerywa nawet śmierć matki. Do czasu, gdy pewnego gorącego dnia na plaży dochodzi do tragicznego zdarzenia. Adaptacja Ozona, która miała premierę w Konkursie Głównym festiwalu w Wenecji, to niezwykle aktualna opowieść o poszukiwaniu sensu w świecie, w którym wszelki sens został zagubiony. Oszczędne dialogi i piękne czarno-białe zdjęcia, stanowiące hołd dla klasycznego kina, budują wyjątkową atmosferę filmu. W rolach głównych Benjamin Voisin („Stracone złudzenia”, „Lato ‘85”) oraz Rebecca Marder („Moja zbrodnia”).",
+        "poster": "media/posters/8cef881389870c3fdbd8.webp"
+      },
+      {
+        "hour": "19:00",
+        "datetime": "2026-09-25 19:00:00",
+        "title": "Hot Spot",
+        "originalTitle": "",
+        "director": "Agnieszka Smoczyńska",
+        "year": "2026",
+        "premiereDate": "2026-09-25",
+        "duration": "100",
+        "countries": "Polska, Grecja",
+        "shortDesc": "<p>Futurystyczny thriller science-fiction, którego akcja rozgrywa się w niedalekiej przyszłości, gdzie porządek społeczny wyznacza świadoma sztuczna inteligencja.</p>\n",
+        "lang": "",
+        "subtitlesLang": "pl",
+        "age": "16",
+        "credits": "reż. Agnieszka Smoczyńska <br>Polska, Grecja <br>2026,100’",
+        "desc": "<p>Futurystyczny thriller science-fiction, którego akcja rozgrywa się w niedalekiej przyszłości, gdzie porządek społeczny wyznacza świadoma sztuczna inteligencja.</p>\n",
+        "hall": "1",
+        "movieLink": "https://www.kinomuza.pl/movie/hot-spot/",
+        "ticketLink": "https://estradapoznan.bilety24.pl/kup-bilety/?id=993283#total",
+        "prePremier": false,
+        "tape35mm": false,
+        "ad": false,
+        "deaf": false,
+        "ticketPrice": "",
+        "ticketHalfPrice": "",
+        "alt": "Hot Spot",
+        "thumb": "https://www.kinomuza.pl/content/uploads/2026/09/HOT-SPOT-3-800x450.jpg",
+        "description": "Futurystyczny thriller science-fiction, którego akcja rozgrywa się w niedalekiej przyszłości, gdzie porządek społeczny wyznacza świadoma sztuczna inteligencja.",
+        "shortDescription": "Futurystyczny thriller science-fiction, którego akcja rozgrywa się w niedalekiej przyszłości, gdzie porządek społeczny wyznacza świadoma sztuczna inteligencja.",
+        "genres": [
+          "Kryminał",
+          "Thriller",
+          "Sci-Fi"
+        ],
+        "external": {
+          "imdb": {
+            "id": "tt14119302",
+            "url": "https://www.imdb.com/title/tt14119302/",
+            "rating": 4,
+            "votes": 587
+          },
+          "filmweb": {
+            "id": "10069059",
+            "url": "https://www.filmweb.pl/film/Hot+Spot-2026-10069059",
+            "genres": [
+              "Kryminał",
+              "Thriller",
+              "Sci-Fi"
+            ],
+            "rating": 3.6,
+            "votes": 813
+          },
+          "rottenTomatoes": {
+            "url": "https://www.rottentomatoes.com/m/hot_spot_2026",
+            "title": "Hot Spot (2026)",
+            "year": "2026",
+            "directors": [
+              "Agnieszka Smoczynska"
+            ],
+            "criticsRating": 17,
+            "criticsVotes": 18,
+            "audienceRating": 25,
+            "audienceVotes": 61
+          }
+        },
+        "longDescription": "Agnieszka Smoczyńska powraca z nowym filmem do kina gatunkowego z energią, fantazją i bezczelnością, które uczyniły z „Córek dancingu” jeden z najbardziej kultowych polskich debiutów XXI wieku.\n\n„Hot Spot” to futurystyczny thriller science-fiction, którego akcja rozgrywa się w niedalekiej przyszłości, gdzie porządek społeczny wyznacza świadoma sztuczna inteligencja. Prywatny detektyw prowadzi śledztwo w sprawie morderstwa i trafia na grupę rebeliantów zdolnych podważyć władzę cyfrowego systemu. Im głębiej wnika w sprawę, tym bardziej przekonuje się, że w świecie zarządzanym przez algorytmy nic nie jest tym, czym się wydaje.\n\nW międzynarodowej obsadzie „Hot Spot” znaleźli się Andrzej Konopka („LARP. Miłość, trolle i inne questy”, „Córki dancingu”), Noomi Rapace („Dziewczyna z tatuażem”, „Prometeusz”) oraz Reika Kirishima („Drive My Car”, „Norwegian Wood”).\n\nAgnieszka Smoczyńska to jedna z najbardziej oryginalnych reżyserek współczesnego kina europejskiego – twórczyni nagradzanych „Córek dancingu”, „Fugi” i „The Silent Twins”. „Hot Spot” będzie kolejnym efektem współpracy jej nieokiełznanej wyobraźni z wyjątkowym talentem Roberta Bolesty do opowiadania oryginalnych historii. Jego scenariusze m.in. „Ostatniej rodziny”, czy właśnie „Córek dancingu”, należą do najbardziej wyrazistych zjawisk w panoramie współczesnego polskiego kina.\n\n„Hot Spot”, pomimo międzynarodowego charakteru, w większości powstał dzięki pracy w kluczowych pionach produkcji uznanych specjalistów polskiej branży filmowej, którzy odpowiadali za kluczowe piony produkcyjne. Autorem zdjęć jest wieloletni współpracownik reżyserki Jakub Kijowski, montażu – Beata Liszewska, udźwiękowienia – Marcin Lenarczyk. Muzykę skomponowali Marcin Macuk i Zuzanna Wrońska. Efekty specjalne powstały w Polsce pod nadzorem Szymona Kani z PFX. Za warstwę wizualną filmu odpowiadają również Anna Anosowicz i Katarzyna Lewińska, autorki odpowiednio scenografii i kostiumów.\n\nŚwiatowa premiera „Hot Spot” odbyła się na Fantasia International Film Festival w Kanadzie, gdzie film zdobył Specjalne Wyróżnienie Jury. Organizowany od 1996 roku w Montrealu festiwal należy do najważniejszych i najbardziej prestiżowych wydarzeń na świecie poświęconych kinu gatunkowemu, ze szczególnym uwzględnieniem horroru, science fiction i fantasy. To właśnie tutaj swoje filmy prezentowali m.in. Bong Joon-ho, Guillermo del Toro czy Park Chan-wook.\n\nW Polsce „Hot Spot” zawita najpierw na MFF Nowe Horyzonty oraz Festiwal Filmu i Sztuki Dwa Brzegi, a następnie zostanie zaprezentowany w Konkursie Głównym Festiwalu Polskich Filmów Fabularnych w Gdyni, by trafić do szerokiej dystrybucji kinowej już 25 września.\n\nFilm dostępny z audiodeskrypcją lub lektorem. Skorzystaj bezpłatnie z aplikacji Kino Dostępne 2.0 w Twoim telefonie – http://kinodostepne.pl",
+        "poster": "media/posters/427ac5cb1e9cf0aae3fb.webp"
+      },
+      {
+        "hour": "20:45",
+        "datetime": "2026-09-25 20:45:00",
+        "title": "Miłość, śmierć i dojrzewanie w camp Miasma",
+        "originalTitle": "Teenage Sex and Death at Camp Miasma",
+        "director": "Jane Schoenbrun",
+        "year": "2026",
+        "premiereDate": "2026-09-04",
+        "duration": "106",
+        "countries": "USA",
+        "shortDesc": "<p>Na dnie jeziora jest dziura. To z niej pochodzą filmy. Przygotujcie się na Małą Śmierć.</p>\n",
+        "lang": "en",
+        "subtitlesLang": "pl",
+        "age": "16",
+        "credits": "reż.  Jane Schoenbrun <br>USA <br>2026,106’",
+        "desc": "<p>Na dnie jeziora jest dziura. To z niej pochodzą filmy. Przygotujcie się na Małą Śmierć.</p>\n",
+        "hall": "3",
+        "movieLink": "https://www.kinomuza.pl/movie/milosc-smierc-i-dojrzewanie-na-camp-miasma/",
+        "ticketLink": "https://estradapoznan.bilety24.pl/kup-bilety/?id=993355#total",
+        "prePremier": false,
+        "tape35mm": false,
+        "ad": false,
+        "deaf": false,
+        "ticketPrice": "",
+        "ticketHalfPrice": "",
+        "alt": "Miłość, śmierć i dojrzewanie w camp Miasma",
+        "thumb": "https://www.kinomuza.pl/content/uploads/2026/08/camp-1-800x450.jpg",
+        "description": "Na dnie jeziora jest dziura. To z niej pochodzą filmy. Przygotujcie się na Małą Śmierć.",
+        "shortDescription": "Na dnie jeziora jest dziura. To z niej pochodzą filmy. Przygotujcie się na Małą Śmierć.",
+        "genres": [
+          "Czarna komedia"
+        ],
+        "external": {
+          "imdb": {
+            "id": "tt35298123",
+            "url": "https://www.imdb.com/title/tt35298123/",
+            "rating": 6.9,
+            "votes": 11969
+          },
+          "filmweb": {
+            "id": "10114411",
+            "url": "https://www.filmweb.pl/film/Mi%C5%82o%C5%9B%C4%87%2C+%C5%9Bmier%C4%87+i+dojrzewanie+w+Camp+Miasma-2026-10114411",
+            "genres": [
+              "Czarna komedia"
+            ],
+            "rating": 6.8,
+            "votes": 2607
+          },
+          "rottenTomatoes": {
+            "url": "https://www.rottentomatoes.com/m/teenage_sex_and_death_at_camp_miasma",
+            "title": "Teenage Sex and Death at Camp Miasma",
+            "year": "2026",
+            "directors": [
+              "Jane Schoenbrun"
+            ],
+            "criticsRating": 94,
+            "criticsVotes": 269,
+            "audienceRating": 79,
+            "audienceVotes": 536
+          }
+        },
+        "longDescription": "Na dnie jeziora jest dziura. To z niej pochodzą filmy.\n\nMłoda, utalentowana reżyserka Kris (Hannah Einbinder) dostaje od studia filmowego szansę życia – ma nakręcić remake kultowej serii horrorów „Camp Miasma”, która cieszyła się ogromną popularnością w latach osiemdziesiątych i dziewięćdziesiątych. Aby znaleźć inspirację, udaje się na spotkanie z Billy (Gillian Anderson), która grała główną rolę w pierwowzorze projektu. Wizyta u ekscentrycznej aktorki szybko przeradza się w coś więcej niż zwykły wywiad.\n\n„Miłość, śmierć i dojrzewanie w Camp Miasma” zadebiutowała na festiwalu w Cannes, gdzie szturmem zdobyła serca krytyków i widzów – a także prestiżową nominację w sekcji Un Certain Regard. Najnowszy film Jane Shoenbrun (twórcy docenianego „W blasku ekranu”) ma obecnie 100% pozytywnych recenzji na Rotten Tomatoes, a widzowie wychodzą z seansów zachwyceni.\n\nChoć film Shoenbrun opowiada o powstawaniu fikcyjnej serii horrorów, sam w sobie horrorem nie jest, a zaledwie czerpie z jego estetyki. To przepiękna pod względem wizualnym kinofilska uczta opowiadająca przede wszystkim o bezgranicznej miłości do kina. I o tym, jak ta miłość zmienia nasze życie.\n\nW centrum tej opowieści stoją dwie aktorki reprezentujące dwa różne pokolenia. Legendarna Gillian Anderson wciela się w rolę ekscentrycznej diwy, a znana z serialu „Hacks” Hannah Einbinder w niepewną swojej pozycji, ale utalentowaną reżyserkę. Razem tworzą najbardziej elektryzujący ekranowy duet tego roku.",
+        "poster": "media/posters/1294a835ebec7b71a0d9.webp"
+      },
+      {
+        "hour": "21:00",
+        "datetime": "2026-09-25 21:00:00",
+        "title": "Hot Spot",
+        "originalTitle": "",
+        "director": "Agnieszka Smoczyńska",
+        "year": "2026",
+        "premiereDate": "2026-09-25",
+        "duration": "100",
+        "countries": "Polska, Grecja",
+        "shortDesc": "<p>Futurystyczny thriller science-fiction, którego akcja rozgrywa się w niedalekiej przyszłości, gdzie porządek społeczny wyznacza świadoma sztuczna inteligencja.</p>\n",
+        "lang": "",
+        "subtitlesLang": "pl",
+        "age": "16",
+        "credits": "reż. Agnieszka Smoczyńska <br>Polska, Grecja <br>2026,100’",
+        "desc": "<p>Futurystyczny thriller science-fiction, którego akcja rozgrywa się w niedalekiej przyszłości, gdzie porządek społeczny wyznacza świadoma sztuczna inteligencja.</p>\n",
+        "hall": "2",
+        "movieLink": "https://www.kinomuza.pl/movie/hot-spot/",
+        "ticketLink": "https://estradapoznan.bilety24.pl/kup-bilety/?id=993316#total",
+        "prePremier": false,
+        "tape35mm": false,
+        "ad": false,
+        "deaf": false,
+        "ticketPrice": "",
+        "ticketHalfPrice": "",
+        "alt": "Hot Spot",
+        "thumb": "https://www.kinomuza.pl/content/uploads/2026/09/HOT-SPOT-3-800x450.jpg",
+        "description": "Futurystyczny thriller science-fiction, którego akcja rozgrywa się w niedalekiej przyszłości, gdzie porządek społeczny wyznacza świadoma sztuczna inteligencja.",
+        "shortDescription": "Futurystyczny thriller science-fiction, którego akcja rozgrywa się w niedalekiej przyszłości, gdzie porządek społeczny wyznacza świadoma sztuczna inteligencja.",
+        "genres": [
+          "Kryminał",
+          "Thriller",
+          "Sci-Fi"
+        ],
+        "external": {
+          "imdb": {
+            "id": "tt14119302",
+            "url": "https://www.imdb.com/title/tt14119302/",
+            "rating": 4,
+            "votes": 587
+          },
+          "filmweb": {
+            "id": "10069059",
+            "url": "https://www.filmweb.pl/film/Hot+Spot-2026-10069059",
+            "genres": [
+              "Kryminał",
+              "Thriller",
+              "Sci-Fi"
+            ],
+            "rating": 3.6,
+            "votes": 813
+          },
+          "rottenTomatoes": {
+            "url": "https://www.rottentomatoes.com/m/hot_spot_2026",
+            "title": "Hot Spot (2026)",
+            "year": "2026",
+            "directors": [
+              "Agnieszka Smoczynska"
+            ],
+            "criticsRating": 17,
+            "criticsVotes": 18,
+            "audienceRating": 25,
+            "audienceVotes": 61
+          }
+        },
+        "longDescription": "Agnieszka Smoczyńska powraca z nowym filmem do kina gatunkowego z energią, fantazją i bezczelnością, które uczyniły z „Córek dancingu” jeden z najbardziej kultowych polskich debiutów XXI wieku.\n\n„Hot Spot” to futurystyczny thriller science-fiction, którego akcja rozgrywa się w niedalekiej przyszłości, gdzie porządek społeczny wyznacza świadoma sztuczna inteligencja. Prywatny detektyw prowadzi śledztwo w sprawie morderstwa i trafia na grupę rebeliantów zdolnych podważyć władzę cyfrowego systemu. Im głębiej wnika w sprawę, tym bardziej przekonuje się, że w świecie zarządzanym przez algorytmy nic nie jest tym, czym się wydaje.\n\nW międzynarodowej obsadzie „Hot Spot” znaleźli się Andrzej Konopka („LARP. Miłość, trolle i inne questy”, „Córki dancingu”), Noomi Rapace („Dziewczyna z tatuażem”, „Prometeusz”) oraz Reika Kirishima („Drive My Car”, „Norwegian Wood”).\n\nAgnieszka Smoczyńska to jedna z najbardziej oryginalnych reżyserek współczesnego kina europejskiego – twórczyni nagradzanych „Córek dancingu”, „Fugi” i „The Silent Twins”. „Hot Spot” będzie kolejnym efektem współpracy jej nieokiełznanej wyobraźni z wyjątkowym talentem Roberta Bolesty do opowiadania oryginalnych historii. Jego scenariusze m.in. „Ostatniej rodziny”, czy właśnie „Córek dancingu”, należą do najbardziej wyrazistych zjawisk w panoramie współczesnego polskiego kina.\n\n„Hot Spot”, pomimo międzynarodowego charakteru, w większości powstał dzięki pracy w kluczowych pionach produkcji uznanych specjalistów polskiej branży filmowej, którzy odpowiadali za kluczowe piony produkcyjne. Autorem zdjęć jest wieloletni współpracownik reżyserki Jakub Kijowski, montażu – Beata Liszewska, udźwiękowienia – Marcin Lenarczyk. Muzykę skomponowali Marcin Macuk i Zuzanna Wrońska. Efekty specjalne powstały w Polsce pod nadzorem Szymona Kani z PFX. Za warstwę wizualną filmu odpowiadają również Anna Anosowicz i Katarzyna Lewińska, autorki odpowiednio scenografii i kostiumów.\n\nŚwiatowa premiera „Hot Spot” odbyła się na Fantasia International Film Festival w Kanadzie, gdzie film zdobył Specjalne Wyróżnienie Jury. Organizowany od 1996 roku w Montrealu festiwal należy do najważniejszych i najbardziej prestiżowych wydarzeń na świecie poświęconych kinu gatunkowemu, ze szczególnym uwzględnieniem horroru, science fiction i fantasy. To właśnie tutaj swoje filmy prezentowali m.in. Bong Joon-ho, Guillermo del Toro czy Park Chan-wook.\n\nW Polsce „Hot Spot” zawita najpierw na MFF Nowe Horyzonty oraz Festiwal Filmu i Sztuki Dwa Brzegi, a następnie zostanie zaprezentowany w Konkursie Głównym Festiwalu Polskich Filmów Fabularnych w Gdyni, by trafić do szerokiej dystrybucji kinowej już 25 września.\n\nFilm dostępny z audiodeskrypcją lub lektorem. Skorzystaj bezpłatnie z aplikacji Kino Dostępne 2.0 w Twoim telefonie – http://kinodostepne.pl",
+        "poster": "media/posters/427ac5cb1e9cf0aae3fb.webp"
+      },
+      {
+        "hour": "21:00",
+        "datetime": "2026-09-25 21:00:00",
+        "title": "Tony",
+        "originalTitle": "Tony",
+        "director": "Matt Johnson",
+        "year": "2026",
+        "premiereDate": "2026-09-04",
+        "duration": "106",
+        "countries": "USA",
+        "shortDesc": "<p>Młody Anthony Bourdain podczas upalnego lata 1976 roku odkrywa swoją pasję, powołanie i to, kim tak naprawdę jest.</p>\n",
+        "lang": "en",
+        "subtitlesLang": "pl",
+        "age": "16",
+        "credits": "reż.  Matt Johnson <br>USA <br>2026,106’",
+        "desc": "<p>Młody Anthony Bourdain podczas upalnego lata 1976 roku odkrywa swoją pasję, powołanie i to, kim tak naprawdę jest.</p>\n",
+        "hall": "1",
+        "movieLink": "https://www.kinomuza.pl/movie/tony/",
+        "ticketLink": "https://estradapoznan.bilety24.pl/kup-bilety/?id=993285#total",
+        "prePremier": false,
+        "tape35mm": false,
+        "ad": false,
+        "deaf": false,
+        "ticketPrice": "",
+        "ticketHalfPrice": "",
+        "alt": "Tony",
+        "thumb": "https://www.kinomuza.pl/content/uploads/2026/09/57ef7a282819ac320da3a5de72836119-800x450.jpg",
+        "description": "Młody Anthony Bourdain podczas upalnego lata 1976 roku odkrywa swoją pasję, powołanie i to, kim tak naprawdę jest.",
+        "shortDescription": "Młody Anthony Bourdain podczas upalnego lata 1976 roku odkrywa swoją pasję, powołanie i to, kim tak naprawdę jest.",
+        "genres": [
+          "Dramat",
+          "Biograficzny",
+          "Komedia"
+        ],
+        "external": {
+          "imdb": {
+            "id": "tt33095251",
+            "url": "https://www.imdb.com/title/tt33095251/",
+            "rating": 7.5,
+            "votes": 10761
+          },
+          "filmweb": {
+            "id": "10079933",
+            "url": "https://www.filmweb.pl/film/Tony-2026-10079933",
+            "genres": [
+              "Dramat",
+              "Biograficzny",
+              "Komedia"
+            ],
+            "rating": 7.1,
+            "votes": 6109
+          },
+          "rottenTomatoes": {
+            "url": "https://www.rottentomatoes.com/m/tony_2026",
+            "title": "Tony (2026)",
+            "year": "2026",
+            "directors": [
+              "Matt Johnson"
+            ],
+            "criticsRating": 93,
+            "criticsVotes": 230,
+            "audienceRating": 92,
+            "audienceVotes": 942
+          }
+        },
+        "longDescription": "Anthony Bourdain – buntownik, outsider, głos pokolenia, jeden z najbardziej znanych szefów kuchni i jedna z największych, najbardziej charyzmatycznych osobowości telewizyjnych. Podróżnik, pisarz, odkrywca, którego miliony ludzi na całym świecie pokochały za bezkompromisowy styl, miłość do życia, szacunek do ludzi, odwagę, ciekawość świata i autentyczność. „Tony” to historia początków jego drogi – kim był, zanim stał się Anthonym Bourdainem.\n\nUpalne lato 1976 roku, Provincetown – miasto pulsujące wolnością, seksem i energią. Młody, marzący o karierze pisarza, Tony (Dominic Sessa), by podreperować budżet, trafia na zmywak do restauracji serwującej owoce morza, prowadzonej przez tajemniczego szefa kuchni (Antonio Banderas). W intensywnej, chaotycznej, a jednocześnie niezwykle kreatywnej atmosferze Tony odkrywa swoją pasję, powołanie i to, kim tak naprawdę jest.\n\nFilm dostępny z audiodeskrypcją lub lektorem. Skorzystaj bezpłatnie z aplikacji Kino Dostępne 2.0 w Twoim telefonie – http://kinodostepne.pl",
+        "poster": "media/posters/4c5e33e77e2fa1c55b1f.webp"
+      }
+    ]
+  }
+}

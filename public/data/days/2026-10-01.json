@@ -1,12 +1,12 @@
 {
   "schemaVersion": 1,
   "date": "2026-10-01",
-  "updatedAt": "2026-09-21T20:33:43.729Z",
+  "updatedAt": "2026-09-22T14:47:52.383Z",
   "source": "https://www.kinomuza.pl/repertoire/day/",
   "day": {
-    "id": "10",
+    "id": "09",
     "date": "01.10",
-    "now": "2026-09-21 22:33:14",
+    "now": "2026-09-22 16:47:30",
     "info": [],
     "repertoire": [
       {
@@ -25,9 +25,9 @@
         "age": "16",
         "credits": "reż. Adam Frankiewicz i Zofia Tomczyk <br>55’",
         "desc": "<p>Rozmowy z Fujisan to film dokumentalny o słuchaniu świata poprzez nagrania terenowe.</p>\n",
-        "hall": "2",
-        "movieLink": "https://www.kinomuza.pl/?post_type=movie&p=105476",
-        "ticketLink": "",
+        "hall": "3",
+        "movieLink": "https://www.kinomuza.pl/movie/rozmowy-z-fujisan/",
+        "ticketLink": "https://estradapoznan.bilety24.pl/kup-bilety/?id=992843#total",
         "prePremier": false,
         "tape35mm": false,
         "ad": false,
@@ -36,6 +36,7 @@
         "ticketHalfPrice": "",
         "alt": "Rozmowy z Fujisan",
         "thumb": "https://www.kinomuza.pl/content/uploads/2026/09/fuj-1-800x450.jpg",
+        "event": "Pokaz z Animatorem",
         "description": "Rozmowy z Fujisan to film dokumentalny o słuchaniu świata poprzez nagrania terenowe.",
         "shortDescription": "Rozmowy z Fujisan to film dokumentalny o słuchaniu świata poprzez nagrania terenowe.",
         "genres": [],
@@ -44,8 +45,76 @@
           "filmweb": null,
           "rottenTomatoes": null
         },
-        "longDescription": "Rozmowy z Fujisan to film dokumentalny o słuchaniu świata poprzez nagrania terenowe.",
-        "poster": ""
+        "longDescription": "Rozmowy z Fujisan to film dokumentalny o słuchaniu świata poprzez nagrania terenowe. Dotyka krytyki konsumpcjonizmu krajobrazu oraz znaczenia drobnych gestów w dobie katastrofy klimatycznej. A. i Z. wyruszają na miesięczną rezydencję artystyczną do miasta Fujiyoshida w Japonii. Jako punkt wyjścia stawiają pytanie o to, jak możemy komunikować się z superorganizmami. Przyglądają się temu, co poetyckie i filozoficzne w kontakcie z nimi. Zabierają ze sobą archiwum nagrań by przedstawić je górze. Wyczekują i słuchają, trwając w skupieniu, aż nadejdzie odpowiedź.\n\nF ields of Superorganisms to interdyscyplinarny projekt artystyczny badający dialog człowieka z naturą poprzez dźwięk, performance i praktyki uważnego słuchania. Artyści przenoszą rozmowę z superorganizmami z poziomu metafory na poziom działania, traktując słuchanie, reagowanie i odpowiadanie dźwiękiem jako realną formę wymiany. Fields of Superorganisms jest gestem filozoficznym inspirowanym koncepcjami Stanisława Lema, Ursuli K. Le Guin oraz twórcami i czołowymi przedstawicielami ekologii dźwięku, takimi jak Hildegard Westerkamp czy R. Murray Schafer. Twórcy projektu, Adam Frankiewicz i Zofia Tomczyk, od lat archiwizują świat audialny, gromadząc setki nagrań z różnych zakątków świata. Stanowią one materiał do wsłuchiwania się w siebie i otoczenie oraz punkt wyjścia do artystycznych poszukiwań. W 2025 roku wydali zbiór nagrań Fields Archive 2014–2022.\n\nFilm zrealizowano dzięki wsparciu: Estrady Poznańskiej, Instytutu Polskiego w Tokio, Biura Dźwięku Katowice, Glissando, Radia UAP oraz Radia Kapitał.\n\n \n\n// Opis filmu po angielsku:\n\nConversations with Fujisan is a documentary film about listening to the world through field recordings. It explores the critique of landscape consumerism and the significance of small gestures in the age of the climate crisis. A. and Z. set off on a month-long artist’s residency in the town of Fujiyoshida in Japan. Their starting point is the question of how we might communicate with superorganisms. They explore the poetic and philosophical aspects of engaging with them. They take their archive of recordings with them to present it to the mountain. They wait and listen, remaining in a state of concentration, until a response arrives.\n\nThe film is in Polish language with English subtitles.",
+        "poster": "media/posters/c3ada11d8d310deb64e6.webp"
+      },
+      {
+        "hour": "18:00",
+        "datetime": "2026-10-01 18:00:00",
+        "title": "Hot Spot",
+        "originalTitle": "",
+        "director": "Agnieszka Smoczyńska",
+        "year": "2026",
+        "premiereDate": "2026-09-25",
+        "duration": "100",
+        "countries": "Polska, Grecja",
+        "shortDesc": "<p>Futurystyczny thriller science-fiction, którego akcja rozgrywa się w niedalekiej przyszłości, gdzie porządek społeczny wyznacza świadoma sztuczna inteligencja.</p>\n",
+        "lang": "",
+        "subtitlesLang": "pl",
+        "age": "16",
+        "credits": "reż. Agnieszka Smoczyńska <br>Polska, Grecja <br>2026,100’",
+        "desc": "<p>Futurystyczny thriller science-fiction, którego akcja rozgrywa się w niedalekiej przyszłości, gdzie porządek społeczny wyznacza świadoma sztuczna inteligencja.</p>\n",
+        "hall": "1",
+        "movieLink": "https://www.kinomuza.pl/movie/hot-spot/",
+        "ticketLink": "https://estradapoznan.bilety24.pl/kup-bilety/?id=992938#total",
+        "prePremier": false,
+        "tape35mm": false,
+        "ad": false,
+        "deaf": false,
+        "ticketPrice": "",
+        "ticketHalfPrice": "",
+        "alt": "Hot Spot",
+        "thumb": "https://www.kinomuza.pl/content/uploads/2026/09/HOT-SPOT-3-800x450.jpg",
+        "description": "Futurystyczny thriller science-fiction, którego akcja rozgrywa się w niedalekiej przyszłości, gdzie porządek społeczny wyznacza świadoma sztuczna inteligencja.",
+        "shortDescription": "Futurystyczny thriller science-fiction, którego akcja rozgrywa się w niedalekiej przyszłości, gdzie porządek społeczny wyznacza świadoma sztuczna inteligencja.",
+        "genres": [
+          "Kryminał",
+          "Thriller",
+          "Sci-Fi"
+        ],
+        "external": {
+          "imdb": {
+            "id": "tt14119302",
+            "url": "https://www.imdb.com/title/tt14119302/",
+            "rating": 4,
+            "votes": 587
+          },
+          "filmweb": {
+            "id": "10069059",
+            "url": "https://www.filmweb.pl/film/Hot+Spot-2026-10069059",
+            "genres": [
+              "Kryminał",
+              "Thriller",
+              "Sci-Fi"
+            ],
+            "rating": 3.6,
+            "votes": 813
+          },
+          "rottenTomatoes": {
+            "url": "https://www.rottentomatoes.com/m/hot_spot_2026",
+            "title": "Hot Spot (2026)",
+            "year": "2026",
+            "directors": [
+              "Agnieszka Smoczynska"
+            ],
+            "criticsRating": 17,
+            "criticsVotes": 18,
+            "audienceRating": 25,
+            "audienceVotes": 61
+          }
+        },
+        "longDescription": "Agnieszka Smoczyńska powraca z nowym filmem do kina gatunkowego z energią, fantazją i bezczelnością, które uczyniły z „Córek dancingu” jeden z najbardziej kultowych polskich debiutów XXI wieku.\n\n„Hot Spot” to futurystyczny thriller science-fiction, którego akcja rozgrywa się w niedalekiej przyszłości, gdzie porządek społeczny wyznacza świadoma sztuczna inteligencja. Prywatny detektyw prowadzi śledztwo w sprawie morderstwa i trafia na grupę rebeliantów zdolnych podważyć władzę cyfrowego systemu. Im głębiej wnika w sprawę, tym bardziej przekonuje się, że w świecie zarządzanym przez algorytmy nic nie jest tym, czym się wydaje.\n\nW międzynarodowej obsadzie „Hot Spot” znaleźli się Andrzej Konopka („LARP. Miłość, trolle i inne questy”, „Córki dancingu”), Noomi Rapace („Dziewczyna z tatuażem”, „Prometeusz”) oraz Reika Kirishima („Drive My Car”, „Norwegian Wood”).\n\nAgnieszka Smoczyńska to jedna z najbardziej oryginalnych reżyserek współczesnego kina europejskiego – twórczyni nagradzanych „Córek dancingu”, „Fugi” i „The Silent Twins”. „Hot Spot” będzie kolejnym efektem współpracy jej nieokiełznanej wyobraźni z wyjątkowym talentem Roberta Bolesty do opowiadania oryginalnych historii. Jego scenariusze m.in. „Ostatniej rodziny”, czy właśnie „Córek dancingu”, należą do najbardziej wyrazistych zjawisk w panoramie współczesnego polskiego kina.\n\n„Hot Spot”, pomimo międzynarodowego charakteru, w większości powstał dzięki pracy w kluczowych pionach produkcji uznanych specjalistów polskiej branży filmowej, którzy odpowiadali za kluczowe piony produkcyjne. Autorem zdjęć jest wieloletni współpracownik reżyserki Jakub Kijowski, montażu – Beata Liszewska, udźwiękowienia – Marcin Lenarczyk. Muzykę skomponowali Marcin Macuk i Zuzanna Wrońska. Efekty specjalne powstały w Polsce pod nadzorem Szymona Kani z PFX. Za warstwę wizualną filmu odpowiadają również Anna Anosowicz i Katarzyna Lewińska, autorki odpowiednio scenografii i kostiumów.\n\nŚwiatowa premiera „Hot Spot” odbyła się na Fantasia International Film Festival w Kanadzie, gdzie film zdobył Specjalne Wyróżnienie Jury. Organizowany od 1996 roku w Montrealu festiwal należy do najważniejszych i najbardziej prestiżowych wydarzeń na świecie poświęconych kinu gatunkowemu, ze szczególnym uwzględnieniem horroru, science fiction i fantasy. To właśnie tutaj swoje filmy prezentowali m.in. Bong Joon-ho, Guillermo del Toro czy Park Chan-wook.\n\nW Polsce „Hot Spot” zawita najpierw na MFF Nowe Horyzonty oraz Festiwal Filmu i Sztuki Dwa Brzegi, a następnie zostanie zaprezentowany w Konkursie Głównym Festiwalu Polskich Filmów Fabularnych w Gdyni, by trafić do szerokiej dystrybucji kinowej już 25 września.\n\nFilm dostępny z audiodeskrypcją lub lektorem. Skorzystaj bezpłatnie z aplikacji Kino Dostępne 2.0 w Twoim telefonie – http://kinodostepne.pl",
+        "poster": "media/posters/427ac5cb1e9cf0aae3fb.webp"
       }
     ]
   }

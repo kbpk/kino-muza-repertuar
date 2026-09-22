@@ -1,12 +1,12 @@
 {
   "schemaVersion": 1,
   "date": "2026-09-22",
-  "updatedAt": "2026-09-21T20:33:43.729Z",
+  "updatedAt": "2026-09-22T14:47:52.383Z",
   "source": "https://www.kinomuza.pl/repertoire/day/",
   "day": {
-    "id": "01",
+    "id": "00",
     "date": "22.09",
-    "now": "2026-09-21 22:33:09",
+    "now": "2026-09-22 16:47:25",
     "info": [],
     "repertoire": [
       {
@@ -237,7 +237,7 @@
               "Dramat"
             ],
             "rating": 6.8,
-            "votes": 575
+            "votes": 618
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/hen",
@@ -305,7 +305,7 @@
               "Komedia"
             ],
             "rating": 7.1,
-            "votes": 5937
+            "votes": 6109
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/tony_2026",
@@ -317,7 +317,7 @@
             "criticsRating": 93,
             "criticsVotes": 230,
             "audienceRating": 92,
-            "audienceVotes": 941
+            "audienceVotes": 942
           }
         },
         "longDescription": "Anthony Bourdain – buntownik, outsider, głos pokolenia, jeden z najbardziej znanych szefów kuchni i jedna z największych, najbardziej charyzmatycznych osobowości telewizyjnych. Podróżnik, pisarz, odkrywca, którego miliony ludzi na całym świecie pokochały za bezkompromisowy styl, miłość do życia, szacunek do ludzi, odwagę, ciekawość świata i autentyczność. „Tony” to historia początków jego drogi – kim był, zanim stał się Anthonym Bourdainem.\n\nUpalne lato 1976 roku, Provincetown – miasto pulsujące wolnością, seksem i energią. Młody, marzący o karierze pisarza, Tony (Dominic Sessa), by podreperować budżet, trafia na zmywak do restauracji serwującej owoce morza, prowadzonej przez tajemniczego szefa kuchni (Antonio Banderas). W intensywnej, chaotycznej, a jednocześnie niezwykle kreatywnej atmosferze Tony odkrywa swoją pasję, powołanie i to, kim tak naprawdę jest.\n\nFilm dostępny z audiodeskrypcją lub lektorem. Skorzystaj bezpłatnie z aplikacji Kino Dostępne 2.0 w Twoim telefonie – http://kinodostepne.pl",
@@ -353,9 +353,9 @@
         "description": "Opowieść o podróży Odyseusza, króla Itaki, który musi stawić czoła licznym wyzwaniom próbując wrócić do domu po wojnie trojańskiej.",
         "shortDescription": "Opowieść o podróży Odyseusza, króla Itaki, który musi stawić czoła licznym wyzwaniom próbując wrócić do domu po wojnie trojańskiej.",
         "genres": [
+          "Fantasy",
           "Dramat",
-          "Przygodowy",
-          "Fantasy"
+          "Przygodowy"
         ],
         "external": {
           "imdb": {
@@ -368,12 +368,12 @@
             "id": "10068387",
             "url": "https://www.filmweb.pl/film/Odyseja-2026-10068387",
             "genres": [
+              "Fantasy",
               "Dramat",
-              "Przygodowy",
-              "Fantasy"
+              "Przygodowy"
             ],
             "rating": 7.7,
-            "votes": 70394
+            "votes": 70551
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/the_odyssey_2026",
@@ -383,9 +383,9 @@
               "Christopher Nolan"
             ],
             "criticsRating": 94,
-            "criticsVotes": 511,
+            "criticsVotes": 512,
             "audienceRating": 96,
-            "audienceVotes": 33501
+            "audienceVotes": 33560
           }
         },
         "longDescription": "Christopher Nolan, który nakręcił takie filmy jak „Interstellar” oraz „Oppenheimer” jest znany z tego, że nie boi się żadnego gatunku filmowego. Po świetnie przyjętym i nagrodzonym 7 Oscarami® „Oppenheimerze” opowiadajacym historię powstania pierwszej bomby atomowej, teraz reżyser pracuje nad adaptacją „Odysei”.\n\nTo opowieść autorstwa Homera uznawana za jedno z najważniejszych dzieł literatury zachodniej. Opowiada o podróży Odyseusza, króla Itaki, który musi stawić czoła licznym wyzwaniom próbując wrócić do domu po wojnie trojańskiej. Powstała już niejedna ekranizacja klasycznego dzieła Homera, ale tym razem film nakręcony zostanie w technologii IMAX i będzie pierwszym tak nowoczesnym podejściem do „Odysei”.\n\nW filmie „Odysei” zobaczymy między innymi: Matta Damona, Toma Hollanda, Anne Hathaway, Zendayę, Roberta Pattinsona, Lupite Nyong’o oraz Charlize Theron.",
@@ -437,7 +437,7 @@
               "Czarna komedia"
             ],
             "rating": 6.8,
-            "votes": 2530
+            "votes": 2607
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/teenage_sex_and_death_at_camp_miasma",
@@ -505,7 +505,7 @@
               "Kostiumowy"
             ],
             "rating": 7.6,
-            "votes": 29219
+            "votes": 29250
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/hamnet",
@@ -627,7 +627,7 @@
               "Dokumentalny"
             ],
             "rating": 7.3,
-            "votes": 846
+            "votes": 857
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/closure_2026",
@@ -688,7 +688,7 @@
               "Kryminał"
             ],
             "rating": 7,
-            "votes": 1379
+            "votes": 1497
           },
           "rottenTomatoes": null
         },

@@ -1,12 +1,12 @@
 {
   "schemaVersion": 1,
   "date": "2026-09-26",
-  "updatedAt": "2026-09-22T17:37:36.685Z",
+  "updatedAt": "2026-09-23T14:58:32.262Z",
   "source": "https://www.kinomuza.pl/repertoire/day/",
   "day": {
-    "id": "04",
+    "id": "03",
     "date": "26.09",
-    "now": "2026-09-22 19:36:58",
+    "now": "2026-09-23 16:57:48",
     "info": [],
     "repertoire": [
       {
@@ -90,7 +90,7 @@
             "id": "tt2467700",
             "url": "https://www.imdb.com/title/tt2467700/",
             "rating": 3,
-            "votes": 4653
+            "votes": 4671
           },
           "filmweb": {
             "id": "10078788",
@@ -101,7 +101,7 @@
               "Przygodowy"
             ],
             "rating": 4.3,
-            "votes": 259
+            "votes": 268
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/animal_farm_2025",
@@ -111,7 +111,7 @@
               "Andy Serkis"
             ],
             "criticsRating": 29,
-            "criticsVotes": 85,
+            "criticsVotes": 86,
             "audienceRating": 51,
             "audienceVotes": 204
           }
@@ -200,7 +200,7 @@
             "id": "tt36583977",
             "url": "https://www.imdb.com/title/tt36583977/",
             "rating": 7.6,
-            "votes": 707
+            "votes": 872
           },
           "filmweb": {
             "id": "10116454",
@@ -210,8 +210,8 @@
               "Animacja",
               "Fantasy"
             ],
-            "rating": 0,
-            "votes": 0
+            "rating": 8,
+            "votes": 3
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/forgotten_island",
@@ -222,9 +222,9 @@
               "Januel P. Mercado"
             ],
             "criticsRating": 100,
-            "criticsVotes": 29,
+            "criticsVotes": 36,
             "audienceRating": null,
-            "audienceVotes": 43
+            "audienceVotes": 47
           }
         },
         "longDescription": "Warto walczyć o najlepszą przyjaźń.\n\nDreamWorks Animation, studio, które stworzyło niezapomniane więzi między chłopcem a smokiem w filmie „Jak wytresować smoka”, ogrem i osłem w animacji „Shrek” oraz robotem i gąsiątkiem w „Dzikim robocie”. Teraz przedstawia olśniewającą i wzruszającą historię o dwójce przyjaciół na całe życie, którzy muszą się zjednoczyć.\n\nNowy film został napisany i wyreżyserowany przez nominowanych do Oscara® Joela Crawforda i Januela Mercado, a jego producentem jest nominowany do Oscara® Mark Swift, twórca filmu „Kot w butach: Ostatnie życzenie”.\n\nNagrodzone nagrodą Grammy i Oscarem® H.E.R. i Liza Soberano użyczają głosu Jo i Raissie.\n\nTo przyjaciółki od najmłodszych lat, które właśnie kończą szkołę średnią i stoją u progu zupełnie nowych etapów życia.\n\nPodczas wspólnego świętowania ostatniego wieczoru przed rozstaniem dziewczyny przypadkiem odkrywają tajemniczy portal, który przenosi je na magiczną wyspę Nakali. To niezwykła kraina pełna fantastycznych i mitycznych stworzeń, o których od dzieciństwa słyszały w opowieściach przekazywanych przez ich filipińskie rodziny.\n\nNiektóre z tych postaci staną się przyjaciółmi, inne wrogami. Jo i Raissa muszą stawić czoła najgroźniejszemu stworzeniu na wyspie.\n\nKiedy odkryją, że wspomnienia ich przyjaźni są ceną za powrót do domu, Jo i Raissa będą ścigać się, by znaleźć sposób na opuszczenie wyspy, zanim zapomną o sobie na zawsze.",
@@ -268,7 +268,7 @@
             "id": "tt28088049",
             "url": "https://www.imdb.com/title/tt28088049/",
             "rating": 6.3,
-            "votes": 4888
+            "votes": 4932
           },
           "filmweb": {
             "id": "10085499",
@@ -278,7 +278,7 @@
               "Dramat"
             ],
             "rating": 5.7,
-            "votes": 2240
+            "votes": 2258
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/bitter_christmas",
@@ -333,7 +333,7 @@
             "id": "tt37304295",
             "url": "https://www.imdb.com/title/tt37304295/",
             "rating": 7.3,
-            "votes": 1890
+            "votes": 1943
           },
           "filmweb": {
             "id": "10074985",
@@ -342,7 +342,7 @@
               "Dramat"
             ],
             "rating": 6.9,
-            "votes": 7795
+            "votes": 7827
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/fatherland_2026",
@@ -390,27 +390,27 @@
         "description": "Młody Anthony Bourdain podczas upalnego lata 1976 roku odkrywa swoją pasję, powołanie i to, kim tak naprawdę jest.",
         "shortDescription": "Młody Anthony Bourdain podczas upalnego lata 1976 roku odkrywa swoją pasję, powołanie i to, kim tak naprawdę jest.",
         "genres": [
-          "Dramat",
           "Biograficzny",
+          "Dramat",
           "Komedia"
         ],
         "external": {
           "imdb": {
             "id": "tt33095251",
             "url": "https://www.imdb.com/title/tt33095251/",
-            "rating": 7.5,
-            "votes": 10761
+            "rating": 7.4,
+            "votes": 11669
           },
           "filmweb": {
             "id": "10079933",
             "url": "https://www.filmweb.pl/film/Tony-2026-10079933",
             "genres": [
-              "Dramat",
               "Biograficzny",
+              "Dramat",
               "Komedia"
             ],
             "rating": 7.1,
-            "votes": 6109
+            "votes": 6266
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/tony_2026",
@@ -422,7 +422,7 @@
             "criticsRating": 93,
             "criticsVotes": 230,
             "audienceRating": 92,
-            "audienceVotes": 942
+            "audienceVotes": 945
           }
         },
         "longDescription": "Anthony Bourdain – buntownik, outsider, głos pokolenia, jeden z najbardziej znanych szefów kuchni i jedna z największych, najbardziej charyzmatycznych osobowości telewizyjnych. Podróżnik, pisarz, odkrywca, którego miliony ludzi na całym świecie pokochały za bezkompromisowy styl, miłość do życia, szacunek do ludzi, odwagę, ciekawość świata i autentyczność. „Tony” to historia początków jego drogi – kim był, zanim stał się Anthonym Bourdainem.\n\nUpalne lato 1976 roku, Provincetown – miasto pulsujące wolnością, seksem i energią. Młody, marzący o karierze pisarza, Tony (Dominic Sessa), by podreperować budżet, trafia na zmywak do restauracji serwującej owoce morza, prowadzonej przez tajemniczego szefa kuchni (Antonio Banderas). W intensywnej, chaotycznej, a jednocześnie niezwykle kreatywnej atmosferze Tony odkrywa swoją pasję, powołanie i to, kim tak naprawdę jest.\n\nFilm dostępny z audiodeskrypcją lub lektorem. Skorzystaj bezpłatnie z aplikacji Kino Dostępne 2.0 w Twoim telefonie – http://kinodostepne.pl",
@@ -471,7 +471,7 @@
               "Kryminał"
             ],
             "rating": 7,
-            "votes": 1497
+            "votes": 1639
           },
           "rottenTomatoes": null
         },
@@ -515,7 +515,7 @@
             "id": "tt31216533",
             "url": "https://www.imdb.com/title/tt31216533/",
             "rating": 7.4,
-            "votes": 488
+            "votes": 497
           },
           "filmweb": {
             "id": "10117286",
@@ -524,7 +524,7 @@
               "Dramat"
             ],
             "rating": 7.3,
-            "votes": 1365
+            "votes": 1384
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/500_miles_2026",
@@ -572,27 +572,27 @@
         "description": "Opowieść o podróży Odyseusza, króla Itaki, który musi stawić czoła licznym wyzwaniom próbując wrócić do domu po wojnie trojańskiej.",
         "shortDescription": "Opowieść o podróży Odyseusza, króla Itaki, który musi stawić czoła licznym wyzwaniom próbując wrócić do domu po wojnie trojańskiej.",
         "genres": [
+          "Przygodowy",
           "Fantasy",
-          "Dramat",
-          "Przygodowy"
+          "Dramat"
         ],
         "external": {
           "imdb": {
             "id": "tt33764258",
             "url": "https://www.imdb.com/title/tt33764258/",
             "rating": 8.4,
-            "votes": 501920
+            "votes": 503998
           },
           "filmweb": {
             "id": "10068387",
             "url": "https://www.filmweb.pl/film/Odyseja-2026-10068387",
             "genres": [
+              "Przygodowy",
               "Fantasy",
-              "Dramat",
-              "Przygodowy"
+              "Dramat"
             ],
             "rating": 7.7,
-            "votes": 70551
+            "votes": 70710
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/the_odyssey_2026",
@@ -604,7 +604,7 @@
             "criticsRating": 94,
             "criticsVotes": 512,
             "audienceRating": 96,
-            "audienceVotes": 33560
+            "audienceVotes": 33621
           }
         },
         "longDescription": "Christopher Nolan, który nakręcił takie filmy jak „Interstellar” oraz „Oppenheimer” jest znany z tego, że nie boi się żadnego gatunku filmowego. Po świetnie przyjętym i nagrodzonym 7 Oscarami® „Oppenheimerze” opowiadajacym historię powstania pierwszej bomby atomowej, teraz reżyser pracuje nad adaptacją „Odysei”.\n\nTo opowieść autorstwa Homera uznawana za jedno z najważniejszych dzieł literatury zachodniej. Opowiada o podróży Odyseusza, króla Itaki, który musi stawić czoła licznym wyzwaniom próbując wrócić do domu po wojnie trojańskiej. Powstała już niejedna ekranizacja klasycznego dzieła Homera, ale tym razem film nakręcony zostanie w technologii IMAX i będzie pierwszym tak nowoczesnym podejściem do „Odysei”.\n\nW filmie „Odysei” zobaczymy między innymi: Matta Damona, Toma Hollanda, Anne Hathaway, Zendayę, Roberta Pattinsona, Lupite Nyong’o oraz Charlize Theron.",
@@ -640,27 +640,27 @@
         "description": "Młody Anthony Bourdain podczas upalnego lata 1976 roku odkrywa swoją pasję, powołanie i to, kim tak naprawdę jest.",
         "shortDescription": "Młody Anthony Bourdain podczas upalnego lata 1976 roku odkrywa swoją pasję, powołanie i to, kim tak naprawdę jest.",
         "genres": [
-          "Dramat",
           "Biograficzny",
+          "Dramat",
           "Komedia"
         ],
         "external": {
           "imdb": {
             "id": "tt33095251",
             "url": "https://www.imdb.com/title/tt33095251/",
-            "rating": 7.5,
-            "votes": 10761
+            "rating": 7.4,
+            "votes": 11669
           },
           "filmweb": {
             "id": "10079933",
             "url": "https://www.filmweb.pl/film/Tony-2026-10079933",
             "genres": [
-              "Dramat",
               "Biograficzny",
+              "Dramat",
               "Komedia"
             ],
             "rating": 7.1,
-            "votes": 6109
+            "votes": 6266
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/tony_2026",
@@ -672,7 +672,7 @@
             "criticsRating": 93,
             "criticsVotes": 230,
             "audienceRating": 92,
-            "audienceVotes": 942
+            "audienceVotes": 945
           }
         },
         "longDescription": "Anthony Bourdain – buntownik, outsider, głos pokolenia, jeden z najbardziej znanych szefów kuchni i jedna z największych, najbardziej charyzmatycznych osobowości telewizyjnych. Podróżnik, pisarz, odkrywca, którego miliony ludzi na całym świecie pokochały za bezkompromisowy styl, miłość do życia, szacunek do ludzi, odwagę, ciekawość świata i autentyczność. „Tony” to historia początków jego drogi – kim był, zanim stał się Anthonym Bourdainem.\n\nUpalne lato 1976 roku, Provincetown – miasto pulsujące wolnością, seksem i energią. Młody, marzący o karierze pisarza, Tony (Dominic Sessa), by podreperować budżet, trafia na zmywak do restauracji serwującej owoce morza, prowadzonej przez tajemniczego szefa kuchni (Antonio Banderas). W intensywnej, chaotycznej, a jednocześnie niezwykle kreatywnej atmosferze Tony odkrywa swoją pasję, powołanie i to, kim tak naprawdę jest.\n\nFilm dostępny z audiodeskrypcją lub lektorem. Skorzystaj bezpłatnie z aplikacji Kino Dostępne 2.0 w Twoim telefonie – http://kinodostepne.pl",
@@ -716,8 +716,8 @@
           "imdb": {
             "id": "tt14119302",
             "url": "https://www.imdb.com/title/tt14119302/",
-            "rating": 4,
-            "votes": 587
+            "rating": 3.9,
+            "votes": 624
           },
           "filmweb": {
             "id": "10069059",
@@ -728,14 +728,14 @@
               "Sci-Fi"
             ],
             "rating": 3.6,
-            "votes": 813
+            "votes": 926
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/hot_spot_2026",
             "title": "Hot Spot (2026)",
             "year": "2026",
             "directors": [
-              "Agnieszka Smoczynska"
+              "Agnieszka Smoczyńska"
             ],
             "criticsRating": 17,
             "criticsVotes": 18,
@@ -784,8 +784,8 @@
           "imdb": {
             "id": "tt14119302",
             "url": "https://www.imdb.com/title/tt14119302/",
-            "rating": 4,
-            "votes": 587
+            "rating": 3.9,
+            "votes": 624
           },
           "filmweb": {
             "id": "10069059",
@@ -796,14 +796,14 @@
               "Sci-Fi"
             ],
             "rating": 3.6,
-            "votes": 813
+            "votes": 926
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/hot_spot_2026",
             "title": "Hot Spot (2026)",
             "year": "2026",
             "directors": [
-              "Agnieszka Smoczynska"
+              "Agnieszka Smoczyńska"
             ],
             "criticsRating": 17,
             "criticsVotes": 18,
@@ -851,7 +851,7 @@
             "id": "tt39075417",
             "url": "https://www.imdb.com/title/tt39075417/",
             "rating": 7.1,
-            "votes": 87
+            "votes": 90
           },
           "filmweb": {
             "id": "10081351",
@@ -860,7 +860,7 @@
               "Dokumentalny"
             ],
             "rating": 7.3,
-            "votes": 857
+            "votes": 872
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/closure_2026",
@@ -915,7 +915,7 @@
             "id": "tt29283995",
             "url": "https://www.imdb.com/title/tt29283995/",
             "rating": 7,
-            "votes": 1573
+            "votes": 1605
           },
           "filmweb": {
             "id": "10093851",
@@ -924,7 +924,7 @@
               "Dramat"
             ],
             "rating": 6.8,
-            "votes": 618
+            "votes": 653
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/hen",
@@ -985,7 +985,7 @@
               "Kryminał"
             ],
             "rating": 7,
-            "votes": 1497
+            "votes": 1639
           },
           "rottenTomatoes": null
         },
@@ -1028,8 +1028,8 @@
           "imdb": {
             "id": "tt35298123",
             "url": "https://www.imdb.com/title/tt35298123/",
-            "rating": 6.9,
-            "votes": 11969
+            "rating": 6.8,
+            "votes": 13104
           },
           "filmweb": {
             "id": "10114411",
@@ -1038,7 +1038,7 @@
               "Czarna komedia"
             ],
             "rating": 6.8,
-            "votes": 2607
+            "votes": 2677
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/teenage_sex_and_death_at_camp_miasma",
@@ -1050,7 +1050,7 @@
             "criticsRating": 94,
             "criticsVotes": 269,
             "audienceRating": 79,
-            "audienceVotes": 536
+            "audienceVotes": 538
           }
         },
         "longDescription": "Na dnie jeziora jest dziura. To z niej pochodzą filmy.\n\nMłoda, utalentowana reżyserka Kris (Hannah Einbinder) dostaje od studia filmowego szansę życia – ma nakręcić remake kultowej serii horrorów „Camp Miasma”, która cieszyła się ogromną popularnością w latach osiemdziesiątych i dziewięćdziesiątych. Aby znaleźć inspirację, udaje się na spotkanie z Billy (Gillian Anderson), która grała główną rolę w pierwowzorze projektu. Wizyta u ekscentrycznej aktorki szybko przeradza się w coś więcej niż zwykły wywiad.\n\n„Miłość, śmierć i dojrzewanie w Camp Miasma” zadebiutowała na festiwalu w Cannes, gdzie szturmem zdobyła serca krytyków i widzów – a także prestiżową nominację w sekcji Un Certain Regard. Najnowszy film Jane Shoenbrun (twórcy docenianego „W blasku ekranu”) ma obecnie 100% pozytywnych recenzji na Rotten Tomatoes, a widzowie wychodzą z seansów zachwyceni.\n\nChoć film Shoenbrun opowiada o powstawaniu fikcyjnej serii horrorów, sam w sobie horrorem nie jest, a zaledwie czerpie z jego estetyki. To przepiękna pod względem wizualnym kinofilska uczta opowiadająca przede wszystkim o bezgranicznej miłości do kina. I o tym, jak ta miłość zmienia nasze życie.\n\nW centrum tej opowieści stoją dwie aktorki reprezentujące dwa różne pokolenia. Legendarna Gillian Anderson wciela się w rolę ekscentrycznej diwy, a znana z serialu „Hacks” Hannah Einbinder w niepewną swojej pozycji, ale utalentowaną reżyserkę. Razem tworzą najbardziej elektryzujący ekranowy duet tego roku.",
@@ -1093,7 +1093,7 @@
             "id": "tt37304295",
             "url": "https://www.imdb.com/title/tt37304295/",
             "rating": 7.3,
-            "votes": 1890
+            "votes": 1943
           },
           "filmweb": {
             "id": "10074985",
@@ -1102,7 +1102,7 @@
               "Dramat"
             ],
             "rating": 6.9,
-            "votes": 7795
+            "votes": 7827
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/fatherland_2026",

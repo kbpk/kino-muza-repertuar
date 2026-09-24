@@ -1,12 +1,12 @@
 {
   "schemaVersion": 1,
   "date": "2026-09-24",
-  "updatedAt": "2026-09-23T19:39:32.246Z",
+  "updatedAt": "2026-09-24T15:01:07.818Z",
   "source": "https://www.kinomuza.pl/repertoire/day/",
   "day": {
-    "id": "01",
+    "id": "00",
     "date": "24.09",
-    "now": "2026-09-23 21:39:13",
+    "now": "2026-09-24 17:00:04",
     "info": [],
     "repertoire": [
       {
@@ -368,7 +368,7 @@
               "Kryminał"
             ],
             "rating": 7,
-            "votes": 1639
+            "votes": 1770
           },
           "rottenTomatoes": null
         },
@@ -406,27 +406,27 @@
         "description": "Opowieść o podróży Odyseusza, króla Itaki, który musi stawić czoła licznym wyzwaniom próbując wrócić do domu po wojnie trojańskiej.",
         "shortDescription": "Opowieść o podróży Odyseusza, króla Itaki, który musi stawić czoła licznym wyzwaniom próbując wrócić do domu po wojnie trojańskiej.",
         "genres": [
-          "Przygodowy",
+          "Dramat",
           "Fantasy",
-          "Dramat"
+          "Przygodowy"
         ],
         "external": {
           "imdb": {
             "id": "tt33764258",
             "url": "https://www.imdb.com/title/tt33764258/",
             "rating": 8.4,
-            "votes": 503998
+            "votes": 505750
           },
           "filmweb": {
             "id": "10068387",
             "url": "https://www.filmweb.pl/film/Odyseja-2026-10068387",
             "genres": [
-              "Przygodowy",
+              "Dramat",
               "Fantasy",
-              "Dramat"
+              "Przygodowy"
             ],
             "rating": 7.7,
-            "votes": 70710
+            "votes": 70841
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/the_odyssey_2026",
@@ -438,7 +438,7 @@
             "criticsRating": 94,
             "criticsVotes": 512,
             "audienceRating": 96,
-            "audienceVotes": 33621
+            "audienceVotes": 33686
           }
         },
         "longDescription": "Christopher Nolan, który nakręcił takie filmy jak „Interstellar” oraz „Oppenheimer” jest znany z tego, że nie boi się żadnego gatunku filmowego. Po świetnie przyjętym i nagrodzonym 7 Oscarami® „Oppenheimerze” opowiadajacym historię powstania pierwszej bomby atomowej, teraz reżyser pracuje nad adaptacją „Odysei”.\n\nTo opowieść autorstwa Homera uznawana za jedno z najważniejszych dzieł literatury zachodniej. Opowiada o podróży Odyseusza, króla Itaki, który musi stawić czoła licznym wyzwaniom próbując wrócić do domu po wojnie trojańskiej. Powstała już niejedna ekranizacja klasycznego dzieła Homera, ale tym razem film nakręcony zostanie w technologii IMAX i będzie pierwszym tak nowoczesnym podejściem do „Odysei”.\n\nW filmie „Odysei” zobaczymy między innymi: Matta Damona, Toma Hollanda, Anne Hathaway, Zendayę, Roberta Pattinsona, Lupite Nyong’o oraz Charlize Theron.",
@@ -496,7 +496,7 @@
               "Muzyczny"
             ],
             "rating": 6.7,
-            "votes": 1254
+            "votes": 1255
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/performance",
@@ -554,7 +554,7 @@
             "id": "tt14905854",
             "url": "https://www.imdb.com/title/tt14905854/",
             "rating": 7.8,
-            "votes": 135800
+            "votes": 136009
           },
           "filmweb": {
             "id": "10035555",
@@ -565,7 +565,7 @@
               "Kostiumowy"
             ],
             "rating": 7.6,
-            "votes": 29270
+            "votes": 29290
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/hamnet",
@@ -627,7 +627,7 @@
               "Kryminał"
             ],
             "rating": 7,
-            "votes": 1639
+            "votes": 1770
           },
           "rottenTomatoes": null
         },
@@ -671,8 +671,8 @@
           "imdb": {
             "id": "tt39075417",
             "url": "https://www.imdb.com/title/tt39075417/",
-            "rating": 7.1,
-            "votes": 90
+            "rating": 7,
+            "votes": 93
           },
           "filmweb": {
             "id": "10081351",
@@ -681,7 +681,7 @@
               "Dokumentalny"
             ],
             "rating": 7.3,
-            "votes": 872
+            "votes": 887
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/closure_2026",
@@ -737,7 +737,7 @@
             "id": "tt35298123",
             "url": "https://www.imdb.com/title/tt35298123/",
             "rating": 6.8,
-            "votes": 13104
+            "votes": 13875
           },
           "filmweb": {
             "id": "10114411",
@@ -746,7 +746,7 @@
               "Czarna komedia"
             ],
             "rating": 6.8,
-            "votes": 2677
+            "votes": 2748
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/teenage_sex_and_death_at_camp_miasma",
@@ -756,9 +756,9 @@
               "Jane Schoenbrun"
             ],
             "criticsRating": 94,
-            "criticsVotes": 269,
+            "criticsVotes": 270,
             "audienceRating": 79,
-            "audienceVotes": 538
+            "audienceVotes": 541
           }
         },
         "longDescription": "Na dnie jeziora jest dziura. To z niej pochodzą filmy.\n\nMłoda, utalentowana reżyserka Kris (Hannah Einbinder) dostaje od studia filmowego szansę życia – ma nakręcić remake kultowej serii horrorów „Camp Miasma”, która cieszyła się ogromną popularnością w latach osiemdziesiątych i dziewięćdziesiątych. Aby znaleźć inspirację, udaje się na spotkanie z Billy (Gillian Anderson), która grała główną rolę w pierwowzorze projektu. Wizyta u ekscentrycznej aktorki szybko przeradza się w coś więcej niż zwykły wywiad.\n\n„Miłość, śmierć i dojrzewanie w Camp Miasma” zadebiutowała na festiwalu w Cannes, gdzie szturmem zdobyła serca krytyków i widzów – a także prestiżową nominację w sekcji Un Certain Regard. Najnowszy film Jane Shoenbrun (twórcy docenianego „W blasku ekranu”) ma obecnie 100% pozytywnych recenzji na Rotten Tomatoes, a widzowie wychodzą z seansów zachwyceni.\n\nChoć film Shoenbrun opowiada o powstawaniu fikcyjnej serii horrorów, sam w sobie horrorem nie jest, a zaledwie czerpie z jego estetyki. To przepiękna pod względem wizualnym kinofilska uczta opowiadająca przede wszystkim o bezgranicznej miłości do kina. I o tym, jak ta miłość zmienia nasze życie.\n\nW centrum tej opowieści stoją dwie aktorki reprezentujące dwa różne pokolenia. Legendarna Gillian Anderson wciela się w rolę ekscentrycznej diwy, a znana z serialu „Hacks” Hannah Einbinder w niepewną swojej pozycji, ale utalentowaną reżyserkę. Razem tworzą najbardziej elektryzujący ekranowy duet tego roku.",

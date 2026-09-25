@@ -1,12 +1,12 @@
 {
   "schemaVersion": 1,
   "date": "2026-10-07",
-  "updatedAt": "2026-09-24T19:59:22.991Z",
+  "updatedAt": "2026-09-25T15:13:05.375Z",
   "source": "https://www.kinomuza.pl/repertoire/day/",
   "day": {
-    "id": "13",
+    "id": "12",
     "date": "07.10",
-    "now": "2026-09-24 21:59:12",
+    "now": "2026-09-25 17:12:24",
     "info": [],
     "repertoire": [
       {
@@ -40,8 +40,8 @@
         "description": "Tomek ma dziewiętnaście lat, jest młodym, wrażliwym człowiekiem. Mieszka u matki swojego przyjaciela, który wyjechał z misją wojskową do Syrii. Wieczorami przez lunetę podgląda mieszkającą w pobliżu Magdę, piękną, dojrzałą kobietę.",
         "shortDescription": "Tomek ma dziewiętnaście lat, jest młodym, wrażliwym człowiekiem. Mieszka u matki swojego przyjaciela, który wyjechał z misją wojskową do Syrii. Wieczorami przez lunetę podgląda mieszkającą w pobliżu Magdę, piękną, dojrzałą kobietę.",
         "genres": [
-          "Psychologiczny",
-          "Dramat"
+          "Dramat",
+          "Psychologiczny"
         ],
         "external": {
           "imdb": null,
@@ -49,11 +49,11 @@
             "id": "1158",
             "url": "https://www.filmweb.pl/film/Kr%C3%B3tki+film+o+mi%C5%82o%C5%9Bci-1988-1158",
             "genres": [
-              "Psychologiczny",
-              "Dramat"
+              "Dramat",
+              "Psychologiczny"
             ],
             "rating": 7.8,
-            "votes": 49927
+            "votes": 49942
           },
           "rottenTomatoes": null
         },

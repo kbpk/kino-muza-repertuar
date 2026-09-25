@@ -1,12 +1,12 @@
 {
   "schemaVersion": 1,
   "date": "2026-10-14",
-  "updatedAt": "2026-09-24T19:59:22.991Z",
+  "updatedAt": "2026-09-25T15:13:05.375Z",
   "source": "https://www.kinomuza.pl/repertoire/day/",
   "day": {
-    "id": "20",
+    "id": "19",
     "date": "14.10",
-    "now": "2026-09-24 21:59:14",
+    "now": "2026-09-25 17:12:40",
     "info": [],
     "repertoire": [
       {
@@ -47,7 +47,7 @@
             "id": "tt25399154",
             "url": "https://www.imdb.com/title/tt25399154/",
             "rating": 7.5,
-            "votes": 1752
+            "votes": 1790
           },
           "filmweb": {
             "id": "10113205",
@@ -56,7 +56,7 @@
               "Dramat historyczny"
             ],
             "rating": 7.1,
-            "votes": 785
+            "votes": 788
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/rose_2026",

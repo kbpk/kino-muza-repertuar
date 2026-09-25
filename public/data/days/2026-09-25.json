@@ -1,12 +1,12 @@
 {
   "schemaVersion": 1,
   "date": "2026-09-25",
-  "updatedAt": "2026-09-24T19:59:22.991Z",
+  "updatedAt": "2026-09-25T15:13:05.375Z",
   "source": "https://www.kinomuza.pl/repertoire/day/",
   "day": {
-    "id": "01",
+    "id": "00",
     "date": "25.09",
-    "now": "2026-09-24 21:58:16",
+    "now": "2026-09-25 17:12:08",
     "info": [],
     "repertoire": [
       {
@@ -250,7 +250,7 @@
               "Kryminał"
             ],
             "rating": 7,
-            "votes": 1770
+            "votes": 1899
           },
           "rottenTomatoes": null
         },
@@ -294,7 +294,7 @@
             "id": "tt29283995",
             "url": "https://www.imdb.com/title/tt29283995/",
             "rating": 7,
-            "votes": 1627
+            "votes": 1644
           },
           "filmweb": {
             "id": "10093851",
@@ -303,7 +303,7 @@
               "Dramat"
             ],
             "rating": 6.8,
-            "votes": 684
+            "votes": 707
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/hen",
@@ -358,7 +358,7 @@
             "id": "tt37304295",
             "url": "https://www.imdb.com/title/tt37304295/",
             "rating": 7.3,
-            "votes": 1987
+            "votes": 2015
           },
           "filmweb": {
             "id": "10074985",
@@ -367,7 +367,7 @@
               "Dramat"
             ],
             "rating": 6.9,
-            "votes": 7843
+            "votes": 7878
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/fatherland_2026",
@@ -424,7 +424,7 @@
             "id": "tt14905854",
             "url": "https://www.imdb.com/title/tt14905854/",
             "rating": 7.8,
-            "votes": 136009
+            "votes": 136142
           },
           "filmweb": {
             "id": "10035555",
@@ -435,7 +435,7 @@
               "Kostiumowy"
             ],
             "rating": 7.6,
-            "votes": 29290
+            "votes": 29325
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/hamnet",
@@ -496,7 +496,7 @@
               "Kryminał"
             ],
             "rating": 7,
-            "votes": 1770
+            "votes": 1899
           },
           "rottenTomatoes": null
         },
@@ -542,7 +542,7 @@
             "id": "tt14119302",
             "url": "https://www.imdb.com/title/tt14119302/",
             "rating": 3.8,
-            "votes": 639
+            "votes": 652
           },
           "filmweb": {
             "id": "10069059",
@@ -552,8 +552,8 @@
               "Thriller",
               "Sci-Fi"
             ],
-            "rating": 3.7,
-            "votes": 1036
+            "rating": 3.8,
+            "votes": 1094
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/hot_spot_2026",
@@ -562,8 +562,8 @@
             "directors": [
               "Agnieszka Smoczyńska"
             ],
-            "criticsRating": 17,
-            "criticsVotes": 18,
+            "criticsRating": 21,
+            "criticsVotes": 19,
             "audienceRating": 25,
             "audienceVotes": 64
           }
@@ -607,8 +607,8 @@
           "imdb": {
             "id": "tt35298123",
             "url": "https://www.imdb.com/title/tt35298123/",
-            "rating": 6.8,
-            "votes": 13875
+            "rating": 6.7,
+            "votes": 14351
           },
           "filmweb": {
             "id": "10114411",
@@ -616,8 +616,8 @@
             "genres": [
               "Czarna komedia"
             ],
-            "rating": 6.8,
-            "votes": 2748
+            "rating": 6.7,
+            "votes": 2796
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/teenage_sex_and_death_at_camp_miasma",
@@ -629,7 +629,7 @@
             "criticsRating": 94,
             "criticsVotes": 270,
             "audienceRating": 79,
-            "audienceVotes": 541
+            "audienceVotes": 542
           }
         },
         "longDescription": "Na dnie jeziora jest dziura. To z niej pochodzą filmy.\n\nMłoda, utalentowana reżyserka Kris (Hannah Einbinder) dostaje od studia filmowego szansę życia – ma nakręcić remake kultowej serii horrorów „Camp Miasma”, która cieszyła się ogromną popularnością w latach osiemdziesiątych i dziewięćdziesiątych. Aby znaleźć inspirację, udaje się na spotkanie z Billy (Gillian Anderson), która grała główną rolę w pierwowzorze projektu. Wizyta u ekscentrycznej aktorki szybko przeradza się w coś więcej niż zwykły wywiad.\n\n„Miłość, śmierć i dojrzewanie w Camp Miasma” zadebiutowała na festiwalu w Cannes, gdzie szturmem zdobyła serca krytyków i widzów – a także prestiżową nominację w sekcji Un Certain Regard. Najnowszy film Jane Shoenbrun (twórcy docenianego „W blasku ekranu”) ma obecnie 100% pozytywnych recenzji na Rotten Tomatoes, a widzowie wychodzą z seansów zachwyceni.\n\nChoć film Shoenbrun opowiada o powstawaniu fikcyjnej serii horrorów, sam w sobie horrorem nie jest, a zaledwie czerpie z jego estetyki. To przepiękna pod względem wizualnym kinofilska uczta opowiadająca przede wszystkim o bezgranicznej miłości do kina. I o tym, jak ta miłość zmienia nasze życie.\n\nW centrum tej opowieści stoją dwie aktorki reprezentujące dwa różne pokolenia. Legendarna Gillian Anderson wciela się w rolę ekscentrycznej diwy, a znana z serialu „Hacks” Hannah Einbinder w niepewną swojej pozycji, ale utalentowaną reżyserkę. Razem tworzą najbardziej elektryzujący ekranowy duet tego roku.",
@@ -674,7 +674,7 @@
             "id": "tt14119302",
             "url": "https://www.imdb.com/title/tt14119302/",
             "rating": 3.8,
-            "votes": 639
+            "votes": 652
           },
           "filmweb": {
             "id": "10069059",
@@ -684,8 +684,8 @@
               "Thriller",
               "Sci-Fi"
             ],
-            "rating": 3.7,
-            "votes": 1036
+            "rating": 3.8,
+            "votes": 1094
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/hot_spot_2026",
@@ -694,8 +694,8 @@
             "directors": [
               "Agnieszka Smoczyńska"
             ],
-            "criticsRating": 17,
-            "criticsVotes": 18,
+            "criticsRating": 21,
+            "criticsVotes": 19,
             "audienceRating": 25,
             "audienceVotes": 64
           }
@@ -742,7 +742,7 @@
             "id": "tt33095251",
             "url": "https://www.imdb.com/title/tt33095251/",
             "rating": 7.4,
-            "votes": 12184
+            "votes": 12442
           },
           "filmweb": {
             "id": "10079933",
@@ -753,7 +753,7 @@
               "Komedia"
             ],
             "rating": 7.1,
-            "votes": 6432
+            "votes": 6577
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/tony_2026",
@@ -765,7 +765,7 @@
             "criticsRating": 93,
             "criticsVotes": 230,
             "audienceRating": 92,
-            "audienceVotes": 951
+            "audienceVotes": 956
           }
         },
         "longDescription": "Anthony Bourdain – buntownik, outsider, głos pokolenia, jeden z najbardziej znanych szefów kuchni i jedna z największych, najbardziej charyzmatycznych osobowości telewizyjnych. Podróżnik, pisarz, odkrywca, którego miliony ludzi na całym świecie pokochały za bezkompromisowy styl, miłość do życia, szacunek do ludzi, odwagę, ciekawość świata i autentyczność. „Tony” to historia początków jego drogi – kim był, zanim stał się Anthonym Bourdainem.\n\nUpalne lato 1976 roku, Provincetown – miasto pulsujące wolnością, seksem i energią. Młody, marzący o karierze pisarza, Tony (Dominic Sessa), by podreperować budżet, trafia na zmywak do restauracji serwującej owoce morza, prowadzonej przez tajemniczego szefa kuchni (Antonio Banderas). W intensywnej, chaotycznej, a jednocześnie niezwykle kreatywnej atmosferze Tony odkrywa swoją pasję, powołanie i to, kim tak naprawdę jest.\n\nFilm dostępny z audiodeskrypcją lub lektorem. Skorzystaj bezpłatnie z aplikacji Kino Dostępne 2.0 w Twoim telefonie – http://kinodostepne.pl",

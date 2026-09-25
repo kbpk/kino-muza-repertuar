@@ -1,12 +1,12 @@
 {
   "schemaVersion": 1,
   "date": "2026-09-28",
-  "updatedAt": "2026-09-24T19:59:22.991Z",
+  "updatedAt": "2026-09-25T15:13:05.375Z",
   "source": "https://www.kinomuza.pl/repertoire/day/",
   "day": {
-    "id": "04",
+    "id": "03",
     "date": "28.09",
-    "now": "2026-09-24 21:58:25",
+    "now": "2026-09-25 17:12:24",
     "info": [],
     "repertoire": [
       {
@@ -48,7 +48,7 @@
             "id": "tt33095251",
             "url": "https://www.imdb.com/title/tt33095251/",
             "rating": 7.4,
-            "votes": 12184
+            "votes": 12442
           },
           "filmweb": {
             "id": "10079933",
@@ -59,7 +59,7 @@
               "Komedia"
             ],
             "rating": 7.1,
-            "votes": 6432
+            "votes": 6577
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/tony_2026",
@@ -71,7 +71,7 @@
             "criticsRating": 93,
             "criticsVotes": 230,
             "audienceRating": 92,
-            "audienceVotes": 951
+            "audienceVotes": 956
           }
         },
         "longDescription": "Anthony Bourdain – buntownik, outsider, głos pokolenia, jeden z najbardziej znanych szefów kuchni i jedna z największych, najbardziej charyzmatycznych osobowości telewizyjnych. Podróżnik, pisarz, odkrywca, którego miliony ludzi na całym świecie pokochały za bezkompromisowy styl, miłość do życia, szacunek do ludzi, odwagę, ciekawość świata i autentyczność. „Tony” to historia początków jego drogi – kim był, zanim stał się Anthonym Bourdainem.\n\nUpalne lato 1976 roku, Provincetown – miasto pulsujące wolnością, seksem i energią. Młody, marzący o karierze pisarza, Tony (Dominic Sessa), by podreperować budżet, trafia na zmywak do restauracji serwującej owoce morza, prowadzonej przez tajemniczego szefa kuchni (Antonio Banderas). W intensywnej, chaotycznej, a jednocześnie niezwykle kreatywnej atmosferze Tony odkrywa swoją pasję, powołanie i to, kim tak naprawdę jest.\n\nFilm dostępny z audiodeskrypcją lub lektorem. Skorzystaj bezpłatnie z aplikacji Kino Dostępne 2.0 w Twoim telefonie – http://kinodostepne.pl",
@@ -116,7 +116,7 @@
             "id": "tt14119302",
             "url": "https://www.imdb.com/title/tt14119302/",
             "rating": 3.8,
-            "votes": 639
+            "votes": 652
           },
           "filmweb": {
             "id": "10069059",
@@ -126,8 +126,8 @@
               "Thriller",
               "Sci-Fi"
             ],
-            "rating": 3.7,
-            "votes": 1036
+            "rating": 3.8,
+            "votes": 1094
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/hot_spot_2026",
@@ -136,8 +136,8 @@
             "directors": [
               "Agnieszka Smoczyńska"
             ],
-            "criticsRating": 17,
-            "criticsVotes": 18,
+            "criticsRating": 21,
+            "criticsVotes": 19,
             "audienceRating": 25,
             "audienceVotes": 64
           }
@@ -188,7 +188,7 @@
               "Kryminał"
             ],
             "rating": 7,
-            "votes": 1770
+            "votes": 1899
           },
           "rottenTomatoes": null
         },
@@ -231,8 +231,8 @@
           "imdb": {
             "id": "tt39075417",
             "url": "https://www.imdb.com/title/tt39075417/",
-            "rating": 7,
-            "votes": 93
+            "rating": 7.1,
+            "votes": 96
           },
           "filmweb": {
             "id": "10081351",
@@ -241,7 +241,7 @@
               "Dokumentalny"
             ],
             "rating": 7.3,
-            "votes": 887
+            "votes": 917
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/closure_2026",
@@ -289,25 +289,25 @@
         "description": "Pedro Almodóvar powraca w szczytowej formie z jednym ze swoich najbardziej osobistych filmów. Almodóvar składa tu poruszające wyznanie wiary w siłę kina, pamięci i narracji.",
         "shortDescription": "Pedro Almodóvar powraca w szczytowej formie z jednym ze swoich najbardziej osobistych filmów. Almodóvar składa tu poruszające wyznanie wiary w siłę kina, pamięci i narracji.",
         "genres": [
-          "Komedia",
-          "Dramat"
+          "Dramat",
+          "Komedia"
         ],
         "external": {
           "imdb": {
             "id": "tt28088049",
             "url": "https://www.imdb.com/title/tt28088049/",
             "rating": 6.3,
-            "votes": 4962
+            "votes": 4987
           },
           "filmweb": {
             "id": "10085499",
             "url": "https://www.filmweb.pl/film/Gorzkie+%C5%9Bwi%C4%99ta-2026-10085499",
             "genres": [
-              "Komedia",
-              "Dramat"
+              "Dramat",
+              "Komedia"
             ],
             "rating": 5.7,
-            "votes": 2266
+            "votes": 2289
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/bitter_christmas",
@@ -362,7 +362,7 @@
             "id": "tt29283995",
             "url": "https://www.imdb.com/title/tt29283995/",
             "rating": 7,
-            "votes": 1627
+            "votes": 1644
           },
           "filmweb": {
             "id": "10093851",
@@ -371,7 +371,7 @@
               "Dramat"
             ],
             "rating": 6.8,
-            "votes": 684
+            "votes": 707
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/hen",
@@ -432,7 +432,7 @@
               "Kryminał"
             ],
             "rating": 7,
-            "votes": 1770
+            "votes": 1899
           },
           "rottenTomatoes": null
         },
@@ -478,7 +478,7 @@
             "id": "tt33095251",
             "url": "https://www.imdb.com/title/tt33095251/",
             "rating": 7.4,
-            "votes": 12184
+            "votes": 12442
           },
           "filmweb": {
             "id": "10079933",
@@ -489,7 +489,7 @@
               "Komedia"
             ],
             "rating": 7.1,
-            "votes": 6432
+            "votes": 6577
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/tony_2026",
@@ -501,7 +501,7 @@
             "criticsRating": 93,
             "criticsVotes": 230,
             "audienceRating": 92,
-            "audienceVotes": 951
+            "audienceVotes": 956
           }
         },
         "longDescription": "Anthony Bourdain – buntownik, outsider, głos pokolenia, jeden z najbardziej znanych szefów kuchni i jedna z największych, najbardziej charyzmatycznych osobowości telewizyjnych. Podróżnik, pisarz, odkrywca, którego miliony ludzi na całym świecie pokochały za bezkompromisowy styl, miłość do życia, szacunek do ludzi, odwagę, ciekawość świata i autentyczność. „Tony” to historia początków jego drogi – kim był, zanim stał się Anthonym Bourdainem.\n\nUpalne lato 1976 roku, Provincetown – miasto pulsujące wolnością, seksem i energią. Młody, marzący o karierze pisarza, Tony (Dominic Sessa), by podreperować budżet, trafia na zmywak do restauracji serwującej owoce morza, prowadzonej przez tajemniczego szefa kuchni (Antonio Banderas). W intensywnej, chaotycznej, a jednocześnie niezwykle kreatywnej atmosferze Tony odkrywa swoją pasję, powołanie i to, kim tak naprawdę jest.\n\nFilm dostępny z audiodeskrypcją lub lektorem. Skorzystaj bezpłatnie z aplikacji Kino Dostępne 2.0 w Twoim telefonie – http://kinodostepne.pl",
@@ -546,7 +546,7 @@
             "id": "tt14119302",
             "url": "https://www.imdb.com/title/tt14119302/",
             "rating": 3.8,
-            "votes": 639
+            "votes": 652
           },
           "filmweb": {
             "id": "10069059",
@@ -556,8 +556,8 @@
               "Thriller",
               "Sci-Fi"
             ],
-            "rating": 3.7,
-            "votes": 1036
+            "rating": 3.8,
+            "votes": 1094
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/hot_spot_2026",
@@ -566,8 +566,8 @@
             "directors": [
               "Agnieszka Smoczyńska"
             ],
-            "criticsRating": 17,
-            "criticsVotes": 18,
+            "criticsRating": 21,
+            "criticsVotes": 19,
             "audienceRating": 25,
             "audienceVotes": 64
           }
@@ -612,8 +612,8 @@
           "imdb": {
             "id": "tt35298123",
             "url": "https://www.imdb.com/title/tt35298123/",
-            "rating": 6.8,
-            "votes": 13875
+            "rating": 6.7,
+            "votes": 14351
           },
           "filmweb": {
             "id": "10114411",
@@ -621,8 +621,8 @@
             "genres": [
               "Czarna komedia"
             ],
-            "rating": 6.8,
-            "votes": 2748
+            "rating": 6.7,
+            "votes": 2796
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/teenage_sex_and_death_at_camp_miasma",
@@ -634,7 +634,7 @@
             "criticsRating": 94,
             "criticsVotes": 270,
             "audienceRating": 79,
-            "audienceVotes": 541
+            "audienceVotes": 542
           }
         },
         "longDescription": "Na dnie jeziora jest dziura. To z niej pochodzą filmy.\n\nMłoda, utalentowana reżyserka Kris (Hannah Einbinder) dostaje od studia filmowego szansę życia – ma nakręcić remake kultowej serii horrorów „Camp Miasma”, która cieszyła się ogromną popularnością w latach osiemdziesiątych i dziewięćdziesiątych. Aby znaleźć inspirację, udaje się na spotkanie z Billy (Gillian Anderson), która grała główną rolę w pierwowzorze projektu. Wizyta u ekscentrycznej aktorki szybko przeradza się w coś więcej niż zwykły wywiad.\n\n„Miłość, śmierć i dojrzewanie w Camp Miasma” zadebiutowała na festiwalu w Cannes, gdzie szturmem zdobyła serca krytyków i widzów – a także prestiżową nominację w sekcji Un Certain Regard. Najnowszy film Jane Shoenbrun (twórcy docenianego „W blasku ekranu”) ma obecnie 100% pozytywnych recenzji na Rotten Tomatoes, a widzowie wychodzą z seansów zachwyceni.\n\nChoć film Shoenbrun opowiada o powstawaniu fikcyjnej serii horrorów, sam w sobie horrorem nie jest, a zaledwie czerpie z jego estetyki. To przepiękna pod względem wizualnym kinofilska uczta opowiadająca przede wszystkim o bezgranicznej miłości do kina. I o tym, jak ta miłość zmienia nasze życie.\n\nW centrum tej opowieści stoją dwie aktorki reprezentujące dwa różne pokolenia. Legendarna Gillian Anderson wciela się w rolę ekscentrycznej diwy, a znana z serialu „Hacks” Hannah Einbinder w niepewną swojej pozycji, ale utalentowaną reżyserkę. Razem tworzą najbardziej elektryzujący ekranowy duet tego roku.",
@@ -677,7 +677,7 @@
             "id": "tt29283995",
             "url": "https://www.imdb.com/title/tt29283995/",
             "rating": 7,
-            "votes": 1627
+            "votes": 1644
           },
           "filmweb": {
             "id": "10093851",
@@ -686,7 +686,7 @@
               "Dramat"
             ],
             "rating": 6.8,
-            "votes": 684
+            "votes": 707
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/hen",
@@ -743,7 +743,7 @@
             "id": "tt14119302",
             "url": "https://www.imdb.com/title/tt14119302/",
             "rating": 3.8,
-            "votes": 639
+            "votes": 652
           },
           "filmweb": {
             "id": "10069059",
@@ -753,8 +753,8 @@
               "Thriller",
               "Sci-Fi"
             ],
-            "rating": 3.7,
-            "votes": 1036
+            "rating": 3.8,
+            "votes": 1094
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/hot_spot_2026",
@@ -763,8 +763,8 @@
             "directors": [
               "Agnieszka Smoczyńska"
             ],
-            "criticsRating": 17,
-            "criticsVotes": 18,
+            "criticsRating": 21,
+            "criticsVotes": 19,
             "audienceRating": 25,
             "audienceVotes": 64
           }

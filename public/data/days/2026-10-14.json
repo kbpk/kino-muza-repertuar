@@ -1,12 +1,12 @@
 {
   "schemaVersion": 1,
   "date": "2026-10-14",
-  "updatedAt": "2026-09-26T14:27:03.123Z",
+  "updatedAt": "2026-09-26T19:12:18.308Z",
   "source": "https://www.kinomuza.pl/repertoire/day/",
   "day": {
     "id": "18",
     "date": "14.10",
-    "now": "2026-09-26 16:26:43",
+    "now": "2026-09-26 21:12:04",
     "info": [],
     "repertoire": [
       {
@@ -47,7 +47,7 @@
             "id": "tt25399154",
             "url": "https://www.imdb.com/title/tt25399154/",
             "rating": 7.5,
-            "votes": 1790
+            "votes": 1825
           },
           "filmweb": {
             "id": "10113205",

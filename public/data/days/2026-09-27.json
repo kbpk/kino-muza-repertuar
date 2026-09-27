@@ -1,12 +1,12 @@
 {
   "schemaVersion": 1,
   "date": "2026-09-27",
-  "updatedAt": "2026-09-26T19:12:18.308Z",
+  "updatedAt": "2026-09-27T15:09:31.007Z",
   "source": "https://www.kinomuza.pl/repertoire/day/",
   "day": {
-    "id": "01",
+    "id": "00",
     "date": "27.09",
-    "now": "2026-09-26 21:11:35",
+    "now": "2026-09-27 17:08:32",
     "info": [],
     "repertoire": [
       {
@@ -512,7 +512,7 @@
               "Kostiumowy"
             ],
             "rating": 7.6,
-            "votes": 29353
+            "votes": 29402
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/hamnet",
@@ -580,7 +580,7 @@
               "Komedia"
             ],
             "rating": 7.1,
-            "votes": 6708
+            "votes": 6849
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/tony_2026",
@@ -591,8 +591,8 @@
             ],
             "criticsRating": 93,
             "criticsVotes": 230,
-            "audienceRating": 92,
-            "audienceVotes": 957
+            "audienceRating": 93,
+            "audienceVotes": 958
           }
         },
         "longDescription": "Anthony Bourdain – buntownik, outsider, głos pokolenia, jeden z najbardziej znanych szefów kuchni i jedna z największych, najbardziej charyzmatycznych osobowości telewizyjnych. Podróżnik, pisarz, odkrywca, którego miliony ludzi na całym świecie pokochały za bezkompromisowy styl, miłość do życia, szacunek do ludzi, odwagę, ciekawość świata i autentyczność. „Tony” to historia początków jego drogi – kim był, zanim stał się Anthonym Bourdainem.\n\nUpalne lato 1976 roku, Provincetown – miasto pulsujące wolnością, seksem i energią. Młody, marzący o karierze pisarza, Tony (Dominic Sessa), by podreperować budżet, trafia na zmywak do restauracji serwującej owoce morza, prowadzonej przez tajemniczego szefa kuchni (Antonio Banderas). W intensywnej, chaotycznej, a jednocześnie niezwykle kreatywnej atmosferze Tony odkrywa swoją pasję, powołanie i to, kim tak naprawdę jest.\n\nFilm dostępny z audiodeskrypcją lub lektorem. Skorzystaj bezpłatnie z aplikacji Kino Dostępne 2.0 w Twoim telefonie – http://kinodostepne.pl",
@@ -629,8 +629,8 @@
         "shortDescription": "Futurystyczny thriller science-fiction, którego akcja rozgrywa się w niedalekiej przyszłości, gdzie porządek społeczny wyznacza świadoma sztuczna inteligencja.",
         "genres": [
           "Kryminał",
-          "Thriller",
-          "Sci-Fi"
+          "Sci-Fi",
+          "Thriller"
         ],
         "external": {
           "imdb": {
@@ -644,11 +644,11 @@
             "url": "https://www.filmweb.pl/film/Hot+Spot-2026-10069059",
             "genres": [
               "Kryminał",
-              "Thriller",
-              "Sci-Fi"
+              "Sci-Fi",
+              "Thriller"
             ],
-            "rating": 3.7,
-            "votes": 1180
+            "rating": 3.8,
+            "votes": 1282
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/hot_spot_2026",
@@ -709,7 +709,7 @@
               "Kryminał"
             ],
             "rating": 7,
-            "votes": 1985
+            "votes": 2104
           },
           "rottenTomatoes": null
         },
@@ -762,7 +762,7 @@
               "Czarna komedia"
             ],
             "rating": 6.7,
-            "votes": 2832
+            "votes": 2902
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/teenage_sex_and_death_at_camp_miasma",
@@ -774,7 +774,7 @@
             "criticsRating": 94,
             "criticsVotes": 270,
             "audienceRating": 79,
-            "audienceVotes": 543
+            "audienceVotes": 545
           }
         },
         "longDescription": "Na dnie jeziora jest dziura. To z niej pochodzą filmy.\n\nMłoda, utalentowana reżyserka Kris (Hannah Einbinder) dostaje od studia filmowego szansę życia – ma nakręcić remake kultowej serii horrorów „Camp Miasma”, która cieszyła się ogromną popularnością w latach osiemdziesiątych i dziewięćdziesiątych. Aby znaleźć inspirację, udaje się na spotkanie z Billy (Gillian Anderson), która grała główną rolę w pierwowzorze projektu. Wizyta u ekscentrycznej aktorki szybko przeradza się w coś więcej niż zwykły wywiad.\n\n„Miłość, śmierć i dojrzewanie w Camp Miasma” zadebiutowała na festiwalu w Cannes, gdzie szturmem zdobyła serca krytyków i widzów – a także prestiżową nominację w sekcji Un Certain Regard. Najnowszy film Jane Shoenbrun (twórcy docenianego „W blasku ekranu”) ma obecnie 100% pozytywnych recenzji na Rotten Tomatoes, a widzowie wychodzą z seansów zachwyceni.\n\nChoć film Shoenbrun opowiada o powstawaniu fikcyjnej serii horrorów, sam w sobie horrorem nie jest, a zaledwie czerpie z jego estetyki. To przepiękna pod względem wizualnym kinofilska uczta opowiadająca przede wszystkim o bezgranicznej miłości do kina. I o tym, jak ta miłość zmienia nasze życie.\n\nW centrum tej opowieści stoją dwie aktorki reprezentujące dwa różne pokolenia. Legendarna Gillian Anderson wciela się w rolę ekscentrycznej diwy, a znana z serialu „Hacks” Hannah Einbinder w niepewną swojej pozycji, ale utalentowaną reżyserkę. Razem tworzą najbardziej elektryzujący ekranowy duet tego roku.",
@@ -826,7 +826,7 @@
               "Dramat"
             ],
             "rating": 6.9,
-            "votes": 7932
+            "votes": 7975
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/fatherland_2026",
@@ -875,8 +875,8 @@
         "shortDescription": "Futurystyczny thriller science-fiction, którego akcja rozgrywa się w niedalekiej przyszłości, gdzie porządek społeczny wyznacza świadoma sztuczna inteligencja.",
         "genres": [
           "Kryminał",
-          "Thriller",
-          "Sci-Fi"
+          "Sci-Fi",
+          "Thriller"
         ],
         "external": {
           "imdb": {
@@ -890,11 +890,11 @@
             "url": "https://www.filmweb.pl/film/Hot+Spot-2026-10069059",
             "genres": [
               "Kryminał",
-              "Thriller",
-              "Sci-Fi"
+              "Sci-Fi",
+              "Thriller"
             ],
-            "rating": 3.7,
-            "votes": 1180
+            "rating": 3.8,
+            "votes": 1282
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/hot_spot_2026",
@@ -958,7 +958,7 @@
               "Dokumentalny"
             ],
             "rating": 7.3,
-            "votes": 927
+            "votes": 944
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/closure_2026",

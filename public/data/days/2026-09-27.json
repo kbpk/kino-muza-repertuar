@@ -1,12 +1,12 @@
 {
   "schemaVersion": 1,
   "date": "2026-09-27",
-  "updatedAt": "2026-09-27T15:09:31.007Z",
+  "updatedAt": "2026-09-27T19:45:32.008Z",
   "source": "https://www.kinomuza.pl/repertoire/day/",
   "day": {
     "id": "00",
     "date": "27.09",
-    "now": "2026-09-27 17:08:32",
+    "now": "2026-09-27 21:44:44",
     "info": [],
     "repertoire": [
       {
@@ -883,7 +883,7 @@
             "id": "tt14119302",
             "url": "https://www.imdb.com/title/tt14119302/",
             "rating": 3.8,
-            "votes": 660
+            "votes": 679
           },
           "filmweb": {
             "id": "10069059",

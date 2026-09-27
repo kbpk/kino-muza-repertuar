@@ -1,12 +1,12 @@
 {
   "schemaVersion": 1,
   "date": "2026-10-14",
-  "updatedAt": "2026-09-26T19:12:18.308Z",
+  "updatedAt": "2026-09-27T15:09:31.007Z",
   "source": "https://www.kinomuza.pl/repertoire/day/",
   "day": {
-    "id": "18",
+    "id": "17",
     "date": "14.10",
-    "now": "2026-09-26 21:12:04",
+    "now": "2026-09-27 17:09:07",
     "info": [],
     "repertoire": [
       {
@@ -56,7 +56,7 @@
               "Dramat historyczny"
             ],
             "rating": 7.1,
-            "votes": 799
+            "votes": 813
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/rose_2026",

@@ -1,12 +1,12 @@
 {
   "schemaVersion": 1,
   "date": "2026-09-29",
-  "updatedAt": "2026-09-28T18:08:51.069Z",
+  "updatedAt": "2026-09-29T16:30:13.267Z",
   "source": "https://www.kinomuza.pl/repertoire/day/",
   "day": {
-    "id": "01",
+    "id": "00",
     "date": "29.09",
-    "now": "2026-09-28 20:08:13",
+    "now": "2026-09-29 18:29:01",
     "info": [],
     "repertoire": [
       {
@@ -439,7 +439,7 @@
             "id": "tt0061722",
             "url": "https://www.imdb.com/title/tt0061722/",
             "rating": 8,
-            "votes": 304338
+            "votes": 304400
           },
           "filmweb": {
             "id": "1042",
@@ -448,7 +448,7 @@
               "Dramat obyczajowy"
             ],
             "rating": 7.9,
-            "votes": 86869
+            "votes": 86876
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/graduate",
@@ -496,27 +496,27 @@
         "description": "Opowieść o podróży Odyseusza, króla Itaki, który musi stawić czoła licznym wyzwaniom próbując wrócić do domu po wojnie trojańskiej.",
         "shortDescription": "Opowieść o podróży Odyseusza, króla Itaki, który musi stawić czoła licznym wyzwaniom próbując wrócić do domu po wojnie trojańskiej.",
         "genres": [
-          "Fantasy",
+          "Dramat",
           "Przygodowy",
-          "Dramat"
+          "Fantasy"
         ],
         "external": {
           "imdb": {
             "id": "tt33764258",
             "url": "https://www.imdb.com/title/tt33764258/",
             "rating": 8.4,
-            "votes": 508891
+            "votes": 512249
           },
           "filmweb": {
             "id": "10068387",
             "url": "https://www.filmweb.pl/film/Odyseja-2026-10068387",
             "genres": [
-              "Fantasy",
+              "Dramat",
               "Przygodowy",
-              "Dramat"
+              "Fantasy"
             ],
             "rating": 7.7,
-            "votes": 71566
+            "votes": 71684
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/the_odyssey_2026",
@@ -526,9 +526,9 @@
               "Christopher Nolan"
             ],
             "criticsRating": 94,
-            "criticsVotes": 513,
+            "criticsVotes": 514,
             "audienceRating": 96,
-            "audienceVotes": 34011
+            "audienceVotes": 34069
           }
         },
         "longDescription": "Christopher Nolan, który nakręcił takie filmy jak „Interstellar” oraz „Oppenheimer” jest znany z tego, że nie boi się żadnego gatunku filmowego. Po świetnie przyjętym i nagrodzonym 7 Oscarami® „Oppenheimerze” opowiadajacym historię powstania pierwszej bomby atomowej, teraz reżyser pracuje nad adaptacją „Odysei”.\n\nTo opowieść autorstwa Homera uznawana za jedno z najważniejszych dzieł literatury zachodniej. Opowiada o podróży Odyseusza, króla Itaki, który musi stawić czoła licznym wyzwaniom próbując wrócić do domu po wojnie trojańskiej. Powstała już niejedna ekranizacja klasycznego dzieła Homera, ale tym razem film nakręcony zostanie w technologii IMAX i będzie pierwszym tak nowoczesnym podejściem do „Odysei”.\n\nW filmie „Odysei” zobaczymy między innymi: Matta Damona, Toma Hollanda, Anne Hathaway, Zendayę, Roberta Pattinsona, Lupite Nyong’o oraz Charlize Theron.",
@@ -573,7 +573,7 @@
             "id": "tt14905854",
             "url": "https://www.imdb.com/title/tt14905854/",
             "rating": 7.8,
-            "votes": 136418
+            "votes": 136818
           },
           "filmweb": {
             "id": "10035555",
@@ -584,7 +584,7 @@
               "Kostiumowy"
             ],
             "rating": 7.6,
-            "votes": 29456
+            "votes": 29477
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/hamnet",
@@ -697,8 +697,8 @@
         "description": "Aktualna opowieść o poszukiwaniu sensu w świecie, w którym wszelki sens został zagubiony. Oszczędne dialogi i piękne czarno-białe zdjęcia, stanowiące hołd dla klasycznego kina.",
         "shortDescription": "Aktualna opowieść o poszukiwaniu sensu w świecie, w którym wszelki sens został zagubiony. Oszczędne dialogi i piękne czarno-białe zdjęcia, stanowiące hołd dla klasycznego kina.",
         "genres": [
-          "Dramat",
-          "Kryminał"
+          "Kryminał",
+          "Dramat"
         ],
         "external": {
           "imdb": null,
@@ -706,11 +706,11 @@
             "id": "10089279",
             "url": "https://www.filmweb.pl/film/Obcy-2025-10089279",
             "genres": [
-              "Dramat",
-              "Kryminał"
+              "Kryminał",
+              "Dramat"
             ],
             "rating": 7,
-            "votes": 2235
+            "votes": 2322
           },
           "rottenTomatoes": null
         },
@@ -756,7 +756,7 @@
             "id": "tt14119302",
             "url": "https://www.imdb.com/title/tt14119302/",
             "rating": 3.8,
-            "votes": 679
+            "votes": 707
           },
           "filmweb": {
             "id": "10069059",
@@ -767,7 +767,7 @@
               "Thriller"
             ],
             "rating": 3.8,
-            "votes": 1350
+            "votes": 1414
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/hot_spot_2026",

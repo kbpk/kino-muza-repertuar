@@ -1,12 +1,12 @@
 {
   "schemaVersion": 1,
   "date": "2026-10-01",
-  "updatedAt": "2026-09-28T18:08:51.069Z",
+  "updatedAt": "2026-09-29T16:30:13.267Z",
   "source": "https://www.kinomuza.pl/repertoire/day/",
   "day": {
-    "id": "03",
+    "id": "02",
     "date": "01.10",
-    "now": "2026-09-28 20:08:15",
+    "now": "2026-09-29 18:29:02",
     "info": [],
     "repertoire": [
       {
@@ -46,8 +46,8 @@
           "imdb": {
             "id": "tt35298123",
             "url": "https://www.imdb.com/title/tt35298123/",
-            "rating": 6.7,
-            "votes": 15325
+            "rating": 6.6,
+            "votes": 16359
           },
           "filmweb": {
             "id": "10114411",
@@ -56,7 +56,7 @@
               "Czarna komedia"
             ],
             "rating": 6.7,
-            "votes": 2957
+            "votes": 3008
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/teenage_sex_and_death_at_camp_miasma",
@@ -66,7 +66,7 @@
               "Jane Schoenbrun"
             ],
             "criticsRating": 94,
-            "criticsVotes": 270,
+            "criticsVotes": 271,
             "audienceRating": 78,
             "audienceVotes": 548
           }
@@ -168,7 +168,7 @@
             "id": "tt29283995",
             "url": "https://www.imdb.com/title/tt29283995/",
             "rating": 7,
-            "votes": 1677
+            "votes": 1715
           },
           "filmweb": {
             "id": "10093851",
@@ -177,7 +177,7 @@
               "Dramat"
             ],
             "rating": 6.9,
-            "votes": 798
+            "votes": 822
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/hen",
@@ -189,7 +189,7 @@
             "criticsRating": 100,
             "criticsVotes": 13,
             "audienceRating": null,
-            "audienceVotes": 15
+            "audienceVotes": 16
           }
         },
         "longDescription": "Główną bohaterką nowego filmu cenionego węgierskiego reżysera Györgya Pálfiego jest tytułowa kura. Pozornie bezbronne zwierzę ucieka z przemysłowej fermy drobiu w poszukiwaniu bezpiecznego miejsca, by wychować swoje pisklęta.\n\nTrafia do greckiej nadmorskiej wioski, gdzie schwytana zostaje przez właściciela podupadłej restauracji i siłą rzeczy „wchodzi” do ludzkiego świata. Jest uważną obserwatorką zupełnie obcej dla niej rzeczywistości. Staje się też niemym świadkiem ludzkich dramatów, związanych z kryzysem migracyjnym, rodzinnymi konfliktami czy chciwością. W rolę głównej bohaterki wcieliło się osiem prawdziwych węgierskich kur: Eszti, Szandi, Feri, Enci, Eti, Enikő, Nóra i Anett. \n\nPrzyjmując nieoczywistą perspektywę, Pálfi opowiada o uniwersalnych wartościach – wolności, bezpieczeństwie, macierzyństwie – jakich poszukują jak widać nie tylko ludzie. Węgierski reżyser odważnie łączy filmowe gatunki, tworząc historię, która z jednej strony może nas bawić, a z drugiej jest prawdziwie poruszająca.",
@@ -329,7 +329,7 @@
             "id": "tt14119302",
             "url": "https://www.imdb.com/title/tt14119302/",
             "rating": 3.8,
-            "votes": 679
+            "votes": 707
           },
           "filmweb": {
             "id": "10069059",
@@ -340,7 +340,7 @@
               "Thriller"
             ],
             "rating": 3.8,
-            "votes": 1350
+            "votes": 1414
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/hot_spot_2026",
@@ -389,8 +389,8 @@
         "description": "Aktualna opowieść o poszukiwaniu sensu w świecie, w którym wszelki sens został zagubiony. Oszczędne dialogi i piękne czarno-białe zdjęcia, stanowiące hołd dla klasycznego kina.",
         "shortDescription": "Aktualna opowieść o poszukiwaniu sensu w świecie, w którym wszelki sens został zagubiony. Oszczędne dialogi i piękne czarno-białe zdjęcia, stanowiące hołd dla klasycznego kina.",
         "genres": [
-          "Dramat",
-          "Kryminał"
+          "Kryminał",
+          "Dramat"
         ],
         "external": {
           "imdb": null,
@@ -398,11 +398,11 @@
             "id": "10089279",
             "url": "https://www.filmweb.pl/film/Obcy-2025-10089279",
             "genres": [
-              "Dramat",
-              "Kryminał"
+              "Kryminał",
+              "Dramat"
             ],
             "rating": 7,
-            "votes": 2235
+            "votes": 2322
           },
           "rottenTomatoes": null
         },
@@ -503,7 +503,7 @@
             "id": "tt39075417",
             "url": "https://www.imdb.com/title/tt39075417/",
             "rating": 7.1,
-            "votes": 96
+            "votes": 98
           },
           "filmweb": {
             "id": "10081351",
@@ -512,7 +512,7 @@
               "Dokumentalny"
             ],
             "rating": 7.3,
-            "votes": 952
+            "votes": 962
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/closure_2026",
@@ -570,7 +570,7 @@
             "id": "tt33095251",
             "url": "https://www.imdb.com/title/tt33095251/",
             "rating": 7.4,
-            "votes": 13207
+            "votes": 14046
           },
           "filmweb": {
             "id": "10079933",
@@ -581,7 +581,7 @@
               "Komedia"
             ],
             "rating": 7.1,
-            "votes": 7017
+            "votes": 7135
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/tony_2026",
@@ -593,7 +593,7 @@
             "criticsRating": 93,
             "criticsVotes": 232,
             "audienceRating": 93,
-            "audienceVotes": 961
+            "audienceVotes": 963
           }
         },
         "longDescription": "Anthony Bourdain – buntownik, outsider, głos pokolenia, jeden z najbardziej znanych szefów kuchni i jedna z największych, najbardziej charyzmatycznych osobowości telewizyjnych. Podróżnik, pisarz, odkrywca, którego miliony ludzi na całym świecie pokochały za bezkompromisowy styl, miłość do życia, szacunek do ludzi, odwagę, ciekawość świata i autentyczność. „Tony” to historia początków jego drogi – kim był, zanim stał się Anthonym Bourdainem.\n\nUpalne lato 1976 roku, Provincetown – miasto pulsujące wolnością, seksem i energią. Młody, marzący o karierze pisarza, Tony (Dominic Sessa), by podreperować budżet, trafia na zmywak do restauracji serwującej owoce morza, prowadzonej przez tajemniczego szefa kuchni (Antonio Banderas). W intensywnej, chaotycznej, a jednocześnie niezwykle kreatywnej atmosferze Tony odkrywa swoją pasję, powołanie i to, kim tak naprawdę jest.\n\nFilm dostępny z audiodeskrypcją lub lektorem. Skorzystaj bezpłatnie z aplikacji Kino Dostępne 2.0 w Twoim telefonie – http://kinodostepne.pl",

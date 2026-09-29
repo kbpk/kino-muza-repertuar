@@ -1,12 +1,12 @@
 {
   "schemaVersion": 1,
   "date": "2026-12-01",
-  "updatedAt": "2026-09-28T18:08:51.069Z",
+  "updatedAt": "2026-09-29T16:30:13.267Z",
   "source": "https://www.kinomuza.pl/repertoire/day/",
   "day": {
-    "id": "64",
+    "id": "63",
     "date": "01.12",
-    "now": "2026-09-28 20:08:25",
+    "now": "2026-09-29 18:29:31",
     "info": [],
     "repertoire": [
       {
@@ -46,7 +46,7 @@
             "id": "tt0065226",
             "url": "https://www.imdb.com/title/tt0065226/",
             "rating": 6.8,
-            "votes": 990
+            "votes": 991
           },
           "filmweb": {
             "id": "1119",
@@ -55,7 +55,7 @@
               "Dramat"
             ],
             "rating": 7.2,
-            "votes": 7174
+            "votes": 7175
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/everything_for_sale_1987",

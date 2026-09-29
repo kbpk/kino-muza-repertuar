@@ -1,17 +1,17 @@
 {
   "schemaVersion": 1,
-  "date": "2026-10-06",
+  "date": "2026-10-08",
   "updatedAt": "2026-09-29T16:30:13.267Z",
   "source": "https://www.kinomuza.pl/repertoire/day/",
   "day": {
-    "id": "07",
-    "date": "06.10",
-    "now": "2026-09-29 18:29:04",
+    "id": "09",
+    "date": "08.10",
+    "now": "2026-09-29 18:29:13",
     "info": [],
     "repertoire": [
       {
-        "hour": "14:00",
-        "datetime": "2026-10-06 14:00:00",
+        "hour": "14:45",
+        "datetime": "2026-10-08 14:45:00",
         "title": "Lalka",
         "originalTitle": "",
         "director": "Maciej Kawalski",
@@ -27,7 +27,7 @@
         "desc": "<p>Dzieło Prusa od blisko 140 lat rozpala emocje i wyobraźnię kolejnych pokoleń. Teraz ta ponadczasowa historia trafia na wielki ekran w nowej, spektakularnej, filmowej odsłonie.</p>\n",
         "hall": "1",
         "movieLink": "https://www.kinomuza.pl/movie/lalka/",
-        "ticketLink": "https://estradapoznan.bilety24.pl/kup-bilety/?id=998144#total",
+        "ticketLink": "https://estradapoznan.bilety24.pl/kup-bilety/?id=998164#total",
         "prePremier": false,
         "tape35mm": false,
         "ad": false,
@@ -36,6 +36,7 @@
         "ticketHalfPrice": "",
         "alt": "Lalka",
         "thumb": "https://www.kinomuza.pl/content/uploads/2026/09/lalka-3-800x450.jpg",
+        "cycle": "przyzwoicie tanie czwartki",
         "description": "Dzieło Prusa od blisko 140 lat rozpala emocje i wyobraźnię kolejnych pokoleń. Teraz ta ponadczasowa historia trafia na wielki ekran w nowej, spektakularnej, filmowej odsłonie.",
         "shortDescription": "Dzieło Prusa od blisko 140 lat rozpala emocje i wyobraźnię kolejnych pokoleń. Teraz ta ponadczasowa historia trafia na wielki ekran w nowej, spektakularnej, filmowej odsłonie.",
         "genres": [
@@ -65,76 +66,59 @@
         "poster": "media/posters/2f797fdbd82b582ae91e.webp"
       },
       {
-        "hour": "14:15",
-        "datetime": "2026-10-06 14:15:00",
-        "title": "Tony",
-        "originalTitle": "Tony",
-        "director": "Matt Johnson",
-        "year": "2026",
-        "premiereDate": "2026-09-04",
-        "duration": "106",
-        "countries": "USA",
-        "shortDesc": "<p>Młody Anthony Bourdain podczas upalnego lata 1976 roku odkrywa swoją pasję, powołanie i to, kim tak naprawdę jest.</p>\n",
-        "lang": "en",
+        "hour": "15:00",
+        "datetime": "2026-10-08 15:00:00",
+        "title": "Obcy",
+        "originalTitle": "L’étranger",
+        "director": "François Ozon",
+        "year": "2025",
+        "premiereDate": "2026-09-18",
+        "duration": "122",
+        "countries": "francja",
+        "shortDesc": "<p>Aktualna opowieść o poszukiwaniu sensu w świecie, w którym wszelki sens został zagubiony. Oszczędne dialogi i piękne czarno-białe zdjęcia, stanowiące hołd dla klasycznego kina.</p>\n",
+        "lang": "",
         "subtitlesLang": "pl",
         "age": "16",
-        "credits": "reż.  Matt Johnson <br>USA <br>2026,106’",
-        "desc": "<p>Młody Anthony Bourdain podczas upalnego lata 1976 roku odkrywa swoją pasję, powołanie i to, kim tak naprawdę jest.</p>\n",
+        "credits": "reż. François Ozon <br>francja <br>2025,122’",
+        "desc": "<p>Aktualna opowieść o poszukiwaniu sensu w świecie, w którym wszelki sens został zagubiony. Oszczędne dialogi i piękne czarno-białe zdjęcia, stanowiące hołd dla klasycznego kina.</p>\n",
         "hall": "2",
-        "movieLink": "https://www.kinomuza.pl/movie/tony/",
-        "ticketLink": "https://estradapoznan.bilety24.pl/kup-bilety/?id=998146#total",
+        "movieLink": "https://www.kinomuza.pl/movie/letranger/",
+        "ticketLink": "https://estradapoznan.bilety24.pl/kup-bilety/?id=998169#total",
         "prePremier": false,
         "tape35mm": false,
         "ad": false,
         "deaf": false,
         "ticketPrice": "",
         "ticketHalfPrice": "",
-        "alt": "Tony",
-        "thumb": "https://www.kinomuza.pl/content/uploads/2026/09/57ef7a282819ac320da3a5de72836119-800x450.jpg",
-        "description": "Młody Anthony Bourdain podczas upalnego lata 1976 roku odkrywa swoją pasję, powołanie i to, kim tak naprawdę jest.",
-        "shortDescription": "Młody Anthony Bourdain podczas upalnego lata 1976 roku odkrywa swoją pasję, powołanie i to, kim tak naprawdę jest.",
+        "alt": "Obcy",
+        "thumb": "https://www.kinomuza.pl/content/uploads/2026/05/obcy-1-800x450.jpg",
+        "cycle": "przyzwoicie tanie czwartki",
+        "description": "Aktualna opowieść o poszukiwaniu sensu w świecie, w którym wszelki sens został zagubiony. Oszczędne dialogi i piękne czarno-białe zdjęcia, stanowiące hołd dla klasycznego kina.",
+        "shortDescription": "Aktualna opowieść o poszukiwaniu sensu w świecie, w którym wszelki sens został zagubiony. Oszczędne dialogi i piękne czarno-białe zdjęcia, stanowiące hołd dla klasycznego kina.",
         "genres": [
-          "Biograficzny",
-          "Dramat",
-          "Komedia"
+          "Kryminał",
+          "Dramat"
         ],
         "external": {
-          "imdb": {
-            "id": "tt33095251",
-            "url": "https://www.imdb.com/title/tt33095251/",
-            "rating": 7.4,
-            "votes": 14046
-          },
+          "imdb": null,
           "filmweb": {
-            "id": "10079933",
-            "url": "https://www.filmweb.pl/film/Tony-2026-10079933",
+            "id": "10089279",
+            "url": "https://www.filmweb.pl/film/Obcy-2025-10089279",
             "genres": [
-              "Biograficzny",
-              "Dramat",
-              "Komedia"
+              "Kryminał",
+              "Dramat"
             ],
-            "rating": 7.1,
-            "votes": 7135
+            "rating": 7,
+            "votes": 2322
           },
-          "rottenTomatoes": {
-            "url": "https://www.rottentomatoes.com/m/tony_2026",
-            "title": "Tony (2026)",
-            "year": "2026",
-            "directors": [
-              "Matt Johnson"
-            ],
-            "criticsRating": 93,
-            "criticsVotes": 232,
-            "audienceRating": 93,
-            "audienceVotes": 963
-          }
+          "rottenTomatoes": null
         },
-        "longDescription": "Anthony Bourdain – buntownik, outsider, głos pokolenia, jeden z najbardziej znanych szefów kuchni i jedna z największych, najbardziej charyzmatycznych osobowości telewizyjnych. Podróżnik, pisarz, odkrywca, którego miliony ludzi na całym świecie pokochały za bezkompromisowy styl, miłość do życia, szacunek do ludzi, odwagę, ciekawość świata i autentyczność. „Tony” to historia początków jego drogi – kim był, zanim stał się Anthonym Bourdainem.\n\nUpalne lato 1976 roku, Provincetown – miasto pulsujące wolnością, seksem i energią. Młody, marzący o karierze pisarza, Tony (Dominic Sessa), by podreperować budżet, trafia na zmywak do restauracji serwującej owoce morza, prowadzonej przez tajemniczego szefa kuchni (Antonio Banderas). W intensywnej, chaotycznej, a jednocześnie niezwykle kreatywnej atmosferze Tony odkrywa swoją pasję, powołanie i to, kim tak naprawdę jest.\n\nFilm dostępny z audiodeskrypcją lub lektorem. Skorzystaj bezpłatnie z aplikacji Kino Dostępne 2.0 w Twoim telefonie – http://kinodostepne.pl",
-        "poster": "media/posters/4c5e33e77e2fa1c55b1f.webp"
+        "longDescription": "„Obcy” ( L’étranger ) to nowa ekranizacja jednej z najwybitniejszych francuskich powieści XX wieku autorstwa Alberta Camusa, opublikowanej w 1942 roku.\n\nFrançois Ozon opowiada historię Meursaulta, skromnego, niepozornego urzędnika, którego codziennej rutyny nie przerywa nawet śmierć matki. Do czasu, gdy pewnego gorącego dnia na plaży dochodzi do tragicznego zdarzenia. Adaptacja Ozona, która miała premierę w Konkursie Głównym festiwalu w Wenecji, to niezwykle aktualna opowieść o poszukiwaniu sensu w świecie, w którym wszelki sens został zagubiony. Oszczędne dialogi i piękne czarno-białe zdjęcia, stanowiące hołd dla klasycznego kina, budują wyjątkową atmosferę filmu. W rolach głównych Benjamin Voisin („Stracone złudzenia”, „Lato ‘85”) oraz Rebecca Marder („Moja zbrodnia”).",
+        "poster": "media/posters/8cef881389870c3fdbd8.webp"
       },
       {
-        "hour": "14:45",
-        "datetime": "2026-10-06 14:45:00",
+        "hour": "15:00",
+        "datetime": "2026-10-08 15:00:00",
         "title": "Zapomniana wyspa",
         "originalTitle": "FORGOTTEN ISLAND",
         "director": "Joel Crawford, Januel Mercado",
@@ -150,7 +134,7 @@
         "desc": "<p>To komedia przygodowa, która przenosi bohaterów na dawno zapomnianą, magiczną wyspę. Warto walczyć o najlepszą przyjaźń.</p>\n",
         "hall": "3",
         "movieLink": "https://www.kinomuza.pl/movie/zapomniana-wyspa/",
-        "ticketLink": "https://estradapoznan.bilety24.pl/kup-bilety/?id=998150#total",
+        "ticketLink": "https://estradapoznan.bilety24.pl/kup-bilety/?id=998173#total",
         "prePremier": false,
         "tape35mm": false,
         "ad": false,
@@ -204,245 +188,73 @@
         "poster": "media/posters/626e1f16f3c8efb83633.webp"
       },
       {
-        "hour": "16:15",
-        "datetime": "2026-10-06 16:15:00",
-        "title": "Tony",
-        "originalTitle": "Tony",
-        "director": "Matt Johnson",
+        "hour": "17:00",
+        "datetime": "2026-10-08 17:00:00",
+        "title": "Miłość, śmierć i dojrzewanie w camp Miasma",
+        "originalTitle": "Teenage Sex and Death at Camp Miasma",
+        "director": "Jane Schoenbrun",
         "year": "2026",
         "premiereDate": "2026-09-04",
         "duration": "106",
         "countries": "USA",
-        "shortDesc": "<p>Młody Anthony Bourdain podczas upalnego lata 1976 roku odkrywa swoją pasję, powołanie i to, kim tak naprawdę jest.</p>\n",
+        "shortDesc": "<p>Na dnie jeziora jest dziura. To z niej pochodzą filmy. Przygotujcie się na Małą Śmierć.</p>\n",
         "lang": "en",
         "subtitlesLang": "pl",
         "age": "16",
-        "credits": "reż.  Matt Johnson <br>USA <br>2026,106’",
-        "desc": "<p>Młody Anthony Bourdain podczas upalnego lata 1976 roku odkrywa swoją pasję, powołanie i to, kim tak naprawdę jest.</p>\n",
-        "hall": "2",
-        "movieLink": "https://www.kinomuza.pl/movie/tony/",
-        "ticketLink": "https://estradapoznan.bilety24.pl/kup-bilety/?id=998147#total",
+        "credits": "reż.  Jane Schoenbrun <br>USA <br>2026,106’",
+        "desc": "<p>Na dnie jeziora jest dziura. To z niej pochodzą filmy. Przygotujcie się na Małą Śmierć.</p>\n",
+        "hall": "3",
+        "movieLink": "https://www.kinomuza.pl/movie/milosc-smierc-i-dojrzewanie-na-camp-miasma/",
+        "ticketLink": "https://estradapoznan.bilety24.pl/kup-bilety/?id=998174#total",
         "prePremier": false,
         "tape35mm": false,
         "ad": false,
         "deaf": false,
         "ticketPrice": "",
         "ticketHalfPrice": "",
-        "alt": "Tony",
-        "thumb": "https://www.kinomuza.pl/content/uploads/2026/09/57ef7a282819ac320da3a5de72836119-800x450.jpg",
-        "description": "Młody Anthony Bourdain podczas upalnego lata 1976 roku odkrywa swoją pasję, powołanie i to, kim tak naprawdę jest.",
-        "shortDescription": "Młody Anthony Bourdain podczas upalnego lata 1976 roku odkrywa swoją pasję, powołanie i to, kim tak naprawdę jest.",
+        "alt": "Miłość, śmierć i dojrzewanie w camp Miasma",
+        "thumb": "https://www.kinomuza.pl/content/uploads/2026/08/camp-1-800x450.jpg",
+        "cycle": "przyzwoicie tanie czwartki",
+        "description": "Na dnie jeziora jest dziura. To z niej pochodzą filmy. Przygotujcie się na Małą Śmierć.",
+        "shortDescription": "Na dnie jeziora jest dziura. To z niej pochodzą filmy. Przygotujcie się na Małą Śmierć.",
         "genres": [
-          "Biograficzny",
-          "Dramat",
-          "Komedia"
+          "Czarna komedia"
         ],
         "external": {
           "imdb": {
-            "id": "tt33095251",
-            "url": "https://www.imdb.com/title/tt33095251/",
-            "rating": 7.4,
-            "votes": 14046
+            "id": "tt35298123",
+            "url": "https://www.imdb.com/title/tt35298123/",
+            "rating": 6.6,
+            "votes": 16359
           },
           "filmweb": {
-            "id": "10079933",
-            "url": "https://www.filmweb.pl/film/Tony-2026-10079933",
+            "id": "10114411",
+            "url": "https://www.filmweb.pl/film/Mi%C5%82o%C5%9B%C4%87%2C+%C5%9Bmier%C4%87+i+dojrzewanie+w+Camp+Miasma-2026-10114411",
             "genres": [
-              "Biograficzny",
-              "Dramat",
-              "Komedia"
+              "Czarna komedia"
             ],
-            "rating": 7.1,
-            "votes": 7135
+            "rating": 6.7,
+            "votes": 3008
           },
           "rottenTomatoes": {
-            "url": "https://www.rottentomatoes.com/m/tony_2026",
-            "title": "Tony (2026)",
+            "url": "https://www.rottentomatoes.com/m/teenage_sex_and_death_at_camp_miasma",
+            "title": "Teenage Sex and Death at Camp Miasma",
             "year": "2026",
             "directors": [
-              "Matt Johnson"
+              "Jane Schoenbrun"
             ],
-            "criticsRating": 93,
-            "criticsVotes": 232,
-            "audienceRating": 93,
-            "audienceVotes": 963
+            "criticsRating": 94,
+            "criticsVotes": 271,
+            "audienceRating": 78,
+            "audienceVotes": 548
           }
         },
-        "longDescription": "Anthony Bourdain – buntownik, outsider, głos pokolenia, jeden z najbardziej znanych szefów kuchni i jedna z największych, najbardziej charyzmatycznych osobowości telewizyjnych. Podróżnik, pisarz, odkrywca, którego miliony ludzi na całym świecie pokochały za bezkompromisowy styl, miłość do życia, szacunek do ludzi, odwagę, ciekawość świata i autentyczność. „Tony” to historia początków jego drogi – kim był, zanim stał się Anthonym Bourdainem.\n\nUpalne lato 1976 roku, Provincetown – miasto pulsujące wolnością, seksem i energią. Młody, marzący o karierze pisarza, Tony (Dominic Sessa), by podreperować budżet, trafia na zmywak do restauracji serwującej owoce morza, prowadzonej przez tajemniczego szefa kuchni (Antonio Banderas). W intensywnej, chaotycznej, a jednocześnie niezwykle kreatywnej atmosferze Tony odkrywa swoją pasję, powołanie i to, kim tak naprawdę jest.\n\nFilm dostępny z audiodeskrypcją lub lektorem. Skorzystaj bezpłatnie z aplikacji Kino Dostępne 2.0 w Twoim telefonie – http://kinodostepne.pl",
-        "poster": "media/posters/4c5e33e77e2fa1c55b1f.webp"
+        "longDescription": "Na dnie jeziora jest dziura. To z niej pochodzą filmy.\n\nMłoda, utalentowana reżyserka Kris (Hannah Einbinder) dostaje od studia filmowego szansę życia – ma nakręcić remake kultowej serii horrorów „Camp Miasma”, która cieszyła się ogromną popularnością w latach osiemdziesiątych i dziewięćdziesiątych. Aby znaleźć inspirację, udaje się na spotkanie z Billy (Gillian Anderson), która grała główną rolę w pierwowzorze projektu. Wizyta u ekscentrycznej aktorki szybko przeradza się w coś więcej niż zwykły wywiad.\n\n„Miłość, śmierć i dojrzewanie w Camp Miasma” zadebiutowała na festiwalu w Cannes, gdzie szturmem zdobyła serca krytyków i widzów – a także prestiżową nominację w sekcji Un Certain Regard. Najnowszy film Jane Shoenbrun (twórcy docenianego „W blasku ekranu”) ma obecnie 100% pozytywnych recenzji na Rotten Tomatoes, a widzowie wychodzą z seansów zachwyceni.\n\nChoć film Shoenbrun opowiada o powstawaniu fikcyjnej serii horrorów, sam w sobie horrorem nie jest, a zaledwie czerpie z jego estetyki. To przepiękna pod względem wizualnym kinofilska uczta opowiadająca przede wszystkim o bezgranicznej miłości do kina. I o tym, jak ta miłość zmienia nasze życie.\n\nW centrum tej opowieści stoją dwie aktorki reprezentujące dwa różne pokolenia. Legendarna Gillian Anderson wciela się w rolę ekscentrycznej diwy, a znana z serialu „Hacks” Hannah Einbinder w niepewną swojej pozycji, ale utalentowaną reżyserkę. Razem tworzą najbardziej elektryzujący ekranowy duet tego roku.",
+        "poster": "media/posters/1294a835ebec7b71a0d9.webp"
       },
       {
-        "hour": "16:45",
-        "datetime": "2026-10-06 16:45:00",
-        "title": "Obcy",
-        "originalTitle": "L’étranger",
-        "director": "François Ozon",
-        "year": "2025",
-        "premiereDate": "2026-09-18",
-        "duration": "122",
-        "countries": "francja",
-        "shortDesc": "<p>Aktualna opowieść o poszukiwaniu sensu w świecie, w którym wszelki sens został zagubiony. Oszczędne dialogi i piękne czarno-białe zdjęcia, stanowiące hołd dla klasycznego kina.</p>\n",
-        "lang": "",
-        "subtitlesLang": "pl",
-        "age": "16",
-        "credits": "reż. François Ozon <br>francja <br>2025,122’",
-        "desc": "<p>Aktualna opowieść o poszukiwaniu sensu w świecie, w którym wszelki sens został zagubiony. Oszczędne dialogi i piękne czarno-białe zdjęcia, stanowiące hołd dla klasycznego kina.</p>\n",
-        "hall": "3",
-        "movieLink": "https://www.kinomuza.pl/movie/letranger/",
-        "ticketLink": "https://estradapoznan.bilety24.pl/kup-bilety/?id=998151#total",
-        "prePremier": false,
-        "tape35mm": false,
-        "ad": false,
-        "deaf": false,
-        "ticketPrice": "",
-        "ticketHalfPrice": "",
-        "alt": "Obcy",
-        "thumb": "https://www.kinomuza.pl/content/uploads/2026/05/obcy-1-800x450.jpg",
-        "description": "Aktualna opowieść o poszukiwaniu sensu w świecie, w którym wszelki sens został zagubiony. Oszczędne dialogi i piękne czarno-białe zdjęcia, stanowiące hołd dla klasycznego kina.",
-        "shortDescription": "Aktualna opowieść o poszukiwaniu sensu w świecie, w którym wszelki sens został zagubiony. Oszczędne dialogi i piękne czarno-białe zdjęcia, stanowiące hołd dla klasycznego kina.",
-        "genres": [
-          "Kryminał",
-          "Dramat"
-        ],
-        "external": {
-          "imdb": null,
-          "filmweb": {
-            "id": "10089279",
-            "url": "https://www.filmweb.pl/film/Obcy-2025-10089279",
-            "genres": [
-              "Kryminał",
-              "Dramat"
-            ],
-            "rating": 7,
-            "votes": 2322
-          },
-          "rottenTomatoes": null
-        },
-        "longDescription": "„Obcy” ( L’étranger ) to nowa ekranizacja jednej z najwybitniejszych francuskich powieści XX wieku autorstwa Alberta Camusa, opublikowanej w 1942 roku.\n\nFrançois Ozon opowiada historię Meursaulta, skromnego, niepozornego urzędnika, którego codziennej rutyny nie przerywa nawet śmierć matki. Do czasu, gdy pewnego gorącego dnia na plaży dochodzi do tragicznego zdarzenia. Adaptacja Ozona, która miała premierę w Konkursie Głównym festiwalu w Wenecji, to niezwykle aktualna opowieść o poszukiwaniu sensu w świecie, w którym wszelki sens został zagubiony. Oszczędne dialogi i piękne czarno-białe zdjęcia, stanowiące hołd dla klasycznego kina, budują wyjątkową atmosferę filmu. W rolach głównych Benjamin Voisin („Stracone złudzenia”, „Lato ‘85”) oraz Rebecca Marder („Moja zbrodnia”).",
-        "poster": "media/posters/8cef881389870c3fdbd8.webp"
-      },
-      {
-        "hour": "17:00",
-        "datetime": "2026-10-06 17:00:00",
-        "title": "Lalka",
-        "originalTitle": "",
-        "director": "Maciej Kawalski",
-        "year": "2026",
-        "premiereDate": "2026-09-30",
-        "duration": "162",
-        "countries": "Polska",
-        "shortDesc": "<p>Dzieło Prusa od blisko 140 lat rozpala emocje i wyobraźnię kolejnych pokoleń. Teraz ta ponadczasowa historia trafia na wielki ekran w nowej, spektakularnej, filmowej odsłonie.</p>\n",
-        "lang": "pl",
-        "subtitlesLang": "",
-        "age": "16",
-        "credits": "reż. Maciej Kawalski <br>Polska <br>2026,162’",
-        "desc": "<p>Dzieło Prusa od blisko 140 lat rozpala emocje i wyobraźnię kolejnych pokoleń. Teraz ta ponadczasowa historia trafia na wielki ekran w nowej, spektakularnej, filmowej odsłonie.</p>\n",
-        "hall": "1",
-        "movieLink": "https://www.kinomuza.pl/movie/lalka/",
-        "ticketLink": "https://estradapoznan.bilety24.pl/kup-bilety/?id=998145#total",
-        "prePremier": false,
-        "tape35mm": false,
-        "ad": false,
-        "deaf": false,
-        "ticketPrice": "",
-        "ticketHalfPrice": "",
-        "alt": "Lalka",
-        "thumb": "https://www.kinomuza.pl/content/uploads/2026/09/lalka-3-800x450.jpg",
-        "description": "Dzieło Prusa od blisko 140 lat rozpala emocje i wyobraźnię kolejnych pokoleń. Teraz ta ponadczasowa historia trafia na wielki ekran w nowej, spektakularnej, filmowej odsłonie.",
-        "shortDescription": "Dzieło Prusa od blisko 140 lat rozpala emocje i wyobraźnię kolejnych pokoleń. Teraz ta ponadczasowa historia trafia na wielki ekran w nowej, spektakularnej, filmowej odsłonie.",
-        "genres": [
-          "Kostiumowy",
-          "Dramat obyczajowy"
-        ],
-        "external": {
-          "imdb": {
-            "id": "tt37082105",
-            "url": "https://www.imdb.com/title/tt37082105/",
-            "rating": null,
-            "votes": null
-          },
-          "filmweb": {
-            "id": "10057628",
-            "url": "https://www.filmweb.pl/film/Lalka-2026-10057628",
-            "genres": [
-              "Kostiumowy",
-              "Dramat obyczajowy"
-            ],
-            "rating": 6,
-            "votes": 1
-          },
-          "rottenTomatoes": null
-        },
-        "longDescription": "Dzieło Bolesława Prusa od blisko 140 lat rozpala emocje i wyobraźnię kolejnych pokoleń. Teraz ta ponadczasowa historia trafia na wielki ekran w nowej, spektakularnej, filmowej odsłonie. „Lalka” to zrealizowana z ogromnym rozmachem superprodukcja i najbardziej gwiazdorski film w historii polskiego kina, gdzie pośród wielu wybitnych nazwisk, w rolach głównych występują: Marcin Dorociński jako Stanisław Wokulski, gwiazda „Chłopów” – Kamila Urzędowska jako Izabela Łęcka oraz powracający na wielki ekran po 16 latach Marek Kondrat w roli Ignacego Rzeckiego. Nowa ekranizacja „Lalki” to opowiedziana ze współczesną wrażliwością przejmująca, uniwersalna historia o miłości i niespełnieniu, o aspiracjach i przemianie, o świecie, który właśnie się kończy. To film, który zdarza się raz na kilka dekad: epicki, pełen emocji, zrealizowany z imponującą scenografią, dopracowanymi w najdrobniejszych detalach kostiumami i charakteryzacją oraz prawdziwie gwiazdorską obsadą.\n\nWarszawa końca XIX wieku. Serce Stanisława Wokulskiego (Marcin Dorociński) owładnięte jest szaloną miłością do Izabeli Łęckiej (Kamila Urzędowska). On, dzięki fortunie zdobytej na wojnie, powraca do kraju i postanawia wkroczyć do świata wyższych sfer, aby zdobyć rękę ukochanej. Ona jest olśniewająca i wyniosła, lecz mimo arystokratycznego pochodzenia zmaga się z widmem finansowej ruiny. U boku Wokulskiego stoi jego wierny przyjaciel – Ignacy Rzecki (Marek Kondrat), romantyk, który z nostalgią obserwuje, jak świat ideałów ustępuje miejsca społecznym aspiracjom i bezwzględnej grze interesów. Wokulski wkracza w labirynt arystokratycznych salonów, gdzie każdy gest może być początkiem intrygi, a każde słowo – zapowiedzią zdrady. Stający na jego drodze rywale, niespodziewane sojusze i dramatyczne wybory wystawią na próbę jego marzenia i wiarę w ludzi. To opowieść o miłosnym zauroczeniu, które zmienia losy bohaterów i zaciera granice między sercem a rozumem.",
-        "poster": "media/posters/2f797fdbd82b582ae91e.webp"
-      },
-      {
-        "hour": "18:15",
-        "datetime": "2026-10-06 18:15:00",
-        "title": "Kura",
-        "originalTitle": "Hen",
-        "director": "György Pálfi",
-        "year": "2025",
-        "premiereDate": "2026-09-18",
-        "duration": "96",
-        "countries": "Niemcy, Grecja, Węgry",
-        "shortDesc": "<p>Pozornie bezbronne zwierzę ucieka z przemysłowej fermy drobiu w poszukiwaniu bezpiecznego miejsca, by wychować swoje pisklęta.</p>\n",
-        "lang": "",
-        "subtitlesLang": "pl",
-        "age": "16",
-        "credits": "reż. György Pálfi <br>Niemcy, Grecja, Węgry <br>2025,96’",
-        "desc": "<p>Pozornie bezbronne zwierzę ucieka z przemysłowej fermy drobiu w poszukiwaniu bezpiecznego miejsca, by wychować swoje pisklęta.</p>\n",
-        "hall": "2",
-        "movieLink": "https://www.kinomuza.pl/movie/kura/",
-        "ticketLink": "https://estradapoznan.bilety24.pl/kup-bilety/?id=998148#total",
-        "prePremier": false,
-        "tape35mm": false,
-        "ad": false,
-        "deaf": false,
-        "ticketPrice": "",
-        "ticketHalfPrice": "",
-        "alt": "Kura",
-        "thumb": "https://www.kinomuza.pl/content/uploads/2026/08/kura-2-800x450.jpg",
-        "description": "Pozornie bezbronne zwierzę ucieka z przemysłowej fermy drobiu w poszukiwaniu bezpiecznego miejsca, by wychować swoje pisklęta.",
-        "shortDescription": "Pozornie bezbronne zwierzę ucieka z przemysłowej fermy drobiu w poszukiwaniu bezpiecznego miejsca, by wychować swoje pisklęta.",
-        "genres": [
-          "Dramat"
-        ],
-        "external": {
-          "imdb": {
-            "id": "tt29283995",
-            "url": "https://www.imdb.com/title/tt29283995/",
-            "rating": 7,
-            "votes": 1715
-          },
-          "filmweb": {
-            "id": "10093851",
-            "url": "https://www.filmweb.pl/film/Kura-2025-10093851",
-            "genres": [
-              "Dramat"
-            ],
-            "rating": 6.9,
-            "votes": 822
-          },
-          "rottenTomatoes": {
-            "url": "https://www.rottentomatoes.com/m/hen",
-            "title": "Hen",
-            "year": "",
-            "directors": [
-              "Gyorgy Palfi"
-            ],
-            "criticsRating": 100,
-            "criticsVotes": 13,
-            "audienceRating": null,
-            "audienceVotes": 16
-          }
-        },
-        "longDescription": "Główną bohaterką nowego filmu cenionego węgierskiego reżysera Györgya Pálfiego jest tytułowa kura. Pozornie bezbronne zwierzę ucieka z przemysłowej fermy drobiu w poszukiwaniu bezpiecznego miejsca, by wychować swoje pisklęta.\n\nTrafia do greckiej nadmorskiej wioski, gdzie schwytana zostaje przez właściciela podupadłej restauracji i siłą rzeczy „wchodzi” do ludzkiego świata. Jest uważną obserwatorką zupełnie obcej dla niej rzeczywistości. Staje się też niemym świadkiem ludzkich dramatów, związanych z kryzysem migracyjnym, rodzinnymi konfliktami czy chciwością. W rolę głównej bohaterki wcieliło się osiem prawdziwych węgierskich kur: Eszti, Szandi, Feri, Enci, Eti, Enikő, Nóra i Anett. \n\nPrzyjmując nieoczywistą perspektywę, Pálfi opowiada o uniwersalnych wartościach – wolności, bezpieczeństwie, macierzyństwie – jakich poszukują jak widać nie tylko ludzie. Węgierski reżyser odważnie łączy filmowe gatunki, tworząc historię, która z jednej strony może nas bawić, a z drugiej jest prawdziwie poruszająca.",
-        "poster": "media/posters/798db284e44940a8ad04.webp"
-      },
-      {
-        "hour": "19:00",
-        "datetime": "2026-10-06 19:00:00",
+        "hour": "17:15",
+        "datetime": "2026-10-08 17:15:00",
         "title": "Hot Spot",
         "originalTitle": "",
         "director": "Agnieszka Smoczyńska",
@@ -456,9 +268,9 @@
         "age": "16",
         "credits": "reż. Agnieszka Smoczyńska <br>Polska, Grecja <br>2026,100’",
         "desc": "<p>Futurystyczny thriller science-fiction, którego akcja rozgrywa się w niedalekiej przyszłości, gdzie porządek społeczny wyznacza świadoma sztuczna inteligencja.</p>\n",
-        "hall": "3",
+        "hall": "2",
         "movieLink": "https://www.kinomuza.pl/movie/hot-spot/",
-        "ticketLink": "https://estradapoznan.bilety24.pl/kup-bilety/?id=998152#total",
+        "ticketLink": "https://estradapoznan.bilety24.pl/kup-bilety/?id=998170#total",
         "prePremier": false,
         "tape35mm": false,
         "ad": false,
@@ -467,6 +279,7 @@
         "ticketHalfPrice": "",
         "alt": "Hot Spot",
         "thumb": "https://www.kinomuza.pl/content/uploads/2026/09/HOT-SPOT-3-800x450.jpg",
+        "cycle": "przyzwoicie tanie czwartki",
         "description": "Futurystyczny thriller science-fiction, którego akcja rozgrywa się w niedalekiej przyszłości, gdzie porządek społeczny wyznacza świadoma sztuczna inteligencja.",
         "shortDescription": "Futurystyczny thriller science-fiction, którego akcja rozgrywa się w niedalekiej przyszłości, gdzie porządek społeczny wyznacza świadoma sztuczna inteligencja.",
         "genres": [
@@ -509,74 +322,8 @@
         "poster": "media/posters/427ac5cb1e9cf0aae3fb.webp"
       },
       {
-        "hour": "20:00",
-        "datetime": "2026-10-06 20:00:00",
-        "title": "Bez znieczulenia",
-        "originalTitle": "ROUGH TREATMENT",
-        "director": "Andrzej Wajda",
-        "year": "1978",
-        "premiereDate": "",
-        "duration": "125",
-        "countries": "Polska",
-        "shortDesc": "<p>Przejmująca diagnoza społeczeństwa końca lat 70., portret człowieka osaczonego przez system i własne słabości, jedna z najbardziej przenikliwych analiz moralnego kryzysu w polskim kinie.</p>\n",
-        "lang": "pl",
-        "subtitlesLang": "en",
-        "age": "16",
-        "credits": "reż. Andrzej Wajda  <br>Polska <br>1978,125’",
-        "desc": "<p>Przejmująca diagnoza społeczeństwa końca lat 70., portret człowieka osaczonego przez system i własne słabości, jedna z najbardziej przenikliwych analiz moralnego kryzysu w polskim kinie.</p>\n",
-        "hall": "1",
-        "movieLink": "https://www.kinomuza.pl/movie/bez-znieczulenia/",
-        "ticketLink": "https://estradapoznan.bilety24.pl/kup-bilety/?id=879050#total",
-        "prePremier": false,
-        "tape35mm": false,
-        "ad": false,
-        "deaf": false,
-        "ticketPrice": "",
-        "ticketHalfPrice": "",
-        "alt": "Bez znieczulenia",
-        "thumb": "https://www.kinomuza.pl/content/uploads/2026/02/bez-zniecz-2-800x450.jpg",
-        "description": "Przejmująca diagnoza społeczeństwa końca lat 70., portret człowieka osaczonego przez system i własne słabości, jedna z najbardziej przenikliwych analiz moralnego kryzysu w polskim kinie.",
-        "shortDescription": "Przejmująca diagnoza społeczeństwa końca lat 70., portret człowieka osaczonego przez system i własne słabości, jedna z najbardziej przenikliwych analiz moralnego kryzysu w polskim kinie.",
-        "genres": [
-          "Dramat obyczajowy",
-          "Psychologiczny"
-        ],
-        "external": {
-          "imdb": {
-            "id": "tt0078857",
-            "url": "https://www.imdb.com/title/tt0078857/",
-            "rating": 7.3,
-            "votes": 836
-          },
-          "filmweb": {
-            "id": "4154",
-            "url": "https://www.filmweb.pl/film/Bez+znieczulenia-1978-4154",
-            "genres": [
-              "Dramat obyczajowy",
-              "Psychologiczny"
-            ],
-            "rating": 7.6,
-            "votes": 6886
-          },
-          "rottenTomatoes": {
-            "url": "https://www.rottentomatoes.com/m/without_anesthesia",
-            "title": "Rough Treatment",
-            "year": "",
-            "directors": [
-              "Andrzej Wajda"
-            ],
-            "criticsRating": null,
-            "criticsVotes": 2,
-            "audienceRating": 75,
-            "audienceVotes": 12
-          }
-        },
-        "longDescription": "Przygnębiający obraz polskiej rzeczywistości politycznej i społecznej drugiej połowy lat 70., a zarazem krytyczna diagnoza postaw w czasie nieufności i opresji ze strony systemu. Z kolejnej dziennikarskiej wyprawy do Polski wraca popularny reporter – wzorowany na postaci Ryszarda Kapuścińskiego. Z zaskoczeniem przyjmuje, że staje się – bez żadnego wyjaśnienia – obiektem zorganizowanej nagonki. W pracy zostaje zaszczuty przez młodszego kolegę, w środowisku oskarżany jest o koniunkturalizm i oportunizm, w domu żona składa pozew o rozwód. Dotychczas człowiek sukcesu, nagle opuszczony przez wszystkich, postawiony jest w sytuacji Kafkowskiej, tracąc wiarę w jakiekolwiek wartości, a nawet sens życia.\n\nZnakomita interpretacja Zbigniewa Zapasiewicza nadała postaci Jerzego tragizm, ale także pewną niejednoznaczność. Bohater niegdyś korzystał z benefitów systemu, który najpierw niewidzialnym mechanizmem dopuszczał do apanaży, by bez zapowiedzi bezwzględnie niszczyć dawnych luminarzy. Mało który film tak brutalnie pokazał mechanizm komunistycznego totalitaryzmu, aparat hipokryzji, oportunizmu, środowiskowej zawiści, promocji miernot i kuszenia awansem. Niewiele też filmów okazało się tak profetycznych i wciąż aktualnych, opisując świat degradacji wartości, uprzedmiotowienia ludzi, kłamstwa i manipulacji.",
-        "poster": "media/posters/f96793032b656c808f8a.webp"
-      },
-      {
-        "hour": "20:15",
-        "datetime": "2026-10-06 20:15:00",
+        "hour": "17:45",
+        "datetime": "2026-10-08 17:45:00",
         "title": "Lalka",
         "originalTitle": "",
         "director": "Maciej Kawalski",
@@ -590,9 +337,9 @@
         "age": "16",
         "credits": "reż. Maciej Kawalski <br>Polska <br>2026,162’",
         "desc": "<p>Dzieło Prusa od blisko 140 lat rozpala emocje i wyobraźnię kolejnych pokoleń. Teraz ta ponadczasowa historia trafia na wielki ekran w nowej, spektakularnej, filmowej odsłonie.</p>\n",
-        "hall": "2",
+        "hall": "1",
         "movieLink": "https://www.kinomuza.pl/movie/lalka/",
-        "ticketLink": "https://estradapoznan.bilety24.pl/kup-bilety/?id=998149#total",
+        "ticketLink": "https://estradapoznan.bilety24.pl/kup-bilety/?id=998165#total",
         "prePremier": false,
         "tape35mm": false,
         "ad": false,
@@ -601,6 +348,7 @@
         "ticketHalfPrice": "",
         "alt": "Lalka",
         "thumb": "https://www.kinomuza.pl/content/uploads/2026/09/lalka-3-800x450.jpg",
+        "cycle": "przyzwoicie tanie czwartki",
         "description": "Dzieło Prusa od blisko 140 lat rozpala emocje i wyobraźnię kolejnych pokoleń. Teraz ta ponadczasowa historia trafia na wielki ekran w nowej, spektakularnej, filmowej odsłonie.",
         "shortDescription": "Dzieło Prusa od blisko 140 lat rozpala emocje i wyobraźnię kolejnych pokoleń. Teraz ta ponadczasowa historia trafia na wielki ekran w nowej, spektakularnej, filmowej odsłonie.",
         "genres": [
@@ -630,8 +378,267 @@
         "poster": "media/posters/2f797fdbd82b582ae91e.webp"
       },
       {
-        "hour": "21:00",
-        "datetime": "2026-10-06 21:00:00",
+        "hour": "19:00",
+        "datetime": "2026-10-08 19:00:00",
+        "title": "Hamnet",
+        "originalTitle": "",
+        "director": "Chloé Zhao",
+        "year": "2025",
+        "premiereDate": "2026-01-23",
+        "duration": "125",
+        "countries": "Wielka Brytania",
+        "shortDesc": "<p>Poruszająca historia miłości Williama, ambitnego dramaturga i jego żony Agnes. Ich idylliczne życie zostaje zburzone, gdy wybucha epidemia dżumy, która dotyka ich dzieci.</p>\n",
+        "lang": "en",
+        "subtitlesLang": "pl",
+        "age": "16",
+        "credits": "reż. Chloé Zhao <br>Wielka Brytania <br>2025,125’",
+        "desc": "<p>Poruszająca historia miłości Williama, ambitnego dramaturga i jego żony Agnes. Ich idylliczne życie zostaje zburzone, gdy wybucha epidemia dżumy, która dotyka ich dzieci.</p>\n",
+        "hall": "3",
+        "movieLink": "https://www.kinomuza.pl/movie/hamnet/",
+        "ticketLink": "https://estradapoznan.bilety24.pl/kup-bilety/?id=998175#total",
+        "prePremier": false,
+        "tape35mm": false,
+        "ad": false,
+        "deaf": false,
+        "ticketPrice": "",
+        "ticketHalfPrice": "",
+        "alt": "Hamnet",
+        "thumb": "https://www.kinomuza.pl/content/uploads/2025/10/kadry-1-1-800x450.jpg",
+        "cycle": "przyzwoicie tanie czwartki",
+        "description": "Poruszająca historia miłości Williama, ambitnego dramaturga i jego żony Agnes. Ich idylliczne życie zostaje zburzone, gdy wybucha epidemia dżumy, która dotyka ich dzieci.",
+        "shortDescription": "Poruszająca historia miłości Williama, ambitnego dramaturga i jego żony Agnes. Ich idylliczne życie zostaje zburzone, gdy wybucha epidemia dżumy, która dotyka ich dzieci.",
+        "genres": [
+          "Dramat",
+          "Biograficzny",
+          "Kostiumowy"
+        ],
+        "external": {
+          "imdb": {
+            "id": "tt14905854",
+            "url": "https://www.imdb.com/title/tt14905854/",
+            "rating": 7.8,
+            "votes": 136818
+          },
+          "filmweb": {
+            "id": "10035555",
+            "url": "https://www.filmweb.pl/film/Hamnet-2025-10035555",
+            "genres": [
+              "Dramat",
+              "Biograficzny",
+              "Kostiumowy"
+            ],
+            "rating": 7.6,
+            "votes": 29477
+          },
+          "rottenTomatoes": {
+            "url": "https://www.rottentomatoes.com/m/hamnet",
+            "title": "Hamnet",
+            "year": "2025",
+            "directors": [
+              "Chloé Zhao"
+            ],
+            "criticsRating": 86,
+            "criticsVotes": 353,
+            "audienceRating": 93,
+            "audienceVotes": 2678
+          }
+        },
+        "longDescription": "Film Hamnet, autorstwa nagrodzonej Oscarem® scenarzystki i reżyserki Chloé Zhao (Nomadland)., opowiada poruszającą historię miłosną, która zainspirowała Szekspira do stworzenia ponadczasowego arcydzieła Hamlet.\n\nTo poruszająca historię miłości Williama, ambitnego dramaturga i jego żony Agnes. Ich idylliczne życie zostaje zburzone, gdy wybucha epidemia dżumy, która dotyka ich dzieci, Hamneta i Judith. Po latach William pisze nową sztukę zatytułowaną Hamlet, aby poradzić sobie z żałobą.\n\nFilm powstał na podstawie bestsellerowej powieści Maggie O’Farrell z 2020 roku, która sprzedała się w 2 milionach egzemplarzy w Wielkiej Brytanii i USA oraz została przetłumaczona na 40 języków.\n\nW głównych rolach występują: Jessie Buckley, Paul Mescal, Emily Watson i Joe Alwyn.",
+        "poster": "media/posters/d468745e383f9771eca2.webp"
+      },
+      {
+        "hour": "19:15",
+        "datetime": "2026-10-08 19:15:00",
+        "title": "Tony",
+        "originalTitle": "Tony",
+        "director": "Matt Johnson",
+        "year": "2026",
+        "premiereDate": "2026-09-04",
+        "duration": "106",
+        "countries": "USA",
+        "shortDesc": "<p>Młody Anthony Bourdain podczas upalnego lata 1976 roku odkrywa swoją pasję, powołanie i to, kim tak naprawdę jest.</p>\n",
+        "lang": "en",
+        "subtitlesLang": "pl",
+        "age": "16",
+        "credits": "reż.  Matt Johnson <br>USA <br>2026,106’",
+        "desc": "<p>Młody Anthony Bourdain podczas upalnego lata 1976 roku odkrywa swoją pasję, powołanie i to, kim tak naprawdę jest.</p>\n",
+        "hall": "2",
+        "movieLink": "https://www.kinomuza.pl/movie/tony/",
+        "ticketLink": "https://estradapoznan.bilety24.pl/kup-bilety/?id=998171#total",
+        "prePremier": false,
+        "tape35mm": false,
+        "ad": false,
+        "deaf": false,
+        "ticketPrice": "",
+        "ticketHalfPrice": "",
+        "alt": "Tony",
+        "thumb": "https://www.kinomuza.pl/content/uploads/2026/09/57ef7a282819ac320da3a5de72836119-800x450.jpg",
+        "cycle": "przyzwoicie tanie czwartki",
+        "description": "Młody Anthony Bourdain podczas upalnego lata 1976 roku odkrywa swoją pasję, powołanie i to, kim tak naprawdę jest.",
+        "shortDescription": "Młody Anthony Bourdain podczas upalnego lata 1976 roku odkrywa swoją pasję, powołanie i to, kim tak naprawdę jest.",
+        "genres": [
+          "Biograficzny",
+          "Dramat",
+          "Komedia"
+        ],
+        "external": {
+          "imdb": {
+            "id": "tt33095251",
+            "url": "https://www.imdb.com/title/tt33095251/",
+            "rating": 7.4,
+            "votes": 14046
+          },
+          "filmweb": {
+            "id": "10079933",
+            "url": "https://www.filmweb.pl/film/Tony-2026-10079933",
+            "genres": [
+              "Biograficzny",
+              "Dramat",
+              "Komedia"
+            ],
+            "rating": 7.1,
+            "votes": 7135
+          },
+          "rottenTomatoes": {
+            "url": "https://www.rottentomatoes.com/m/tony_2026",
+            "title": "Tony (2026)",
+            "year": "2026",
+            "directors": [
+              "Matt Johnson"
+            ],
+            "criticsRating": 93,
+            "criticsVotes": 232,
+            "audienceRating": 93,
+            "audienceVotes": 963
+          }
+        },
+        "longDescription": "Anthony Bourdain – buntownik, outsider, głos pokolenia, jeden z najbardziej znanych szefów kuchni i jedna z największych, najbardziej charyzmatycznych osobowości telewizyjnych. Podróżnik, pisarz, odkrywca, którego miliony ludzi na całym świecie pokochały za bezkompromisowy styl, miłość do życia, szacunek do ludzi, odwagę, ciekawość świata i autentyczność. „Tony” to historia początków jego drogi – kim był, zanim stał się Anthonym Bourdainem.\n\nUpalne lato 1976 roku, Provincetown – miasto pulsujące wolnością, seksem i energią. Młody, marzący o karierze pisarza, Tony (Dominic Sessa), by podreperować budżet, trafia na zmywak do restauracji serwującej owoce morza, prowadzonej przez tajemniczego szefa kuchni (Antonio Banderas). W intensywnej, chaotycznej, a jednocześnie niezwykle kreatywnej atmosferze Tony odkrywa swoją pasję, powołanie i to, kim tak naprawdę jest.\n\nFilm dostępny z audiodeskrypcją lub lektorem. Skorzystaj bezpłatnie z aplikacji Kino Dostępne 2.0 w Twoim telefonie – http://kinodostepne.pl",
+        "poster": "media/posters/4c5e33e77e2fa1c55b1f.webp"
+      },
+      {
+        "hour": "20:45",
+        "datetime": "2026-10-08 20:45:00",
+        "title": "Lalka",
+        "originalTitle": "",
+        "director": "Maciej Kawalski",
+        "year": "2026",
+        "premiereDate": "2026-09-30",
+        "duration": "162",
+        "countries": "Polska",
+        "shortDesc": "<p>Dzieło Prusa od blisko 140 lat rozpala emocje i wyobraźnię kolejnych pokoleń. Teraz ta ponadczasowa historia trafia na wielki ekran w nowej, spektakularnej, filmowej odsłonie.</p>\n",
+        "lang": "pl",
+        "subtitlesLang": "",
+        "age": "16",
+        "credits": "reż. Maciej Kawalski <br>Polska <br>2026,162’",
+        "desc": "<p>Dzieło Prusa od blisko 140 lat rozpala emocje i wyobraźnię kolejnych pokoleń. Teraz ta ponadczasowa historia trafia na wielki ekran w nowej, spektakularnej, filmowej odsłonie.</p>\n",
+        "hall": "1",
+        "movieLink": "https://www.kinomuza.pl/movie/lalka/",
+        "ticketLink": "https://estradapoznan.bilety24.pl/kup-bilety/?id=998166#total",
+        "prePremier": false,
+        "tape35mm": false,
+        "ad": false,
+        "deaf": false,
+        "ticketPrice": "",
+        "ticketHalfPrice": "",
+        "alt": "Lalka",
+        "thumb": "https://www.kinomuza.pl/content/uploads/2026/09/lalka-3-800x450.jpg",
+        "cycle": "przyzwoicie tanie czwartki",
+        "description": "Dzieło Prusa od blisko 140 lat rozpala emocje i wyobraźnię kolejnych pokoleń. Teraz ta ponadczasowa historia trafia na wielki ekran w nowej, spektakularnej, filmowej odsłonie.",
+        "shortDescription": "Dzieło Prusa od blisko 140 lat rozpala emocje i wyobraźnię kolejnych pokoleń. Teraz ta ponadczasowa historia trafia na wielki ekran w nowej, spektakularnej, filmowej odsłonie.",
+        "genres": [
+          "Kostiumowy",
+          "Dramat obyczajowy"
+        ],
+        "external": {
+          "imdb": {
+            "id": "tt37082105",
+            "url": "https://www.imdb.com/title/tt37082105/",
+            "rating": null,
+            "votes": null
+          },
+          "filmweb": {
+            "id": "10057628",
+            "url": "https://www.filmweb.pl/film/Lalka-2026-10057628",
+            "genres": [
+              "Kostiumowy",
+              "Dramat obyczajowy"
+            ],
+            "rating": 6,
+            "votes": 1
+          },
+          "rottenTomatoes": null
+        },
+        "longDescription": "Dzieło Bolesława Prusa od blisko 140 lat rozpala emocje i wyobraźnię kolejnych pokoleń. Teraz ta ponadczasowa historia trafia na wielki ekran w nowej, spektakularnej, filmowej odsłonie. „Lalka” to zrealizowana z ogromnym rozmachem superprodukcja i najbardziej gwiazdorski film w historii polskiego kina, gdzie pośród wielu wybitnych nazwisk, w rolach głównych występują: Marcin Dorociński jako Stanisław Wokulski, gwiazda „Chłopów” – Kamila Urzędowska jako Izabela Łęcka oraz powracający na wielki ekran po 16 latach Marek Kondrat w roli Ignacego Rzeckiego. Nowa ekranizacja „Lalki” to opowiedziana ze współczesną wrażliwością przejmująca, uniwersalna historia o miłości i niespełnieniu, o aspiracjach i przemianie, o świecie, który właśnie się kończy. To film, który zdarza się raz na kilka dekad: epicki, pełen emocji, zrealizowany z imponującą scenografią, dopracowanymi w najdrobniejszych detalach kostiumami i charakteryzacją oraz prawdziwie gwiazdorską obsadą.\n\nWarszawa końca XIX wieku. Serce Stanisława Wokulskiego (Marcin Dorociński) owładnięte jest szaloną miłością do Izabeli Łęckiej (Kamila Urzędowska). On, dzięki fortunie zdobytej na wojnie, powraca do kraju i postanawia wkroczyć do świata wyższych sfer, aby zdobyć rękę ukochanej. Ona jest olśniewająca i wyniosła, lecz mimo arystokratycznego pochodzenia zmaga się z widmem finansowej ruiny. U boku Wokulskiego stoi jego wierny przyjaciel – Ignacy Rzecki (Marek Kondrat), romantyk, który z nostalgią obserwuje, jak świat ideałów ustępuje miejsca społecznym aspiracjom i bezwzględnej grze interesów. Wokulski wkracza w labirynt arystokratycznych salonów, gdzie każdy gest może być początkiem intrygi, a każde słowo – zapowiedzią zdrady. Stający na jego drodze rywale, niespodziewane sojusze i dramatyczne wybory wystawią na próbę jego marzenia i wiarę w ludzi. To opowieść o miłosnym zauroczeniu, które zmienia losy bohaterów i zaciera granice między sercem a rozumem.",
+        "poster": "media/posters/2f797fdbd82b582ae91e.webp"
+      },
+      {
+        "hour": "21:15",
+        "datetime": "2026-10-08 21:15:00",
+        "title": "Kura",
+        "originalTitle": "Hen",
+        "director": "György Pálfi",
+        "year": "2025",
+        "premiereDate": "2026-09-18",
+        "duration": "96",
+        "countries": "Niemcy, Grecja, Węgry",
+        "shortDesc": "<p>Pozornie bezbronne zwierzę ucieka z przemysłowej fermy drobiu w poszukiwaniu bezpiecznego miejsca, by wychować swoje pisklęta.</p>\n",
+        "lang": "",
+        "subtitlesLang": "pl",
+        "age": "16",
+        "credits": "reż. György Pálfi <br>Niemcy, Grecja, Węgry <br>2025,96’",
+        "desc": "<p>Pozornie bezbronne zwierzę ucieka z przemysłowej fermy drobiu w poszukiwaniu bezpiecznego miejsca, by wychować swoje pisklęta.</p>\n",
+        "hall": "2",
+        "movieLink": "https://www.kinomuza.pl/movie/kura/",
+        "ticketLink": "https://estradapoznan.bilety24.pl/kup-bilety/?id=998172#total",
+        "prePremier": false,
+        "tape35mm": false,
+        "ad": false,
+        "deaf": false,
+        "ticketPrice": "",
+        "ticketHalfPrice": "",
+        "alt": "Kura",
+        "thumb": "https://www.kinomuza.pl/content/uploads/2026/08/kura-2-800x450.jpg",
+        "cycle": "przyzwoicie tanie czwartki",
+        "description": "Pozornie bezbronne zwierzę ucieka z przemysłowej fermy drobiu w poszukiwaniu bezpiecznego miejsca, by wychować swoje pisklęta.",
+        "shortDescription": "Pozornie bezbronne zwierzę ucieka z przemysłowej fermy drobiu w poszukiwaniu bezpiecznego miejsca, by wychować swoje pisklęta.",
+        "genres": [
+          "Dramat"
+        ],
+        "external": {
+          "imdb": {
+            "id": "tt29283995",
+            "url": "https://www.imdb.com/title/tt29283995/",
+            "rating": 7,
+            "votes": 1715
+          },
+          "filmweb": {
+            "id": "10093851",
+            "url": "https://www.filmweb.pl/film/Kura-2025-10093851",
+            "genres": [
+              "Dramat"
+            ],
+            "rating": 6.9,
+            "votes": 822
+          },
+          "rottenTomatoes": {
+            "url": "https://www.rottentomatoes.com/m/hen",
+            "title": "Hen",
+            "year": "",
+            "directors": [
+              "Gyorgy Palfi"
+            ],
+            "criticsRating": 100,
+            "criticsVotes": 13,
+            "audienceRating": null,
+            "audienceVotes": 16
+          }
+        },
+        "longDescription": "Główną bohaterką nowego filmu cenionego węgierskiego reżysera Györgya Pálfiego jest tytułowa kura. Pozornie bezbronne zwierzę ucieka z przemysłowej fermy drobiu w poszukiwaniu bezpiecznego miejsca, by wychować swoje pisklęta.\n\nTrafia do greckiej nadmorskiej wioski, gdzie schwytana zostaje przez właściciela podupadłej restauracji i siłą rzeczy „wchodzi” do ludzkiego świata. Jest uważną obserwatorką zupełnie obcej dla niej rzeczywistości. Staje się też niemym świadkiem ludzkich dramatów, związanych z kryzysem migracyjnym, rodzinnymi konfliktami czy chciwością. W rolę głównej bohaterki wcieliło się osiem prawdziwych węgierskich kur: Eszti, Szandi, Feri, Enci, Eti, Enikő, Nóra i Anett. \n\nPrzyjmując nieoczywistą perspektywę, Pálfi opowiada o uniwersalnych wartościach – wolności, bezpieczeństwie, macierzyństwie – jakich poszukują jak widać nie tylko ludzie. Węgierski reżyser odważnie łączy filmowe gatunki, tworząc historię, która z jednej strony może nas bawić, a z drugiej jest prawdziwie poruszająca.",
+        "poster": "media/posters/798db284e44940a8ad04.webp"
+      },
+      {
+        "hour": "21:15",
+        "datetime": "2026-10-08 21:15:00",
         "title": "Ojczyzna",
         "originalTitle": "Fatherland",
         "director": "Paweł Pawlikowski",
@@ -647,7 +654,7 @@
         "desc": "<p>Opowieść o relacjach między Mannem, laureatem Nagrody Nobla w dziedzinie literatury, a jego córką Eriką, aktorką i pisarką. Akcja rozgrywa się w szczytowym okresie zimnej wojny.</p>\n",
         "hall": "3",
         "movieLink": "https://www.kinomuza.pl/movie/ojczyzna/",
-        "ticketLink": "https://estradapoznan.bilety24.pl/kup-bilety/?id=998153#total",
+        "ticketLink": "https://estradapoznan.bilety24.pl/kup-bilety/?id=998176#total",
         "prePremier": false,
         "tape35mm": false,
         "ad": false,
@@ -656,6 +663,7 @@
         "ticketHalfPrice": "",
         "alt": "Ojczyzna",
         "thumb": "https://www.kinomuza.pl/content/uploads/2026/05/ojczyzna-1-800x450.jpg",
+        "cycle": "przyzwoicie tanie czwartki",
         "description": "Opowieść o relacjach między Mannem, laureatem Nagrody Nobla w dziedzinie literatury, a jego córką Eriką, aktorką i pisarką. Akcja rozgrywa się w szczytowym okresie zimnej wojny.",
         "shortDescription": "Opowieść o relacjach między Mannem, laureatem Nagrody Nobla w dziedzinie literatury, a jego córką Eriką, aktorką i pisarką. Akcja rozgrywa się w szczytowym okresie zimnej wojny.",
         "genres": [

@@ -1,12 +1,12 @@
 {
   "schemaVersion": 1,
   "date": "2026-10-14",
-  "updatedAt": "2026-09-28T18:08:51.069Z",
+  "updatedAt": "2026-09-29T16:30:13.267Z",
   "source": "https://www.kinomuza.pl/repertoire/day/",
   "day": {
-    "id": "16",
+    "id": "15",
     "date": "14.10",
-    "now": "2026-09-28 20:08:20",
+    "now": "2026-09-29 18:29:22",
     "info": [],
     "repertoire": [
       {
@@ -47,7 +47,7 @@
             "id": "tt25399154",
             "url": "https://www.imdb.com/title/tt25399154/",
             "rating": 7.5,
-            "votes": 1880
+            "votes": 1993
           },
           "filmweb": {
             "id": "10113205",
@@ -55,8 +55,8 @@
             "genres": [
               "Dramat historyczny"
             ],
-            "rating": 7.1,
-            "votes": 820
+            "rating": 7,
+            "votes": 830
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/rose_2026",
@@ -71,7 +71,7 @@
             "audienceVotes": null
           }
         },
-        "longDescription": "Oto prawdziwa historia oszustki, która zwodziła władze i lud. Urodziła się kobietą, acz nosiła po męsku i pod fałszywym imieniem dopuściła wielu niecnych czynów.\n\n„Róża” to jeden z najgłośniejszych tytułów ostatniego Berlinale za sprawą brawurowej roli Sandry Hüller, nagrodzonej Srebrnym Niedźwiedziem za tytułową kreację. Aktorka znana z „Anatomii upadku”, „Projektu Hail Mary”, „Strefy interesów” i „Toniego Erdmanna” wciela się tym razem w tajemniczego żołnierza. Do tej roli przeszła nie tylko niezwykłą fizyczną metamorfozę, ukrywając kobiecość pod męskim strojem, ale też fenomenalnie połączyła szorstkość z łagodnością i humorem.\n\nDo położonej na uboczu wsi przybywa naznaczony wojną żołnierz, który podaje się za spadkobiercę porzuconego gospodarstwa. Obcy budzi początkowo nieufność, ale szybko przekonuje do siebie wieśniaków dzięki przywiezionym dokumentom, niepospolitej pracowitości i gotowości, by podporządkować się surowym regułom protestanckiej wspólnoty. W okrutnych realiach XVII-wiecznych Niemiec ktoś, kto nie ma żadnych praw, może być sobą wyłącznie w przebraniu – dlatego tytułowa postać musi skrzętnie ukrywać swoją prawdziwą naturę i tożsamość.\n\n„Róża” jest przewrotną opowieścią o cenie wolności i o odwadze życia na własnych zasadach. Kwestionujący patriarchalny przywilej i binarny podział płci, chłodno analizujący mechanizmy społeczne, film Markusa Schleinzera okazuje się zaskakująco współczesny. Choć minimalistyczny, to pieczołowicie odtwarza detale życia XVII-wiecznej niemieckiej wsi, a eleganckie, surowe zdjęcia budują gęstą atmosferę narastającego zagrożenia. Schleinzer, podobnie jak Robert Eggers, jest mistrzem stylizacji i niepokojącej aury. Dla obu historia bywa pretekstem do filmowej przypowieści o naszych czasach. „Róża” składa hołd tym, którzy przetarli nam ścieżki, ale też przypomina, że prawo do bycia sobą jest zdobyczą, o którą wciąż trzeba walczyć.",
+        "longDescription": "Oto prawdziwa historia oszustki, która zwodziła władze i lud. Urodziła się kobietą, acz nosiła po męsku i pod fałszywym imieniem dopuściła wielu niecnych czynów.\n\n„Róża” to jeden z najgłośniejszych tytułów ostatniego Berlinale za sprawą brawurowej roli Sandry Hüller, nagrodzonej Srebrnym Niedźwiedziem za tytułową kreację. Aktorka znana z „Anatomii upadku”, „Projektu Hail Mary”, „Strefy interesów” i „Toniego Erdmanna” wciela się tym razem w tajemniczego żołnierza. Do tej roli przeszła nie tylko niezwykłą fizyczną metamorfozę, ukrywając kobiecość pod męskim strojem, ale też fenomenalnie połączyła szorstkość z łagodnością i humorem.\n\nDo położonej na uboczu wsi przybywa naznaczony wojną żołnierz, który podaje się za spadkobiercę porzuconego gospodarstwa. Obcy budzi początkowo nieufność, ale szybko przekonuje do siebie wieśniaków dzięki przywiezionym dokumentom, niepospolitej pracowitości i gotowości, by podporządkować się surowym regułom protestanckiej wspólnoty. W okrutnych realiach XVII-wiecznych Niemiec ktoś, kto nie ma żadnych praw, może być sobą wyłącznie w przebraniu – dlatego tytułowa postać musi skrzętnie ukrywać swoją prawdziwą naturę i tożsamość.\n\n„Róża” jest przewrotną opowieścią o cenie wolności i o odwadze życia na własnych zasadach. Kwestionujący patriarchalny przywilej i binarny podział płci, chłodno analizujący mechanizmy społeczne, film Markusa Schleinzera okazuje się zaskakująco współczesny. Choć minimalistyczny, to pieczołowicie odtwarza detale życia XVII-wiecznej niemieckiej wsi, a eleganckie, surowe zdjęcia budują gęstą atmosferę narastającego zagrożenia. Schleinzer, podobnie jak Robert Eggers, jest mistrzem stylizacji i niepokojącej aury. Dla obu historia bywa pretekstem do filmowej przypowieści o naszych czasach. „Róża” składa hołd tym, którzy przetarli nam ścieżki, ale też przypomina, że prawo do bycia sobą jest zdobyczą, o którą wciąż trzeba walczyć.\n\nFilm dostępny z audiodeskrypcją lub lektorem. Skorzystaj bezpłatnie z aplikacji Kino Dostępne 2.0 w Twoim telefonie – http://kinodostepne.pl",
         "poster": "media/posters/f190e242c80162aa1316.webp"
       },
       {
@@ -112,7 +112,7 @@
             "id": "tt25399154",
             "url": "https://www.imdb.com/title/tt25399154/",
             "rating": 7.5,
-            "votes": 1880
+            "votes": 1993
           },
           "filmweb": {
             "id": "10113205",
@@ -120,8 +120,8 @@
             "genres": [
               "Dramat historyczny"
             ],
-            "rating": 7.1,
-            "votes": 820
+            "rating": 7,
+            "votes": 830
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/rose_2026",
@@ -136,7 +136,7 @@
             "audienceVotes": null
           }
         },
-        "longDescription": "Oto prawdziwa historia oszustki, która zwodziła władze i lud. Urodziła się kobietą, acz nosiła po męsku i pod fałszywym imieniem dopuściła wielu niecnych czynów.\n\n„Róża” to jeden z najgłośniejszych tytułów ostatniego Berlinale za sprawą brawurowej roli Sandry Hüller, nagrodzonej Srebrnym Niedźwiedziem za tytułową kreację. Aktorka znana z „Anatomii upadku”, „Projektu Hail Mary”, „Strefy interesów” i „Toniego Erdmanna” wciela się tym razem w tajemniczego żołnierza. Do tej roli przeszła nie tylko niezwykłą fizyczną metamorfozę, ukrywając kobiecość pod męskim strojem, ale też fenomenalnie połączyła szorstkość z łagodnością i humorem.\n\nDo położonej na uboczu wsi przybywa naznaczony wojną żołnierz, który podaje się za spadkobiercę porzuconego gospodarstwa. Obcy budzi początkowo nieufność, ale szybko przekonuje do siebie wieśniaków dzięki przywiezionym dokumentom, niepospolitej pracowitości i gotowości, by podporządkować się surowym regułom protestanckiej wspólnoty. W okrutnych realiach XVII-wiecznych Niemiec ktoś, kto nie ma żadnych praw, może być sobą wyłącznie w przebraniu – dlatego tytułowa postać musi skrzętnie ukrywać swoją prawdziwą naturę i tożsamość.\n\n„Róża” jest przewrotną opowieścią o cenie wolności i o odwadze życia na własnych zasadach. Kwestionujący patriarchalny przywilej i binarny podział płci, chłodno analizujący mechanizmy społeczne, film Markusa Schleinzera okazuje się zaskakująco współczesny. Choć minimalistyczny, to pieczołowicie odtwarza detale życia XVII-wiecznej niemieckiej wsi, a eleganckie, surowe zdjęcia budują gęstą atmosferę narastającego zagrożenia. Schleinzer, podobnie jak Robert Eggers, jest mistrzem stylizacji i niepokojącej aury. Dla obu historia bywa pretekstem do filmowej przypowieści o naszych czasach. „Róża” składa hołd tym, którzy przetarli nam ścieżki, ale też przypomina, że prawo do bycia sobą jest zdobyczą, o którą wciąż trzeba walczyć.",
+        "longDescription": "Oto prawdziwa historia oszustki, która zwodziła władze i lud. Urodziła się kobietą, acz nosiła po męsku i pod fałszywym imieniem dopuściła wielu niecnych czynów.\n\n„Róża” to jeden z najgłośniejszych tytułów ostatniego Berlinale za sprawą brawurowej roli Sandry Hüller, nagrodzonej Srebrnym Niedźwiedziem za tytułową kreację. Aktorka znana z „Anatomii upadku”, „Projektu Hail Mary”, „Strefy interesów” i „Toniego Erdmanna” wciela się tym razem w tajemniczego żołnierza. Do tej roli przeszła nie tylko niezwykłą fizyczną metamorfozę, ukrywając kobiecość pod męskim strojem, ale też fenomenalnie połączyła szorstkość z łagodnością i humorem.\n\nDo położonej na uboczu wsi przybywa naznaczony wojną żołnierz, który podaje się za spadkobiercę porzuconego gospodarstwa. Obcy budzi początkowo nieufność, ale szybko przekonuje do siebie wieśniaków dzięki przywiezionym dokumentom, niepospolitej pracowitości i gotowości, by podporządkować się surowym regułom protestanckiej wspólnoty. W okrutnych realiach XVII-wiecznych Niemiec ktoś, kto nie ma żadnych praw, może być sobą wyłącznie w przebraniu – dlatego tytułowa postać musi skrzętnie ukrywać swoją prawdziwą naturę i tożsamość.\n\n„Róża” jest przewrotną opowieścią o cenie wolności i o odwadze życia na własnych zasadach. Kwestionujący patriarchalny przywilej i binarny podział płci, chłodno analizujący mechanizmy społeczne, film Markusa Schleinzera okazuje się zaskakująco współczesny. Choć minimalistyczny, to pieczołowicie odtwarza detale życia XVII-wiecznej niemieckiej wsi, a eleganckie, surowe zdjęcia budują gęstą atmosferę narastającego zagrożenia. Schleinzer, podobnie jak Robert Eggers, jest mistrzem stylizacji i niepokojącej aury. Dla obu historia bywa pretekstem do filmowej przypowieści o naszych czasach. „Róża” składa hołd tym, którzy przetarli nam ścieżki, ale też przypomina, że prawo do bycia sobą jest zdobyczą, o którą wciąż trzeba walczyć.\n\nFilm dostępny z audiodeskrypcją lub lektorem. Skorzystaj bezpłatnie z aplikacji Kino Dostępne 2.0 w Twoim telefonie – http://kinodostepne.pl",
         "poster": "media/posters/f190e242c80162aa1316.webp"
       }
     ]

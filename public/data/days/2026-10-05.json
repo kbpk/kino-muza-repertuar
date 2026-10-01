@@ -1,12 +1,12 @@
 {
   "schemaVersion": 1,
   "date": "2026-10-05",
-  "updatedAt": "2026-09-30T16:24:33.557Z",
+  "updatedAt": "2026-10-01T17:01:55.334Z",
   "source": "https://www.kinomuza.pl/repertoire/day/",
   "day": {
-    "id": "05",
+    "id": "04",
     "date": "05.10",
-    "now": "2026-09-30 18:23:20",
+    "now": "2026-10-01 19:00:39",
     "info": [],
     "repertoire": [
       {
@@ -52,7 +52,7 @@
               "Kryminał"
             ],
             "rating": 7,
-            "votes": 2436
+            "votes": 2516
           },
           "rottenTomatoes": null
         },
@@ -89,25 +89,25 @@
         "description": "Pedro Almodóvar powraca w szczytowej formie z jednym ze swoich najbardziej osobistych filmów. Almodóvar składa tu poruszające wyznanie wiary w siłę kina, pamięci i narracji.",
         "shortDescription": "Pedro Almodóvar powraca w szczytowej formie z jednym ze swoich najbardziej osobistych filmów. Almodóvar składa tu poruszające wyznanie wiary w siłę kina, pamięci i narracji.",
         "genres": [
-          "Dramat",
-          "Komedia"
+          "Komedia",
+          "Dramat"
         ],
         "external": {
           "imdb": {
             "id": "tt28088049",
             "url": "https://www.imdb.com/title/tt28088049/",
             "rating": 6.3,
-            "votes": 5114
+            "votes": 5159
           },
           "filmweb": {
             "id": "10085499",
             "url": "https://www.filmweb.pl/film/Gorzkie+%C5%9Bwi%C4%99ta-2026-10085499",
             "genres": [
-              "Dramat",
-              "Komedia"
+              "Komedia",
+              "Dramat"
             ],
             "rating": 5.7,
-            "votes": 2336
+            "votes": 2343
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/bitter_christmas",
@@ -116,8 +116,8 @@
             "directors": [
               "Pedro Almodóvar"
             ],
-            "criticsRating": 88,
-            "criticsVotes": 67,
+            "criticsRating": 87,
+            "criticsVotes": 68,
             "audienceRating": null,
             "audienceVotes": null
           }
@@ -165,8 +165,8 @@
           "imdb": {
             "id": "tt36583977",
             "url": "https://www.imdb.com/title/tt36583977/",
-            "rating": 7.8,
-            "votes": 2753
+            "rating": 7.7,
+            "votes": 3306
           },
           "filmweb": {
             "id": "10116454",
@@ -176,8 +176,8 @@
               "Animacja",
               "Przygodowy"
             ],
-            "rating": 7.1,
-            "votes": 109
+            "rating": 7.2,
+            "votes": 124
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/forgotten_island",
@@ -188,9 +188,9 @@
               "Januel P. Mercado"
             ],
             "criticsRating": 95,
-            "criticsVotes": 101,
+            "criticsVotes": 103,
             "audienceRating": 96,
-            "audienceVotes": 939
+            "audienceVotes": 1000
           }
         },
         "longDescription": "Warto walczyć o najlepszą przyjaźń.\n\nDreamWorks Animation, studio, które stworzyło niezapomniane więzi między chłopcem a smokiem w filmie „Jak wytresować smoka”, ogrem i osłem w animacji „Shrek” oraz robotem i gąsiątkiem w „Dzikim robocie”. Teraz przedstawia olśniewającą i wzruszającą historię o dwójce przyjaciół na całe życie, którzy muszą się zjednoczyć.\n\nNowy film został napisany i wyreżyserowany przez nominowanych do Oscara® Joela Crawforda i Januela Mercado, a jego producentem jest nominowany do Oscara® Mark Swift, twórca filmu „Kot w butach: Ostatnie życzenie”.\n\nNagrodzone nagrodą Grammy i Oscarem® H.E.R. i Liza Soberano użyczają głosu Jo i Raissie.\n\nTo przyjaciółki od najmłodszych lat, które właśnie kończą szkołę średnią i stoją u progu zupełnie nowych etapów życia.\n\nPodczas wspólnego świętowania ostatniego wieczoru przed rozstaniem dziewczyny przypadkiem odkrywają tajemniczy portal, który przenosi je na magiczną wyspę Nakali. To niezwykła kraina pełna fantastycznych i mitycznych stworzeń, o których od dzieciństwa słyszały w opowieściach przekazywanych przez ich filipińskie rodziny.\n\nNiektóre z tych postaci staną się przyjaciółmi, inne wrogami. Jo i Raissa muszą stawić czoła najgroźniejszemu stworzeniu na wyspie.\n\nKiedy odkryją, że wspomnienia ich przyjaźni są ceną za powrót do domu, Jo i Raissa będą ścigać się, by znaleźć sposób na opuszczenie wyspy, zanim zapomną o sobie na zawsze.",
@@ -233,7 +233,7 @@
             "id": "tt29283995",
             "url": "https://www.imdb.com/title/tt29283995/",
             "rating": 7,
-            "votes": 1715
+            "votes": 1734
           },
           "filmweb": {
             "id": "10093851",
@@ -242,7 +242,7 @@
               "Dramat"
             ],
             "rating": 6.8,
-            "votes": 864
+            "votes": 894
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/hen",
@@ -307,8 +307,8 @@
               "Kostiumowy",
               "Dramat obyczajowy"
             ],
-            "rating": 7.5,
-            "votes": 442
+            "rating": 7.7,
+            "votes": 2836
           },
           "rottenTomatoes": null
         },
@@ -352,7 +352,7 @@
             "id": "tt37304295",
             "url": "https://www.imdb.com/title/tt37304295/",
             "rating": 7.3,
-            "votes": 2146
+            "votes": 2177
           },
           "filmweb": {
             "id": "10074985",
@@ -361,7 +361,7 @@
               "Dramat"
             ],
             "rating": 6.9,
-            "votes": 8017
+            "votes": 8026
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/fatherland_2026",
@@ -416,7 +416,7 @@
             "id": "tt35298123",
             "url": "https://www.imdb.com/title/tt35298123/",
             "rating": 6.6,
-            "votes": 16359
+            "votes": 16947
           },
           "filmweb": {
             "id": "10114411",
@@ -425,7 +425,7 @@
               "Czarna komedia"
             ],
             "rating": 6.7,
-            "votes": 3052
+            "votes": 3100
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/teenage_sex_and_death_at_camp_miasma",
@@ -435,7 +435,7 @@
               "Jane Schoenbrun"
             ],
             "criticsRating": 94,
-            "criticsVotes": 271,
+            "criticsVotes": 272,
             "audienceRating": 79,
             "audienceVotes": 549
           }
@@ -482,7 +482,7 @@
             "id": "tt33095251",
             "url": "https://www.imdb.com/title/tt33095251/",
             "rating": 7.4,
-            "votes": 14046
+            "votes": 14523
           },
           "filmweb": {
             "id": "10079933",
@@ -493,7 +493,7 @@
               "Komedia"
             ],
             "rating": 7.1,
-            "votes": 7231
+            "votes": 7315
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/tony_2026",
@@ -503,9 +503,9 @@
               "Matt Johnson"
             ],
             "criticsRating": 93,
-            "criticsVotes": 232,
+            "criticsVotes": 233,
             "audienceRating": 93,
-            "audienceVotes": 967
+            "audienceVotes": 968
           }
         },
         "longDescription": "Anthony Bourdain – buntownik, outsider, głos pokolenia, jeden z najbardziej znanych szefów kuchni i jedna z największych, najbardziej charyzmatycznych osobowości telewizyjnych. Podróżnik, pisarz, odkrywca, którego miliony ludzi na całym świecie pokochały za bezkompromisowy styl, miłość do życia, szacunek do ludzi, odwagę, ciekawość świata i autentyczność. „Tony” to historia początków jego drogi – kim był, zanim stał się Anthonym Bourdainem.\n\nUpalne lato 1976 roku, Provincetown – miasto pulsujące wolnością, seksem i energią. Młody, marzący o karierze pisarza, Tony (Dominic Sessa), by podreperować budżet, trafia na zmywak do restauracji serwującej owoce morza, prowadzonej przez tajemniczego szefa kuchni (Antonio Banderas). W intensywnej, chaotycznej, a jednocześnie niezwykle kreatywnej atmosferze Tony odkrywa swoją pasję, powołanie i to, kim tak naprawdę jest.\n\nFilm dostępny z audiodeskrypcją lub lektorem. Skorzystaj bezpłatnie z aplikacji Kino Dostępne 2.0 w Twoim telefonie – http://kinodostepne.pl",
@@ -558,8 +558,8 @@
               "Kostiumowy",
               "Dramat obyczajowy"
             ],
-            "rating": 7.5,
-            "votes": 442
+            "rating": 7.7,
+            "votes": 2836
           },
           "rottenTomatoes": null
         },
@@ -610,7 +610,7 @@
               "Kryminał"
             ],
             "rating": 7,
-            "votes": 2436
+            "votes": 2516
           },
           "rottenTomatoes": null
         },
@@ -656,7 +656,7 @@
             "id": "tt14119302",
             "url": "https://www.imdb.com/title/tt14119302/",
             "rating": 3.8,
-            "votes": 707
+            "votes": 730
           },
           "filmweb": {
             "id": "10069059",
@@ -666,8 +666,8 @@
               "Sci-Fi",
               "Thriller"
             ],
-            "rating": 3.8,
-            "votes": 1478
+            "rating": 3.9,
+            "votes": 1528
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/hot_spot_2026",

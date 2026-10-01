@@ -1,0 +1,79 @@
+{
+  "schemaVersion": 1,
+  "date": "2026-10-11",
+  "updatedAt": "2026-10-01T17:01:55.334Z",
+  "source": "https://www.kinomuza.pl/repertoire/day/",
+  "day": {
+    "id": "10",
+    "date": "11.10",
+    "now": "2026-10-01 19:00:59",
+    "info": [],
+    "repertoire": [
+      {
+        "hour": "16:15",
+        "datetime": "2026-10-11 16:15:00",
+        "title": "Najlepsza owsianka na świecie",
+        "originalTitle": "The Golden Spurtle",
+        "director": "Constantine Costi",
+        "year": "2025",
+        "premiereDate": "2026-11-06",
+        "duration": "75",
+        "countries": "Wielka Brytania, Australia",
+        "shortDesc": "<p>Raz w roku do malowniczej wioski na północy Szkocji zjeżdżają się pasjonaci z całego świata, by rywalizować o tytuł mistrza świata w… przyrządzaniu owsianki!</p>\n",
+        "lang": "",
+        "subtitlesLang": "pl",
+        "age": "16",
+        "credits": "reż. Constantine Costi <br>Wielka Brytania, Australia <br>2025,75’",
+        "desc": "<p>Raz w roku do malowniczej wioski na północy Szkocji zjeżdżają się pasjonaci z całego świata, by rywalizować o tytuł mistrza świata w… przyrządzaniu owsianki!</p>\n",
+        "hall": "1",
+        "movieLink": "https://www.kinomuza.pl/movie/najlepsza-owsianka-na-swiecie/",
+        "ticketLink": "https://estradapoznan.bilety24.pl/kup-bilety/?id=999410#total",
+        "prePremier": false,
+        "tape35mm": false,
+        "ad": false,
+        "deaf": false,
+        "ticketPrice": "",
+        "ticketHalfPrice": "",
+        "alt": "Najlepsza owsianka na świecie",
+        "thumb": "https://www.kinomuza.pl/content/uploads/2026/09/najlepsza-owsianka-2-800x450.jpg",
+        "event": "Pokaz przedpremierowy",
+        "description": "Raz w roku do malowniczej wioski na północy Szkocji zjeżdżają się pasjonaci z całego świata, by rywalizować o tytuł mistrza świata w… przyrządzaniu owsianki!",
+        "shortDescription": "Raz w roku do malowniczej wioski na północy Szkocji zjeżdżają się pasjonaci z całego świata, by rywalizować o tytuł mistrza świata w… przyrządzaniu owsianki!",
+        "genres": [
+          "Dokumentalny"
+        ],
+        "external": {
+          "imdb": {
+            "id": "tt35932869",
+            "url": "https://www.imdb.com/title/tt35932869/",
+            "rating": 7.6,
+            "votes": 782
+          },
+          "filmweb": {
+            "id": "10110275",
+            "url": "https://www.filmweb.pl/film/Najlepsza+owsianka+na+%C5%9Bwiecie-2025-10110275",
+            "genres": [
+              "Dokumentalny"
+            ],
+            "rating": 7.4,
+            "votes": 60
+          },
+          "rottenTomatoes": {
+            "url": "https://www.rottentomatoes.com/m/the_golden_spurtle",
+            "title": "The Golden Spurtle",
+            "year": "2025",
+            "directors": [
+              "Constantine Costi"
+            ],
+            "criticsRating": 93,
+            "criticsVotes": 15,
+            "audienceRating": null,
+            "audienceVotes": null
+          }
+        },
+        "longDescription": "Raz w roku do malowniczej wioski na północy Szkocji zjeżdżają się pasjonaci z całego świata, by rywalizować o tytuł mistrza świata w… przyrządzaniu owsianki! W filmie dokumentalnym „Najlepsza owsianka na świecie” za zaciętą kulinarną rywalizacją kryje się ciepła i pełna humoru opowieść o ekscentrycznych mieszkańcach, żywej tradycji, lokalnym dziedzictwie i wspólnocie, której częścią chciałoby się zostać po seansie.\n\nKażdej jesieni senna górska wioska Carrbridge budzi się do życia, gdy miejscowi i zagraniczni zawodnicy podejmują kuchenną rękawicę i walczą o zaszczytną nagrodę Złotego Mieszadła w Mistrzostwach Świata w Gotowaniu Owsianki. Choć przepis wydaje się banalny – płatki owsiane, woda i sól – to sposobów na jej przyrządzanie jest multum. Co uczestnik, to inna metoda, filozofia i historia. Ale „Najlepsza owsianka na świecie” nie jest wyłącznie kroniką kulinarnych zmagań.\n\nDla lokalnej legendy, charyzmatycznego organizatora mistrzostw Charliego Millera, to wydarzenie znaczy o wiele więcej. Mężczyzna zbliża się do emerytury i zmaga się z problemami zdrowotnymi, jednak czuje odpowiedzialność wobec lokalnego komitetu owsiankowego i pragnie zabezpieczyć przyszłość zawodów – oraz własne dziedzictwo. O dobre imię walczy również Ian Bishop, który podejmuje ostatnią próbę zdobycia tytułu. Ale konkurencja nie śpi: niezrównana Lisa Williams, „królowa owsianki”, wraca, by odzyskać trofeum. Tymczasem nowa generacja uczestników – Toby Wilson, australijski szef kuchni znany z pomysłu na owsiankową tortillę, oraz Adam Kiani, uzbrojony w sekretną, odziedziczoną po babci technikę – zamierza zakwestionować owsiankowe status quo.\n\nUkazując życie niewielkiej szkockiej społeczności na tle zapierających dech w piersiach krajobrazów, film przywodzi na myśl dokumenty „Truflarze” czy „Kraina miodu” – tworzone z czułością i zrozumieniem dla swoich bohaterów. Urokliwa i pełna humoru „Najlepsza owsianka na świecie” to film, który wzrusza, otula i daje poczucie komfortu niczym miska gorącej owsianki w chłodny poranek.",
+        "poster": "media/posters/70a39c39beee3a9e736a.webp"
+      }
+    ]
+  }
+}

@@ -1,12 +1,12 @@
 {
   "schemaVersion": 1,
   "date": "2026-10-28",
-  "updatedAt": "2026-09-30T16:24:33.557Z",
+  "updatedAt": "2026-10-01T17:01:55.334Z",
   "source": "https://www.kinomuza.pl/repertoire/day/",
   "day": {
-    "id": "28",
+    "id": "27",
     "date": "28.10",
-    "now": "2026-09-30 18:24:03",
+    "now": "2026-10-01 19:01:20",
     "info": [],
     "repertoire": [
       {
@@ -40,25 +40,25 @@
         "description": "Akcja, osadzona w Anglii epoki georgiańskiej, podąża za losami zamożnego pana Dashwooda, który umiera, pozostawiając swoją drugą żonę oraz trzy córki w trudnej sytuacji finansowej.",
         "shortDescription": "Akcja, osadzona w Anglii epoki georgiańskiej, podąża za losami zamożnego pana Dashwooda, który umiera, pozostawiając swoją drugą żonę oraz trzy córki w trudnej sytuacji finansowej.",
         "genres": [
-          "Kostiumowy",
-          "Melodramat"
+          "Melodramat",
+          "Kostiumowy"
         ],
         "external": {
           "imdb": {
             "id": "tt13609648",
             "url": "https://www.imdb.com/title/tt13609648/",
             "rating": 7.2,
-            "votes": 649
+            "votes": 853
           },
           "filmweb": {
             "id": "10087170",
             "url": "https://www.filmweb.pl/film/Rozwa%C5%BCna+i+romantyczna-2026-10087170",
             "genres": [
-              "Kostiumowy",
-              "Melodramat"
+              "Melodramat",
+              "Kostiumowy"
             ],
             "rating": 7,
-            "votes": 21
+            "votes": 24
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/sense_and_sensibility_2026",
@@ -67,14 +67,54 @@
             "directors": [
               "Georgia Oakley"
             ],
-            "criticsRating": 77,
-            "criticsVotes": 30,
+            "criticsRating": 78,
+            "criticsVotes": 32,
             "audienceRating": null,
             "audienceVotes": null
           }
         },
         "longDescription": "Georgeia Oakley jest reżyserką nowej interpretacji  Rozważnej i romantycznej  Jane Austen. To produkcja Working Title, oparta na scenariuszu Diany Reid, w rolach głównych zobaczymy: Daisy Edgar-Jones, Esmé Creed-Miles, Caitríonę Balfe, Franka Dillane’a, Herberta Nordruma, Bodhi Rae Breathnach, George’a MacKaya oraz Fionę Shaw.\n\nAkcja, osadzona w Anglii epoki georgiańskiej, podąża za losami zamożnego pana Dashwooda, który umiera, pozostawiając swoją drugą żonę oraz trzy córki w trudnej sytuacji finansowej. Kobiety przenoszą się do skromnej wiejskiej posiadłości, gdzie dwie starsze siostry rywalizują o względy różnych adoratorów, poszukując prawdziwej miłości.\n\nProducentami filmu są: Tim Bevan i Eric Fellner z Working Title, a także India Flint z November Pictures oraz Jo Wallett z Kiddo Films. Working Title i Focus wcześniej współpracowały przy filmowej adaptacji  Dumy i uprzedzenia  z 2005 roku, która zdobyła cztery nominacje do Oscara, oraz przy kinowej wersji  Emmy  z 2020 roku.\n\nRozważna i romantyczna  trafiła na ekrany również w 1995 roku ze studia Sony Pictures Classics — film w reżyserii Anga Lee, ze scenariuszem Emmy Thompson, nagrodzonej Oscarem za najlepszy scenariusz adaptowany. Thompson zagrała także Elinor Dashwood, a Kate Winslet wcieliła się w Marianne. Produkcja otrzymała w sumie siedem nominacji do Oscara i zarobiła ponad 134 miliony dolarów na świecie.",
         "poster": "media/posters/7b55170e8bf3a5c84166.webp"
+      },
+      {
+        "hour": "19:00",
+        "datetime": "2026-10-28 19:00:00",
+        "title": "Międzynarodowy Dzień Animacji",
+        "originalTitle": "",
+        "director": "",
+        "year": "",
+        "premiereDate": "",
+        "duration": "102",
+        "countries": "",
+        "shortDesc": "<p>28 października obchodzimy Międzynarodowy Dzień Animacji – święto ustanowione przez międzynarodową organizację twórców filmu animowanego ASIFA (Association Internationale du Film d&#8217;Animation).</p>\n",
+        "lang": "",
+        "subtitlesLang": "pl",
+        "age": "16",
+        "credits": "102’",
+        "desc": "<p>28 października obchodzimy Międzynarodowy Dzień Animacji – święto ustanowione przez międzynarodową organizację twórców filmu animowanego ASIFA (Association Internationale du Film d&#8217;Animation).</p>\n",
+        "hall": "2",
+        "movieLink": "https://www.kinomuza.pl/movie/miedzynarodowy-dzien-animacji-2/",
+        "ticketLink": "https://estradapoznan.bilety24.pl/kup-bilety/?id=999399#total",
+        "prePremier": false,
+        "tape35mm": false,
+        "ad": false,
+        "deaf": false,
+        "ticketPrice": "",
+        "ticketHalfPrice": "",
+        "alt": "Międzynarodowy Dzień Animacji",
+        "thumb": "https://www.kinomuza.pl/content/uploads/2026/09/PRZYĆMIĆ-800x450.jpg",
+        "event": "ANIMUZA",
+        "cycle": "animuza",
+        "description": "28 października obchodzimy Międzynarodowy Dzień Animacji – święto ustanowione przez międzynarodową organizację twórców filmu animowanego ASIFA (Association Internationale du Film d&#8217;Animation).",
+        "shortDescription": "28 października obchodzimy Międzynarodowy Dzień Animacji – święto ustanowione przez międzynarodową organizację twórców filmu animowanego ASIFA (Association Internationale du Film d&#8217;Animation).",
+        "genres": [],
+        "external": {
+          "imdb": null,
+          "filmweb": null,
+          "rottenTomatoes": null
+        },
+        "longDescription": "28 października obchodzimy Międzynarodowy Dzień Animacji – święto ustanowione przez międzynarodową organizację twórców filmu animowanego ASIFA (Association Internationale du Film d’Animation).  Upamiętnia on pierwszy pokaz animacji, który odbył się w Grevin Museum w Paryżu w 1892 roku. Publiczność mogła wówczas zobaczyć „Theatre Optique” Emile’a Reynauda. Z tej okazji zapraszamy Was na pokaz 14 krótkometrażowych filmów animowanych wypełnionych skrajnymi emocjami, różnorodnymi technikami i zaskakującymi treściami. Kuratorem programu jest Piotr Kardas, dyrektor Festiwali O!PLA i RISING OF LUSITANIA.\n\nW programie:\n\nBRZYTWA / RAZORS (USA 2025, 04:39), reż. Griffin „The” Hansen\n\nMężczyzna z brzytwą w głowie zgłasza potrzebę naprawy.\n\nCIŚNIENIE / PRESSURE (Brazylia 2023, 02:21), reż. Che Marcheti\n\nKobieta mierzy się z emocjami, które długo ukrywała i są o krok od ich przelania.\n\nSZEPTY / SUSURROS (Francja 2025, 07:27), reż. Alexandra Pewinski, Marie Lombard, Florian Reignier, Emma Pluchard, Lisa Francillon i Alice Parmentier\n\nOd polowań na czarownice w XVII-wiecznej Europie po uchylenie wyroku w sprawie Roe przeciwko Wade w Stanach Zjednoczonych w 2022 roku, „Susurros” opowiada historię dwóch kobiet, które zaszły w ciążę, mimo że tego nie chciały. Oddzielone od siebie czterema wiekami, Maria i Adeleida nieuchronnie splatają swoje losy. W cieniu obskurantyzmu historia się powtarza. Laureat Studenckiej Nagrody ASIFA 2026.\n\nJAK INTELIGENTNE SĄ WRONY? / HOW SMART ARE CROWS? (Grecja 2025, 04:36), reż. Irida Zhonga\n\nW jednej z bajek Ezopa wrona szuka wody. Dostrzega dzban, lecz znajdująca się w nim woda jest poza jej zasięgiem. Ptak zaczyna więc wrzucać do środka kamyki. Jeden po drugim wypierają one wodę, dzięki czemu wrona może ugasić pragnienie. To tylko jeden z wielu fascynujących przykładów inteligencji krukowatych. Katharina Brecht przygląda się temu, co czyni tę śmiałą i bystrą rodzinę ptaków śpiewających tak inteligentną.\n\nGUARACY (Brazylia 2023, 12:08), reż. Eliete Della Violla, Daniel Bruson\n\nWnuczka zagłębia się w relację ze swoim dziadkiem, emerytowanym policjantem, który kocha muzykę, tworząc żywą mozaikę uczuć, wątpliwości oraz przeżytych, opowiedzianych i wyobrażonych wspomnień.\n\nPRZYĆMIĆ / OUTSHINE (Tajwan 2026, 04:00), reż. Eliza Dorothy Russell Keating\n\nPewnego dnia w jednej z latarni morskich gaśnie światło. Gdy latarnik wymienia żarówkę na jeszcze jaśniejszą, budzi to ducha rywalizacji u jego kolegi z latarni po drugiej stronie wody. Wkrótce obaj wdają się w absurdalny pojedynek, prześcigając się w coraz bardziej wymyślnych ulepszeniach oświetlenia. W ferworze tej rywalizacji zdają się zapominać o swoich pierwotnych obowiązkach latarników…\n\nJAK RODZI SIĘ RZEKA / HOW A RIVER IS BORN (Brazylia 2025, 08:33), reż. Luma Flôres\n\nAyla budzi się w górzystym krajobrazie, otoczona jedynie roślinnością i rzeką. Kierowana ciekawością i pragnieniem poznania tego miejsca, wyrusza w podróż pełną odkryć i nurkowania. Odkrywając gdzie jest, odkrywa również siebie.\n\nKRAINA NICZYJA / LAND OF NO MAN (Tajwan, USA 2026, 03:50), reż. Muling Tzai, Olivia Lin\n\nSamotna kapibara jest zagadywana przez przechodzące zwierzęta: „Czy nie czujesz się samotna?”.\n\nKABUKI (Brazylia 2025, 14:37), reż. Tiago Minamisawa\n\nKabuki żyje w męskim ciele, którego nie rozpoznaje. Bez tożsamości budzi Duszę. W nietrwałości materialnego ciała, Transcenduje.\n\nNADAL LUTY / STILL FEBRUARY (Niemcy 2026, 09:37), reż. Anya Ryzhkova\n\nWilkopodobna postać budzi się w świecie zagrożonym ogniem i rozkładem. Czuje, że wszystko wokół niej znika, nie rozumiejąc dlaczego – niemal ślepa, jest niezdolna dostrzec tego, co oczywiste. Ale wkrótce zaczyna dostrzegać prawdę: ogromne, niszczycielskie stopy tratują świat, podpalając wszystko, wciągając przeszłość i przyszłość w ciemność. W końcu pozostaje jej tylko jedno: uratować siebie.\n\nZANIM ZNIKNIESZ / BEFORE YOU GONE (Tajwan 2026, 08:16), reż. Xie Cha-Ping\n\nDziś, rok po Twoim odejściu, siedzę przed Tobą i opowiadam o historii naszej rodziny, a także o tym, jak bardzo za Tobą tęsknię i czego żałuję. Emocje splatają się tu z rzeczywistością i wspomnieniami, pozostawiając po sobie to, co nigdy nie zostało wypowiedziane. Film „Before you gon” wykorzystuje osobistą narrację, łącząc autentyczne obrazy z animacją rysunkową, by uchwycić emocje, które trudno utrwalić w samej pamięci.\n\nPOD WODĄ / UNDER WATER (Tajwan 2026, 15:10), reż. Jen-Hsiang Chuang\n\nWychudzone i wyczerpane dziewczęta są uwięzione w mrocznym lochu, gdzie nieustannie padają ofiarą przemocy ze strony przerażającej istoty. Wspierając się nawzajem, szukają drogi ucieczki, by ostatecznie uświadomić sobie, że towarzyszki pomagające im w tej wędrówce były w rzeczywistości odbiciami ich samych.\n\nJA P… / HOLY SHIT! (Grecja 2025, 04:37), reż. Taxiarchis Deligiannis, Vasilis Tsiouvaras\n\nOglądamy współczesne Ateny w Grecji, gdzie stare budynki, biura, kina plenerowe itp. w szybkim tempie przekształcają się w hotele i inne miejsca noclegowe dla turystów. Miasto dusi się niezliczoną rzeszą turystów, którzy gromadzą się w hotelach, w różnych miejscach, na plażach, w barach, restauracjach itp. Panuje kompletny chaos, który z dnia na dzień się pogłębia. Nagle w różnych miejscach miasta z toalet i kanałów ściekowych wydobywają się śmierdzące opary w postaci chmur, powodując dyskomfort dla ludzi…",
+        "poster": "media/posters/e22e47c746fa0df77619.webp"
       }
     ]
   }

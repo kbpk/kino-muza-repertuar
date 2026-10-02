@@ -1,12 +1,12 @@
 {
   "schemaVersion": 1,
   "date": "2026-10-28",
-  "updatedAt": "2026-10-01T17:01:55.334Z",
+  "updatedAt": "2026-10-02T16:16:24.592Z",
   "source": "https://www.kinomuza.pl/repertoire/day/",
   "day": {
-    "id": "27",
+    "id": "26",
     "date": "28.10",
-    "now": "2026-10-01 19:01:20",
+    "now": "2026-10-02 18:15:53",
     "info": [],
     "repertoire": [
       {
@@ -40,8 +40,8 @@
         "description": "Akcja, osadzona w Anglii epoki georgiańskiej, podąża za losami zamożnego pana Dashwooda, który umiera, pozostawiając swoją drugą żonę oraz trzy córki w trudnej sytuacji finansowej.",
         "shortDescription": "Akcja, osadzona w Anglii epoki georgiańskiej, podąża za losami zamożnego pana Dashwooda, który umiera, pozostawiając swoją drugą żonę oraz trzy córki w trudnej sytuacji finansowej.",
         "genres": [
-          "Melodramat",
-          "Kostiumowy"
+          "Kostiumowy",
+          "Melodramat"
         ],
         "external": {
           "imdb": {
@@ -54,11 +54,11 @@
             "id": "10087170",
             "url": "https://www.filmweb.pl/film/Rozwa%C5%BCna+i+romantyczna-2026-10087170",
             "genres": [
-              "Melodramat",
-              "Kostiumowy"
+              "Kostiumowy",
+              "Melodramat"
             ],
-            "rating": 7,
-            "votes": 24
+            "rating": 7.1,
+            "votes": 26
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/sense_and_sensibility_2026",

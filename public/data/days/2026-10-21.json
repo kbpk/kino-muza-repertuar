@@ -1,12 +1,12 @@
 {
   "schemaVersion": 1,
   "date": "2026-10-21",
-  "updatedAt": "2026-10-01T17:01:55.334Z",
+  "updatedAt": "2026-10-02T16:16:24.592Z",
   "source": "https://www.kinomuza.pl/repertoire/day/",
   "day": {
-    "id": "20",
+    "id": "19",
     "date": "21.10",
-    "now": "2026-10-01 19:01:11",
+    "now": "2026-10-02 18:15:53",
     "info": [],
     "repertoire": [
       {
@@ -40,8 +40,8 @@
         "description": "Młody Anthony Bourdain podczas upalnego lata 1976 roku odkrywa swoją pasję, powołanie i to, kim tak naprawdę jest.",
         "shortDescription": "Młody Anthony Bourdain podczas upalnego lata 1976 roku odkrywa swoją pasję, powołanie i to, kim tak naprawdę jest.",
         "genres": [
-          "Biograficzny",
           "Dramat",
+          "Biograficzny",
           "Komedia"
         ],
         "external": {
@@ -55,12 +55,12 @@
             "id": "10079933",
             "url": "https://www.filmweb.pl/film/Tony-2026-10079933",
             "genres": [
-              "Biograficzny",
               "Dramat",
+              "Biograficzny",
               "Komedia"
             ],
             "rating": 7.1,
-            "votes": 7315
+            "votes": 7385
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/tony_2026",
@@ -70,9 +70,9 @@
               "Matt Johnson"
             ],
             "criticsRating": 93,
-            "criticsVotes": 233,
+            "criticsVotes": 234,
             "audienceRating": 93,
-            "audienceVotes": 968
+            "audienceVotes": 970
           }
         },
         "longDescription": "Anthony Bourdain – buntownik, outsider, głos pokolenia, jeden z najbardziej znanych szefów kuchni i jedna z największych, najbardziej charyzmatycznych osobowości telewizyjnych. Podróżnik, pisarz, odkrywca, którego miliony ludzi na całym świecie pokochały za bezkompromisowy styl, miłość do życia, szacunek do ludzi, odwagę, ciekawość świata i autentyczność. „Tony” to historia początków jego drogi – kim był, zanim stał się Anthonym Bourdainem.\n\nUpalne lato 1976 roku, Provincetown – miasto pulsujące wolnością, seksem i energią. Młody, marzący o karierze pisarza, Tony (Dominic Sessa), by podreperować budżet, trafia na zmywak do restauracji serwującej owoce morza, prowadzonej przez tajemniczego szefa kuchni (Antonio Banderas). W intensywnej, chaotycznej, a jednocześnie niezwykle kreatywnej atmosferze Tony odkrywa swoją pasję, powołanie i to, kim tak naprawdę jest.\n\nFilm dostępny z audiodeskrypcją lub lektorem. Skorzystaj bezpłatnie z aplikacji Kino Dostępne 2.0 w Twoim telefonie – http://kinodostepne.pl",

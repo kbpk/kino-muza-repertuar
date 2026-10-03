@@ -1,12 +1,12 @@
 {
   "schemaVersion": 1,
   "date": "2026-10-03",
-  "updatedAt": "2026-10-02T16:16:24.592Z",
+  "updatedAt": "2026-10-03T14:43:50.064Z",
   "source": "https://www.kinomuza.pl/repertoire/day/",
   "day": {
-    "id": "01",
+    "id": "00",
     "date": "03.10",
-    "now": "2026-10-02 18:15:08",
+    "now": "2026-10-03 16:42:34",
     "info": [],
     "repertoire": [
       {
@@ -548,8 +548,8 @@
         "description": "Opowieść o podróży Odyseusza, króla Itaki, który musi stawić czoła licznym wyzwaniom próbując wrócić do domu po wojnie trojańskiej.",
         "shortDescription": "Opowieść o podróży Odyseusza, króla Itaki, który musi stawić czoła licznym wyzwaniom próbując wrócić do domu po wojnie trojańskiej.",
         "genres": [
-          "Fantasy",
           "Dramat",
+          "Fantasy",
           "Przygodowy"
         ],
         "external": {
@@ -557,18 +557,18 @@
             "id": "tt33764258",
             "url": "https://www.imdb.com/title/tt33764258/",
             "rating": 8.4,
-            "votes": 514803
+            "votes": 516257
           },
           "filmweb": {
             "id": "10068387",
             "url": "https://www.filmweb.pl/film/Odyseja-2026-10068387",
             "genres": [
-              "Fantasy",
               "Dramat",
+              "Fantasy",
               "Przygodowy"
             ],
             "rating": 7.7,
-            "votes": 72049
+            "votes": 72152
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/the_odyssey_2026",
@@ -580,7 +580,7 @@
             "criticsRating": 94,
             "criticsVotes": 514,
             "audienceRating": 96,
-            "audienceVotes": 34210
+            "audienceVotes": 34235
           }
         },
         "longDescription": "Christopher Nolan, który nakręcił takie filmy jak „Interstellar” oraz „Oppenheimer” jest znany z tego, że nie boi się żadnego gatunku filmowego. Po świetnie przyjętym i nagrodzonym 7 Oscarami® „Oppenheimerze” opowiadajacym historię powstania pierwszej bomby atomowej, teraz reżyser pracuje nad adaptacją „Odysei”.\n\nTo opowieść autorstwa Homera uznawana za jedno z najważniejszych dzieł literatury zachodniej. Opowiada o podróży Odyseusza, króla Itaki, który musi stawić czoła licznym wyzwaniom próbując wrócić do domu po wojnie trojańskiej. Powstała już niejedna ekranizacja klasycznego dzieła Homera, ale tym razem film nakręcony zostanie w technologii IMAX i będzie pierwszym tak nowoczesnym podejściem do „Odysei”.\n\nW filmie „Odysei” zobaczymy między innymi: Matta Damona, Toma Hollanda, Anne Hathaway, Zendayę, Roberta Pattinsona, Lupite Nyong’o oraz Charlize Theron.",
@@ -623,8 +623,8 @@
           "imdb": {
             "id": "tt37082105",
             "url": "https://www.imdb.com/title/tt37082105/",
-            "rating": null,
-            "votes": null
+            "rating": 7.8,
+            "votes": 241
           },
           "filmweb": {
             "id": "10057628",
@@ -634,7 +634,7 @@
               "Dramat obyczajowy"
             ],
             "rating": 7.7,
-            "votes": 4422
+            "votes": 6257
           },
           "rottenTomatoes": null
         },
@@ -680,7 +680,7 @@
             "id": "tt14905854",
             "url": "https://www.imdb.com/title/tt14905854/",
             "rating": 7.8,
-            "votes": 137027
+            "votes": 137247
           },
           "filmweb": {
             "id": "10035555",
@@ -691,7 +691,7 @@
               "Dramat"
             ],
             "rating": 7.6,
-            "votes": 29535
+            "votes": 29566
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/hamnet",
@@ -746,8 +746,8 @@
           "imdb": {
             "id": "tt37082105",
             "url": "https://www.imdb.com/title/tt37082105/",
-            "rating": null,
-            "votes": null
+            "rating": 7.8,
+            "votes": 241
           },
           "filmweb": {
             "id": "10057628",
@@ -757,7 +757,7 @@
               "Dramat obyczajowy"
             ],
             "rating": 7.7,
-            "votes": 4422
+            "votes": 6257
           },
           "rottenTomatoes": null
         },
@@ -803,7 +803,7 @@
             "id": "tt33095251",
             "url": "https://www.imdb.com/title/tt33095251/",
             "rating": 7.4,
-            "votes": 14523
+            "votes": 14878
           },
           "filmweb": {
             "id": "10079933",
@@ -814,7 +814,7 @@
               "Komedia"
             ],
             "rating": 7.1,
-            "votes": 7385
+            "votes": 7466
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/tony_2026",
@@ -824,9 +824,9 @@
               "Matt Johnson"
             ],
             "criticsRating": 93,
-            "criticsVotes": 234,
+            "criticsVotes": 235,
             "audienceRating": 93,
-            "audienceVotes": 970
+            "audienceVotes": 971
           }
         },
         "longDescription": "Anthony Bourdain – buntownik, outsider, głos pokolenia, jeden z najbardziej znanych szefów kuchni i jedna z największych, najbardziej charyzmatycznych osobowości telewizyjnych. Podróżnik, pisarz, odkrywca, którego miliony ludzi na całym świecie pokochały za bezkompromisowy styl, miłość do życia, szacunek do ludzi, odwagę, ciekawość świata i autentyczność. „Tony” to historia początków jego drogi – kim był, zanim stał się Anthonym Bourdainem.\n\nUpalne lato 1976 roku, Provincetown – miasto pulsujące wolnością, seksem i energią. Młody, marzący o karierze pisarza, Tony (Dominic Sessa), by podreperować budżet, trafia na zmywak do restauracji serwującej owoce morza, prowadzonej przez tajemniczego szefa kuchni (Antonio Banderas). W intensywnej, chaotycznej, a jednocześnie niezwykle kreatywnej atmosferze Tony odkrywa swoją pasję, powołanie i to, kim tak naprawdę jest.\n\nFilm dostępny z audiodeskrypcją lub lektorem. Skorzystaj bezpłatnie z aplikacji Kino Dostępne 2.0 w Twoim telefonie – http://kinodostepne.pl",
@@ -869,7 +869,7 @@
             "id": "tt35298123",
             "url": "https://www.imdb.com/title/tt35298123/",
             "rating": 6.6,
-            "votes": 16947
+            "votes": 17504
           },
           "filmweb": {
             "id": "10114411",
@@ -878,7 +878,7 @@
               "Czarna komedia"
             ],
             "rating": 6.7,
-            "votes": 3130
+            "votes": 3165
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/teenage_sex_and_death_at_camp_miasma",
@@ -888,9 +888,9 @@
               "Jane Schoenbrun"
             ],
             "criticsRating": 93,
-            "criticsVotes": 273,
+            "criticsVotes": 274,
             "audienceRating": 79,
-            "audienceVotes": 550
+            "audienceVotes": 551
           }
         },
         "longDescription": "Na dnie jeziora jest dziura. To z niej pochodzą filmy.\n\nMłoda, utalentowana reżyserka Kris (Hannah Einbinder) dostaje od studia filmowego szansę życia – ma nakręcić remake kultowej serii horrorów „Camp Miasma”, która cieszyła się ogromną popularnością w latach osiemdziesiątych i dziewięćdziesiątych. Aby znaleźć inspirację, udaje się na spotkanie z Billy (Gillian Anderson), która grała główną rolę w pierwowzorze projektu. Wizyta u ekscentrycznej aktorki szybko przeradza się w coś więcej niż zwykły wywiad.\n\n„Miłość, śmierć i dojrzewanie w Camp Miasma” zadebiutowała na festiwalu w Cannes, gdzie szturmem zdobyła serca krytyków i widzów – a także prestiżową nominację w sekcji Un Certain Regard. Najnowszy film Jane Shoenbrun (twórcy docenianego „W blasku ekranu”) ma obecnie 100% pozytywnych recenzji na Rotten Tomatoes, a widzowie wychodzą z seansów zachwyceni.\n\nChoć film Shoenbrun opowiada o powstawaniu fikcyjnej serii horrorów, sam w sobie horrorem nie jest, a zaledwie czerpie z jego estetyki. To przepiękna pod względem wizualnym kinofilska uczta opowiadająca przede wszystkim o bezgranicznej miłości do kina. I o tym, jak ta miłość zmienia nasze życie.\n\nW centrum tej opowieści stoją dwie aktorki reprezentujące dwa różne pokolenia. Legendarna Gillian Anderson wciela się w rolę ekscentrycznej diwy, a znana z serialu „Hacks” Hannah Einbinder w niepewną swojej pozycji, ale utalentowaną reżyserkę. Razem tworzą najbardziej elektryzujący ekranowy duet tego roku.",

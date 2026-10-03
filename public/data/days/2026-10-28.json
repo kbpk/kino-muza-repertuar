@@ -1,12 +1,12 @@
 {
   "schemaVersion": 1,
   "date": "2026-10-28",
-  "updatedAt": "2026-10-02T16:16:24.592Z",
+  "updatedAt": "2026-10-03T14:43:50.064Z",
   "source": "https://www.kinomuza.pl/repertoire/day/",
   "day": {
-    "id": "26",
+    "id": "25",
     "date": "28.10",
-    "now": "2026-10-02 18:15:53",
+    "now": "2026-10-03 16:43:22",
     "info": [],
     "repertoire": [
       {
@@ -48,7 +48,7 @@
             "id": "tt13609648",
             "url": "https://www.imdb.com/title/tt13609648/",
             "rating": 7.2,
-            "votes": 853
+            "votes": 1022
           },
           "filmweb": {
             "id": "10087170",
@@ -58,7 +58,7 @@
               "Melodramat"
             ],
             "rating": 7.1,
-            "votes": 26
+            "votes": 27
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/sense_and_sensibility_2026",
@@ -67,8 +67,8 @@
             "directors": [
               "Georgia Oakley"
             ],
-            "criticsRating": 78,
-            "criticsVotes": 32,
+            "criticsRating": 79,
+            "criticsVotes": 33,
             "audienceRating": null,
             "audienceVotes": null
           }

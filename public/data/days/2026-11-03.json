@@ -1,12 +1,12 @@
 {
   "schemaVersion": 1,
   "date": "2026-11-03",
-  "updatedAt": "2026-10-02T16:16:24.592Z",
+  "updatedAt": "2026-10-03T14:43:50.064Z",
   "source": "https://www.kinomuza.pl/repertoire/day/",
   "day": {
-    "id": "32",
+    "id": "31",
     "date": "03.11",
-    "now": "2026-10-02 18:16:00",
+    "now": "2026-10-03 16:43:24",
     "info": [],
     "repertoire": [
       {
@@ -46,7 +46,7 @@
             "id": "tt0072446",
             "url": "https://www.imdb.com/title/tt0072446/",
             "rating": 7.8,
-            "votes": 4670
+            "votes": 4673
           },
           "filmweb": {
             "id": "1073",
@@ -55,7 +55,7 @@
               "Obyczajowy"
             ],
             "rating": 7.9,
-            "votes": 60584
+            "votes": 60588
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/ziemia_obiecana",

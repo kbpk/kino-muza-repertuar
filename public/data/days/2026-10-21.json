@@ -1,12 +1,12 @@
 {
   "schemaVersion": 1,
   "date": "2026-10-21",
-  "updatedAt": "2026-10-04T19:34:20.594Z",
+  "updatedAt": "2026-10-05T19:17:20.235Z",
   "source": "https://www.kinomuza.pl/repertoire/day/",
   "day": {
-    "id": "17",
+    "id": "16",
     "date": "21.10",
-    "now": "2026-10-04 21:34:11",
+    "now": "2026-10-05 21:16:52",
     "info": [],
     "repertoire": [
       {
@@ -40,27 +40,27 @@
         "description": "Młody Anthony Bourdain podczas upalnego lata 1976 roku odkrywa swoją pasję, powołanie i to, kim tak naprawdę jest.",
         "shortDescription": "Młody Anthony Bourdain podczas upalnego lata 1976 roku odkrywa swoją pasję, powołanie i to, kim tak naprawdę jest.",
         "genres": [
-          "Komedia",
+          "Dramat",
           "Biograficzny",
-          "Dramat"
+          "Komedia"
         ],
         "external": {
           "imdb": {
             "id": "tt33095251",
             "url": "https://www.imdb.com/title/tt33095251/",
             "rating": 7.4,
-            "votes": 15196
+            "votes": 15360
           },
           "filmweb": {
             "id": "10079933",
             "url": "https://www.filmweb.pl/film/Tony-2026-10079933",
             "genres": [
-              "Komedia",
+              "Dramat",
               "Biograficzny",
-              "Dramat"
+              "Komedia"
             ],
             "rating": 7.1,
-            "votes": 7544
+            "votes": 7644
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/tony_2026",
@@ -72,7 +72,7 @@
             "criticsRating": 93,
             "criticsVotes": 235,
             "audienceRating": 93,
-            "audienceVotes": 972
+            "audienceVotes": 974
           }
         },
         "longDescription": "Anthony Bourdain – buntownik, outsider, głos pokolenia, jeden z najbardziej znanych szefów kuchni i jedna z największych, najbardziej charyzmatycznych osobowości telewizyjnych. Podróżnik, pisarz, odkrywca, którego miliony ludzi na całym świecie pokochały za bezkompromisowy styl, miłość do życia, szacunek do ludzi, odwagę, ciekawość świata i autentyczność. „Tony” to historia początków jego drogi – kim był, zanim stał się Anthonym Bourdainem.\n\nUpalne lato 1976 roku, Provincetown – miasto pulsujące wolnością, seksem i energią. Młody, marzący o karierze pisarza, Tony (Dominic Sessa), by podreperować budżet, trafia na zmywak do restauracji serwującej owoce morza, prowadzonej przez tajemniczego szefa kuchni (Antonio Banderas). W intensywnej, chaotycznej, a jednocześnie niezwykle kreatywnej atmosferze Tony odkrywa swoją pasję, powołanie i to, kim tak naprawdę jest.\n\nFilm dostępny z audiodeskrypcją lub lektorem. Skorzystaj bezpłatnie z aplikacji Kino Dostępne 2.0 w Twoim telefonie – http://kinodostepne.pl",
@@ -109,8 +109,8 @@
         "description": "Zatrzymaj się i poczuj magię natury podczas prawdziwego kinowego doświadczenia, które angażuje wszystkie zmysły!",
         "shortDescription": "Zatrzymaj się i poczuj magię natury podczas prawdziwego kinowego doświadczenia, które angażuje wszystkie zmysły!",
         "genres": [
-          "Przyrodniczy",
-          "Dokumentalny"
+          "Dokumentalny",
+          "Przyrodniczy"
         ],
         "external": {
           "imdb": {
@@ -123,11 +123,11 @@
             "id": "10111381",
             "url": "https://www.filmweb.pl/film/Pie%C5%9Bni+lasu-2025-10111381",
             "genres": [
-              "Przyrodniczy",
-              "Dokumentalny"
+              "Dokumentalny",
+              "Przyrodniczy"
             ],
             "rating": 8.2,
-            "votes": 405
+            "votes": 407
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/whispers_in_the_woods",

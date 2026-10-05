@@ -1,12 +1,12 @@
 {
   "schemaVersion": 1,
   "date": "2026-10-11",
-  "updatedAt": "2026-10-04T19:34:20.594Z",
+  "updatedAt": "2026-10-05T19:17:20.235Z",
   "source": "https://www.kinomuza.pl/repertoire/day/",
   "day": {
-    "id": "07",
+    "id": "06",
     "date": "11.10",
-    "now": "2026-10-04 21:34:02",
+    "now": "2026-10-05 21:16:38",
     "info": [],
     "repertoire": [
       {
@@ -56,7 +56,7 @@
               "Dokumentalny"
             ],
             "rating": 7.4,
-            "votes": 67
+            "votes": 68
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/the_golden_spurtle",
@@ -72,7 +72,7 @@
           }
         },
         "longDescription": "Raz w roku do malowniczej wioski na północy Szkocji zjeżdżają się pasjonaci z całego świata, by rywalizować o tytuł mistrza świata w… przyrządzaniu owsianki! W filmie dokumentalnym „Najlepsza owsianka na świecie” za zaciętą kulinarną rywalizacją kryje się ciepła i pełna humoru opowieść o ekscentrycznych mieszkańcach, żywej tradycji, lokalnym dziedzictwie i wspólnocie, której częścią chciałoby się zostać po seansie.\n\nKażdej jesieni senna górska wioska Carrbridge budzi się do życia, gdy miejscowi i zagraniczni zawodnicy podejmują kuchenną rękawicę i walczą o zaszczytną nagrodę Złotego Mieszadła w Mistrzostwach Świata w Gotowaniu Owsianki. Choć przepis wydaje się banalny – płatki owsiane, woda i sól – to sposobów na jej przyrządzanie jest multum. Co uczestnik, to inna metoda, filozofia i historia. Ale „Najlepsza owsianka na świecie” nie jest wyłącznie kroniką kulinarnych zmagań.\n\nDla lokalnej legendy, charyzmatycznego organizatora mistrzostw Charliego Millera, to wydarzenie znaczy o wiele więcej. Mężczyzna zbliża się do emerytury i zmaga się z problemami zdrowotnymi, jednak czuje odpowiedzialność wobec lokalnego komitetu owsiankowego i pragnie zabezpieczyć przyszłość zawodów – oraz własne dziedzictwo. O dobre imię walczy również Ian Bishop, który podejmuje ostatnią próbę zdobycia tytułu. Ale konkurencja nie śpi: niezrównana Lisa Williams, „królowa owsianki”, wraca, by odzyskać trofeum. Tymczasem nowa generacja uczestników – Toby Wilson, australijski szef kuchni znany z pomysłu na owsiankową tortillę, oraz Adam Kiani, uzbrojony w sekretną, odziedziczoną po babci technikę – zamierza zakwestionować owsiankowe status quo.\n\nUkazując życie niewielkiej szkockiej społeczności na tle zapierających dech w piersiach krajobrazów, film przywodzi na myśl dokumenty „Truflarze” czy „Kraina miodu” – tworzone z czułością i zrozumieniem dla swoich bohaterów. Urokliwa i pełna humoru „Najlepsza owsianka na świecie” to film, który wzrusza, otula i daje poczucie komfortu niczym miska gorącej owsianki w chłodny poranek.",
-        "poster": "media/posters/70a39c39beee3a9e736a.webp"
+        "poster": "media/posters/0489ff5b229b8e65b5c0.webp"
       }
     ]
   }

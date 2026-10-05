@@ -1,12 +1,12 @@
 {
   "schemaVersion": 1,
   "date": "2026-10-28",
-  "updatedAt": "2026-10-04T19:34:20.594Z",
+  "updatedAt": "2026-10-05T19:17:20.235Z",
   "source": "https://www.kinomuza.pl/repertoire/day/",
   "day": {
-    "id": "24",
+    "id": "23",
     "date": "28.10",
-    "now": "2026-10-04 21:34:12",
+    "now": "2026-10-05 21:16:58",
     "info": [],
     "repertoire": [
       {
@@ -40,25 +40,25 @@
         "description": "Akcja, osadzona w Anglii epoki georgiańskiej, podąża za losami zamożnego pana Dashwooda, który umiera, pozostawiając swoją drugą żonę oraz trzy córki w trudnej sytuacji finansowej.",
         "shortDescription": "Akcja, osadzona w Anglii epoki georgiańskiej, podąża za losami zamożnego pana Dashwooda, który umiera, pozostawiając swoją drugą żonę oraz trzy córki w trudnej sytuacji finansowej.",
         "genres": [
-          "Kostiumowy",
-          "Melodramat"
+          "Melodramat",
+          "Kostiumowy"
         ],
         "external": {
           "imdb": {
             "id": "tt13609648",
             "url": "https://www.imdb.com/title/tt13609648/",
             "rating": 7.2,
-            "votes": 1115
+            "votes": 1176
           },
           "filmweb": {
             "id": "10087170",
             "url": "https://www.filmweb.pl/film/Rozwa%C5%BCna+i+romantyczna-2026-10087170",
             "genres": [
-              "Kostiumowy",
-              "Melodramat"
+              "Melodramat",
+              "Kostiumowy"
             ],
-            "rating": 7,
-            "votes": 30
+            "rating": 7.1,
+            "votes": 40
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/sense_and_sensibility_2026",
@@ -67,8 +67,8 @@
             "directors": [
               "Georgia Oakley"
             ],
-            "criticsRating": 76,
-            "criticsVotes": 34,
+            "criticsRating": 77,
+            "criticsVotes": 35,
             "audienceRating": null,
             "audienceVotes": null
           }

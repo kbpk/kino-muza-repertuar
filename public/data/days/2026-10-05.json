@@ -1,12 +1,12 @@
 {
   "schemaVersion": 1,
   "date": "2026-10-05",
-  "updatedAt": "2026-10-04T19:34:20.594Z",
+  "updatedAt": "2026-10-05T19:17:20.235Z",
   "source": "https://www.kinomuza.pl/repertoire/day/",
   "day": {
-    "id": "01",
+    "id": "00",
     "date": "05.10",
-    "now": "2026-10-04 21:33:52",
+    "now": "2026-10-05 21:16:25",
     "info": [],
     "repertoire": [
       {
@@ -527,26 +527,26 @@
         "shortDescription": "Futurystyczny thriller science-fiction, którego akcja rozgrywa się w niedalekiej przyszłości, gdzie porządek społeczny wyznacza świadoma sztuczna inteligencja.",
         "genres": [
           "Kryminał",
-          "Thriller",
-          "Sci-Fi"
+          "Sci-Fi",
+          "Thriller"
         ],
         "external": {
           "imdb": {
             "id": "tt14119302",
             "url": "https://www.imdb.com/title/tt14119302/",
             "rating": 3.8,
-            "votes": 757
+            "votes": 767
           },
           "filmweb": {
             "id": "10069059",
             "url": "https://www.filmweb.pl/film/Hot+Spot-2026-10069059",
             "genres": [
               "Kryminał",
-              "Thriller",
-              "Sci-Fi"
+              "Sci-Fi",
+              "Thriller"
             ],
             "rating": 3.9,
-            "votes": 1647
+            "votes": 1680
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/hot_spot_2026",

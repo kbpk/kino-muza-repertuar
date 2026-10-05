@@ -1,12 +1,12 @@
 {
   "schemaVersion": 1,
   "date": "2026-10-07",
-  "updatedAt": "2026-10-04T19:34:20.594Z",
+  "updatedAt": "2026-10-05T19:17:20.235Z",
   "source": "https://www.kinomuza.pl/repertoire/day/",
   "day": {
-    "id": "03",
+    "id": "02",
     "date": "07.10",
-    "now": "2026-10-04 21:33:53",
+    "now": "2026-10-05 21:16:30",
     "info": [],
     "repertoire": [
       {
@@ -46,7 +46,7 @@
             "id": "tt37304295",
             "url": "https://www.imdb.com/title/tt37304295/",
             "rating": 7.3,
-            "votes": 2250
+            "votes": 2267
           },
           "filmweb": {
             "id": "10074985",
@@ -55,7 +55,7 @@
               "Dramat"
             ],
             "rating": 6.9,
-            "votes": 8054
+            "votes": 8068
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/fatherland_2026",
@@ -65,7 +65,7 @@
               "Paweł Pawlikowski"
             ],
             "criticsRating": 96,
-            "criticsVotes": 51,
+            "criticsVotes": 53,
             "audienceRating": null,
             "audienceVotes": null
           }
@@ -103,8 +103,8 @@
         "description": "Aktualna opowieść o poszukiwaniu sensu w świecie, w którym wszelki sens został zagubiony. Oszczędne dialogi i piękne czarno-białe zdjęcia, stanowiące hołd dla klasycznego kina.",
         "shortDescription": "Aktualna opowieść o poszukiwaniu sensu w świecie, w którym wszelki sens został zagubiony. Oszczędne dialogi i piękne czarno-białe zdjęcia, stanowiące hołd dla klasycznego kina.",
         "genres": [
-          "Dramat",
-          "Kryminał"
+          "Kryminał",
+          "Dramat"
         ],
         "external": {
           "imdb": null,
@@ -112,11 +112,11 @@
             "id": "10089279",
             "url": "https://www.filmweb.pl/film/Obcy-2025-10089279",
             "genres": [
-              "Dramat",
-              "Kryminał"
+              "Kryminał",
+              "Dramat"
             ],
             "rating": 7,
-            "votes": 2683
+            "votes": 2735
           },
           "rottenTomatoes": null
         },
@@ -154,8 +154,8 @@
         "description": "Tomek ma dziewiętnaście lat, jest młodym, wrażliwym człowiekiem. Mieszka u matki swojego przyjaciela, który wyjechał z misją wojskową do Syrii. Wieczorami przez lunetę podgląda mieszkającą w pobliżu Magdę, piękną, dojrzałą kobietę.",
         "shortDescription": "Tomek ma dziewiętnaście lat, jest młodym, wrażliwym człowiekiem. Mieszka u matki swojego przyjaciela, który wyjechał z misją wojskową do Syrii. Wieczorami przez lunetę podgląda mieszkającą w pobliżu Magdę, piękną, dojrzałą kobietę.",
         "genres": [
-          "Dramat",
-          "Psychologiczny"
+          "Psychologiczny",
+          "Dramat"
         ],
         "external": {
           "imdb": null,
@@ -163,11 +163,11 @@
             "id": "1158",
             "url": "https://www.filmweb.pl/film/Kr%C3%B3tki+film+o+mi%C5%82o%C5%9Bci-1988-1158",
             "genres": [
-              "Dramat",
-              "Psychologiczny"
+              "Psychologiczny",
+              "Dramat"
             ],
             "rating": 7.8,
-            "votes": 50034
+            "votes": 50045
           },
           "rottenTomatoes": null
         },
@@ -211,7 +211,7 @@
             "id": "tt29283995",
             "url": "https://www.imdb.com/title/tt29283995/",
             "rating": 7,
-            "votes": 1769
+            "votes": 1777
           },
           "filmweb": {
             "id": "10093851",
@@ -220,7 +220,7 @@
               "Dramat"
             ],
             "rating": 6.8,
-            "votes": 953
+            "votes": 967
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/hen",
@@ -271,26 +271,26 @@
         "shortDescription": "To komedia przygodowa, która przenosi bohaterów na dawno zapomnianą, magiczną wyspę. Warto walczyć o najlepszą przyjaźń.",
         "genres": [
           "Animacja",
-          "Przygodowy",
-          "Fantasy"
+          "Fantasy",
+          "Przygodowy"
         ],
         "external": {
           "imdb": {
             "id": "tt36583977",
             "url": "https://www.imdb.com/title/tt36583977/",
-            "rating": 7.7,
-            "votes": 4032
+            "rating": 7.8,
+            "votes": 4236
           },
           "filmweb": {
             "id": "10116454",
             "url": "https://www.filmweb.pl/film/Zapomniana+wyspa-2026-10116454",
             "genres": [
               "Animacja",
-              "Przygodowy",
-              "Fantasy"
+              "Fantasy",
+              "Przygodowy"
             ],
             "rating": 6.9,
-            "votes": 267
+            "votes": 326
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/forgotten_island",
@@ -303,7 +303,7 @@
             "criticsRating": 95,
             "criticsVotes": 108,
             "audienceRating": 96,
-            "audienceVotes": 1164
+            "audienceVotes": 1259
           }
         },
         "longDescription": "Warto walczyć o najlepszą przyjaźń.\n\nDreamWorks Animation, studio, które stworzyło niezapomniane więzi między chłopcem a smokiem w filmie „Jak wytresować smoka”, ogrem i osłem w animacji „Shrek” oraz robotem i gąsiątkiem w „Dzikim robocie”. Teraz przedstawia olśniewającą i wzruszającą historię o dwójce przyjaciół na całe życie, którzy muszą się zjednoczyć.\n\nNowy film został napisany i wyreżyserowany przez nominowanych do Oscara® Joela Crawforda i Januela Mercado, a jego producentem jest nominowany do Oscara® Mark Swift, twórca filmu „Kot w butach: Ostatnie życzenie”.\n\nNagrodzone nagrodą Grammy i Oscarem® H.E.R. i Liza Soberano użyczają głosu Jo i Raissie.\n\nTo przyjaciółki od najmłodszych lat, które właśnie kończą szkołę średnią i stoją u progu zupełnie nowych etapów życia.\n\nPodczas wspólnego świętowania ostatniego wieczoru przed rozstaniem dziewczyny przypadkiem odkrywają tajemniczy portal, który przenosi je na magiczną wyspę Nakali. To niezwykła kraina pełna fantastycznych i mitycznych stworzeń, o których od dzieciństwa słyszały w opowieściach przekazywanych przez ich filipińskie rodziny.\n\nNiektóre z tych postaci staną się przyjaciółmi, inne wrogami. Jo i Raissa muszą stawić czoła najgroźniejszemu stworzeniu na wyspie.\n\nKiedy odkryją, że wspomnienia ich przyjaźni są ceną za powrót do domu, Jo i Raissa będą ścigać się, by znaleźć sposób na opuszczenie wyspy, zanim zapomną o sobie na zawsze.",
@@ -347,7 +347,7 @@
             "id": "tt37082105",
             "url": "https://www.imdb.com/title/tt37082105/",
             "rating": 7.8,
-            "votes": 320
+            "votes": 373
           },
           "filmweb": {
             "id": "10057628",
@@ -357,7 +357,7 @@
               "Dramat obyczajowy"
             ],
             "rating": 7.7,
-            "votes": 8987
+            "votes": 11457
           },
           "rottenTomatoes": null
         },
@@ -394,8 +394,8 @@
         "description": "Opowieść o podróży Odyseusza, króla Itaki, który musi stawić czoła licznym wyzwaniom próbując wrócić do domu po wojnie trojańskiej.",
         "shortDescription": "Opowieść o podróży Odyseusza, króla Itaki, który musi stawić czoła licznym wyzwaniom próbując wrócić do domu po wojnie trojańskiej.",
         "genres": [
-          "Dramat",
           "Przygodowy",
+          "Dramat",
           "Fantasy"
         ],
         "external": {
@@ -403,18 +403,18 @@
             "id": "tt33764258",
             "url": "https://www.imdb.com/title/tt33764258/",
             "rating": 8.4,
-            "votes": 517820
+            "votes": 518463
           },
           "filmweb": {
             "id": "10068387",
             "url": "https://www.filmweb.pl/film/Odyseja-2026-10068387",
             "genres": [
-              "Dramat",
               "Przygodowy",
+              "Dramat",
               "Fantasy"
             ],
             "rating": 7.7,
-            "votes": 72315
+            "votes": 72475
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/the_odyssey_2026",
@@ -426,7 +426,7 @@
             "criticsRating": 94,
             "criticsVotes": 514,
             "audienceRating": 96,
-            "audienceVotes": 34280
+            "audienceVotes": 34328
           }
         },
         "longDescription": "Christopher Nolan, który nakręcił takie filmy jak „Interstellar” oraz „Oppenheimer” jest znany z tego, że nie boi się żadnego gatunku filmowego. Po świetnie przyjętym i nagrodzonym 7 Oscarami® „Oppenheimerze” opowiadajacym historię powstania pierwszej bomby atomowej, teraz reżyser pracuje nad adaptacją „Odysei”.\n\nTo opowieść autorstwa Homera uznawana za jedno z najważniejszych dzieł literatury zachodniej. Opowiada o podróży Odyseusza, króla Itaki, który musi stawić czoła licznym wyzwaniom próbując wrócić do domu po wojnie trojańskiej. Powstała już niejedna ekranizacja klasycznego dzieła Homera, ale tym razem film nakręcony zostanie w technologii IMAX i będzie pierwszym tak nowoczesnym podejściem do „Odysei”.\n\nW filmie „Odysei” zobaczymy między innymi: Matta Damona, Toma Hollanda, Anne Hathaway, Zendayę, Roberta Pattinsona, Lupite Nyong’o oraz Charlize Theron.",
@@ -462,27 +462,27 @@
         "description": "Młody Anthony Bourdain podczas upalnego lata 1976 roku odkrywa swoją pasję, powołanie i to, kim tak naprawdę jest.",
         "shortDescription": "Młody Anthony Bourdain podczas upalnego lata 1976 roku odkrywa swoją pasję, powołanie i to, kim tak naprawdę jest.",
         "genres": [
-          "Komedia",
+          "Dramat",
           "Biograficzny",
-          "Dramat"
+          "Komedia"
         ],
         "external": {
           "imdb": {
             "id": "tt33095251",
             "url": "https://www.imdb.com/title/tt33095251/",
             "rating": 7.4,
-            "votes": 15196
+            "votes": 15360
           },
           "filmweb": {
             "id": "10079933",
             "url": "https://www.filmweb.pl/film/Tony-2026-10079933",
             "genres": [
-              "Komedia",
+              "Dramat",
               "Biograficzny",
-              "Dramat"
+              "Komedia"
             ],
             "rating": 7.1,
-            "votes": 7544
+            "votes": 7644
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/tony_2026",
@@ -494,7 +494,7 @@
             "criticsRating": 93,
             "criticsVotes": 235,
             "audienceRating": 93,
-            "audienceVotes": 972
+            "audienceVotes": 974
           }
         },
         "longDescription": "Anthony Bourdain – buntownik, outsider, głos pokolenia, jeden z najbardziej znanych szefów kuchni i jedna z największych, najbardziej charyzmatycznych osobowości telewizyjnych. Podróżnik, pisarz, odkrywca, którego miliony ludzi na całym świecie pokochały za bezkompromisowy styl, miłość do życia, szacunek do ludzi, odwagę, ciekawość świata i autentyczność. „Tony” to historia początków jego drogi – kim był, zanim stał się Anthonym Bourdainem.\n\nUpalne lato 1976 roku, Provincetown – miasto pulsujące wolnością, seksem i energią. Młody, marzący o karierze pisarza, Tony (Dominic Sessa), by podreperować budżet, trafia na zmywak do restauracji serwującej owoce morza, prowadzonej przez tajemniczego szefa kuchni (Antonio Banderas). W intensywnej, chaotycznej, a jednocześnie niezwykle kreatywnej atmosferze Tony odkrywa swoją pasję, powołanie i to, kim tak naprawdę jest.\n\nFilm dostępny z audiodeskrypcją lub lektorem. Skorzystaj bezpłatnie z aplikacji Kino Dostępne 2.0 w Twoim telefonie – http://kinodostepne.pl",
@@ -538,7 +538,7 @@
             "id": "tt37082105",
             "url": "https://www.imdb.com/title/tt37082105/",
             "rating": 7.8,
-            "votes": 320
+            "votes": 373
           },
           "filmweb": {
             "id": "10057628",
@@ -548,7 +548,7 @@
               "Dramat obyczajowy"
             ],
             "rating": 7.7,
-            "votes": 8987
+            "votes": 11457
           },
           "rottenTomatoes": null
         },
@@ -586,26 +586,26 @@
         "shortDescription": "Futurystyczny thriller science-fiction, którego akcja rozgrywa się w niedalekiej przyszłości, gdzie porządek społeczny wyznacza świadoma sztuczna inteligencja.",
         "genres": [
           "Kryminał",
-          "Thriller",
-          "Sci-Fi"
+          "Sci-Fi",
+          "Thriller"
         ],
         "external": {
           "imdb": {
             "id": "tt14119302",
             "url": "https://www.imdb.com/title/tt14119302/",
             "rating": 3.8,
-            "votes": 757
+            "votes": 767
           },
           "filmweb": {
             "id": "10069059",
             "url": "https://www.filmweb.pl/film/Hot+Spot-2026-10069059",
             "genres": [
               "Kryminał",
-              "Thriller",
-              "Sci-Fi"
+              "Sci-Fi",
+              "Thriller"
             ],
             "rating": 3.9,
-            "votes": 1647
+            "votes": 1680
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/hot_spot_2026",
@@ -660,7 +660,7 @@
             "id": "tt35298123",
             "url": "https://www.imdb.com/title/tt35298123/",
             "rating": 6.6,
-            "votes": 18000
+            "votes": 18360
           },
           "filmweb": {
             "id": "10114411",
@@ -669,7 +669,7 @@
               "Czarna komedia"
             ],
             "rating": 6.7,
-            "votes": 3211
+            "votes": 3258
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/teenage_sex_and_death_at_camp_miasma",
@@ -680,8 +680,8 @@
             ],
             "criticsRating": 93,
             "criticsVotes": 274,
-            "audienceRating": 79,
-            "audienceVotes": 552
+            "audienceRating": 78,
+            "audienceVotes": 553
           }
         },
         "longDescription": "Na dnie jeziora jest dziura. To z niej pochodzą filmy.\n\nMłoda, utalentowana reżyserka Kris (Hannah Einbinder) dostaje od studia filmowego szansę życia – ma nakręcić remake kultowej serii horrorów „Camp Miasma”, która cieszyła się ogromną popularnością w latach osiemdziesiątych i dziewięćdziesiątych. Aby znaleźć inspirację, udaje się na spotkanie z Billy (Gillian Anderson), która grała główną rolę w pierwowzorze projektu. Wizyta u ekscentrycznej aktorki szybko przeradza się w coś więcej niż zwykły wywiad.\n\n„Miłość, śmierć i dojrzewanie w Camp Miasma” zadebiutowała na festiwalu w Cannes, gdzie szturmem zdobyła serca krytyków i widzów – a także prestiżową nominację w sekcji Un Certain Regard. Najnowszy film Jane Shoenbrun (twórcy docenianego „W blasku ekranu”) ma obecnie 100% pozytywnych recenzji na Rotten Tomatoes, a widzowie wychodzą z seansów zachwyceni.\n\nChoć film Shoenbrun opowiada o powstawaniu fikcyjnej serii horrorów, sam w sobie horrorem nie jest, a zaledwie czerpie z jego estetyki. To przepiękna pod względem wizualnym kinofilska uczta opowiadająca przede wszystkim o bezgranicznej miłości do kina. I o tym, jak ta miłość zmienia nasze życie.\n\nW centrum tej opowieści stoją dwie aktorki reprezentujące dwa różne pokolenia. Legendarna Gillian Anderson wciela się w rolę ekscentrycznej diwy, a znana z serialu „Hacks” Hannah Einbinder w niepewną swojej pozycji, ale utalentowaną reżyserkę. Razem tworzą najbardziej elektryzujący ekranowy duet tego roku.",

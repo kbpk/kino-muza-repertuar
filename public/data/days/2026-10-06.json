@@ -1,12 +1,12 @@
 {
   "schemaVersion": 1,
   "date": "2026-10-06",
-  "updatedAt": "2026-10-05T19:17:20.235Z",
+  "updatedAt": "2026-10-06T18:53:57.874Z",
   "source": "https://www.kinomuza.pl/repertoire/day/",
   "day": {
-    "id": "01",
+    "id": "00",
     "date": "06.10",
-    "now": "2026-10-05 21:16:31",
+    "now": "2026-10-06 20:52:54",
     "info": [],
     "repertoire": [
       {
@@ -675,7 +675,7 @@
               "Dramat"
             ],
             "rating": 6.9,
-            "votes": 8068
+            "votes": 8082
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/fatherland_2026",
@@ -685,7 +685,7 @@
               "Paweł Pawlikowski"
             ],
             "criticsRating": 96,
-            "criticsVotes": 53,
+            "criticsVotes": 54,
             "audienceRating": null,
             "audienceVotes": null
           }

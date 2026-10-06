@@ -1,12 +1,12 @@
 {
   "schemaVersion": 1,
   "date": "2026-11-03",
-  "updatedAt": "2026-10-05T19:17:20.235Z",
+  "updatedAt": "2026-10-06T18:53:57.874Z",
   "source": "https://www.kinomuza.pl/repertoire/day/",
   "day": {
-    "id": "29",
+    "id": "28",
     "date": "03.11",
-    "now": "2026-10-05 21:16:58",
+    "now": "2026-10-06 20:53:23",
     "info": [],
     "repertoire": [
       {
@@ -55,7 +55,7 @@
               "Obyczajowy"
             ],
             "rating": 7.9,
-            "votes": 60619
+            "votes": 60625
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/ziemia_obiecana",

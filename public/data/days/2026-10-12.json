@@ -1,81 +1,147 @@
 {
   "schemaVersion": 1,
-  "date": "2026-10-14",
+  "date": "2026-10-12",
   "updatedAt": "2026-10-06T18:53:57.874Z",
   "source": "https://www.kinomuza.pl/repertoire/day/",
   "day": {
-    "id": "08",
-    "date": "14.10",
-    "now": "2026-10-06 20:52:58",
+    "id": "06",
+    "date": "12.10",
+    "now": "2026-10-06 20:52:57",
     "info": [],
     "repertoire": [
       {
-        "hour": "13:45",
-        "datetime": "2026-10-14 13:45:00",
-        "title": "Kura",
-        "originalTitle": "Hen",
-        "director": "György Pálfi",
-        "year": "2025",
-        "premiereDate": "2026-09-18",
-        "duration": "96",
-        "countries": "Niemcy, Grecja, Węgry",
-        "shortDesc": "<p>Pozornie bezbronne zwierzę ucieka z przemysłowej fermy drobiu w poszukiwaniu bezpiecznego miejsca, by wychować swoje pisklęta.</p>\n",
-        "lang": "",
+        "hour": "14:00",
+        "datetime": "2026-10-12 14:00:00",
+        "title": "Róża",
+        "originalTitle": "Rose",
+        "director": "Markus Schleinzer",
+        "year": "2026",
+        "premiereDate": "2026-10-09",
+        "duration": "93",
+        "countries": "Niemcy, Austria",
+        "shortDesc": "<p>Oto prawdziwa historia oszustki, która zwodziła władze i lud. Urodziła się kobietą, acz nosiła po męsku i pod fałszywym imieniem dopuściła wielu niecnych czynów.</p>\n",
+        "lang": "de",
         "subtitlesLang": "pl",
         "age": "16",
-        "credits": "reż. György Pálfi <br>Niemcy, Grecja, Węgry <br>2025,96’",
-        "desc": "<p>Pozornie bezbronne zwierzę ucieka z przemysłowej fermy drobiu w poszukiwaniu bezpiecznego miejsca, by wychować swoje pisklęta.</p>\n",
+        "credits": "reż. Markus Schleinzer <br>Niemcy, Austria <br>2026,93’",
+        "desc": "<p>Oto prawdziwa historia oszustki, która zwodziła władze i lud. Urodziła się kobietą, acz nosiła po męsku i pod fałszywym imieniem dopuściła wielu niecnych czynów.</p>\n",
         "hall": "2",
-        "movieLink": "https://www.kinomuza.pl/movie/kura/",
-        "ticketLink": "https://estradapoznan.bilety24.pl/kup-bilety/?id=1001443#total",
+        "movieLink": "https://www.kinomuza.pl/movie/roza/",
+        "ticketLink": "https://estradapoznan.bilety24.pl/kup-bilety/?id=1001435#total",
         "prePremier": false,
         "tape35mm": false,
         "ad": false,
         "deaf": false,
         "ticketPrice": "",
         "ticketHalfPrice": "",
-        "alt": "Kura",
-        "thumb": "https://www.kinomuza.pl/content/uploads/2026/08/kura-2-800x450.jpg",
-        "description": "Pozornie bezbronne zwierzę ucieka z przemysłowej fermy drobiu w poszukiwaniu bezpiecznego miejsca, by wychować swoje pisklęta.",
-        "shortDescription": "Pozornie bezbronne zwierzę ucieka z przemysłowej fermy drobiu w poszukiwaniu bezpiecznego miejsca, by wychować swoje pisklęta.",
+        "alt": "Róża",
+        "thumb": "https://www.kinomuza.pl/content/uploads/2026/08/róża-1-800x450.jpg",
+        "description": "Oto prawdziwa historia oszustki, która zwodziła władze i lud. Urodziła się kobietą, acz nosiła po męsku i pod fałszywym imieniem dopuściła wielu niecnych czynów.",
+        "shortDescription": "Oto prawdziwa historia oszustki, która zwodziła władze i lud. Urodziła się kobietą, acz nosiła po męsku i pod fałszywym imieniem dopuściła wielu niecnych czynów.",
         "genres": [
-          "Dramat"
+          "Dramat historyczny"
         ],
         "external": {
           "imdb": {
-            "id": "tt29283995",
-            "url": "https://www.imdb.com/title/tt29283995/",
-            "rating": 7,
-            "votes": 1777
+            "id": "tt25399154",
+            "url": "https://www.imdb.com/title/tt25399154/",
+            "rating": 7.5,
+            "votes": 2203
           },
           "filmweb": {
-            "id": "10093851",
-            "url": "https://www.filmweb.pl/film/Kura-2025-10093851",
+            "id": "10113205",
+            "url": "https://www.filmweb.pl/film/R%C3%B3%C5%BCa-2026-10113205",
             "genres": [
-              "Dramat"
+              "Dramat historyczny"
             ],
-            "rating": 6.8,
-            "votes": 988
+            "rating": 7.1,
+            "votes": 920
           },
           "rottenTomatoes": {
-            "url": "https://www.rottentomatoes.com/m/hen",
-            "title": "Hen",
-            "year": "",
+            "url": "https://www.rottentomatoes.com/m/rose_2026",
+            "title": "Rose (2026)",
+            "year": "2026",
             "directors": [
-              "Gyorgy Palfi"
+              "Markus Schleinzer"
             ],
-            "criticsRating": 100,
-            "criticsVotes": 13,
+            "criticsRating": 97,
+            "criticsVotes": 31,
             "audienceRating": null,
-            "audienceVotes": 16
+            "audienceVotes": null
           }
         },
-        "longDescription": "Główną bohaterką nowego filmu cenionego węgierskiego reżysera Györgya Pálfiego jest tytułowa kura. Pozornie bezbronne zwierzę ucieka z przemysłowej fermy drobiu w poszukiwaniu bezpiecznego miejsca, by wychować swoje pisklęta.\n\nTrafia do greckiej nadmorskiej wioski, gdzie schwytana zostaje przez właściciela podupadłej restauracji i siłą rzeczy „wchodzi” do ludzkiego świata. Jest uważną obserwatorką zupełnie obcej dla niej rzeczywistości. Staje się też niemym świadkiem ludzkich dramatów, związanych z kryzysem migracyjnym, rodzinnymi konfliktami czy chciwością. W rolę głównej bohaterki wcieliło się osiem prawdziwych węgierskich kur: Eszti, Szandi, Feri, Enci, Eti, Enikő, Nóra i Anett. \n\nPrzyjmując nieoczywistą perspektywę, Pálfi opowiada o uniwersalnych wartościach – wolności, bezpieczeństwie, macierzyństwie – jakich poszukują jak widać nie tylko ludzie. Węgierski reżyser odważnie łączy filmowe gatunki, tworząc historię, która z jednej strony może nas bawić, a z drugiej jest prawdziwie poruszająca.",
-        "poster": "media/posters/798db284e44940a8ad04.webp"
+        "longDescription": "Oto prawdziwa historia oszustki, która zwodziła władze i lud. Urodziła się kobietą, acz nosiła po męsku i pod fałszywym imieniem dopuściła wielu niecnych czynów.\n\n„Róża” to jeden z najgłośniejszych tytułów ostatniego Berlinale za sprawą brawurowej roli Sandry Hüller, nagrodzonej Srebrnym Niedźwiedziem za tytułową kreację. Aktorka znana z „Anatomii upadku”, „Projektu Hail Mary”, „Strefy interesów” i „Toniego Erdmanna” wciela się tym razem w tajemniczego żołnierza. Do tej roli przeszła nie tylko niezwykłą fizyczną metamorfozę, ukrywając kobiecość pod męskim strojem, ale też fenomenalnie połączyła szorstkość z łagodnością i humorem.\n\nDo położonej na uboczu wsi przybywa naznaczony wojną żołnierz, który podaje się za spadkobiercę porzuconego gospodarstwa. Obcy budzi początkowo nieufność, ale szybko przekonuje do siebie wieśniaków dzięki przywiezionym dokumentom, niepospolitej pracowitości i gotowości, by podporządkować się surowym regułom protestanckiej wspólnoty. W okrutnych realiach XVII-wiecznych Niemiec ktoś, kto nie ma żadnych praw, może być sobą wyłącznie w przebraniu – dlatego tytułowa postać musi skrzętnie ukrywać swoją prawdziwą naturę i tożsamość.\n\n„Róża” jest przewrotną opowieścią o cenie wolności i o odwadze życia na własnych zasadach. Kwestionujący patriarchalny przywilej i binarny podział płci, chłodno analizujący mechanizmy społeczne, film Markusa Schleinzera okazuje się zaskakująco współczesny. Choć minimalistyczny, to pieczołowicie odtwarza detale życia XVII-wiecznej niemieckiej wsi, a eleganckie, surowe zdjęcia budują gęstą atmosferę narastającego zagrożenia. Schleinzer, podobnie jak Robert Eggers, jest mistrzem stylizacji i niepokojącej aury. Dla obu historia bywa pretekstem do filmowej przypowieści o naszych czasach. „Róża” składa hołd tym, którzy przetarli nam ścieżki, ale też przypomina, że prawo do bycia sobą jest zdobyczą, o którą wciąż trzeba walczyć.\n\nFilm dostępny z audiodeskrypcją lub lektorem. Skorzystaj bezpłatnie z aplikacji Kino Dostępne 2.0 w Twoim telefonie – http://kinodostepne.pl",
+        "poster": "media/posters/f190e242c80162aa1316.webp"
       },
       {
-        "hour": "14:45",
-        "datetime": "2026-10-14 14:45:00",
+        "hour": "15:00",
+        "datetime": "2026-10-12 15:00:00",
+        "title": "Gorzkie święta",
+        "originalTitle": "Bitter Christmas",
+        "director": "Pedro Almodóvar",
+        "year": "2026",
+        "premiereDate": "2026-08-28",
+        "duration": "111",
+        "countries": "Hiszpania",
+        "shortDesc": "<p>Pedro Almodóvar powraca w szczytowej formie z jednym ze swoich najbardziej osobistych filmów. Almodóvar składa tu poruszające wyznanie wiary w siłę kina, pamięci i narracji.</p>\n",
+        "lang": "es",
+        "subtitlesLang": "pl",
+        "age": "16",
+        "credits": "reż. Pedro Almodóvar <br>Hiszpania <br>2026,111’",
+        "desc": "<p>Pedro Almodóvar powraca w szczytowej formie z jednym ze swoich najbardziej osobistych filmów. Almodóvar składa tu poruszające wyznanie wiary w siłę kina, pamięci i narracji.</p>\n",
+        "hall": "1",
+        "movieLink": "https://www.kinomuza.pl/movie/gorzkie-swieta/",
+        "ticketLink": "https://estradapoznan.bilety24.pl/kup-bilety/?id=1001411#total",
+        "prePremier": false,
+        "tape35mm": false,
+        "ad": false,
+        "deaf": false,
+        "ticketPrice": "",
+        "ticketHalfPrice": "",
+        "alt": "Gorzkie święta",
+        "thumb": "https://www.kinomuza.pl/content/uploads/2026/07/gorzkie-swieta-4-800x450.jpg",
+        "description": "Pedro Almodóvar powraca w szczytowej formie z jednym ze swoich najbardziej osobistych filmów. Almodóvar składa tu poruszające wyznanie wiary w siłę kina, pamięci i narracji.",
+        "shortDescription": "Pedro Almodóvar powraca w szczytowej formie z jednym ze swoich najbardziej osobistych filmów. Almodóvar składa tu poruszające wyznanie wiary w siłę kina, pamięci i narracji.",
+        "genres": [
+          "Dramat",
+          "Komedia"
+        ],
+        "external": {
+          "imdb": {
+            "id": "tt28088049",
+            "url": "https://www.imdb.com/title/tt28088049/",
+            "rating": 6.3,
+            "votes": 5222
+          },
+          "filmweb": {
+            "id": "10085499",
+            "url": "https://www.filmweb.pl/film/Gorzkie+%C5%9Bwi%C4%99ta-2026-10085499",
+            "genres": [
+              "Dramat",
+              "Komedia"
+            ],
+            "rating": 5.7,
+            "votes": 2368
+          },
+          "rottenTomatoes": {
+            "url": "https://www.rottentomatoes.com/m/bitter_christmas",
+            "title": "Bitter Christmas",
+            "year": "2026",
+            "directors": [
+              "Pedro Almodóvar"
+            ],
+            "criticsRating": 87,
+            "criticsVotes": 71,
+            "audienceRating": null,
+            "audienceVotes": null
+          }
+        },
+        "longDescription": "Pedro Almodóvar powraca w szczytowej formie z jednym ze swoich najbardziej osobistych filmów. W „Gorzkich świętach” – jego pierwszej od 5 lat hiszpańskojęzycznej produkcji – jest wszystko, za co widzowie kochają jego kino: namiętność, intensywne kolory, przewrotny humor i pełnokrwiste postaci, które wymykają się prostym schematom. Na ekranie pojawiają się aktorzy i aktorki znani z wcześniejszych filmów reżysera: Bárbara Lennie, Leonardo Sbaraglia, Victoria Luengo, Aitana Sánchez-Gijón, Milena Smit oraz jedna z najważniejszych muz Almodóvara – Rossy de Palma.\n\nBohaterką filmu jest czterdziestoletnia Elza (Bárbara Lennie), która po śmierci matki rzuca się w wir pracy, nie pozwalając sobie na żałobę. Dopiero atak paniki zmusza ją do zatrzymania się i wyruszenia w podróż, która stanie się konfrontacją z przeszłością, utraconymi relacjami i niespełnionymi pragnieniami. Z przypadkowych spotkań, emocjonalnych zwrotów i splatających się życiorysów Almodóvar tka opowieść o tym, jak pamięć, fikcja i pragnienie nieustannie przepisują nasze życie.\n\n„Gorzkie święta” to szczególny prezent dla tych, którzy dorastali z kinem hiszpańskiego mistrza – od „Kobiet na skraju załamania nerwowego”, przez „Wszystko o mojej matce” i „Porozmawiaj z nią”, po „Volver”, „Przerwane objęcia” i „Ból i blask”. To także film, który idzie o krok dalej: jeszcze mocniej pokazuje, że każdy z nas nie tylko przeżywa własną historię, ale też bez końca ją sobie opowiada. Almodóvar składa tu poruszające wyznanie wiary w siłę kina, pamięci i narracji.\n\nFilm dostępny z audiodeskrypcją lub lektorem. Skorzystaj bezpłatnie z aplikacji Kino Dostępne 2.0 w Twoim telefonie – http://kinodostepne.pl",
+        "poster": "media/posters/3ec6053fecffef465d0a.webp"
+      },
+      {
+        "hour": "15:15",
+        "datetime": "2026-10-12 15:15:00",
         "title": "Zapomniana wyspa",
         "originalTitle": "FORGOTTEN ISLAND",
         "director": "Joel Crawford, Januel Mercado",
@@ -91,7 +157,7 @@
         "desc": "<p>To komedia przygodowa, która przenosi bohaterów na dawno zapomnianą, magiczną wyspę. Warto walczyć o najlepszą przyjaźń.</p>\n",
         "hall": "3",
         "movieLink": "https://www.kinomuza.pl/movie/zapomniana-wyspa/",
-        "ticketLink": "https://estradapoznan.bilety24.pl/kup-bilety/?id=1001477#total",
+        "ticketLink": "https://estradapoznan.bilety24.pl/kup-bilety/?id=1001469#total",
         "prePremier": false,
         "tape35mm": false,
         "ad": false,
@@ -145,73 +211,8 @@
         "poster": "media/posters/336aa765d117893be391.webp"
       },
       {
-        "hour": "15:00",
-        "datetime": "2026-10-14 15:00:00",
-        "title": "Róża",
-        "originalTitle": "Rose",
-        "director": "Markus Schleinzer",
-        "year": "2026",
-        "premiereDate": "2026-10-09",
-        "duration": "93",
-        "countries": "Niemcy, Austria",
-        "shortDesc": "<p>Oto prawdziwa historia oszustki, która zwodziła władze i lud. Urodziła się kobietą, acz nosiła po męsku i pod fałszywym imieniem dopuściła wielu niecnych czynów.</p>\n",
-        "lang": "de",
-        "subtitlesLang": "pl",
-        "age": "16",
-        "credits": "reż. Markus Schleinzer <br>Niemcy, Austria <br>2026,93’",
-        "desc": "<p>Oto prawdziwa historia oszustki, która zwodziła władze i lud. Urodziła się kobietą, acz nosiła po męsku i pod fałszywym imieniem dopuściła wielu niecnych czynów.</p>\n",
-        "hall": "1",
-        "movieLink": "https://www.kinomuza.pl/movie/roza/",
-        "ticketLink": "https://estradapoznan.bilety24.pl/kup-bilety/?id=989125#total",
-        "prePremier": false,
-        "tape35mm": false,
-        "ad": false,
-        "deaf": false,
-        "ticketPrice": "",
-        "ticketHalfPrice": "",
-        "alt": "Róża",
-        "thumb": "https://www.kinomuza.pl/content/uploads/2026/08/róża-1-800x450.jpg",
-        "cycle": "senior w muzie",
-        "description": "Oto prawdziwa historia oszustki, która zwodziła władze i lud. Urodziła się kobietą, acz nosiła po męsku i pod fałszywym imieniem dopuściła wielu niecnych czynów.",
-        "shortDescription": "Oto prawdziwa historia oszustki, która zwodziła władze i lud. Urodziła się kobietą, acz nosiła po męsku i pod fałszywym imieniem dopuściła wielu niecnych czynów.",
-        "genres": [
-          "Dramat historyczny"
-        ],
-        "external": {
-          "imdb": {
-            "id": "tt25399154",
-            "url": "https://www.imdb.com/title/tt25399154/",
-            "rating": 7.5,
-            "votes": 2203
-          },
-          "filmweb": {
-            "id": "10113205",
-            "url": "https://www.filmweb.pl/film/R%C3%B3%C5%BCa-2026-10113205",
-            "genres": [
-              "Dramat historyczny"
-            ],
-            "rating": 7.1,
-            "votes": 920
-          },
-          "rottenTomatoes": {
-            "url": "https://www.rottentomatoes.com/m/rose_2026",
-            "title": "Rose (2026)",
-            "year": "2026",
-            "directors": [
-              "Markus Schleinzer"
-            ],
-            "criticsRating": 97,
-            "criticsVotes": 31,
-            "audienceRating": null,
-            "audienceVotes": null
-          }
-        },
-        "longDescription": "Oto prawdziwa historia oszustki, która zwodziła władze i lud. Urodziła się kobietą, acz nosiła po męsku i pod fałszywym imieniem dopuściła wielu niecnych czynów.\n\n„Róża” to jeden z najgłośniejszych tytułów ostatniego Berlinale za sprawą brawurowej roli Sandry Hüller, nagrodzonej Srebrnym Niedźwiedziem za tytułową kreację. Aktorka znana z „Anatomii upadku”, „Projektu Hail Mary”, „Strefy interesów” i „Toniego Erdmanna” wciela się tym razem w tajemniczego żołnierza. Do tej roli przeszła nie tylko niezwykłą fizyczną metamorfozę, ukrywając kobiecość pod męskim strojem, ale też fenomenalnie połączyła szorstkość z łagodnością i humorem.\n\nDo położonej na uboczu wsi przybywa naznaczony wojną żołnierz, który podaje się za spadkobiercę porzuconego gospodarstwa. Obcy budzi początkowo nieufność, ale szybko przekonuje do siebie wieśniaków dzięki przywiezionym dokumentom, niepospolitej pracowitości i gotowości, by podporządkować się surowym regułom protestanckiej wspólnoty. W okrutnych realiach XVII-wiecznych Niemiec ktoś, kto nie ma żadnych praw, może być sobą wyłącznie w przebraniu – dlatego tytułowa postać musi skrzętnie ukrywać swoją prawdziwą naturę i tożsamość.\n\n„Róża” jest przewrotną opowieścią o cenie wolności i o odwadze życia na własnych zasadach. Kwestionujący patriarchalny przywilej i binarny podział płci, chłodno analizujący mechanizmy społeczne, film Markusa Schleinzera okazuje się zaskakująco współczesny. Choć minimalistyczny, to pieczołowicie odtwarza detale życia XVII-wiecznej niemieckiej wsi, a eleganckie, surowe zdjęcia budują gęstą atmosferę narastającego zagrożenia. Schleinzer, podobnie jak Robert Eggers, jest mistrzem stylizacji i niepokojącej aury. Dla obu historia bywa pretekstem do filmowej przypowieści o naszych czasach. „Róża” składa hołd tym, którzy przetarli nam ścieżki, ale też przypomina, że prawo do bycia sobą jest zdobyczą, o którą wciąż trzeba walczyć.\n\nFilm dostępny z audiodeskrypcją lub lektorem. Skorzystaj bezpłatnie z aplikacji Kino Dostępne 2.0 w Twoim telefonie – http://kinodostepne.pl",
-        "poster": "media/posters/f190e242c80162aa1316.webp"
-      },
-      {
-        "hour": "15:30",
-        "datetime": "2026-10-14 15:30:00",
+        "hour": "16:45",
+        "datetime": "2026-10-12 16:45:00",
         "title": "Primetime",
         "originalTitle": "",
         "director": "Lance Oppenheim",
@@ -227,7 +228,7 @@
         "desc": "<p>Charyzmatyczny dziennikarz wkracza do podziemnego świata przestępczego i pragnie zmienić oblicze telewizji. Ulega własnej obsesji i w drodze na szczyt popularności zaczyna zatracać swój pierwotny cel.</p>\n",
         "hall": "2",
         "movieLink": "https://www.kinomuza.pl/movie/primetime/",
-        "ticketLink": "https://estradapoznan.bilety24.pl/kup-bilety/?id=1001444#total",
+        "ticketLink": "https://estradapoznan.bilety24.pl/kup-bilety/?id=1001436#total",
         "prePremier": false,
         "tape35mm": false,
         "ad": false,
@@ -276,72 +277,8 @@
         "poster": "media/posters/1daa26da6313e0bd16e7.webp"
       },
       {
-        "hour": "17:00",
-        "datetime": "2026-10-14 17:00:00",
-        "title": "Róża",
-        "originalTitle": "Rose",
-        "director": "Markus Schleinzer",
-        "year": "2026",
-        "premiereDate": "2026-10-09",
-        "duration": "93",
-        "countries": "Niemcy, Austria",
-        "shortDesc": "<p>Oto prawdziwa historia oszustki, która zwodziła władze i lud. Urodziła się kobietą, acz nosiła po męsku i pod fałszywym imieniem dopuściła wielu niecnych czynów.</p>\n",
-        "lang": "de",
-        "subtitlesLang": "pl",
-        "age": "16",
-        "credits": "reż. Markus Schleinzer <br>Niemcy, Austria <br>2026,93’",
-        "desc": "<p>Oto prawdziwa historia oszustki, która zwodziła władze i lud. Urodziła się kobietą, acz nosiła po męsku i pod fałszywym imieniem dopuściła wielu niecnych czynów.</p>\n",
-        "hall": "3",
-        "movieLink": "https://www.kinomuza.pl/movie/roza/",
-        "ticketLink": "https://estradapoznan.bilety24.pl/kup-bilety/?id=1001478#total",
-        "prePremier": false,
-        "tape35mm": false,
-        "ad": false,
-        "deaf": false,
-        "ticketPrice": "",
-        "ticketHalfPrice": "",
-        "alt": "Róża",
-        "thumb": "https://www.kinomuza.pl/content/uploads/2026/08/róża-1-800x450.jpg",
-        "description": "Oto prawdziwa historia oszustki, która zwodziła władze i lud. Urodziła się kobietą, acz nosiła po męsku i pod fałszywym imieniem dopuściła wielu niecnych czynów.",
-        "shortDescription": "Oto prawdziwa historia oszustki, która zwodziła władze i lud. Urodziła się kobietą, acz nosiła po męsku i pod fałszywym imieniem dopuściła wielu niecnych czynów.",
-        "genres": [
-          "Dramat historyczny"
-        ],
-        "external": {
-          "imdb": {
-            "id": "tt25399154",
-            "url": "https://www.imdb.com/title/tt25399154/",
-            "rating": 7.5,
-            "votes": 2203
-          },
-          "filmweb": {
-            "id": "10113205",
-            "url": "https://www.filmweb.pl/film/R%C3%B3%C5%BCa-2026-10113205",
-            "genres": [
-              "Dramat historyczny"
-            ],
-            "rating": 7.1,
-            "votes": 920
-          },
-          "rottenTomatoes": {
-            "url": "https://www.rottentomatoes.com/m/rose_2026",
-            "title": "Rose (2026)",
-            "year": "2026",
-            "directors": [
-              "Markus Schleinzer"
-            ],
-            "criticsRating": 97,
-            "criticsVotes": 31,
-            "audienceRating": null,
-            "audienceVotes": null
-          }
-        },
-        "longDescription": "Oto prawdziwa historia oszustki, która zwodziła władze i lud. Urodziła się kobietą, acz nosiła po męsku i pod fałszywym imieniem dopuściła wielu niecnych czynów.\n\n„Róża” to jeden z najgłośniejszych tytułów ostatniego Berlinale za sprawą brawurowej roli Sandry Hüller, nagrodzonej Srebrnym Niedźwiedziem za tytułową kreację. Aktorka znana z „Anatomii upadku”, „Projektu Hail Mary”, „Strefy interesów” i „Toniego Erdmanna” wciela się tym razem w tajemniczego żołnierza. Do tej roli przeszła nie tylko niezwykłą fizyczną metamorfozę, ukrywając kobiecość pod męskim strojem, ale też fenomenalnie połączyła szorstkość z łagodnością i humorem.\n\nDo położonej na uboczu wsi przybywa naznaczony wojną żołnierz, który podaje się za spadkobiercę porzuconego gospodarstwa. Obcy budzi początkowo nieufność, ale szybko przekonuje do siebie wieśniaków dzięki przywiezionym dokumentom, niepospolitej pracowitości i gotowości, by podporządkować się surowym regułom protestanckiej wspólnoty. W okrutnych realiach XVII-wiecznych Niemiec ktoś, kto nie ma żadnych praw, może być sobą wyłącznie w przebraniu – dlatego tytułowa postać musi skrzętnie ukrywać swoją prawdziwą naturę i tożsamość.\n\n„Róża” jest przewrotną opowieścią o cenie wolności i o odwadze życia na własnych zasadach. Kwestionujący patriarchalny przywilej i binarny podział płci, chłodno analizujący mechanizmy społeczne, film Markusa Schleinzera okazuje się zaskakująco współczesny. Choć minimalistyczny, to pieczołowicie odtwarza detale życia XVII-wiecznej niemieckiej wsi, a eleganckie, surowe zdjęcia budują gęstą atmosferę narastającego zagrożenia. Schleinzer, podobnie jak Robert Eggers, jest mistrzem stylizacji i niepokojącej aury. Dla obu historia bywa pretekstem do filmowej przypowieści o naszych czasach. „Róża” składa hołd tym, którzy przetarli nam ścieżki, ale też przypomina, że prawo do bycia sobą jest zdobyczą, o którą wciąż trzeba walczyć.\n\nFilm dostępny z audiodeskrypcją lub lektorem. Skorzystaj bezpłatnie z aplikacji Kino Dostępne 2.0 w Twoim telefonie – http://kinodostepne.pl",
-        "poster": "media/posters/f190e242c80162aa1316.webp"
-      },
-      {
-        "hour": "17:30",
-        "datetime": "2026-10-14 17:30:00",
+        "hour": "17:15",
+        "datetime": "2026-10-12 17:15:00",
         "title": "Lalka",
         "originalTitle": "",
         "director": "Maciej Kawalski",
@@ -355,9 +292,9 @@
         "age": "16",
         "credits": "reż. Maciej Kawalski <br>Polska <br>2026,162’",
         "desc": "<p>Dzieło Prusa od blisko 140 lat rozpala emocje i wyobraźnię kolejnych pokoleń. Teraz ta ponadczasowa historia trafia na wielki ekran w nowej, spektakularnej, filmowej odsłonie.</p>\n",
-        "hall": "2",
+        "hall": "1",
         "movieLink": "https://www.kinomuza.pl/movie/lalka/",
-        "ticketLink": "https://estradapoznan.bilety24.pl/kup-bilety/?id=1001445#total",
+        "ticketLink": "https://estradapoznan.bilety24.pl/kup-bilety/?id=1001412#total",
         "prePremier": false,
         "tape35mm": false,
         "ad": false,
@@ -395,8 +332,72 @@
         "poster": "media/posters/2f797fdbd82b582ae91e.webp"
       },
       {
-        "hour": "18:00",
-        "datetime": "2026-10-14 18:00:00",
+        "hour": "17:15",
+        "datetime": "2026-10-12 17:15:00",
+        "title": "Miłość, śmierć i dojrzewanie w camp Miasma",
+        "originalTitle": "Teenage Sex and Death at Camp Miasma",
+        "director": "Jane Schoenbrun",
+        "year": "2026",
+        "premiereDate": "2026-09-04",
+        "duration": "106",
+        "countries": "USA",
+        "shortDesc": "<p>Na dnie jeziora jest dziura. To z niej pochodzą filmy. Przygotujcie się na Małą Śmierć.</p>\n",
+        "lang": "en",
+        "subtitlesLang": "pl",
+        "age": "16",
+        "credits": "reż.  Jane Schoenbrun <br>USA <br>2026,106’",
+        "desc": "<p>Na dnie jeziora jest dziura. To z niej pochodzą filmy. Przygotujcie się na Małą Śmierć.</p>\n",
+        "hall": "3",
+        "movieLink": "https://www.kinomuza.pl/movie/milosc-smierc-i-dojrzewanie-na-camp-miasma/",
+        "ticketLink": "https://estradapoznan.bilety24.pl/kup-bilety/?id=1001470#total",
+        "prePremier": false,
+        "tape35mm": false,
+        "ad": false,
+        "deaf": false,
+        "ticketPrice": "",
+        "ticketHalfPrice": "",
+        "alt": "Miłość, śmierć i dojrzewanie w camp Miasma",
+        "thumb": "https://www.kinomuza.pl/content/uploads/2026/08/camp-1-800x450.jpg",
+        "description": "Na dnie jeziora jest dziura. To z niej pochodzą filmy. Przygotujcie się na Małą Śmierć.",
+        "shortDescription": "Na dnie jeziora jest dziura. To z niej pochodzą filmy. Przygotujcie się na Małą Śmierć.",
+        "genres": [
+          "Czarna komedia"
+        ],
+        "external": {
+          "imdb": {
+            "id": "tt35298123",
+            "url": "https://www.imdb.com/title/tt35298123/",
+            "rating": 6.6,
+            "votes": 18360
+          },
+          "filmweb": {
+            "id": "10114411",
+            "url": "https://www.filmweb.pl/film/Mi%C5%82o%C5%9B%C4%87%2C+%C5%9Bmier%C4%87+i+dojrzewanie+w+Camp+Miasma-2026-10114411",
+            "genres": [
+              "Czarna komedia"
+            ],
+            "rating": 6.7,
+            "votes": 3290
+          },
+          "rottenTomatoes": {
+            "url": "https://www.rottentomatoes.com/m/teenage_sex_and_death_at_camp_miasma",
+            "title": "Teenage Sex and Death at Camp Miasma",
+            "year": "2026",
+            "directors": [
+              "Jane Schoenbrun"
+            ],
+            "criticsRating": 93,
+            "criticsVotes": 275,
+            "audienceRating": 79,
+            "audienceVotes": 554
+          }
+        },
+        "longDescription": "Na dnie jeziora jest dziura. To z niej pochodzą filmy.\n\nMłoda, utalentowana reżyserka Kris (Hannah Einbinder) dostaje od studia filmowego szansę życia – ma nakręcić remake kultowej serii horrorów „Camp Miasma”, która cieszyła się ogromną popularnością w latach osiemdziesiątych i dziewięćdziesiątych. Aby znaleźć inspirację, udaje się na spotkanie z Billy (Gillian Anderson), która grała główną rolę w pierwowzorze projektu. Wizyta u ekscentrycznej aktorki szybko przeradza się w coś więcej niż zwykły wywiad.\n\n„Miłość, śmierć i dojrzewanie w Camp Miasma” zadebiutowała na festiwalu w Cannes, gdzie szturmem zdobyła serca krytyków i widzów – a także prestiżową nominację w sekcji Un Certain Regard. Najnowszy film Jane Shoenbrun (twórcy docenianego „W blasku ekranu”) ma obecnie 100% pozytywnych recenzji na Rotten Tomatoes, a widzowie wychodzą z seansów zachwyceni.\n\nChoć film Shoenbrun opowiada o powstawaniu fikcyjnej serii horrorów, sam w sobie horrorem nie jest, a zaledwie czerpie z jego estetyki. To przepiękna pod względem wizualnym kinofilska uczta opowiadająca przede wszystkim o bezgranicznej miłości do kina. I o tym, jak ta miłość zmienia nasze życie.\n\nW centrum tej opowieści stoją dwie aktorki reprezentujące dwa różne pokolenia. Legendarna Gillian Anderson wciela się w rolę ekscentrycznej diwy, a znana z serialu „Hacks” Hannah Einbinder w niepewną swojej pozycji, ale utalentowaną reżyserkę. Razem tworzą najbardziej elektryzujący ekranowy duet tego roku.",
+        "poster": "media/posters/1294a835ebec7b71a0d9.webp"
+      },
+      {
+        "hour": "18:45",
+        "datetime": "2026-10-12 18:45:00",
         "title": "The Social Reckoning: W sieci konsekwencji",
         "originalTitle": "The Social Reckoning",
         "director": "Aaron Sorkin",
@@ -410,9 +411,9 @@
         "age": "16",
         "credits": "reż. Aaron Sorkin <br>USA <br>2026,112’",
         "desc": "<p>Opowieść o losach młodej inżynierki Facebooka, która we współpracy z reportem z &#8222;Wall Street Journal&#8221; &#8211; stara się ujawnić skryte tajemnice portalu społecznościowego.</p>\n",
-        "hall": "1",
+        "hall": "2",
         "movieLink": "https://www.kinomuza.pl/movie/the-social-reckoning-w-sieci-konsekwencji/",
-        "ticketLink": "https://estradapoznan.bilety24.pl/kup-bilety/?id=1001416#total",
+        "ticketLink": "https://estradapoznan.bilety24.pl/kup-bilety/?id=1001438#total",
         "prePremier": false,
         "tape35mm": false,
         "ad": false,
@@ -461,74 +462,8 @@
         "poster": "media/posters/ceb2ce2d483fb58b1a97.webp"
       },
       {
-        "hour": "18:45",
-        "datetime": "2026-10-14 18:45:00",
-        "title": "Primetime",
-        "originalTitle": "",
-        "director": "Lance Oppenheim",
-        "year": "2026",
-        "premiereDate": "2026-10-09",
-        "duration": "107",
-        "countries": "USA",
-        "shortDesc": "<p>Charyzmatyczny dziennikarz wkracza do podziemnego świata przestępczego i pragnie zmienić oblicze telewizji. Ulega własnej obsesji i w drodze na szczyt popularności zaczyna zatracać swój pierwotny cel.</p>\n",
-        "lang": "en",
-        "subtitlesLang": "pl",
-        "age": "16",
-        "credits": "reż.  Lance Oppenheim <br>USA <br>2026,107’",
-        "desc": "<p>Charyzmatyczny dziennikarz wkracza do podziemnego świata przestępczego i pragnie zmienić oblicze telewizji. Ulega własnej obsesji i w drodze na szczyt popularności zaczyna zatracać swój pierwotny cel.</p>\n",
-        "hall": "3",
-        "movieLink": "https://www.kinomuza.pl/movie/primetime/",
-        "ticketLink": "https://estradapoznan.bilety24.pl/kup-bilety/?id=1001479#total",
-        "prePremier": false,
-        "tape35mm": false,
-        "ad": false,
-        "deaf": false,
-        "ticketPrice": "",
-        "ticketHalfPrice": "",
-        "alt": "Primetime",
-        "thumb": "https://www.kinomuza.pl/content/uploads/2026/08/primetime-3-800x450.jpg",
-        "description": "Charyzmatyczny dziennikarz wkracza do podziemnego świata przestępczego i pragnie zmienić oblicze telewizji. Ulega własnej obsesji i w drodze na szczyt popularności zaczyna zatracać swój pierwotny cel.",
-        "shortDescription": "Charyzmatyczny dziennikarz wkracza do podziemnego świata przestępczego i pragnie zmienić oblicze telewizji. Ulega własnej obsesji i w drodze na szczyt popularności zaczyna zatracać swój pierwotny cel.",
-        "genres": [
-          "Dramat",
-          "Kryminał"
-        ],
-        "external": {
-          "imdb": {
-            "id": "tt34206385",
-            "url": "https://www.imdb.com/title/tt34206385/",
-            "rating": 7.2,
-            "votes": 12548
-          },
-          "filmweb": {
-            "id": "10115409",
-            "url": "https://www.filmweb.pl/film/Primetime-2026-10115409",
-            "genres": [
-              "Dramat",
-              "Kryminał"
-            ],
-            "rating": 6.5,
-            "votes": 126
-          },
-          "rottenTomatoes": {
-            "url": "https://www.rottentomatoes.com/m/primetime",
-            "title": "Primetime",
-            "year": "2026",
-            "directors": [
-              "Lance Oppenheim"
-            ],
-            "criticsRating": 86,
-            "criticsVotes": 231,
-            "audienceRating": 78,
-            "audienceVotes": 2002
-          }
-        },
-        "longDescription": "ROBERT PATTINSON w thrillerze psychologicznym PRIMETIME wciela się w Chrisa Hansena, charyzmatycznego dziennikarza, który wkracza do podziemnego świata przestępczego i pragnie zmienić oblicze telewizji. Z czasem jednak ulega własnej obsesji i w drodze na szczyt popularności zaczyna zatracać swój pierwotny cel.",
-        "poster": "media/posters/1daa26da6313e0bd16e7.webp"
-      },
-      {
-        "hour": "20:00",
-        "datetime": "2026-10-14 20:00:00",
+        "hour": "19:15",
+        "datetime": "2026-10-12 19:15:00",
         "title": "Róża",
         "originalTitle": "Rose",
         "director": "Markus Schleinzer",
@@ -542,9 +477,9 @@
         "age": "16",
         "credits": "reż. Markus Schleinzer <br>Niemcy, Austria <br>2026,93’",
         "desc": "<p>Oto prawdziwa historia oszustki, która zwodziła władze i lud. Urodziła się kobietą, acz nosiła po męsku i pod fałszywym imieniem dopuściła wielu niecnych czynów.</p>\n",
-        "hall": "1",
+        "hall": "3",
         "movieLink": "https://www.kinomuza.pl/movie/roza/",
-        "ticketLink": "https://estradapoznan.bilety24.pl/kup-bilety/?id=992416#total",
+        "ticketLink": "https://estradapoznan.bilety24.pl/kup-bilety/?id=1001472#total",
         "prePremier": false,
         "tape35mm": false,
         "ad": false,
@@ -553,7 +488,6 @@
         "ticketHalfPrice": "",
         "alt": "Róża",
         "thumb": "https://www.kinomuza.pl/content/uploads/2026/08/róża-1-800x450.jpg",
-        "cycle": "filozoficzne środy z Gutek Film",
         "description": "Oto prawdziwa historia oszustki, która zwodziła władze i lud. Urodziła się kobietą, acz nosiła po męsku i pod fałszywym imieniem dopuściła wielu niecnych czynów.",
         "shortDescription": "Oto prawdziwa historia oszustki, która zwodziła władze i lud. Urodziła się kobietą, acz nosiła po męsku i pod fałszywym imieniem dopuściła wielu niecnych czynów.",
         "genres": [
@@ -592,8 +526,8 @@
         "poster": "media/posters/f190e242c80162aa1316.webp"
       },
       {
-        "hour": "20:30",
-        "datetime": "2026-10-14 20:30:00",
+        "hour": "20:15",
+        "datetime": "2026-10-12 20:15:00",
         "title": "Lalka",
         "originalTitle": "",
         "director": "Maciej Kawalski",
@@ -607,9 +541,9 @@
         "age": "16",
         "credits": "reż. Maciej Kawalski <br>Polska <br>2026,162’",
         "desc": "<p>Dzieło Prusa od blisko 140 lat rozpala emocje i wyobraźnię kolejnych pokoleń. Teraz ta ponadczasowa historia trafia na wielki ekran w nowej, spektakularnej, filmowej odsłonie.</p>\n",
-        "hall": "2",
+        "hall": "1",
         "movieLink": "https://www.kinomuza.pl/movie/lalka/",
-        "ticketLink": "https://estradapoznan.bilety24.pl/kup-bilety/?id=1001446#total",
+        "ticketLink": "https://estradapoznan.bilety24.pl/kup-bilety/?id=1001413#total",
         "prePremier": false,
         "tape35mm": false,
         "ad": false,
@@ -648,7 +582,7 @@
       },
       {
         "hour": "20:45",
-        "datetime": "2026-10-14 20:45:00",
+        "datetime": "2026-10-12 20:45:00",
         "title": "Digger",
         "originalTitle": "",
         "director": "Alejandro González Iñárritu",
@@ -662,9 +596,9 @@
         "age": "16",
         "credits": "reż. Alejandro González Iñárritu <br>USA <br>2026,128’",
         "desc": "<p>Najpotężniejszy człowiek świata wyrusza w szaloną misję, chcąc udowodnić, że jest zbawcą ludzkości, zanim katastrofa, którą spowodował, tę ludzkość zniszczy.</p>\n",
-        "hall": "3",
+        "hall": "2",
         "movieLink": "https://www.kinomuza.pl/movie/digger/",
-        "ticketLink": "https://estradapoznan.bilety24.pl/kup-bilety/?id=1001480#total",
+        "ticketLink": "https://estradapoznan.bilety24.pl/kup-bilety/?id=1001437#total",
         "prePremier": false,
         "tape35mm": false,
         "ad": false,
@@ -711,6 +645,73 @@
         },
         "longDescription": "Najpotężniejszy człowiek świata wyrusza w szaloną misję, chcąc udowodnić, że jest zbawcą ludzkości, zanim katastrofa, którą spowodował, tę ludzkość zniszczy.\n\nCruise występuje w roli tytułowej, a towarzyszą mu laureat Oscara Riz Ahmed, John Goodman, nominowana do Oscara Sandra Hüller, Michael Stuhlbarg oraz nominowany do Oscara Jesse Plemons. W pozostałych rolach występują Robert John Burke, Emma D’Arcy, Burn Gorman i Sophie Wilde.\n\nIñárritu reżyseruje na podstawie scenariusza autorstwa swojego oraz nagrodzonych Oscarem Alexandra Dinelarisa i Nicolása Giacobone’a, jak również Sabiny Berman. Autorami pomysłu są Iñárritu i Berman. Producentami filmu są Iñárritu, nominowana do Oscara Mary Parent, Cruise i Michael Sharp. Funkcję producentów wykonawczych pełnią Joshua Grode, Berman, Dinelaris, Giacobone, Jez Butterworth i Emmanuel Lubezki.\n\nDo Iñárritu po drugiej stronie kamery dołączyli jego dawni współpracownicy, tacy jak nagrodzony Oscarem operator Emmanuel Lubezki, montażyści Conor O’Neill i nagrodzony Oscarem Stephen Mirrione, nominowana do Oscara projektantka kostiumów Jacqueline West, nagrodzony Oscarem charakteryzator Alessandro Bertolazzi oraz nominowana do Oscara reżyserka castingu Francine Maisler. Oprócz nich w ekipie znaleźli się nagrodzony Oscarem scenograf Dennis Gassner i drugi scenograf Richard Johnson, jak również nagrodzony Oscarem twórca protez charakteryzatorskich Kazu Hiro i kompozytor Cosmo Sheldrake.\n\nDigger Alejandra G. Iñárritu został nakręcony w całości w formacie VistaVision. Do kin i kin IMAX® Ameryki Północnej trafi 2 października 2026 roku, a seanse na całym świecie rozpoczną się 30 września 2026 roku. Dystrybutorem filmu jest Warner Bros. Pictures.",
         "poster": "media/posters/dac32b97bc90196a3553.webp"
+      },
+      {
+        "hour": "21:00",
+        "datetime": "2026-10-12 21:00:00",
+        "title": "The Social Reckoning: W sieci konsekwencji",
+        "originalTitle": "The Social Reckoning",
+        "director": "Aaron Sorkin",
+        "year": "2026",
+        "premiereDate": "2026-10-09",
+        "duration": "112",
+        "countries": "USA",
+        "shortDesc": "<p>Opowieść o losach młodej inżynierki Facebooka, która we współpracy z reportem z &#8222;Wall Street Journal&#8221; &#8211; stara się ujawnić skryte tajemnice portalu społecznościowego.</p>\n",
+        "lang": "en",
+        "subtitlesLang": "pl",
+        "age": "16",
+        "credits": "reż. Aaron Sorkin <br>USA <br>2026,112’",
+        "desc": "<p>Opowieść o losach młodej inżynierki Facebooka, która we współpracy z reportem z &#8222;Wall Street Journal&#8221; &#8211; stara się ujawnić skryte tajemnice portalu społecznościowego.</p>\n",
+        "hall": "3",
+        "movieLink": "https://www.kinomuza.pl/movie/the-social-reckoning-w-sieci-konsekwencji/",
+        "ticketLink": "https://estradapoznan.bilety24.pl/kup-bilety/?id=1001471#total",
+        "prePremier": false,
+        "tape35mm": false,
+        "ad": false,
+        "deaf": false,
+        "ticketPrice": "",
+        "ticketHalfPrice": "",
+        "alt": "The Social Reckoning: W sieci konsekwencji",
+        "thumb": "https://www.kinomuza.pl/content/uploads/2026/09/socialnetwork-1-800x450.jpg",
+        "cycle": "pieskie popołudnie",
+        "description": "Opowieść o losach młodej inżynierki Facebooka, która we współpracy z reportem z &#8222;Wall Street Journal&#8221; &#8211; stara się ujawnić skryte tajemnice portalu społecznościowego.",
+        "shortDescription": "Opowieść o losach młodej inżynierki Facebooka, która we współpracy z reportem z &#8222;Wall Street Journal&#8221; &#8211; stara się ujawnić skryte tajemnice portalu społecznościowego.",
+        "genres": [
+          "Dramat",
+          "Biograficzny"
+        ],
+        "external": {
+          "imdb": {
+            "id": "tt37510326",
+            "url": "https://www.imdb.com/title/tt37510326/",
+            "rating": null,
+            "votes": null
+          },
+          "filmweb": {
+            "id": "10095188",
+            "url": "https://www.filmweb.pl/film/The+Social+Reckoning%3A+W+sieci+konsekwencji-2026-10095188",
+            "genres": [
+              "Dramat",
+              "Biograficzny"
+            ],
+            "rating": 0,
+            "votes": 0
+          },
+          "rottenTomatoes": {
+            "url": "https://www.rottentomatoes.com/m/the_social_reckoning",
+            "title": "The Social Reckoning",
+            "year": "2026",
+            "directors": [
+              "Aaron Sorkin"
+            ],
+            "criticsRating": null,
+            "criticsVotes": null,
+            "audienceRating": null,
+            "audienceVotes": null
+          }
+        },
+        "longDescription": "Zobaczymy kontynuację filmu Aarona Sorkina „The Social Network” pod tytułem „The Social Reckoning: W sieci konsekwencji ”.\n\nOpowieść o losach Frances Haugen, młodej inżynierki Facebooka, która we współpracy z Jeffem Horwitzem – reportem z „Wall Street Journal” – stara się ujawnić najbardziej skryte tajemnice tego potężnego portalu społecznościowego.\n\nAaron Sorkin otrzymał Oscara za scenariusz adaptowany do filmu „The Social Network” .\n\nW nowym filmie filmie zobaczymy nominowanego do Oscara Jeremy’ego Stronga, który wcieli się w rolę Marka Zuckerberga; lauretkę Oscara, Mikey Madison, która wcieli się w rolę Frances Haugen; oraz laureata Złotego Globu i Emmy Jeremy’ego Allena White’a, który zagra reportera Wall Street Journal Jeffa Horowitza, autora serii artykułów znanych jako „The Facebook Files”. Te opublikowane w październiku 2021 r. reportaże ujawniły wewnętrzne funkcjonowanie Facebooka i wiele szkód spowodowanych przez tę platformę.",
+        "poster": "media/posters/ceb2ce2d483fb58b1a97.webp"
       }
     ]
   }

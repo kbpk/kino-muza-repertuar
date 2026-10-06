@@ -1,81 +1,84 @@
 {
   "schemaVersion": 1,
-  "date": "2026-10-14",
+  "date": "2026-10-15",
   "updatedAt": "2026-10-06T18:53:57.874Z",
   "source": "https://www.kinomuza.pl/repertoire/day/",
   "day": {
-    "id": "08",
-    "date": "14.10",
+    "id": "09",
+    "date": "15.10",
     "now": "2026-10-06 20:52:58",
     "info": [],
     "repertoire": [
       {
-        "hour": "13:45",
-        "datetime": "2026-10-14 13:45:00",
-        "title": "Kura",
-        "originalTitle": "Hen",
-        "director": "György Pálfi",
-        "year": "2025",
-        "premiereDate": "2026-09-18",
-        "duration": "96",
-        "countries": "Niemcy, Grecja, Węgry",
-        "shortDesc": "<p>Pozornie bezbronne zwierzę ucieka z przemysłowej fermy drobiu w poszukiwaniu bezpiecznego miejsca, by wychować swoje pisklęta.</p>\n",
-        "lang": "",
+        "hour": "14:00",
+        "datetime": "2026-10-15 14:00:00",
+        "title": "The Social Reckoning: W sieci konsekwencji",
+        "originalTitle": "The Social Reckoning",
+        "director": "Aaron Sorkin",
+        "year": "2026",
+        "premiereDate": "2026-10-09",
+        "duration": "112",
+        "countries": "USA",
+        "shortDesc": "<p>Opowieść o losach młodej inżynierki Facebooka, która we współpracy z reportem z &#8222;Wall Street Journal&#8221; &#8211; stara się ujawnić skryte tajemnice portalu społecznościowego.</p>\n",
+        "lang": "en",
         "subtitlesLang": "pl",
         "age": "16",
-        "credits": "reż. György Pálfi <br>Niemcy, Grecja, Węgry <br>2025,96’",
-        "desc": "<p>Pozornie bezbronne zwierzę ucieka z przemysłowej fermy drobiu w poszukiwaniu bezpiecznego miejsca, by wychować swoje pisklęta.</p>\n",
+        "credits": "reż. Aaron Sorkin <br>USA <br>2026,112’",
+        "desc": "<p>Opowieść o losach młodej inżynierki Facebooka, która we współpracy z reportem z &#8222;Wall Street Journal&#8221; &#8211; stara się ujawnić skryte tajemnice portalu społecznościowego.</p>\n",
         "hall": "2",
-        "movieLink": "https://www.kinomuza.pl/movie/kura/",
-        "ticketLink": "https://estradapoznan.bilety24.pl/kup-bilety/?id=1001443#total",
+        "movieLink": "https://www.kinomuza.pl/movie/the-social-reckoning-w-sieci-konsekwencji/",
+        "ticketLink": "https://estradapoznan.bilety24.pl/kup-bilety/?id=1001447#total",
         "prePremier": false,
         "tape35mm": false,
         "ad": false,
         "deaf": false,
         "ticketPrice": "",
         "ticketHalfPrice": "",
-        "alt": "Kura",
-        "thumb": "https://www.kinomuza.pl/content/uploads/2026/08/kura-2-800x450.jpg",
-        "description": "Pozornie bezbronne zwierzę ucieka z przemysłowej fermy drobiu w poszukiwaniu bezpiecznego miejsca, by wychować swoje pisklęta.",
-        "shortDescription": "Pozornie bezbronne zwierzę ucieka z przemysłowej fermy drobiu w poszukiwaniu bezpiecznego miejsca, by wychować swoje pisklęta.",
+        "alt": "The Social Reckoning: W sieci konsekwencji",
+        "thumb": "https://www.kinomuza.pl/content/uploads/2026/09/socialnetwork-1-800x450.jpg",
+        "cycle": "przyzwoicie tanie czwartki",
+        "description": "Opowieść o losach młodej inżynierki Facebooka, która we współpracy z reportem z &#8222;Wall Street Journal&#8221; &#8211; stara się ujawnić skryte tajemnice portalu społecznościowego.",
+        "shortDescription": "Opowieść o losach młodej inżynierki Facebooka, która we współpracy z reportem z &#8222;Wall Street Journal&#8221; &#8211; stara się ujawnić skryte tajemnice portalu społecznościowego.",
         "genres": [
-          "Dramat"
+          "Dramat",
+          "Biograficzny"
         ],
         "external": {
           "imdb": {
-            "id": "tt29283995",
-            "url": "https://www.imdb.com/title/tt29283995/",
-            "rating": 7,
-            "votes": 1777
+            "id": "tt37510326",
+            "url": "https://www.imdb.com/title/tt37510326/",
+            "rating": null,
+            "votes": null
           },
           "filmweb": {
-            "id": "10093851",
-            "url": "https://www.filmweb.pl/film/Kura-2025-10093851",
+            "id": "10095188",
+            "url": "https://www.filmweb.pl/film/The+Social+Reckoning%3A+W+sieci+konsekwencji-2026-10095188",
             "genres": [
-              "Dramat"
+              "Dramat",
+              "Biograficzny"
             ],
-            "rating": 6.8,
-            "votes": 988
+            "rating": 0,
+            "votes": 0
           },
           "rottenTomatoes": {
-            "url": "https://www.rottentomatoes.com/m/hen",
-            "title": "Hen",
-            "year": "",
+            "url": "https://www.rottentomatoes.com/m/the_social_reckoning",
+            "title": "The Social Reckoning",
+            "year": "2026",
             "directors": [
-              "Gyorgy Palfi"
+              "Aaron Sorkin"
             ],
-            "criticsRating": 100,
-            "criticsVotes": 13,
+            "criticsRating": null,
+            "criticsVotes": null,
             "audienceRating": null,
-            "audienceVotes": 16
+            "audienceVotes": null
           }
         },
-        "longDescription": "Główną bohaterką nowego filmu cenionego węgierskiego reżysera Györgya Pálfiego jest tytułowa kura. Pozornie bezbronne zwierzę ucieka z przemysłowej fermy drobiu w poszukiwaniu bezpiecznego miejsca, by wychować swoje pisklęta.\n\nTrafia do greckiej nadmorskiej wioski, gdzie schwytana zostaje przez właściciela podupadłej restauracji i siłą rzeczy „wchodzi” do ludzkiego świata. Jest uważną obserwatorką zupełnie obcej dla niej rzeczywistości. Staje się też niemym świadkiem ludzkich dramatów, związanych z kryzysem migracyjnym, rodzinnymi konfliktami czy chciwością. W rolę głównej bohaterki wcieliło się osiem prawdziwych węgierskich kur: Eszti, Szandi, Feri, Enci, Eti, Enikő, Nóra i Anett. \n\nPrzyjmując nieoczywistą perspektywę, Pálfi opowiada o uniwersalnych wartościach – wolności, bezpieczeństwie, macierzyństwie – jakich poszukują jak widać nie tylko ludzie. Węgierski reżyser odważnie łączy filmowe gatunki, tworząc historię, która z jednej strony może nas bawić, a z drugiej jest prawdziwie poruszająca.",
-        "poster": "media/posters/798db284e44940a8ad04.webp"
+        "longDescription": "Zobaczymy kontynuację filmu Aarona Sorkina „The Social Network” pod tytułem „The Social Reckoning: W sieci konsekwencji ”.\n\nOpowieść o losach Frances Haugen, młodej inżynierki Facebooka, która we współpracy z Jeffem Horwitzem – reportem z „Wall Street Journal” – stara się ujawnić najbardziej skryte tajemnice tego potężnego portalu społecznościowego.\n\nAaron Sorkin otrzymał Oscara za scenariusz adaptowany do filmu „The Social Network” .\n\nW nowym filmie filmie zobaczymy nominowanego do Oscara Jeremy’ego Stronga, który wcieli się w rolę Marka Zuckerberga; lauretkę Oscara, Mikey Madison, która wcieli się w rolę Frances Haugen; oraz laureata Złotego Globu i Emmy Jeremy’ego Allena White’a, który zagra reportera Wall Street Journal Jeffa Horowitza, autora serii artykułów znanych jako „The Facebook Files”. Te opublikowane w październiku 2021 r. reportaże ujawniły wewnętrzne funkcjonowanie Facebooka i wiele szkód spowodowanych przez tę platformę.",
+        "poster": "media/posters/ceb2ce2d483fb58b1a97.webp"
       },
       {
         "hour": "14:45",
-        "datetime": "2026-10-14 14:45:00",
+        "datetime": "2026-10-15 14:45:00",
         "title": "Zapomniana wyspa",
         "originalTitle": "FORGOTTEN ISLAND",
         "director": "Joel Crawford, Januel Mercado",
@@ -91,7 +94,7 @@
         "desc": "<p>To komedia przygodowa, która przenosi bohaterów na dawno zapomnianą, magiczną wyspę. Warto walczyć o najlepszą przyjaźń.</p>\n",
         "hall": "3",
         "movieLink": "https://www.kinomuza.pl/movie/zapomniana-wyspa/",
-        "ticketLink": "https://estradapoznan.bilety24.pl/kup-bilety/?id=1001477#total",
+        "ticketLink": "https://estradapoznan.bilety24.pl/kup-bilety/?id=1001481#total",
         "prePremier": false,
         "tape35mm": false,
         "ad": false,
@@ -146,72 +149,7 @@
       },
       {
         "hour": "15:00",
-        "datetime": "2026-10-14 15:00:00",
-        "title": "Róża",
-        "originalTitle": "Rose",
-        "director": "Markus Schleinzer",
-        "year": "2026",
-        "premiereDate": "2026-10-09",
-        "duration": "93",
-        "countries": "Niemcy, Austria",
-        "shortDesc": "<p>Oto prawdziwa historia oszustki, która zwodziła władze i lud. Urodziła się kobietą, acz nosiła po męsku i pod fałszywym imieniem dopuściła wielu niecnych czynów.</p>\n",
-        "lang": "de",
-        "subtitlesLang": "pl",
-        "age": "16",
-        "credits": "reż. Markus Schleinzer <br>Niemcy, Austria <br>2026,93’",
-        "desc": "<p>Oto prawdziwa historia oszustki, która zwodziła władze i lud. Urodziła się kobietą, acz nosiła po męsku i pod fałszywym imieniem dopuściła wielu niecnych czynów.</p>\n",
-        "hall": "1",
-        "movieLink": "https://www.kinomuza.pl/movie/roza/",
-        "ticketLink": "https://estradapoznan.bilety24.pl/kup-bilety/?id=989125#total",
-        "prePremier": false,
-        "tape35mm": false,
-        "ad": false,
-        "deaf": false,
-        "ticketPrice": "",
-        "ticketHalfPrice": "",
-        "alt": "Róża",
-        "thumb": "https://www.kinomuza.pl/content/uploads/2026/08/róża-1-800x450.jpg",
-        "cycle": "senior w muzie",
-        "description": "Oto prawdziwa historia oszustki, która zwodziła władze i lud. Urodziła się kobietą, acz nosiła po męsku i pod fałszywym imieniem dopuściła wielu niecnych czynów.",
-        "shortDescription": "Oto prawdziwa historia oszustki, która zwodziła władze i lud. Urodziła się kobietą, acz nosiła po męsku i pod fałszywym imieniem dopuściła wielu niecnych czynów.",
-        "genres": [
-          "Dramat historyczny"
-        ],
-        "external": {
-          "imdb": {
-            "id": "tt25399154",
-            "url": "https://www.imdb.com/title/tt25399154/",
-            "rating": 7.5,
-            "votes": 2203
-          },
-          "filmweb": {
-            "id": "10113205",
-            "url": "https://www.filmweb.pl/film/R%C3%B3%C5%BCa-2026-10113205",
-            "genres": [
-              "Dramat historyczny"
-            ],
-            "rating": 7.1,
-            "votes": 920
-          },
-          "rottenTomatoes": {
-            "url": "https://www.rottentomatoes.com/m/rose_2026",
-            "title": "Rose (2026)",
-            "year": "2026",
-            "directors": [
-              "Markus Schleinzer"
-            ],
-            "criticsRating": 97,
-            "criticsVotes": 31,
-            "audienceRating": null,
-            "audienceVotes": null
-          }
-        },
-        "longDescription": "Oto prawdziwa historia oszustki, która zwodziła władze i lud. Urodziła się kobietą, acz nosiła po męsku i pod fałszywym imieniem dopuściła wielu niecnych czynów.\n\n„Róża” to jeden z najgłośniejszych tytułów ostatniego Berlinale za sprawą brawurowej roli Sandry Hüller, nagrodzonej Srebrnym Niedźwiedziem za tytułową kreację. Aktorka znana z „Anatomii upadku”, „Projektu Hail Mary”, „Strefy interesów” i „Toniego Erdmanna” wciela się tym razem w tajemniczego żołnierza. Do tej roli przeszła nie tylko niezwykłą fizyczną metamorfozę, ukrywając kobiecość pod męskim strojem, ale też fenomenalnie połączyła szorstkość z łagodnością i humorem.\n\nDo położonej na uboczu wsi przybywa naznaczony wojną żołnierz, który podaje się za spadkobiercę porzuconego gospodarstwa. Obcy budzi początkowo nieufność, ale szybko przekonuje do siebie wieśniaków dzięki przywiezionym dokumentom, niepospolitej pracowitości i gotowości, by podporządkować się surowym regułom protestanckiej wspólnoty. W okrutnych realiach XVII-wiecznych Niemiec ktoś, kto nie ma żadnych praw, może być sobą wyłącznie w przebraniu – dlatego tytułowa postać musi skrzętnie ukrywać swoją prawdziwą naturę i tożsamość.\n\n„Róża” jest przewrotną opowieścią o cenie wolności i o odwadze życia na własnych zasadach. Kwestionujący patriarchalny przywilej i binarny podział płci, chłodno analizujący mechanizmy społeczne, film Markusa Schleinzera okazuje się zaskakująco współczesny. Choć minimalistyczny, to pieczołowicie odtwarza detale życia XVII-wiecznej niemieckiej wsi, a eleganckie, surowe zdjęcia budują gęstą atmosferę narastającego zagrożenia. Schleinzer, podobnie jak Robert Eggers, jest mistrzem stylizacji i niepokojącej aury. Dla obu historia bywa pretekstem do filmowej przypowieści o naszych czasach. „Róża” składa hołd tym, którzy przetarli nam ścieżki, ale też przypomina, że prawo do bycia sobą jest zdobyczą, o którą wciąż trzeba walczyć.\n\nFilm dostępny z audiodeskrypcją lub lektorem. Skorzystaj bezpłatnie z aplikacji Kino Dostępne 2.0 w Twoim telefonie – http://kinodostepne.pl",
-        "poster": "media/posters/f190e242c80162aa1316.webp"
-      },
-      {
-        "hour": "15:30",
-        "datetime": "2026-10-14 15:30:00",
+        "datetime": "2026-10-15 15:00:00",
         "title": "Primetime",
         "originalTitle": "",
         "director": "Lance Oppenheim",
@@ -225,9 +163,9 @@
         "age": "16",
         "credits": "reż.  Lance Oppenheim <br>USA <br>2026,107’",
         "desc": "<p>Charyzmatyczny dziennikarz wkracza do podziemnego świata przestępczego i pragnie zmienić oblicze telewizji. Ulega własnej obsesji i w drodze na szczyt popularności zaczyna zatracać swój pierwotny cel.</p>\n",
-        "hall": "2",
+        "hall": "1",
         "movieLink": "https://www.kinomuza.pl/movie/primetime/",
-        "ticketLink": "https://estradapoznan.bilety24.pl/kup-bilety/?id=1001444#total",
+        "ticketLink": "https://estradapoznan.bilety24.pl/kup-bilety/?id=1001417#total",
         "prePremier": false,
         "tape35mm": false,
         "ad": false,
@@ -236,6 +174,7 @@
         "ticketHalfPrice": "",
         "alt": "Primetime",
         "thumb": "https://www.kinomuza.pl/content/uploads/2026/08/primetime-3-800x450.jpg",
+        "cycle": "przyzwoicie tanie czwartki",
         "description": "Charyzmatyczny dziennikarz wkracza do podziemnego świata przestępczego i pragnie zmienić oblicze telewizji. Ulega własnej obsesji i w drodze na szczyt popularności zaczyna zatracać swój pierwotny cel.",
         "shortDescription": "Charyzmatyczny dziennikarz wkracza do podziemnego świata przestępczego i pragnie zmienić oblicze telewizji. Ulega własnej obsesji i w drodze na szczyt popularności zaczyna zatracać swój pierwotny cel.",
         "genres": [
@@ -276,8 +215,75 @@
         "poster": "media/posters/1daa26da6313e0bd16e7.webp"
       },
       {
-        "hour": "17:00",
-        "datetime": "2026-10-14 17:00:00",
+        "hour": "16:00",
+        "datetime": "2026-10-15 16:00:00",
+        "title": "Digger",
+        "originalTitle": "",
+        "director": "Alejandro González Iñárritu",
+        "year": "2026",
+        "premiereDate": "2026-10-09",
+        "duration": "128",
+        "countries": "USA",
+        "shortDesc": "<p>Najpotężniejszy człowiek świata wyrusza w szaloną misję, chcąc udowodnić, że jest zbawcą ludzkości, zanim katastrofa, którą spowodował, tę ludzkość zniszczy.</p>\n",
+        "lang": "en",
+        "subtitlesLang": "pl",
+        "age": "16",
+        "credits": "reż. Alejandro González Iñárritu <br>USA <br>2026,128’",
+        "desc": "<p>Najpotężniejszy człowiek świata wyrusza w szaloną misję, chcąc udowodnić, że jest zbawcą ludzkości, zanim katastrofa, którą spowodował, tę ludzkość zniszczy.</p>\n",
+        "hall": "2",
+        "movieLink": "https://www.kinomuza.pl/movie/digger/",
+        "ticketLink": "https://estradapoznan.bilety24.pl/kup-bilety/?id=1001448#total",
+        "prePremier": false,
+        "tape35mm": false,
+        "ad": false,
+        "deaf": false,
+        "ticketPrice": "",
+        "ticketHalfPrice": "",
+        "alt": "Digger",
+        "thumb": "https://www.kinomuza.pl/content/uploads/2026/09/kadry-1-800x450.jpg",
+        "cycle": "przyzwoicie tanie czwartki",
+        "description": "Najpotężniejszy człowiek świata wyrusza w szaloną misję, chcąc udowodnić, że jest zbawcą ludzkości, zanim katastrofa, którą spowodował, tę ludzkość zniszczy.",
+        "shortDescription": "Najpotężniejszy człowiek świata wyrusza w szaloną misję, chcąc udowodnić, że jest zbawcą ludzkości, zanim katastrofa, którą spowodował, tę ludzkość zniszczy.",
+        "genres": [
+          "Dramat",
+          "Komedia"
+        ],
+        "external": {
+          "imdb": {
+            "id": "tt31450459",
+            "url": "https://www.imdb.com/title/tt31450459/",
+            "rating": 7.3,
+            "votes": 10515
+          },
+          "filmweb": {
+            "id": "10104607",
+            "url": "https://www.filmweb.pl/film/Digger-2026-10104607",
+            "genres": [
+              "Dramat",
+              "Komedia"
+            ],
+            "rating": 7.2,
+            "votes": 759
+          },
+          "rottenTomatoes": {
+            "url": "https://www.rottentomatoes.com/m/digger_2026",
+            "title": "Digger (2026)",
+            "year": "2026",
+            "directors": [
+              "Alejandro González Iñárritu"
+            ],
+            "criticsRating": 51,
+            "criticsVotes": 282,
+            "audienceRating": 72,
+            "audienceVotes": 1004
+          }
+        },
+        "longDescription": "Najpotężniejszy człowiek świata wyrusza w szaloną misję, chcąc udowodnić, że jest zbawcą ludzkości, zanim katastrofa, którą spowodował, tę ludzkość zniszczy.\n\nCruise występuje w roli tytułowej, a towarzyszą mu laureat Oscara Riz Ahmed, John Goodman, nominowana do Oscara Sandra Hüller, Michael Stuhlbarg oraz nominowany do Oscara Jesse Plemons. W pozostałych rolach występują Robert John Burke, Emma D’Arcy, Burn Gorman i Sophie Wilde.\n\nIñárritu reżyseruje na podstawie scenariusza autorstwa swojego oraz nagrodzonych Oscarem Alexandra Dinelarisa i Nicolása Giacobone’a, jak również Sabiny Berman. Autorami pomysłu są Iñárritu i Berman. Producentami filmu są Iñárritu, nominowana do Oscara Mary Parent, Cruise i Michael Sharp. Funkcję producentów wykonawczych pełnią Joshua Grode, Berman, Dinelaris, Giacobone, Jez Butterworth i Emmanuel Lubezki.\n\nDo Iñárritu po drugiej stronie kamery dołączyli jego dawni współpracownicy, tacy jak nagrodzony Oscarem operator Emmanuel Lubezki, montażyści Conor O’Neill i nagrodzony Oscarem Stephen Mirrione, nominowana do Oscara projektantka kostiumów Jacqueline West, nagrodzony Oscarem charakteryzator Alessandro Bertolazzi oraz nominowana do Oscara reżyserka castingu Francine Maisler. Oprócz nich w ekipie znaleźli się nagrodzony Oscarem scenograf Dennis Gassner i drugi scenograf Richard Johnson, jak również nagrodzony Oscarem twórca protez charakteryzatorskich Kazu Hiro i kompozytor Cosmo Sheldrake.\n\nDigger Alejandra G. Iñárritu został nakręcony w całości w formacie VistaVision. Do kin i kin IMAX® Ameryki Północnej trafi 2 października 2026 roku, a seanse na całym świecie rozpoczną się 30 września 2026 roku. Dystrybutorem filmu jest Warner Bros. Pictures.",
+        "poster": "media/posters/dac32b97bc90196a3553.webp"
+      },
+      {
+        "hour": "16:45",
+        "datetime": "2026-10-15 16:45:00",
         "title": "Róża",
         "originalTitle": "Rose",
         "director": "Markus Schleinzer",
@@ -293,7 +299,7 @@
         "desc": "<p>Oto prawdziwa historia oszustki, która zwodziła władze i lud. Urodziła się kobietą, acz nosiła po męsku i pod fałszywym imieniem dopuściła wielu niecnych czynów.</p>\n",
         "hall": "3",
         "movieLink": "https://www.kinomuza.pl/movie/roza/",
-        "ticketLink": "https://estradapoznan.bilety24.pl/kup-bilety/?id=1001478#total",
+        "ticketLink": "https://estradapoznan.bilety24.pl/kup-bilety/?id=1001482#total",
         "prePremier": false,
         "tape35mm": false,
         "ad": false,
@@ -302,6 +308,7 @@
         "ticketHalfPrice": "",
         "alt": "Róża",
         "thumb": "https://www.kinomuza.pl/content/uploads/2026/08/róża-1-800x450.jpg",
+        "cycle": "przyzwoicie tanie czwartki",
         "description": "Oto prawdziwa historia oszustki, która zwodziła władze i lud. Urodziła się kobietą, acz nosiła po męsku i pod fałszywym imieniem dopuściła wielu niecnych czynów.",
         "shortDescription": "Oto prawdziwa historia oszustki, która zwodziła władze i lud. Urodziła się kobietą, acz nosiła po męsku i pod fałszywym imieniem dopuściła wielu niecnych czynów.",
         "genres": [
@@ -340,8 +347,73 @@
         "poster": "media/posters/f190e242c80162aa1316.webp"
       },
       {
-        "hour": "17:30",
-        "datetime": "2026-10-14 17:30:00",
+        "hour": "17:00",
+        "datetime": "2026-10-15 17:00:00",
+        "title": "Cicha dziewczyna",
+        "originalTitle": "The Quiet Girl",
+        "director": "Colm Bairéad",
+        "year": "2022",
+        "premiereDate": "2023-09-01",
+        "duration": "95",
+        "countries": "Irlandia",
+        "shortDesc": "<p>Młoda, zamknięta w sobie Cáit wprowadza się do swoich krewnych na wsi, gdzie po raz pierwszy doświadcza bliskości, która zmienia jej spojrzenie na świat.</p>\n",
+        "lang": "",
+        "subtitlesLang": "pl",
+        "age": "16",
+        "credits": "reż. Colm Bairéad <br>Irlandia <br>2022,95’",
+        "desc": "<p>Młoda, zamknięta w sobie Cáit wprowadza się do swoich krewnych na wsi, gdzie po raz pierwszy doświadcza bliskości, która zmienia jej spojrzenie na świat.</p>\n",
+        "hall": "1",
+        "movieLink": "https://www.kinomuza.pl/movie/cicha-dziewczyna/",
+        "ticketLink": "https://estradapoznan.bilety24.pl/kup-bilety/?id=1001397#total",
+        "prePremier": false,
+        "tape35mm": false,
+        "ad": false,
+        "deaf": false,
+        "ticketPrice": "",
+        "ticketHalfPrice": "",
+        "alt": "Cicha dziewczyna",
+        "thumb": "https://www.kinomuza.pl/content/uploads/2023/08/Cicha-dziewczyna-2-800x450.png",
+        "cycle": "przyzwoicie tanie czwartki",
+        "description": "Młoda, zamknięta w sobie Cáit wprowadza się do swoich krewnych na wsi, gdzie po raz pierwszy doświadcza bliskości, która zmienia jej spojrzenie na świat.",
+        "shortDescription": "Młoda, zamknięta w sobie Cáit wprowadza się do swoich krewnych na wsi, gdzie po raz pierwszy doświadcza bliskości, która zmienia jej spojrzenie na świat.",
+        "genres": [
+          "Dramat"
+        ],
+        "external": {
+          "imdb": {
+            "id": "tt15109082",
+            "url": "https://www.imdb.com/title/tt15109082/",
+            "rating": 7.7,
+            "votes": 30026
+          },
+          "filmweb": {
+            "id": "10008865",
+            "url": "https://www.filmweb.pl/film/Cicha+dziewczyna-2022-10008865",
+            "genres": [
+              "Dramat"
+            ],
+            "rating": 7.3,
+            "votes": 9577
+          },
+          "rottenTomatoes": {
+            "url": "https://www.rottentomatoes.com/m/the_quiet_girl",
+            "title": "The Quiet Girl",
+            "year": "2022",
+            "directors": [
+              "Colm Bairéad"
+            ],
+            "criticsRating": 97,
+            "criticsVotes": 148,
+            "audienceRating": 94,
+            "audienceVotes": 93
+          }
+        },
+        "longDescription": "Młoda, zamknięta w sobie Cáit wprowadza się do swoich krewnych na wsi, gdzie po raz pierwszy doświadcza bliskości, która zmienia jej spojrzenie na świat.\n\nCicha dziewczyna to opowieść o 9-letniej Cáit, która mieszka w wielodzietnej, ubogiej rodzinie. Po tym jak jej matka kolejny raz zachodzi w ciążę, dziewczynka trafia do swoich krewnych na wsi. Dotąd zamknięta, nieco przygaszona Cáit zaczyna otwierać się na świat i zgłębiać tajemnice nowego domu. Nagrodzony na Berlinale film w niezwykły sposób kreuje atmosferę, znakomicie operuje niedopowiedzeniem i hipnotyzuje pracą kamery. Jest to ciepła, przejmująca opowieść o nieoczywistych, budujących się więzach między dzieckiem i dorosłymi, a także o niewinności dzieciństwa.\n\nNominowana do Oscara Cicha dziewczyna  to przepiękny, nastrojowy, zrealizowany w zjawiskowych irlandzkich plenerach debiut Colma Bairéada, który pokazuje, że czasami najmniejsze historie poruszają najbardziej.",
+        "poster": "media/posters/09170426c1c96573ff27.webp"
+      },
+      {
+        "hour": "18:15",
+        "datetime": "2026-10-15 18:15:00",
         "title": "Lalka",
         "originalTitle": "",
         "director": "Maciej Kawalski",
@@ -357,7 +429,7 @@
         "desc": "<p>Dzieło Prusa od blisko 140 lat rozpala emocje i wyobraźnię kolejnych pokoleń. Teraz ta ponadczasowa historia trafia na wielki ekran w nowej, spektakularnej, filmowej odsłonie.</p>\n",
         "hall": "2",
         "movieLink": "https://www.kinomuza.pl/movie/lalka/",
-        "ticketLink": "https://estradapoznan.bilety24.pl/kup-bilety/?id=1001445#total",
+        "ticketLink": "https://estradapoznan.bilety24.pl/kup-bilety/?id=1001449#total",
         "prePremier": false,
         "tape35mm": false,
         "ad": false,
@@ -366,6 +438,7 @@
         "ticketHalfPrice": "",
         "alt": "Lalka",
         "thumb": "https://www.kinomuza.pl/content/uploads/2026/09/lalka-2-800x450.jpg",
+        "cycle": "przyzwoicie tanie czwartki",
         "description": "Dzieło Prusa od blisko 140 lat rozpala emocje i wyobraźnię kolejnych pokoleń. Teraz ta ponadczasowa historia trafia na wielki ekran w nowej, spektakularnej, filmowej odsłonie.",
         "shortDescription": "Dzieło Prusa od blisko 140 lat rozpala emocje i wyobraźnię kolejnych pokoleń. Teraz ta ponadczasowa historia trafia na wielki ekran w nowej, spektakularnej, filmowej odsłonie.",
         "genres": [
@@ -395,8 +468,77 @@
         "poster": "media/posters/2f797fdbd82b582ae91e.webp"
       },
       {
-        "hour": "18:00",
-        "datetime": "2026-10-14 18:00:00",
+        "hour": "18:30",
+        "datetime": "2026-10-15 18:30:00",
+        "title": "Hamnet",
+        "originalTitle": "",
+        "director": "Chloé Zhao",
+        "year": "2025",
+        "premiereDate": "2026-01-23",
+        "duration": "125",
+        "countries": "Wielka Brytania",
+        "shortDesc": "<p>Poruszająca historia miłości Williama, ambitnego dramaturga i jego żony Agnes. Ich idylliczne życie zostaje zburzone, gdy wybucha epidemia dżumy, która dotyka ich dzieci.</p>\n",
+        "lang": "en",
+        "subtitlesLang": "pl",
+        "age": "16",
+        "credits": "reż. Chloé Zhao <br>Wielka Brytania <br>2025,125’",
+        "desc": "<p>Poruszająca historia miłości Williama, ambitnego dramaturga i jego żony Agnes. Ich idylliczne życie zostaje zburzone, gdy wybucha epidemia dżumy, która dotyka ich dzieci.</p>\n",
+        "hall": "3",
+        "movieLink": "https://www.kinomuza.pl/movie/hamnet/",
+        "ticketLink": "https://estradapoznan.bilety24.pl/kup-bilety/?id=1001483#total",
+        "prePremier": false,
+        "tape35mm": false,
+        "ad": false,
+        "deaf": false,
+        "ticketPrice": "",
+        "ticketHalfPrice": "",
+        "alt": "Hamnet",
+        "thumb": "https://www.kinomuza.pl/content/uploads/2025/10/kadry-1-1-800x450.jpg",
+        "cycle": "przyzwoicie tanie czwartki",
+        "description": "Poruszająca historia miłości Williama, ambitnego dramaturga i jego żony Agnes. Ich idylliczne życie zostaje zburzone, gdy wybucha epidemia dżumy, która dotyka ich dzieci.",
+        "shortDescription": "Poruszająca historia miłości Williama, ambitnego dramaturga i jego żony Agnes. Ich idylliczne życie zostaje zburzone, gdy wybucha epidemia dżumy, która dotyka ich dzieci.",
+        "genres": [
+          "Biograficzny",
+          "Dramat",
+          "Kostiumowy"
+        ],
+        "external": {
+          "imdb": {
+            "id": "tt14905854",
+            "url": "https://www.imdb.com/title/tt14905854/",
+            "rating": 7.8,
+            "votes": 137580
+          },
+          "filmweb": {
+            "id": "10035555",
+            "url": "https://www.filmweb.pl/film/Hamnet-2025-10035555",
+            "genres": [
+              "Biograficzny",
+              "Dramat",
+              "Kostiumowy"
+            ],
+            "rating": 7.6,
+            "votes": 29678
+          },
+          "rottenTomatoes": {
+            "url": "https://www.rottentomatoes.com/m/hamnet",
+            "title": "Hamnet",
+            "year": "2025",
+            "directors": [
+              "Chloé Zhao"
+            ],
+            "criticsRating": 86,
+            "criticsVotes": 353,
+            "audienceRating": 93,
+            "audienceVotes": 2679
+          }
+        },
+        "longDescription": "Film Hamnet, autorstwa nagrodzonej Oscarem® scenarzystki i reżyserki Chloé Zhao (Nomadland)., opowiada poruszającą historię miłosną, która zainspirowała Szekspira do stworzenia ponadczasowego arcydzieła Hamlet.\n\nTo poruszająca historię miłości Williama, ambitnego dramaturga i jego żony Agnes. Ich idylliczne życie zostaje zburzone, gdy wybucha epidemia dżumy, która dotyka ich dzieci, Hamneta i Judith. Po latach William pisze nową sztukę zatytułowaną Hamlet, aby poradzić sobie z żałobą.\n\nFilm powstał na podstawie bestsellerowej powieści Maggie O’Farrell z 2020 roku, która sprzedała się w 2 milionach egzemplarzy w Wielkiej Brytanii i USA oraz została przetłumaczona na 40 języków.\n\nW głównych rolach występują: Jessie Buckley, Paul Mescal, Emily Watson i Joe Alwyn.",
+        "poster": "media/posters/d468745e383f9771eca2.webp"
+      },
+      {
+        "hour": "19:00",
+        "datetime": "2026-10-15 19:00:00",
         "title": "The Social Reckoning: W sieci konsekwencji",
         "originalTitle": "The Social Reckoning",
         "director": "Aaron Sorkin",
@@ -412,7 +554,7 @@
         "desc": "<p>Opowieść o losach młodej inżynierki Facebooka, która we współpracy z reportem z &#8222;Wall Street Journal&#8221; &#8211; stara się ujawnić skryte tajemnice portalu społecznościowego.</p>\n",
         "hall": "1",
         "movieLink": "https://www.kinomuza.pl/movie/the-social-reckoning-w-sieci-konsekwencji/",
-        "ticketLink": "https://estradapoznan.bilety24.pl/kup-bilety/?id=1001416#total",
+        "ticketLink": "https://estradapoznan.bilety24.pl/kup-bilety/?id=1001418#total",
         "prePremier": false,
         "tape35mm": false,
         "ad": false,
@@ -421,6 +563,7 @@
         "ticketHalfPrice": "",
         "alt": "The Social Reckoning: W sieci konsekwencji",
         "thumb": "https://www.kinomuza.pl/content/uploads/2026/09/socialnetwork-1-800x450.jpg",
+        "cycle": "przyzwoicie tanie czwartki",
         "description": "Opowieść o losach młodej inżynierki Facebooka, która we współpracy z reportem z &#8222;Wall Street Journal&#8221; &#8211; stara się ujawnić skryte tajemnice portalu społecznościowego.",
         "shortDescription": "Opowieść o losach młodej inżynierki Facebooka, która we współpracy z reportem z &#8222;Wall Street Journal&#8221; &#8211; stara się ujawnić skryte tajemnice portalu społecznościowego.",
         "genres": [
@@ -461,74 +604,8 @@
         "poster": "media/posters/ceb2ce2d483fb58b1a97.webp"
       },
       {
-        "hour": "18:45",
-        "datetime": "2026-10-14 18:45:00",
-        "title": "Primetime",
-        "originalTitle": "",
-        "director": "Lance Oppenheim",
-        "year": "2026",
-        "premiereDate": "2026-10-09",
-        "duration": "107",
-        "countries": "USA",
-        "shortDesc": "<p>Charyzmatyczny dziennikarz wkracza do podziemnego świata przestępczego i pragnie zmienić oblicze telewizji. Ulega własnej obsesji i w drodze na szczyt popularności zaczyna zatracać swój pierwotny cel.</p>\n",
-        "lang": "en",
-        "subtitlesLang": "pl",
-        "age": "16",
-        "credits": "reż.  Lance Oppenheim <br>USA <br>2026,107’",
-        "desc": "<p>Charyzmatyczny dziennikarz wkracza do podziemnego świata przestępczego i pragnie zmienić oblicze telewizji. Ulega własnej obsesji i w drodze na szczyt popularności zaczyna zatracać swój pierwotny cel.</p>\n",
-        "hall": "3",
-        "movieLink": "https://www.kinomuza.pl/movie/primetime/",
-        "ticketLink": "https://estradapoznan.bilety24.pl/kup-bilety/?id=1001479#total",
-        "prePremier": false,
-        "tape35mm": false,
-        "ad": false,
-        "deaf": false,
-        "ticketPrice": "",
-        "ticketHalfPrice": "",
-        "alt": "Primetime",
-        "thumb": "https://www.kinomuza.pl/content/uploads/2026/08/primetime-3-800x450.jpg",
-        "description": "Charyzmatyczny dziennikarz wkracza do podziemnego świata przestępczego i pragnie zmienić oblicze telewizji. Ulega własnej obsesji i w drodze na szczyt popularności zaczyna zatracać swój pierwotny cel.",
-        "shortDescription": "Charyzmatyczny dziennikarz wkracza do podziemnego świata przestępczego i pragnie zmienić oblicze telewizji. Ulega własnej obsesji i w drodze na szczyt popularności zaczyna zatracać swój pierwotny cel.",
-        "genres": [
-          "Dramat",
-          "Kryminał"
-        ],
-        "external": {
-          "imdb": {
-            "id": "tt34206385",
-            "url": "https://www.imdb.com/title/tt34206385/",
-            "rating": 7.2,
-            "votes": 12548
-          },
-          "filmweb": {
-            "id": "10115409",
-            "url": "https://www.filmweb.pl/film/Primetime-2026-10115409",
-            "genres": [
-              "Dramat",
-              "Kryminał"
-            ],
-            "rating": 6.5,
-            "votes": 126
-          },
-          "rottenTomatoes": {
-            "url": "https://www.rottentomatoes.com/m/primetime",
-            "title": "Primetime",
-            "year": "2026",
-            "directors": [
-              "Lance Oppenheim"
-            ],
-            "criticsRating": 86,
-            "criticsVotes": 231,
-            "audienceRating": 78,
-            "audienceVotes": 2002
-          }
-        },
-        "longDescription": "ROBERT PATTINSON w thrillerze psychologicznym PRIMETIME wciela się w Chrisa Hansena, charyzmatycznego dziennikarza, który wkracza do podziemnego świata przestępczego i pragnie zmienić oblicze telewizji. Z czasem jednak ulega własnej obsesji i w drodze na szczyt popularności zaczyna zatracać swój pierwotny cel.",
-        "poster": "media/posters/1daa26da6313e0bd16e7.webp"
-      },
-      {
-        "hour": "20:00",
-        "datetime": "2026-10-14 20:00:00",
+        "hour": "20:45",
+        "datetime": "2026-10-15 20:45:00",
         "title": "Róża",
         "originalTitle": "Rose",
         "director": "Markus Schleinzer",
@@ -542,9 +619,9 @@
         "age": "16",
         "credits": "reż. Markus Schleinzer <br>Niemcy, Austria <br>2026,93’",
         "desc": "<p>Oto prawdziwa historia oszustki, która zwodziła władze i lud. Urodziła się kobietą, acz nosiła po męsku i pod fałszywym imieniem dopuściła wielu niecnych czynów.</p>\n",
-        "hall": "1",
+        "hall": "3",
         "movieLink": "https://www.kinomuza.pl/movie/roza/",
-        "ticketLink": "https://estradapoznan.bilety24.pl/kup-bilety/?id=992416#total",
+        "ticketLink": "https://estradapoznan.bilety24.pl/kup-bilety/?id=1001484#total",
         "prePremier": false,
         "tape35mm": false,
         "ad": false,
@@ -553,7 +630,7 @@
         "ticketHalfPrice": "",
         "alt": "Róża",
         "thumb": "https://www.kinomuza.pl/content/uploads/2026/08/róża-1-800x450.jpg",
-        "cycle": "filozoficzne środy z Gutek Film",
+        "cycle": "przyzwoicie tanie czwartki",
         "description": "Oto prawdziwa historia oszustki, która zwodziła władze i lud. Urodziła się kobietą, acz nosiła po męsku i pod fałszywym imieniem dopuściła wielu niecnych czynów.",
         "shortDescription": "Oto prawdziwa historia oszustki, która zwodziła władze i lud. Urodziła się kobietą, acz nosiła po męsku i pod fałszywym imieniem dopuściła wielu niecnych czynów.",
         "genres": [
@@ -592,8 +669,8 @@
         "poster": "media/posters/f190e242c80162aa1316.webp"
       },
       {
-        "hour": "20:30",
-        "datetime": "2026-10-14 20:30:00",
+        "hour": "21:00",
+        "datetime": "2026-10-15 21:00:00",
         "title": "Lalka",
         "originalTitle": "",
         "director": "Maciej Kawalski",
@@ -607,9 +684,9 @@
         "age": "16",
         "credits": "reż. Maciej Kawalski <br>Polska <br>2026,162’",
         "desc": "<p>Dzieło Prusa od blisko 140 lat rozpala emocje i wyobraźnię kolejnych pokoleń. Teraz ta ponadczasowa historia trafia na wielki ekran w nowej, spektakularnej, filmowej odsłonie.</p>\n",
-        "hall": "2",
+        "hall": "1",
         "movieLink": "https://www.kinomuza.pl/movie/lalka/",
-        "ticketLink": "https://estradapoznan.bilety24.pl/kup-bilety/?id=1001446#total",
+        "ticketLink": "https://estradapoznan.bilety24.pl/kup-bilety/?id=1001419#total",
         "prePremier": false,
         "tape35mm": false,
         "ad": false,
@@ -618,6 +695,7 @@
         "ticketHalfPrice": "",
         "alt": "Lalka",
         "thumb": "https://www.kinomuza.pl/content/uploads/2026/09/lalka-2-800x450.jpg",
+        "cycle": "przyzwoicie tanie czwartki",
         "description": "Dzieło Prusa od blisko 140 lat rozpala emocje i wyobraźnię kolejnych pokoleń. Teraz ta ponadczasowa historia trafia na wielki ekran w nowej, spektakularnej, filmowej odsłonie.",
         "shortDescription": "Dzieło Prusa od blisko 140 lat rozpala emocje i wyobraźnię kolejnych pokoleń. Teraz ta ponadczasowa historia trafia na wielki ekran w nowej, spektakularnej, filmowej odsłonie.",
         "genres": [
@@ -647,70 +725,71 @@
         "poster": "media/posters/2f797fdbd82b582ae91e.webp"
       },
       {
-        "hour": "20:45",
-        "datetime": "2026-10-14 20:45:00",
-        "title": "Digger",
+        "hour": "21:15",
+        "datetime": "2026-10-15 21:15:00",
+        "title": "Primetime",
         "originalTitle": "",
-        "director": "Alejandro González Iñárritu",
+        "director": "Lance Oppenheim",
         "year": "2026",
         "premiereDate": "2026-10-09",
-        "duration": "128",
+        "duration": "107",
         "countries": "USA",
-        "shortDesc": "<p>Najpotężniejszy człowiek świata wyrusza w szaloną misję, chcąc udowodnić, że jest zbawcą ludzkości, zanim katastrofa, którą spowodował, tę ludzkość zniszczy.</p>\n",
+        "shortDesc": "<p>Charyzmatyczny dziennikarz wkracza do podziemnego świata przestępczego i pragnie zmienić oblicze telewizji. Ulega własnej obsesji i w drodze na szczyt popularności zaczyna zatracać swój pierwotny cel.</p>\n",
         "lang": "en",
         "subtitlesLang": "pl",
         "age": "16",
-        "credits": "reż. Alejandro González Iñárritu <br>USA <br>2026,128’",
-        "desc": "<p>Najpotężniejszy człowiek świata wyrusza w szaloną misję, chcąc udowodnić, że jest zbawcą ludzkości, zanim katastrofa, którą spowodował, tę ludzkość zniszczy.</p>\n",
-        "hall": "3",
-        "movieLink": "https://www.kinomuza.pl/movie/digger/",
-        "ticketLink": "https://estradapoznan.bilety24.pl/kup-bilety/?id=1001480#total",
+        "credits": "reż.  Lance Oppenheim <br>USA <br>2026,107’",
+        "desc": "<p>Charyzmatyczny dziennikarz wkracza do podziemnego świata przestępczego i pragnie zmienić oblicze telewizji. Ulega własnej obsesji i w drodze na szczyt popularności zaczyna zatracać swój pierwotny cel.</p>\n",
+        "hall": "2",
+        "movieLink": "https://www.kinomuza.pl/movie/primetime/",
+        "ticketLink": "https://estradapoznan.bilety24.pl/kup-bilety/?id=1001450#total",
         "prePremier": false,
         "tape35mm": false,
         "ad": false,
         "deaf": false,
         "ticketPrice": "",
         "ticketHalfPrice": "",
-        "alt": "Digger",
-        "thumb": "https://www.kinomuza.pl/content/uploads/2026/09/kadry-1-800x450.jpg",
-        "description": "Najpotężniejszy człowiek świata wyrusza w szaloną misję, chcąc udowodnić, że jest zbawcą ludzkości, zanim katastrofa, którą spowodował, tę ludzkość zniszczy.",
-        "shortDescription": "Najpotężniejszy człowiek świata wyrusza w szaloną misję, chcąc udowodnić, że jest zbawcą ludzkości, zanim katastrofa, którą spowodował, tę ludzkość zniszczy.",
+        "alt": "Primetime",
+        "thumb": "https://www.kinomuza.pl/content/uploads/2026/08/primetime-3-800x450.jpg",
+        "cycle": "przyzwoicie tanie czwartki",
+        "description": "Charyzmatyczny dziennikarz wkracza do podziemnego świata przestępczego i pragnie zmienić oblicze telewizji. Ulega własnej obsesji i w drodze na szczyt popularności zaczyna zatracać swój pierwotny cel.",
+        "shortDescription": "Charyzmatyczny dziennikarz wkracza do podziemnego świata przestępczego i pragnie zmienić oblicze telewizji. Ulega własnej obsesji i w drodze na szczyt popularności zaczyna zatracać swój pierwotny cel.",
         "genres": [
           "Dramat",
-          "Komedia"
+          "Kryminał"
         ],
         "external": {
           "imdb": {
-            "id": "tt31450459",
-            "url": "https://www.imdb.com/title/tt31450459/",
-            "rating": 7.3,
-            "votes": 10515
+            "id": "tt34206385",
+            "url": "https://www.imdb.com/title/tt34206385/",
+            "rating": 7.2,
+            "votes": 12548
           },
           "filmweb": {
-            "id": "10104607",
-            "url": "https://www.filmweb.pl/film/Digger-2026-10104607",
+            "id": "10115409",
+            "url": "https://www.filmweb.pl/film/Primetime-2026-10115409",
             "genres": [
               "Dramat",
-              "Komedia"
+              "Kryminał"
             ],
-            "rating": 7.2,
-            "votes": 759
+            "rating": 6.5,
+            "votes": 126
           },
           "rottenTomatoes": {
-            "url": "https://www.rottentomatoes.com/m/digger_2026",
-            "title": "Digger (2026)",
+            "url": "https://www.rottentomatoes.com/m/primetime",
+            "title": "Primetime",
             "year": "2026",
             "directors": [
-              "Alejandro González Iñárritu"
+              "Lance Oppenheim"
             ],
-            "criticsRating": 51,
-            "criticsVotes": 282,
-            "audienceRating": 72,
-            "audienceVotes": 1004
+            "criticsRating": 86,
+            "criticsVotes": 231,
+            "audienceRating": 78,
+            "audienceVotes": 2002
           }
         },
-        "longDescription": "Najpotężniejszy człowiek świata wyrusza w szaloną misję, chcąc udowodnić, że jest zbawcą ludzkości, zanim katastrofa, którą spowodował, tę ludzkość zniszczy.\n\nCruise występuje w roli tytułowej, a towarzyszą mu laureat Oscara Riz Ahmed, John Goodman, nominowana do Oscara Sandra Hüller, Michael Stuhlbarg oraz nominowany do Oscara Jesse Plemons. W pozostałych rolach występują Robert John Burke, Emma D’Arcy, Burn Gorman i Sophie Wilde.\n\nIñárritu reżyseruje na podstawie scenariusza autorstwa swojego oraz nagrodzonych Oscarem Alexandra Dinelarisa i Nicolása Giacobone’a, jak również Sabiny Berman. Autorami pomysłu są Iñárritu i Berman. Producentami filmu są Iñárritu, nominowana do Oscara Mary Parent, Cruise i Michael Sharp. Funkcję producentów wykonawczych pełnią Joshua Grode, Berman, Dinelaris, Giacobone, Jez Butterworth i Emmanuel Lubezki.\n\nDo Iñárritu po drugiej stronie kamery dołączyli jego dawni współpracownicy, tacy jak nagrodzony Oscarem operator Emmanuel Lubezki, montażyści Conor O’Neill i nagrodzony Oscarem Stephen Mirrione, nominowana do Oscara projektantka kostiumów Jacqueline West, nagrodzony Oscarem charakteryzator Alessandro Bertolazzi oraz nominowana do Oscara reżyserka castingu Francine Maisler. Oprócz nich w ekipie znaleźli się nagrodzony Oscarem scenograf Dennis Gassner i drugi scenograf Richard Johnson, jak również nagrodzony Oscarem twórca protez charakteryzatorskich Kazu Hiro i kompozytor Cosmo Sheldrake.\n\nDigger Alejandra G. Iñárritu został nakręcony w całości w formacie VistaVision. Do kin i kin IMAX® Ameryki Północnej trafi 2 października 2026 roku, a seanse na całym świecie rozpoczną się 30 września 2026 roku. Dystrybutorem filmu jest Warner Bros. Pictures.",
-        "poster": "media/posters/dac32b97bc90196a3553.webp"
+        "longDescription": "ROBERT PATTINSON w thrillerze psychologicznym PRIMETIME wciela się w Chrisa Hansena, charyzmatycznego dziennikarza, który wkracza do podziemnego świata przestępczego i pragnie zmienić oblicze telewizji. Z czasem jednak ulega własnej obsesji i w drodze na szczyt popularności zaczyna zatracać swój pierwotny cel.",
+        "poster": "media/posters/1daa26da6313e0bd16e7.webp"
       }
     ]
   }

@@ -1,0 +1,83 @@
+{
+  "schemaVersion": 1,
+  "date": "2026-10-27",
+  "updatedAt": "2026-10-06T18:53:57.874Z",
+  "source": "https://www.kinomuza.pl/repertoire/day/",
+  "day": {
+    "id": "21",
+    "date": "27.10",
+    "now": "2026-10-06 20:53:16",
+    "info": [],
+    "repertoire": [
+      {
+        "hour": "20:00",
+        "datetime": "2026-10-27 20:00:00",
+        "title": "Anatomia upadku",
+        "originalTitle": "Anatomy of a Fall",
+        "director": "Justine Triet",
+        "year": "2023",
+        "premiereDate": "2024-02-23",
+        "duration": "150",
+        "countries": "Francja",
+        "shortDesc": "<p>Mistrzowski thriller, w którym poszukiwanie odpowiedzi na pytanie <em>czy zabiła</em>? ogląda się jak pełną napięcia intrygę rodem z <em>Zaginionej dziewczyny</em> Davida Finchera.</p>\n",
+        "lang": "",
+        "subtitlesLang": "pl",
+        "age": "16",
+        "credits": "reż. Justine Triet <br>Francja <br>2023,150’",
+        "desc": "<p>Mistrzowski thriller, w którym poszukiwanie odpowiedzi na pytanie <em>czy zabiła</em>? ogląda się jak pełną napięcia intrygę rodem z <em>Zaginionej dziewczyny</em> Davida Finchera.</p>\n",
+        "hall": "1",
+        "movieLink": "https://www.kinomuza.pl/movie/anatomia-upadku/",
+        "ticketLink": "https://estradapoznan.bilety24.pl/kup-bilety/?id=1001380#total",
+        "prePremier": false,
+        "tape35mm": false,
+        "ad": false,
+        "deaf": false,
+        "ticketPrice": "",
+        "ticketHalfPrice": "",
+        "alt": "Anatomia upadku",
+        "thumb": "https://www.kinomuza.pl/content/uploads/2023/12/anatomia-upadku-3-800x450.jpg",
+        "cycle": "dkf kamera",
+        "description": "Mistrzowski thriller, w którym poszukiwanie odpowiedzi na pytanie czy zabiła ? ogląda się jak pełną napięcia intrygę rodem z Zaginionej dziewczyny  Davida Finchera.",
+        "shortDescription": "Mistrzowski thriller, w którym poszukiwanie odpowiedzi na pytanie czy zabiła ? ogląda się jak pełną napięcia intrygę rodem z Zaginionej dziewczyny  Davida Finchera.",
+        "genres": [
+          "Dramat",
+          "Thriller",
+          "Kryminał"
+        ],
+        "external": {
+          "imdb": {
+            "id": "tt17009710",
+            "url": "https://www.imdb.com/title/tt17009710/",
+            "rating": 7.6,
+            "votes": 238552
+          },
+          "filmweb": {
+            "id": "10032723",
+            "url": "https://www.filmweb.pl/film/Anatomia+upadku-2023-10032723",
+            "genres": [
+              "Dramat",
+              "Thriller",
+              "Kryminał"
+            ],
+            "rating": 7.1,
+            "votes": 68365
+          },
+          "rottenTomatoes": {
+            "url": "https://www.rottentomatoes.com/m/anatomy_of_a_fall",
+            "title": "Anatomy of a Fall",
+            "year": "2023",
+            "directors": [
+              "Justine Triet"
+            ],
+            "criticsRating": 96,
+            "criticsVotes": 288,
+            "audienceRating": 91,
+            "audienceVotes": 232
+          }
+        },
+        "longDescription": "Anatomia upadku to absolutne wydarzenie – jeden z najgłośniejszych filmów roku, zdobywca pięciu nominacji do Oscarów (w tym dla Najlepszego Filmu), dwóch Złotych Globów, nagrodzony Złotą Palmą w Cannes. To mistrzowski thriller, w którym poszukiwanie odpowiedzi na pytanie czy zabiła? ogląda się jak pełną napięcia intrygę rodem z Zaginionej dziewczyny  Davida Finchera. To coś więcej niż śledztwo w sprawie morderstwa: to niepokojąca podróż w sam środek burzliwej relacji w pozornie szczęśliwym małżeństwie. W roli głównej fenomenalna Sandra Hüller, typowana jako jedna z głównych faworytek w oscarowym wyścigu.\n\nŻycie szczęśliwej rodziny we francuskich Alpach zostaje przerwane, gdy Samuel ginie w wyniku upadku. Skoczył sam, poślizgnął się czy może z balkonu wypchnęła go Sandra, żona i matka? Śledczym brakuje dowodów, w sprawie brakuje świadków. Na oczach opinii publicznej Sandra będzie musiała spowiadać się z najdrobniejszych i najintymniejszych szczegółów swojego małżeństwa, które mogą zaważyć o wyroku. Proces, który zajmuje wszystkich, toczy się również w głowach widzów, a pytanie, na które szukamy odpowiedzi, brzmi: Czy to zrobiła? .",
+        "poster": "media/posters/bf2ae5070f0881d0758a.webp"
+      }
+    ]
+  }
+}

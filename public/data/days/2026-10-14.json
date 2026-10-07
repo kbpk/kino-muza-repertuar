@@ -1,12 +1,12 @@
 {
   "schemaVersion": 1,
   "date": "2026-10-14",
-  "updatedAt": "2026-10-06T18:53:57.874Z",
+  "updatedAt": "2026-10-07T17:27:10.637Z",
   "source": "https://www.kinomuza.pl/repertoire/day/",
   "day": {
-    "id": "08",
+    "id": "07",
     "date": "14.10",
-    "now": "2026-10-06 20:52:58",
+    "now": "2026-10-07 19:25:06",
     "info": [],
     "repertoire": [
       {
@@ -46,7 +46,7 @@
             "id": "tt29283995",
             "url": "https://www.imdb.com/title/tt29283995/",
             "rating": 7,
-            "votes": 1777
+            "votes": 1802
           },
           "filmweb": {
             "id": "10093851",
@@ -55,7 +55,7 @@
               "Dramat"
             ],
             "rating": 6.8,
-            "votes": 988
+            "votes": 999
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/hen",
@@ -114,7 +114,7 @@
             "id": "tt36583977",
             "url": "https://www.imdb.com/title/tt36583977/",
             "rating": 7.8,
-            "votes": 4236
+            "votes": 4813
           },
           "filmweb": {
             "id": "10116454",
@@ -125,7 +125,7 @@
               "Przygodowy"
             ],
             "rating": 6.9,
-            "votes": 366
+            "votes": 404
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/forgotten_island",
@@ -137,8 +137,8 @@
             ],
             "criticsRating": 95,
             "criticsVotes": 109,
-            "audienceRating": 96,
-            "audienceVotes": 1285
+            "audienceRating": 95,
+            "audienceVotes": 1337
           }
         },
         "longDescription": "Warto walczyć o najlepszą przyjaźń.\n\nDreamWorks Animation, studio, które stworzyło niezapomniane więzi między chłopcem a smokiem w filmie „Jak wytresować smoka”, ogrem i osłem w animacji „Shrek” oraz robotem i gąsiątkiem w „Dzikim robocie”. Teraz przedstawia olśniewającą i wzruszającą historię o dwójce przyjaciół na całe życie, którzy muszą się zjednoczyć.\n\nNowy film został napisany i wyreżyserowany przez nominowanych do Oscara® Joela Crawforda i Januela Mercado, a jego producentem jest nominowany do Oscara® Mark Swift, twórca filmu „Kot w butach: Ostatnie życzenie”.\n\nNagrodzone nagrodą Grammy i Oscarem® H.E.R. i Liza Soberano użyczają głosu Jo i Raissie.\n\nTo przyjaciółki od najmłodszych lat, które właśnie kończą szkołę średnią i stoją u progu zupełnie nowych etapów życia.\n\nPodczas wspólnego świętowania ostatniego wieczoru przed rozstaniem dziewczyny przypadkiem odkrywają tajemniczy portal, który przenosi je na magiczną wyspę Nakali. To niezwykła kraina pełna fantastycznych i mitycznych stworzeń, o których od dzieciństwa słyszały w opowieściach przekazywanych przez ich filipińskie rodziny.\n\nNiektóre z tych postaci staną się przyjaciółmi, inne wrogami. Jo i Raissa muszą stawić czoła najgroźniejszemu stworzeniu na wyspie.\n\nKiedy odkryją, że wspomnienia ich przyjaźni są ceną za powrót do domu, Jo i Raissa będą ścigać się, by znaleźć sposób na opuszczenie wyspy, zanim zapomną o sobie na zawsze.",
@@ -182,7 +182,7 @@
             "id": "tt25399154",
             "url": "https://www.imdb.com/title/tt25399154/",
             "rating": 7.5,
-            "votes": 2203
+            "votes": 2311
           },
           "filmweb": {
             "id": "10113205",
@@ -191,7 +191,7 @@
               "Dramat historyczny"
             ],
             "rating": 7.1,
-            "votes": 920
+            "votes": 941
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/rose_2026",
@@ -247,7 +247,7 @@
             "id": "tt34206385",
             "url": "https://www.imdb.com/title/tt34206385/",
             "rating": 7.2,
-            "votes": 12548
+            "votes": 13880
           },
           "filmweb": {
             "id": "10115409",
@@ -257,7 +257,7 @@
               "Kryminał"
             ],
             "rating": 6.5,
-            "votes": 126
+            "votes": 138
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/primetime",
@@ -267,9 +267,9 @@
               "Lance Oppenheim"
             ],
             "criticsRating": 86,
-            "criticsVotes": 231,
+            "criticsVotes": 233,
             "audienceRating": 78,
-            "audienceVotes": 2002
+            "audienceVotes": 2079
           }
         },
         "longDescription": "ROBERT PATTINSON w thrillerze psychologicznym PRIMETIME wciela się w Chrisa Hansena, charyzmatycznego dziennikarza, który wkracza do podziemnego świata przestępczego i pragnie zmienić oblicze telewizji. Z czasem jednak ulega własnej obsesji i w drodze na szczyt popularności zaczyna zatracać swój pierwotny cel.",
@@ -312,7 +312,7 @@
             "id": "tt25399154",
             "url": "https://www.imdb.com/title/tt25399154/",
             "rating": 7.5,
-            "votes": 2203
+            "votes": 2311
           },
           "filmweb": {
             "id": "10113205",
@@ -321,7 +321,7 @@
               "Dramat historyczny"
             ],
             "rating": 7.1,
-            "votes": 920
+            "votes": 941
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/rose_2026",
@@ -377,7 +377,7 @@
             "id": "tt37082105",
             "url": "https://www.imdb.com/title/tt37082105/",
             "rating": 7.8,
-            "votes": 373
+            "votes": 521
           },
           "filmweb": {
             "id": "10057628",
@@ -387,7 +387,7 @@
               "Dramat obyczajowy"
             ],
             "rating": 7.7,
-            "votes": 12647
+            "votes": 13486
           },
           "rottenTomatoes": null
         },
@@ -441,8 +441,8 @@
               "Dramat",
               "Biograficzny"
             ],
-            "rating": 0,
-            "votes": 0
+            "rating": 6,
+            "votes": 7
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/the_social_reckoning",
@@ -451,8 +451,8 @@
             "directors": [
               "Aaron Sorkin"
             ],
-            "criticsRating": null,
-            "criticsVotes": null,
+            "criticsRating": 68,
+            "criticsVotes": 56,
             "audienceRating": null,
             "audienceVotes": null
           }
@@ -498,7 +498,7 @@
             "id": "tt34206385",
             "url": "https://www.imdb.com/title/tt34206385/",
             "rating": 7.2,
-            "votes": 12548
+            "votes": 13880
           },
           "filmweb": {
             "id": "10115409",
@@ -508,7 +508,7 @@
               "Kryminał"
             ],
             "rating": 6.5,
-            "votes": 126
+            "votes": 138
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/primetime",
@@ -518,9 +518,9 @@
               "Lance Oppenheim"
             ],
             "criticsRating": 86,
-            "criticsVotes": 231,
+            "criticsVotes": 233,
             "audienceRating": 78,
-            "audienceVotes": 2002
+            "audienceVotes": 2079
           }
         },
         "longDescription": "ROBERT PATTINSON w thrillerze psychologicznym PRIMETIME wciela się w Chrisa Hansena, charyzmatycznego dziennikarza, który wkracza do podziemnego świata przestępczego i pragnie zmienić oblicze telewizji. Z czasem jednak ulega własnej obsesji i w drodze na szczyt popularności zaczyna zatracać swój pierwotny cel.",
@@ -564,7 +564,7 @@
             "id": "tt25399154",
             "url": "https://www.imdb.com/title/tt25399154/",
             "rating": 7.5,
-            "votes": 2203
+            "votes": 2311
           },
           "filmweb": {
             "id": "10113205",
@@ -573,7 +573,7 @@
               "Dramat historyczny"
             ],
             "rating": 7.1,
-            "votes": 920
+            "votes": 941
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/rose_2026",
@@ -629,7 +629,7 @@
             "id": "tt37082105",
             "url": "https://www.imdb.com/title/tt37082105/",
             "rating": 7.8,
-            "votes": 373
+            "votes": 521
           },
           "filmweb": {
             "id": "10057628",
@@ -639,7 +639,7 @@
               "Dramat obyczajowy"
             ],
             "rating": 7.7,
-            "votes": 12647
+            "votes": 13486
           },
           "rottenTomatoes": null
         },
@@ -676,25 +676,25 @@
         "description": "Najpotężniejszy człowiek świata wyrusza w szaloną misję, chcąc udowodnić, że jest zbawcą ludzkości, zanim katastrofa, którą spowodował, tę ludzkość zniszczy.",
         "shortDescription": "Najpotężniejszy człowiek świata wyrusza w szaloną misję, chcąc udowodnić, że jest zbawcą ludzkości, zanim katastrofa, którą spowodował, tę ludzkość zniszczy.",
         "genres": [
-          "Dramat",
-          "Komedia"
+          "Komedia",
+          "Dramat"
         ],
         "external": {
           "imdb": {
             "id": "tt31450459",
             "url": "https://www.imdb.com/title/tt31450459/",
             "rating": 7.3,
-            "votes": 10515
+            "votes": 17944
           },
           "filmweb": {
             "id": "10104607",
             "url": "https://www.filmweb.pl/film/Digger-2026-10104607",
             "genres": [
-              "Dramat",
-              "Komedia"
+              "Komedia",
+              "Dramat"
             ],
-            "rating": 7.2,
-            "votes": 759
+            "rating": 7.1,
+            "votes": 797
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/digger_2026",
@@ -704,9 +704,9 @@
               "Alejandro González Iñárritu"
             ],
             "criticsRating": 51,
-            "criticsVotes": 282,
-            "audienceRating": 72,
-            "audienceVotes": 1004
+            "criticsVotes": 286,
+            "audienceRating": 73,
+            "audienceVotes": 1164
           }
         },
         "longDescription": "Najpotężniejszy człowiek świata wyrusza w szaloną misję, chcąc udowodnić, że jest zbawcą ludzkości, zanim katastrofa, którą spowodował, tę ludzkość zniszczy.\n\nCruise występuje w roli tytułowej, a towarzyszą mu laureat Oscara Riz Ahmed, John Goodman, nominowana do Oscara Sandra Hüller, Michael Stuhlbarg oraz nominowany do Oscara Jesse Plemons. W pozostałych rolach występują Robert John Burke, Emma D’Arcy, Burn Gorman i Sophie Wilde.\n\nIñárritu reżyseruje na podstawie scenariusza autorstwa swojego oraz nagrodzonych Oscarem Alexandra Dinelarisa i Nicolása Giacobone’a, jak również Sabiny Berman. Autorami pomysłu są Iñárritu i Berman. Producentami filmu są Iñárritu, nominowana do Oscara Mary Parent, Cruise i Michael Sharp. Funkcję producentów wykonawczych pełnią Joshua Grode, Berman, Dinelaris, Giacobone, Jez Butterworth i Emmanuel Lubezki.\n\nDo Iñárritu po drugiej stronie kamery dołączyli jego dawni współpracownicy, tacy jak nagrodzony Oscarem operator Emmanuel Lubezki, montażyści Conor O’Neill i nagrodzony Oscarem Stephen Mirrione, nominowana do Oscara projektantka kostiumów Jacqueline West, nagrodzony Oscarem charakteryzator Alessandro Bertolazzi oraz nominowana do Oscara reżyserka castingu Francine Maisler. Oprócz nich w ekipie znaleźli się nagrodzony Oscarem scenograf Dennis Gassner i drugi scenograf Richard Johnson, jak również nagrodzony Oscarem twórca protez charakteryzatorskich Kazu Hiro i kompozytor Cosmo Sheldrake.\n\nDigger Alejandra G. Iñárritu został nakręcony w całości w formacie VistaVision. Do kin i kin IMAX® Ameryki Północnej trafi 2 października 2026 roku, a seanse na całym świecie rozpoczną się 30 września 2026 roku. Dystrybutorem filmu jest Warner Bros. Pictures.",

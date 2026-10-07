@@ -1,12 +1,12 @@
 {
   "schemaVersion": 1,
   "date": "2026-10-07",
-  "updatedAt": "2026-10-06T18:53:57.874Z",
+  "updatedAt": "2026-10-07T17:27:10.637Z",
   "source": "https://www.kinomuza.pl/repertoire/day/",
   "day": {
-    "id": "01",
+    "id": "00",
     "date": "07.10",
-    "now": "2026-10-06 20:52:56",
+    "now": "2026-10-07 19:24:17",
     "info": [],
     "repertoire": [
       {
@@ -463,26 +463,26 @@
         "shortDescription": "Młody Anthony Bourdain podczas upalnego lata 1976 roku odkrywa swoją pasję, powołanie i to, kim tak naprawdę jest.",
         "genres": [
           "Biograficzny",
-          "Dramat",
-          "Komedia"
+          "Komedia",
+          "Dramat"
         ],
         "external": {
           "imdb": {
             "id": "tt33095251",
             "url": "https://www.imdb.com/title/tt33095251/",
-            "rating": 7.4,
-            "votes": 15360
+            "rating": 7.3,
+            "votes": 15790
           },
           "filmweb": {
             "id": "10079933",
             "url": "https://www.filmweb.pl/film/Tony-2026-10079933",
             "genres": [
               "Biograficzny",
-              "Dramat",
-              "Komedia"
+              "Komedia",
+              "Dramat"
             ],
             "rating": 7.1,
-            "votes": 7709
+            "votes": 7787
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/tony_2026",
@@ -538,7 +538,7 @@
             "id": "tt37082105",
             "url": "https://www.imdb.com/title/tt37082105/",
             "rating": 7.8,
-            "votes": 373
+            "votes": 521
           },
           "filmweb": {
             "id": "10057628",
@@ -548,7 +548,7 @@
               "Dramat obyczajowy"
             ],
             "rating": 7.7,
-            "votes": 12647
+            "votes": 13486
           },
           "rottenTomatoes": null
         },
@@ -594,7 +594,7 @@
             "id": "tt14119302",
             "url": "https://www.imdb.com/title/tt14119302/",
             "rating": 3.8,
-            "votes": 767
+            "votes": 783
           },
           "filmweb": {
             "id": "10069059",
@@ -605,7 +605,7 @@
               "Thriller"
             ],
             "rating": 3.9,
-            "votes": 1700
+            "votes": 1723
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/hot_spot_2026",
@@ -614,8 +614,8 @@
             "directors": [
               "Agnieszka Smoczyńska"
             ],
-            "criticsRating": 21,
-            "criticsVotes": 19,
+            "criticsRating": 20,
+            "criticsVotes": 20,
             "audienceRating": 25,
             "audienceVotes": 67
           }
@@ -659,8 +659,8 @@
           "imdb": {
             "id": "tt35298123",
             "url": "https://www.imdb.com/title/tt35298123/",
-            "rating": 6.6,
-            "votes": 18360
+            "rating": 6.5,
+            "votes": 19408
           },
           "filmweb": {
             "id": "10114411",
@@ -669,7 +669,7 @@
               "Czarna komedia"
             ],
             "rating": 6.7,
-            "votes": 3290
+            "votes": 3328
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/teenage_sex_and_death_at_camp_miasma",
@@ -679,8 +679,8 @@
               "Jane Schoenbrun"
             ],
             "criticsRating": 93,
-            "criticsVotes": 275,
-            "audienceRating": 79,
+            "criticsVotes": 276,
+            "audienceRating": 78,
             "audienceVotes": 554
           }
         },

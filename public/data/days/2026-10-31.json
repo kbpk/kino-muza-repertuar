@@ -1,0 +1,86 @@
+{
+  "schemaVersion": 1,
+  "date": "2026-10-31",
+  "updatedAt": "2026-10-08T17:23:59.420Z",
+  "source": "https://www.kinomuza.pl/repertoire/day/",
+  "day": {
+    "id": "23",
+    "date": "31.10",
+    "now": "2026-10-08 19:23:22",
+    "info": [],
+    "repertoire": [
+      {
+        "hour": "17:45",
+        "datetime": "2026-10-31 17:45:00",
+        "title": "Miasteczko Halloween",
+        "originalTitle": "THE NIGHTMARE BEFORE CHRISTMAS",
+        "director": "Henry Selick",
+        "year": "1993",
+        "premiereDate": "",
+        "duration": "76",
+        "countries": "USA",
+        "shortDesc": "<p>Dyniowy Król Miasteczka Halloween, Jack Skellington, znudzony powtarzalną rutyną Święta Strachu i Krzyku, chce zaangażować się i przejąć obchody Bożego Narodzenia.</p>\n",
+        "lang": "en",
+        "subtitlesLang": "pl",
+        "age": "9",
+        "credits": "reż. Henry Selick <br>USA <br>1993,76’",
+        "desc": "<p>Dyniowy Król Miasteczka Halloween, Jack Skellington, znudzony powtarzalną rutyną Święta Strachu i Krzyku, chce zaangażować się i przejąć obchody Bożego Narodzenia.</p>\n",
+        "hall": "1",
+        "movieLink": "https://www.kinomuza.pl/movie/miasteczko-halloween/",
+        "ticketLink": "https://estradapoznan.bilety24.pl/kup-bilety/?id=1001775#total",
+        "prePremier": false,
+        "tape35mm": false,
+        "ad": false,
+        "deaf": false,
+        "ticketPrice": "",
+        "ticketHalfPrice": "",
+        "alt": "Miasteczko Halloween",
+        "thumb": "https://www.kinomuza.pl/content/uploads/2026/10/Miasteczko-Halloween-19-800x450.png",
+        "event": "ANIMUZA",
+        "cycle": "animuza",
+        "description": "Dyniowy Król Miasteczka Halloween, Jack Skellington, znudzony powtarzalną rutyną Święta Strachu i Krzyku, chce zaangażować się i przejąć obchody Bożego Narodzenia.",
+        "shortDescription": "Dyniowy Król Miasteczka Halloween, Jack Skellington, znudzony powtarzalną rutyną Święta Strachu i Krzyku, chce zaangażować się i przejąć obchody Bożego Narodzenia.",
+        "genres": [
+          "Animacja",
+          "Fantasy",
+          "Musical",
+          "Świąteczny"
+        ],
+        "external": {
+          "imdb": {
+            "id": "tt0107688",
+            "url": "https://www.imdb.com/title/tt0107688/",
+            "rating": 7.9,
+            "votes": 416543
+          },
+          "filmweb": {
+            "id": "7705",
+            "url": "https://www.filmweb.pl/film/Miasteczko+Halloween-1993-7705",
+            "genres": [
+              "Animacja",
+              "Fantasy",
+              "Musical",
+              "Świąteczny"
+            ],
+            "rating": 7.6,
+            "votes": 84577
+          },
+          "rottenTomatoes": {
+            "url": "https://www.rottentomatoes.com/m/the_nightmare_before_christmas",
+            "title": "Tim Burton's The Nightmare Before Christmas",
+            "year": "1993",
+            "directors": [
+              "Henry Selick"
+            ],
+            "criticsRating": 95,
+            "criticsVotes": 107,
+            "audienceRating": 91,
+            "audienceVotes": 3042
+          }
+        },
+        "longDescription": "Dyniowy Król Miasteczka Halloween, Jack Skellington, znudzony powtarzalną rutyną Święta Strachu i Krzyku, chce zaangażować się i przejąć obchody Bożego Narodzenia. Jego radosna misja naraża na niebezpieczeństwo Świętego Mikołaja i jest początkiem koszmaru dla wszystkich grzecznych dzieci na całym świecie. Niezwykła animowana przypowieść Tima Burtona i Henry’ego Selicka z niezapomnianą ścieżką dźwiękową Danny’ego Elfmana.\n\nBored with the same old scare-and-scream routine, Pumpkin King Jack Skellington longs to spread the joy of Christmas. But his merry mission puts Santa in jeopardy and creates a nightmare for good little children everywhere. Experience Tim Burton and Henry Selick’s uncanny tale as it comes vividly to life right before your eyes!",
+        "poster": "media/posters/9eb8c58ae4a16b30cd72.webp"
+      }
+    ]
+  }
+}

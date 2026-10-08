@@ -1,12 +1,12 @@
 {
   "schemaVersion": 1,
   "date": "2026-12-01",
-  "updatedAt": "2026-10-07T17:27:10.637Z",
+  "updatedAt": "2026-10-08T17:23:59.420Z",
   "source": "https://www.kinomuza.pl/repertoire/day/",
   "day": {
-    "id": "55",
+    "id": "54",
     "date": "01.12",
-    "now": "2026-10-07 19:25:49",
+    "now": "2026-10-08 19:23:35",
     "info": [],
     "repertoire": [
       {
@@ -55,7 +55,7 @@
               "Dramat"
             ],
             "rating": 7.2,
-            "votes": 7185
+            "votes": 7186
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/everything_for_sale_1987",

@@ -1,12 +1,12 @@
 {
   "schemaVersion": 1,
   "date": "2026-10-08",
-  "updatedAt": "2026-10-07T17:27:10.637Z",
+  "updatedAt": "2026-10-08T17:23:59.420Z",
   "source": "https://www.kinomuza.pl/repertoire/day/",
   "day": {
-    "id": "01",
+    "id": "00",
     "date": "08.10",
-    "now": "2026-10-07 19:24:31",
+    "now": "2026-10-08 19:22:36",
     "info": [],
     "repertoire": [
       {
@@ -428,7 +428,7 @@
               "Dramat"
             ],
             "rating": 7.6,
-            "votes": 29705
+            "votes": 29720
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/hamnet",
@@ -497,7 +497,7 @@
               "Dramat"
             ],
             "rating": 7.1,
-            "votes": 7787
+            "votes": 7858
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/tony_2026",
@@ -508,8 +508,8 @@
             ],
             "criticsRating": 93,
             "criticsVotes": 235,
-            "audienceRating": 93,
-            "audienceVotes": 975
+            "audienceRating": 92,
+            "audienceVotes": 977
           }
         },
         "longDescription": "Anthony Bourdain – buntownik, outsider, głos pokolenia, jeden z najbardziej znanych szefów kuchni i jedna z największych, najbardziej charyzmatycznych osobowości telewizyjnych. Podróżnik, pisarz, odkrywca, którego miliony ludzi na całym świecie pokochały za bezkompromisowy styl, miłość do życia, szacunek do ludzi, odwagę, ciekawość świata i autentyczność. „Tony” to historia początków jego drogi – kim był, zanim stał się Anthonym Bourdainem.\n\nUpalne lato 1976 roku, Provincetown – miasto pulsujące wolnością, seksem i energią. Młody, marzący o karierze pisarza, Tony (Dominic Sessa), by podreperować budżet, trafia na zmywak do restauracji serwującej owoce morza, prowadzonej przez tajemniczego szefa kuchni (Antonio Banderas). W intensywnej, chaotycznej, a jednocześnie niezwykle kreatywnej atmosferze Tony odkrywa swoją pasję, powołanie i to, kim tak naprawdę jest.\n\nFilm dostępny z audiodeskrypcją lub lektorem. Skorzystaj bezpłatnie z aplikacji Kino Dostępne 2.0 w Twoim telefonie – http://kinodostepne.pl",
@@ -546,8 +546,8 @@
         "description": "Dzieło Prusa od blisko 140 lat rozpala emocje i wyobraźnię kolejnych pokoleń. Teraz ta ponadczasowa historia trafia na wielki ekran w nowej, spektakularnej, filmowej odsłonie.",
         "shortDescription": "Dzieło Prusa od blisko 140 lat rozpala emocje i wyobraźnię kolejnych pokoleń. Teraz ta ponadczasowa historia trafia na wielki ekran w nowej, spektakularnej, filmowej odsłonie.",
         "genres": [
-          "Kostiumowy",
-          "Dramat obyczajowy"
+          "Dramat obyczajowy",
+          "Kostiumowy"
         ],
         "external": {
           "imdb": {
@@ -560,11 +560,11 @@
             "id": "10057628",
             "url": "https://www.filmweb.pl/film/Lalka-2026-10057628",
             "genres": [
-              "Kostiumowy",
-              "Dramat obyczajowy"
+              "Dramat obyczajowy",
+              "Kostiumowy"
             ],
             "rating": 7.7,
-            "votes": 13486
+            "votes": 14813
           },
           "rottenTomatoes": null
         },
@@ -618,7 +618,7 @@
               "Dramat"
             ],
             "rating": 6.8,
-            "votes": 999
+            "votes": 1019
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/hen",
@@ -683,7 +683,7 @@
               "Dramat"
             ],
             "rating": 6.9,
-            "votes": 8095
+            "votes": 8106
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/fatherland_2026",

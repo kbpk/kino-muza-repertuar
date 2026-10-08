@@ -1,12 +1,12 @@
 {
   "schemaVersion": 1,
   "date": "2026-10-20",
-  "updatedAt": "2026-10-07T17:27:10.637Z",
+  "updatedAt": "2026-10-08T17:23:59.420Z",
   "source": "https://www.kinomuza.pl/repertoire/day/",
   "day": {
-    "id": "13",
+    "id": "12",
     "date": "20.10",
-    "now": "2026-10-07 19:25:36",
+    "now": "2026-10-08 19:23:07",
     "info": [],
     "repertoire": [
       {
@@ -58,7 +58,7 @@
               "Dramat"
             ],
             "rating": 7.1,
-            "votes": 22893
+            "votes": 22894
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/toni_erdmann",

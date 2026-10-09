@@ -1,12 +1,12 @@
 {
   "schemaVersion": 1,
   "date": "2026-10-28",
-  "updatedAt": "2026-10-08T17:23:59.420Z",
+  "updatedAt": "2026-10-09T16:59:58.454Z",
   "source": "https://www.kinomuza.pl/repertoire/day/",
   "day": {
-    "id": "20",
+    "id": "19",
     "date": "28.10",
-    "now": "2026-10-08 19:23:20",
+    "now": "2026-10-09 18:59:01",
     "info": [],
     "repertoire": [
       {
@@ -48,7 +48,7 @@
             "id": "tt13609648",
             "url": "https://www.imdb.com/title/tt13609648/",
             "rating": 7.2,
-            "votes": 1517
+            "votes": 1649
           },
           "filmweb": {
             "id": "10087170",
@@ -57,8 +57,8 @@
               "Kostiumowy",
               "Melodramat"
             ],
-            "rating": 7,
-            "votes": 49
+            "rating": 7.1,
+            "votes": 51
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/sense_and_sensibility_2026",

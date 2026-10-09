@@ -1,12 +1,12 @@
 {
   "schemaVersion": 1,
   "date": "2026-10-20",
-  "updatedAt": "2026-10-08T17:23:59.420Z",
+  "updatedAt": "2026-10-09T16:59:58.454Z",
   "source": "https://www.kinomuza.pl/repertoire/day/",
   "day": {
-    "id": "12",
+    "id": "11",
     "date": "20.10",
-    "now": "2026-10-08 19:23:07",
+    "now": "2026-10-09 18:58:41",
     "info": [],
     "repertoire": [
       {
@@ -40,25 +40,25 @@
         "description": "Przewrotna, wzruszająca komedia o tym, co jest w życiu naprawdę ważne. To historia kobiety, która poświęciła wszystko dla pracy, ale będzie musiała przemyśleć wyznawane przez siebie wartości. Może to właśnie szalony Toni Erdmann pomoże jej odkryć coś, czego nałogowa pracoholiczka nie była w stanie dostrzec?",
         "shortDescription": "Przewrotna, wzruszająca komedia o tym, co jest w życiu naprawdę ważne. To historia kobiety, która poświęciła wszystko dla pracy, ale będzie musiała przemyśleć wyznawane przez siebie wartości. Może to właśnie szalony Toni Erdmann pomoże jej odkryć coś, czego nałogowa pracoholiczka nie była w stanie dostrzec?",
         "genres": [
-          "Komedia",
-          "Dramat"
+          "Dramat",
+          "Komedia"
         ],
         "external": {
           "imdb": {
             "id": "tt4048272",
             "url": "https://www.imdb.com/title/tt4048272/",
             "rating": 7.3,
-            "votes": 55748
+            "votes": 55752
           },
           "filmweb": {
             "id": "763048",
             "url": "https://www.filmweb.pl/film/Toni+Erdmann-2016-763048",
             "genres": [
-              "Komedia",
-              "Dramat"
+              "Dramat",
+              "Komedia"
             ],
             "rating": 7.1,
-            "votes": 22894
+            "votes": 22896
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/toni_erdmann",

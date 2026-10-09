@@ -1,0 +1,54 @@
+{
+  "schemaVersion": 1,
+  "date": "2026-11-05",
+  "updatedAt": "2026-10-09T16:59:58.454Z",
+  "source": "https://www.kinomuza.pl/repertoire/day/",
+  "day": {
+    "id": "27",
+    "date": "05.11",
+    "now": "2026-10-09 18:59:22",
+    "info": [],
+    "repertoire": [
+      {
+        "hour": "19:00",
+        "datetime": "2026-11-05 19:00:00",
+        "title": "The Room Returns | NAJLEPSZE Z NAJGORSZYCH",
+        "originalTitle": "",
+        "director": "Michael Stanley",
+        "year": "2025",
+        "premiereDate": "",
+        "duration": "65",
+        "countries": "USA",
+        "shortDesc": "<p>Nowa interpretacja kultowego najgorszego filmu na świecie <em>The Room</em>. Co się stanie, gdy jeden z najsłynniejszych <em>najgorszych filmów świata</em> trafi w ręce naprawdę świetnych aktorów?</p>\n",
+        "lang": "en",
+        "subtitlesLang": "pl",
+        "age": "16",
+        "credits": "reż. Michael Stanley <br>USA <br>2025,65’",
+        "desc": "<p>Nowa interpretacja kultowego najgorszego filmu na świecie <em>The Room</em>. Co się stanie, gdy jeden z najsłynniejszych <em>najgorszych filmów świata</em> trafi w ręce naprawdę świetnych aktorów?</p>\n",
+        "hall": "1",
+        "movieLink": "https://www.kinomuza.pl/movie/the-room-returns/",
+        "ticketLink": "https://estradapoznan.bilety24.pl/kup-bilety/?id=1002459#total",
+        "prePremier": false,
+        "tape35mm": false,
+        "ad": false,
+        "deaf": false,
+        "ticketPrice": "",
+        "ticketHalfPrice": "",
+        "alt": "The Room Returns | NAJLEPSZE Z NAJGORSZYCH",
+        "thumb": "https://www.kinomuza.pl/content/uploads/2026/10/theroomreturns_still-2-800x450.jpg",
+        "event": "Najlepsze z Najgorszych",
+        "cycle": "Najlepsze z Najgorszych",
+        "description": "Nowa interpretacja kultowego najgorszego filmu na świecie The Room . Co się stanie, gdy jeden z najsłynniejszych najgorszych filmów świata  trafi w ręce naprawdę świetnych aktorów?",
+        "shortDescription": "Nowa interpretacja kultowego najgorszego filmu na świecie The Room . Co się stanie, gdy jeden z najsłynniejszych najgorszych filmów świata  trafi w ręce naprawdę świetnych aktorów?",
+        "genres": [],
+        "external": {
+          "imdb": null,
+          "filmweb": null,
+          "rottenTomatoes": null
+        },
+        "longDescription": "Nowa interpretacja kultowego najgorszego filmu na świecie “The Room” – premierowo w Polsce!\n\nCo się stanie, gdy jeden z najsłynniejszych „najgorszych filmów świata” trafi w ręce naprawdę świetnych aktorów?\n\nOryginalny „The Room” Tommy’ego Wiseau z 2003 roku przeszedł do historii kina nie do końca z powodów, o jakich marzą twórcy. Produkcja pochłonęła około 6 milionów dolarów i wiele miesięcy zdjęć, a osobliwe dialogi, niezrozumiałe decyzje bohaterów i legendarne już sceny sprawiły, że film stał się światowym fenomenem i jednym z największych kultowych hitów kina „tak złego, że aż dobrego”.\n\n„The Room Returns” bierze tę samą historię i przeprowadza na niej fascynujący eksperyment. Tym razem film powstał praktycznie bez budżetu, a zdjęcia zrealizowano w mniej niż 12 godzin. W rolę Johnny’ego wciela się Bob Odenkirk, gwiazda „Better Call Saul” i „Breaking Bad”, a obok niego występują m.in. Bella Heathcote, Kate Siegel oraz Greg Sestero – jedyny aktor z obsady oryginalnego „The Room”, który powrócił w nowej wersji, tym razem w zupełnie innej roli.\n\nW projekt zaangażował się również jeden z najważniejszych współczesnych twórców horroru, Mike Flanagan, reżyser „Doktor Sen”, „Oculus” i twórca „Nawiedzonego domu na wzgórzu”. Flanagan został producentem wykonawczym filmu, a przy okazji sam stanął przed kamerą jako Peter – psycholog i przyjaciel Johnny’ego i Marka.\n\nNie było prób. Aktorzy mieli do dyspozycji promptery i zadanie, które brzmi niemal niemożliwie: zagrać tekst Tommy’ego Wiseau całkowicie serio.\n\nI właśnie tu zaczyna się cała zabawa. Twórcy nie dystansują się od materiału, nie mrugają do widza i nie zamieniają „The Room” w parodię. Przeciwnie – aktorzy rzucają się w tę historię z pełnym zaangażowaniem, śmiertelną powagą i niemal szekspirowskim patosem. Bob Odenkirk naprawdę próbuje sprawić, żeby każda z tych słynnych kwestii zabrzmiała wiarygodnie.\n\nCzy genialny aktor może uratować fatalny dialog? Czy świetny warsztat aktorski jest w stanie zmienić jeden z najbardziej osobliwych scenariuszy w historii kina? A może właśnie wtedy absurd „The Room” ujawnia swoją pełną moc?\n\n„The Room Returns” jest jednocześnie hołdem, filmowym eksperymentem i kolejnym rozdziałem jednej z najbardziej nieprawdopodobnych historii popkultury. A wszystko powstało w szczytnym celu – jako charytatywny projekt Acting for a Cause.",
+        "poster": "media/posters/409f878f5f3d89640bde.webp"
+      }
+    ]
+  }
+}

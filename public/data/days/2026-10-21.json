@@ -1,12 +1,12 @@
 {
   "schemaVersion": 1,
   "date": "2026-10-21",
-  "updatedAt": "2026-10-08T17:23:59.420Z",
+  "updatedAt": "2026-10-09T16:59:58.454Z",
   "source": "https://www.kinomuza.pl/repertoire/day/",
   "day": {
-    "id": "13",
+    "id": "12",
     "date": "21.10",
-    "now": "2026-10-08 19:23:10",
+    "now": "2026-10-09 18:58:43",
     "info": [],
     "repertoire": [
       {
@@ -40,27 +40,27 @@
         "description": "Młody Anthony Bourdain podczas upalnego lata 1976 roku odkrywa swoją pasję, powołanie i to, kim tak naprawdę jest.",
         "shortDescription": "Młody Anthony Bourdain podczas upalnego lata 1976 roku odkrywa swoją pasję, powołanie i to, kim tak naprawdę jest.",
         "genres": [
+          "Dramat",
           "Biograficzny",
-          "Komedia",
-          "Dramat"
+          "Komedia"
         ],
         "external": {
           "imdb": {
             "id": "tt33095251",
             "url": "https://www.imdb.com/title/tt33095251/",
             "rating": 7.3,
-            "votes": 15790
+            "votes": 16064
           },
           "filmweb": {
             "id": "10079933",
             "url": "https://www.filmweb.pl/film/Tony-2026-10079933",
             "genres": [
+              "Dramat",
               "Biograficzny",
-              "Komedia",
-              "Dramat"
+              "Komedia"
             ],
             "rating": 7.1,
-            "votes": 7858
+            "votes": 7933
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/tony_2026",
@@ -72,7 +72,7 @@
             "criticsRating": 93,
             "criticsVotes": 235,
             "audienceRating": 92,
-            "audienceVotes": 977
+            "audienceVotes": 981
           }
         },
         "longDescription": "Anthony Bourdain – buntownik, outsider, głos pokolenia, jeden z najbardziej znanych szefów kuchni i jedna z największych, najbardziej charyzmatycznych osobowości telewizyjnych. Podróżnik, pisarz, odkrywca, którego miliony ludzi na całym świecie pokochały za bezkompromisowy styl, miłość do życia, szacunek do ludzi, odwagę, ciekawość świata i autentyczność. „Tony” to historia początków jego drogi – kim był, zanim stał się Anthonym Bourdainem.\n\nUpalne lato 1976 roku, Provincetown – miasto pulsujące wolnością, seksem i energią. Młody, marzący o karierze pisarza, Tony (Dominic Sessa), by podreperować budżet, trafia na zmywak do restauracji serwującej owoce morza, prowadzonej przez tajemniczego szefa kuchni (Antonio Banderas). W intensywnej, chaotycznej, a jednocześnie niezwykle kreatywnej atmosferze Tony odkrywa swoją pasję, powołanie i to, kim tak naprawdę jest.\n\nFilm dostępny z audiodeskrypcją lub lektorem. Skorzystaj bezpłatnie z aplikacji Kino Dostępne 2.0 w Twoim telefonie – http://kinodostepne.pl",
@@ -117,7 +117,7 @@
             "id": "tt32368068",
             "url": "https://www.imdb.com/title/tt32368068/",
             "rating": 7.8,
-            "votes": 1240
+            "votes": 1247
           },
           "filmweb": {
             "id": "10111381",
@@ -143,7 +143,7 @@
           }
         },
         "longDescription": "Zatrzymaj się i poczuj magię natury podczas prawdziwego kinowego doświadczenia, które angażuje wszystkie zmysły! Vincent Munier, twórca kinowego hitu „Duch śniegów”, zaprasza w niezwykłą podróż. W „Pieśniach lasu” dziadek, ojciec i syn wyruszają do serca francuskiego lasu, żeby wspólnie odkrywać jego sekrety i fotografować zwierzęta. Zobacz z bliska dostojne jelenie, skrytego rysia i rzadkie okazy ptaków – w tym niezwykłego głuszca. To wizualny majstersztyk, ale przede wszystkim wzruszająca opowieść o rodzinie, bliskości i przekazywaniu pasji z pokolenia na pokolenie. Wieczorne legendy przy ognisku oraz hipnotyczna muzyka Warrena Ellisa pozwalają na nowo odkryć zachwyt dziką przyrodą. To najbardziej relaksujący film roku, który poruszy każdego, niezależnie od wieku.",
-        "poster": "media/posters/c23943efeb65bd81fbc7.webp"
+        "poster": "media/posters/ca9c4cfd9b42498a81b2.webp"
       }
     ]
   }

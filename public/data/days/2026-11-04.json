@@ -1,12 +1,12 @@
 {
   "schemaVersion": 1,
   "date": "2026-11-04",
-  "updatedAt": "2026-10-08T17:23:59.420Z",
+  "updatedAt": "2026-10-09T16:59:58.454Z",
   "source": "https://www.kinomuza.pl/repertoire/day/",
   "day": {
-    "id": "27",
+    "id": "26",
     "date": "04.11",
-    "now": "2026-10-08 19:23:34",
+    "now": "2026-10-09 18:59:21",
     "info": [],
     "repertoire": [
       {
@@ -40,25 +40,25 @@
         "description": "Dzieło Prusa od blisko 140 lat rozpala emocje i wyobraźnię kolejnych pokoleń. Teraz ta ponadczasowa historia trafia na wielki ekran w nowej, spektakularnej, filmowej odsłonie.",
         "shortDescription": "Dzieło Prusa od blisko 140 lat rozpala emocje i wyobraźnię kolejnych pokoleń. Teraz ta ponadczasowa historia trafia na wielki ekran w nowej, spektakularnej, filmowej odsłonie.",
         "genres": [
-          "Dramat obyczajowy",
-          "Kostiumowy"
+          "Kostiumowy",
+          "Dramat obyczajowy"
         ],
         "external": {
           "imdb": {
             "id": "tt37082105",
             "url": "https://www.imdb.com/title/tt37082105/",
-            "rating": 7.8,
-            "votes": 521
+            "rating": 7.7,
+            "votes": 617
           },
           "filmweb": {
             "id": "10057628",
             "url": "https://www.filmweb.pl/film/Lalka-2026-10057628",
             "genres": [
-              "Dramat obyczajowy",
-              "Kostiumowy"
+              "Kostiumowy",
+              "Dramat obyczajowy"
             ],
             "rating": 7.7,
-            "votes": 14813
+            "votes": 15929
           },
           "rottenTomatoes": null
         },

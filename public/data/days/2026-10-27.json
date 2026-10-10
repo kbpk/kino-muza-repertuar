@@ -1,12 +1,12 @@
 {
   "schemaVersion": 1,
   "date": "2026-10-27",
-  "updatedAt": "2026-10-09T16:59:58.454Z",
+  "updatedAt": "2026-10-10T15:52:19.197Z",
   "source": "https://www.kinomuza.pl/repertoire/day/",
   "day": {
-    "id": "18",
+    "id": "17",
     "date": "27.10",
-    "now": "2026-10-09 18:59:00",
+    "now": "2026-10-10 17:51:42",
     "info": [],
     "repertoire": [
       {
@@ -60,7 +60,7 @@
               "Kryminał"
             ],
             "rating": 7.1,
-            "votes": 68422
+            "votes": 68436
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/anatomy_of_a_fall",

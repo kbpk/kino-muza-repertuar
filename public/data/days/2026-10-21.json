@@ -1,12 +1,12 @@
 {
   "schemaVersion": 1,
   "date": "2026-10-21",
-  "updatedAt": "2026-10-09T16:59:58.454Z",
+  "updatedAt": "2026-10-10T15:52:19.197Z",
   "source": "https://www.kinomuza.pl/repertoire/day/",
   "day": {
-    "id": "12",
+    "id": "11",
     "date": "21.10",
-    "now": "2026-10-09 18:58:43",
+    "now": "2026-10-10 17:51:29",
     "info": [],
     "repertoire": [
       {
@@ -40,9 +40,9 @@
         "description": "Młody Anthony Bourdain podczas upalnego lata 1976 roku odkrywa swoją pasję, powołanie i to, kim tak naprawdę jest.",
         "shortDescription": "Młody Anthony Bourdain podczas upalnego lata 1976 roku odkrywa swoją pasję, powołanie i to, kim tak naprawdę jest.",
         "genres": [
-          "Dramat",
+          "Komedia",
           "Biograficzny",
-          "Komedia"
+          "Dramat"
         ],
         "external": {
           "imdb": {
@@ -55,12 +55,12 @@
             "id": "10079933",
             "url": "https://www.filmweb.pl/film/Tony-2026-10079933",
             "genres": [
-              "Dramat",
+              "Komedia",
               "Biograficzny",
-              "Komedia"
+              "Dramat"
             ],
             "rating": 7.1,
-            "votes": 7933
+            "votes": 7983
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/tony_2026",
@@ -127,7 +127,7 @@
               "Przyrodniczy"
             ],
             "rating": 8.2,
-            "votes": 410
+            "votes": 412
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/whispers_in_the_woods",

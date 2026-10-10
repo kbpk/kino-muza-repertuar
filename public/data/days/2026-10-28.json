@@ -1,12 +1,12 @@
 {
   "schemaVersion": 1,
   "date": "2026-10-28",
-  "updatedAt": "2026-10-09T16:59:58.454Z",
+  "updatedAt": "2026-10-10T15:52:19.197Z",
   "source": "https://www.kinomuza.pl/repertoire/day/",
   "day": {
-    "id": "19",
+    "id": "18",
     "date": "28.10",
-    "now": "2026-10-09 18:59:01",
+    "now": "2026-10-10 17:51:43",
     "info": [],
     "repertoire": [
       {
@@ -67,8 +67,8 @@
             "directors": [
               "Georgia Oakley"
             ],
-            "criticsRating": 79,
-            "criticsVotes": 39,
+            "criticsRating": 78,
+            "criticsVotes": 40,
             "audienceRating": null,
             "audienceVotes": 14
           }

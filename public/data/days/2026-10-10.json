@@ -1,12 +1,12 @@
 {
   "schemaVersion": 1,
   "date": "2026-10-10",
-  "updatedAt": "2026-10-09T16:59:58.454Z",
+  "updatedAt": "2026-10-10T15:52:19.197Z",
   "source": "https://www.kinomuza.pl/repertoire/day/",
   "day": {
-    "id": "01",
+    "id": "00",
     "date": "10.10",
-    "now": "2026-10-09 18:58:16",
+    "now": "2026-10-10 17:51:09",
     "info": [],
     "repertoire": [
       {
@@ -794,8 +794,8 @@
               "Dramat",
               "Kryminał"
             ],
-            "rating": 6.7,
-            "votes": 344
+            "rating": 6.6,
+            "votes": 1495
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/primetime",
@@ -805,9 +805,9 @@
               "Lance Oppenheim"
             ],
             "criticsRating": 86,
-            "criticsVotes": 236,
+            "criticsVotes": 237,
             "audienceRating": 78,
-            "audienceVotes": 2172
+            "audienceVotes": 2219
           }
         },
         "longDescription": "ROBERT PATTINSON w thrillerze psychologicznym PRIMETIME wciela się w Chrisa Hansena, charyzmatycznego dziennikarza, który wkracza do podziemnego świata przestępczego i pragnie zmienić oblicze telewizji. Z czasem jednak ulega własnej obsesji i w drodze na szczyt popularności zaczyna zatracać swój pierwotny cel.",
@@ -859,7 +859,7 @@
               "Dramat historyczny"
             ],
             "rating": 7.1,
-            "votes": 991
+            "votes": 1092
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/rose_2026",
@@ -925,7 +925,7 @@
               "Dramat obyczajowy"
             ],
             "rating": 7.7,
-            "votes": 15929
+            "votes": 17184
           },
           "rottenTomatoes": null
         },
@@ -979,8 +979,8 @@
               "Dramat",
               "Biograficzny"
             ],
-            "rating": 6.6,
-            "votes": 53
+            "rating": 6.3,
+            "votes": 282
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/the_social_reckoning",
@@ -989,10 +989,10 @@
             "directors": [
               "Aaron Sorkin"
             ],
-            "criticsRating": 57,
-            "criticsVotes": 160,
-            "audienceRating": null,
-            "audienceVotes": 48
+            "criticsRating": 54,
+            "criticsVotes": 194,
+            "audienceRating": 71,
+            "audienceVotes": 156
           }
         },
         "longDescription": "Zobaczymy kontynuację filmu Aarona Sorkina „The Social Network” pod tytułem „The Social Reckoning: W sieci konsekwencji ”.\n\nOpowieść o losach Frances Haugen, młodej inżynierki Facebooka, która we współpracy z Jeffem Horwitzem – reportem z „Wall Street Journal” – stara się ujawnić najbardziej skryte tajemnice tego potężnego portalu społecznościowego.\n\nAaron Sorkin otrzymał Oscara za scenariusz adaptowany do filmu „The Social Network” .\n\nW nowym filmie filmie zobaczymy nominowanego do Oscara Jeremy’ego Stronga, który wcieli się w rolę Marka Zuckerberga; lauretkę Oscara, Mikey Madison, która wcieli się w rolę Frances Haugen; oraz laureata Złotego Globu i Emmy Jeremy’ego Allena White’a, który zagra reportera Wall Street Journal Jeffa Horowitza, autora serii artykułów znanych jako „The Facebook Files”. Te opublikowane w październiku 2021 r. reportaże ujawniły wewnętrzne funkcjonowanie Facebooka i wiele szkód spowodowanych przez tę platformę.",
@@ -1045,8 +1045,8 @@
               "Dramat",
               "Kryminał"
             ],
-            "rating": 6.7,
-            "votes": 344
+            "rating": 6.6,
+            "votes": 1495
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/primetime",
@@ -1056,9 +1056,9 @@
               "Lance Oppenheim"
             ],
             "criticsRating": 86,
-            "criticsVotes": 236,
+            "criticsVotes": 237,
             "audienceRating": 78,
-            "audienceVotes": 2172
+            "audienceVotes": 2219
           }
         },
         "longDescription": "ROBERT PATTINSON w thrillerze psychologicznym PRIMETIME wciela się w Chrisa Hansena, charyzmatycznego dziennikarza, który wkracza do podziemnego świata przestępczego i pragnie zmienić oblicze telewizji. Z czasem jednak ulega własnej obsesji i w drodze na szczyt popularności zaczyna zatracać swój pierwotny cel.",

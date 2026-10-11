@@ -1,12 +1,12 @@
 {
   "schemaVersion": 1,
   "date": "2026-10-20",
-  "updatedAt": "2026-10-10T20:04:02.916Z",
+  "updatedAt": "2026-10-11T16:19:10.168Z",
   "source": "https://www.kinomuza.pl/repertoire/day/",
   "day": {
-    "id": "10",
+    "id": "09",
     "date": "20.10",
-    "now": "2026-10-10 22:03:07",
+    "now": "2026-10-11 18:18:20",
     "info": [],
     "repertoire": [
       {
@@ -39,8 +39,8 @@
         "description": "Comiesięczny cykl kameralnych seansów filmowych dla Nauczycielek i Nauczycieli, organizowany przez Kino Muza we współpracy z Ośrodkiem Doskonalenia Nauczycieli w Poznaniu oraz Wydziałem Zdrowia i Spraw Społecznych UMP.",
         "shortDescription": "Comiesięczny cykl kameralnych seansów filmowych dla Nauczycielek i Nauczycieli, organizowany przez Kino Muza we współpracy z Ośrodkiem Doskonalenia Nauczycieli w Poznaniu oraz Wydziałem Zdrowia i Spraw Społecznych UMP.",
         "genres": [
-          "Kostiumowy",
-          "Melodramat"
+          "Melodramat",
+          "Kostiumowy"
         ],
         "external": {
           "imdb": {
@@ -53,11 +53,11 @@
             "id": "10087170",
             "url": "https://www.filmweb.pl/film/Rozwa%C5%BCna+i+romantyczna-2026-10087170",
             "genres": [
-              "Kostiumowy",
-              "Melodramat"
+              "Melodramat",
+              "Kostiumowy"
             ],
             "rating": 7.1,
-            "votes": 51
+            "votes": 52
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/sense_and_sensibility_2026",
@@ -67,7 +67,7 @@
               "Georgia Oakley"
             ],
             "criticsRating": 78,
-            "criticsVotes": 40,
+            "criticsVotes": 41,
             "audienceRating": null,
             "audienceVotes": 14
           }
@@ -124,7 +124,7 @@
               "Komedia"
             ],
             "rating": 7.1,
-            "votes": 22901
+            "votes": 22902
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/toni_erdmann",

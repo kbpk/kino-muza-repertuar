@@ -1,0 +1,58 @@
+{
+  "schemaVersion": 1,
+  "date": "2026-12-13",
+  "updatedAt": "2026-10-12T19:49:47.793Z",
+  "source": "https://www.kinomuza.pl/repertoire/day/",
+  "day": {
+    "id": "62",
+    "date": "13.12",
+    "now": "2026-10-12 21:48:55",
+    "info": [],
+    "repertoire": [
+      {
+        "hour": "19:00",
+        "datetime": "2026-12-13 19:00:00",
+        "title": "Komendant Fritz",
+        "originalTitle": "Comandante Fritz",
+        "director": "Pavel Giroud",
+        "year": "2025",
+        "premiereDate": "",
+        "duration": "107",
+        "countries": "Kuba, Niemcy, Hiszpania",
+        "shortDesc": "<p>Pełna humoru, gorącej muzyki i karaibskich klimatów satyra historyczna, w której prawda miesza się z fikcją, a brokat i błysk fleszy z komunistycznym reżimem. Film został nagrodzony m.in. na Festiwalu w Miami.</p>\n",
+        "lang": "",
+        "subtitlesLang": "pl",
+        "age": "16",
+        "credits": "reż. Pavel Giroud <br>Kuba, Niemcy, Hiszpania <br>2025,107’",
+        "desc": "<p>Pełna humoru, gorącej muzyki i karaibskich klimatów satyra historyczna, w której prawda miesza się z fikcją, a brokat i błysk fleszy z komunistycznym reżimem. Film został nagrodzony m.in. na Festiwalu w Miami.</p>\n",
+        "hall": "1",
+        "movieLink": "https://www.kinomuza.pl/movie/komendant-fritz/",
+        "ticketLink": "https://estradapoznan.bilety24.pl/kup-bilety/?id=1003443#total",
+        "prePremier": false,
+        "tape35mm": false,
+        "ad": false,
+        "deaf": false,
+        "ticketPrice": "",
+        "ticketHalfPrice": "",
+        "alt": "Komendant Fritz",
+        "thumb": "https://www.kinomuza.pl/content/uploads/2026/10/komendand-1-800x450.jpg",
+        "event": "FILMOWA PODRÓŻ OD USHUAI PO MEKSYK",
+        "description": "Pełna humoru, gorącej muzyki i karaibskich klimatów satyra historyczna, w której prawda miesza się z fikcją, a brokat i błysk fleszy z komunistycznym reżimem. Film został nagrodzony m.in. na Festiwalu w Miami.",
+        "shortDescription": "Pełna humoru, gorącej muzyki i karaibskich klimatów satyra historyczna, w której prawda miesza się z fikcją, a brokat i błysk fleszy z komunistycznym reżimem. Film został nagrodzony m.in. na Festiwalu w Miami.",
+        "genres": [],
+        "external": {
+          "imdb": {
+            "id": "tt33091008",
+            "url": "https://www.imdb.com/title/tt33091008/",
+            "rating": 8.4,
+            "votes": 48
+          },
+          "filmweb": null,
+          "rottenTomatoes": null
+        },
+        "longDescription": "Rok 1972. Uroczyste przekazanie karaibskiej Wyspy Ernesto Thälmanna NRD przez Máximo Lídera. Fritz, młody oficer Stasi, przybywa do Hawany ze specjalną misją. Zadaniem enerdowskiego agenta jest udaremnienie zamachu CIA na kubańskiego lidera. Jednak pod karaibskim słońcem nic nie działa tak, jak się spodziewa. Na dodatek poznaje tajemniczą Kubankę Lolę, która sprawia, że “zimna wojna” staje się o wiele gorętsza niż powinna…\n\n“Komendant Fritz” to pełna humoru, gorącej muzyki i karaibskich klimatów satyra historyczna, w której prawda miesza się z fikcją, a brokat i błysk fleszy z komunistycznym reżimem. Film został nagrodzony m.in. na Festiwalu w Miami.",
+        "poster": "media/posters/53759e8ace0ab397af35.webp"
+      }
+    ]
+  }
+}

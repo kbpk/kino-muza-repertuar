@@ -1,12 +1,12 @@
 {
   "schemaVersion": 1,
   "date": "2026-10-14",
-  "updatedAt": "2026-10-11T16:19:10.168Z",
+  "updatedAt": "2026-10-12T19:49:47.793Z",
   "source": "https://www.kinomuza.pl/repertoire/day/",
   "day": {
-    "id": "03",
+    "id": "02",
     "date": "14.10",
-    "now": "2026-10-11 18:17:58",
+    "now": "2026-10-12 21:47:09",
     "info": [],
     "repertoire": [
       {
@@ -46,7 +46,7 @@
             "id": "tt29283995",
             "url": "https://www.imdb.com/title/tt29283995/",
             "rating": 7,
-            "votes": 1828
+            "votes": 1849
           },
           "filmweb": {
             "id": "10093851",
@@ -55,7 +55,7 @@
               "Dramat"
             ],
             "rating": 6.8,
-            "votes": 1074
+            "votes": 1099
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/hen",
@@ -105,8 +105,8 @@
         "description": "To komedia przygodowa, która przenosi bohaterów na dawno zapomnianą, magiczną wyspę. Warto walczyć o najlepszą przyjaźń.",
         "shortDescription": "To komedia przygodowa, która przenosi bohaterów na dawno zapomnianą, magiczną wyspę. Warto walczyć o najlepszą przyjaźń.",
         "genres": [
-          "Przygodowy",
           "Animacja",
+          "Przygodowy",
           "Fantasy"
         ],
         "external": {
@@ -114,18 +114,18 @@
             "id": "tt36583977",
             "url": "https://www.imdb.com/title/tt36583977/",
             "rating": 7.7,
-            "votes": 5230
+            "votes": 5614
           },
           "filmweb": {
             "id": "10116454",
             "url": "https://www.filmweb.pl/film/Zapomniana+wyspa-2026-10116454",
             "genres": [
-              "Przygodowy",
               "Animacja",
+              "Przygodowy",
               "Fantasy"
             ],
-            "rating": 6.8,
-            "votes": 540
+            "rating": 6.7,
+            "votes": 595
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/forgotten_island",
@@ -138,7 +138,7 @@
             "criticsRating": 95,
             "criticsVotes": 111,
             "audienceRating": 95,
-            "audienceVotes": 1462
+            "audienceVotes": 1509
           }
         },
         "longDescription": "Warto walczyć o najlepszą przyjaźń.\n\nDreamWorks Animation, studio, które stworzyło niezapomniane więzi między chłopcem a smokiem w filmie „Jak wytresować smoka”, ogrem i osłem w animacji „Shrek” oraz robotem i gąsiątkiem w „Dzikim robocie”. Teraz przedstawia olśniewającą i wzruszającą historię o dwójce przyjaciół na całe życie, którzy muszą się zjednoczyć.\n\nNowy film został napisany i wyreżyserowany przez nominowanych do Oscara® Joela Crawforda i Januela Mercado, a jego producentem jest nominowany do Oscara® Mark Swift, twórca filmu „Kot w butach: Ostatnie życzenie”.\n\nNagrodzone nagrodą Grammy i Oscarem® H.E.R. i Liza Soberano użyczają głosu Jo i Raissie.\n\nTo przyjaciółki od najmłodszych lat, które właśnie kończą szkołę średnią i stoją u progu zupełnie nowych etapów życia.\n\nPodczas wspólnego świętowania ostatniego wieczoru przed rozstaniem dziewczyny przypadkiem odkrywają tajemniczy portal, który przenosi je na magiczną wyspę Nakali. To niezwykła kraina pełna fantastycznych i mitycznych stworzeń, o których od dzieciństwa słyszały w opowieściach przekazywanych przez ich filipińskie rodziny.\n\nNiektóre z tych postaci staną się przyjaciółmi, inne wrogami. Jo i Raissa muszą stawić czoła najgroźniejszemu stworzeniu na wyspie.\n\nKiedy odkryją, że wspomnienia ich przyjaźni są ceną za powrót do domu, Jo i Raissa będą ścigać się, by znaleźć sposób na opuszczenie wyspy, zanim zapomną o sobie na zawsze.",
@@ -182,7 +182,7 @@
             "id": "tt25399154",
             "url": "https://www.imdb.com/title/tt25399154/",
             "rating": 7.5,
-            "votes": 2391
+            "votes": 2486
           },
           "filmweb": {
             "id": "10113205",
@@ -190,8 +190,8 @@
             "genres": [
               "Dramat historyczny"
             ],
-            "rating": 7.1,
-            "votes": 1190
+            "rating": 7.2,
+            "votes": 1301
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/rose_2026",
@@ -247,7 +247,7 @@
             "id": "tt34206385",
             "url": "https://www.imdb.com/title/tt34206385/",
             "rating": 7.1,
-            "votes": 15379
+            "votes": 16630
           },
           "filmweb": {
             "id": "10115409",
@@ -256,8 +256,8 @@
               "Dramat",
               "Kryminał"
             ],
-            "rating": 6.5,
-            "votes": 2695
+            "rating": 6.4,
+            "votes": 3704
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/primetime",
@@ -267,9 +267,9 @@
               "Lance Oppenheim"
             ],
             "criticsRating": 86,
-            "criticsVotes": 238,
+            "criticsVotes": 237,
             "audienceRating": 77,
-            "audienceVotes": 2279
+            "audienceVotes": 2348
           }
         },
         "longDescription": "ROBERT PATTINSON w thrillerze psychologicznym PRIMETIME wciela się w Chrisa Hansena, charyzmatycznego dziennikarza, który wkracza do podziemnego świata przestępczego i pragnie zmienić oblicze telewizji. Z czasem jednak ulega własnej obsesji i w drodze na szczyt popularności zaczyna zatracać swój pierwotny cel.",
@@ -312,7 +312,7 @@
             "id": "tt25399154",
             "url": "https://www.imdb.com/title/tt25399154/",
             "rating": 7.5,
-            "votes": 2391
+            "votes": 2486
           },
           "filmweb": {
             "id": "10113205",
@@ -320,8 +320,8 @@
             "genres": [
               "Dramat historyczny"
             ],
-            "rating": 7.1,
-            "votes": 1190
+            "rating": 7.2,
+            "votes": 1301
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/rose_2026",
@@ -376,8 +376,8 @@
           "imdb": {
             "id": "tt37082105",
             "url": "https://www.imdb.com/title/tt37082105/",
-            "rating": 7.7,
-            "votes": 687
+            "rating": 7.8,
+            "votes": 841
           },
           "filmweb": {
             "id": "10057628",
@@ -387,7 +387,7 @@
               "Dramat obyczajowy"
             ],
             "rating": 7.7,
-            "votes": 19028
+            "votes": 21115
           },
           "rottenTomatoes": null
         },
@@ -431,8 +431,8 @@
           "imdb": {
             "id": "tt37510326",
             "url": "https://www.imdb.com/title/tt37510326/",
-            "rating": 6.7,
-            "votes": 1075
+            "rating": 6.8,
+            "votes": 3491
           },
           "filmweb": {
             "id": "10095188",
@@ -442,7 +442,7 @@
               "Dramat"
             ],
             "rating": 6.2,
-            "votes": 521
+            "votes": 724
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/the_social_reckoning",
@@ -451,10 +451,10 @@
             "directors": [
               "Aaron Sorkin"
             ],
-            "criticsRating": 54,
-            "criticsVotes": 202,
-            "audienceRating": 72,
-            "audienceVotes": 264
+            "criticsRating": 55,
+            "criticsVotes": 211,
+            "audienceRating": 74,
+            "audienceVotes": 353
           }
         },
         "longDescription": "Zobaczymy kontynuację filmu Aarona Sorkina „The Social Network” pod tytułem „The Social Reckoning: W sieci konsekwencji ”.\n\nOpowieść o losach Frances Haugen, młodej inżynierki Facebooka, która we współpracy z Jeffem Horwitzem – reportem z „Wall Street Journal” – stara się ujawnić najbardziej skryte tajemnice tego potężnego portalu społecznościowego.\n\nAaron Sorkin otrzymał Oscara za scenariusz adaptowany do filmu „The Social Network” .\n\nW nowym filmie filmie zobaczymy nominowanego do Oscara Jeremy’ego Stronga, który wcieli się w rolę Marka Zuckerberga; lauretkę Oscara, Mikey Madison, która wcieli się w rolę Frances Haugen; oraz laureata Złotego Globu i Emmy Jeremy’ego Allena White’a, który zagra reportera Wall Street Journal Jeffa Horowitza, autora serii artykułów znanych jako „The Facebook Files”. Te opublikowane w październiku 2021 r. reportaże ujawniły wewnętrzne funkcjonowanie Facebooka i wiele szkód spowodowanych przez tę platformę.",
@@ -498,7 +498,7 @@
             "id": "tt34206385",
             "url": "https://www.imdb.com/title/tt34206385/",
             "rating": 7.1,
-            "votes": 15379
+            "votes": 16630
           },
           "filmweb": {
             "id": "10115409",
@@ -507,8 +507,8 @@
               "Dramat",
               "Kryminał"
             ],
-            "rating": 6.5,
-            "votes": 2695
+            "rating": 6.4,
+            "votes": 3704
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/primetime",
@@ -518,9 +518,9 @@
               "Lance Oppenheim"
             ],
             "criticsRating": 86,
-            "criticsVotes": 238,
+            "criticsVotes": 237,
             "audienceRating": 77,
-            "audienceVotes": 2279
+            "audienceVotes": 2348
           }
         },
         "longDescription": "ROBERT PATTINSON w thrillerze psychologicznym PRIMETIME wciela się w Chrisa Hansena, charyzmatycznego dziennikarza, który wkracza do podziemnego świata przestępczego i pragnie zmienić oblicze telewizji. Z czasem jednak ulega własnej obsesji i w drodze na szczyt popularności zaczyna zatracać swój pierwotny cel.",
@@ -564,7 +564,7 @@
             "id": "tt25399154",
             "url": "https://www.imdb.com/title/tt25399154/",
             "rating": 7.5,
-            "votes": 2391
+            "votes": 2486
           },
           "filmweb": {
             "id": "10113205",
@@ -572,8 +572,8 @@
             "genres": [
               "Dramat historyczny"
             ],
-            "rating": 7.1,
-            "votes": 1190
+            "rating": 7.2,
+            "votes": 1301
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/rose_2026",
@@ -628,8 +628,8 @@
           "imdb": {
             "id": "tt37082105",
             "url": "https://www.imdb.com/title/tt37082105/",
-            "rating": 7.7,
-            "votes": 687
+            "rating": 7.8,
+            "votes": 841
           },
           "filmweb": {
             "id": "10057628",
@@ -639,7 +639,7 @@
               "Dramat obyczajowy"
             ],
             "rating": 7.7,
-            "votes": 19028
+            "votes": 21115
           },
           "rottenTomatoes": null
         },
@@ -683,7 +683,7 @@
             "id": "tt31450459",
             "url": "https://www.imdb.com/title/tt31450459/",
             "rating": 7.4,
-            "votes": 25020
+            "votes": 29416
           },
           "filmweb": {
             "id": "10104607",
@@ -691,8 +691,8 @@
             "genres": [
               "Czarna komedia"
             ],
-            "rating": 7.1,
-            "votes": 2106
+            "rating": 7,
+            "votes": 2653
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/digger_2026",
@@ -704,7 +704,7 @@
             "criticsRating": 53,
             "criticsVotes": 319,
             "audienceRating": 74,
-            "audienceVotes": 1481
+            "audienceVotes": 1583
           }
         },
         "longDescription": "Najpotężniejszy człowiek świata wyrusza w szaloną misję, chcąc udowodnić, że jest zbawcą ludzkości, zanim katastrofa, którą spowodował, tę ludzkość zniszczy.\n\nCruise występuje w roli tytułowej, a towarzyszą mu laureat Oscara Riz Ahmed, John Goodman, nominowana do Oscara Sandra Hüller, Michael Stuhlbarg oraz nominowany do Oscara Jesse Plemons. W pozostałych rolach występują Robert John Burke, Emma D’Arcy, Burn Gorman i Sophie Wilde.\n\nIñárritu reżyseruje na podstawie scenariusza autorstwa swojego oraz nagrodzonych Oscarem Alexandra Dinelarisa i Nicolása Giacobone’a, jak również Sabiny Berman. Autorami pomysłu są Iñárritu i Berman. Producentami filmu są Iñárritu, nominowana do Oscara Mary Parent, Cruise i Michael Sharp. Funkcję producentów wykonawczych pełnią Joshua Grode, Berman, Dinelaris, Giacobone, Jez Butterworth i Emmanuel Lubezki.\n\nDo Iñárritu po drugiej stronie kamery dołączyli jego dawni współpracownicy, tacy jak nagrodzony Oscarem operator Emmanuel Lubezki, montażyści Conor O’Neill i nagrodzony Oscarem Stephen Mirrione, nominowana do Oscara projektantka kostiumów Jacqueline West, nagrodzony Oscarem charakteryzator Alessandro Bertolazzi oraz nominowana do Oscara reżyserka castingu Francine Maisler. Oprócz nich w ekipie znaleźli się nagrodzony Oscarem scenograf Dennis Gassner i drugi scenograf Richard Johnson, jak również nagrodzony Oscarem twórca protez charakteryzatorskich Kazu Hiro i kompozytor Cosmo Sheldrake.\n\nDigger Alejandra G. Iñárritu został nakręcony w całości w formacie VistaVision. Do kin i kin IMAX® Ameryki Północnej trafi 2 października 2026 roku, a seanse na całym świecie rozpoczną się 30 września 2026 roku. Dystrybutorem filmu jest Warner Bros. Pictures.",

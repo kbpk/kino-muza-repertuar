@@ -1,0 +1,79 @@
+{
+  "schemaVersion": 1,
+  "date": "2026-11-25",
+  "updatedAt": "2026-10-12T19:49:47.793Z",
+  "source": "https://www.kinomuza.pl/repertoire/day/",
+  "day": {
+    "id": "44",
+    "date": "25.11",
+    "now": "2026-10-12 21:48:43",
+    "info": [],
+    "repertoire": [
+      {
+        "hour": "17:30",
+        "datetime": "2026-11-25 17:30:00",
+        "title": "Palestyna 36",
+        "originalTitle": "Palestine 36",
+        "director": "Annemarie Jacir",
+        "year": "2025",
+        "premiereDate": "",
+        "duration": "115",
+        "countries": "Francja, Wielka Brytania, Palestyna, Arabia Saudyjska, Katar",
+        "shortDesc": "<p>Rok 1936, mieszkańcy Palestyny powstają przeciwko brytyjskim rządom.</p>\n",
+        "lang": "",
+        "subtitlesLang": "pl",
+        "age": "16",
+        "credits": "reż. Annemarie Jacir <br>Francja, Wielka Brytania, Palestyna, Arabia Saudyjska, Katar <br>2025,115’",
+        "desc": "<p>Rok 1936, mieszkańcy Palestyny powstają przeciwko brytyjskim rządom.</p>\n",
+        "hall": "1",
+        "movieLink": "https://www.kinomuza.pl/movie/palestyna-36/",
+        "ticketLink": "https://estradapoznan.bilety24.pl/kup-bilety/?id=1002502#total",
+        "prePremier": false,
+        "tape35mm": false,
+        "ad": false,
+        "deaf": false,
+        "ticketPrice": "",
+        "ticketHalfPrice": "",
+        "alt": "Palestyna 36",
+        "thumb": "https://www.kinomuza.pl/content/uploads/2026/10/1palestyna-800x450.jpg",
+        "event": "Pokaz specjalny",
+        "description": "Rok 1936, mieszkańcy Palestyny powstają przeciwko brytyjskim rządom.",
+        "shortDescription": "Rok 1936, mieszkańcy Palestyny powstają przeciwko brytyjskim rządom.",
+        "genres": [
+          "Dramat"
+        ],
+        "external": {
+          "imdb": {
+            "id": "tt29271622",
+            "url": "https://www.imdb.com/title/tt29271622/",
+            "rating": 7.5,
+            "votes": 8434
+          },
+          "filmweb": {
+            "id": "10075691",
+            "url": "https://www.filmweb.pl/film/Palestine+36-2025-10075691",
+            "genres": [
+              "Dramat"
+            ],
+            "rating": 6.5,
+            "votes": 133
+          },
+          "rottenTomatoes": {
+            "url": "https://www.rottentomatoes.com/m/palestine_36",
+            "title": "Palestine '36",
+            "year": "2025",
+            "directors": [
+              "Annemarie Jacir"
+            ],
+            "criticsRating": 98,
+            "criticsVotes": 64,
+            "audienceRating": 99,
+            "audienceVotes": 70
+          }
+        },
+        "longDescription": "Rok 1936, mieszkańcy Palestyny powstają przeciwko brytyjskim rządom. Jusuf dzieli swoje życie pomiędzy Jerozolimą a życiem na prowincji, marząc o przyszłości wolnej od wojennej zawieruchy. W miarę jak rośnie liczba żydowskich osadników uciekających przed falą antysemityzmu w Europie, Palestyńczycy jednoczą się w akcie największego oporu w 30-letniej historii brytyjskiego panowania. Wszystkie strony stoją w obliczu nieuchronnej konfrontacji. Nadchodzą kluczowe chwile dla przyszłości Imperium Brytyjskiego i Palestyny.\n\nPokaz specjalny jest częścią ogólnopolskiej premiery filmu „PALESTYNA 36″. Film wprowadzony do polskich kin dzięki Portalowi Immersja oraz FFIPP Poland.\n\nPo pokazie odbędzie się dyskusja z gościem – Przemysławem Wielgoszem. Spotkanie poprowadzi Natalia Zajączkowska.",
+        "poster": "media/posters/0a262ebf16ff938be178.webp"
+      }
+    ]
+  }
+}

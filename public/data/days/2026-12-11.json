@@ -1,0 +1,69 @@
+{
+  "schemaVersion": 1,
+  "date": "2026-12-11",
+  "updatedAt": "2026-10-12T19:49:47.793Z",
+  "source": "https://www.kinomuza.pl/repertoire/day/",
+  "day": {
+    "id": "60",
+    "date": "11.12",
+    "now": "2026-10-12 21:48:54",
+    "info": [],
+    "repertoire": [
+      {
+        "hour": "19:00",
+        "datetime": "2026-12-11 19:00:00",
+        "title": "Risa i budka telefoniczna",
+        "originalTitle": "Risa y la cabina del viento",
+        "director": "Juan Cabral",
+        "year": "2025",
+        "premiereDate": "",
+        "duration": "94",
+        "countries": "Argentyna",
+        "shortDesc": "<p>Film pełen małych, czułych gestów, okraszonych realizmem magicznym i z muzyką argentyńskiego zespołu rockowego Babasónicos w tle.</p>\n",
+        "lang": "es",
+        "subtitlesLang": "pl+en",
+        "age": "16",
+        "credits": "reż. Juan Cabral <br>Argentyna <br>2025,94’",
+        "desc": "<p>Film pełen małych, czułych gestów, okraszonych realizmem magicznym i z muzyką argentyńskiego zespołu rockowego Babasónicos w tle.</p>\n",
+        "hall": "1",
+        "movieLink": "https://www.kinomuza.pl/movie/risa-i-budka-telefoniczna/",
+        "ticketLink": "https://estradapoznan.bilety24.pl/kup-bilety/?id=1003441#total",
+        "prePremier": false,
+        "tape35mm": false,
+        "ad": false,
+        "deaf": false,
+        "ticketPrice": "",
+        "ticketHalfPrice": "",
+        "alt": "Risa i budka telefoniczna",
+        "thumb": "https://www.kinomuza.pl/content/uploads/2026/10/risa-2-800x450.jpg",
+        "event": "FILMOWA PODRÓŻ OD USHUAI PO MEKSYK",
+        "description": "Film pełen małych, czułych gestów, okraszonych realizmem magicznym i z muzyką argentyńskiego zespołu rockowego Babasónicos w tle.",
+        "shortDescription": "Film pełen małych, czułych gestów, okraszonych realizmem magicznym i z muzyką argentyńskiego zespołu rockowego Babasónicos w tle.",
+        "genres": [],
+        "external": {
+          "imdb": {
+            "id": "tt38871399",
+            "url": "https://www.imdb.com/title/tt38871399/",
+            "rating": 7.2,
+            "votes": 431
+          },
+          "filmweb": null,
+          "rottenTomatoes": {
+            "url": "https://www.rottentomatoes.com/m/risa_y_la_cabina_del_viento",
+            "title": "Risa y la Cabina del Viento",
+            "year": "",
+            "directors": [
+              "Juan Cabral"
+            ],
+            "criticsRating": null,
+            "criticsVotes": 4,
+            "audienceRating": null,
+            "audienceVotes": 2
+          }
+        },
+        "longDescription": "Risa to wyjątkowo samodzielna 10-latka, która mieszka z mamą (w tej roli gwiazda latynoamerykańskiej muzyki, Cazzu) w miasteczku na krańcu świata. Tam, gdzie wszystko się kończy, a co innego zaczyna. Dziewczynka odkrywa, że nieczynna budka telefoniczna pozwala rozmawiać ze zmarłymi. Każdy rozmówca ma swoją historię, niedokończoną sprawę w świecie żywych. Risa pomaga spełnić zmarłym ich prośby, a w zamian oczekuje tylko jednego – rozmowy z własnym ojcem. Jej pomocnikami zostają lekko depresyjny sąsiad  (Diego Peretti) oraz chomik.\n\nFilm pełen małych, czułych gestów, okraszonych realizmem magicznym i z muzyką argentyńskiego zespołu rockowego Babasónicos w tle. “Risa i budka telefoniczna” zdobył nagrodę na najlepszego filmu i najlepszego reżysera na argentyńskim festiwalu w Mar del Plata, gdzie został przyjęty owacją na stojąco.",
+        "poster": "media/posters/b4b90b2f8208572ab06c.webp"
+      }
+    ]
+  }
+}

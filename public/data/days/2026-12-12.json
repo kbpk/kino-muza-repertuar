@@ -1,0 +1,53 @@
+{
+  "schemaVersion": 1,
+  "date": "2026-12-12",
+  "updatedAt": "2026-10-12T19:49:47.793Z",
+  "source": "https://www.kinomuza.pl/repertoire/day/",
+  "day": {
+    "id": "61",
+    "date": "12.12",
+    "now": "2026-10-12 21:48:55",
+    "info": [],
+    "repertoire": [
+      {
+        "hour": "19:00",
+        "datetime": "2026-12-12 19:00:00",
+        "title": "Wersal",
+        "originalTitle": "Versalles",
+        "director": "Andrés Clariond",
+        "year": "2025",
+        "premiereDate": "",
+        "duration": "92",
+        "countries": "Meksyk",
+        "shortDesc": "<p>Kiedy młody meksykański polityk przegrywa wybory prezydenckie, zaszywa się wraz z żoną w swojej imponującej wiejskiej posiadłości. W idyllicznych okolicznościach ich żądza władzy narasta, a para przepoczwarza się w duet despotycznych monarchów.</p>\n",
+        "lang": "es",
+        "subtitlesLang": "pl+en",
+        "age": "16",
+        "credits": "reż. Andrés Clariond <br>Meksyk <br>2025,92’",
+        "desc": "<p>Kiedy młody meksykański polityk przegrywa wybory prezydenckie, zaszywa się wraz z żoną w swojej imponującej wiejskiej posiadłości. W idyllicznych okolicznościach ich żądza władzy narasta, a para przepoczwarza się w duet despotycznych monarchów.</p>\n",
+        "hall": "1",
+        "movieLink": "https://www.kinomuza.pl/movie/wersal/",
+        "ticketLink": "https://estradapoznan.bilety24.pl/kup-bilety/?id=1003442#total",
+        "prePremier": false,
+        "tape35mm": false,
+        "ad": false,
+        "deaf": false,
+        "ticketPrice": "",
+        "ticketHalfPrice": "",
+        "alt": "Wersal",
+        "thumb": "https://www.kinomuza.pl/content/uploads/2026/10/Wersal-1-800x450.jpg",
+        "event": "FILMOWA PODRÓŻ OD USHUAI PO MEKSYK",
+        "description": "Kiedy młody meksykański polityk przegrywa wybory prezydenckie, zaszywa się wraz z żoną w swojej imponującej wiejskiej posiadłości. W idyllicznych okolicznościach ich żądza władzy narasta, a para przepoczwarza się w duet despotycznych monarchów.",
+        "shortDescription": "Kiedy młody meksykański polityk przegrywa wybory prezydenckie, zaszywa się wraz z żoną w swojej imponującej wiejskiej posiadłości. W idyllicznych okolicznościach ich żądza władzy narasta, a para przepoczwarza się w duet despotycznych monarchów.",
+        "genres": [],
+        "external": {
+          "imdb": null,
+          "filmweb": null,
+          "rottenTomatoes": null
+        },
+        "longDescription": "Kiedy młody meksykański polityk przegrywa wybory prezydenckie, zaszywa się wraz z żoną w swojej imponującej wiejskiej posiadłości. W idyllicznych okolicznościach ich żądza władzy narasta, a para przepoczwarza się w duet despotycznych monarchów. “Wersal” to groteskowa opowieść o mrocznych pragnieniach i klasowości. To także wyjątkowo prawdziwa satyra na władzę, okraszona barokowym twistem i teatralną przesadą.\n\nW roli głównej Cuautli Jiménez, znany m.in. z pokazywanej podczas pierwszej edycji LFF “Finlandii” oraz produkcji takich jak “Narcos: Meksyk” oraz “Niech żyje Meksyk”. Producentem filmu jest Nicolás Celis, twórca nagrodzonej Oscarem “Romy” Alfonsa Cuarona.",
+        "poster": "media/posters/2ff909f11a99b7c386a9.webp"
+      }
+    ]
+  }
+}

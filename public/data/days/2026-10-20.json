@@ -1,12 +1,12 @@
 {
   "schemaVersion": 1,
   "date": "2026-10-20",
-  "updatedAt": "2026-10-11T16:19:10.168Z",
+  "updatedAt": "2026-10-12T19:49:47.793Z",
   "source": "https://www.kinomuza.pl/repertoire/day/",
   "day": {
-    "id": "09",
+    "id": "08",
     "date": "20.10",
-    "now": "2026-10-11 18:18:20",
+    "now": "2026-10-12 21:47:42",
     "info": [],
     "repertoire": [
       {
@@ -47,7 +47,7 @@
             "id": "tt13609648",
             "url": "https://www.imdb.com/title/tt13609648/",
             "rating": 7.2,
-            "votes": 1752
+            "votes": 1933
           },
           "filmweb": {
             "id": "10087170",
@@ -56,8 +56,8 @@
               "Melodramat",
               "Kostiumowy"
             ],
-            "rating": 7.1,
-            "votes": 52
+            "rating": 7,
+            "votes": 56
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/sense_and_sensibility_2026",
@@ -66,8 +66,8 @@
             "directors": [
               "Georgia Oakley"
             ],
-            "criticsRating": 78,
-            "criticsVotes": 41,
+            "criticsRating": 79,
+            "criticsVotes": 43,
             "audienceRating": null,
             "audienceVotes": 14
           }
@@ -114,7 +114,7 @@
             "id": "tt4048272",
             "url": "https://www.imdb.com/title/tt4048272/",
             "rating": 7.3,
-            "votes": 55758
+            "votes": 55769
           },
           "filmweb": {
             "id": "763048",
@@ -124,7 +124,7 @@
               "Komedia"
             ],
             "rating": 7.1,
-            "votes": 22902
+            "votes": 22905
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/toni_erdmann",

@@ -1,0 +1,70 @@
+{
+  "schemaVersion": 1,
+  "date": "2026-12-10",
+  "updatedAt": "2026-10-12T19:49:47.793Z",
+  "source": "https://www.kinomuza.pl/repertoire/day/",
+  "day": {
+    "id": "59",
+    "date": "10.12",
+    "now": "2026-10-12 21:48:44",
+    "info": [],
+    "repertoire": [
+      {
+        "hour": "19:00",
+        "datetime": "2026-12-10 19:00:00",
+        "title": "Isabel",
+        "originalTitle": "",
+        "director": "Gabe Klinger",
+        "year": "2026",
+        "premiereDate": "",
+        "duration": "85",
+        "countries": "Brazylia, Francja",
+        "shortDesc": "<p>Pełna czułości i przewrotnego humoru opowieść o kobiecie, która walczy o swoje marzenia i umie rozkoszować się życiem, oraz o pozornej, zaskakującej codzienności.</p>\n",
+        "lang": "",
+        "subtitlesLang": "pl+en",
+        "age": "16",
+        "credits": "reż. Gabe Klinger <br>Brazylia, Francja <br>2026,85’",
+        "desc": "<p>Pełna czułości i przewrotnego humoru opowieść o kobiecie, która walczy o swoje marzenia i umie rozkoszować się życiem, oraz o pozornej, zaskakującej codzienności.</p>\n",
+        "hall": "1",
+        "movieLink": "https://www.kinomuza.pl/movie/isabel/",
+        "ticketLink": "https://estradapoznan.bilety24.pl/kup-bilety/?id=1003440#total",
+        "prePremier": false,
+        "tape35mm": false,
+        "ad": false,
+        "deaf": false,
+        "ticketPrice": "",
+        "ticketHalfPrice": "",
+        "alt": "Isabel",
+        "thumb": "https://www.kinomuza.pl/content/uploads/2026/10/isabel-2-800x450.jpg",
+        "event": "FILMOWA PODRÓŻ OD USHUAI PO MEKSYK",
+        "description": "Pełna czułości i przewrotnego humoru opowieść o kobiecie, która walczy o swoje marzenia i umie rozkoszować się życiem, oraz o pozornej, zaskakującej codzienności.",
+        "shortDescription": "Pełna czułości i przewrotnego humoru opowieść o kobiecie, która walczy o swoje marzenia i umie rozkoszować się życiem, oraz o pozornej, zaskakującej codzienności.",
+        "genres": [
+          "Dramat",
+          "Komedia"
+        ],
+        "external": {
+          "imdb": {
+            "id": "tt35748025",
+            "url": "https://www.imdb.com/title/tt35748025/",
+            "rating": 6.5,
+            "votes": 68
+          },
+          "filmweb": {
+            "id": "10116773",
+            "url": "https://www.filmweb.pl/film/Isabel-2026-10116773",
+            "genres": [
+              "Dramat",
+              "Komedia"
+            ],
+            "rating": 6.1,
+            "votes": 7
+          },
+          "rottenTomatoes": null
+        },
+        "longDescription": "Isabel, sommelierka z São Paulo, pracuje w jednej z ekskluzywnych restauracji w mieście. I szczerze nienawidzi tego miejsca. Marzy o otwarciu kameralnego baru z winami, w którym to ona będzie decydować o tym, co trafi do kieliszków gości. Jej plany dojrzewają powoli jak wino w beczkach. Nadchodzi jednak moment, w którym musi zaryzykować i postawić wszystko na jedną kartę.\n\n“Isabel” to pełna czułości i przewrotnego humoru opowieść o kobiecie, która walczy o swoje marzenia i umie rozkoszować się życiem, oraz o pozornej, zaskakującej codzienności. Film został wyprodukowany przez Rodrigo Teixeira, producenta m.in. nagrodzonego Oscarem “I’m Still Here”, i był pokazywany premierowo podczas tegorocznego Berlinale.",
+        "poster": "media/posters/124729f52afe7b75904c.webp"
+      }
+    ]
+  }
+}

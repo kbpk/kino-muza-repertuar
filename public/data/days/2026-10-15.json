@@ -1,12 +1,12 @@
 {
   "schemaVersion": 1,
   "date": "2026-10-15",
-  "updatedAt": "2026-10-12T19:49:47.793Z",
+  "updatedAt": "2026-10-13T17:36:34.739Z",
   "source": "https://www.kinomuza.pl/repertoire/day/",
   "day": {
-    "id": "03",
+    "id": "02",
     "date": "15.10",
-    "now": "2026-10-12 21:47:09",
+    "now": "2026-10-13 19:34:39",
     "info": [],
     "repertoire": [
       {
@@ -40,8 +40,8 @@
         "description": "Opowieść o losach młodej inżynierki Facebooka, która we współpracy z reportem z &#8222;Wall Street Journal&#8221; &#8211; stara się ujawnić skryte tajemnice portalu społecznościowego.",
         "shortDescription": "Opowieść o losach młodej inżynierki Facebooka, która we współpracy z reportem z &#8222;Wall Street Journal&#8221; &#8211; stara się ujawnić skryte tajemnice portalu społecznościowego.",
         "genres": [
-          "Biograficzny",
-          "Dramat"
+          "Dramat",
+          "Biograficzny"
         ],
         "external": {
           "imdb": {
@@ -54,11 +54,11 @@
             "id": "10095188",
             "url": "https://www.filmweb.pl/film/The+Social+Reckoning%3A+W+sieci+konsekwencji-2026-10095188",
             "genres": [
-              "Biograficzny",
-              "Dramat"
+              "Dramat",
+              "Biograficzny"
             ],
-            "rating": 6.2,
-            "votes": 724
+            "rating": 6.1,
+            "votes": 851
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/the_social_reckoning",
@@ -68,9 +68,9 @@
               "Aaron Sorkin"
             ],
             "criticsRating": 55,
-            "criticsVotes": 211,
-            "audienceRating": 74,
-            "audienceVotes": 353
+            "criticsVotes": 215,
+            "audienceRating": 73,
+            "audienceVotes": 385
           }
         },
         "longDescription": "Zobaczymy kontynuację filmu Aarona Sorkina „The Social Network” pod tytułem „The Social Reckoning: W sieci konsekwencji ”.\n\nOpowieść o losach Frances Haugen, młodej inżynierki Facebooka, która we współpracy z Jeffem Horwitzem – reportem z „Wall Street Journal” – stara się ujawnić najbardziej skryte tajemnice tego potężnego portalu społecznościowego.\n\nAaron Sorkin otrzymał Oscara za scenariusz adaptowany do filmu „The Social Network” .\n\nW nowym filmie filmie zobaczymy nominowanego do Oscara Jeremy’ego Stronga, który wcieli się w rolę Marka Zuckerberga; lauretkę Oscara, Mikey Madison, która wcieli się w rolę Frances Haugen; oraz laureata Złotego Globu i Emmy Jeremy’ego Allena White’a, który zagra reportera Wall Street Journal Jeffa Horowitza, autora serii artykułów znanych jako „The Facebook Files”. Te opublikowane w październiku 2021 r. reportaże ujawniły wewnętrzne funkcjonowanie Facebooka i wiele szkód spowodowanych przez tę platformę.",
@@ -108,9 +108,9 @@
         "description": "To komedia przygodowa, która przenosi bohaterów na dawno zapomnianą, magiczną wyspę. Warto walczyć o najlepszą przyjaźń.",
         "shortDescription": "To komedia przygodowa, która przenosi bohaterów na dawno zapomnianą, magiczną wyspę. Warto walczyć o najlepszą przyjaźń.",
         "genres": [
+          "Fantasy",
           "Animacja",
-          "Przygodowy",
-          "Fantasy"
+          "Przygodowy"
         ],
         "external": {
           "imdb": {
@@ -123,12 +123,12 @@
             "id": "10116454",
             "url": "https://www.filmweb.pl/film/Zapomniana+wyspa-2026-10116454",
             "genres": [
+              "Fantasy",
               "Animacja",
-              "Przygodowy",
-              "Fantasy"
+              "Przygodowy"
             ],
-            "rating": 6.7,
-            "votes": 595
+            "rating": 6.8,
+            "votes": 620
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/forgotten_island",
@@ -141,7 +141,7 @@
             "criticsRating": 95,
             "criticsVotes": 111,
             "audienceRating": 95,
-            "audienceVotes": 1509
+            "audienceVotes": 1530
           }
         },
         "longDescription": "Warto walczyć o najlepszą przyjaźń.\n\nDreamWorks Animation, studio, które stworzyło niezapomniane więzi między chłopcem a smokiem w filmie „Jak wytresować smoka”, ogrem i osłem w animacji „Shrek” oraz robotem i gąsiątkiem w „Dzikim robocie”. Teraz przedstawia olśniewającą i wzruszającą historię o dwójce przyjaciół na całe życie, którzy muszą się zjednoczyć.\n\nNowy film został napisany i wyreżyserowany przez nominowanych do Oscara® Joela Crawforda i Januela Mercado, a jego producentem jest nominowany do Oscara® Mark Swift, twórca filmu „Kot w butach: Ostatnie życzenie”.\n\nNagrodzone nagrodą Grammy i Oscarem® H.E.R. i Liza Soberano użyczają głosu Jo i Raissie.\n\nTo przyjaciółki od najmłodszych lat, które właśnie kończą szkołę średnią i stoją u progu zupełnie nowych etapów życia.\n\nPodczas wspólnego świętowania ostatniego wieczoru przed rozstaniem dziewczyny przypadkiem odkrywają tajemniczy portal, który przenosi je na magiczną wyspę Nakali. To niezwykła kraina pełna fantastycznych i mitycznych stworzeń, o których od dzieciństwa słyszały w opowieściach przekazywanych przez ich filipińskie rodziny.\n\nNiektóre z tych postaci staną się przyjaciółmi, inne wrogami. Jo i Raissa muszą stawić czoła najgroźniejszemu stworzeniu na wyspie.\n\nKiedy odkryją, że wspomnienia ich przyjaźni są ceną za powrót do domu, Jo i Raissa będą ścigać się, by znaleźć sposób na opuszczenie wyspy, zanim zapomną o sobie na zawsze.",
@@ -196,7 +196,7 @@
               "Kryminał"
             ],
             "rating": 6.4,
-            "votes": 3704
+            "votes": 4276
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/primetime",
@@ -206,9 +206,9 @@
               "Lance Oppenheim"
             ],
             "criticsRating": 86,
-            "criticsVotes": 237,
+            "criticsVotes": 238,
             "audienceRating": 77,
-            "audienceVotes": 2348
+            "audienceVotes": 2373
           }
         },
         "longDescription": "ROBERT PATTINSON w thrillerze psychologicznym PRIMETIME wciela się w Chrisa Hansena, charyzmatycznego dziennikarza, który wkracza do podziemnego świata przestępczego i pragnie zmienić oblicze telewizji. Z czasem jednak ulega własnej obsesji i w drodze na szczyt popularności zaczyna zatracać swój pierwotny cel.",
@@ -261,7 +261,7 @@
               "Czarna komedia"
             ],
             "rating": 7,
-            "votes": 2653
+            "votes": 2972
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/digger_2026",
@@ -271,9 +271,9 @@
               "Alejandro González Iñárritu"
             ],
             "criticsRating": 53,
-            "criticsVotes": 319,
+            "criticsVotes": 320,
             "audienceRating": 74,
-            "audienceVotes": 1583
+            "audienceVotes": 1641
           }
         },
         "longDescription": "Najpotężniejszy człowiek świata wyrusza w szaloną misję, chcąc udowodnić, że jest zbawcą ludzkości, zanim katastrofa, którą spowodował, tę ludzkość zniszczy.\n\nCruise występuje w roli tytułowej, a towarzyszą mu laureat Oscara Riz Ahmed, John Goodman, nominowana do Oscara Sandra Hüller, Michael Stuhlbarg oraz nominowany do Oscara Jesse Plemons. W pozostałych rolach występują Robert John Burke, Emma D’Arcy, Burn Gorman i Sophie Wilde.\n\nIñárritu reżyseruje na podstawie scenariusza autorstwa swojego oraz nagrodzonych Oscarem Alexandra Dinelarisa i Nicolása Giacobone’a, jak również Sabiny Berman. Autorami pomysłu są Iñárritu i Berman. Producentami filmu są Iñárritu, nominowana do Oscara Mary Parent, Cruise i Michael Sharp. Funkcję producentów wykonawczych pełnią Joshua Grode, Berman, Dinelaris, Giacobone, Jez Butterworth i Emmanuel Lubezki.\n\nDo Iñárritu po drugiej stronie kamery dołączyli jego dawni współpracownicy, tacy jak nagrodzony Oscarem operator Emmanuel Lubezki, montażyści Conor O’Neill i nagrodzony Oscarem Stephen Mirrione, nominowana do Oscara projektantka kostiumów Jacqueline West, nagrodzony Oscarem charakteryzator Alessandro Bertolazzi oraz nominowana do Oscara reżyserka castingu Francine Maisler. Oprócz nich w ekipie znaleźli się nagrodzony Oscarem scenograf Dennis Gassner i drugi scenograf Richard Johnson, jak również nagrodzony Oscarem twórca protez charakteryzatorskich Kazu Hiro i kompozytor Cosmo Sheldrake.\n\nDigger Alejandra G. Iñárritu został nakręcony w całości w formacie VistaVision. Do kin i kin IMAX® Ameryki Północnej trafi 2 października 2026 roku, a seanse na całym świecie rozpoczną się 30 września 2026 roku. Dystrybutorem filmu jest Warner Bros. Pictures.",
@@ -326,7 +326,7 @@
               "Dramat historyczny"
             ],
             "rating": 7.2,
-            "votes": 1301
+            "votes": 1398
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/rose_2026",
@@ -391,7 +391,7 @@
               "Dramat"
             ],
             "rating": 7.3,
-            "votes": 9578
+            "votes": 9579
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/the_quiet_girl",
@@ -458,7 +458,7 @@
               "Dramat obyczajowy"
             ],
             "rating": 7.7,
-            "votes": 21115
+            "votes": 22106
           },
           "rottenTomatoes": null
         },
@@ -496,8 +496,8 @@
         "description": "Poruszająca historia miłości Williama, ambitnego dramaturga i jego żony Agnes. Ich idylliczne życie zostaje zburzone, gdy wybucha epidemia dżumy, która dotyka ich dzieci.",
         "shortDescription": "Poruszająca historia miłości Williama, ambitnego dramaturga i jego żony Agnes. Ich idylliczne życie zostaje zburzone, gdy wybucha epidemia dżumy, która dotyka ich dzieci.",
         "genres": [
-          "Biograficzny",
           "Dramat",
+          "Biograficzny",
           "Kostiumowy"
         ],
         "external": {
@@ -511,12 +511,12 @@
             "id": "10035555",
             "url": "https://www.filmweb.pl/film/Hamnet-2025-10035555",
             "genres": [
-              "Biograficzny",
               "Dramat",
+              "Biograficzny",
               "Kostiumowy"
             ],
             "rating": 7.6,
-            "votes": 29845
+            "votes": 29868
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/hamnet",
@@ -565,8 +565,8 @@
         "description": "Opowieść o losach młodej inżynierki Facebooka, która we współpracy z reportem z &#8222;Wall Street Journal&#8221; &#8211; stara się ujawnić skryte tajemnice portalu społecznościowego.",
         "shortDescription": "Opowieść o losach młodej inżynierki Facebooka, która we współpracy z reportem z &#8222;Wall Street Journal&#8221; &#8211; stara się ujawnić skryte tajemnice portalu społecznościowego.",
         "genres": [
-          "Biograficzny",
-          "Dramat"
+          "Dramat",
+          "Biograficzny"
         ],
         "external": {
           "imdb": {
@@ -579,11 +579,11 @@
             "id": "10095188",
             "url": "https://www.filmweb.pl/film/The+Social+Reckoning%3A+W+sieci+konsekwencji-2026-10095188",
             "genres": [
-              "Biograficzny",
-              "Dramat"
+              "Dramat",
+              "Biograficzny"
             ],
-            "rating": 6.2,
-            "votes": 724
+            "rating": 6.1,
+            "votes": 851
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/the_social_reckoning",
@@ -593,9 +593,9 @@
               "Aaron Sorkin"
             ],
             "criticsRating": 55,
-            "criticsVotes": 211,
-            "audienceRating": 74,
-            "audienceVotes": 353
+            "criticsVotes": 215,
+            "audienceRating": 73,
+            "audienceVotes": 385
           }
         },
         "longDescription": "Zobaczymy kontynuację filmu Aarona Sorkina „The Social Network” pod tytułem „The Social Reckoning: W sieci konsekwencji ”.\n\nOpowieść o losach Frances Haugen, młodej inżynierki Facebooka, która we współpracy z Jeffem Horwitzem – reportem z „Wall Street Journal” – stara się ujawnić najbardziej skryte tajemnice tego potężnego portalu społecznościowego.\n\nAaron Sorkin otrzymał Oscara za scenariusz adaptowany do filmu „The Social Network” .\n\nW nowym filmie filmie zobaczymy nominowanego do Oscara Jeremy’ego Stronga, który wcieli się w rolę Marka Zuckerberga; lauretkę Oscara, Mikey Madison, która wcieli się w rolę Frances Haugen; oraz laureata Złotego Globu i Emmy Jeremy’ego Allena White’a, który zagra reportera Wall Street Journal Jeffa Horowitza, autora serii artykułów znanych jako „The Facebook Files”. Te opublikowane w październiku 2021 r. reportaże ujawniły wewnętrzne funkcjonowanie Facebooka i wiele szkód spowodowanych przez tę platformę.",
@@ -648,7 +648,7 @@
               "Dramat historyczny"
             ],
             "rating": 7.2,
-            "votes": 1301
+            "votes": 1398
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/rose_2026",
@@ -715,7 +715,7 @@
               "Dramat obyczajowy"
             ],
             "rating": 7.7,
-            "votes": 21115
+            "votes": 22106
           },
           "rottenTomatoes": null
         },
@@ -771,7 +771,7 @@
               "Kryminał"
             ],
             "rating": 6.4,
-            "votes": 3704
+            "votes": 4276
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/primetime",
@@ -781,9 +781,9 @@
               "Lance Oppenheim"
             ],
             "criticsRating": 86,
-            "criticsVotes": 237,
+            "criticsVotes": 238,
             "audienceRating": 77,
-            "audienceVotes": 2348
+            "audienceVotes": 2373
           }
         },
         "longDescription": "ROBERT PATTINSON w thrillerze psychologicznym PRIMETIME wciela się w Chrisa Hansena, charyzmatycznego dziennikarza, który wkracza do podziemnego świata przestępczego i pragnie zmienić oblicze telewizji. Z czasem jednak ulega własnej obsesji i w drodze na szczyt popularności zaczyna zatracać swój pierwotny cel.",

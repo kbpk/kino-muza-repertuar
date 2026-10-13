@@ -1,12 +1,12 @@
 {
   "schemaVersion": 1,
   "date": "2026-10-27",
-  "updatedAt": "2026-10-12T19:49:47.793Z",
+  "updatedAt": "2026-10-13T17:36:34.739Z",
   "source": "https://www.kinomuza.pl/repertoire/day/",
   "day": {
-    "id": "15",
+    "id": "14",
     "date": "27.10",
-    "now": "2026-10-12 21:48:14",
+    "now": "2026-10-13 19:35:19",
     "info": [],
     "repertoire": [
       {
@@ -40,9 +40,9 @@
         "description": "Mistrzowski thriller, w którym poszukiwanie odpowiedzi na pytanie czy zabiła ? ogląda się jak pełną napięcia intrygę rodem z Zaginionej dziewczyny  Davida Finchera.",
         "shortDescription": "Mistrzowski thriller, w którym poszukiwanie odpowiedzi na pytanie czy zabiła ? ogląda się jak pełną napięcia intrygę rodem z Zaginionej dziewczyny  Davida Finchera.",
         "genres": [
-          "Kryminał",
           "Dramat",
-          "Thriller"
+          "Thriller",
+          "Kryminał"
         ],
         "external": {
           "imdb": {
@@ -55,12 +55,12 @@
             "id": "10032723",
             "url": "https://www.filmweb.pl/film/Anatomia+upadku-2023-10032723",
             "genres": [
-              "Kryminał",
               "Dramat",
-              "Thriller"
+              "Thriller",
+              "Kryminał"
             ],
             "rating": 7.1,
-            "votes": 68476
+            "votes": 68491
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/anatomy_of_a_fall",

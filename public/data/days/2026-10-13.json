@@ -1,12 +1,12 @@
 {
   "schemaVersion": 1,
   "date": "2026-10-13",
-  "updatedAt": "2026-10-12T19:49:47.793Z",
+  "updatedAt": "2026-10-13T17:36:34.739Z",
   "source": "https://www.kinomuza.pl/repertoire/day/",
   "day": {
-    "id": "01",
+    "id": "00",
     "date": "13.10",
-    "now": "2026-10-12 21:47:20",
+    "now": "2026-10-13 19:34:38",
     "info": [],
     "repertoire": [
       {
@@ -572,7 +572,7 @@
               "Dramat"
             ],
             "rating": 6.3,
-            "votes": 2374
+            "votes": 2376
           },
           "rottenTomatoes": null
         },
@@ -627,7 +627,7 @@
               "Dramat obyczajowy"
             ],
             "rating": 7.7,
-            "votes": 21115
+            "votes": 22106
           },
           "rottenTomatoes": null
         },
@@ -682,7 +682,7 @@
               "Kryminał"
             ],
             "rating": 6.4,
-            "votes": 3704
+            "votes": 4276
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/primetime",
@@ -692,9 +692,9 @@
               "Lance Oppenheim"
             ],
             "criticsRating": 86,
-            "criticsVotes": 237,
+            "criticsVotes": 238,
             "audienceRating": 77,
-            "audienceVotes": 2348
+            "audienceVotes": 2373
           }
         },
         "longDescription": "ROBERT PATTINSON w thrillerze psychologicznym PRIMETIME wciela się w Chrisa Hansena, charyzmatycznego dziennikarza, który wkracza do podziemnego świata przestępczego i pragnie zmienić oblicze telewizji. Z czasem jednak ulega własnej obsesji i w drodze na szczyt popularności zaczyna zatracać swój pierwotny cel.",

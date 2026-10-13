@@ -1,14 +1,395 @@
 {
   "schemaVersion": 1,
   "date": "2026-10-20",
-  "updatedAt": "2026-10-12T19:49:47.793Z",
+  "updatedAt": "2026-10-13T17:36:34.739Z",
   "source": "https://www.kinomuza.pl/repertoire/day/",
   "day": {
-    "id": "08",
+    "id": "07",
     "date": "20.10",
-    "now": "2026-10-12 21:47:42",
+    "now": "2026-10-13 19:34:40",
     "info": [],
     "repertoire": [
+      {
+        "hour": "14:15",
+        "datetime": "2026-10-20 14:15:00",
+        "title": "Róża",
+        "originalTitle": "Rose",
+        "director": "Markus Schleinzer",
+        "year": "2026",
+        "premiereDate": "2026-10-09",
+        "duration": "93",
+        "countries": "Niemcy, Austria",
+        "shortDesc": "<p>Oto prawdziwa historia oszustki, która zwodziła władze i lud. Urodziła się kobietą, acz nosiła po męsku i pod fałszywym imieniem dopuściła wielu niecnych czynów.</p>\n",
+        "lang": "de",
+        "subtitlesLang": "pl",
+        "age": "16",
+        "credits": "reż. Markus Schleinzer <br>Niemcy, Austria <br>2026,93’",
+        "desc": "<p>Oto prawdziwa historia oszustki, która zwodziła władze i lud. Urodziła się kobietą, acz nosiła po męsku i pod fałszywym imieniem dopuściła wielu niecnych czynów.</p>\n",
+        "hall": "2",
+        "movieLink": "https://www.kinomuza.pl/movie/roza/",
+        "ticketLink": "https://estradapoznan.bilety24.pl/kup-bilety/?id=1004224#total",
+        "prePremier": false,
+        "tape35mm": false,
+        "ad": false,
+        "deaf": false,
+        "ticketPrice": "",
+        "ticketHalfPrice": "",
+        "alt": "Róża",
+        "thumb": "https://www.kinomuza.pl/content/uploads/2026/08/róża-1-800x450.jpg",
+        "description": "Oto prawdziwa historia oszustki, która zwodziła władze i lud. Urodziła się kobietą, acz nosiła po męsku i pod fałszywym imieniem dopuściła wielu niecnych czynów.",
+        "shortDescription": "Oto prawdziwa historia oszustki, która zwodziła władze i lud. Urodziła się kobietą, acz nosiła po męsku i pod fałszywym imieniem dopuściła wielu niecnych czynów.",
+        "genres": [
+          "Dramat historyczny"
+        ],
+        "external": {
+          "imdb": {
+            "id": "tt25399154",
+            "url": "https://www.imdb.com/title/tt25399154/",
+            "rating": 7.5,
+            "votes": 2486
+          },
+          "filmweb": {
+            "id": "10113205",
+            "url": "https://www.filmweb.pl/film/R%C3%B3%C5%BCa-2026-10113205",
+            "genres": [
+              "Dramat historyczny"
+            ],
+            "rating": 7.2,
+            "votes": 1398
+          },
+          "rottenTomatoes": {
+            "url": "https://www.rottentomatoes.com/m/rose_2026",
+            "title": "Rose (2026)",
+            "year": "2026",
+            "directors": [
+              "Markus Schleinzer"
+            ],
+            "criticsRating": 97,
+            "criticsVotes": 32,
+            "audienceRating": null,
+            "audienceVotes": null
+          }
+        },
+        "longDescription": "Oto prawdziwa historia oszustki, która zwodziła władze i lud. Urodziła się kobietą, acz nosiła po męsku i pod fałszywym imieniem dopuściła wielu niecnych czynów.\n\n„Róża” to jeden z najgłośniejszych tytułów ostatniego Berlinale za sprawą brawurowej roli Sandry Hüller, nagrodzonej Srebrnym Niedźwiedziem za tytułową kreację. Aktorka znana z „Anatomii upadku”, „Projektu Hail Mary”, „Strefy interesów” i „Toniego Erdmanna” wciela się tym razem w tajemniczego żołnierza. Do tej roli przeszła nie tylko niezwykłą fizyczną metamorfozę, ukrywając kobiecość pod męskim strojem, ale też fenomenalnie połączyła szorstkość z łagodnością i humorem.\n\nDo położonej na uboczu wsi przybywa naznaczony wojną żołnierz, który podaje się za spadkobiercę porzuconego gospodarstwa. Obcy budzi początkowo nieufność, ale szybko przekonuje do siebie wieśniaków dzięki przywiezionym dokumentom, niepospolitej pracowitości i gotowości, by podporządkować się surowym regułom protestanckiej wspólnoty. W okrutnych realiach XVII-wiecznych Niemiec ktoś, kto nie ma żadnych praw, może być sobą wyłącznie w przebraniu – dlatego tytułowa postać musi skrzętnie ukrywać swoją prawdziwą naturę i tożsamość.\n\n„Róża” jest przewrotną opowieścią o cenie wolności i o odwadze życia na własnych zasadach. Kwestionujący patriarchalny przywilej i binarny podział płci, chłodno analizujący mechanizmy społeczne, film Markusa Schleinzera okazuje się zaskakująco współczesny. Choć minimalistyczny, to pieczołowicie odtwarza detale życia XVII-wiecznej niemieckiej wsi, a eleganckie, surowe zdjęcia budują gęstą atmosferę narastającego zagrożenia. Schleinzer, podobnie jak Robert Eggers, jest mistrzem stylizacji i niepokojącej aury. Dla obu historia bywa pretekstem do filmowej przypowieści o naszych czasach. „Róża” składa hołd tym, którzy przetarli nam ścieżki, ale też przypomina, że prawo do bycia sobą jest zdobyczą, o którą wciąż trzeba walczyć.\n\nFilm dostępny z audiodeskrypcją lub lektorem. Skorzystaj bezpłatnie z aplikacji Kino Dostępne 2.0 w Twoim telefonie – http://kinodostepne.pl",
+        "poster": "media/posters/f190e242c80162aa1316.webp"
+      },
+      {
+        "hour": "14:30",
+        "datetime": "2026-10-20 14:30:00",
+        "title": "Lalka",
+        "originalTitle": "",
+        "director": "Maciej Kawalski",
+        "year": "2026",
+        "premiereDate": "2026-09-30",
+        "duration": "162",
+        "countries": "Polska",
+        "shortDesc": "<p>Dzieło Prusa od blisko 140 lat rozpala emocje i wyobraźnię kolejnych pokoleń. Teraz ta ponadczasowa historia trafia na wielki ekran w nowej, spektakularnej, filmowej odsłonie.</p>\n",
+        "lang": "pl",
+        "subtitlesLang": "",
+        "age": "16",
+        "credits": "reż. Maciej Kawalski <br>Polska <br>2026,162’",
+        "desc": "<p>Dzieło Prusa od blisko 140 lat rozpala emocje i wyobraźnię kolejnych pokoleń. Teraz ta ponadczasowa historia trafia na wielki ekran w nowej, spektakularnej, filmowej odsłonie.</p>\n",
+        "hall": "1",
+        "movieLink": "https://www.kinomuza.pl/movie/lalka/",
+        "ticketLink": "https://estradapoznan.bilety24.pl/kup-bilety/?id=1004198#total",
+        "prePremier": false,
+        "tape35mm": false,
+        "ad": false,
+        "deaf": false,
+        "ticketPrice": "",
+        "ticketHalfPrice": "",
+        "alt": "Lalka",
+        "thumb": "https://www.kinomuza.pl/content/uploads/2026/09/lalka-2-800x450.jpg",
+        "description": "Dzieło Prusa od blisko 140 lat rozpala emocje i wyobraźnię kolejnych pokoleń. Teraz ta ponadczasowa historia trafia na wielki ekran w nowej, spektakularnej, filmowej odsłonie.",
+        "shortDescription": "Dzieło Prusa od blisko 140 lat rozpala emocje i wyobraźnię kolejnych pokoleń. Teraz ta ponadczasowa historia trafia na wielki ekran w nowej, spektakularnej, filmowej odsłonie.",
+        "genres": [
+          "Kostiumowy",
+          "Dramat obyczajowy"
+        ],
+        "external": {
+          "imdb": {
+            "id": "tt37082105",
+            "url": "https://www.imdb.com/title/tt37082105/",
+            "rating": 7.8,
+            "votes": 841
+          },
+          "filmweb": {
+            "id": "10057628",
+            "url": "https://www.filmweb.pl/film/Lalka-2026-10057628",
+            "genres": [
+              "Kostiumowy",
+              "Dramat obyczajowy"
+            ],
+            "rating": 7.7,
+            "votes": 22106
+          },
+          "rottenTomatoes": null
+        },
+        "longDescription": "Dzieło Bolesława Prusa od blisko 140 lat rozpala emocje i wyobraźnię kolejnych pokoleń. Teraz ta ponadczasowa historia trafia na wielki ekran w nowej, spektakularnej, filmowej odsłonie. „Lalka” to zrealizowana z ogromnym rozmachem superprodukcja i najbardziej gwiazdorski film w historii polskiego kina, gdzie pośród wielu wybitnych nazwisk, w rolach głównych występują: Marcin Dorociński jako Stanisław Wokulski, gwiazda „Chłopów” – Kamila Urzędowska jako Izabela Łęcka oraz powracający na wielki ekran po 16 latach Marek Kondrat w roli Ignacego Rzeckiego. Nowa ekranizacja „Lalki” to opowiedziana ze współczesną wrażliwością przejmująca, uniwersalna historia o miłości i niespełnieniu, o aspiracjach i przemianie, o świecie, który właśnie się kończy. To film, który zdarza się raz na kilka dekad: epicki, pełen emocji, zrealizowany z imponującą scenografią, dopracowanymi w najdrobniejszych detalach kostiumami i charakteryzacją oraz prawdziwie gwiazdorską obsadą.\n\nWarszawa końca XIX wieku. Serce Stanisława Wokulskiego (Marcin Dorociński) owładnięte jest szaloną miłością do Izabeli Łęckiej (Kamila Urzędowska). On, dzięki fortunie zdobytej na wojnie, powraca do kraju i postanawia wkroczyć do świata wyższych sfer, aby zdobyć rękę ukochanej. Ona jest olśniewająca i wyniosła, lecz mimo arystokratycznego pochodzenia zmaga się z widmem finansowej ruiny. U boku Wokulskiego stoi jego wierny przyjaciel – Ignacy Rzecki (Marek Kondrat), romantyk, który z nostalgią obserwuje, jak świat ideałów ustępuje miejsca społecznym aspiracjom i bezwzględnej grze interesów. Wokulski wkracza w labirynt arystokratycznych salonów, gdzie każdy gest może być początkiem intrygi, a każde słowo – zapowiedzią zdrady. Stający na jego drodze rywale, niespodziewane sojusze i dramatyczne wybory wystawią na próbę jego marzenia i wiarę w ludzi. To opowieść o miłosnym zauroczeniu, które zmienia losy bohaterów i zaciera granice między sercem a rozumem.\n\nFilm dostępny z audiodeskrypcją lub lektorem. Skorzystaj bezpłatnie z aplikacji Kino Dostępne 2.0 w Twoim telefonie – http://kinodostepne.pl",
+        "poster": "media/posters/2f797fdbd82b582ae91e.webp"
+      },
+      {
+        "hour": "15:15",
+        "datetime": "2026-10-20 15:15:00",
+        "title": "The Social Reckoning: W sieci konsekwencji",
+        "originalTitle": "The Social Reckoning",
+        "director": "Aaron Sorkin",
+        "year": "2026",
+        "premiereDate": "2026-10-09",
+        "duration": "112",
+        "countries": "USA",
+        "shortDesc": "<p>Opowieść o losach młodej inżynierki Facebooka, która we współpracy z reportem z &#8222;Wall Street Journal&#8221; &#8211; stara się ujawnić skryte tajemnice portalu społecznościowego.</p>\n",
+        "lang": "en",
+        "subtitlesLang": "pl",
+        "age": "16",
+        "credits": "reż. Aaron Sorkin <br>USA <br>2026,112’",
+        "desc": "<p>Opowieść o losach młodej inżynierki Facebooka, która we współpracy z reportem z &#8222;Wall Street Journal&#8221; &#8211; stara się ujawnić skryte tajemnice portalu społecznościowego.</p>\n",
+        "hall": "3",
+        "movieLink": "https://www.kinomuza.pl/movie/the-social-reckoning-w-sieci-konsekwencji/",
+        "ticketLink": "https://estradapoznan.bilety24.pl/kup-bilety/?id=1004257#total",
+        "prePremier": false,
+        "tape35mm": false,
+        "ad": false,
+        "deaf": false,
+        "ticketPrice": "",
+        "ticketHalfPrice": "",
+        "alt": "The Social Reckoning: W sieci konsekwencji",
+        "thumb": "https://www.kinomuza.pl/content/uploads/2026/09/socialnetwork-1-800x450.jpg",
+        "description": "Opowieść o losach młodej inżynierki Facebooka, która we współpracy z reportem z &#8222;Wall Street Journal&#8221; &#8211; stara się ujawnić skryte tajemnice portalu społecznościowego.",
+        "shortDescription": "Opowieść o losach młodej inżynierki Facebooka, która we współpracy z reportem z &#8222;Wall Street Journal&#8221; &#8211; stara się ujawnić skryte tajemnice portalu społecznościowego.",
+        "genres": [
+          "Dramat",
+          "Biograficzny"
+        ],
+        "external": {
+          "imdb": {
+            "id": "tt37510326",
+            "url": "https://www.imdb.com/title/tt37510326/",
+            "rating": 6.8,
+            "votes": 3491
+          },
+          "filmweb": {
+            "id": "10095188",
+            "url": "https://www.filmweb.pl/film/The+Social+Reckoning%3A+W+sieci+konsekwencji-2026-10095188",
+            "genres": [
+              "Dramat",
+              "Biograficzny"
+            ],
+            "rating": 6.1,
+            "votes": 851
+          },
+          "rottenTomatoes": {
+            "url": "https://www.rottentomatoes.com/m/the_social_reckoning",
+            "title": "The Social Reckoning",
+            "year": "2026",
+            "directors": [
+              "Aaron Sorkin"
+            ],
+            "criticsRating": 55,
+            "criticsVotes": 215,
+            "audienceRating": 73,
+            "audienceVotes": 385
+          }
+        },
+        "longDescription": "Zobaczymy kontynuację filmu Aarona Sorkina „The Social Network” pod tytułem „The Social Reckoning: W sieci konsekwencji ”.\n\nOpowieść o losach Frances Haugen, młodej inżynierki Facebooka, która we współpracy z Jeffem Horwitzem – reportem z „Wall Street Journal” – stara się ujawnić najbardziej skryte tajemnice tego potężnego portalu społecznościowego.\n\nAaron Sorkin otrzymał Oscara za scenariusz adaptowany do filmu „The Social Network” .\n\nW nowym filmie filmie zobaczymy nominowanego do Oscara Jeremy’ego Stronga, który wcieli się w rolę Marka Zuckerberga; lauretkę Oscara, Mikey Madison, która wcieli się w rolę Frances Haugen; oraz laureata Złotego Globu i Emmy Jeremy’ego Allena White’a, który zagra reportera Wall Street Journal Jeffa Horowitza, autora serii artykułów znanych jako „The Facebook Files”. Te opublikowane w październiku 2021 r. reportaże ujawniły wewnętrzne funkcjonowanie Facebooka i wiele szkód spowodowanych przez tę platformę.",
+        "poster": "media/posters/ceb2ce2d483fb58b1a97.webp"
+      },
+      {
+        "hour": "16:00",
+        "datetime": "2026-10-20 16:00:00",
+        "title": "Primetime",
+        "originalTitle": "",
+        "director": "Lance Oppenheim",
+        "year": "2026",
+        "premiereDate": "2026-10-09",
+        "duration": "107",
+        "countries": "USA",
+        "shortDesc": "<p>Charyzmatyczny dziennikarz wkracza do podziemnego świata przestępczego i pragnie zmienić oblicze telewizji. Ulega własnej obsesji i w drodze na szczyt popularności zaczyna zatracać swój pierwotny cel.</p>\n",
+        "lang": "en",
+        "subtitlesLang": "pl",
+        "age": "16",
+        "credits": "reż.  Lance Oppenheim <br>USA <br>2026,107’",
+        "desc": "<p>Charyzmatyczny dziennikarz wkracza do podziemnego świata przestępczego i pragnie zmienić oblicze telewizji. Ulega własnej obsesji i w drodze na szczyt popularności zaczyna zatracać swój pierwotny cel.</p>\n",
+        "hall": "2",
+        "movieLink": "https://www.kinomuza.pl/movie/primetime/",
+        "ticketLink": "https://estradapoznan.bilety24.pl/kup-bilety/?id=1004225#total",
+        "prePremier": false,
+        "tape35mm": false,
+        "ad": false,
+        "deaf": false,
+        "ticketPrice": "",
+        "ticketHalfPrice": "",
+        "alt": "Primetime",
+        "thumb": "https://www.kinomuza.pl/content/uploads/2026/08/primetime-3-800x450.jpg",
+        "description": "Charyzmatyczny dziennikarz wkracza do podziemnego świata przestępczego i pragnie zmienić oblicze telewizji. Ulega własnej obsesji i w drodze na szczyt popularności zaczyna zatracać swój pierwotny cel.",
+        "shortDescription": "Charyzmatyczny dziennikarz wkracza do podziemnego świata przestępczego i pragnie zmienić oblicze telewizji. Ulega własnej obsesji i w drodze na szczyt popularności zaczyna zatracać swój pierwotny cel.",
+        "genres": [
+          "Dramat",
+          "Kryminał"
+        ],
+        "external": {
+          "imdb": {
+            "id": "tt34206385",
+            "url": "https://www.imdb.com/title/tt34206385/",
+            "rating": 7.1,
+            "votes": 16630
+          },
+          "filmweb": {
+            "id": "10115409",
+            "url": "https://www.filmweb.pl/film/Primetime-2026-10115409",
+            "genres": [
+              "Dramat",
+              "Kryminał"
+            ],
+            "rating": 6.4,
+            "votes": 4276
+          },
+          "rottenTomatoes": {
+            "url": "https://www.rottentomatoes.com/m/primetime",
+            "title": "Primetime",
+            "year": "2026",
+            "directors": [
+              "Lance Oppenheim"
+            ],
+            "criticsRating": 86,
+            "criticsVotes": 238,
+            "audienceRating": 77,
+            "audienceVotes": 2373
+          }
+        },
+        "longDescription": "ROBERT PATTINSON w thrillerze psychologicznym PRIMETIME wciela się w Chrisa Hansena, charyzmatycznego dziennikarza, który wkracza do podziemnego świata przestępczego i pragnie zmienić oblicze telewizji. Z czasem jednak ulega własnej obsesji i w drodze na szczyt popularności zaczyna zatracać swój pierwotny cel.",
+        "poster": "media/posters/1daa26da6313e0bd16e7.webp"
+      },
+      {
+        "hour": "17:15",
+        "datetime": "2026-10-20 17:15:00",
+        "title": "Róża",
+        "originalTitle": "Rose",
+        "director": "Markus Schleinzer",
+        "year": "2026",
+        "premiereDate": "2026-10-09",
+        "duration": "93",
+        "countries": "Niemcy, Austria",
+        "shortDesc": "<p>Oto prawdziwa historia oszustki, która zwodziła władze i lud. Urodziła się kobietą, acz nosiła po męsku i pod fałszywym imieniem dopuściła wielu niecnych czynów.</p>\n",
+        "lang": "de",
+        "subtitlesLang": "pl",
+        "age": "16",
+        "credits": "reż. Markus Schleinzer <br>Niemcy, Austria <br>2026,93’",
+        "desc": "<p>Oto prawdziwa historia oszustki, która zwodziła władze i lud. Urodziła się kobietą, acz nosiła po męsku i pod fałszywym imieniem dopuściła wielu niecnych czynów.</p>\n",
+        "hall": "3",
+        "movieLink": "https://www.kinomuza.pl/movie/roza/",
+        "ticketLink": "https://estradapoznan.bilety24.pl/kup-bilety/?id=1004258#total",
+        "prePremier": false,
+        "tape35mm": false,
+        "ad": false,
+        "deaf": false,
+        "ticketPrice": "",
+        "ticketHalfPrice": "",
+        "alt": "Róża",
+        "thumb": "https://www.kinomuza.pl/content/uploads/2026/08/róża-1-800x450.jpg",
+        "description": "Oto prawdziwa historia oszustki, która zwodziła władze i lud. Urodziła się kobietą, acz nosiła po męsku i pod fałszywym imieniem dopuściła wielu niecnych czynów.",
+        "shortDescription": "Oto prawdziwa historia oszustki, która zwodziła władze i lud. Urodziła się kobietą, acz nosiła po męsku i pod fałszywym imieniem dopuściła wielu niecnych czynów.",
+        "genres": [
+          "Dramat historyczny"
+        ],
+        "external": {
+          "imdb": {
+            "id": "tt25399154",
+            "url": "https://www.imdb.com/title/tt25399154/",
+            "rating": 7.5,
+            "votes": 2486
+          },
+          "filmweb": {
+            "id": "10113205",
+            "url": "https://www.filmweb.pl/film/R%C3%B3%C5%BCa-2026-10113205",
+            "genres": [
+              "Dramat historyczny"
+            ],
+            "rating": 7.2,
+            "votes": 1398
+          },
+          "rottenTomatoes": {
+            "url": "https://www.rottentomatoes.com/m/rose_2026",
+            "title": "Rose (2026)",
+            "year": "2026",
+            "directors": [
+              "Markus Schleinzer"
+            ],
+            "criticsRating": 97,
+            "criticsVotes": 32,
+            "audienceRating": null,
+            "audienceVotes": null
+          }
+        },
+        "longDescription": "Oto prawdziwa historia oszustki, która zwodziła władze i lud. Urodziła się kobietą, acz nosiła po męsku i pod fałszywym imieniem dopuściła wielu niecnych czynów.\n\n„Róża” to jeden z najgłośniejszych tytułów ostatniego Berlinale za sprawą brawurowej roli Sandry Hüller, nagrodzonej Srebrnym Niedźwiedziem za tytułową kreację. Aktorka znana z „Anatomii upadku”, „Projektu Hail Mary”, „Strefy interesów” i „Toniego Erdmanna” wciela się tym razem w tajemniczego żołnierza. Do tej roli przeszła nie tylko niezwykłą fizyczną metamorfozę, ukrywając kobiecość pod męskim strojem, ale też fenomenalnie połączyła szorstkość z łagodnością i humorem.\n\nDo położonej na uboczu wsi przybywa naznaczony wojną żołnierz, który podaje się za spadkobiercę porzuconego gospodarstwa. Obcy budzi początkowo nieufność, ale szybko przekonuje do siebie wieśniaków dzięki przywiezionym dokumentom, niepospolitej pracowitości i gotowości, by podporządkować się surowym regułom protestanckiej wspólnoty. W okrutnych realiach XVII-wiecznych Niemiec ktoś, kto nie ma żadnych praw, może być sobą wyłącznie w przebraniu – dlatego tytułowa postać musi skrzętnie ukrywać swoją prawdziwą naturę i tożsamość.\n\n„Róża” jest przewrotną opowieścią o cenie wolności i o odwadze życia na własnych zasadach. Kwestionujący patriarchalny przywilej i binarny podział płci, chłodno analizujący mechanizmy społeczne, film Markusa Schleinzera okazuje się zaskakująco współczesny. Choć minimalistyczny, to pieczołowicie odtwarza detale życia XVII-wiecznej niemieckiej wsi, a eleganckie, surowe zdjęcia budują gęstą atmosferę narastającego zagrożenia. Schleinzer, podobnie jak Robert Eggers, jest mistrzem stylizacji i niepokojącej aury. Dla obu historia bywa pretekstem do filmowej przypowieści o naszych czasach. „Róża” składa hołd tym, którzy przetarli nam ścieżki, ale też przypomina, że prawo do bycia sobą jest zdobyczą, o którą wciąż trzeba walczyć.\n\nFilm dostępny z audiodeskrypcją lub lektorem. Skorzystaj bezpłatnie z aplikacji Kino Dostępne 2.0 w Twoim telefonie – http://kinodostepne.pl",
+        "poster": "media/posters/f190e242c80162aa1316.webp"
+      },
+      {
+        "hour": "17:30",
+        "datetime": "2026-10-20 17:30:00",
+        "title": "Rozważna i romantyczna",
+        "originalTitle": "Sense and Sensibility",
+        "director": "Georgia Oakley",
+        "year": "2026",
+        "premiereDate": "2026-10-16",
+        "duration": "131",
+        "countries": "USA",
+        "shortDesc": "<p>Akcja, osadzona w Anglii epoki georgiańskiej, podąża za losami zamożnego pana Dashwooda, który umiera, pozostawiając swoją drugą żonę oraz trzy córki w trudnej sytuacji finansowej.</p>\n",
+        "lang": "en",
+        "subtitlesLang": "pl",
+        "age": "16",
+        "credits": "reż. Georgia Oakley <br>USA <br>2026,131’",
+        "desc": "<p>Akcja, osadzona w Anglii epoki georgiańskiej, podąża za losami zamożnego pana Dashwooda, który umiera, pozostawiając swoją drugą żonę oraz trzy córki w trudnej sytuacji finansowej.</p>\n",
+        "hall": "1",
+        "movieLink": "https://www.kinomuza.pl/movie/rozwazna-i-romantyczna-2/",
+        "ticketLink": "https://estradapoznan.bilety24.pl/kup-bilety/?id=1004199#total",
+        "prePremier": false,
+        "tape35mm": false,
+        "ad": false,
+        "deaf": false,
+        "ticketPrice": "",
+        "ticketHalfPrice": "",
+        "alt": "Rozważna i romantyczna",
+        "thumb": "https://www.kinomuza.pl/content/uploads/2026/08/romantyczna-5-800x450.jpg",
+        "description": "Akcja, osadzona w Anglii epoki georgiańskiej, podąża za losami zamożnego pana Dashwooda, który umiera, pozostawiając swoją drugą żonę oraz trzy córki w trudnej sytuacji finansowej.",
+        "shortDescription": "Akcja, osadzona w Anglii epoki georgiańskiej, podąża za losami zamożnego pana Dashwooda, który umiera, pozostawiając swoją drugą żonę oraz trzy córki w trudnej sytuacji finansowej.",
+        "genres": [
+          "Melodramat",
+          "Kostiumowy"
+        ],
+        "external": {
+          "imdb": {
+            "id": "tt13609648",
+            "url": "https://www.imdb.com/title/tt13609648/",
+            "rating": 7.2,
+            "votes": 1933
+          },
+          "filmweb": {
+            "id": "10087170",
+            "url": "https://www.filmweb.pl/film/Rozwa%C5%BCna+i+romantyczna-2026-10087170",
+            "genres": [
+              "Melodramat",
+              "Kostiumowy"
+            ],
+            "rating": 7,
+            "votes": 57
+          },
+          "rottenTomatoes": {
+            "url": "https://www.rottentomatoes.com/m/sense_and_sensibility_2026",
+            "title": "Sense and Sensibility (2026)",
+            "year": "2026",
+            "directors": [
+              "Georgia Oakley"
+            ],
+            "criticsRating": 79,
+            "criticsVotes": 47,
+            "audienceRating": null,
+            "audienceVotes": 15
+          }
+        },
+        "longDescription": "Georgeia Oakley jest reżyserką nowej interpretacji  Rozważnej i romantycznej  Jane Austen. To produkcja Working Title, oparta na scenariuszu Diany Reid, w rolach głównych zobaczymy: Daisy Edgar-Jones, Esmé Creed-Miles, Caitríonę Balfe, Franka Dillane’a, Herberta Nordruma, Bodhi Rae Breathnach, George’a MacKaya oraz Fionę Shaw.\n\nAkcja, osadzona w Anglii epoki georgiańskiej, podąża za losami zamożnego pana Dashwooda, który umiera, pozostawiając swoją drugą żonę oraz trzy córki w trudnej sytuacji finansowej. Kobiety przenoszą się do skromnej wiejskiej posiadłości, gdzie dwie starsze siostry rywalizują o względy różnych adoratorów, poszukując prawdziwej miłości.\n\nProducentami filmu są: Tim Bevan i Eric Fellner z Working Title, a także India Flint z November Pictures oraz Jo Wallett z Kiddo Films. Working Title i Focus wcześniej współpracowały przy filmowej adaptacji  Dumy i uprzedzenia  z 2005 roku, która zdobyła cztery nominacje do Oscara, oraz przy kinowej wersji  Emmy  z 2020 roku.\n\nRozważna i romantyczna  trafiła na ekrany również w 1995 roku ze studia Sony Pictures Classics — film w reżyserii Anga Lee, ze scenariuszem Emmy Thompson, nagrodzonej Oscarem za najlepszy scenariusz adaptowany. Thompson zagrała także Elinor Dashwood, a Kate Winslet wcieliła się w Marianne. Produkcja otrzymała w sumie siedem nominacji do Oscara i zarobiła ponad 134 miliony dolarów na świecie.",
+        "poster": "media/posters/f97dfdbb297b0bd5c374.webp"
+      },
       {
         "hour": "18:00",
         "datetime": "2026-10-20 18:00:00",
@@ -57,7 +438,7 @@
               "Kostiumowy"
             ],
             "rating": 7,
-            "votes": 56
+            "votes": 57
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/sense_and_sensibility_2026",
@@ -67,13 +448,68 @@
               "Georgia Oakley"
             ],
             "criticsRating": 79,
-            "criticsVotes": 43,
+            "criticsVotes": 47,
             "audienceRating": null,
-            "audienceVotes": 14
+            "audienceVotes": 15
           }
         },
         "longDescription": "FILMOCZULE DLA EDUKACJI to comiesięczny cykl kameralnych seansów filmowych dla Nauczycielek i Nauczycieli, organizowany przez Kino Muza we współpracy z Ośrodkiem Doskonalenia Nauczycieli w Poznaniu oraz Wydziałem Zdrowia i Spraw Społecznych UMP. Każde spotkanie to pokaz wyselekcjonowanego filmu połączony z prelekcją i rozmową, która inspiruje do refleksji nad edukacją, zdrowiem, emocjami i wyzwaniami szkolnej codzienności. Wspólnie szukamy filmowych tropów dydaktycznych, rozmawiamy o profilaktyce i wspieramy się w budowaniu wrażliwszej szkoły – a przy tym wszystkim po prostu oglądamy i przeżywamy wartościowe kino w miłej atmosferze. Do zobaczenia!\n\n“ROZWAŻNA I ROMANTYCZNA” | reż.  Georgia Oakley | Wielka Brytania, USA 2026 | 131′\n\nGeorgeia Oakley jest reżyserką nowej interpretacji Rozważnej i romantycznej Jane Austen. To produkcja Working Title, oparta na scenariuszu Diany Reid, w rolach głównych zobaczymy: Daisy Edgar-Jones, Esmé Creed-Miles, Caitríonę Balfe, Franka Dillane’a, Herberta Nordruma, Bodhi Rae Breathnach, George’a MacKaya oraz Fionę Shaw.\n\nAkcja, osadzona w Anglii epoki georgiańskiej, podąża za losami zamożnego pana Dashwooda, który umiera, pozostawiając swoją drugą żonę oraz trzy córki w trudnej sytuacji finansowej. Kobiety przenoszą się do skromnej wiejskiej posiadłości, gdzie dwie starsze siostry rywalizują o względy różnych adoratorów, poszukując prawdziwej miłości.\n\nProducentami filmu są: Tim Bevan i Eric Fellner z Working Title, a także India Flint z November Pictures oraz Jo Wallett z Kiddo Films. Working Title i Focus wcześniej współpracowały przy filmowej adaptacji Dumy i uprzedzenia z 2005 roku, która zdobyła cztery nominacje do Oscara, oraz przy kinowej wersji Emmy z 2020 roku.\n\nSpotkanie poprowadzi: \n\nANNA GOLIK-CZARNECKA  | Nauczycielka konsultantka w Ośrodku Doskonalenia Nauczycieli w Poznaniu oraz nauczycielka języka angielskiego w Zespole Szkół nr 1 w Swarzędzu. Autorka publikacji metodycznych dla nauczycieli języków obcych, doświadczona trenerka i egzaminatorka egzaminów zewnętrznych. W codziennej pracy z młodzieżą pasjonatka edukacji kulturowej i społecznej poprzez łączenie treści międzyprzedmiotowych i edukację medialną.\n\nKolejne spotkania w cyklu:\n\n17.11.2026 r.\n\n15.12.2026 r.\n\n12.01.2027 r.\n\n9.02.2027 r.\n\n16.03.2027 r.\n\n13.04.2027 r.\n\n18.05.2027 r.\n\n15.06.2027 r.",
-        "poster": "media/posters/7b55170e8bf3a5c84166.webp"
+        "poster": "media/posters/f97dfdbb297b0bd5c374.webp"
+      },
+      {
+        "hour": "19:00",
+        "datetime": "2026-10-20 19:00:00",
+        "title": "Czas, który nie nadszedł",
+        "originalTitle": "The Time That Never Came",
+        "director": "Julia Rogowska",
+        "year": "2026",
+        "premiereDate": "2026-10-16",
+        "duration": "105",
+        "countries": "Belgia, Polska",
+        "shortDesc": "<p><span class=\"a_GcMg font-feature-liga-off font-feature-clig-off font-feature-calt-off text-decoration-none text-strikethrough-none\">Przyszłość jest teraz i nie ma w niej miejsca na starość, brzydotę i autentyczność. Pasujesz tu?</span></p>\n",
+        "lang": "pl",
+        "subtitlesLang": "",
+        "age": "16",
+        "credits": "reż. Julia Rogowska <br>Belgia, Polska <br>2026,105’",
+        "desc": "<p><span class=\"a_GcMg font-feature-liga-off font-feature-clig-off font-feature-calt-off text-decoration-none text-strikethrough-none\">Przyszłość jest teraz i nie ma w niej miejsca na starość, brzydotę i autentyczność. Pasujesz tu?</span></p>\n",
+        "hall": "3",
+        "movieLink": "https://www.kinomuza.pl/movie/czas-ktory-nie-nadszedl/",
+        "ticketLink": "https://estradapoznan.bilety24.pl/kup-bilety/?id=1004260#total",
+        "prePremier": false,
+        "tape35mm": false,
+        "ad": false,
+        "deaf": false,
+        "ticketPrice": "",
+        "ticketHalfPrice": "",
+        "alt": "Czas, który nie nadszedł",
+        "thumb": "https://www.kinomuza.pl/content/uploads/2026/10/czas-2-800x450.jpg",
+        "description": "Przyszłość jest teraz i nie ma w niej miejsca na starość, brzydotę i autentyczność. Pasujesz tu?",
+        "shortDescription": "Przyszłość jest teraz i nie ma w niej miejsca na starość, brzydotę i autentyczność. Pasujesz tu?",
+        "genres": [
+          "Melodramat",
+          "Sci-Fi"
+        ],
+        "external": {
+          "imdb": {
+            "id": "tt36955382",
+            "url": "https://www.imdb.com/title/tt36955382/",
+            "rating": 5.8,
+            "votes": 22
+          },
+          "filmweb": {
+            "id": "10082282",
+            "url": "https://www.filmweb.pl/film/Czas%2C+kt%C3%B3ry+nie+nadszed%C5%82-2026-10082282",
+            "genres": [
+              "Melodramat",
+              "Sci-Fi"
+            ],
+            "rating": 6.1,
+            "votes": 553
+          },
+          "rottenTomatoes": null
+        },
+        "longDescription": "Przyszłość jest teraz i nie ma w niej miejsca na starość, brzydotę i autentyczność. Pasujesz tu?\n\nW świecie, w którym starzenie się stało się największym tabu, Sara i Oskar planowali zestarzeć się razem. On jednak – jak większość – poddał się rewolucyjnej kuracji antygeriatrycznej, zapewniającej młodość i miejsce w nowym społeczeństwie. Ona odmówiła, skazując się na życie w zamkniętym ośrodku izolacji. Po latach próba ucieczki Sary sprawia, że ponownie się spotykają. Dzieli ich wygląd, łączy brak odpowiedzi na pytania spychane przez lata na drugi plan. Czy uczucia mogą przetrwać czas i nieodwracalne decyzje? Czy można być wolnym i żyć prawdziwie w świecie, który odmawia prawa do przemijania?\n\nFilm dostępny z audiodeskrypcją lub lektorem. Skorzystaj bezpłatnie z aplikacji Kino Dostępne 2.0 w Twoim telefonie – http://kinodostepne.pl",
+        "poster": "media/posters/3ea338d7440ce1a7c950.webp"
       },
       {
         "hour": "20:00",
@@ -124,7 +560,7 @@
               "Komedia"
             ],
             "rating": 7.1,
-            "votes": 22905
+            "votes": 22907
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/toni_erdmann",
@@ -141,6 +577,136 @@
         },
         "longDescription": "Najnowszy film Maren Ade („Wszyscy inni”) to pełna humoru historia napiętych relacji między trzydziestoletnią śmiertelnie poważną menadżerką, a jej nieustannie wygłupiającym się ojcem.\n\nPokazana w konkursie ostatniego festiwalu w Cannes komedia „Toni Erdmann” stała się wydarzeniem imprezy. W rankingu międzynarodowej krytyki prowadzonym przez magazyn Screen otrzymała najwyższe oceny spośród wszystkich filmów recenzowanych w ostatniej dekadzie. Film okazał się również niekwestionowanym triumfatorem gali wręczenia Europejskich Nagród Filmowych.Nominowany w 5 kategoriach zdobył wszystkie najważniejsze nagrody: dla Najlepszego Filmu, Najlepszego Reżysera, za Najlepszy Scenariusz oraz dla odtwórców głównych ról: Sandry Hüller (Najlepsza Aktorka) i Petera Simonischeka (Najlepszy Aktor). Maren Ade stała się tym samym pierwszą kobietą w 29-letniej historii Europejskich Oscarów, której film zdobył główną nagrodę Akademii. „Toni Erdmann” był również nominowany do Oscara, Złotych Globów oraz Nagród BAFTA i Cezarów w kategorii Najlepszy Film Nieanglojęzyczny.\n\nWinfred jest rozwiedzionym, emerytowanym nauczycielem gry na pianinie, który uwielbia wygłupy i nieustannie robi kawały swoim sąsiadom z przeciętnego niemieckiego przedmieścia. Jego córka Ines – pracująca za granicą konsultantka w wielkiej korporacji – lubi mieć wszystko pod kontrolą równie mocno, jak jej ojciec lubi się zgrywać. Przez lata ich relacje nie układały się zbyt dobrze, więc kiedy ojciec nieoczekiwanie przyjeżdża na kilka dni odwiedzić córkę, jego wizyta przybiera zaskakujący przebieg. Aby przywrócić zestresowanej Ines radość życia i poczucie humoru, Winfred tworzy fikcyjną postać – niepoprawnego biznesmena Toniego Erdmanna.\n\n„Toni Erdmann” to przewrotna, wzruszająca komedia o tym, co jest w życiu naprawdę ważne. To historia kobiety, która poświęciła wszystko dla pracy, ale będzie musiała przemyśleć wyznawane przez siebie wartości. Może to właśnie szalony Toni Erdmann pomoże jej odkryć coś, czego nałogowa pracoholiczka nie była w stanie dostrzec?",
         "poster": "media/posters/3826f9528b868e246f0a.webp"
+      },
+      {
+        "hour": "21:00",
+        "datetime": "2026-10-20 21:00:00",
+        "title": "Digger",
+        "originalTitle": "",
+        "director": "Alejandro González Iñárritu",
+        "year": "2026",
+        "premiereDate": "2026-10-09",
+        "duration": "128",
+        "countries": "USA",
+        "shortDesc": "<p>Najpotężniejszy człowiek świata wyrusza w szaloną misję, chcąc udowodnić, że jest zbawcą ludzkości, zanim katastrofa, którą spowodował, tę ludzkość zniszczy.</p>\n",
+        "lang": "en",
+        "subtitlesLang": "pl",
+        "age": "16",
+        "credits": "reż. Alejandro González Iñárritu <br>USA <br>2026,128’",
+        "desc": "<p>Najpotężniejszy człowiek świata wyrusza w szaloną misję, chcąc udowodnić, że jest zbawcą ludzkości, zanim katastrofa, którą spowodował, tę ludzkość zniszczy.</p>\n",
+        "hall": "3",
+        "movieLink": "https://www.kinomuza.pl/movie/digger/",
+        "ticketLink": "https://estradapoznan.bilety24.pl/kup-bilety/?id=1004259#total",
+        "prePremier": false,
+        "tape35mm": false,
+        "ad": false,
+        "deaf": false,
+        "ticketPrice": "",
+        "ticketHalfPrice": "",
+        "alt": "Digger",
+        "thumb": "https://www.kinomuza.pl/content/uploads/2026/09/kadry-1-800x450.jpg",
+        "description": "Najpotężniejszy człowiek świata wyrusza w szaloną misję, chcąc udowodnić, że jest zbawcą ludzkości, zanim katastrofa, którą spowodował, tę ludzkość zniszczy.",
+        "shortDescription": "Najpotężniejszy człowiek świata wyrusza w szaloną misję, chcąc udowodnić, że jest zbawcą ludzkości, zanim katastrofa, którą spowodował, tę ludzkość zniszczy.",
+        "genres": [
+          "Czarna komedia"
+        ],
+        "external": {
+          "imdb": {
+            "id": "tt31450459",
+            "url": "https://www.imdb.com/title/tt31450459/",
+            "rating": 7.4,
+            "votes": 29416
+          },
+          "filmweb": {
+            "id": "10104607",
+            "url": "https://www.filmweb.pl/film/Digger-2026-10104607",
+            "genres": [
+              "Czarna komedia"
+            ],
+            "rating": 7,
+            "votes": 2972
+          },
+          "rottenTomatoes": {
+            "url": "https://www.rottentomatoes.com/m/digger_2026",
+            "title": "Digger (2026)",
+            "year": "2026",
+            "directors": [
+              "Alejandro González Iñárritu"
+            ],
+            "criticsRating": 53,
+            "criticsVotes": 320,
+            "audienceRating": 74,
+            "audienceVotes": 1641
+          }
+        },
+        "longDescription": "Najpotężniejszy człowiek świata wyrusza w szaloną misję, chcąc udowodnić, że jest zbawcą ludzkości, zanim katastrofa, którą spowodował, tę ludzkość zniszczy.\n\nCruise występuje w roli tytułowej, a towarzyszą mu laureat Oscara Riz Ahmed, John Goodman, nominowana do Oscara Sandra Hüller, Michael Stuhlbarg oraz nominowany do Oscara Jesse Plemons. W pozostałych rolach występują Robert John Burke, Emma D’Arcy, Burn Gorman i Sophie Wilde.\n\nIñárritu reżyseruje na podstawie scenariusza autorstwa swojego oraz nagrodzonych Oscarem Alexandra Dinelarisa i Nicolása Giacobone’a, jak również Sabiny Berman. Autorami pomysłu są Iñárritu i Berman. Producentami filmu są Iñárritu, nominowana do Oscara Mary Parent, Cruise i Michael Sharp. Funkcję producentów wykonawczych pełnią Joshua Grode, Berman, Dinelaris, Giacobone, Jez Butterworth i Emmanuel Lubezki.\n\nDo Iñárritu po drugiej stronie kamery dołączyli jego dawni współpracownicy, tacy jak nagrodzony Oscarem operator Emmanuel Lubezki, montażyści Conor O’Neill i nagrodzony Oscarem Stephen Mirrione, nominowana do Oscara projektantka kostiumów Jacqueline West, nagrodzony Oscarem charakteryzator Alessandro Bertolazzi oraz nominowana do Oscara reżyserka castingu Francine Maisler. Oprócz nich w ekipie znaleźli się nagrodzony Oscarem scenograf Dennis Gassner i drugi scenograf Richard Johnson, jak również nagrodzony Oscarem twórca protez charakteryzatorskich Kazu Hiro i kompozytor Cosmo Sheldrake.\n\nDigger Alejandra G. Iñárritu został nakręcony w całości w formacie VistaVision. Do kin i kin IMAX® Ameryki Północnej trafi 2 października 2026 roku, a seanse na całym świecie rozpoczną się 30 września 2026 roku. Dystrybutorem filmu jest Warner Bros. Pictures.",
+        "poster": "media/posters/dac32b97bc90196a3553.webp"
+      },
+      {
+        "hour": "21:15",
+        "datetime": "2026-10-20 21:15:00",
+        "title": "Rozważna i romantyczna",
+        "originalTitle": "Sense and Sensibility",
+        "director": "Georgia Oakley",
+        "year": "2026",
+        "premiereDate": "2026-10-16",
+        "duration": "131",
+        "countries": "USA",
+        "shortDesc": "<p>Akcja, osadzona w Anglii epoki georgiańskiej, podąża za losami zamożnego pana Dashwooda, który umiera, pozostawiając swoją drugą żonę oraz trzy córki w trudnej sytuacji finansowej.</p>\n",
+        "lang": "en",
+        "subtitlesLang": "pl",
+        "age": "16",
+        "credits": "reż. Georgia Oakley <br>USA <br>2026,131’",
+        "desc": "<p>Akcja, osadzona w Anglii epoki georgiańskiej, podąża za losami zamożnego pana Dashwooda, który umiera, pozostawiając swoją drugą żonę oraz trzy córki w trudnej sytuacji finansowej.</p>\n",
+        "hall": "2",
+        "movieLink": "https://www.kinomuza.pl/movie/rozwazna-i-romantyczna-2/",
+        "ticketLink": "https://estradapoznan.bilety24.pl/kup-bilety/?id=1004226#total",
+        "prePremier": false,
+        "tape35mm": false,
+        "ad": false,
+        "deaf": false,
+        "ticketPrice": "",
+        "ticketHalfPrice": "",
+        "alt": "Rozważna i romantyczna",
+        "thumb": "https://www.kinomuza.pl/content/uploads/2026/08/romantyczna-5-800x450.jpg",
+        "description": "Akcja, osadzona w Anglii epoki georgiańskiej, podąża za losami zamożnego pana Dashwooda, który umiera, pozostawiając swoją drugą żonę oraz trzy córki w trudnej sytuacji finansowej.",
+        "shortDescription": "Akcja, osadzona w Anglii epoki georgiańskiej, podąża za losami zamożnego pana Dashwooda, który umiera, pozostawiając swoją drugą żonę oraz trzy córki w trudnej sytuacji finansowej.",
+        "genres": [
+          "Melodramat",
+          "Kostiumowy"
+        ],
+        "external": {
+          "imdb": {
+            "id": "tt13609648",
+            "url": "https://www.imdb.com/title/tt13609648/",
+            "rating": 7.2,
+            "votes": 1933
+          },
+          "filmweb": {
+            "id": "10087170",
+            "url": "https://www.filmweb.pl/film/Rozwa%C5%BCna+i+romantyczna-2026-10087170",
+            "genres": [
+              "Melodramat",
+              "Kostiumowy"
+            ],
+            "rating": 7,
+            "votes": 57
+          },
+          "rottenTomatoes": {
+            "url": "https://www.rottentomatoes.com/m/sense_and_sensibility_2026",
+            "title": "Sense and Sensibility (2026)",
+            "year": "2026",
+            "directors": [
+              "Georgia Oakley"
+            ],
+            "criticsRating": 79,
+            "criticsVotes": 47,
+            "audienceRating": null,
+            "audienceVotes": 15
+          }
+        },
+        "longDescription": "Georgeia Oakley jest reżyserką nowej interpretacji  Rozważnej i romantycznej  Jane Austen. To produkcja Working Title, oparta na scenariuszu Diany Reid, w rolach głównych zobaczymy: Daisy Edgar-Jones, Esmé Creed-Miles, Caitríonę Balfe, Franka Dillane’a, Herberta Nordruma, Bodhi Rae Breathnach, George’a MacKaya oraz Fionę Shaw.\n\nAkcja, osadzona w Anglii epoki georgiańskiej, podąża za losami zamożnego pana Dashwooda, który umiera, pozostawiając swoją drugą żonę oraz trzy córki w trudnej sytuacji finansowej. Kobiety przenoszą się do skromnej wiejskiej posiadłości, gdzie dwie starsze siostry rywalizują o względy różnych adoratorów, poszukując prawdziwej miłości.\n\nProducentami filmu są: Tim Bevan i Eric Fellner z Working Title, a także India Flint z November Pictures oraz Jo Wallett z Kiddo Films. Working Title i Focus wcześniej współpracowały przy filmowej adaptacji  Dumy i uprzedzenia  z 2005 roku, która zdobyła cztery nominacje do Oscara, oraz przy kinowej wersji  Emmy  z 2020 roku.\n\nRozważna i romantyczna  trafiła na ekrany również w 1995 roku ze studia Sony Pictures Classics — film w reżyserii Anga Lee, ze scenariuszem Emmy Thompson, nagrodzonej Oscarem za najlepszy scenariusz adaptowany. Thompson zagrała także Elinor Dashwood, a Kate Winslet wcieliła się w Marianne. Produkcja otrzymała w sumie siedem nominacji do Oscara i zarobiła ponad 134 miliony dolarów na świecie.",
+        "poster": "media/posters/f97dfdbb297b0bd5c374.webp"
       }
     ]
   }

@@ -1,12 +1,12 @@
 {
   "schemaVersion": 1,
   "date": "2026-10-18",
-  "updatedAt": "2026-10-13T17:36:34.739Z",
+  "updatedAt": "2026-10-14T15:07:12.109Z",
   "source": "https://www.kinomuza.pl/repertoire/day/",
   "day": {
-    "id": "05",
+    "id": "04",
     "date": "18.10",
-    "now": "2026-10-13 19:34:40",
+    "now": "2026-10-14 17:04:14",
     "info": [],
     "repertoire": [
       {
@@ -41,25 +41,25 @@
         "description": "Uwielbiana seria wraca na wielki ekran &#8211; i to w jeszcze bardziej szalonej odsłonie! W tej przezabawnej kinowej przygodzie najsłynniejszy baranek świata zamienia się w… szalonego naukowca. Co może pójść nie tak?",
         "shortDescription": "Uwielbiana seria wraca na wielki ekran &#8211; i to w jeszcze bardziej szalonej odsłonie! W tej przezabawnej kinowej przygodzie najsłynniejszy baranek świata zamienia się w… szalonego naukowca. Co może pójść nie tak?",
         "genres": [
-          "Animacja",
-          "Familijny"
+          "Familijny",
+          "Animacja"
         ],
         "external": {
           "imdb": {
             "id": "tt36841161",
             "url": "https://www.imdb.com/title/tt36841161/",
             "rating": 7.2,
-            "votes": 1327
+            "votes": 1395
           },
           "filmweb": {
             "id": "10101144",
             "url": "https://www.filmweb.pl/film/Baranek+Shaun+i+kud%C5%82ata+bestia-2026-10101144",
             "genres": [
-              "Animacja",
-              "Familijny"
+              "Familijny",
+              "Animacja"
             ],
-            "rating": 7.1,
-            "votes": 62
+            "rating": 7,
+            "votes": 64
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/shaun_the_sheep_the_beast_of_mossy_bottom",
@@ -77,6 +77,77 @@
         },
         "longDescription": "Uwielbiana seria wraca na wielki ekran – i to w jeszcze bardziej szalonej odsłonie! W tej przezabawnej kinowej przygodzie najsłynniejszy baranek świata zamienia się w… szalonego naukowca. Co może pójść nie tak?\n\nW wieczór Halloween na farmie Mossy Bottom ekscytacja przeradza się w przerażenie, gdy niezdarny Farmer niszczy pole dyniowe. Shaun próbuje naprawić to za pomocą eksperymentów naukowych, ale sytuacja wymyka się spod kontroli, gdy w lesie pojawia się dzika bestia…",
         "poster": "media/posters/a4559ff39299dbcd174e.webp"
+      },
+      {
+        "hour": "12:00",
+        "datetime": "2026-10-18 12:00:00",
+        "title": "Zapomniana wyspa",
+        "originalTitle": "FORGOTTEN ISLAND",
+        "director": "Joel Crawford, Januel Mercado",
+        "year": "2026",
+        "premiereDate": "2026-10-02",
+        "duration": "98",
+        "countries": "USA",
+        "shortDesc": "<p>To komedia przygodowa, która przenosi bohaterów na dawno zapomnianą, magiczną wyspę. Warto walczyć o najlepszą przyjaźń.</p>\n",
+        "lang": "",
+        "subtitlesLang": "",
+        "age": "12",
+        "credits": "reż. Joel Crawford, Januel Mercado <br>USA <br>2026,98’",
+        "desc": "<p>To komedia przygodowa, która przenosi bohaterów na dawno zapomnianą, magiczną wyspę. Warto walczyć o najlepszą przyjaźń.</p>\n",
+        "hall": "2",
+        "movieLink": "https://www.kinomuza.pl/movie/zapomniana-wyspa/",
+        "ticketLink": "https://estradapoznan.bilety24.pl/kup-bilety/?id=1004215#total",
+        "prePremier": false,
+        "tape35mm": false,
+        "ad": false,
+        "deaf": false,
+        "ticketPrice": "",
+        "ticketHalfPrice": "",
+        "alt": "Zapomniana wyspa",
+        "thumb": "https://www.kinomuza.pl/content/uploads/2026/08/zaginiona-wyspa-1-800x450.jpg",
+        "dubbing": true,
+        "cycle": "dzieciaki, do kina!",
+        "description": "To komedia przygodowa, która przenosi bohaterów na dawno zapomnianą, magiczną wyspę. Warto walczyć o najlepszą przyjaźń.",
+        "shortDescription": "To komedia przygodowa, która przenosi bohaterów na dawno zapomnianą, magiczną wyspę. Warto walczyć o najlepszą przyjaźń.",
+        "genres": [
+          "Animacja",
+          "Fantasy",
+          "Przygodowy"
+        ],
+        "external": {
+          "imdb": {
+            "id": "tt36583977",
+            "url": "https://www.imdb.com/title/tt36583977/",
+            "rating": 7.7,
+            "votes": 5948
+          },
+          "filmweb": {
+            "id": "10116454",
+            "url": "https://www.filmweb.pl/film/Zapomniana+wyspa-2026-10116454",
+            "genres": [
+              "Animacja",
+              "Fantasy",
+              "Przygodowy"
+            ],
+            "rating": 6.8,
+            "votes": 641
+          },
+          "rottenTomatoes": {
+            "url": "https://www.rottentomatoes.com/m/forgotten_island",
+            "title": "Forgotten Island",
+            "year": "2026",
+            "directors": [
+              "Joel Crawford",
+              "Januel P. Mercado"
+            ],
+            "criticsRating": 96,
+            "criticsVotes": 112,
+            "audienceRating": 95,
+            "audienceVotes": 1559
+          }
+        },
+        "longDescription": "Warto walczyć o najlepszą przyjaźń.\n\nDreamWorks Animation, studio, które stworzyło niezapomniane więzi między chłopcem a smokiem w filmie „Jak wytresować smoka”, ogrem i osłem w animacji „Shrek” oraz robotem i gąsiątkiem w „Dzikim robocie”. Teraz przedstawia olśniewającą i wzruszającą historię o dwójce przyjaciół na całe życie, którzy muszą się zjednoczyć.\n\nNowy film został napisany i wyreżyserowany przez nominowanych do Oscara® Joela Crawforda i Januela Mercado, a jego producentem jest nominowany do Oscara® Mark Swift, twórca filmu „Kot w butach: Ostatnie życzenie”.\n\nNagrodzone nagrodą Grammy i Oscarem® H.E.R. i Liza Soberano użyczają głosu Jo i Raissie.\n\nTo przyjaciółki od najmłodszych lat, które właśnie kończą szkołę średnią i stoją u progu zupełnie nowych etapów życia.\n\nPodczas wspólnego świętowania ostatniego wieczoru przed rozstaniem dziewczyny przypadkiem odkrywają tajemniczy portal, który przenosi je na magiczną wyspę Nakali. To niezwykła kraina pełna fantastycznych i mitycznych stworzeń, o których od dzieciństwa słyszały w opowieściach przekazywanych przez ich filipińskie rodziny.\n\nNiektóre z tych postaci staną się przyjaciółmi, inne wrogami. Jo i Raissa muszą stawić czoła najgroźniejszemu stworzeniu na wyspie.\n\nKiedy odkryją, że wspomnienia ich przyjaźni są ceną za powrót do domu, Jo i Raissa będą ścigać się, by znaleźć sposób na opuszczenie wyspy, zanim zapomną o sobie na zawsze.",
+        "poster": "media/posters/336aa765d117893be391.webp"
       },
       {
         "hour": "12:30",
@@ -130,7 +201,7 @@
               "Familijny"
             ],
             "rating": 5.6,
-            "votes": 61
+            "votes": 62
           },
           "rottenTomatoes": null
         },
@@ -175,7 +246,7 @@
             "id": "tt37082105",
             "url": "https://www.imdb.com/title/tt37082105/",
             "rating": 7.8,
-            "votes": 841
+            "votes": 955
           },
           "filmweb": {
             "id": "10057628",
@@ -185,12 +256,76 @@
               "Dramat obyczajowy"
             ],
             "rating": 7.7,
-            "votes": 22106
+            "votes": 23077
           },
           "rottenTomatoes": null
         },
         "longDescription": "Dzieło Bolesława Prusa od blisko 140 lat rozpala emocje i wyobraźnię kolejnych pokoleń. Teraz ta ponadczasowa historia trafia na wielki ekran w nowej, spektakularnej, filmowej odsłonie. „Lalka” to zrealizowana z ogromnym rozmachem superprodukcja i najbardziej gwiazdorski film w historii polskiego kina, gdzie pośród wielu wybitnych nazwisk, w rolach głównych występują: Marcin Dorociński jako Stanisław Wokulski, gwiazda „Chłopów” – Kamila Urzędowska jako Izabela Łęcka oraz powracający na wielki ekran po 16 latach Marek Kondrat w roli Ignacego Rzeckiego. Nowa ekranizacja „Lalki” to opowiedziana ze współczesną wrażliwością przejmująca, uniwersalna historia o miłości i niespełnieniu, o aspiracjach i przemianie, o świecie, który właśnie się kończy. To film, który zdarza się raz na kilka dekad: epicki, pełen emocji, zrealizowany z imponującą scenografią, dopracowanymi w najdrobniejszych detalach kostiumami i charakteryzacją oraz prawdziwie gwiazdorską obsadą.\n\nWarszawa końca XIX wieku. Serce Stanisława Wokulskiego (Marcin Dorociński) owładnięte jest szaloną miłością do Izabeli Łęckiej (Kamila Urzędowska). On, dzięki fortunie zdobytej na wojnie, powraca do kraju i postanawia wkroczyć do świata wyższych sfer, aby zdobyć rękę ukochanej. Ona jest olśniewająca i wyniosła, lecz mimo arystokratycznego pochodzenia zmaga się z widmem finansowej ruiny. U boku Wokulskiego stoi jego wierny przyjaciel – Ignacy Rzecki (Marek Kondrat), romantyk, który z nostalgią obserwuje, jak świat ideałów ustępuje miejsca społecznym aspiracjom i bezwzględnej grze interesów. Wokulski wkracza w labirynt arystokratycznych salonów, gdzie każdy gest może być początkiem intrygi, a każde słowo – zapowiedzią zdrady. Stający na jego drodze rywale, niespodziewane sojusze i dramatyczne wybory wystawią na próbę jego marzenia i wiarę w ludzi. To opowieść o miłosnym zauroczeniu, które zmienia losy bohaterów i zaciera granice między sercem a rozumem.\n\nFilm dostępny z audiodeskrypcją lub lektorem. Skorzystaj bezpłatnie z aplikacji Kino Dostępne 2.0 w Twoim telefonie – http://kinodostepne.pl",
         "poster": "media/posters/2f797fdbd82b582ae91e.webp"
+      },
+      {
+        "hour": "14:00",
+        "datetime": "2026-10-18 14:00:00",
+        "title": "Digger",
+        "originalTitle": "",
+        "director": "Alejandro González Iñárritu",
+        "year": "2026",
+        "premiereDate": "2026-10-09",
+        "duration": "128",
+        "countries": "USA",
+        "shortDesc": "<p>Najpotężniejszy człowiek świata wyrusza w szaloną misję, chcąc udowodnić, że jest zbawcą ludzkości, zanim katastrofa, którą spowodował, tę ludzkość zniszczy.</p>\n",
+        "lang": "en",
+        "subtitlesLang": "pl",
+        "age": "16",
+        "credits": "reż. Alejandro González Iñárritu <br>USA <br>2026,128’",
+        "desc": "<p>Najpotężniejszy człowiek świata wyrusza w szaloną misję, chcąc udowodnić, że jest zbawcą ludzkości, zanim katastrofa, którą spowodował, tę ludzkość zniszczy.</p>\n",
+        "hall": "2",
+        "movieLink": "https://www.kinomuza.pl/movie/digger/",
+        "ticketLink": "https://estradapoznan.bilety24.pl/kup-bilety/?id=1004216#total",
+        "prePremier": false,
+        "tape35mm": false,
+        "ad": false,
+        "deaf": false,
+        "ticketPrice": "",
+        "ticketHalfPrice": "",
+        "alt": "Digger",
+        "thumb": "https://www.kinomuza.pl/content/uploads/2026/09/kadry-1-800x450.jpg",
+        "description": "Najpotężniejszy człowiek świata wyrusza w szaloną misję, chcąc udowodnić, że jest zbawcą ludzkości, zanim katastrofa, którą spowodował, tę ludzkość zniszczy.",
+        "shortDescription": "Najpotężniejszy człowiek świata wyrusza w szaloną misję, chcąc udowodnić, że jest zbawcą ludzkości, zanim katastrofa, którą spowodował, tę ludzkość zniszczy.",
+        "genres": [
+          "Czarna komedia"
+        ],
+        "external": {
+          "imdb": {
+            "id": "tt31450459",
+            "url": "https://www.imdb.com/title/tt31450459/",
+            "rating": 7.5,
+            "votes": 32833
+          },
+          "filmweb": {
+            "id": "10104607",
+            "url": "https://www.filmweb.pl/film/Digger-2026-10104607",
+            "genres": [
+              "Czarna komedia"
+            ],
+            "rating": 7,
+            "votes": 3290
+          },
+          "rottenTomatoes": {
+            "url": "https://www.rottentomatoes.com/m/digger_2026",
+            "title": "Digger (2026)",
+            "year": "2026",
+            "directors": [
+              "Alejandro González Iñárritu"
+            ],
+            "criticsRating": 53,
+            "criticsVotes": 322,
+            "audienceRating": 75,
+            "audienceVotes": 1722
+          }
+        },
+        "longDescription": "Najpotężniejszy człowiek świata wyrusza w szaloną misję, chcąc udowodnić, że jest zbawcą ludzkości, zanim katastrofa, którą spowodował, tę ludzkość zniszczy.\n\nCruise występuje w roli tytułowej, a towarzyszą mu laureat Oscara Riz Ahmed, John Goodman, nominowana do Oscara Sandra Hüller, Michael Stuhlbarg oraz nominowany do Oscara Jesse Plemons. W pozostałych rolach występują Robert John Burke, Emma D’Arcy, Burn Gorman i Sophie Wilde.\n\nIñárritu reżyseruje na podstawie scenariusza autorstwa swojego oraz nagrodzonych Oscarem Alexandra Dinelarisa i Nicolása Giacobone’a, jak również Sabiny Berman. Autorami pomysłu są Iñárritu i Berman. Producentami filmu są Iñárritu, nominowana do Oscara Mary Parent, Cruise i Michael Sharp. Funkcję producentów wykonawczych pełnią Joshua Grode, Berman, Dinelaris, Giacobone, Jez Butterworth i Emmanuel Lubezki.\n\nDo Iñárritu po drugiej stronie kamery dołączyli jego dawni współpracownicy, tacy jak nagrodzony Oscarem operator Emmanuel Lubezki, montażyści Conor O’Neill i nagrodzony Oscarem Stephen Mirrione, nominowana do Oscara projektantka kostiumów Jacqueline West, nagrodzony Oscarem charakteryzator Alessandro Bertolazzi oraz nominowana do Oscara reżyserka castingu Francine Maisler. Oprócz nich w ekipie znaleźli się nagrodzony Oscarem scenograf Dennis Gassner i drugi scenograf Richard Johnson, jak również nagrodzony Oscarem twórca protez charakteryzatorskich Kazu Hiro i kompozytor Cosmo Sheldrake.\n\nDigger Alejandra G. Iñárritu został nakręcony w całości w formacie VistaVision. Do kin i kin IMAX® Ameryki Północnej trafi 2 października 2026 roku, a seanse na całym świecie rozpoczną się 30 września 2026 roku. Dystrybutorem filmu jest Warner Bros. Pictures.",
+        "poster": "media/posters/dac32b97bc90196a3553.webp"
       },
       {
         "hour": "14:15",
@@ -230,7 +365,7 @@
             "id": "tt13609648",
             "url": "https://www.imdb.com/title/tt13609648/",
             "rating": 7.2,
-            "votes": 1933
+            "votes": 2072
           },
           "filmweb": {
             "id": "10087170",
@@ -240,7 +375,7 @@
               "Kostiumowy"
             ],
             "rating": 7,
-            "votes": 57
+            "votes": 63
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/sense_and_sensibility_2026",
@@ -249,8 +384,8 @@
             "directors": [
               "Georgia Oakley"
             ],
-            "criticsRating": 79,
-            "criticsVotes": 47,
+            "criticsRating": 78,
+            "criticsVotes": 49,
             "audienceRating": null,
             "audienceVotes": 15
           }
@@ -295,7 +430,7 @@
             "id": "tt25399154",
             "url": "https://www.imdb.com/title/tt25399154/",
             "rating": 7.5,
-            "votes": 2486
+            "votes": 2560
           },
           "filmweb": {
             "id": "10113205",
@@ -304,7 +439,7 @@
               "Dramat historyczny"
             ],
             "rating": 7.2,
-            "votes": 1398
+            "votes": 1499
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/rose_2026",
@@ -360,7 +495,7 @@
             "id": "tt13609648",
             "url": "https://www.imdb.com/title/tt13609648/",
             "rating": 7.2,
-            "votes": 1933
+            "votes": 2072
           },
           "filmweb": {
             "id": "10087170",
@@ -370,7 +505,7 @@
               "Kostiumowy"
             ],
             "rating": 7,
-            "votes": 57
+            "votes": 63
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/sense_and_sensibility_2026",
@@ -379,8 +514,8 @@
             "directors": [
               "Georgia Oakley"
             ],
-            "criticsRating": 79,
-            "criticsVotes": 47,
+            "criticsRating": 78,
+            "criticsVotes": 49,
             "audienceRating": null,
             "audienceVotes": 15
           }
@@ -427,7 +562,7 @@
             "id": "tt14905854",
             "url": "https://www.imdb.com/title/tt14905854/",
             "rating": 7.8,
-            "votes": 138621
+            "votes": 138874
           },
           "filmweb": {
             "id": "10035555",
@@ -438,7 +573,7 @@
               "Kostiumowy"
             ],
             "rating": 7.6,
-            "votes": 29868
+            "votes": 29885
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/hamnet",
@@ -450,7 +585,7 @@
             "criticsRating": 86,
             "criticsVotes": 352,
             "audienceRating": 93,
-            "audienceVotes": 2679
+            "audienceVotes": 2680
           }
         },
         "longDescription": "Film Hamnet, autorstwa nagrodzonej Oscarem® scenarzystki i reżyserki Chloé Zhao (Nomadland)., opowiada poruszającą historię miłosną, która zainspirowała Szekspira do stworzenia ponadczasowego arcydzieła Hamlet.\n\nTo poruszająca historię miłości Williama, ambitnego dramaturga i jego żony Agnes. Ich idylliczne życie zostaje zburzone, gdy wybucha epidemia dżumy, która dotyka ich dzieci, Hamneta i Judith. Po latach William pisze nową sztukę zatytułowaną Hamlet, aby poradzić sobie z żałobą.\n\nFilm powstał na podstawie bestsellerowej powieści Maggie O’Farrell z 2020 roku, która sprzedała się w 2 milionach egzemplarzy w Wielkiej Brytanii i USA oraz została przetłumaczona na 40 języków.\n\nW głównych rolach występują: Jessie Buckley, Paul Mescal, Emily Watson i Joe Alwyn.",
@@ -494,7 +629,7 @@
             "id": "tt37082105",
             "url": "https://www.imdb.com/title/tt37082105/",
             "rating": 7.8,
-            "votes": 841
+            "votes": 955
           },
           "filmweb": {
             "id": "10057628",
@@ -504,7 +639,7 @@
               "Dramat obyczajowy"
             ],
             "rating": 7.7,
-            "votes": 22106
+            "votes": 23077
           },
           "rottenTomatoes": null
         },
@@ -548,7 +683,7 @@
             "id": "tt25399154",
             "url": "https://www.imdb.com/title/tt25399154/",
             "rating": 7.5,
-            "votes": 2486
+            "votes": 2560
           },
           "filmweb": {
             "id": "10113205",
@@ -557,7 +692,7 @@
               "Dramat historyczny"
             ],
             "rating": 7.2,
-            "votes": 1398
+            "votes": 1499
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/rose_2026",
@@ -613,7 +748,7 @@
             "id": "tt34206385",
             "url": "https://www.imdb.com/title/tt34206385/",
             "rating": 7.1,
-            "votes": 16630
+            "votes": 17705
           },
           "filmweb": {
             "id": "10115409",
@@ -623,7 +758,7 @@
               "Kryminał"
             ],
             "rating": 6.4,
-            "votes": 4276
+            "votes": 4804
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/primetime",
@@ -633,9 +768,9 @@
               "Lance Oppenheim"
             ],
             "criticsRating": 86,
-            "criticsVotes": 238,
+            "criticsVotes": 239,
             "audienceRating": 77,
-            "audienceVotes": 2373
+            "audienceVotes": 2406
           }
         },
         "longDescription": "ROBERT PATTINSON w thrillerze psychologicznym PRIMETIME wciela się w Chrisa Hansena, charyzmatycznego dziennikarza, który wkracza do podziemnego świata przestępczego i pragnie zmienić oblicze telewizji. Z czasem jednak ulega własnej obsesji i w drodze na szczyt popularności zaczyna zatracać swój pierwotny cel.",
@@ -678,8 +813,8 @@
           "imdb": {
             "id": "tt36955382",
             "url": "https://www.imdb.com/title/tt36955382/",
-            "rating": 5.8,
-            "votes": 22
+            "rating": 5.7,
+            "votes": 24
           },
           "filmweb": {
             "id": "10082282",
@@ -689,7 +824,7 @@
               "Sci-Fi"
             ],
             "rating": 6.1,
-            "votes": 553
+            "votes": 581
           },
           "rottenTomatoes": null
         },
@@ -733,8 +868,8 @@
           "imdb": {
             "id": "tt37510326",
             "url": "https://www.imdb.com/title/tt37510326/",
-            "rating": 6.8,
-            "votes": 3491
+            "rating": 6.7,
+            "votes": 5095
           },
           "filmweb": {
             "id": "10095188",
@@ -744,7 +879,7 @@
               "Biograficzny"
             ],
             "rating": 6.1,
-            "votes": 851
+            "votes": 953
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/the_social_reckoning",
@@ -754,9 +889,9 @@
               "Aaron Sorkin"
             ],
             "criticsRating": 55,
-            "criticsVotes": 215,
-            "audienceRating": 73,
-            "audienceVotes": 385
+            "criticsVotes": 227,
+            "audienceRating": 72,
+            "audienceVotes": 453
           }
         },
         "longDescription": "Zobaczymy kontynuację filmu Aarona Sorkina „The Social Network” pod tytułem „The Social Reckoning: W sieci konsekwencji ”.\n\nOpowieść o losach Frances Haugen, młodej inżynierki Facebooka, która we współpracy z Jeffem Horwitzem – reportem z „Wall Street Journal” – stara się ujawnić najbardziej skryte tajemnice tego potężnego portalu społecznościowego.\n\nAaron Sorkin otrzymał Oscara za scenariusz adaptowany do filmu „The Social Network” .\n\nW nowym filmie filmie zobaczymy nominowanego do Oscara Jeremy’ego Stronga, który wcieli się w rolę Marka Zuckerberga; lauretkę Oscara, Mikey Madison, która wcieli się w rolę Frances Haugen; oraz laureata Złotego Globu i Emmy Jeremy’ego Allena White’a, który zagra reportera Wall Street Journal Jeffa Horowitza, autora serii artykułów znanych jako „The Facebook Files”. Te opublikowane w październiku 2021 r. reportaże ujawniły wewnętrzne funkcjonowanie Facebooka i wiele szkód spowodowanych przez tę platformę.",
@@ -799,7 +934,7 @@
             "id": "tt25399154",
             "url": "https://www.imdb.com/title/tt25399154/",
             "rating": 7.5,
-            "votes": 2486
+            "votes": 2560
           },
           "filmweb": {
             "id": "10113205",
@@ -808,7 +943,7 @@
               "Dramat historyczny"
             ],
             "rating": 7.2,
-            "votes": 1398
+            "votes": 1499
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/rose_2026",

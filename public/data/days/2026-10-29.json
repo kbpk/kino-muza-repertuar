@@ -1,0 +1,84 @@
+{
+  "schemaVersion": 1,
+  "date": "2026-10-29",
+  "updatedAt": "2026-10-14T15:07:12.109Z",
+  "source": "https://www.kinomuza.pl/repertoire/day/",
+  "day": {
+    "id": "15",
+    "date": "29.10",
+    "now": "2026-10-14 17:05:19",
+    "info": [],
+    "repertoire": [
+      {
+        "hour": "18:30",
+        "datetime": "2026-10-29 18:30:00",
+        "title": "Dopaść Cartera",
+        "originalTitle": "Get Carter",
+        "director": "Mike Hodges",
+        "year": "1971",
+        "premiereDate": "",
+        "duration": "112",
+        "countries": "Wielka Brytania",
+        "shortDesc": "<p>Jack Carter pracuje dla londyńskich gangsterów. Gdy w Newcastle ginie jego brat, Carter przyjeżdża na pogrzeb.</p>\n",
+        "lang": "en",
+        "subtitlesLang": "pl",
+        "age": "16",
+        "credits": "reż. Mike Hodges <br>Wielka Brytania <br>1971,112’",
+        "desc": "<p>Jack Carter pracuje dla londyńskich gangsterów. Gdy w Newcastle ginie jego brat, Carter przyjeżdża na pogrzeb.</p>\n",
+        "hall": "1",
+        "movieLink": "https://www.kinomuza.pl/movie/dopasc-cartera/",
+        "ticketLink": "https://estradapoznan.bilety24.pl/kup-bilety/?id=1004478#total",
+        "prePremier": false,
+        "tape35mm": false,
+        "ad": false,
+        "deaf": false,
+        "ticketPrice": "",
+        "ticketHalfPrice": "",
+        "alt": "Dopaść Cartera",
+        "thumb": "https://www.kinomuza.pl/content/uploads/2026/10/3cartera-800x450.jpg",
+        "event": "COOL BRITANNIA",
+        "cycle": "Cool Britannia",
+        "description": "Jack Carter pracuje dla londyńskich gangsterów. Gdy w Newcastle ginie jego brat, Carter przyjeżdża na pogrzeb.",
+        "shortDescription": "Jack Carter pracuje dla londyńskich gangsterów. Gdy w Newcastle ginie jego brat, Carter przyjeżdża na pogrzeb.",
+        "genres": [
+          "Kryminał",
+          "Sensacyjny",
+          "Dramat"
+        ],
+        "external": {
+          "imdb": {
+            "id": "tt0067128",
+            "url": "https://www.imdb.com/title/tt0067128/",
+            "rating": 7.3,
+            "votes": 39311
+          },
+          "filmweb": {
+            "id": "5814",
+            "url": "https://www.filmweb.pl/film/Dopa%C5%9B%C4%87+Cartera-1971-5814",
+            "genres": [
+              "Kryminał",
+              "Sensacyjny",
+              "Dramat"
+            ],
+            "rating": 7.1,
+            "votes": 5192
+          },
+          "rottenTomatoes": {
+            "url": "https://www.rottentomatoes.com/m/1076721-get_carter",
+            "title": "Get Carter",
+            "year": "1971",
+            "directors": [
+              "Mike Hodges"
+            ],
+            "criticsRating": 85,
+            "criticsVotes": 40,
+            "audienceRating": 84,
+            "audienceVotes": 2857
+          }
+        },
+        "longDescription": "Jack Carter pracuje dla londyńskich gangsterów. Gdy w Newcastle ginie jego brat, Carter przyjeżdża na pogrzeb. Wersja oficjalna mówi o wypadku po pijaku, tylko że Frank praktycznie nie pił. Carter zaczyna więc zadawać pytania, na które nikt nie ma najmniejszej ochoty mu odpowiadać, a każda kolejna odpowiedź prowadzi go bliżej prawdy, której sam wolałby nie poznać.\n\nDebiutujący w pełnym metrażu Mike Hodges przyszedł do kina z telewizyjnego dokumentu i doskonale to widać. Zdjęcia powstały w 1970 roku w Newcastle, Gateshead i hrabstwie Durham – w autentycznych pubach, zakładach bukmacherskich, kamienicach i na promenadach, bez ani jednej pocztówkowej kompozycji. Architektura jest dzięki temu pełnoprawnym bohaterem filmu: brutalistyczny parking Trinity Square w Gateshead, w którym rozgrywa się jedna z kluczowych scen, wyburzono kilka dekad później, a DOPAŚĆ CARTERA jest dziś jednym z jego najważniejszych portretów. Film powstał dokładnie w momencie, w którym brytyjski przemysł filmowy się walił – MGM zamykało właśnie swoje studio w Borehamwood – i ta atmosfera końca czegoś przenika cały obraz. Jazzowy motyw Roya Budda, nagrany za sumę, która dziś nie wystarczyłaby na catering, stał się jedną z najbardziej rozpoznawalnych melodii w historii brytyjskiego kina.\n\nW obsadzie, poza Michaelem Caine’em, warto zwrócić uwagę na Iana Hendry’ego i Johna Osborne’a, który gra bossa gangsterów z przerażającym spokojem i opanowaniem. Brytyjscy krytycy w czasach premiery mieli pretensje przede wszystkim o przemoc i o to, że bohater nie okazuje ani grama skruchy. Minęło pół wieku i dokładnie te dwie rzeczy robią z filmu Hodgesa klasyk: szesnaste miejsce na liście stu najlepszych brytyjskich filmów BFI, pierwsze w plebiscycie czytelników „Total Filmu”, jawny zachwyt Tarantino i Guya Ritchiego, a także remake z Sylvestrem Stallone’em, o którym lepiej szybko zapomnieć.",
+        "poster": "media/posters/095f3bb26a74dcc9aaa9.webp"
+      }
+    ]
+  }
+}

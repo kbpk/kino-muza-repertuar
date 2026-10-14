@@ -1,12 +1,12 @@
 {
   "schemaVersion": 1,
   "date": "2026-10-28",
-  "updatedAt": "2026-10-13T17:36:34.739Z",
+  "updatedAt": "2026-10-14T15:07:12.109Z",
   "source": "https://www.kinomuza.pl/repertoire/day/",
   "day": {
-    "id": "15",
+    "id": "14",
     "date": "28.10",
-    "now": "2026-10-13 19:35:22",
+    "now": "2026-10-14 17:05:07",
     "info": [],
     "repertoire": [
       {
@@ -48,7 +48,7 @@
             "id": "tt13609648",
             "url": "https://www.imdb.com/title/tt13609648/",
             "rating": 7.2,
-            "votes": 1933
+            "votes": 2072
           },
           "filmweb": {
             "id": "10087170",
@@ -58,7 +58,7 @@
               "Kostiumowy"
             ],
             "rating": 7,
-            "votes": 57
+            "votes": 63
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/sense_and_sensibility_2026",
@@ -67,8 +67,8 @@
             "directors": [
               "Georgia Oakley"
             ],
-            "criticsRating": 79,
-            "criticsVotes": 47,
+            "criticsRating": 78,
+            "criticsVotes": 49,
             "audienceRating": null,
             "audienceVotes": 15
           }

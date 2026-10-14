@@ -1,12 +1,12 @@
 {
   "schemaVersion": 1,
   "date": "2026-10-17",
-  "updatedAt": "2026-10-13T17:36:34.739Z",
+  "updatedAt": "2026-10-14T15:07:12.109Z",
   "source": "https://www.kinomuza.pl/repertoire/day/",
   "day": {
-    "id": "04",
+    "id": "03",
     "date": "17.10",
-    "now": "2026-10-13 19:34:49",
+    "now": "2026-10-14 17:04:26",
     "info": [],
     "repertoire": [
       {
@@ -101,7 +101,7 @@
               "Familijny"
             ],
             "rating": 5.6,
-            "votes": 61
+            "votes": 62
           },
           "rottenTomatoes": null
         },
@@ -140,25 +140,25 @@
         "description": "Uwielbiana seria wraca na wielki ekran &#8211; i to w jeszcze bardziej szalonej odsłonie! W tej przezabawnej kinowej przygodzie najsłynniejszy baranek świata zamienia się w… szalonego naukowca. Co może pójść nie tak?",
         "shortDescription": "Uwielbiana seria wraca na wielki ekran &#8211; i to w jeszcze bardziej szalonej odsłonie! W tej przezabawnej kinowej przygodzie najsłynniejszy baranek świata zamienia się w… szalonego naukowca. Co może pójść nie tak?",
         "genres": [
-          "Animacja",
-          "Familijny"
+          "Familijny",
+          "Animacja"
         ],
         "external": {
           "imdb": {
             "id": "tt36841161",
             "url": "https://www.imdb.com/title/tt36841161/",
             "rating": 7.2,
-            "votes": 1327
+            "votes": 1395
           },
           "filmweb": {
             "id": "10101144",
             "url": "https://www.filmweb.pl/film/Baranek+Shaun+i+kud%C5%82ata+bestia-2026-10101144",
             "genres": [
-              "Animacja",
-              "Familijny"
+              "Familijny",
+              "Animacja"
             ],
-            "rating": 7.1,
-            "votes": 62
+            "rating": 7,
+            "votes": 64
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/shaun_the_sheep_the_beast_of_mossy_bottom",
@@ -215,7 +215,7 @@
             "id": "tt37082105",
             "url": "https://www.imdb.com/title/tt37082105/",
             "rating": 7.8,
-            "votes": 841
+            "votes": 955
           },
           "filmweb": {
             "id": "10057628",
@@ -225,7 +225,7 @@
               "Dramat obyczajowy"
             ],
             "rating": 7.7,
-            "votes": 22106
+            "votes": 23077
           },
           "rottenTomatoes": null
         },
@@ -270,7 +270,7 @@
             "id": "tt13609648",
             "url": "https://www.imdb.com/title/tt13609648/",
             "rating": 7.2,
-            "votes": 1933
+            "votes": 2072
           },
           "filmweb": {
             "id": "10087170",
@@ -280,7 +280,7 @@
               "Kostiumowy"
             ],
             "rating": 7,
-            "votes": 57
+            "votes": 63
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/sense_and_sensibility_2026",
@@ -289,8 +289,8 @@
             "directors": [
               "Georgia Oakley"
             ],
-            "criticsRating": 79,
-            "criticsVotes": 47,
+            "criticsRating": 78,
+            "criticsVotes": 49,
             "audienceRating": null,
             "audienceVotes": 15
           }
@@ -335,8 +335,8 @@
           "imdb": {
             "id": "tt37510326",
             "url": "https://www.imdb.com/title/tt37510326/",
-            "rating": 6.8,
-            "votes": 3491
+            "rating": 6.7,
+            "votes": 5095
           },
           "filmweb": {
             "id": "10095188",
@@ -346,7 +346,7 @@
               "Biograficzny"
             ],
             "rating": 6.1,
-            "votes": 851
+            "votes": 953
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/the_social_reckoning",
@@ -356,9 +356,9 @@
               "Aaron Sorkin"
             ],
             "criticsRating": 55,
-            "criticsVotes": 215,
-            "audienceRating": 73,
-            "audienceVotes": 385
+            "criticsVotes": 227,
+            "audienceRating": 72,
+            "audienceVotes": 453
           }
         },
         "longDescription": "Zobaczymy kontynuację filmu Aarona Sorkina „The Social Network” pod tytułem „The Social Reckoning: W sieci konsekwencji ”.\n\nOpowieść o losach Frances Haugen, młodej inżynierki Facebooka, która we współpracy z Jeffem Horwitzem – reportem z „Wall Street Journal” – stara się ujawnić najbardziej skryte tajemnice tego potężnego portalu społecznościowego.\n\nAaron Sorkin otrzymał Oscara za scenariusz adaptowany do filmu „The Social Network” .\n\nW nowym filmie filmie zobaczymy nominowanego do Oscara Jeremy’ego Stronga, który wcieli się w rolę Marka Zuckerberga; lauretkę Oscara, Mikey Madison, która wcieli się w rolę Frances Haugen; oraz laureata Złotego Globu i Emmy Jeremy’ego Allena White’a, który zagra reportera Wall Street Journal Jeffa Horowitza, autora serii artykułów znanych jako „The Facebook Files”. Te opublikowane w październiku 2021 r. reportaże ujawniły wewnętrzne funkcjonowanie Facebooka i wiele szkód spowodowanych przez tę platformę.",
@@ -402,7 +402,7 @@
             "id": "tt34206385",
             "url": "https://www.imdb.com/title/tt34206385/",
             "rating": 7.1,
-            "votes": 16630
+            "votes": 17705
           },
           "filmweb": {
             "id": "10115409",
@@ -412,7 +412,7 @@
               "Kryminał"
             ],
             "rating": 6.4,
-            "votes": 4276
+            "votes": 4804
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/primetime",
@@ -422,9 +422,9 @@
               "Lance Oppenheim"
             ],
             "criticsRating": 86,
-            "criticsVotes": 238,
+            "criticsVotes": 239,
             "audienceRating": 77,
-            "audienceVotes": 2373
+            "audienceVotes": 2406
           }
         },
         "longDescription": "ROBERT PATTINSON w thrillerze psychologicznym PRIMETIME wciela się w Chrisa Hansena, charyzmatycznego dziennikarza, który wkracza do podziemnego świata przestępczego i pragnie zmienić oblicze telewizji. Z czasem jednak ulega własnej obsesji i w drodze na szczyt popularności zaczyna zatracać swój pierwotny cel.",
@@ -467,7 +467,7 @@
             "id": "tt25399154",
             "url": "https://www.imdb.com/title/tt25399154/",
             "rating": 7.5,
-            "votes": 2486
+            "votes": 2560
           },
           "filmweb": {
             "id": "10113205",
@@ -476,7 +476,7 @@
               "Dramat historyczny"
             ],
             "rating": 7.2,
-            "votes": 1398
+            "votes": 1499
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/rose_2026",
@@ -531,8 +531,8 @@
           "imdb": {
             "id": "tt36955382",
             "url": "https://www.imdb.com/title/tt36955382/",
-            "rating": 5.8,
-            "votes": 22
+            "rating": 5.7,
+            "votes": 24
           },
           "filmweb": {
             "id": "10082282",
@@ -542,7 +542,7 @@
               "Sci-Fi"
             ],
             "rating": 6.1,
-            "votes": 553
+            "votes": 581
           },
           "rottenTomatoes": null
         },
@@ -587,7 +587,7 @@
             "id": "tt13609648",
             "url": "https://www.imdb.com/title/tt13609648/",
             "rating": 7.2,
-            "votes": 1933
+            "votes": 2072
           },
           "filmweb": {
             "id": "10087170",
@@ -597,7 +597,7 @@
               "Kostiumowy"
             ],
             "rating": 7,
-            "votes": 57
+            "votes": 63
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/sense_and_sensibility_2026",
@@ -606,8 +606,8 @@
             "directors": [
               "Georgia Oakley"
             ],
-            "criticsRating": 79,
-            "criticsVotes": 47,
+            "criticsRating": 78,
+            "criticsVotes": 49,
             "audienceRating": null,
             "audienceVotes": 15
           }
@@ -653,7 +653,7 @@
             "id": "tt37082105",
             "url": "https://www.imdb.com/title/tt37082105/",
             "rating": 7.8,
-            "votes": 841
+            "votes": 955
           },
           "filmweb": {
             "id": "10057628",
@@ -663,7 +663,7 @@
               "Dramat obyczajowy"
             ],
             "rating": 7.7,
-            "votes": 22106
+            "votes": 23077
           },
           "rottenTomatoes": null
         },
@@ -707,8 +707,8 @@
           "imdb": {
             "id": "tt37510326",
             "url": "https://www.imdb.com/title/tt37510326/",
-            "rating": 6.8,
-            "votes": 3491
+            "rating": 6.7,
+            "votes": 5095
           },
           "filmweb": {
             "id": "10095188",
@@ -718,7 +718,7 @@
               "Biograficzny"
             ],
             "rating": 6.1,
-            "votes": 851
+            "votes": 953
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/the_social_reckoning",
@@ -728,9 +728,9 @@
               "Aaron Sorkin"
             ],
             "criticsRating": 55,
-            "criticsVotes": 215,
-            "audienceRating": 73,
-            "audienceVotes": 385
+            "criticsVotes": 227,
+            "audienceRating": 72,
+            "audienceVotes": 453
           }
         },
         "longDescription": "Zobaczymy kontynuację filmu Aarona Sorkina „The Social Network” pod tytułem „The Social Reckoning: W sieci konsekwencji ”.\n\nOpowieść o losach Frances Haugen, młodej inżynierki Facebooka, która we współpracy z Jeffem Horwitzem – reportem z „Wall Street Journal” – stara się ujawnić najbardziej skryte tajemnice tego potężnego portalu społecznościowego.\n\nAaron Sorkin otrzymał Oscara za scenariusz adaptowany do filmu „The Social Network” .\n\nW nowym filmie filmie zobaczymy nominowanego do Oscara Jeremy’ego Stronga, który wcieli się w rolę Marka Zuckerberga; lauretkę Oscara, Mikey Madison, która wcieli się w rolę Frances Haugen; oraz laureata Złotego Globu i Emmy Jeremy’ego Allena White’a, który zagra reportera Wall Street Journal Jeffa Horowitza, autora serii artykułów znanych jako „The Facebook Files”. Te opublikowane w październiku 2021 r. reportaże ujawniły wewnętrzne funkcjonowanie Facebooka i wiele szkód spowodowanych przez tę platformę.",
@@ -774,7 +774,7 @@
             "id": "tt34206385",
             "url": "https://www.imdb.com/title/tt34206385/",
             "rating": 7.1,
-            "votes": 16630
+            "votes": 17705
           },
           "filmweb": {
             "id": "10115409",
@@ -784,7 +784,7 @@
               "Kryminał"
             ],
             "rating": 6.4,
-            "votes": 4276
+            "votes": 4804
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/primetime",
@@ -794,9 +794,9 @@
               "Lance Oppenheim"
             ],
             "criticsRating": 86,
-            "criticsVotes": 238,
+            "criticsVotes": 239,
             "audienceRating": 77,
-            "audienceVotes": 2373
+            "audienceVotes": 2406
           }
         },
         "longDescription": "ROBERT PATTINSON w thrillerze psychologicznym PRIMETIME wciela się w Chrisa Hansena, charyzmatycznego dziennikarza, który wkracza do podziemnego świata przestępczego i pragnie zmienić oblicze telewizji. Z czasem jednak ulega własnej obsesji i w drodze na szczyt popularności zaczyna zatracać swój pierwotny cel.",
@@ -838,8 +838,8 @@
           "imdb": {
             "id": "tt31450459",
             "url": "https://www.imdb.com/title/tt31450459/",
-            "rating": 7.4,
-            "votes": 29416
+            "rating": 7.5,
+            "votes": 32833
           },
           "filmweb": {
             "id": "10104607",
@@ -848,7 +848,7 @@
               "Czarna komedia"
             ],
             "rating": 7,
-            "votes": 2972
+            "votes": 3290
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/digger_2026",
@@ -858,9 +858,9 @@
               "Alejandro González Iñárritu"
             ],
             "criticsRating": 53,
-            "criticsVotes": 320,
-            "audienceRating": 74,
-            "audienceVotes": 1641
+            "criticsVotes": 322,
+            "audienceRating": 75,
+            "audienceVotes": 1722
           }
         },
         "longDescription": "Najpotężniejszy człowiek świata wyrusza w szaloną misję, chcąc udowodnić, że jest zbawcą ludzkości, zanim katastrofa, którą spowodował, tę ludzkość zniszczy.\n\nCruise występuje w roli tytułowej, a towarzyszą mu laureat Oscara Riz Ahmed, John Goodman, nominowana do Oscara Sandra Hüller, Michael Stuhlbarg oraz nominowany do Oscara Jesse Plemons. W pozostałych rolach występują Robert John Burke, Emma D’Arcy, Burn Gorman i Sophie Wilde.\n\nIñárritu reżyseruje na podstawie scenariusza autorstwa swojego oraz nagrodzonych Oscarem Alexandra Dinelarisa i Nicolása Giacobone’a, jak również Sabiny Berman. Autorami pomysłu są Iñárritu i Berman. Producentami filmu są Iñárritu, nominowana do Oscara Mary Parent, Cruise i Michael Sharp. Funkcję producentów wykonawczych pełnią Joshua Grode, Berman, Dinelaris, Giacobone, Jez Butterworth i Emmanuel Lubezki.\n\nDo Iñárritu po drugiej stronie kamery dołączyli jego dawni współpracownicy, tacy jak nagrodzony Oscarem operator Emmanuel Lubezki, montażyści Conor O’Neill i nagrodzony Oscarem Stephen Mirrione, nominowana do Oscara projektantka kostiumów Jacqueline West, nagrodzony Oscarem charakteryzator Alessandro Bertolazzi oraz nominowana do Oscara reżyserka castingu Francine Maisler. Oprócz nich w ekipie znaleźli się nagrodzony Oscarem scenograf Dennis Gassner i drugi scenograf Richard Johnson, jak również nagrodzony Oscarem twórca protez charakteryzatorskich Kazu Hiro i kompozytor Cosmo Sheldrake.\n\nDigger Alejandra G. Iñárritu został nakręcony w całości w formacie VistaVision. Do kin i kin IMAX® Ameryki Północnej trafi 2 października 2026 roku, a seanse na całym świecie rozpoczną się 30 września 2026 roku. Dystrybutorem filmu jest Warner Bros. Pictures.",
@@ -905,7 +905,7 @@
             "id": "tt0115964",
             "url": "https://www.imdb.com/title/tt0115964/",
             "rating": 6.4,
-            "votes": 73163
+            "votes": 73188
           },
           "filmweb": {
             "id": "642",
@@ -915,7 +915,7 @@
               "Thriller"
             ],
             "rating": 6.1,
-            "votes": 11862
+            "votes": 11878
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/crash_1996",

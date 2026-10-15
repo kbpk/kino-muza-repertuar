@@ -1,12 +1,12 @@
 {
   "schemaVersion": 1,
   "date": "2026-10-29",
-  "updatedAt": "2026-10-14T20:11:00.624Z",
+  "updatedAt": "2026-10-15T14:59:14.786Z",
   "source": "https://www.kinomuza.pl/repertoire/day/",
   "day": {
-    "id": "15",
+    "id": "14",
     "date": "29.10",
-    "now": "2026-10-14 22:10:31",
+    "now": "2026-10-15 16:58:21",
     "info": [],
     "repertoire": [
       {
@@ -41,9 +41,9 @@
         "description": "Jack Carter pracuje dla londyńskich gangsterów. Gdy w Newcastle ginie jego brat, Carter przyjeżdża na pogrzeb.",
         "shortDescription": "Jack Carter pracuje dla londyńskich gangsterów. Gdy w Newcastle ginie jego brat, Carter przyjeżdża na pogrzeb.",
         "genres": [
-          "Kryminał",
+          "Dramat",
           "Sensacyjny",
-          "Dramat"
+          "Kryminał"
         ],
         "external": {
           "imdb": {
@@ -56,9 +56,9 @@
             "id": "5814",
             "url": "https://www.filmweb.pl/film/Dopa%C5%9B%C4%87+Cartera-1971-5814",
             "genres": [
-              "Kryminał",
+              "Dramat",
               "Sensacyjny",
-              "Dramat"
+              "Kryminał"
             ],
             "rating": 7.1,
             "votes": 5192

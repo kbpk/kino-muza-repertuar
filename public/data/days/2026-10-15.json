@@ -1,12 +1,12 @@
 {
   "schemaVersion": 1,
   "date": "2026-10-15",
-  "updatedAt": "2026-10-14T20:11:00.624Z",
+  "updatedAt": "2026-10-15T14:59:14.786Z",
   "source": "https://www.kinomuza.pl/repertoire/day/",
   "day": {
-    "id": "01",
+    "id": "00",
     "date": "15.10",
-    "now": "2026-10-14 22:10:09",
+    "now": "2026-10-15 16:57:11",
     "info": [],
     "repertoire": [
       {
@@ -326,7 +326,7 @@
               "Dramat historyczny"
             ],
             "rating": 7.2,
-            "votes": 1499
+            "votes": 1626
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/rose_2026",
@@ -458,7 +458,7 @@
               "Dramat obyczajowy"
             ],
             "rating": 7.7,
-            "votes": 23077
+            "votes": 24033
           },
           "rottenTomatoes": null
         },
@@ -516,7 +516,7 @@
               "Kostiumowy"
             ],
             "rating": 7.6,
-            "votes": 29885
+            "votes": 29897
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/hamnet",
@@ -528,7 +528,7 @@
             "criticsRating": 86,
             "criticsVotes": 352,
             "audienceRating": 93,
-            "audienceVotes": 2680
+            "audienceVotes": 2681
           }
         },
         "longDescription": "Film Hamnet, autorstwa nagrodzonej Oscarem® scenarzystki i reżyserki Chloé Zhao (Nomadland)., opowiada poruszającą historię miłosną, która zainspirowała Szekspira do stworzenia ponadczasowego arcydzieła Hamlet.\n\nTo poruszająca historię miłości Williama, ambitnego dramaturga i jego żony Agnes. Ich idylliczne życie zostaje zburzone, gdy wybucha epidemia dżumy, która dotyka ich dzieci, Hamneta i Judith. Po latach William pisze nową sztukę zatytułowaną Hamlet, aby poradzić sobie z żałobą.\n\nFilm powstał na podstawie bestsellerowej powieści Maggie O’Farrell z 2020 roku, która sprzedała się w 2 milionach egzemplarzy w Wielkiej Brytanii i USA oraz została przetłumaczona na 40 języków.\n\nW głównych rolach występują: Jessie Buckley, Paul Mescal, Emily Watson i Joe Alwyn.",
@@ -565,8 +565,8 @@
         "description": "Opowieść o losach młodej inżynierki Facebooka, która we współpracy z reportem z &#8222;Wall Street Journal&#8221; &#8211; stara się ujawnić skryte tajemnice portalu społecznościowego.",
         "shortDescription": "Opowieść o losach młodej inżynierki Facebooka, która we współpracy z reportem z &#8222;Wall Street Journal&#8221; &#8211; stara się ujawnić skryte tajemnice portalu społecznościowego.",
         "genres": [
-          "Dramat",
-          "Biograficzny"
+          "Biograficzny",
+          "Dramat"
         ],
         "external": {
           "imdb": {
@@ -579,11 +579,11 @@
             "id": "10095188",
             "url": "https://www.filmweb.pl/film/The+Social+Reckoning%3A+W+sieci+konsekwencji-2026-10095188",
             "genres": [
-              "Dramat",
-              "Biograficzny"
+              "Biograficzny",
+              "Dramat"
             ],
-            "rating": 6.1,
-            "votes": 953
+            "rating": 6,
+            "votes": 1108
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/the_social_reckoning",
@@ -592,10 +592,10 @@
             "directors": [
               "Aaron Sorkin"
             ],
-            "criticsRating": 55,
-            "criticsVotes": 227,
+            "criticsRating": 54,
+            "criticsVotes": 234,
             "audienceRating": 72,
-            "audienceVotes": 453
+            "audienceVotes": 491
           }
         },
         "longDescription": "Zobaczymy kontynuację filmu Aarona Sorkina „The Social Network” pod tytułem „The Social Reckoning: W sieci konsekwencji ”.\n\nOpowieść o losach Frances Haugen, młodej inżynierki Facebooka, która we współpracy z Jeffem Horwitzem – reportem z „Wall Street Journal” – stara się ujawnić najbardziej skryte tajemnice tego potężnego portalu społecznościowego.\n\nAaron Sorkin otrzymał Oscara za scenariusz adaptowany do filmu „The Social Network” .\n\nW nowym filmie filmie zobaczymy nominowanego do Oscara Jeremy’ego Stronga, który wcieli się w rolę Marka Zuckerberga; lauretkę Oscara, Mikey Madison, która wcieli się w rolę Frances Haugen; oraz laureata Złotego Globu i Emmy Jeremy’ego Allena White’a, który zagra reportera Wall Street Journal Jeffa Horowitza, autora serii artykułów znanych jako „The Facebook Files”. Te opublikowane w październiku 2021 r. reportaże ujawniły wewnętrzne funkcjonowanie Facebooka i wiele szkód spowodowanych przez tę platformę.",
@@ -648,7 +648,7 @@
               "Dramat historyczny"
             ],
             "rating": 7.2,
-            "votes": 1499
+            "votes": 1626
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/rose_2026",
@@ -715,7 +715,7 @@
               "Dramat obyczajowy"
             ],
             "rating": 7.7,
-            "votes": 23077
+            "votes": 24033
           },
           "rottenTomatoes": null
         },
@@ -771,7 +771,7 @@
               "Kryminał"
             ],
             "rating": 6.4,
-            "votes": 4804
+            "votes": 5376
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/primetime",
@@ -781,9 +781,9 @@
               "Lance Oppenheim"
             ],
             "criticsRating": 86,
-            "criticsVotes": 239,
+            "criticsVotes": 241,
             "audienceRating": 77,
-            "audienceVotes": 2406
+            "audienceVotes": 2438
           }
         },
         "longDescription": "ROBERT PATTINSON w thrillerze psychologicznym PRIMETIME wciela się w Chrisa Hansena, charyzmatycznego dziennikarza, który wkracza do podziemnego świata przestępczego i pragnie zmienić oblicze telewizji. Z czasem jednak ulega własnej obsesji i w drodze na szczyt popularności zaczyna zatracać swój pierwotny cel.",

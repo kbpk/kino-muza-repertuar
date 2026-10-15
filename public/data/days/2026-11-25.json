@@ -1,12 +1,12 @@
 {
   "schemaVersion": 1,
   "date": "2026-11-25",
-  "updatedAt": "2026-10-14T20:11:00.624Z",
+  "updatedAt": "2026-10-15T14:59:14.786Z",
   "source": "https://www.kinomuza.pl/repertoire/day/",
   "day": {
-    "id": "42",
+    "id": "41",
     "date": "25.11",
-    "now": "2026-10-14 22:10:48",
+    "now": "2026-10-15 16:58:35",
     "info": [],
     "repertoire": [
       {
@@ -56,7 +56,7 @@
               "Dramat"
             ],
             "rating": 6.5,
-            "votes": 133
+            "votes": 136
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/palestine_36",

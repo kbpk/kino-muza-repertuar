@@ -1,12 +1,12 @@
 {
   "schemaVersion": 1,
   "date": "2026-10-18",
-  "updatedAt": "2026-10-15T19:52:45.314Z",
+  "updatedAt": "2026-10-16T14:49:14.166Z",
   "source": "https://www.kinomuza.pl/repertoire/day/",
   "day": {
-    "id": "03",
+    "id": "02",
     "date": "18.10",
-    "now": "2026-10-15 21:51:20",
+    "now": "2026-10-16 16:47:45",
     "info": [],
     "repertoire": [
       {
@@ -41,8 +41,8 @@
         "description": "Uwielbiana seria wraca na wielki ekran &#8211; i to w jeszcze bardziej szalonej odsłonie! W tej przezabawnej kinowej przygodzie najsłynniejszy baranek świata zamienia się w… szalonego naukowca. Co może pójść nie tak?",
         "shortDescription": "Uwielbiana seria wraca na wielki ekran &#8211; i to w jeszcze bardziej szalonej odsłonie! W tej przezabawnej kinowej przygodzie najsłynniejszy baranek świata zamienia się w… szalonego naukowca. Co może pójść nie tak?",
         "genres": [
-          "Familijny",
-          "Animacja"
+          "Animacja",
+          "Familijny"
         ],
         "external": {
           "imdb": {
@@ -55,11 +55,11 @@
             "id": "10101144",
             "url": "https://www.filmweb.pl/film/Baranek+Shaun+i+kud%C5%82ata+bestia-2026-10101144",
             "genres": [
-              "Familijny",
-              "Animacja"
+              "Animacja",
+              "Familijny"
             ],
             "rating": 7,
-            "votes": 66
+            "votes": 73
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/shaun_the_sheep_the_beast_of_mossy_bottom",
@@ -110,9 +110,9 @@
         "description": "To komedia przygodowa, która przenosi bohaterów na dawno zapomnianą, magiczną wyspę. Warto walczyć o najlepszą przyjaźń.",
         "shortDescription": "To komedia przygodowa, która przenosi bohaterów na dawno zapomnianą, magiczną wyspę. Warto walczyć o najlepszą przyjaźń.",
         "genres": [
-          "Animacja",
+          "Przygodowy",
           "Fantasy",
-          "Przygodowy"
+          "Animacja"
         ],
         "external": {
           "imdb": {
@@ -125,12 +125,12 @@
             "id": "10116454",
             "url": "https://www.filmweb.pl/film/Zapomniana+wyspa-2026-10116454",
             "genres": [
-              "Animacja",
+              "Przygodowy",
               "Fantasy",
-              "Przygodowy"
+              "Animacja"
             ],
             "rating": 6.7,
-            "votes": 683
+            "votes": 709
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/forgotten_island",
@@ -140,10 +140,10 @@
               "Joel Crawford",
               "Januel P. Mercado"
             ],
-            "criticsRating": 96,
-            "criticsVotes": 114,
+            "criticsRating": 94,
+            "criticsVotes": 119,
             "audienceRating": 95,
-            "audienceVotes": 1581
+            "audienceVotes": 1592
           }
         },
         "longDescription": "Warto walczyć o najlepszą przyjaźń.\n\nDreamWorks Animation, studio, które stworzyło niezapomniane więzi między chłopcem a smokiem w filmie „Jak wytresować smoka”, ogrem i osłem w animacji „Shrek” oraz robotem i gąsiątkiem w „Dzikim robocie”. Teraz przedstawia olśniewającą i wzruszającą historię o dwójce przyjaciół na całe życie, którzy muszą się zjednoczyć.\n\nNowy film został napisany i wyreżyserowany przez nominowanych do Oscara® Joela Crawforda i Januela Mercado, a jego producentem jest nominowany do Oscara® Mark Swift, twórca filmu „Kot w butach: Ostatnie życzenie”.\n\nNagrodzone nagrodą Grammy i Oscarem® H.E.R. i Liza Soberano użyczają głosu Jo i Raissie.\n\nTo przyjaciółki od najmłodszych lat, które właśnie kończą szkołę średnią i stoją u progu zupełnie nowych etapów życia.\n\nPodczas wspólnego świętowania ostatniego wieczoru przed rozstaniem dziewczyny przypadkiem odkrywają tajemniczy portal, który przenosi je na magiczną wyspę Nakali. To niezwykła kraina pełna fantastycznych i mitycznych stworzeń, o których od dzieciństwa słyszały w opowieściach przekazywanych przez ich filipińskie rodziny.\n\nNiektóre z tych postaci staną się przyjaciółmi, inne wrogami. Jo i Raissa muszą stawić czoła najgroźniejszemu stworzeniu na wyspie.\n\nKiedy odkryją, że wspomnienia ich przyjaźni są ceną za powrót do domu, Jo i Raissa będą ścigać się, by znaleźć sposób na opuszczenie wyspy, zanim zapomną o sobie na zawsze.",
@@ -181,9 +181,9 @@
         "description": "Wielkie głębiny, jeszcze większe wyzwania i… humbak szukający własnego głosu! Nastoletni Vincent musi kontynuować misję swojego ojca, legendarnego Magicznego Wieloryba, którego śpiew chronił oceany. Niestety, zamiast tego niezwykłego daru ma jedynie wyjątkowy talent do… wpadania w tarapaty!",
         "shortDescription": "Wielkie głębiny, jeszcze większe wyzwania i… humbak szukający własnego głosu! Nastoletni Vincent musi kontynuować misję swojego ojca, legendarnego Magicznego Wieloryba, którego śpiew chronił oceany. Niestety, zamiast tego niezwykłego daru ma jedynie wyjątkowy talent do… wpadania w tarapaty!",
         "genres": [
-          "Animacja",
+          "Familijny",
           "Komedia",
-          "Familijny"
+          "Animacja"
         ],
         "external": {
           "imdb": {
@@ -196,12 +196,12 @@
             "id": "10117297",
             "url": "https://www.filmweb.pl/film/Vincent.+Legenda+oceanu-2025-10117297",
             "genres": [
-              "Animacja",
+              "Familijny",
               "Komedia",
-              "Familijny"
+              "Animacja"
             ],
-            "rating": 5.5,
-            "votes": 65
+            "rating": 5.6,
+            "votes": 67
           },
           "rottenTomatoes": null
         },
@@ -256,7 +256,7 @@
               "Dramat obyczajowy"
             ],
             "rating": 7.7,
-            "votes": 24033
+            "votes": 24966
           },
           "rottenTomatoes": null
         },
@@ -309,7 +309,7 @@
               "Czarna komedia"
             ],
             "rating": 7,
-            "votes": 3694
+            "votes": 3997
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/digger_2026",
@@ -319,9 +319,9 @@
               "Alejandro González Iñárritu"
             ],
             "criticsRating": 53,
-            "criticsVotes": 328,
-            "audienceRating": 75,
-            "audienceVotes": 1794
+            "criticsVotes": 331,
+            "audienceRating": 76,
+            "audienceVotes": 1832
           }
         },
         "longDescription": "Najpotężniejszy człowiek świata wyrusza w szaloną misję, chcąc udowodnić, że jest zbawcą ludzkości, zanim katastrofa, którą spowodował, tę ludzkość zniszczy.\n\nCruise występuje w roli tytułowej, a towarzyszą mu laureat Oscara Riz Ahmed, John Goodman, nominowana do Oscara Sandra Hüller, Michael Stuhlbarg oraz nominowany do Oscara Jesse Plemons. W pozostałych rolach występują Robert John Burke, Emma D’Arcy, Burn Gorman i Sophie Wilde.\n\nIñárritu reżyseruje na podstawie scenariusza autorstwa swojego oraz nagrodzonych Oscarem Alexandra Dinelarisa i Nicolása Giacobone’a, jak również Sabiny Berman. Autorami pomysłu są Iñárritu i Berman. Producentami filmu są Iñárritu, nominowana do Oscara Mary Parent, Cruise i Michael Sharp. Funkcję producentów wykonawczych pełnią Joshua Grode, Berman, Dinelaris, Giacobone, Jez Butterworth i Emmanuel Lubezki.\n\nDo Iñárritu po drugiej stronie kamery dołączyli jego dawni współpracownicy, tacy jak nagrodzony Oscarem operator Emmanuel Lubezki, montażyści Conor O’Neill i nagrodzony Oscarem Stephen Mirrione, nominowana do Oscara projektantka kostiumów Jacqueline West, nagrodzony Oscarem charakteryzator Alessandro Bertolazzi oraz nominowana do Oscara reżyserka castingu Francine Maisler. Oprócz nich w ekipie znaleźli się nagrodzony Oscarem scenograf Dennis Gassner i drugi scenograf Richard Johnson, jak również nagrodzony Oscarem twórca protez charakteryzatorskich Kazu Hiro i kompozytor Cosmo Sheldrake.\n\nDigger Alejandra G. Iñárritu został nakręcony w całości w formacie VistaVision. Do kin i kin IMAX® Ameryki Północnej trafi 2 października 2026 roku, a seanse na całym świecie rozpoczną się 30 września 2026 roku. Dystrybutorem filmu jest Warner Bros. Pictures.",
@@ -357,8 +357,8 @@
         "description": "Akcja, osadzona w Anglii epoki georgiańskiej, podąża za losami zamożnego pana Dashwooda, który umiera, pozostawiając swoją drugą żonę oraz trzy córki w trudnej sytuacji finansowej.",
         "shortDescription": "Akcja, osadzona w Anglii epoki georgiańskiej, podąża za losami zamożnego pana Dashwooda, który umiera, pozostawiając swoją drugą żonę oraz trzy córki w trudnej sytuacji finansowej.",
         "genres": [
-          "Melodramat",
-          "Kostiumowy"
+          "Kostiumowy",
+          "Melodramat"
         ],
         "external": {
           "imdb": {
@@ -371,11 +371,11 @@
             "id": "10087170",
             "url": "https://www.filmweb.pl/film/Rozwa%C5%BCna+i+romantyczna-2026-10087170",
             "genres": [
-              "Melodramat",
-              "Kostiumowy"
+              "Kostiumowy",
+              "Melodramat"
             ],
-            "rating": 7,
-            "votes": 66
+            "rating": 6.9,
+            "votes": 71
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/sense_and_sensibility_2026",
@@ -384,10 +384,10 @@
             "directors": [
               "Georgia Oakley"
             ],
-            "criticsRating": 75,
-            "criticsVotes": 61,
+            "criticsRating": 76,
+            "criticsVotes": 75,
             "audienceRating": null,
-            "audienceVotes": 25
+            "audienceVotes": 56
           }
         },
         "longDescription": "Georgeia Oakley jest reżyserką nowej interpretacji  Rozważnej i romantycznej  Jane Austen. To produkcja Working Title, oparta na scenariuszu Diany Reid, w rolach głównych zobaczymy: Daisy Edgar-Jones, Esmé Creed-Miles, Caitríonę Balfe, Franka Dillane’a, Herberta Nordruma, Bodhi Rae Breathnach, George’a MacKaya oraz Fionę Shaw.\n\nAkcja, osadzona w Anglii epoki georgiańskiej, podąża za losami zamożnego pana Dashwooda, który umiera, pozostawiając swoją drugą żonę oraz trzy córki w trudnej sytuacji finansowej. Kobiety przenoszą się do skromnej wiejskiej posiadłości, gdzie dwie starsze siostry rywalizują o względy różnych adoratorów, poszukując prawdziwej miłości.\n\nProducentami filmu są: Tim Bevan i Eric Fellner z Working Title, a także India Flint z November Pictures oraz Jo Wallett z Kiddo Films. Working Title i Focus wcześniej współpracowały przy filmowej adaptacji  Dumy i uprzedzenia  z 2005 roku, która zdobyła cztery nominacje do Oscara, oraz przy kinowej wersji  Emmy  z 2020 roku.\n\nRozważna i romantyczna  trafiła na ekrany również w 1995 roku ze studia Sony Pictures Classics — film w reżyserii Anga Lee, ze scenariuszem Emmy Thompson, nagrodzonej Oscarem za najlepszy scenariusz adaptowany. Thompson zagrała także Elinor Dashwood, a Kate Winslet wcieliła się w Marianne. Produkcja otrzymała w sumie siedem nominacji do Oscara i zarobiła ponad 134 miliony dolarów na świecie.",
@@ -439,7 +439,7 @@
               "Dramat historyczny"
             ],
             "rating": 7.2,
-            "votes": 1626
+            "votes": 1749
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/rose_2026",
@@ -487,8 +487,8 @@
         "description": "Akcja, osadzona w Anglii epoki georgiańskiej, podąża za losami zamożnego pana Dashwooda, który umiera, pozostawiając swoją drugą żonę oraz trzy córki w trudnej sytuacji finansowej.",
         "shortDescription": "Akcja, osadzona w Anglii epoki georgiańskiej, podąża za losami zamożnego pana Dashwooda, który umiera, pozostawiając swoją drugą żonę oraz trzy córki w trudnej sytuacji finansowej.",
         "genres": [
-          "Melodramat",
-          "Kostiumowy"
+          "Kostiumowy",
+          "Melodramat"
         ],
         "external": {
           "imdb": {
@@ -501,11 +501,11 @@
             "id": "10087170",
             "url": "https://www.filmweb.pl/film/Rozwa%C5%BCna+i+romantyczna-2026-10087170",
             "genres": [
-              "Melodramat",
-              "Kostiumowy"
+              "Kostiumowy",
+              "Melodramat"
             ],
-            "rating": 7,
-            "votes": 66
+            "rating": 6.9,
+            "votes": 71
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/sense_and_sensibility_2026",
@@ -514,10 +514,10 @@
             "directors": [
               "Georgia Oakley"
             ],
-            "criticsRating": 75,
-            "criticsVotes": 61,
+            "criticsRating": 76,
+            "criticsVotes": 75,
             "audienceRating": null,
-            "audienceVotes": 25
+            "audienceVotes": 56
           }
         },
         "longDescription": "Georgeia Oakley jest reżyserką nowej interpretacji  Rozważnej i romantycznej  Jane Austen. To produkcja Working Title, oparta na scenariuszu Diany Reid, w rolach głównych zobaczymy: Daisy Edgar-Jones, Esmé Creed-Miles, Caitríonę Balfe, Franka Dillane’a, Herberta Nordruma, Bodhi Rae Breathnach, George’a MacKaya oraz Fionę Shaw.\n\nAkcja, osadzona w Anglii epoki georgiańskiej, podąża za losami zamożnego pana Dashwooda, który umiera, pozostawiając swoją drugą żonę oraz trzy córki w trudnej sytuacji finansowej. Kobiety przenoszą się do skromnej wiejskiej posiadłości, gdzie dwie starsze siostry rywalizują o względy różnych adoratorów, poszukując prawdziwej miłości.\n\nProducentami filmu są: Tim Bevan i Eric Fellner z Working Title, a także India Flint z November Pictures oraz Jo Wallett z Kiddo Films. Working Title i Focus wcześniej współpracowały przy filmowej adaptacji  Dumy i uprzedzenia  z 2005 roku, która zdobyła cztery nominacje do Oscara, oraz przy kinowej wersji  Emmy  z 2020 roku.\n\nRozważna i romantyczna  trafiła na ekrany również w 1995 roku ze studia Sony Pictures Classics — film w reżyserii Anga Lee, ze scenariuszem Emmy Thompson, nagrodzonej Oscarem za najlepszy scenariusz adaptowany. Thompson zagrała także Elinor Dashwood, a Kate Winslet wcieliła się w Marianne. Produkcja otrzymała w sumie siedem nominacji do Oscara i zarobiła ponad 134 miliony dolarów na świecie.",
@@ -553,8 +553,8 @@
         "description": "Poruszająca historia miłości Williama, ambitnego dramaturga i jego żony Agnes. Ich idylliczne życie zostaje zburzone, gdy wybucha epidemia dżumy, która dotyka ich dzieci.",
         "shortDescription": "Poruszająca historia miłości Williama, ambitnego dramaturga i jego żony Agnes. Ich idylliczne życie zostaje zburzone, gdy wybucha epidemia dżumy, która dotyka ich dzieci.",
         "genres": [
-          "Dramat",
           "Biograficzny",
+          "Dramat",
           "Kostiumowy"
         ],
         "external": {
@@ -568,12 +568,12 @@
             "id": "10035555",
             "url": "https://www.filmweb.pl/film/Hamnet-2025-10035555",
             "genres": [
-              "Dramat",
               "Biograficzny",
+              "Dramat",
               "Kostiumowy"
             ],
             "rating": 7.6,
-            "votes": 29897
+            "votes": 29919
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/hamnet",
@@ -585,7 +585,7 @@
             "criticsRating": 86,
             "criticsVotes": 352,
             "audienceRating": 93,
-            "audienceVotes": 2681
+            "audienceVotes": 2682
           }
         },
         "longDescription": "Film Hamnet, autorstwa nagrodzonej Oscarem® scenarzystki i reżyserki Chloé Zhao (Nomadland)., opowiada poruszającą historię miłosną, która zainspirowała Szekspira do stworzenia ponadczasowego arcydzieła Hamlet.\n\nTo poruszająca historię miłości Williama, ambitnego dramaturga i jego żony Agnes. Ich idylliczne życie zostaje zburzone, gdy wybucha epidemia dżumy, która dotyka ich dzieci, Hamneta i Judith. Po latach William pisze nową sztukę zatytułowaną Hamlet, aby poradzić sobie z żałobą.\n\nFilm powstał na podstawie bestsellerowej powieści Maggie O’Farrell z 2020 roku, która sprzedała się w 2 milionach egzemplarzy w Wielkiej Brytanii i USA oraz została przetłumaczona na 40 języków.\n\nW głównych rolach występują: Jessie Buckley, Paul Mescal, Emily Watson i Joe Alwyn.",
@@ -639,7 +639,7 @@
               "Dramat obyczajowy"
             ],
             "rating": 7.7,
-            "votes": 24033
+            "votes": 24966
           },
           "rottenTomatoes": null
         },
@@ -692,7 +692,7 @@
               "Dramat historyczny"
             ],
             "rating": 7.2,
-            "votes": 1626
+            "votes": 1749
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/rose_2026",
@@ -758,7 +758,7 @@
               "Kryminał"
             ],
             "rating": 6.4,
-            "votes": 5376
+            "votes": 5819
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/primetime",
@@ -770,7 +770,7 @@
             "criticsRating": 86,
             "criticsVotes": 241,
             "audienceRating": 77,
-            "audienceVotes": 2438
+            "audienceVotes": 2457
           }
         },
         "longDescription": "ROBERT PATTINSON w thrillerze psychologicznym PRIMETIME wciela się w Chrisa Hansena, charyzmatycznego dziennikarza, który wkracza do podziemnego świata przestępczego i pragnie zmienić oblicze telewizji. Z czasem jednak ulega własnej obsesji i w drodze na szczyt popularności zaczyna zatracać swój pierwotny cel.",
@@ -806,8 +806,8 @@
         "description": "Przyszłość jest teraz i nie ma w niej miejsca na starość, brzydotę i autentyczność. Pasujesz tu?",
         "shortDescription": "Przyszłość jest teraz i nie ma w niej miejsca na starość, brzydotę i autentyczność. Pasujesz tu?",
         "genres": [
-          "Melodramat",
-          "Sci-Fi"
+          "Sci-Fi",
+          "Melodramat"
         ],
         "external": {
           "imdb": {
@@ -820,11 +820,11 @@
             "id": "10082282",
             "url": "https://www.filmweb.pl/film/Czas%2C+kt%C3%B3ry+nie+nadszed%C5%82-2026-10082282",
             "genres": [
-              "Melodramat",
-              "Sci-Fi"
+              "Sci-Fi",
+              "Melodramat"
             ],
             "rating": 6.1,
-            "votes": 598
+            "votes": 627
           },
           "rottenTomatoes": null
         },
@@ -879,7 +879,7 @@
               "Dramat"
             ],
             "rating": 6,
-            "votes": 1108
+            "votes": 1215
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/the_social_reckoning",
@@ -889,9 +889,9 @@
               "Aaron Sorkin"
             ],
             "criticsRating": 54,
-            "criticsVotes": 234,
-            "audienceRating": 72,
-            "audienceVotes": 491
+            "criticsVotes": 240,
+            "audienceRating": 71,
+            "audienceVotes": 522
           }
         },
         "longDescription": "Zobaczymy kontynuację filmu Aarona Sorkina „The Social Network” pod tytułem „The Social Reckoning: W sieci konsekwencji ”.\n\nOpowieść o losach Frances Haugen, młodej inżynierki Facebooka, która we współpracy z Jeffem Horwitzem – reportem z „Wall Street Journal” – stara się ujawnić najbardziej skryte tajemnice tego potężnego portalu społecznościowego.\n\nAaron Sorkin otrzymał Oscara za scenariusz adaptowany do filmu „The Social Network” .\n\nW nowym filmie filmie zobaczymy nominowanego do Oscara Jeremy’ego Stronga, który wcieli się w rolę Marka Zuckerberga; lauretkę Oscara, Mikey Madison, która wcieli się w rolę Frances Haugen; oraz laureata Złotego Globu i Emmy Jeremy’ego Allena White’a, który zagra reportera Wall Street Journal Jeffa Horowitza, autora serii artykułów znanych jako „The Facebook Files”. Te opublikowane w październiku 2021 r. reportaże ujawniły wewnętrzne funkcjonowanie Facebooka i wiele szkód spowodowanych przez tę platformę.",
@@ -943,7 +943,7 @@
               "Dramat historyczny"
             ],
             "rating": 7.2,
-            "votes": 1626
+            "votes": 1749
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/rose_2026",

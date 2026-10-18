@@ -1,12 +1,12 @@
 {
   "schemaVersion": 1,
   "date": "2026-10-18",
-  "updatedAt": "2026-10-17T18:28:28.757Z",
+  "updatedAt": "2026-10-18T13:59:43.299Z",
   "source": "https://www.kinomuza.pl/repertoire/day/",
   "day": {
-    "id": "01",
+    "id": "00",
     "date": "18.10",
-    "now": "2026-10-17 20:26:04",
+    "now": "2026-10-18 15:58:17",
     "info": [],
     "repertoire": [
       {
@@ -430,7 +430,7 @@
             "id": "tt25399154",
             "url": "https://www.imdb.com/title/tt25399154/",
             "rating": 7.5,
-            "votes": 2679
+            "votes": 2690
           },
           "filmweb": {
             "id": "10113205",
@@ -439,7 +439,7 @@
               "Dramat historyczny"
             ],
             "rating": 7.2,
-            "votes": 1790
+            "votes": 1858
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/rose_2026",
@@ -495,7 +495,7 @@
             "id": "tt13609648",
             "url": "https://www.imdb.com/title/tt13609648/",
             "rating": 7.3,
-            "votes": 2559
+            "votes": 2696
           },
           "filmweb": {
             "id": "10087170",
@@ -504,8 +504,8 @@
               "Melodramat",
               "Kostiumowy"
             ],
-            "rating": 7.3,
-            "votes": 282
+            "rating": 7.2,
+            "votes": 533
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/sense_and_sensibility_2026",
@@ -514,10 +514,10 @@
             "directors": [
               "Georgia Oakley"
             ],
-            "criticsRating": 75,
-            "criticsVotes": 92,
+            "criticsRating": 76,
+            "criticsVotes": 96,
             "audienceRating": 90,
-            "audienceVotes": 137
+            "audienceVotes": 260
           }
         },
         "longDescription": "Georgeia Oakley jest reżyserką nowej interpretacji  Rozważnej i romantycznej  Jane Austen. To produkcja Working Title, oparta na scenariuszu Diany Reid, w rolach głównych zobaczymy: Daisy Edgar-Jones, Esmé Creed-Miles, Caitríonę Balfe, Franka Dillane’a, Herberta Nordruma, Bodhi Rae Breathnach, George’a MacKaya oraz Fionę Shaw.\n\nAkcja, osadzona w Anglii epoki georgiańskiej, podąża za losami zamożnego pana Dashwooda, który umiera, pozostawiając swoją drugą żonę oraz trzy córki w trudnej sytuacji finansowej. Kobiety przenoszą się do skromnej wiejskiej posiadłości, gdzie dwie starsze siostry rywalizują o względy różnych adoratorów, poszukując prawdziwej miłości.\n\nProducentami filmu są: Tim Bevan i Eric Fellner z Working Title, a także India Flint z November Pictures oraz Jo Wallett z Kiddo Films. Working Title i Focus wcześniej współpracowały przy filmowej adaptacji  Dumy i uprzedzenia  z 2005 roku, która zdobyła cztery nominacje do Oscara, oraz przy kinowej wersji  Emmy  z 2020 roku.\n\nRozważna i romantyczna  trafiła na ekrany również w 1995 roku ze studia Sony Pictures Classics — film w reżyserii Anga Lee, ze scenariuszem Emmy Thompson, nagrodzonej Oscarem za najlepszy scenariusz adaptowany. Thompson zagrała także Elinor Dashwood, a Kate Winslet wcieliła się w Marianne. Produkcja otrzymała w sumie siedem nominacji do Oscara i zarobiła ponad 134 miliony dolarów na świecie.",
@@ -562,7 +562,7 @@
             "id": "tt14905854",
             "url": "https://www.imdb.com/title/tt14905854/",
             "rating": 7.8,
-            "votes": 139177
+            "votes": 139221
           },
           "filmweb": {
             "id": "10035555",
@@ -573,7 +573,7 @@
               "Kostiumowy"
             ],
             "rating": 7.6,
-            "votes": 29953
+            "votes": 29983
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/hamnet",
@@ -585,7 +585,7 @@
             "criticsRating": 86,
             "criticsVotes": 352,
             "audienceRating": 93,
-            "audienceVotes": 2682
+            "audienceVotes": 2683
           }
         },
         "longDescription": "Film Hamnet, autorstwa nagrodzonej Oscarem® scenarzystki i reżyserki Chloé Zhao (Nomadland)., opowiada poruszającą historię miłosną, która zainspirowała Szekspira do stworzenia ponadczasowego arcydzieła Hamlet.\n\nTo poruszająca historię miłości Williama, ambitnego dramaturga i jego żony Agnes. Ich idylliczne życie zostaje zburzone, gdy wybucha epidemia dżumy, która dotyka ich dzieci, Hamneta i Judith. Po latach William pisze nową sztukę zatytułowaną Hamlet, aby poradzić sobie z żałobą.\n\nFilm powstał na podstawie bestsellerowej powieści Maggie O’Farrell z 2020 roku, która sprzedała się w 2 milionach egzemplarzy w Wielkiej Brytanii i USA oraz została przetłumaczona na 40 języków.\n\nW głównych rolach występują: Jessie Buckley, Paul Mescal, Emily Watson i Joe Alwyn.",
@@ -629,7 +629,7 @@
             "id": "tt37082105",
             "url": "https://www.imdb.com/title/tt37082105/",
             "rating": 7.8,
-            "votes": 1080
+            "votes": 1103
           },
           "filmweb": {
             "id": "10057628",
@@ -639,7 +639,7 @@
               "Dramat obyczajowy"
             ],
             "rating": 7.7,
-            "votes": 25854
+            "votes": 27074
           },
           "rottenTomatoes": null
         },
@@ -683,7 +683,7 @@
             "id": "tt25399154",
             "url": "https://www.imdb.com/title/tt25399154/",
             "rating": 7.5,
-            "votes": 2679
+            "votes": 2690
           },
           "filmweb": {
             "id": "10113205",
@@ -692,7 +692,7 @@
               "Dramat historyczny"
             ],
             "rating": 7.2,
-            "votes": 1790
+            "votes": 1858
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/rose_2026",
@@ -748,7 +748,7 @@
             "id": "tt34206385",
             "url": "https://www.imdb.com/title/tt34206385/",
             "rating": 7.1,
-            "votes": 18842
+            "votes": 19039
           },
           "filmweb": {
             "id": "10115409",
@@ -758,7 +758,7 @@
               "Kryminał"
             ],
             "rating": 6.4,
-            "votes": 6236
+            "votes": 6783
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/primetime",
@@ -770,7 +770,7 @@
             "criticsRating": 86,
             "criticsVotes": 241,
             "audienceRating": 77,
-            "audienceVotes": 2484
+            "audienceVotes": 2526
           }
         },
         "longDescription": "ROBERT PATTINSON w thrillerze psychologicznym PRIMETIME wciela się w Chrisa Hansena, charyzmatycznego dziennikarza, który wkracza do podziemnego świata przestępczego i pragnie zmienić oblicze telewizji. Z czasem jednak ulega własnej obsesji i w drodze na szczyt popularności zaczyna zatracać swój pierwotny cel.",
@@ -814,7 +814,7 @@
             "id": "tt36955382",
             "url": "https://www.imdb.com/title/tt36955382/",
             "rating": 5.7,
-            "votes": 25
+            "votes": 30
           },
           "filmweb": {
             "id": "10082282",
@@ -824,7 +824,7 @@
               "Melodramat"
             ],
             "rating": 6.1,
-            "votes": 736
+            "votes": 867
           },
           "rottenTomatoes": null
         },
@@ -869,7 +869,7 @@
             "id": "tt37510326",
             "url": "https://www.imdb.com/title/tt37510326/",
             "rating": 6.7,
-            "votes": 6765
+            "votes": 6918
           },
           "filmweb": {
             "id": "10095188",
@@ -879,7 +879,7 @@
               "Dramat"
             ],
             "rating": 6,
-            "votes": 1303
+            "votes": 1375
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/the_social_reckoning",
@@ -888,10 +888,10 @@
             "directors": [
               "Aaron Sorkin"
             ],
-            "criticsRating": 55,
-            "criticsVotes": 242,
-            "audienceRating": 72,
-            "audienceVotes": 541
+            "criticsRating": 54,
+            "criticsVotes": 243,
+            "audienceRating": 71,
+            "audienceVotes": 571
           }
         },
         "longDescription": "Zobaczymy kontynuację filmu Aarona Sorkina „The Social Network” pod tytułem „The Social Reckoning: W sieci konsekwencji ”.\n\nOpowieść o losach Frances Haugen, młodej inżynierki Facebooka, która we współpracy z Jeffem Horwitzem – reportem z „Wall Street Journal” – stara się ujawnić najbardziej skryte tajemnice tego potężnego portalu społecznościowego.\n\nAaron Sorkin otrzymał Oscara za scenariusz adaptowany do filmu „The Social Network” .\n\nW nowym filmie filmie zobaczymy nominowanego do Oscara Jeremy’ego Stronga, który wcieli się w rolę Marka Zuckerberga; lauretkę Oscara, Mikey Madison, która wcieli się w rolę Frances Haugen; oraz laureata Złotego Globu i Emmy Jeremy’ego Allena White’a, który zagra reportera Wall Street Journal Jeffa Horowitza, autora serii artykułów znanych jako „The Facebook Files”. Te opublikowane w październiku 2021 r. reportaże ujawniły wewnętrzne funkcjonowanie Facebooka i wiele szkód spowodowanych przez tę platformę.",
@@ -934,7 +934,7 @@
             "id": "tt25399154",
             "url": "https://www.imdb.com/title/tt25399154/",
             "rating": 7.5,
-            "votes": 2679
+            "votes": 2690
           },
           "filmweb": {
             "id": "10113205",
@@ -943,7 +943,7 @@
               "Dramat historyczny"
             ],
             "rating": 7.2,
-            "votes": 1790
+            "votes": 1858
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/rose_2026",

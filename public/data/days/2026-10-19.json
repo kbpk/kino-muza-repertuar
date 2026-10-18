@@ -1,12 +1,12 @@
 {
   "schemaVersion": 1,
   "date": "2026-10-19",
-  "updatedAt": "2026-10-17T18:28:28.757Z",
+  "updatedAt": "2026-10-18T13:59:43.299Z",
   "source": "https://www.kinomuza.pl/repertoire/day/",
   "day": {
-    "id": "02",
+    "id": "01",
     "date": "19.10",
-    "now": "2026-10-17 20:26:15",
+    "now": "2026-10-18 15:58:30",
     "info": [],
     "repertoire": [
       {
@@ -47,7 +47,7 @@
             "id": "tt37082105",
             "url": "https://www.imdb.com/title/tt37082105/",
             "rating": 7.8,
-            "votes": 1080
+            "votes": 1103
           },
           "filmweb": {
             "id": "10057628",
@@ -57,7 +57,7 @@
               "Dramat obyczajowy"
             ],
             "rating": 7.7,
-            "votes": 25854
+            "votes": 27074
           },
           "rottenTomatoes": null
         },
@@ -102,7 +102,7 @@
             "id": "tt34206385",
             "url": "https://www.imdb.com/title/tt34206385/",
             "rating": 7.1,
-            "votes": 18842
+            "votes": 19039
           },
           "filmweb": {
             "id": "10115409",
@@ -112,7 +112,7 @@
               "Kryminał"
             ],
             "rating": 6.4,
-            "votes": 6236
+            "votes": 6783
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/primetime",
@@ -124,7 +124,7 @@
             "criticsRating": 86,
             "criticsVotes": 241,
             "audienceRating": 77,
-            "audienceVotes": 2484
+            "audienceVotes": 2526
           }
         },
         "longDescription": "ROBERT PATTINSON w thrillerze psychologicznym PRIMETIME wciela się w Chrisa Hansena, charyzmatycznego dziennikarza, który wkracza do podziemnego świata przestępczego i pragnie zmienić oblicze telewizji. Z czasem jednak ulega własnej obsesji i w drodze na szczyt popularności zaczyna zatracać swój pierwotny cel.",
@@ -168,7 +168,7 @@
             "id": "tt13609648",
             "url": "https://www.imdb.com/title/tt13609648/",
             "rating": 7.3,
-            "votes": 2559
+            "votes": 2696
           },
           "filmweb": {
             "id": "10087170",
@@ -177,8 +177,8 @@
               "Melodramat",
               "Kostiumowy"
             ],
-            "rating": 7.3,
-            "votes": 282
+            "rating": 7.2,
+            "votes": 533
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/sense_and_sensibility_2026",
@@ -187,10 +187,10 @@
             "directors": [
               "Georgia Oakley"
             ],
-            "criticsRating": 75,
-            "criticsVotes": 92,
+            "criticsRating": 76,
+            "criticsVotes": 96,
             "audienceRating": 90,
-            "audienceVotes": 137
+            "audienceVotes": 260
           }
         },
         "longDescription": "Georgeia Oakley jest reżyserką nowej interpretacji  Rozważnej i romantycznej  Jane Austen. To produkcja Working Title, oparta na scenariuszu Diany Reid, w rolach głównych zobaczymy: Daisy Edgar-Jones, Esmé Creed-Miles, Caitríonę Balfe, Franka Dillane’a, Herberta Nordruma, Bodhi Rae Breathnach, George’a MacKaya oraz Fionę Shaw.\n\nAkcja, osadzona w Anglii epoki georgiańskiej, podąża za losami zamożnego pana Dashwooda, który umiera, pozostawiając swoją drugą żonę oraz trzy córki w trudnej sytuacji finansowej. Kobiety przenoszą się do skromnej wiejskiej posiadłości, gdzie dwie starsze siostry rywalizują o względy różnych adoratorów, poszukując prawdziwej miłości.\n\nProducentami filmu są: Tim Bevan i Eric Fellner z Working Title, a także India Flint z November Pictures oraz Jo Wallett z Kiddo Films. Working Title i Focus wcześniej współpracowały przy filmowej adaptacji  Dumy i uprzedzenia  z 2005 roku, która zdobyła cztery nominacje do Oscara, oraz przy kinowej wersji  Emmy  z 2020 roku.\n\nRozważna i romantyczna  trafiła na ekrany również w 1995 roku ze studia Sony Pictures Classics — film w reżyserii Anga Lee, ze scenariuszem Emmy Thompson, nagrodzonej Oscarem za najlepszy scenariusz adaptowany. Thompson zagrała także Elinor Dashwood, a Kate Winslet wcieliła się w Marianne. Produkcja otrzymała w sumie siedem nominacji do Oscara i zarobiła ponad 134 miliony dolarów na świecie.",
@@ -234,7 +234,7 @@
             "id": "tt36955382",
             "url": "https://www.imdb.com/title/tt36955382/",
             "rating": 5.7,
-            "votes": 25
+            "votes": 30
           },
           "filmweb": {
             "id": "10082282",
@@ -244,7 +244,7 @@
               "Melodramat"
             ],
             "rating": 6.1,
-            "votes": 736
+            "votes": 867
           },
           "rottenTomatoes": null
         },
@@ -288,7 +288,7 @@
             "id": "tt25399154",
             "url": "https://www.imdb.com/title/tt25399154/",
             "rating": 7.5,
-            "votes": 2679
+            "votes": 2690
           },
           "filmweb": {
             "id": "10113205",
@@ -297,7 +297,7 @@
               "Dramat historyczny"
             ],
             "rating": 7.2,
-            "votes": 1790
+            "votes": 1858
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/rose_2026",
@@ -353,7 +353,7 @@
             "id": "tt37082105",
             "url": "https://www.imdb.com/title/tt37082105/",
             "rating": 7.8,
-            "votes": 1080
+            "votes": 1103
           },
           "filmweb": {
             "id": "10057628",
@@ -363,7 +363,7 @@
               "Dramat obyczajowy"
             ],
             "rating": 7.7,
-            "votes": 25854
+            "votes": 27074
           },
           "rottenTomatoes": null
         },
@@ -407,7 +407,7 @@
             "id": "tt31450459",
             "url": "https://www.imdb.com/title/tt31450459/",
             "rating": 7.5,
-            "votes": 36814
+            "votes": 37205
           },
           "filmweb": {
             "id": "10104607",
@@ -416,7 +416,7 @@
               "Czarna komedia"
             ],
             "rating": 7,
-            "votes": 4243
+            "votes": 4581
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/digger_2026",
@@ -426,9 +426,9 @@
               "Alejandro González Iñárritu"
             ],
             "criticsRating": 53,
-            "criticsVotes": 331,
+            "criticsVotes": 332,
             "audienceRating": 76,
-            "audienceVotes": 1877
+            "audienceVotes": 1919
           }
         },
         "longDescription": "Najpotężniejszy człowiek świata wyrusza w szaloną misję, chcąc udowodnić, że jest zbawcą ludzkości, zanim katastrofa, którą spowodował, tę ludzkość zniszczy.\n\nCruise występuje w roli tytułowej, a towarzyszą mu laureat Oscara Riz Ahmed, John Goodman, nominowana do Oscara Sandra Hüller, Michael Stuhlbarg oraz nominowany do Oscara Jesse Plemons. W pozostałych rolach występują Robert John Burke, Emma D’Arcy, Burn Gorman i Sophie Wilde.\n\nIñárritu reżyseruje na podstawie scenariusza autorstwa swojego oraz nagrodzonych Oscarem Alexandra Dinelarisa i Nicolása Giacobone’a, jak również Sabiny Berman. Autorami pomysłu są Iñárritu i Berman. Producentami filmu są Iñárritu, nominowana do Oscara Mary Parent, Cruise i Michael Sharp. Funkcję producentów wykonawczych pełnią Joshua Grode, Berman, Dinelaris, Giacobone, Jez Butterworth i Emmanuel Lubezki.\n\nDo Iñárritu po drugiej stronie kamery dołączyli jego dawni współpracownicy, tacy jak nagrodzony Oscarem operator Emmanuel Lubezki, montażyści Conor O’Neill i nagrodzony Oscarem Stephen Mirrione, nominowana do Oscara projektantka kostiumów Jacqueline West, nagrodzony Oscarem charakteryzator Alessandro Bertolazzi oraz nominowana do Oscara reżyserka castingu Francine Maisler. Oprócz nich w ekipie znaleźli się nagrodzony Oscarem scenograf Dennis Gassner i drugi scenograf Richard Johnson, jak również nagrodzony Oscarem twórca protez charakteryzatorskich Kazu Hiro i kompozytor Cosmo Sheldrake.\n\nDigger Alejandra G. Iñárritu został nakręcony w całości w formacie VistaVision. Do kin i kin IMAX® Ameryki Północnej trafi 2 października 2026 roku, a seanse na całym świecie rozpoczną się 30 września 2026 roku. Dystrybutorem filmu jest Warner Bros. Pictures.",
@@ -472,7 +472,7 @@
             "id": "tt37510326",
             "url": "https://www.imdb.com/title/tt37510326/",
             "rating": 6.7,
-            "votes": 6765
+            "votes": 6918
           },
           "filmweb": {
             "id": "10095188",
@@ -482,7 +482,7 @@
               "Dramat"
             ],
             "rating": 6,
-            "votes": 1303
+            "votes": 1375
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/the_social_reckoning",
@@ -491,10 +491,10 @@
             "directors": [
               "Aaron Sorkin"
             ],
-            "criticsRating": 55,
-            "criticsVotes": 242,
-            "audienceRating": 72,
-            "audienceVotes": 541
+            "criticsRating": 54,
+            "criticsVotes": 243,
+            "audienceRating": 71,
+            "audienceVotes": 571
           }
         },
         "longDescription": "Zobaczymy kontynuację filmu Aarona Sorkina „The Social Network” pod tytułem „The Social Reckoning: W sieci konsekwencji ”.\n\nOpowieść o losach Frances Haugen, młodej inżynierki Facebooka, która we współpracy z Jeffem Horwitzem – reportem z „Wall Street Journal” – stara się ujawnić najbardziej skryte tajemnice tego potężnego portalu społecznościowego.\n\nAaron Sorkin otrzymał Oscara za scenariusz adaptowany do filmu „The Social Network” .\n\nW nowym filmie filmie zobaczymy nominowanego do Oscara Jeremy’ego Stronga, który wcieli się w rolę Marka Zuckerberga; lauretkę Oscara, Mikey Madison, która wcieli się w rolę Frances Haugen; oraz laureata Złotego Globu i Emmy Jeremy’ego Allena White’a, który zagra reportera Wall Street Journal Jeffa Horowitza, autora serii artykułów znanych jako „The Facebook Files”. Te opublikowane w październiku 2021 r. reportaże ujawniły wewnętrzne funkcjonowanie Facebooka i wiele szkód spowodowanych przez tę platformę.",
@@ -538,7 +538,7 @@
             "id": "tt13609648",
             "url": "https://www.imdb.com/title/tt13609648/",
             "rating": 7.3,
-            "votes": 2559
+            "votes": 2696
           },
           "filmweb": {
             "id": "10087170",
@@ -547,8 +547,8 @@
               "Melodramat",
               "Kostiumowy"
             ],
-            "rating": 7.3,
-            "votes": 282
+            "rating": 7.2,
+            "votes": 533
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/sense_and_sensibility_2026",
@@ -557,10 +557,10 @@
             "directors": [
               "Georgia Oakley"
             ],
-            "criticsRating": 75,
-            "criticsVotes": 92,
+            "criticsRating": 76,
+            "criticsVotes": 96,
             "audienceRating": 90,
-            "audienceVotes": 137
+            "audienceVotes": 260
           }
         },
         "longDescription": "Georgeia Oakley jest reżyserką nowej interpretacji  Rozważnej i romantycznej  Jane Austen. To produkcja Working Title, oparta na scenariuszu Diany Reid, w rolach głównych zobaczymy: Daisy Edgar-Jones, Esmé Creed-Miles, Caitríonę Balfe, Franka Dillane’a, Herberta Nordruma, Bodhi Rae Breathnach, George’a MacKaya oraz Fionę Shaw.\n\nAkcja, osadzona w Anglii epoki georgiańskiej, podąża za losami zamożnego pana Dashwooda, który umiera, pozostawiając swoją drugą żonę oraz trzy córki w trudnej sytuacji finansowej. Kobiety przenoszą się do skromnej wiejskiej posiadłości, gdzie dwie starsze siostry rywalizują o względy różnych adoratorów, poszukując prawdziwej miłości.\n\nProducentami filmu są: Tim Bevan i Eric Fellner z Working Title, a także India Flint z November Pictures oraz Jo Wallett z Kiddo Films. Working Title i Focus wcześniej współpracowały przy filmowej adaptacji  Dumy i uprzedzenia  z 2005 roku, która zdobyła cztery nominacje do Oscara, oraz przy kinowej wersji  Emmy  z 2020 roku.\n\nRozważna i romantyczna  trafiła na ekrany również w 1995 roku ze studia Sony Pictures Classics — film w reżyserii Anga Lee, ze scenariuszem Emmy Thompson, nagrodzonej Oscarem za najlepszy scenariusz adaptowany. Thompson zagrała także Elinor Dashwood, a Kate Winslet wcieliła się w Marianne. Produkcja otrzymała w sumie siedem nominacji do Oscara i zarobiła ponad 134 miliony dolarów na świecie.",
@@ -604,7 +604,7 @@
             "id": "tt34206385",
             "url": "https://www.imdb.com/title/tt34206385/",
             "rating": 7.1,
-            "votes": 18842
+            "votes": 19039
           },
           "filmweb": {
             "id": "10115409",
@@ -614,7 +614,7 @@
               "Kryminał"
             ],
             "rating": 6.4,
-            "votes": 6236
+            "votes": 6783
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/primetime",
@@ -626,7 +626,7 @@
             "criticsRating": 86,
             "criticsVotes": 241,
             "audienceRating": 77,
-            "audienceVotes": 2484
+            "audienceVotes": 2526
           }
         },
         "longDescription": "ROBERT PATTINSON w thrillerze psychologicznym PRIMETIME wciela się w Chrisa Hansena, charyzmatycznego dziennikarza, który wkracza do podziemnego świata przestępczego i pragnie zmienić oblicze telewizji. Z czasem jednak ulega własnej obsesji i w drodze na szczyt popularności zaczyna zatracać swój pierwotny cel.",
@@ -670,7 +670,7 @@
             "id": "tt25399154",
             "url": "https://www.imdb.com/title/tt25399154/",
             "rating": 7.5,
-            "votes": 2679
+            "votes": 2690
           },
           "filmweb": {
             "id": "10113205",
@@ -679,7 +679,7 @@
               "Dramat historyczny"
             ],
             "rating": 7.2,
-            "votes": 1790
+            "votes": 1858
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/rose_2026",

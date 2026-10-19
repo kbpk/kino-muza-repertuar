@@ -1,0 +1,116 @@
+{
+  "schemaVersion": 1,
+  "date": "2026-11-26",
+  "updatedAt": "2026-10-19T16:59:35.733Z",
+  "source": "https://www.kinomuza.pl/repertoire/day/",
+  "day": {
+    "id": "38",
+    "date": "26.11",
+    "now": "2026-10-19 18:58:28",
+    "info": [],
+    "repertoire": [
+      {
+        "hour": "19:00",
+        "datetime": "2026-11-26 19:00:00",
+        "title": "",
+        "originalTitle": "",
+        "director": "",
+        "year": null,
+        "premiereDate": null,
+        "duration": null,
+        "countries": null,
+        "shortDesc": null,
+        "lang": "",
+        "subtitlesLang": "pl",
+        "age": null,
+        "credits": "",
+        "desc": null,
+        "hall": "2",
+        "movieLink": null,
+        "ticketLink": "",
+        "prePremier": false,
+        "tape35mm": false,
+        "ad": false,
+        "deaf": false,
+        "ticketPrice": "",
+        "ticketHalfPrice": "",
+        "alt": null,
+        "thumb": null,
+        "description": "",
+        "shortDescription": "",
+        "genres": [],
+        "external": {
+          "imdb": null,
+          "filmweb": null,
+          "rottenTomatoes": null
+        },
+        "longDescription": "",
+        "poster": ""
+      },
+      {
+        "hour": "19:00",
+        "datetime": "2026-11-26 19:00:00",
+        "title": "Mariinka",
+        "originalTitle": "",
+        "director": "Pieter-Jan de Pue",
+        "year": "2026",
+        "premiereDate": "",
+        "duration": "94",
+        "countries": "Belgia, Niderlandy ",
+        "shortDesc": "<p>Pieter-Jan De Pue przez dziewięć lat dokumentował życie ludzi związanych z Mariinką – miastem na wschodzie Ukrainy, którego mieszkańcy od ponad dekady żyją w cieniu wojny.</p>\n",
+        "lang": "",
+        "subtitlesLang": "pl",
+        "age": "16",
+        "credits": "reż. Pieter-Jan de Pue <br>Belgia, Niderlandy  <br>2026,94’",
+        "desc": "<p>Pieter-Jan De Pue przez dziewięć lat dokumentował życie ludzi związanych z Mariinką – miastem na wschodzie Ukrainy, którego mieszkańcy od ponad dekady żyją w cieniu wojny.</p>\n",
+        "hall": "2",
+        "movieLink": "https://www.kinomuza.pl/movie/mariinka/",
+        "ticketLink": "https://estradapoznan.bilety24.pl/kup-bilety/?id=1004675#total",
+        "prePremier": false,
+        "tape35mm": false,
+        "ad": false,
+        "deaf": false,
+        "ticketPrice": "",
+        "ticketHalfPrice": "",
+        "alt": "Mariinka",
+        "thumb": "https://www.kinomuza.pl/content/uploads/2026/03/Mariinka-2-800x450.jpg",
+        "description": "Pieter-Jan De Pue przez dziewięć lat dokumentował życie ludzi związanych z Mariinką – miastem na wschodzie Ukrainy, którego mieszkańcy od ponad dekady żyją w cieniu wojny.",
+        "shortDescription": "Pieter-Jan De Pue przez dziewięć lat dokumentował życie ludzi związanych z Mariinką – miastem na wschodzie Ukrainy, którego mieszkańcy od ponad dekady żyją w cieniu wojny.",
+        "genres": [
+          "Dokumentalny"
+        ],
+        "external": {
+          "imdb": {
+            "id": "tt39442922",
+            "url": "https://www.imdb.com/title/tt39442922/",
+            "rating": 7.4,
+            "votes": 119
+          },
+          "filmweb": {
+            "id": "10121011",
+            "url": "https://www.filmweb.pl/film/Mariinka-2026-10121011",
+            "genres": [
+              "Dokumentalny"
+            ],
+            "rating": 7.4,
+            "votes": 221
+          },
+          "rottenTomatoes": {
+            "url": "https://www.rottentomatoes.com/m/mariinka",
+            "title": "Mariinka",
+            "year": "",
+            "directors": [
+              "Pieter-Jan De Pue"
+            ],
+            "criticsRating": null,
+            "criticsVotes": 2,
+            "audienceRating": null,
+            "audienceVotes": null
+          }
+        },
+        "longDescription": "Pieter-Jan De Pue przez dziewięć lat dokumentował życie ludzi związanych z Mariinką – miastem na wschodzie Ukrainy, którego mieszkańcy od ponad dekady żyją w cieniu wojny.\n\nNatasha, utalentowana bokserka, zostaje wojskową medyczką. Angela, która straciła rodziców, zaczyna przewozić towary przez linię frontu. Bracia Mark i Ruslan znajdują się po przeciwnych stronach konfliktu, podczas gdy ich najmłodszy brat Daniil obserwuje wojnę z bezpiecznego domu zastępczego w Stanach Zjednoczonych.\n\nFilm realizowany przez dekadę na taśmie 16 mm łączy monumentalny obraz z bardzo osobistymi historiami ludzi, których życie zostało naznaczone wojną.",
+        "poster": "media/posters/344733814a95ac174d19.webp"
+      }
+    ]
+  }
+}

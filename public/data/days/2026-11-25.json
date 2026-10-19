@@ -1,12 +1,12 @@
 {
   "schemaVersion": 1,
   "date": "2026-11-25",
-  "updatedAt": "2026-10-18T18:37:36.991Z",
+  "updatedAt": "2026-10-19T16:59:35.733Z",
   "source": "https://www.kinomuza.pl/repertoire/day/",
   "day": {
-    "id": "38",
+    "id": "37",
     "date": "25.11",
-    "now": "2026-10-18 20:37:20",
+    "now": "2026-10-19 18:58:23",
     "info": [],
     "repertoire": [
       {
@@ -47,7 +47,7 @@
             "id": "tt29271622",
             "url": "https://www.imdb.com/title/tt29271622/",
             "rating": 7.5,
-            "votes": 8484
+            "votes": 8507
           },
           "filmweb": {
             "id": "10075691",
@@ -73,6 +73,44 @@
         },
         "longDescription": "Rok 1936, mieszkańcy Palestyny powstają przeciwko brytyjskim rządom. Jusuf dzieli swoje życie pomiędzy Jerozolimą a życiem na prowincji, marząc o przyszłości wolnej od wojennej zawieruchy. W miarę jak rośnie liczba żydowskich osadników uciekających przed falą antysemityzmu w Europie, Palestyńczycy jednoczą się w akcie największego oporu w 30-letniej historii brytyjskiego panowania. Wszystkie strony stoją w obliczu nieuchronnej konfrontacji. Nadchodzą kluczowe chwile dla przyszłości Imperium Brytyjskiego i Palestyny.\n\nPokaz specjalny jest częścią ogólnopolskiej premiery filmu „PALESTYNA 36″. Film wprowadzony do polskich kin dzięki Portalowi Immersja oraz FFIPP Poland.\n\nPo pokazie odbędzie się dyskusja z gościem – Przemysławem Wielgoszem. Spotkanie poprowadzi Natalia Zajączkowska.",
         "poster": "media/posters/0a262ebf16ff938be178.webp"
+      },
+      {
+        "hour": "19:00",
+        "datetime": "2026-11-25 19:00:00",
+        "title": "Dowżenko. Pierwsze Spojrzenie",
+        "originalTitle": "Довженко. Перший погляд / DOVZHENKO. First Glance",
+        "director": "Kostiantyn Konovalov",
+        "year": "2026",
+        "premiereDate": "",
+        "duration": "100",
+        "countries": "Ukraina, Rumunia, Słowacja",
+        "shortDesc": "<p>Odesa, 1926 rok. Miasto przeżywa niezwykły rozkwit – rozwijają się literatura, jazz, boks i przede wszystkim kino. Właśnie tutaj młody Oleksandr Dovzhenko stawia pierwsze kroki w świecie filmu.</p>\n",
+        "lang": "",
+        "subtitlesLang": "pl",
+        "age": "16",
+        "credits": "reż. Kostiantyn Konovalov <br>Ukraina, Rumunia, Słowacja <br>2026,100’",
+        "desc": "<p>Odesa, 1926 rok. Miasto przeżywa niezwykły rozkwit – rozwijają się literatura, jazz, boks i przede wszystkim kino. Właśnie tutaj młody Oleksandr Dovzhenko stawia pierwsze kroki w świecie filmu.</p>\n",
+        "hall": "2",
+        "movieLink": "https://www.kinomuza.pl/movie/dowzenko/",
+        "ticketLink": "https://estradapoznan.bilety24.pl/kup-bilety/?id=1004674#total",
+        "prePremier": false,
+        "tape35mm": false,
+        "ad": false,
+        "deaf": false,
+        "ticketPrice": "",
+        "ticketHalfPrice": "",
+        "alt": "Dowżenko. Pierwsze Spojrzenie",
+        "thumb": "https://www.kinomuza.pl/content/uploads/2026/10/F_5_Dovzhenko_bb713459a2_big_16_9-800x450.jpeg",
+        "description": "Odesa, 1926 rok. Miasto przeżywa niezwykły rozkwit – rozwijają się literatura, jazz, boks i przede wszystkim kino. Właśnie tutaj młody Oleksandr Dovzhenko stawia pierwsze kroki w świecie filmu.",
+        "shortDescription": "Odesa, 1926 rok. Miasto przeżywa niezwykły rozkwit – rozwijają się literatura, jazz, boks i przede wszystkim kino. Właśnie tutaj młody Oleksandr Dovzhenko stawia pierwsze kroki w świecie filmu.",
+        "genres": [],
+        "external": {
+          "imdb": null,
+          "filmweb": null,
+          "rottenTomatoes": null
+        },
+        "longDescription": "Odesa, 1926 rok. Miasto przeżywa niezwykły rozkwit – rozwijają się literatura, jazz, boks i przede wszystkim kino. Właśnie tutaj młody Oleksandr Dovzhenko stawia pierwsze kroki w świecie filmu.\n\nFilm opowiada o drodze młodego rysownika i pisarza, który stopniowo odkrywa kino jako swoją największą pasję i rozpoczyna karierę reżysera.\n\nDOVZHENKO. FIRST SIGHT to pierwsza fabularna produkcja poświęcona legendarnemu ukraińskiemu reżyserowi Ołeksandrowi Dowżence.",
+        "poster": "media/posters/4a29e78603b86576d701.webp"
       }
     ]
   }

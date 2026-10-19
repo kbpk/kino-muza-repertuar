@@ -1,0 +1,52 @@
+{
+  "schemaVersion": 1,
+  "date": "2026-11-29",
+  "updatedAt": "2026-10-19T16:59:35.733Z",
+  "source": "https://www.kinomuza.pl/repertoire/day/",
+  "day": {
+    "id": "41",
+    "date": "29.11",
+    "now": "2026-10-19 18:58:40",
+    "info": [],
+    "repertoire": [
+      {
+        "hour": "19:15",
+        "datetime": "2026-11-29 19:15:00",
+        "title": "Cicha powódź",
+        "originalTitle": "Tykha povin / Silent Flood",
+        "director": "Dmytro Sukholytkyy-Sobchuk",
+        "year": "2025",
+        "premiereDate": "",
+        "duration": "90",
+        "countries": "Ukraina, Niemcy",
+        "shortDesc": "<p>Nad Dniestrem w zachodniej Ukrainie żyje zamknięta, pacyfistyczna wspólnota religijna, która od pokoleń zachowuje tradycyjny sposób życia. Mieszkańcy pracują na roli, korzystają z koni i nie używają elektryczności.</p>\n",
+        "lang": "",
+        "subtitlesLang": "pl",
+        "age": "16",
+        "credits": "reż. Dmytro Sukholytkyy-Sobchuk <br>Ukraina, Niemcy <br>2025,90’",
+        "desc": "<p>Nad Dniestrem w zachodniej Ukrainie żyje zamknięta, pacyfistyczna wspólnota religijna, która od pokoleń zachowuje tradycyjny sposób życia. Mieszkańcy pracują na roli, korzystają z koni i nie używają elektryczności.</p>\n",
+        "hall": "2",
+        "movieLink": "https://www.kinomuza.pl/movie/silent-flood/",
+        "ticketLink": "https://estradapoznan.bilety24.pl/kup-bilety/?id=1004680#total",
+        "prePremier": false,
+        "tape35mm": false,
+        "ad": false,
+        "deaf": false,
+        "ticketPrice": "",
+        "ticketHalfPrice": "",
+        "alt": "Cicha powódź",
+        "thumb": "https://www.kinomuza.pl/content/uploads/2026/10/main-photo-800x450.jpg",
+        "description": "Nad Dniestrem w zachodniej Ukrainie żyje zamknięta, pacyfistyczna wspólnota religijna, która od pokoleń zachowuje tradycyjny sposób życia. Mieszkańcy pracują na roli, korzystają z koni i nie używają elektryczności.",
+        "shortDescription": "Nad Dniestrem w zachodniej Ukrainie żyje zamknięta, pacyfistyczna wspólnota religijna, która od pokoleń zachowuje tradycyjny sposób życia. Mieszkańcy pracują na roli, korzystają z koni i nie używają elektryczności.",
+        "genres": [],
+        "external": {
+          "imdb": null,
+          "filmweb": null,
+          "rottenTomatoes": null
+        },
+        "longDescription": "Nad Dniestrem w zachodniej Ukrainie żyje zamknięta, pacyfistyczna wspólnota religijna, która od pokoleń zachowuje tradycyjny sposób życia. Mieszkańcy pracują na roli, korzystają z koni i nie używają elektryczności.\n\nIch spokojny świat zostaje skonfrontowany z dwiema potężnymi siłami – powodzią i wojną. Film obserwuje wspólnotę z niezwykłą bliskością, pokazując, jak wydarzenia współczesne przenikają do świata, który przez lata próbował pozostać poza zewnętrzną rzeczywistością.",
+        "poster": "media/posters/12c5aaa389e196688d3a.webp"
+      }
+    ]
+  }
+}

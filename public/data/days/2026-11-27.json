@@ -1,0 +1,67 @@
+{
+  "schemaVersion": 1,
+  "date": "2026-11-27",
+  "updatedAt": "2026-10-19T16:59:35.733Z",
+  "source": "https://www.kinomuza.pl/repertoire/day/",
+  "day": {
+    "id": "39",
+    "date": "27.11",
+    "now": "2026-10-19 18:58:29",
+    "info": [],
+    "repertoire": [
+      {
+        "hour": "21:15",
+        "datetime": "2026-11-27 21:15:00",
+        "title": "Demony",
+        "originalTitle": "Демони / Demons",
+        "director": "Natalya Vorozhbit",
+        "year": "2026",
+        "premiereDate": "",
+        "duration": "110",
+        "countries": "Polska, Ukraina",
+        "shortDesc": "<p>Akcja rozgrywa się w burzliwych latach po upadku Związku Radzieckiego. Bohaterką jest Nina – charyzmatyczna kobieta, która przygarnia bezdomnego rosyjskiego włóczęgę.</p>\n",
+        "lang": "",
+        "subtitlesLang": "pl",
+        "age": "16",
+        "credits": "reż. Natalya Vorozhbit  <br>Polska, Ukraina <br>2026,110’",
+        "desc": "<p>Akcja rozgrywa się w burzliwych latach po upadku Związku Radzieckiego. Bohaterką jest Nina – charyzmatyczna kobieta, która przygarnia bezdomnego rosyjskiego włóczęgę.</p>\n",
+        "hall": "2",
+        "movieLink": "https://www.kinomuza.pl/movie/demony/",
+        "ticketLink": "https://estradapoznan.bilety24.pl/kup-bilety/?id=1004676#total",
+        "prePremier": false,
+        "tape35mm": false,
+        "ad": false,
+        "deaf": false,
+        "ticketPrice": "",
+        "ticketHalfPrice": "",
+        "alt": "Demony",
+        "thumb": "https://www.kinomuza.pl/content/uploads/2026/10/6-800x450.jpg",
+        "description": "Akcja rozgrywa się w burzliwych latach po upadku Związku Radzieckiego. Bohaterką jest Nina – charyzmatyczna kobieta, która przygarnia bezdomnego rosyjskiego włóczęgę.",
+        "shortDescription": "Akcja rozgrywa się w burzliwych latach po upadku Związku Radzieckiego. Bohaterką jest Nina – charyzmatyczna kobieta, która przygarnia bezdomnego rosyjskiego włóczęgę.",
+        "genres": [
+          "Dramat"
+        ],
+        "external": {
+          "imdb": {
+            "id": "tt20149536",
+            "url": "https://www.imdb.com/title/tt20149536/",
+            "rating": 5.9,
+            "votes": 17
+          },
+          "filmweb": {
+            "id": "10131126",
+            "url": "https://www.filmweb.pl/film/Demony-2026-10131126",
+            "genres": [
+              "Dramat"
+            ],
+            "rating": 5,
+            "votes": 21
+          },
+          "rottenTomatoes": null
+        },
+        "longDescription": "Akcja rozgrywa się w burzliwych latach po upadku Związku Radzieckiego. Bohaterką jest Nina – charyzmatyczna kobieta, która przygarnia bezdomnego rosyjskiego włóczęgę podającego się za pisarza. Mając nadzieję na wspólne nowe życie, szybko odkrywa, że mistyczna ziemia Połtawy – gdzie czarownice żyją obok zwykłych mieszkańców, a zmarli rozmawiają z żywymi – stopniowo ujawnia prawdziwą naturę mężczyzny, którego wpuściła do swojego domu.",
+        "poster": "media/posters/4ed3539e6b1a2c4889f8.webp"
+      }
+    ]
+  }
+}

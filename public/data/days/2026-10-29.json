@@ -1,12 +1,12 @@
 {
   "schemaVersion": 1,
   "date": "2026-10-29",
-  "updatedAt": "2026-10-18T18:37:36.991Z",
+  "updatedAt": "2026-10-19T16:59:35.733Z",
   "source": "https://www.kinomuza.pl/repertoire/day/",
   "day": {
-    "id": "11",
+    "id": "10",
     "date": "29.10",
-    "now": "2026-10-18 20:36:53",
+    "now": "2026-10-19 18:57:54",
     "info": [],
     "repertoire": [
       {
@@ -50,7 +50,7 @@
             "id": "tt0067128",
             "url": "https://www.imdb.com/title/tt0067128/",
             "rating": 7.3,
-            "votes": 39325
+            "votes": 39333
           },
           "filmweb": {
             "id": "5814",
@@ -61,7 +61,7 @@
               "Kryminał"
             ],
             "rating": 7.1,
-            "votes": 5193
+            "votes": 5194
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/1076721-get_carter",

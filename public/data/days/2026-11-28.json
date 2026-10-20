@@ -1,12 +1,12 @@
 {
   "schemaVersion": 1,
   "date": "2026-11-28",
-  "updatedAt": "2026-10-19T16:59:35.733Z",
+  "updatedAt": "2026-10-20T15:02:05.301Z",
   "source": "https://www.kinomuza.pl/repertoire/day/",
   "day": {
-    "id": "40",
+    "id": "39",
     "date": "28.11",
-    "now": "2026-10-19 18:58:35",
+    "now": "2026-10-20 17:01:12",
     "info": [],
     "repertoire": [
       {
@@ -59,7 +59,7 @@
               "Komedia"
             ],
             "rating": 6.3,
-            "votes": 86
+            "votes": 87
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/to_the_victory",

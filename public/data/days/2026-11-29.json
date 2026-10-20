@@ -1,12 +1,12 @@
 {
   "schemaVersion": 1,
   "date": "2026-11-29",
-  "updatedAt": "2026-10-19T16:59:35.733Z",
+  "updatedAt": "2026-10-20T15:02:05.301Z",
   "source": "https://www.kinomuza.pl/repertoire/day/",
   "day": {
-    "id": "41",
+    "id": "40",
     "date": "29.11",
-    "now": "2026-10-19 18:58:40",
+    "now": "2026-10-20 17:01:17",
     "info": [],
     "repertoire": [
       {
@@ -38,14 +38,24 @@
         "thumb": "https://www.kinomuza.pl/content/uploads/2026/10/main-photo-800x450.jpg",
         "description": "Nad Dniestrem w zachodniej Ukrainie żyje zamknięta, pacyfistyczna wspólnota religijna, która od pokoleń zachowuje tradycyjny sposób życia. Mieszkańcy pracują na roli, korzystają z koni i nie używają elektryczności.",
         "shortDescription": "Nad Dniestrem w zachodniej Ukrainie żyje zamknięta, pacyfistyczna wspólnota religijna, która od pokoleń zachowuje tradycyjny sposób życia. Mieszkańcy pracują na roli, korzystają z koni i nie używają elektryczności.",
-        "genres": [],
+        "genres": [
+          "Dokumentalny"
+        ],
         "external": {
           "imdb": null,
-          "filmweb": null,
+          "filmweb": {
+            "id": "10119644",
+            "url": "https://www.filmweb.pl/film/Cichy+potop-2025-10119644",
+            "genres": [
+              "Dokumentalny"
+            ],
+            "rating": 5.8,
+            "votes": 29
+          },
           "rottenTomatoes": null
         },
         "longDescription": "Nad Dniestrem w zachodniej Ukrainie żyje zamknięta, pacyfistyczna wspólnota religijna, która od pokoleń zachowuje tradycyjny sposób życia. Mieszkańcy pracują na roli, korzystają z koni i nie używają elektryczności.\n\nIch spokojny świat zostaje skonfrontowany z dwiema potężnymi siłami – powodzią i wojną. Film obserwuje wspólnotę z niezwykłą bliskością, pokazując, jak wydarzenia współczesne przenikają do świata, który przez lata próbował pozostać poza zewnętrzną rzeczywistością.",
-        "poster": "media/posters/12c5aaa389e196688d3a.webp"
+        "poster": "media/posters/5189659ec1c3a6612765.webp"
       }
     ]
   }

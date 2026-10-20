@@ -1,12 +1,12 @@
 {
   "schemaVersion": 1,
   "date": "2026-10-27",
-  "updatedAt": "2026-10-19T16:59:35.733Z",
+  "updatedAt": "2026-10-20T15:02:05.301Z",
   "source": "https://www.kinomuza.pl/repertoire/day/",
   "day": {
-    "id": "08",
+    "id": "07",
     "date": "27.10",
-    "now": "2026-10-19 18:57:53",
+    "now": "2026-10-20 17:00:35",
     "info": [],
     "repertoire": [
       {
@@ -60,7 +60,7 @@
               "Thriller"
             ],
             "rating": 7.1,
-            "votes": 68603
+            "votes": 68617
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/anatomy_of_a_fall",

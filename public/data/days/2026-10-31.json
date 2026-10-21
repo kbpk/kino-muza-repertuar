@@ -1,12 +1,12 @@
 {
   "schemaVersion": 1,
   "date": "2026-10-31",
-  "updatedAt": "2026-10-21T15:11:03.907Z",
+  "updatedAt": "2026-10-21T20:06:27.518Z",
   "source": "https://www.kinomuza.pl/repertoire/day/",
   "day": {
     "id": "10",
     "date": "31.10",
-    "now": "2026-10-21 17:10:25",
+    "now": "2026-10-21 22:05:58",
     "info": [],
     "repertoire": [
       {
@@ -51,7 +51,7 @@
             "id": "tt0107688",
             "url": "https://www.imdb.com/title/tt0107688/",
             "rating": 7.9,
-            "votes": 417795
+            "votes": 417873
           },
           "filmweb": {
             "id": "7705",

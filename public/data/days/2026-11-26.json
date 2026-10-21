@@ -1,12 +1,12 @@
 {
   "schemaVersion": 1,
   "date": "2026-11-26",
-  "updatedAt": "2026-10-21T15:11:03.907Z",
+  "updatedAt": "2026-10-21T20:06:27.518Z",
   "source": "https://www.kinomuza.pl/repertoire/day/",
   "day": {
     "id": "36",
     "date": "26.11",
-    "now": "2026-10-21 17:10:33",
+    "now": "2026-10-21 22:06:04",
     "info": [],
     "repertoire": [
       {
@@ -84,7 +84,7 @@
             "id": "tt39442922",
             "url": "https://www.imdb.com/title/tt39442922/",
             "rating": 7.4,
-            "votes": 119
+            "votes": 120
           },
           "filmweb": {
             "id": "10121011",

@@ -1,12 +1,12 @@
 {
   "schemaVersion": 1,
   "date": "2026-11-25",
-  "updatedAt": "2026-10-20T17:58:31.462Z",
+  "updatedAt": "2026-10-21T15:11:03.907Z",
   "source": "https://www.kinomuza.pl/repertoire/day/",
   "day": {
-    "id": "36",
+    "id": "35",
     "date": "25.11",
-    "now": "2026-10-20 19:56:42",
+    "now": "2026-10-21 17:10:32",
     "info": [],
     "repertoire": [
       {
@@ -103,10 +103,24 @@
         "thumb": "https://www.kinomuza.pl/content/uploads/2026/10/F_5_Dovzhenko_bb713459a2_big_16_9-800x450.jpeg",
         "description": "Odesa, 1926 rok. Miasto przeżywa niezwykły rozkwit – rozwijają się literatura, jazz, boks i przede wszystkim kino. Właśnie tutaj młody Oleksandr Dovzhenko stawia pierwsze kroki w świecie filmu.",
         "shortDescription": "Odesa, 1926 rok. Miasto przeżywa niezwykły rozkwit – rozwijają się literatura, jazz, boks i przede wszystkim kino. Właśnie tutaj młody Oleksandr Dovzhenko stawia pierwsze kroki w świecie filmu.",
-        "genres": [],
+        "genres": [
+          "Biograficzny",
+          "Historyczny",
+          "Dramat"
+        ],
         "external": {
           "imdb": null,
-          "filmweb": null,
+          "filmweb": {
+            "id": "10136847",
+            "url": "https://www.filmweb.pl/film/Dow%C5%BCenko.+Pierwsze+spojrzenie-2025-10136847",
+            "genres": [
+              "Biograficzny",
+              "Historyczny",
+              "Dramat"
+            ],
+            "rating": 0,
+            "votes": 0
+          },
           "rottenTomatoes": null
         },
         "longDescription": "Odesa, 1926 rok. Miasto przeżywa niezwykły rozkwit – rozwijają się literatura, jazz, boks i przede wszystkim kino. Właśnie tutaj młody Oleksandr Dovzhenko stawia pierwsze kroki w świecie filmu.\n\nFilm opowiada o drodze młodego rysownika i pisarza, który stopniowo odkrywa kino jako swoją największą pasję i rozpoczyna karierę reżysera.\n\nDOVZHENKO. FIRST SIGHT to pierwsza fabularna produkcja poświęcona legendarnemu ukraińskiemu reżyserowi Ołeksandrowi Dowżence.",

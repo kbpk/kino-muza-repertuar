@@ -1,12 +1,12 @@
 {
   "schemaVersion": 1,
   "date": "2026-10-27",
-  "updatedAt": "2026-10-20T17:58:31.462Z",
+  "updatedAt": "2026-10-21T15:11:03.907Z",
   "source": "https://www.kinomuza.pl/repertoire/day/",
   "day": {
-    "id": "07",
+    "id": "06",
     "date": "27.10",
-    "now": "2026-10-20 19:56:09",
+    "now": "2026-10-21 17:10:23",
     "info": [],
     "repertoire": [
       {
@@ -55,7 +55,7 @@
               "Dramat historyczny"
             ],
             "rating": 7.2,
-            "votes": 1976
+            "votes": 2019
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/rose_2026",
@@ -121,7 +121,7 @@
               "Przyrodniczy"
             ],
             "rating": 8.2,
-            "votes": 501
+            "votes": 518
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/whispers_in_the_woods",
@@ -169,8 +169,8 @@
         "description": "Charyzmatyczny dziennikarz wkracza do podziemnego świata przestępczego i pragnie zmienić oblicze telewizji. Ulega własnej obsesji i w drodze na szczyt popularności zaczyna zatracać swój pierwotny cel.",
         "shortDescription": "Charyzmatyczny dziennikarz wkracza do podziemnego świata przestępczego i pragnie zmienić oblicze telewizji. Ulega własnej obsesji i w drodze na szczyt popularności zaczyna zatracać swój pierwotny cel.",
         "genres": [
-          "Dramat",
-          "Kryminał"
+          "Kryminał",
+          "Dramat"
         ],
         "external": {
           "imdb": {
@@ -183,11 +183,11 @@
             "id": "10115409",
             "url": "https://www.filmweb.pl/film/Primetime-2026-10115409",
             "genres": [
-              "Dramat",
-              "Kryminał"
+              "Kryminał",
+              "Dramat"
             ],
             "rating": 6.4,
-            "votes": 7660
+            "votes": 8030
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/primetime",
@@ -199,7 +199,7 @@
             "criticsRating": 86,
             "criticsVotes": 242,
             "audienceRating": 77,
-            "audienceVotes": 2574
+            "audienceVotes": 2606
           }
         },
         "longDescription": "ROBERT PATTINSON w thrillerze psychologicznym PRIMETIME wciela się w Chrisa Hansena, charyzmatycznego dziennikarza, który wkracza do podziemnego świata przestępczego i pragnie zmienić oblicze telewizji. Z czasem jednak ulega własnej obsesji i w drodze na szczyt popularności zaczyna zatracać swój pierwotny cel.",
@@ -235,8 +235,8 @@
         "description": "Dzieło Prusa od blisko 140 lat rozpala emocje i wyobraźnię kolejnych pokoleń. Teraz ta ponadczasowa historia trafia na wielki ekran w nowej, spektakularnej, filmowej odsłonie.",
         "shortDescription": "Dzieło Prusa od blisko 140 lat rozpala emocje i wyobraźnię kolejnych pokoleń. Teraz ta ponadczasowa historia trafia na wielki ekran w nowej, spektakularnej, filmowej odsłonie.",
         "genres": [
-          "Kostiumowy",
-          "Dramat obyczajowy"
+          "Dramat obyczajowy",
+          "Kostiumowy"
         ],
         "external": {
           "imdb": {
@@ -249,11 +249,11 @@
             "id": "10057628",
             "url": "https://www.filmweb.pl/film/Lalka-2026-10057628",
             "genres": [
-              "Kostiumowy",
-              "Dramat obyczajowy"
+              "Dramat obyczajowy",
+              "Kostiumowy"
             ],
             "rating": 7.7,
-            "votes": 29144
+            "votes": 29931
           },
           "rottenTomatoes": null
         },
@@ -290,8 +290,8 @@
         "description": "Historia Klary, robota zasilanego energią słoneczną, stworzonego po to, by wspierać i towarzyszyć ludziom w ich codziennym życiu.",
         "shortDescription": "Historia Klary, robota zasilanego energią słoneczną, stworzonego po to, by wspierać i towarzyszyć ludziom w ich codziennym życiu.",
         "genres": [
-          "Dramat",
-          "Sci-Fi"
+          "Sci-Fi",
+          "Dramat"
         ],
         "external": {
           "imdb": {
@@ -304,11 +304,11 @@
             "id": "10035554",
             "url": "https://www.filmweb.pl/film/Klara+i+s%C5%82o%C5%84ce-2026-10035554",
             "genres": [
-              "Dramat",
-              "Sci-Fi"
+              "Sci-Fi",
+              "Dramat"
             ],
-            "rating": 6.6,
-            "votes": 9
+            "rating": 6.7,
+            "votes": 10
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/klara_and_the_sun",
@@ -317,8 +317,8 @@
             "directors": [
               "Taika Waititi"
             ],
-            "criticsRating": 29,
-            "criticsVotes": 17,
+            "criticsRating": 26,
+            "criticsVotes": 23,
             "audienceRating": null,
             "audienceVotes": null
           }
@@ -356,8 +356,8 @@
         "description": "Akcja, osadzona w Anglii epoki georgiańskiej, podąża za losami zamożnego pana Dashwooda, który umiera, pozostawiając swoją drugą żonę oraz trzy córki w trudnej sytuacji finansowej.",
         "shortDescription": "Akcja, osadzona w Anglii epoki georgiańskiej, podąża za losami zamożnego pana Dashwooda, który umiera, pozostawiając swoją drugą żonę oraz trzy córki w trudnej sytuacji finansowej.",
         "genres": [
-          "Kostiumowy",
-          "Melodramat"
+          "Melodramat",
+          "Kostiumowy"
         ],
         "external": {
           "imdb": {
@@ -370,11 +370,11 @@
             "id": "10087170",
             "url": "https://www.filmweb.pl/film/Rozwa%C5%BCna+i+romantyczna-2026-10087170",
             "genres": [
-              "Kostiumowy",
-              "Melodramat"
+              "Melodramat",
+              "Kostiumowy"
             ],
             "rating": 7.2,
-            "votes": 972
+            "votes": 1120
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/sense_and_sensibility_2026",
@@ -384,9 +384,9 @@
               "Georgia Oakley"
             ],
             "criticsRating": 77,
-            "criticsVotes": 103,
-            "audienceRating": 88,
-            "audienceVotes": 415
+            "criticsVotes": 106,
+            "audienceRating": 89,
+            "audienceVotes": 471
           }
         },
         "longDescription": "Georgeia Oakley jest reżyserką nowej interpretacji  Rozważnej i romantycznej  Jane Austen. To produkcja Working Title, oparta na scenariuszu Diany Reid, w rolach głównych zobaczymy: Daisy Edgar-Jones, Esmé Creed-Miles, Caitríonę Balfe, Franka Dillane’a, Herberta Nordruma, Bodhi Rae Breathnach, George’a MacKaya oraz Fionę Shaw.\n\nAkcja, osadzona w Anglii epoki georgiańskiej, podąża za losami zamożnego pana Dashwooda, który umiera, pozostawiając swoją drugą żonę oraz trzy córki w trudnej sytuacji finansowej. Kobiety przenoszą się do skromnej wiejskiej posiadłości, gdzie dwie starsze siostry rywalizują o względy różnych adoratorów, poszukując prawdziwej miłości.\n\nProducentami filmu są: Tim Bevan i Eric Fellner z Working Title, a także India Flint z November Pictures oraz Jo Wallett z Kiddo Films. Working Title i Focus wcześniej współpracowały przy filmowej adaptacji  Dumy i uprzedzenia  z 2005 roku, która zdobyła cztery nominacje do Oscara, oraz przy kinowej wersji  Emmy  z 2020 roku.\n\nRozważna i romantyczna  trafiła na ekrany również w 1995 roku ze studia Sony Pictures Classics — film w reżyserii Anga Lee, ze scenariuszem Emmy Thompson, nagrodzonej Oscarem za najlepszy scenariusz adaptowany. Thompson zagrała także Elinor Dashwood, a Kate Winslet wcieliła się w Marianne. Produkcja otrzymała w sumie siedem nominacji do Oscara i zarobiła ponad 134 miliony dolarów na świecie.",
@@ -438,7 +438,7 @@
               "Dokumentalny"
             ],
             "rating": 8.2,
-            "votes": 186
+            "votes": 213
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/naza",
@@ -449,9 +449,9 @@
               "Rachel Szor"
             ],
             "criticsRating": 100,
-            "criticsVotes": 66,
-            "audienceRating": 88,
-            "audienceVotes": 171
+            "criticsVotes": 68,
+            "audienceRating": 89,
+            "audienceVotes": 174
           }
         },
         "longDescription": "Nocą, na dachach Tel Awiwu, z dala od oficjalnych komunikatów i kamer, byli i obecni członkowie izraelskich struktur wojskowych opowiadają o systemach, które sami współtworzyli i obsługiwali. Ich świadectwa odsłaniają mechanizmy podejmowania decyzji prowadzących do masowego zabijania palestyńskich cywilów w Strefie Gazy – od procedur i technologii po sposób, w jaki odpowiedzialność za ludzkie życie zostaje rozproszona pomiędzy ludzi, dane i algorytmy.\n\nZa filmem stoją Yuval Abraham – filmowiec i dziennikarz śledczy – oraz Rachel Szor – reżyserka i operatorka filmowa. Oboje należą do czworga twórców „Nie chcemy innej ziemi” („No Other Land”), jednego z najgłośniejszych dokumentów ostatnich lat, nagrodzonego w 2025 roku Oscarem dla najlepszego pełnometrażowego filmu dokumentalnego.\n\n„NAZA” wyrasta z ponad trzech lat pracy dziennikarskiej i śledczej. Wiele ustaleń, do których twórcy docierali podczas pracy nad filmem, było publikowanych na bieżąco przez „The Guardian”, we współpracy z izraelsko-palestyńskim magazynem +972 oraz Local Call. „The Guardian” jest również jednym z producentów filmu, co podkreśla jego wyjątkowe połączenie kina dokumentalnego z dziennikarstwem śledczym.\n\nProducentem wykonawczym filmu jest Jonathan Glazer – nagrodzony Oscarem za „Strefę interesów”. Obecność Glazera przy „NAZA” tworzy dodatkowy kontekst dla filmu, który podobnie jak „Strefa interesów” przygląda się mechanizmom przemocy z perspektywy ludzi funkcjonujących wewnątrz systemu, podczas gdy jego ofiary pozostają w dużej mierze poza kadrem.\n\nW „NAZA” Abraham i Szor kierują uwagę na ludzi znajdujących się wewnątrz izraelskiego systemu wojskowego i próbują zrozumieć nie tylko konsekwencje wojny, ale również mechanizmy, które umożliwiają jej prowadzenie. Film powstał na podstawie rozmów z 24 izraelskimi oficerami wywiadu i żołnierzami, których świadectwa składają się na obraz systemu, w którym decyzje dotyczące życia cywilów zostają wpisane w procedury wojskowe i technologiczne.\n\nFilm miał światową premierę w konkursie głównym Międzynarodowego Festiwalu Filmowego w Wenecji, gdzie zdobył Nagrodę Specjalną Jury. Międzynarodowa prasa zwracała uwagę na bezkompromisowość filmu oraz siłę świadectw osób mówiących z wnętrza systemu.\n\nTo wstrząsający dokument o wojnie widzianej nie z pola bitwy, lecz z miejsc, w których zapadają decyzje. O technologii, odpowiedzialności i granicach posłuszeństwa. O tym, co dzieje się, kiedy przemoc zostaje zamieniona w procedurę, a decyzje o ludzkim życiu stają się częścią systemu.",
@@ -487,8 +487,8 @@
         "description": "Historia Klary, robota zasilanego energią słoneczną, stworzonego po to, by wspierać i towarzyszyć ludziom w ich codziennym życiu.",
         "shortDescription": "Historia Klary, robota zasilanego energią słoneczną, stworzonego po to, by wspierać i towarzyszyć ludziom w ich codziennym życiu.",
         "genres": [
-          "Dramat",
-          "Sci-Fi"
+          "Sci-Fi",
+          "Dramat"
         ],
         "external": {
           "imdb": {
@@ -501,11 +501,11 @@
             "id": "10035554",
             "url": "https://www.filmweb.pl/film/Klara+i+s%C5%82o%C5%84ce-2026-10035554",
             "genres": [
-              "Dramat",
-              "Sci-Fi"
+              "Sci-Fi",
+              "Dramat"
             ],
-            "rating": 6.6,
-            "votes": 9
+            "rating": 6.7,
+            "votes": 10
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/klara_and_the_sun",
@@ -514,8 +514,8 @@
             "directors": [
               "Taika Waititi"
             ],
-            "criticsRating": 29,
-            "criticsVotes": 17,
+            "criticsRating": 26,
+            "criticsVotes": 23,
             "audienceRating": null,
             "audienceVotes": null
           }
@@ -553,8 +553,8 @@
         "description": "Przyszłość jest teraz i nie ma w niej miejsca na starość, brzydotę i autentyczność. Pasujesz tu?",
         "shortDescription": "Przyszłość jest teraz i nie ma w niej miejsca na starość, brzydotę i autentyczność. Pasujesz tu?",
         "genres": [
-          "Sci-Fi",
-          "Melodramat"
+          "Melodramat",
+          "Sci-Fi"
         ],
         "external": {
           "imdb": {
@@ -567,11 +567,11 @@
             "id": "10082282",
             "url": "https://www.filmweb.pl/film/Czas%2C+kt%C3%B3ry+nie+nadszed%C5%82-2026-10082282",
             "genres": [
-              "Sci-Fi",
-              "Melodramat"
+              "Melodramat",
+              "Sci-Fi"
             ],
             "rating": 6.1,
-            "votes": 1080
+            "votes": 1167
           },
           "rottenTomatoes": null
         },
@@ -610,8 +610,8 @@
         "shortDescription": "Mistrzowski thriller, w którym poszukiwanie odpowiedzi na pytanie czy zabiła ? ogląda się jak pełną napięcia intrygę rodem z Zaginionej dziewczyny  Davida Finchera.",
         "genres": [
           "Dramat",
-          "Kryminał",
-          "Thriller"
+          "Thriller",
+          "Kryminał"
         ],
         "external": {
           "imdb": {
@@ -625,11 +625,11 @@
             "url": "https://www.filmweb.pl/film/Anatomia+upadku-2023-10032723",
             "genres": [
               "Dramat",
-              "Kryminał",
-              "Thriller"
+              "Thriller",
+              "Kryminał"
             ],
             "rating": 7.1,
-            "votes": 68617
+            "votes": 68633
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/anatomy_of_a_fall",
@@ -677,8 +677,8 @@
         "description": "Akcja, osadzona w Anglii epoki georgiańskiej, podąża za losami zamożnego pana Dashwooda, który umiera, pozostawiając swoją drugą żonę oraz trzy córki w trudnej sytuacji finansowej.",
         "shortDescription": "Akcja, osadzona w Anglii epoki georgiańskiej, podąża za losami zamożnego pana Dashwooda, który umiera, pozostawiając swoją drugą żonę oraz trzy córki w trudnej sytuacji finansowej.",
         "genres": [
-          "Kostiumowy",
-          "Melodramat"
+          "Melodramat",
+          "Kostiumowy"
         ],
         "external": {
           "imdb": {
@@ -691,11 +691,11 @@
             "id": "10087170",
             "url": "https://www.filmweb.pl/film/Rozwa%C5%BCna+i+romantyczna-2026-10087170",
             "genres": [
-              "Kostiumowy",
-              "Melodramat"
+              "Melodramat",
+              "Kostiumowy"
             ],
             "rating": 7.2,
-            "votes": 972
+            "votes": 1120
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/sense_and_sensibility_2026",
@@ -705,9 +705,9 @@
               "Georgia Oakley"
             ],
             "criticsRating": 77,
-            "criticsVotes": 103,
-            "audienceRating": 88,
-            "audienceVotes": 415
+            "criticsVotes": 106,
+            "audienceRating": 89,
+            "audienceVotes": 471
           }
         },
         "longDescription": "Georgeia Oakley jest reżyserką nowej interpretacji  Rozważnej i romantycznej  Jane Austen. To produkcja Working Title, oparta na scenariuszu Diany Reid, w rolach głównych zobaczymy: Daisy Edgar-Jones, Esmé Creed-Miles, Caitríonę Balfe, Franka Dillane’a, Herberta Nordruma, Bodhi Rae Breathnach, George’a MacKaya oraz Fionę Shaw.\n\nAkcja, osadzona w Anglii epoki georgiańskiej, podąża za losami zamożnego pana Dashwooda, który umiera, pozostawiając swoją drugą żonę oraz trzy córki w trudnej sytuacji finansowej. Kobiety przenoszą się do skromnej wiejskiej posiadłości, gdzie dwie starsze siostry rywalizują o względy różnych adoratorów, poszukując prawdziwej miłości.\n\nProducentami filmu są: Tim Bevan i Eric Fellner z Working Title, a także India Flint z November Pictures oraz Jo Wallett z Kiddo Films. Working Title i Focus wcześniej współpracowały przy filmowej adaptacji  Dumy i uprzedzenia  z 2005 roku, która zdobyła cztery nominacje do Oscara, oraz przy kinowej wersji  Emmy  z 2020 roku.\n\nRozważna i romantyczna  trafiła na ekrany również w 1995 roku ze studia Sony Pictures Classics — film w reżyserii Anga Lee, ze scenariuszem Emmy Thompson, nagrodzonej Oscarem za najlepszy scenariusz adaptowany. Thompson zagrała także Elinor Dashwood, a Kate Winslet wcieliła się w Marianne. Produkcja otrzymała w sumie siedem nominacji do Oscara i zarobiła ponad 134 miliony dolarów na świecie.",
@@ -761,7 +761,7 @@
               "Biograficzny"
             ],
             "rating": 6,
-            "votes": 1509
+            "votes": 1576
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/the_social_reckoning",
@@ -771,9 +771,9 @@
               "Aaron Sorkin"
             ],
             "criticsRating": 54,
-            "criticsVotes": 248,
-            "audienceRating": 71,
-            "audienceVotes": 599
+            "criticsVotes": 251,
+            "audienceRating": 72,
+            "audienceVotes": 615
           }
         },
         "longDescription": "Zobaczymy kontynuację filmu Aarona Sorkina „The Social Network” pod tytułem „The Social Reckoning: W sieci konsekwencji ”.\n\nOpowieść o losach Frances Haugen, młodej inżynierki Facebooka, która we współpracy z Jeffem Horwitzem – reportem z „Wall Street Journal” – stara się ujawnić najbardziej skryte tajemnice tego potężnego portalu społecznościowego.\n\nAaron Sorkin otrzymał Oscara za scenariusz adaptowany do filmu „The Social Network” .\n\nW nowym filmie filmie zobaczymy nominowanego do Oscara Jeremy’ego Stronga, który wcieli się w rolę Marka Zuckerberga; lauretkę Oscara, Mikey Madison, która wcieli się w rolę Frances Haugen; oraz laureata Złotego Globu i Emmy Jeremy’ego Allena White’a, który zagra reportera Wall Street Journal Jeffa Horowitza, autora serii artykułów znanych jako „The Facebook Files”. Te opublikowane w październiku 2021 r. reportaże ujawniły wewnętrzne funkcjonowanie Facebooka i wiele szkód spowodowanych przez tę platformę.",

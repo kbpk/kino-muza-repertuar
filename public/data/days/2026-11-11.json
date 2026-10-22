@@ -1,0 +1,68 @@
+{
+  "schemaVersion": 1,
+  "date": "2026-11-11",
+  "updatedAt": "2026-10-22T15:12:17.592Z",
+  "source": "https://www.kinomuza.pl/repertoire/day/",
+  "day": {
+    "id": "20",
+    "date": "11.11",
+    "now": "2026-10-22 17:11:32",
+    "info": [],
+    "repertoire": [
+      {
+        "hour": "20:00",
+        "datetime": "2026-11-11 20:00:00",
+        "title": "Horror Draculi",
+        "originalTitle": "Dracula",
+        "director": "Terence Fisher",
+        "year": "1958",
+        "premiereDate": "",
+        "duration": "72",
+        "countries": "Wielka Brytania",
+        "shortDesc": "<p align=\"JUSTIFY\"><span style=\"font-family: Bookman Old Style, serif;\"><span style=\"font-size: medium;\">Jonathan Harker przybywa do zamku hrabiego Draculi z tajną misją. Gdy wpada w pułapkę wampira, zagrożenie zaczyna dotykać jego bliskich. Doktor Van Helsing, człowiek zdający sobie sprawę ze skali zagrożenia, podejmuje walkę ze złoczyńcą, próbując ocalić pewną kobietę i jej rodzinę.</span></span></p>\n",
+        "lang": "en",
+        "subtitlesLang": "pl",
+        "age": "16",
+        "credits": "reż. Terence Fisher <br>Wielka Brytania <br>1958,72’",
+        "desc": "<p align=\"JUSTIFY\"><span style=\"font-family: Bookman Old Style, serif;\"><span style=\"font-size: medium;\">Jonathan Harker przybywa do zamku hrabiego Draculi z tajną misją. Gdy wpada w pułapkę wampira, zagrożenie zaczyna dotykać jego bliskich. Doktor Van Helsing, człowiek zdający sobie sprawę ze skali zagrożenia, podejmuje walkę ze złoczyńcą, próbując ocalić pewną kobietę i jej rodzinę.</span></span></p>\n",
+        "hall": "poza_kinem",
+        "movieLink": "https://www.kinomuza.pl/movie/horror-draculi/",
+        "ticketLink": "https://estradapoznan.bilety24.pl/kup-bilety/?id=1006818",
+        "prePremier": false,
+        "tape35mm": false,
+        "ad": false,
+        "deaf": false,
+        "ticketPrice": "",
+        "ticketHalfPrice": "",
+        "alt": "Horror Draculi",
+        "thumb": "https://www.kinomuza.pl/content/uploads/2026/10/horror-drakuli-2-800x450.jpg",
+        "event": "British Film Festival",
+        "description": "Jonathan Harker przybywa do zamku hrabiego Draculi z tajną misją. Gdy wpada w pułapkę wampira, zagrożenie zaczyna dotykać jego bliskich. Doktor Van Helsing, człowiek zdający sobie sprawę ze skali zagrożenia, podejmuje walkę ze złoczyńcą, próbując ocalić pewną kobietę i jej rodzinę.",
+        "shortDescription": "Jonathan Harker przybywa do zamku hrabiego Draculi z tajną misją. Gdy wpada w pułapkę wampira, zagrożenie zaczyna dotykać jego bliskich. Doktor Van Helsing, człowiek zdający sobie sprawę ze skali zagrożenia, podejmuje walkę ze złoczyńcą, próbując ocalić pewną kobietę i jej rodzinę.",
+        "genres": [
+          "Horror"
+        ],
+        "external": {
+          "imdb": {
+            "id": "tt0051554",
+            "url": "https://www.imdb.com/title/tt0051554/",
+            "rating": 7.2,
+            "votes": 30554
+          },
+          "filmweb": {
+            "id": "35022",
+            "url": "https://www.filmweb.pl/film/Horror+Draculi-1958-35022",
+            "genres": [
+              "Horror"
+            ],
+            "rating": 6.7,
+            "votes": 3471
+          },
+          "rottenTomatoes": null
+        },
+        "longDescription": "Transylwania, rok 1885. Jonathan Harker (John Van Eyssen) przybywa do zamku hrabiego Draculi (Christopher Lee w roli, która przyniosła mu sławę i, nomen omen, nieśmiertelność) pod pretekstem uporządkowania tamtejszej kolekcji bibliotecznej. W rzeczywistości nie o książki mu chodzi. Jego misja jest dużo bardziej niebezpieczna. Mężczyzna planuje zgładzić arystokratę, który skrywa przerażającą naturę. Jest on, co tu dużo mówić, wampirem. Gdy Dracula odkrywa prawdziwe zamiary Harkera, postanawia – zrobiwszy najpierw to i owo – zająć się narzeczoną gościa, czyli Lucy Holmwood (Carol Marsh). Wkrótce nie tylko ona, ale i cała jej rodzina zostaje uwikłana w walkę ze złem. Pomaga im doktor Abraham Van Helsing (Peter Cushing), uczony próbujący przekonać otaczających go sceptyków, że za serią niepokojących wydarzeń stoi istota, której nie sposób pokonać konwencjonalnymi metodami (radę dają natomiast kwiaty czosnku, krucyfiksy, drewniane kołki i oczywiście światło słoneczne). HORROR DRACULI (1958) Terence’a Fishera to jedno z tych dzieł – obok na przykład PRZEKLEŃSTWA FRANKENSTEINA (1957) w reżyserii tego samego twórcy – które zdefiniowało brytyjskie kino grozy. Utwór ten powstał pod egidą wytwórni Hammer Film Productions, która, począwszy zresztą od tego momentu, wyspecjalizowała się w reinterpretowaniu znanych gotyckich opowieści poprzez dodanie do nich koloru (tak zwane niesamowitki z hollywoodzkiego okresu przedkodeksowego kojarzyły się z czernią i bielą). Ta decyzja artystyczna – banalna na pierwszy rzut oka, a przecież podbijająca efekt strachu i obrzydzenia (wreszcie czerwona krew na ekranie!) – wywróciła gatunek do góry nogami, czego HORROR DRACULI jest znakomitym przykładem.\n\nEN\n\nTransylvania, 1885. Jonathan Harker (John Van Eyssen) arrives at Count Dracula’s castle under the pretext of cataloguing its library. Books, however, are not his real concern. His mission is far more dangerous: he intends to destroy the aristocrat, whose true nature is terrifying. Dracula is, quite simply, a vampire.\n\nWhen Dracula discovers Harker’s true intentions, he decides – after doing a few things first – to turn his attention to the man’s fiancée, Lucy Holmwood (Carol Marsh). Soon, not only she, but her entire family, becomes embroiled in the battle against evil. Their ally is Dr Abraham Van Helsing (Peter Cushing), a scholar trying to convince the sceptics around him that behind a series of disturbing events lies a creature that cannot be defeated by conventional means (the remedies, however, are garlic, crucifixes, wooden stakes and, of course, sunlight).\n\nTerence Fisher’s HORROR OF DRACULA (1958), alongside films such as his own THE CURSE OF FRANKENSTEIN (1957), helped define British horror. Produced by Hammer Film Productions, it marked the beginning of the studio’s distinctive approach to reimagining familiar Gothic tales through colour at a time when classic screen horror was still strongly associated with black and white.\n\nThe choice may seem straightforward, but it transformed the genre by intensifying both fear and disgust: blood could finally appear vividly red on screen. HORROR OF DRACULA remains one of the clearest examples of how decisively that shift changed the face of horror cinema.",
+        "poster": "media/posters/d3ee21c0f241948531f7.webp"
+      }
+    ]
+  }
+}

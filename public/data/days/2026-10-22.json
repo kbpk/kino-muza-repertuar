@@ -1,12 +1,12 @@
 {
   "schemaVersion": 1,
   "date": "2026-10-22",
-  "updatedAt": "2026-10-21T20:06:27.518Z",
+  "updatedAt": "2026-10-22T15:12:17.592Z",
   "source": "https://www.kinomuza.pl/repertoire/day/",
   "day": {
-    "id": "01",
+    "id": "00",
     "date": "22.10",
-    "now": "2026-10-21 22:05:54",
+    "now": "2026-10-22 17:11:16",
     "info": [],
     "repertoire": [
       {
@@ -324,7 +324,7 @@
               "Sci-Fi"
             ],
             "rating": 6.1,
-            "votes": 1167
+            "votes": 1251
           },
           "rottenTomatoes": null
         },
@@ -380,7 +380,7 @@
               "Dramat"
             ],
             "rating": 6.4,
-            "votes": 8030
+            "votes": 8348
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/primetime",
@@ -392,7 +392,7 @@
             "criticsRating": 86,
             "criticsVotes": 242,
             "audienceRating": 77,
-            "audienceVotes": 2606
+            "audienceVotes": 2629
           }
         },
         "longDescription": "ROBERT PATTINSON w thrillerze psychologicznym PRIMETIME wciela się w Chrisa Hansena, charyzmatycznego dziennikarza, który wkracza do podziemnego świata przestępczego i pragnie zmienić oblicze telewizji. Z czasem jednak ulega własnej obsesji i w drodze na szczyt popularności zaczyna zatracać swój pierwotny cel.",
@@ -449,7 +449,7 @@
               "Kostiumowy"
             ],
             "rating": 7.6,
-            "votes": 30100
+            "votes": 30112
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/hamnet",
@@ -498,8 +498,8 @@
         "description": "Akcja, osadzona w Anglii epoki georgiańskiej, podąża za losami zamożnego pana Dashwooda, który umiera, pozostawiając swoją drugą żonę oraz trzy córki w trudnej sytuacji finansowej.",
         "shortDescription": "Akcja, osadzona w Anglii epoki georgiańskiej, podąża za losami zamożnego pana Dashwooda, który umiera, pozostawiając swoją drugą żonę oraz trzy córki w trudnej sytuacji finansowej.",
         "genres": [
-          "Melodramat",
-          "Kostiumowy"
+          "Kostiumowy",
+          "Melodramat"
         ],
         "external": {
           "imdb": {
@@ -512,11 +512,11 @@
             "id": "10087170",
             "url": "https://www.filmweb.pl/film/Rozwa%C5%BCna+i+romantyczna-2026-10087170",
             "genres": [
-              "Melodramat",
-              "Kostiumowy"
+              "Kostiumowy",
+              "Melodramat"
             ],
             "rating": 7.2,
-            "votes": 1120
+            "votes": 1316
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/sense_and_sensibility_2026",
@@ -525,10 +525,10 @@
             "directors": [
               "Georgia Oakley"
             ],
-            "criticsRating": 77,
-            "criticsVotes": 106,
+            "criticsRating": 78,
+            "criticsVotes": 108,
             "audienceRating": 89,
-            "audienceVotes": 471
+            "audienceVotes": 516
           }
         },
         "longDescription": "Georgeia Oakley jest reżyserką nowej interpretacji  Rozważnej i romantycznej  Jane Austen. To produkcja Working Title, oparta na scenariuszu Diany Reid, w rolach głównych zobaczymy: Daisy Edgar-Jones, Esmé Creed-Miles, Caitríonę Balfe, Franka Dillane’a, Herberta Nordruma, Bodhi Rae Breathnach, George’a MacKaya oraz Fionę Shaw.\n\nAkcja, osadzona w Anglii epoki georgiańskiej, podąża za losami zamożnego pana Dashwooda, który umiera, pozostawiając swoją drugą żonę oraz trzy córki w trudnej sytuacji finansowej. Kobiety przenoszą się do skromnej wiejskiej posiadłości, gdzie dwie starsze siostry rywalizują o względy różnych adoratorów, poszukując prawdziwej miłości.\n\nProducentami filmu są: Tim Bevan i Eric Fellner z Working Title, a także India Flint z November Pictures oraz Jo Wallett z Kiddo Films. Working Title i Focus wcześniej współpracowały przy filmowej adaptacji  Dumy i uprzedzenia  z 2005 roku, która zdobyła cztery nominacje do Oscara, oraz przy kinowej wersji  Emmy  z 2020 roku.\n\nRozważna i romantyczna  trafiła na ekrany również w 1995 roku ze studia Sony Pictures Classics — film w reżyserii Anga Lee, ze scenariuszem Emmy Thompson, nagrodzonej Oscarem za najlepszy scenariusz adaptowany. Thompson zagrała także Elinor Dashwood, a Kate Winslet wcieliła się w Marianne. Produkcja otrzymała w sumie siedem nominacji do Oscara i zarobiła ponad 134 miliony dolarów na świecie.",
@@ -583,7 +583,7 @@
               "Kostiumowy"
             ],
             "rating": 7.7,
-            "votes": 29931
+            "votes": 30505
           },
           "rottenTomatoes": null
         },
@@ -637,7 +637,7 @@
               "Czarna komedia"
             ],
             "rating": 7,
-            "votes": 5287
+            "votes": 5452
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/digger_2026",
@@ -649,7 +649,7 @@
             "criticsRating": 53,
             "criticsVotes": 334,
             "audienceRating": 76,
-            "audienceVotes": 1999
+            "audienceVotes": 2025
           }
         },
         "longDescription": "Najpotężniejszy człowiek świata wyrusza w szaloną misję, chcąc udowodnić, że jest zbawcą ludzkości, zanim katastrofa, którą spowodował, tę ludzkość zniszczy.\n\nCruise występuje w roli tytułowej, a towarzyszą mu laureat Oscara Riz Ahmed, John Goodman, nominowana do Oscara Sandra Hüller, Michael Stuhlbarg oraz nominowany do Oscara Jesse Plemons. W pozostałych rolach występują Robert John Burke, Emma D’Arcy, Burn Gorman i Sophie Wilde.\n\nIñárritu reżyseruje na podstawie scenariusza autorstwa swojego oraz nagrodzonych Oscarem Alexandra Dinelarisa i Nicolása Giacobone’a, jak również Sabiny Berman. Autorami pomysłu są Iñárritu i Berman. Producentami filmu są Iñárritu, nominowana do Oscara Mary Parent, Cruise i Michael Sharp. Funkcję producentów wykonawczych pełnią Joshua Grode, Berman, Dinelaris, Giacobone, Jez Butterworth i Emmanuel Lubezki.\n\nDo Iñárritu po drugiej stronie kamery dołączyli jego dawni współpracownicy, tacy jak nagrodzony Oscarem operator Emmanuel Lubezki, montażyści Conor O’Neill i nagrodzony Oscarem Stephen Mirrione, nominowana do Oscara projektantka kostiumów Jacqueline West, nagrodzony Oscarem charakteryzator Alessandro Bertolazzi oraz nominowana do Oscara reżyserka castingu Francine Maisler. Oprócz nich w ekipie znaleźli się nagrodzony Oscarem scenograf Dennis Gassner i drugi scenograf Richard Johnson, jak również nagrodzony Oscarem twórca protez charakteryzatorskich Kazu Hiro i kompozytor Cosmo Sheldrake.\n\nDigger Alejandra G. Iñárritu został nakręcony w całości w formacie VistaVision. Do kin i kin IMAX® Ameryki Północnej trafi 2 października 2026 roku, a seanse na całym świecie rozpoczną się 30 września 2026 roku. Dystrybutorem filmu jest Warner Bros. Pictures.",
@@ -701,7 +701,7 @@
               "Dramat historyczny"
             ],
             "rating": 7.2,
-            "votes": 2019
+            "votes": 2052
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/rose_2026",
@@ -711,7 +711,7 @@
               "Markus Schleinzer"
             ],
             "criticsRating": 97,
-            "criticsVotes": 32,
+            "criticsVotes": 33,
             "audienceRating": null,
             "audienceVotes": null
           }

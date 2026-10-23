@@ -1,12 +1,12 @@
 {
   "schemaVersion": 1,
   "date": "2026-11-11",
-  "updatedAt": "2026-10-22T20:01:48.142Z",
+  "updatedAt": "2026-10-23T15:00:46.307Z",
   "source": "https://www.kinomuza.pl/repertoire/day/",
   "day": {
-    "id": "20",
+    "id": "19",
     "date": "11.11",
-    "now": "2026-10-22 22:01:34",
+    "now": "2026-10-23 16:59:58",
     "info": [],
     "repertoire": [
       {
@@ -47,7 +47,7 @@
             "id": "tt0051554",
             "url": "https://www.imdb.com/title/tt0051554/",
             "rating": 7.2,
-            "votes": 30554
+            "votes": 30577
           },
           "filmweb": {
             "id": "35022",

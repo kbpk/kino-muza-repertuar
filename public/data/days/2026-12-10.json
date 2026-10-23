@@ -1,12 +1,12 @@
 {
   "schemaVersion": 1,
   "date": "2026-12-10",
-  "updatedAt": "2026-10-22T20:01:48.142Z",
+  "updatedAt": "2026-10-23T15:00:46.307Z",
   "source": "https://www.kinomuza.pl/repertoire/day/",
   "day": {
-    "id": "49",
+    "id": "48",
     "date": "10.12",
-    "now": "2026-10-22 22:01:45",
+    "now": "2026-10-23 17:00:07",
     "info": [],
     "repertoire": [
       {
@@ -58,7 +58,7 @@
               "Komedia"
             ],
             "rating": 6.1,
-            "votes": 7
+            "votes": 8
           },
           "rottenTomatoes": null
         },

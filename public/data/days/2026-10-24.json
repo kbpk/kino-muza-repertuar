@@ -1,12 +1,12 @@
 {
   "schemaVersion": 1,
   "date": "2026-10-24",
-  "updatedAt": "2026-10-22T20:01:48.142Z",
+  "updatedAt": "2026-10-23T15:00:46.307Z",
   "source": "https://www.kinomuza.pl/repertoire/day/",
   "day": {
-    "id": "02",
+    "id": "01",
     "date": "24.10",
-    "now": "2026-10-22 22:01:24",
+    "now": "2026-10-23 16:59:48",
     "info": [],
     "repertoire": [
       {
@@ -90,7 +90,7 @@
             "id": "tt36583977",
             "url": "https://www.imdb.com/title/tt36583977/",
             "rating": 7.7,
-            "votes": 6948
+            "votes": 7187
           },
           "filmweb": {
             "id": "10116454",
@@ -101,7 +101,7 @@
               "Fantasy"
             ],
             "rating": 6.7,
-            "votes": 836
+            "votes": 841
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/forgotten_island",
@@ -111,10 +111,10 @@
               "Joel Crawford",
               "Januel P. Mercado"
             ],
-            "criticsRating": 94,
-            "criticsVotes": 127,
+            "criticsRating": 95,
+            "criticsVotes": 130,
             "audienceRating": 95,
-            "audienceVotes": 1708
+            "audienceVotes": 1714
           }
         },
         "longDescription": "Warto walczyć o najlepszą przyjaźń.\n\nDreamWorks Animation, studio, które stworzyło niezapomniane więzi między chłopcem a smokiem w filmie „Jak wytresować smoka”, ogrem i osłem w animacji „Shrek” oraz robotem i gąsiątkiem w „Dzikim robocie”. Teraz przedstawia olśniewającą i wzruszającą historię o dwójce przyjaciół na całe życie, którzy muszą się zjednoczyć.\n\nNowy film został napisany i wyreżyserowany przez nominowanych do Oscara® Joela Crawforda i Januela Mercado, a jego producentem jest nominowany do Oscara® Mark Swift, twórca filmu „Kot w butach: Ostatnie życzenie”.\n\nNagrodzone nagrodą Grammy i Oscarem® H.E.R. i Liza Soberano użyczają głosu Jo i Raissie.\n\nTo przyjaciółki od najmłodszych lat, które właśnie kończą szkołę średnią i stoją u progu zupełnie nowych etapów życia.\n\nPodczas wspólnego świętowania ostatniego wieczoru przed rozstaniem dziewczyny przypadkiem odkrywają tajemniczy portal, który przenosi je na magiczną wyspę Nakali. To niezwykła kraina pełna fantastycznych i mitycznych stworzeń, o których od dzieciństwa słyszały w opowieściach przekazywanych przez ich filipińskie rodziny.\n\nNiektóre z tych postaci staną się przyjaciółmi, inne wrogami. Jo i Raissa muszą stawić czoła najgroźniejszemu stworzeniu na wyspie.\n\nKiedy odkryją, że wspomnienia ich przyjaźni są ceną za powrót do domu, Jo i Raissa będą ścigać się, by znaleźć sposób na opuszczenie wyspy, zanim zapomną o sobie na zawsze.",
@@ -219,7 +219,7 @@
             "id": "tt36841161",
             "url": "https://www.imdb.com/title/tt36841161/",
             "rating": 7.2,
-            "votes": 1616
+            "votes": 1670
           },
           "filmweb": {
             "id": "10101144",
@@ -229,7 +229,7 @@
               "Familijny"
             ],
             "rating": 7,
-            "votes": 369
+            "votes": 389
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/shaun_the_sheep_the_beast_of_mossy_bottom",
@@ -285,7 +285,7 @@
             "id": "tt25399154",
             "url": "https://www.imdb.com/title/tt25399154/",
             "rating": 7.5,
-            "votes": 2847
+            "votes": 2913
           },
           "filmweb": {
             "id": "10113205",
@@ -294,7 +294,7 @@
               "Dramat historyczny"
             ],
             "rating": 7.2,
-            "votes": 2052
+            "votes": 2127
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/rose_2026",
@@ -349,7 +349,7 @@
             "id": "tt13868840",
             "url": "https://www.imdb.com/title/tt13868840/",
             "rating": 7.4,
-            "votes": 612
+            "votes": 615
           },
           "filmweb": {
             "id": "10116502",
@@ -358,7 +358,7 @@
               "Komedia rom."
             ],
             "rating": 7,
-            "votes": 101
+            "votes": 106
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/no_good_men",
@@ -414,7 +414,7 @@
             "id": "tt37082105",
             "url": "https://www.imdb.com/title/tt37082105/",
             "rating": 7.7,
-            "votes": 1229
+            "votes": 1293
           },
           "filmweb": {
             "id": "10057628",
@@ -424,9 +424,20 @@
               "Kostiumowy"
             ],
             "rating": 7.7,
-            "votes": 30505
+            "votes": 31129
           },
-          "rottenTomatoes": null
+          "rottenTomatoes": {
+            "url": "https://www.rottentomatoes.com/m/lalka",
+            "title": "Lalka",
+            "year": "",
+            "directors": [
+              "Maciej Kawalski"
+            ],
+            "criticsRating": null,
+            "criticsVotes": null,
+            "audienceRating": null,
+            "audienceVotes": null
+          }
         },
         "longDescription": "Dzieło Bolesława Prusa od blisko 140 lat rozpala emocje i wyobraźnię kolejnych pokoleń. Teraz ta ponadczasowa historia trafia na wielki ekran w nowej, spektakularnej, filmowej odsłonie. „Lalka” to zrealizowana z ogromnym rozmachem superprodukcja i najbardziej gwiazdorski film w historii polskiego kina, gdzie pośród wielu wybitnych nazwisk, w rolach głównych występują: Marcin Dorociński jako Stanisław Wokulski, gwiazda „Chłopów” – Kamila Urzędowska jako Izabela Łęcka oraz powracający na wielki ekran po 16 latach Marek Kondrat w roli Ignacego Rzeckiego. Nowa ekranizacja „Lalki” to opowiedziana ze współczesną wrażliwością przejmująca, uniwersalna historia o miłości i niespełnieniu, o aspiracjach i przemianie, o świecie, który właśnie się kończy. To film, który zdarza się raz na kilka dekad: epicki, pełen emocji, zrealizowany z imponującą scenografią, dopracowanymi w najdrobniejszych detalach kostiumami i charakteryzacją oraz prawdziwie gwiazdorską obsadą.\n\nWarszawa końca XIX wieku. Serce Stanisława Wokulskiego (Marcin Dorociński) owładnięte jest szaloną miłością do Izabeli Łęckiej (Kamila Urzędowska). On, dzięki fortunie zdobytej na wojnie, powraca do kraju i postanawia wkroczyć do świata wyższych sfer, aby zdobyć rękę ukochanej. Ona jest olśniewająca i wyniosła, lecz mimo arystokratycznego pochodzenia zmaga się z widmem finansowej ruiny. U boku Wokulskiego stoi jego wierny przyjaciel – Ignacy Rzecki (Marek Kondrat), romantyk, który z nostalgią obserwuje, jak świat ideałów ustępuje miejsca społecznym aspiracjom i bezwzględnej grze interesów. Wokulski wkracza w labirynt arystokratycznych salonów, gdzie każdy gest może być początkiem intrygi, a każde słowo – zapowiedzią zdrady. Stający na jego drodze rywale, niespodziewane sojusze i dramatyczne wybory wystawią na próbę jego marzenia i wiarę w ludzi. To opowieść o miłosnym zauroczeniu, które zmienia losy bohaterów i zaciera granice między sercem a rozumem.\n\nFilm dostępny z audiodeskrypcją lub lektorem. Skorzystaj bezpłatnie z aplikacji Kino Dostępne 2.0 w Twoim telefonie – http://kinodostepne.pl",
         "poster": "media/posters/2f797fdbd82b582ae91e.webp"
@@ -469,7 +480,7 @@
             "id": "tt34206385",
             "url": "https://www.imdb.com/title/tt34206385/",
             "rating": 7.1,
-            "votes": 20544
+            "votes": 21227
           },
           "filmweb": {
             "id": "10115409",
@@ -478,8 +489,8 @@
               "Kryminał",
               "Dramat"
             ],
-            "rating": 6.4,
-            "votes": 8348
+            "rating": 6.3,
+            "votes": 8665
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/primetime",
@@ -489,9 +500,9 @@
               "Lance Oppenheim"
             ],
             "criticsRating": 86,
-            "criticsVotes": 242,
+            "criticsVotes": 243,
             "audienceRating": 77,
-            "audienceVotes": 2629
+            "audienceVotes": 2644
           }
         },
         "longDescription": "ROBERT PATTINSON w thrillerze psychologicznym PRIMETIME wciela się w Chrisa Hansena, charyzmatycznego dziennikarza, który wkracza do podziemnego świata przestępczego i pragnie zmienić oblicze telewizji. Z czasem jednak ulega własnej obsesji i w drodze na szczyt popularności zaczyna zatracać swój pierwotny cel.",
@@ -527,25 +538,25 @@
         "description": "Opowieść o losach młodej inżynierki Facebooka, która we współpracy z reportem z &#8222;Wall Street Journal&#8221; &#8211; stara się ujawnić skryte tajemnice portalu społecznościowego.",
         "shortDescription": "Opowieść o losach młodej inżynierki Facebooka, która we współpracy z reportem z &#8222;Wall Street Journal&#8221; &#8211; stara się ujawnić skryte tajemnice portalu społecznościowego.",
         "genres": [
-          "Biograficzny",
-          "Dramat"
+          "Dramat",
+          "Biograficzny"
         ],
         "external": {
           "imdb": {
             "id": "tt37510326",
             "url": "https://www.imdb.com/title/tt37510326/",
             "rating": 6.7,
-            "votes": 8069
+            "votes": 8650
           },
           "filmweb": {
             "id": "10095188",
             "url": "https://www.filmweb.pl/film/The+Social+Reckoning%3A+W+sieci+konsekwencji-2026-10095188",
             "genres": [
-              "Biograficzny",
-              "Dramat"
+              "Dramat",
+              "Biograficzny"
             ],
             "rating": 6,
-            "votes": 1638
+            "votes": 1719
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/the_social_reckoning",
@@ -555,9 +566,9 @@
               "Aaron Sorkin"
             ],
             "criticsRating": 54,
-            "criticsVotes": 254,
+            "criticsVotes": 260,
             "audienceRating": 72,
-            "audienceVotes": 632
+            "audienceVotes": 637
           }
         },
         "longDescription": "Zobaczymy kontynuację filmu Aarona Sorkina „The Social Network” pod tytułem „The Social Reckoning: W sieci konsekwencji ”.\n\nOpowieść o losach Frances Haugen, młodej inżynierki Facebooka, która we współpracy z Jeffem Horwitzem – reportem z „Wall Street Journal” – stara się ujawnić najbardziej skryte tajemnice tego potężnego portalu społecznościowego.\n\nAaron Sorkin otrzymał Oscara za scenariusz adaptowany do filmu „The Social Network” .\n\nW nowym filmie filmie zobaczymy nominowanego do Oscara Jeremy’ego Stronga, który wcieli się w rolę Marka Zuckerberga; lauretkę Oscara, Mikey Madison, która wcieli się w rolę Frances Haugen; oraz laureata Złotego Globu i Emmy Jeremy’ego Allena White’a, który zagra reportera Wall Street Journal Jeffa Horowitza, autora serii artykułów znanych jako „The Facebook Files”. Te opublikowane w październiku 2021 r. reportaże ujawniły wewnętrzne funkcjonowanie Facebooka i wiele szkód spowodowanych przez tę platformę.",
@@ -601,7 +612,7 @@
             "id": "tt13609648",
             "url": "https://www.imdb.com/title/tt13609648/",
             "rating": 7.4,
-            "votes": 3918
+            "votes": 4616
           },
           "filmweb": {
             "id": "10087170",
@@ -610,8 +621,8 @@
               "Kostiumowy",
               "Melodramat"
             ],
-            "rating": 7.2,
-            "votes": 1316
+            "rating": 7.3,
+            "votes": 1463
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/sense_and_sensibility_2026",
@@ -620,10 +631,10 @@
             "directors": [
               "Georgia Oakley"
             ],
-            "criticsRating": 78,
-            "criticsVotes": 108,
+            "criticsRating": 77,
+            "criticsVotes": 113,
             "audienceRating": 89,
-            "audienceVotes": 516
+            "audienceVotes": 548
           }
         },
         "longDescription": "Georgeia Oakley jest reżyserką nowej interpretacji  Rozważnej i romantycznej  Jane Austen. To produkcja Working Title, oparta na scenariuszu Diany Reid, w rolach głównych zobaczymy: Daisy Edgar-Jones, Esmé Creed-Miles, Caitríonę Balfe, Franka Dillane’a, Herberta Nordruma, Bodhi Rae Breathnach, George’a MacKaya oraz Fionę Shaw.\n\nAkcja, osadzona w Anglii epoki georgiańskiej, podąża za losami zamożnego pana Dashwooda, który umiera, pozostawiając swoją drugą żonę oraz trzy córki w trudnej sytuacji finansowej. Kobiety przenoszą się do skromnej wiejskiej posiadłości, gdzie dwie starsze siostry rywalizują o względy różnych adoratorów, poszukując prawdziwej miłości.\n\nProducentami filmu są: Tim Bevan i Eric Fellner z Working Title, a także India Flint z November Pictures oraz Jo Wallett z Kiddo Films. Working Title i Focus wcześniej współpracowały przy filmowej adaptacji  Dumy i uprzedzenia  z 2005 roku, która zdobyła cztery nominacje do Oscara, oraz przy kinowej wersji  Emmy  z 2020 roku.\n\nRozważna i romantyczna  trafiła na ekrany również w 1995 roku ze studia Sony Pictures Classics — film w reżyserii Anga Lee, ze scenariuszem Emmy Thompson, nagrodzonej Oscarem za najlepszy scenariusz adaptowany. Thompson zagrała także Elinor Dashwood, a Kate Winslet wcieliła się w Marianne. Produkcja otrzymała w sumie siedem nominacji do Oscara i zarobiła ponad 134 miliony dolarów na świecie.",
@@ -659,25 +670,25 @@
         "description": "Zatrzymaj się i poczuj magię natury podczas prawdziwego kinowego doświadczenia, które angażuje wszystkie zmysły!",
         "shortDescription": "Zatrzymaj się i poczuj magię natury podczas prawdziwego kinowego doświadczenia, które angażuje wszystkie zmysły!",
         "genres": [
-          "Dokumentalny",
-          "Przyrodniczy"
+          "Przyrodniczy",
+          "Dokumentalny"
         ],
         "external": {
           "imdb": {
             "id": "tt32368068",
             "url": "https://www.imdb.com/title/tt32368068/",
             "rating": 7.7,
-            "votes": 1294
+            "votes": 1304
           },
           "filmweb": {
             "id": "10111381",
             "url": "https://www.filmweb.pl/film/Pie%C5%9Bni+lasu-2025-10111381",
             "genres": [
-              "Dokumentalny",
-              "Przyrodniczy"
+              "Przyrodniczy",
+              "Dokumentalny"
             ],
             "rating": 8.2,
-            "votes": 527
+            "votes": 546
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/whispers_in_the_woods",
@@ -733,7 +744,7 @@
             "id": "tt36955382",
             "url": "https://www.imdb.com/title/tt36955382/",
             "rating": 5.8,
-            "votes": 44
+            "votes": 50
           },
           "filmweb": {
             "id": "10082282",
@@ -743,7 +754,7 @@
               "Sci-Fi"
             ],
             "rating": 6.1,
-            "votes": 1251
+            "votes": 1297
           },
           "rottenTomatoes": null
         },
@@ -787,8 +798,8 @@
           "imdb": {
             "id": "tt14371256",
             "url": "https://www.imdb.com/title/tt14371256/",
-            "rating": 6,
-            "votes": 265
+            "rating": 6.1,
+            "votes": 356
           },
           "filmweb": {
             "id": "10035554",
@@ -797,8 +808,8 @@
               "Sci-Fi",
               "Dramat"
             ],
-            "rating": 7,
-            "votes": 12
+            "rating": 6.6,
+            "votes": 26
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/klara_and_the_sun",
@@ -807,10 +818,10 @@
             "directors": [
               "Taika Waititi"
             ],
-            "criticsRating": 27,
-            "criticsVotes": 37,
+            "criticsRating": 23,
+            "criticsVotes": 53,
             "audienceRating": null,
-            "audienceVotes": null
+            "audienceVotes": 12
           }
         },
         "longDescription": "Film „Klara i słońce”, oparty na bestsellerowej powieści laureata Nagrody Nobla Kazuo Ishiguro.\n\nTo historia Klary (Jenna Ortega), robota zasilanego energią słoneczną, stworzonego po to, by wspierać i towarzyszyć ludziom w ich codziennym życiu.\n\nKiedy Klara poznaje Josie (Mia Tharia), każda z nich od razu wyczuwa w drugiej pokrewną duszę. Josie ma trudną relację ze swoją matką (Amy Adams), a to właśnie Klara zaczyna uzdrawiać rodzinę i wnosić światło do skomplikowanego świata Josie.\n\n„Klara i słońce” to pełna nadziei opowieść o przyjaźni w czasach, gdy technologia sprawia, że czujemy się coraz bardziej samotni.",
@@ -853,7 +864,7 @@
             "id": "tt25399154",
             "url": "https://www.imdb.com/title/tt25399154/",
             "rating": 7.5,
-            "votes": 2847
+            "votes": 2913
           },
           "filmweb": {
             "id": "10113205",
@@ -862,7 +873,7 @@
               "Dramat historyczny"
             ],
             "rating": 7.2,
-            "votes": 2052
+            "votes": 2127
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/rose_2026",
@@ -917,7 +928,7 @@
             "id": "tt44766123",
             "url": "https://www.imdb.com/title/tt44766123/",
             "rating": 8.2,
-            "votes": 5026
+            "votes": 5340
           },
           "filmweb": {
             "id": "10133039",
@@ -926,7 +937,7 @@
               "Dokumentalny"
             ],
             "rating": 8.2,
-            "votes": 226
+            "votes": 252
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/naza",
@@ -937,9 +948,9 @@
               "Rachel Szor"
             ],
             "criticsRating": 100,
-            "criticsVotes": 68,
-            "audienceRating": 89,
-            "audienceVotes": 183
+            "criticsVotes": 70,
+            "audienceRating": 98,
+            "audienceVotes": 66
           }
         },
         "longDescription": "Nocą, na dachach Tel Awiwu, z dala od oficjalnych komunikatów i kamer, byli i obecni członkowie izraelskich struktur wojskowych opowiadają o systemach, które sami współtworzyli i obsługiwali. Ich świadectwa odsłaniają mechanizmy podejmowania decyzji prowadzących do masowego zabijania palestyńskich cywilów w Strefie Gazy – od procedur i technologii po sposób, w jaki odpowiedzialność za ludzkie życie zostaje rozproszona pomiędzy ludzi, dane i algorytmy.\n\nZa filmem stoją Yuval Abraham – filmowiec i dziennikarz śledczy – oraz Rachel Szor – reżyserka i operatorka filmowa. Oboje należą do czworga twórców „Nie chcemy innej ziemi” („No Other Land”), jednego z najgłośniejszych dokumentów ostatnich lat, nagrodzonego w 2025 roku Oscarem dla najlepszego pełnometrażowego filmu dokumentalnego.\n\n„NAZA” wyrasta z ponad trzech lat pracy dziennikarskiej i śledczej. Wiele ustaleń, do których twórcy docierali podczas pracy nad filmem, było publikowanych na bieżąco przez „The Guardian”, we współpracy z izraelsko-palestyńskim magazynem +972 oraz Local Call. „The Guardian” jest również jednym z producentów filmu, co podkreśla jego wyjątkowe połączenie kina dokumentalnego z dziennikarstwem śledczym.\n\nProducentem wykonawczym filmu jest Jonathan Glazer – nagrodzony Oscarem za „Strefę interesów”. Obecność Glazera przy „NAZA” tworzy dodatkowy kontekst dla filmu, który podobnie jak „Strefa interesów” przygląda się mechanizmom przemocy z perspektywy ludzi funkcjonujących wewnątrz systemu, podczas gdy jego ofiary pozostają w dużej mierze poza kadrem.\n\nW „NAZA” Abraham i Szor kierują uwagę na ludzi znajdujących się wewnątrz izraelskiego systemu wojskowego i próbują zrozumieć nie tylko konsekwencje wojny, ale również mechanizmy, które umożliwiają jej prowadzenie. Film powstał na podstawie rozmów z 24 izraelskimi oficerami wywiadu i żołnierzami, których świadectwa składają się na obraz systemu, w którym decyzje dotyczące życia cywilów zostają wpisane w procedury wojskowe i technologiczne.\n\nFilm miał światową premierę w konkursie głównym Międzynarodowego Festiwalu Filmowego w Wenecji, gdzie zdobył Nagrodę Specjalną Jury. Międzynarodowa prasa zwracała uwagę na bezkompromisowość filmu oraz siłę świadectw osób mówiących z wnętrza systemu.\n\nTo wstrząsający dokument o wojnie widzianej nie z pola bitwy, lecz z miejsc, w których zapadają decyzje. O technologii, odpowiedzialności i granicach posłuszeństwa. O tym, co dzieje się, kiedy przemoc zostaje zamieniona w procedurę, a decyzje o ludzkim życiu stają się częścią systemu.",
@@ -982,8 +993,8 @@
           "imdb": {
             "id": "tt14371256",
             "url": "https://www.imdb.com/title/tt14371256/",
-            "rating": 6,
-            "votes": 265
+            "rating": 6.1,
+            "votes": 356
           },
           "filmweb": {
             "id": "10035554",
@@ -992,8 +1003,8 @@
               "Sci-Fi",
               "Dramat"
             ],
-            "rating": 7,
-            "votes": 12
+            "rating": 6.6,
+            "votes": 26
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/klara_and_the_sun",
@@ -1002,10 +1013,10 @@
             "directors": [
               "Taika Waititi"
             ],
-            "criticsRating": 27,
-            "criticsVotes": 37,
+            "criticsRating": 23,
+            "criticsVotes": 53,
             "audienceRating": null,
-            "audienceVotes": null
+            "audienceVotes": 12
           }
         },
         "longDescription": "Film „Klara i słońce”, oparty na bestsellerowej powieści laureata Nagrody Nobla Kazuo Ishiguro.\n\nTo historia Klary (Jenna Ortega), robota zasilanego energią słoneczną, stworzonego po to, by wspierać i towarzyszyć ludziom w ich codziennym życiu.\n\nKiedy Klara poznaje Josie (Mia Tharia), każda z nich od razu wyczuwa w drugiej pokrewną duszę. Josie ma trudną relację ze swoją matką (Amy Adams), a to właśnie Klara zaczyna uzdrawiać rodzinę i wnosić światło do skomplikowanego świata Josie.\n\n„Klara i słońce” to pełna nadziei opowieść o przyjaźni w czasach, gdy technologia sprawia, że czujemy się coraz bardziej samotni.",
@@ -1049,7 +1060,7 @@
             "id": "tt13609648",
             "url": "https://www.imdb.com/title/tt13609648/",
             "rating": 7.4,
-            "votes": 3918
+            "votes": 4616
           },
           "filmweb": {
             "id": "10087170",
@@ -1058,8 +1069,8 @@
               "Kostiumowy",
               "Melodramat"
             ],
-            "rating": 7.2,
-            "votes": 1316
+            "rating": 7.3,
+            "votes": 1463
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/sense_and_sensibility_2026",
@@ -1068,10 +1079,10 @@
             "directors": [
               "Georgia Oakley"
             ],
-            "criticsRating": 78,
-            "criticsVotes": 108,
+            "criticsRating": 77,
+            "criticsVotes": 113,
             "audienceRating": 89,
-            "audienceVotes": 516
+            "audienceVotes": 548
           }
         },
         "longDescription": "Georgeia Oakley jest reżyserką nowej interpretacji  Rozważnej i romantycznej  Jane Austen. To produkcja Working Title, oparta na scenariuszu Diany Reid, w rolach głównych zobaczymy: Daisy Edgar-Jones, Esmé Creed-Miles, Caitríonę Balfe, Franka Dillane’a, Herberta Nordruma, Bodhi Rae Breathnach, George’a MacKaya oraz Fionę Shaw.\n\nAkcja, osadzona w Anglii epoki georgiańskiej, podąża za losami zamożnego pana Dashwooda, który umiera, pozostawiając swoją drugą żonę oraz trzy córki w trudnej sytuacji finansowej. Kobiety przenoszą się do skromnej wiejskiej posiadłości, gdzie dwie starsze siostry rywalizują o względy różnych adoratorów, poszukując prawdziwej miłości.\n\nProducentami filmu są: Tim Bevan i Eric Fellner z Working Title, a także India Flint z November Pictures oraz Jo Wallett z Kiddo Films. Working Title i Focus wcześniej współpracowały przy filmowej adaptacji  Dumy i uprzedzenia  z 2005 roku, która zdobyła cztery nominacje do Oscara, oraz przy kinowej wersji  Emmy  z 2020 roku.\n\nRozważna i romantyczna  trafiła na ekrany również w 1995 roku ze studia Sony Pictures Classics — film w reżyserii Anga Lee, ze scenariuszem Emmy Thompson, nagrodzonej Oscarem za najlepszy scenariusz adaptowany. Thompson zagrała także Elinor Dashwood, a Kate Winslet wcieliła się w Marianne. Produkcja otrzymała w sumie siedem nominacji do Oscara i zarobiła ponad 134 miliony dolarów na świecie.",
@@ -1115,7 +1126,7 @@
             "id": "tt34206385",
             "url": "https://www.imdb.com/title/tt34206385/",
             "rating": 7.1,
-            "votes": 20544
+            "votes": 21227
           },
           "filmweb": {
             "id": "10115409",
@@ -1124,8 +1135,8 @@
               "Kryminał",
               "Dramat"
             ],
-            "rating": 6.4,
-            "votes": 8348
+            "rating": 6.3,
+            "votes": 8665
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/primetime",
@@ -1135,9 +1146,9 @@
               "Lance Oppenheim"
             ],
             "criticsRating": 86,
-            "criticsVotes": 242,
+            "criticsVotes": 243,
             "audienceRating": 77,
-            "audienceVotes": 2629
+            "audienceVotes": 2644
           }
         },
         "longDescription": "ROBERT PATTINSON w thrillerze psychologicznym PRIMETIME wciela się w Chrisa Hansena, charyzmatycznego dziennikarza, który wkracza do podziemnego świata przestępczego i pragnie zmienić oblicze telewizji. Z czasem jednak ulega własnej obsesji i w drodze na szczyt popularności zaczyna zatracać swój pierwotny cel.",

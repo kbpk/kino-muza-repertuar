@@ -1,12 +1,12 @@
 {
   "schemaVersion": 1,
   "date": "2026-11-04",
-  "updatedAt": "2026-10-23T15:00:46.307Z",
+  "updatedAt": "2026-10-23T19:56:41.346Z",
   "source": "https://www.kinomuza.pl/repertoire/day/",
   "day": {
     "id": "12",
     "date": "04.11",
-    "now": "2026-10-23 16:59:56",
+    "now": "2026-10-23 21:56:21",
     "info": [],
     "repertoire": [
       {
@@ -21,7 +21,7 @@
         "countries": "Polska",
         "shortDesc": "<p>Dzieło Prusa od blisko 140 lat rozpala emocje i wyobraźnię kolejnych pokoleń. Teraz ta ponadczasowa historia trafia na wielki ekran w nowej, spektakularnej, filmowej odsłonie.</p>\n",
         "lang": "pl",
-        "subtitlesLang": "",
+        "subtitlesLang": "en",
         "age": "16",
         "credits": "reż. Maciej Kawalski <br>Polska <br>2026,162’",
         "desc": "<p>Dzieło Prusa od blisko 140 lat rozpala emocje i wyobraźnię kolejnych pokoleń. Teraz ta ponadczasowa historia trafia na wielki ekran w nowej, spektakularnej, filmowej odsłonie.</p>\n",

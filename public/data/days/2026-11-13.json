@@ -1,12 +1,12 @@
 {
   "schemaVersion": 1,
   "date": "2026-11-13",
-  "updatedAt": "2026-10-22T20:01:48.142Z",
+  "updatedAt": "2026-10-23T15:00:46.307Z",
   "source": "https://www.kinomuza.pl/repertoire/day/",
   "day": {
-    "id": "22",
+    "id": "21",
     "date": "13.11",
-    "now": "2026-10-22 22:01:34",
+    "now": "2026-10-23 16:59:59",
     "info": [],
     "repertoire": [
       {
@@ -47,7 +47,7 @@
             "id": "tt0435625",
             "url": "https://www.imdb.com/title/tt0435625/",
             "rating": 7.2,
-            "votes": 278797
+            "votes": 278915
           },
           "filmweb": {
             "id": "214803",
@@ -56,7 +56,7 @@
               "Horror"
             ],
             "rating": 6.3,
-            "votes": 80258
+            "votes": 80263
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/descent",
@@ -66,7 +66,7 @@
               "Neil Marshall"
             ],
             "criticsRating": 87,
-            "criticsVotes": 190,
+            "criticsVotes": 191,
             "audienceRating": 76,
             "audienceVotes": 26506
           }

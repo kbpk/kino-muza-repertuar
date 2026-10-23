@@ -1,12 +1,12 @@
 {
   "schemaVersion": 1,
   "date": "2026-10-28",
-  "updatedAt": "2026-10-22T20:01:48.142Z",
+  "updatedAt": "2026-10-23T15:00:46.307Z",
   "source": "https://www.kinomuza.pl/repertoire/day/",
   "day": {
-    "id": "06",
+    "id": "05",
     "date": "28.10",
-    "now": "2026-10-22 22:01:26",
+    "now": "2026-10-23 16:59:51",
     "info": [],
     "repertoire": [
       {
@@ -47,7 +47,7 @@
             "id": "tt34206385",
             "url": "https://www.imdb.com/title/tt34206385/",
             "rating": 7.1,
-            "votes": 20544
+            "votes": 21227
           },
           "filmweb": {
             "id": "10115409",
@@ -56,8 +56,8 @@
               "Kryminał",
               "Dramat"
             ],
-            "rating": 6.4,
-            "votes": 8348
+            "rating": 6.3,
+            "votes": 8665
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/primetime",
@@ -67,9 +67,9 @@
               "Lance Oppenheim"
             ],
             "criticsRating": 86,
-            "criticsVotes": 242,
+            "criticsVotes": 243,
             "audienceRating": 77,
-            "audienceVotes": 2629
+            "audienceVotes": 2644
           }
         },
         "longDescription": "ROBERT PATTINSON w thrillerze psychologicznym PRIMETIME wciela się w Chrisa Hansena, charyzmatycznego dziennikarza, który wkracza do podziemnego świata przestępczego i pragnie zmienić oblicze telewizji. Z czasem jednak ulega własnej obsesji i w drodze na szczyt popularności zaczyna zatracać swój pierwotny cel.",
@@ -112,7 +112,7 @@
             "id": "tt13868840",
             "url": "https://www.imdb.com/title/tt13868840/",
             "rating": 7.4,
-            "votes": 612
+            "votes": 615
           },
           "filmweb": {
             "id": "10116502",
@@ -121,7 +121,7 @@
               "Komedia rom."
             ],
             "rating": 7,
-            "votes": 101
+            "votes": 106
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/no_good_men",
@@ -178,7 +178,7 @@
             "id": "tt13609648",
             "url": "https://www.imdb.com/title/tt13609648/",
             "rating": 7.4,
-            "votes": 3918
+            "votes": 4616
           },
           "filmweb": {
             "id": "10087170",
@@ -187,8 +187,8 @@
               "Kostiumowy",
               "Melodramat"
             ],
-            "rating": 7.2,
-            "votes": 1316
+            "rating": 7.3,
+            "votes": 1463
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/sense_and_sensibility_2026",
@@ -197,10 +197,10 @@
             "directors": [
               "Georgia Oakley"
             ],
-            "criticsRating": 78,
-            "criticsVotes": 108,
+            "criticsRating": 77,
+            "criticsVotes": 113,
             "audienceRating": 89,
-            "audienceVotes": 516
+            "audienceVotes": 548
           }
         },
         "longDescription": "Georgeia Oakley jest reżyserką nowej interpretacji  Rozważnej i romantycznej  Jane Austen. To produkcja Working Title, oparta na scenariuszu Diany Reid, w rolach głównych zobaczymy: Daisy Edgar-Jones, Esmé Creed-Miles, Caitríonę Balfe, Franka Dillane’a, Herberta Nordruma, Bodhi Rae Breathnach, George’a MacKaya oraz Fionę Shaw.\n\nAkcja, osadzona w Anglii epoki georgiańskiej, podąża za losami zamożnego pana Dashwooda, który umiera, pozostawiając swoją drugą żonę oraz trzy córki w trudnej sytuacji finansowej. Kobiety przenoszą się do skromnej wiejskiej posiadłości, gdzie dwie starsze siostry rywalizują o względy różnych adoratorów, poszukując prawdziwej miłości.\n\nProducentami filmu są: Tim Bevan i Eric Fellner z Working Title, a także India Flint z November Pictures oraz Jo Wallett z Kiddo Films. Working Title i Focus wcześniej współpracowały przy filmowej adaptacji  Dumy i uprzedzenia  z 2005 roku, która zdobyła cztery nominacje do Oscara, oraz przy kinowej wersji  Emmy  z 2020 roku.\n\nRozważna i romantyczna  trafiła na ekrany również w 1995 roku ze studia Sony Pictures Classics — film w reżyserii Anga Lee, ze scenariuszem Emmy Thompson, nagrodzonej Oscarem za najlepszy scenariusz adaptowany. Thompson zagrała także Elinor Dashwood, a Kate Winslet wcieliła się w Marianne. Produkcja otrzymała w sumie siedem nominacji do Oscara i zarobiła ponad 134 miliony dolarów na świecie.",
@@ -244,7 +244,7 @@
             "id": "tt36955382",
             "url": "https://www.imdb.com/title/tt36955382/",
             "rating": 5.8,
-            "votes": 44
+            "votes": 50
           },
           "filmweb": {
             "id": "10082282",
@@ -254,7 +254,7 @@
               "Sci-Fi"
             ],
             "rating": 6.1,
-            "votes": 1251
+            "votes": 1297
           },
           "rottenTomatoes": null
         },
@@ -299,7 +299,7 @@
             "id": "tt37082105",
             "url": "https://www.imdb.com/title/tt37082105/",
             "rating": 7.7,
-            "votes": 1229
+            "votes": 1293
           },
           "filmweb": {
             "id": "10057628",
@@ -309,9 +309,20 @@
               "Kostiumowy"
             ],
             "rating": 7.7,
-            "votes": 30505
+            "votes": 31129
           },
-          "rottenTomatoes": null
+          "rottenTomatoes": {
+            "url": "https://www.rottentomatoes.com/m/lalka",
+            "title": "Lalka",
+            "year": "",
+            "directors": [
+              "Maciej Kawalski"
+            ],
+            "criticsRating": null,
+            "criticsVotes": null,
+            "audienceRating": null,
+            "audienceVotes": null
+          }
         },
         "longDescription": "Dzieło Bolesława Prusa od blisko 140 lat rozpala emocje i wyobraźnię kolejnych pokoleń. Teraz ta ponadczasowa historia trafia na wielki ekran w nowej, spektakularnej, filmowej odsłonie. „Lalka” to zrealizowana z ogromnym rozmachem superprodukcja i najbardziej gwiazdorski film w historii polskiego kina, gdzie pośród wielu wybitnych nazwisk, w rolach głównych występują: Marcin Dorociński jako Stanisław Wokulski, gwiazda „Chłopów” – Kamila Urzędowska jako Izabela Łęcka oraz powracający na wielki ekran po 16 latach Marek Kondrat w roli Ignacego Rzeckiego. Nowa ekranizacja „Lalki” to opowiedziana ze współczesną wrażliwością przejmująca, uniwersalna historia o miłości i niespełnieniu, o aspiracjach i przemianie, o świecie, który właśnie się kończy. To film, który zdarza się raz na kilka dekad: epicki, pełen emocji, zrealizowany z imponującą scenografią, dopracowanymi w najdrobniejszych detalach kostiumami i charakteryzacją oraz prawdziwie gwiazdorską obsadą.\n\nWarszawa końca XIX wieku. Serce Stanisława Wokulskiego (Marcin Dorociński) owładnięte jest szaloną miłością do Izabeli Łęckiej (Kamila Urzędowska). On, dzięki fortunie zdobytej na wojnie, powraca do kraju i postanawia wkroczyć do świata wyższych sfer, aby zdobyć rękę ukochanej. Ona jest olśniewająca i wyniosła, lecz mimo arystokratycznego pochodzenia zmaga się z widmem finansowej ruiny. U boku Wokulskiego stoi jego wierny przyjaciel – Ignacy Rzecki (Marek Kondrat), romantyk, który z nostalgią obserwuje, jak świat ideałów ustępuje miejsca społecznym aspiracjom i bezwzględnej grze interesów. Wokulski wkracza w labirynt arystokratycznych salonów, gdzie każdy gest może być początkiem intrygi, a każde słowo – zapowiedzią zdrady. Stający na jego drodze rywale, niespodziewane sojusze i dramatyczne wybory wystawią na próbę jego marzenia i wiarę w ludzi. To opowieść o miłosnym zauroczeniu, które zmienia losy bohaterów i zaciera granice między sercem a rozumem.\n\nFilm dostępny z audiodeskrypcją lub lektorem. Skorzystaj bezpłatnie z aplikacji Kino Dostępne 2.0 w Twoim telefonie – http://kinodostepne.pl",
         "poster": "media/posters/2f797fdbd82b582ae91e.webp"
@@ -394,7 +405,7 @@
             "id": "tt13609648",
             "url": "https://www.imdb.com/title/tt13609648/",
             "rating": 7.4,
-            "votes": 3918
+            "votes": 4616
           },
           "filmweb": {
             "id": "10087170",
@@ -403,8 +414,8 @@
               "Kostiumowy",
               "Melodramat"
             ],
-            "rating": 7.2,
-            "votes": 1316
+            "rating": 7.3,
+            "votes": 1463
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/sense_and_sensibility_2026",
@@ -413,10 +424,10 @@
             "directors": [
               "Georgia Oakley"
             ],
-            "criticsRating": 78,
-            "criticsVotes": 108,
+            "criticsRating": 77,
+            "criticsVotes": 113,
             "audienceRating": 89,
-            "audienceVotes": 516
+            "audienceVotes": 548
           }
         },
         "longDescription": "Georgeia Oakley jest reżyserką nowej interpretacji  Rozważnej i romantycznej  Jane Austen. To produkcja Working Title, oparta na scenariuszu Diany Reid, w rolach głównych zobaczymy: Daisy Edgar-Jones, Esmé Creed-Miles, Caitríonę Balfe, Franka Dillane’a, Herberta Nordruma, Bodhi Rae Breathnach, George’a MacKaya oraz Fionę Shaw.\n\nAkcja, osadzona w Anglii epoki georgiańskiej, podąża za losami zamożnego pana Dashwooda, który umiera, pozostawiając swoją drugą żonę oraz trzy córki w trudnej sytuacji finansowej. Kobiety przenoszą się do skromnej wiejskiej posiadłości, gdzie dwie starsze siostry rywalizują o względy różnych adoratorów, poszukując prawdziwej miłości.\n\nProducentami filmu są: Tim Bevan i Eric Fellner z Working Title, a także India Flint z November Pictures oraz Jo Wallett z Kiddo Films. Working Title i Focus wcześniej współpracowały przy filmowej adaptacji  Dumy i uprzedzenia  z 2005 roku, która zdobyła cztery nominacje do Oscara, oraz przy kinowej wersji  Emmy  z 2020 roku.\n\nRozważna i romantyczna  trafiła na ekrany również w 1995 roku ze studia Sony Pictures Classics — film w reżyserii Anga Lee, ze scenariuszem Emmy Thompson, nagrodzonej Oscarem za najlepszy scenariusz adaptowany. Thompson zagrała także Elinor Dashwood, a Kate Winslet wcieliła się w Marianne. Produkcja otrzymała w sumie siedem nominacji do Oscara i zarobiła ponad 134 miliony dolarów na świecie.",
@@ -461,7 +472,7 @@
             "id": "tt0066993",
             "url": "https://www.imdb.com/title/tt0066993/",
             "rating": 7.7,
-            "votes": 23420
+            "votes": 23916
           },
           "filmweb": {
             "id": "32858",
@@ -471,7 +482,7 @@
               "Dramat historyczny"
             ],
             "rating": 7.7,
-            "votes": 5573
+            "votes": 5617
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/the_devils",
@@ -526,8 +537,8 @@
           "imdb": {
             "id": "tt14371256",
             "url": "https://www.imdb.com/title/tt14371256/",
-            "rating": 6,
-            "votes": 265
+            "rating": 6.1,
+            "votes": 356
           },
           "filmweb": {
             "id": "10035554",
@@ -536,8 +547,8 @@
               "Sci-Fi",
               "Dramat"
             ],
-            "rating": 7,
-            "votes": 12
+            "rating": 6.6,
+            "votes": 26
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/klara_and_the_sun",
@@ -546,10 +557,10 @@
             "directors": [
               "Taika Waititi"
             ],
-            "criticsRating": 27,
-            "criticsVotes": 37,
+            "criticsRating": 23,
+            "criticsVotes": 53,
             "audienceRating": null,
-            "audienceVotes": null
+            "audienceVotes": 12
           }
         },
         "longDescription": "Film „Klara i słońce”, oparty na bestsellerowej powieści laureata Nagrody Nobla Kazuo Ishiguro.\n\nTo historia Klary (Jenna Ortega), robota zasilanego energią słoneczną, stworzonego po to, by wspierać i towarzyszyć ludziom w ich codziennym życiu.\n\nKiedy Klara poznaje Josie (Mia Tharia), każda z nich od razu wyczuwa w drugiej pokrewną duszę. Josie ma trudną relację ze swoją matką (Amy Adams), a to właśnie Klara zaczyna uzdrawiać rodzinę i wnosić światło do skomplikowanego świata Josie.\n\n„Klara i słońce” to pełna nadziei opowieść o przyjaźni w czasach, gdy technologia sprawia, że czujemy się coraz bardziej samotni.",
@@ -585,25 +596,25 @@
         "description": "Zatrzymaj się i poczuj magię natury podczas prawdziwego kinowego doświadczenia, które angażuje wszystkie zmysły!",
         "shortDescription": "Zatrzymaj się i poczuj magię natury podczas prawdziwego kinowego doświadczenia, które angażuje wszystkie zmysły!",
         "genres": [
-          "Dokumentalny",
-          "Przyrodniczy"
+          "Przyrodniczy",
+          "Dokumentalny"
         ],
         "external": {
           "imdb": {
             "id": "tt32368068",
             "url": "https://www.imdb.com/title/tt32368068/",
             "rating": 7.7,
-            "votes": 1294
+            "votes": 1304
           },
           "filmweb": {
             "id": "10111381",
             "url": "https://www.filmweb.pl/film/Pie%C5%9Bni+lasu-2025-10111381",
             "genres": [
-              "Dokumentalny",
-              "Przyrodniczy"
+              "Przyrodniczy",
+              "Dokumentalny"
             ],
             "rating": 8.2,
-            "votes": 527
+            "votes": 546
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/whispers_in_the_woods",

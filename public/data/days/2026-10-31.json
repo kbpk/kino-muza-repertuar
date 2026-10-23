@@ -1,12 +1,12 @@
 {
   "schemaVersion": 1,
   "date": "2026-10-31",
-  "updatedAt": "2026-10-22T20:01:48.142Z",
+  "updatedAt": "2026-10-23T15:00:46.307Z",
   "source": "https://www.kinomuza.pl/repertoire/day/",
   "day": {
-    "id": "09",
+    "id": "08",
     "date": "31.10",
-    "now": "2026-10-22 22:01:30",
+    "now": "2026-10-23 16:59:53",
     "info": [],
     "repertoire": [
       {
@@ -51,7 +51,7 @@
             "id": "tt0107688",
             "url": "https://www.imdb.com/title/tt0107688/",
             "rating": 7.9,
-            "votes": 417873
+            "votes": 418044
           },
           "filmweb": {
             "id": "7705",
@@ -63,7 +63,7 @@
               "Fantasy"
             ],
             "rating": 7.6,
-            "votes": 84678
+            "votes": 84682
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/the_nightmare_before_christmas",
@@ -74,8 +74,8 @@
             ],
             "criticsRating": 95,
             "criticsVotes": 107,
-            "audienceRating": 92,
-            "audienceVotes": 3099
+            "audienceRating": 91,
+            "audienceVotes": 3102
           }
         },
         "longDescription": "Dyniowy Król Miasteczka Halloween, Jack Skellington, znudzony powtarzalną rutyną Święta Strachu i Krzyku, chce zaangażować się i przejąć obchody Bożego Narodzenia. Jego radosna misja naraża na niebezpieczeństwo Świętego Mikołaja i jest początkiem koszmaru dla wszystkich grzecznych dzieci na całym świecie. Niezwykła animowana przypowieść Tima Burtona i Henry’ego Selicka z niezapomnianą ścieżką dźwiękową Danny’ego Elfmana.\n\nBored with the same old scare-and-scream routine, Pumpkin King Jack Skellington longs to spread the joy of Christmas. But his merry mission puts Santa in jeopardy and creates a nightmare for good little children everywhere. Experience Tim Burton and Henry Selick’s uncanny tale as it comes vividly to life right before your eyes!",

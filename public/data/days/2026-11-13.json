@@ -1,12 +1,12 @@
 {
   "schemaVersion": 1,
   "date": "2026-11-13",
-  "updatedAt": "2026-10-23T19:56:41.346Z",
+  "updatedAt": "2026-10-24T13:59:46.468Z",
   "source": "https://www.kinomuza.pl/repertoire/day/",
   "day": {
-    "id": "21",
+    "id": "20",
     "date": "13.11",
-    "now": "2026-10-23 21:56:23",
+    "now": "2026-10-24 15:59:09",
     "info": [],
     "repertoire": [
       {
@@ -56,7 +56,7 @@
               "Horror"
             ],
             "rating": 6.3,
-            "votes": 80263
+            "votes": 80272
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/descent",

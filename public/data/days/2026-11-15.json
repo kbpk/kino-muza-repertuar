@@ -1,12 +1,12 @@
 {
   "schemaVersion": 1,
   "date": "2026-11-15",
-  "updatedAt": "2026-10-23T19:56:41.346Z",
+  "updatedAt": "2026-10-24T13:59:46.468Z",
   "source": "https://www.kinomuza.pl/repertoire/day/",
   "day": {
-    "id": "23",
+    "id": "22",
     "date": "15.11",
-    "now": "2026-10-23 21:56:26",
+    "now": "2026-10-24 15:59:12",
     "info": [],
     "repertoire": [
       {
@@ -40,9 +40,9 @@
         "description": "Pełnometrażowy debiut reżyserski Shane’a Madowsa, w którym Bob Hoskins wciela się w rolę mentora, oferującego młodym ludziom alternatywę dla otaczającej beznadziei. W typowym angielskim miasteczku, poprzez sport, próbuje nauczyć ich twardych reguł życia, odpowiedzialności i wychować na dobrych ludzi.",
         "shortDescription": "Pełnometrażowy debiut reżyserski Shane’a Madowsa, w którym Bob Hoskins wciela się w rolę mentora, oferującego młodym ludziom alternatywę dla otaczającej beznadziei. W typowym angielskim miasteczku, poprzez sport, próbuje nauczyć ich twardych reguł życia, odpowiedzialności i wychować na dobrych ludzi.",
         "genres": [
+          "Dramat",
           "Sportowy",
-          "Komedia",
-          "Dramat"
+          "Komedia"
         ],
         "external": {
           "imdb": {
@@ -55,9 +55,9 @@
             "id": "32922",
             "url": "https://www.filmweb.pl/film/Okr%C4%85g%C5%82y+tydzie%C5%84-1997-32922",
             "genres": [
+              "Dramat",
               "Sportowy",
-              "Komedia",
-              "Dramat"
+              "Komedia"
             ],
             "rating": 7.1,
             "votes": 50

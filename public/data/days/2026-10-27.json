@@ -1,12 +1,12 @@
 {
   "schemaVersion": 1,
   "date": "2026-10-27",
-  "updatedAt": "2026-10-23T19:56:41.346Z",
+  "updatedAt": "2026-10-24T13:59:46.468Z",
   "source": "https://www.kinomuza.pl/repertoire/day/",
   "day": {
-    "id": "04",
+    "id": "03",
     "date": "27.10",
-    "now": "2026-10-23 21:56:15",
+    "now": "2026-10-24 15:58:59",
     "info": [],
     "repertoire": [
       {
@@ -55,7 +55,7 @@
               "Dramat historyczny"
             ],
             "rating": 7.2,
-            "votes": 2127
+            "votes": 2167
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/rose_2026",
@@ -121,7 +121,7 @@
               "Dokumentalny"
             ],
             "rating": 8.2,
-            "votes": 546
+            "votes": 585
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/whispers_in_the_woods",
@@ -169,8 +169,8 @@
         "description": "Charyzmatyczny dziennikarz wkracza do podziemnego świata przestępczego i pragnie zmienić oblicze telewizji. Ulega własnej obsesji i w drodze na szczyt popularności zaczyna zatracać swój pierwotny cel.",
         "shortDescription": "Charyzmatyczny dziennikarz wkracza do podziemnego świata przestępczego i pragnie zmienić oblicze telewizji. Ulega własnej obsesji i w drodze na szczyt popularności zaczyna zatracać swój pierwotny cel.",
         "genres": [
-          "Kryminał",
-          "Dramat"
+          "Dramat",
+          "Kryminał"
         ],
         "external": {
           "imdb": {
@@ -183,11 +183,11 @@
             "id": "10115409",
             "url": "https://www.filmweb.pl/film/Primetime-2026-10115409",
             "genres": [
-              "Kryminał",
-              "Dramat"
+              "Dramat",
+              "Kryminał"
             ],
             "rating": 6.3,
-            "votes": 8665
+            "votes": 8915
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/primetime",
@@ -199,7 +199,7 @@
             "criticsRating": 86,
             "criticsVotes": 243,
             "audienceRating": 77,
-            "audienceVotes": 2644
+            "audienceVotes": 2658
           }
         },
         "longDescription": "ROBERT PATTINSON w thrillerze psychologicznym PRIMETIME wciela się w Chrisa Hansena, charyzmatycznego dziennikarza, który wkracza do podziemnego świata przestępczego i pragnie zmienić oblicze telewizji. Z czasem jednak ulega własnej obsesji i w drodze na szczyt popularności zaczyna zatracać swój pierwotny cel.",
@@ -253,7 +253,7 @@
               "Kostiumowy"
             ],
             "rating": 7.7,
-            "votes": 31129
+            "votes": 31698
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/lalka",
@@ -301,8 +301,8 @@
         "description": "Historia Klary, robota zasilanego energią słoneczną, stworzonego po to, by wspierać i towarzyszyć ludziom w ich codziennym życiu.",
         "shortDescription": "Historia Klary, robota zasilanego energią słoneczną, stworzonego po to, by wspierać i towarzyszyć ludziom w ich codziennym życiu.",
         "genres": [
-          "Sci-Fi",
-          "Dramat"
+          "Dramat",
+          "Sci-Fi"
         ],
         "external": {
           "imdb": {
@@ -315,11 +315,11 @@
             "id": "10035554",
             "url": "https://www.filmweb.pl/film/Klara+i+s%C5%82o%C5%84ce-2026-10035554",
             "genres": [
-              "Sci-Fi",
-              "Dramat"
+              "Dramat",
+              "Sci-Fi"
             ],
-            "rating": 6.6,
-            "votes": 26
+            "rating": 6.3,
+            "votes": 161
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/klara_and_the_sun",
@@ -328,10 +328,10 @@
             "directors": [
               "Taika Waititi"
             ],
-            "criticsRating": 23,
-            "criticsVotes": 53,
+            "criticsRating": 24,
+            "criticsVotes": 63,
             "audienceRating": null,
-            "audienceVotes": 12
+            "audienceVotes": 43
           }
         },
         "longDescription": "Film „Klara i słońce”, oparty na bestsellerowej powieści laureata Nagrody Nobla Kazuo Ishiguro.\n\nTo historia Klary (Jenna Ortega), robota zasilanego energią słoneczną, stworzonego po to, by wspierać i towarzyszyć ludziom w ich codziennym życiu.\n\nKiedy Klara poznaje Josie (Mia Tharia), każda z nich od razu wyczuwa w drugiej pokrewną duszę. Josie ma trudną relację ze swoją matką (Amy Adams), a to właśnie Klara zaczyna uzdrawiać rodzinę i wnosić światło do skomplikowanego świata Josie.\n\n„Klara i słońce” to pełna nadziei opowieść o przyjaźni w czasach, gdy technologia sprawia, że czujemy się coraz bardziej samotni.",
@@ -385,7 +385,7 @@
               "Melodramat"
             ],
             "rating": 7.3,
-            "votes": 1463
+            "votes": 1623
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/sense_and_sensibility_2026",
@@ -395,9 +395,9 @@
               "Georgia Oakley"
             ],
             "criticsRating": 77,
-            "criticsVotes": 113,
+            "criticsVotes": 114,
             "audienceRating": 89,
-            "audienceVotes": 548
+            "audienceVotes": 582
           }
         },
         "longDescription": "Georgeia Oakley jest reżyserką nowej interpretacji  Rozważnej i romantycznej  Jane Austen. To produkcja Working Title, oparta na scenariuszu Diany Reid, w rolach głównych zobaczymy: Daisy Edgar-Jones, Esmé Creed-Miles, Caitríonę Balfe, Franka Dillane’a, Herberta Nordruma, Bodhi Rae Breathnach, George’a MacKaya oraz Fionę Shaw.\n\nAkcja, osadzona w Anglii epoki georgiańskiej, podąża za losami zamożnego pana Dashwooda, który umiera, pozostawiając swoją drugą żonę oraz trzy córki w trudnej sytuacji finansowej. Kobiety przenoszą się do skromnej wiejskiej posiadłości, gdzie dwie starsze siostry rywalizują o względy różnych adoratorów, poszukując prawdziwej miłości.\n\nProducentami filmu są: Tim Bevan i Eric Fellner z Working Title, a także India Flint z November Pictures oraz Jo Wallett z Kiddo Films. Working Title i Focus wcześniej współpracowały przy filmowej adaptacji  Dumy i uprzedzenia  z 2005 roku, która zdobyła cztery nominacje do Oscara, oraz przy kinowej wersji  Emmy  z 2020 roku.\n\nRozważna i romantyczna  trafiła na ekrany również w 1995 roku ze studia Sony Pictures Classics — film w reżyserii Anga Lee, ze scenariuszem Emmy Thompson, nagrodzonej Oscarem za najlepszy scenariusz adaptowany. Thompson zagrała także Elinor Dashwood, a Kate Winslet wcieliła się w Marianne. Produkcja otrzymała w sumie siedem nominacji do Oscara i zarobiła ponad 134 miliony dolarów na świecie.",
@@ -449,7 +449,7 @@
               "Dokumentalny"
             ],
             "rating": 8.2,
-            "votes": 252
+            "votes": 282
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/naza",
@@ -498,8 +498,8 @@
         "description": "Historia Klary, robota zasilanego energią słoneczną, stworzonego po to, by wspierać i towarzyszyć ludziom w ich codziennym życiu.",
         "shortDescription": "Historia Klary, robota zasilanego energią słoneczną, stworzonego po to, by wspierać i towarzyszyć ludziom w ich codziennym życiu.",
         "genres": [
-          "Sci-Fi",
-          "Dramat"
+          "Dramat",
+          "Sci-Fi"
         ],
         "external": {
           "imdb": {
@@ -512,11 +512,11 @@
             "id": "10035554",
             "url": "https://www.filmweb.pl/film/Klara+i+s%C5%82o%C5%84ce-2026-10035554",
             "genres": [
-              "Sci-Fi",
-              "Dramat"
+              "Dramat",
+              "Sci-Fi"
             ],
-            "rating": 6.6,
-            "votes": 26
+            "rating": 6.3,
+            "votes": 161
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/klara_and_the_sun",
@@ -525,10 +525,10 @@
             "directors": [
               "Taika Waititi"
             ],
-            "criticsRating": 23,
-            "criticsVotes": 53,
+            "criticsRating": 24,
+            "criticsVotes": 63,
             "audienceRating": null,
-            "audienceVotes": 12
+            "audienceVotes": 43
           }
         },
         "longDescription": "Film „Klara i słońce”, oparty na bestsellerowej powieści laureata Nagrody Nobla Kazuo Ishiguro.\n\nTo historia Klary (Jenna Ortega), robota zasilanego energią słoneczną, stworzonego po to, by wspierać i towarzyszyć ludziom w ich codziennym życiu.\n\nKiedy Klara poznaje Josie (Mia Tharia), każda z nich od razu wyczuwa w drugiej pokrewną duszę. Josie ma trudną relację ze swoją matką (Amy Adams), a to właśnie Klara zaczyna uzdrawiać rodzinę i wnosić światło do skomplikowanego świata Josie.\n\n„Klara i słońce” to pełna nadziei opowieść o przyjaźni w czasach, gdy technologia sprawia, że czujemy się coraz bardziej samotni.",
@@ -581,8 +581,8 @@
               "Melodramat",
               "Sci-Fi"
             ],
-            "rating": 6.1,
-            "votes": 1297
+            "rating": 6.2,
+            "votes": 1378
           },
           "rottenTomatoes": null
         },
@@ -621,8 +621,8 @@
         "shortDescription": "Mistrzowski thriller, w którym poszukiwanie odpowiedzi na pytanie czy zabiła ? ogląda się jak pełną napięcia intrygę rodem z Zaginionej dziewczyny  Davida Finchera.",
         "genres": [
           "Dramat",
-          "Thriller",
-          "Kryminał"
+          "Kryminał",
+          "Thriller"
         ],
         "external": {
           "imdb": {
@@ -636,11 +636,11 @@
             "url": "https://www.filmweb.pl/film/Anatomia+upadku-2023-10032723",
             "genres": [
               "Dramat",
-              "Thriller",
-              "Kryminał"
+              "Kryminał",
+              "Thriller"
             ],
             "rating": 7.1,
-            "votes": 68658
+            "votes": 68676
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/anatomy_of_a_fall",
@@ -706,7 +706,7 @@
               "Melodramat"
             ],
             "rating": 7.3,
-            "votes": 1463
+            "votes": 1623
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/sense_and_sensibility_2026",
@@ -716,9 +716,9 @@
               "Georgia Oakley"
             ],
             "criticsRating": 77,
-            "criticsVotes": 113,
+            "criticsVotes": 114,
             "audienceRating": 89,
-            "audienceVotes": 548
+            "audienceVotes": 582
           }
         },
         "longDescription": "Georgeia Oakley jest reżyserką nowej interpretacji  Rozważnej i romantycznej  Jane Austen. To produkcja Working Title, oparta na scenariuszu Diany Reid, w rolach głównych zobaczymy: Daisy Edgar-Jones, Esmé Creed-Miles, Caitríonę Balfe, Franka Dillane’a, Herberta Nordruma, Bodhi Rae Breathnach, George’a MacKaya oraz Fionę Shaw.\n\nAkcja, osadzona w Anglii epoki georgiańskiej, podąża za losami zamożnego pana Dashwooda, który umiera, pozostawiając swoją drugą żonę oraz trzy córki w trudnej sytuacji finansowej. Kobiety przenoszą się do skromnej wiejskiej posiadłości, gdzie dwie starsze siostry rywalizują o względy różnych adoratorów, poszukując prawdziwej miłości.\n\nProducentami filmu są: Tim Bevan i Eric Fellner z Working Title, a także India Flint z November Pictures oraz Jo Wallett z Kiddo Films. Working Title i Focus wcześniej współpracowały przy filmowej adaptacji  Dumy i uprzedzenia  z 2005 roku, która zdobyła cztery nominacje do Oscara, oraz przy kinowej wersji  Emmy  z 2020 roku.\n\nRozważna i romantyczna  trafiła na ekrany również w 1995 roku ze studia Sony Pictures Classics — film w reżyserii Anga Lee, ze scenariuszem Emmy Thompson, nagrodzonej Oscarem za najlepszy scenariusz adaptowany. Thompson zagrała także Elinor Dashwood, a Kate Winslet wcieliła się w Marianne. Produkcja otrzymała w sumie siedem nominacji do Oscara i zarobiła ponad 134 miliony dolarów na świecie.",
@@ -772,7 +772,7 @@
               "Biograficzny"
             ],
             "rating": 6,
-            "votes": 1719
+            "votes": 1736
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/the_social_reckoning",
@@ -783,8 +783,8 @@
             ],
             "criticsRating": 54,
             "criticsVotes": 260,
-            "audienceRating": 72,
-            "audienceVotes": 637
+            "audienceRating": 71,
+            "audienceVotes": 646
           }
         },
         "longDescription": "Zobaczymy kontynuację filmu Aarona Sorkina „The Social Network” pod tytułem „The Social Reckoning: W sieci konsekwencji ”.\n\nOpowieść o losach Frances Haugen, młodej inżynierki Facebooka, która we współpracy z Jeffem Horwitzem – reportem z „Wall Street Journal” – stara się ujawnić najbardziej skryte tajemnice tego potężnego portalu społecznościowego.\n\nAaron Sorkin otrzymał Oscara za scenariusz adaptowany do filmu „The Social Network” .\n\nW nowym filmie filmie zobaczymy nominowanego do Oscara Jeremy’ego Stronga, który wcieli się w rolę Marka Zuckerberga; lauretkę Oscara, Mikey Madison, która wcieli się w rolę Frances Haugen; oraz laureata Złotego Globu i Emmy Jeremy’ego Allena White’a, który zagra reportera Wall Street Journal Jeffa Horowitza, autora serii artykułów znanych jako „The Facebook Files”. Te opublikowane w październiku 2021 r. reportaże ujawniły wewnętrzne funkcjonowanie Facebooka i wiele szkód spowodowanych przez tę platformę.",

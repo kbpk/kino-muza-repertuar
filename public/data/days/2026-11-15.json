@@ -1,12 +1,12 @@
 {
   "schemaVersion": 1,
   "date": "2026-11-15",
-  "updatedAt": "2026-10-24T13:59:46.468Z",
+  "updatedAt": "2026-10-24T18:46:09.725Z",
   "source": "https://www.kinomuza.pl/repertoire/day/",
   "day": {
     "id": "22",
     "date": "15.11",
-    "now": "2026-10-24 15:59:12",
+    "now": "2026-10-24 20:45:44",
     "info": [],
     "repertoire": [
       {
@@ -49,7 +49,7 @@
             "id": "tt0120391",
             "url": "https://www.imdb.com/title/tt0120391/",
             "rating": 7,
-            "votes": 2913
+            "votes": 2916
           },
           "filmweb": {
             "id": "32922",

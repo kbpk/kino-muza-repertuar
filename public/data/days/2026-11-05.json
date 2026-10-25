@@ -1,12 +1,12 @@
 {
   "schemaVersion": 1,
   "date": "2026-11-05",
-  "updatedAt": "2026-10-24T18:46:09.725Z",
+  "updatedAt": "2026-10-25T14:20:30.248Z",
   "source": "https://www.kinomuza.pl/repertoire/day/",
   "day": {
-    "id": "12",
+    "id": "11",
     "date": "05.11",
-    "now": "2026-10-24 20:45:39",
+    "now": "2026-10-25 15:19:54",
     "info": [],
     "repertoire": [
       {
@@ -47,7 +47,7 @@
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/the_room_returns",
             "title": "The Room Returns",
-            "year": "",
+            "year": "2025",
             "directors": [
               "Brando Crawford"
             ],

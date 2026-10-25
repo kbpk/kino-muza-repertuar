@@ -1,12 +1,12 @@
 {
   "schemaVersion": 1,
   "date": "2026-10-25",
-  "updatedAt": "2026-10-25T14:20:30.248Z",
+  "updatedAt": "2026-10-25T18:59:07.014Z",
   "source": "https://www.kinomuza.pl/repertoire/day/",
   "day": {
     "id": "00",
     "date": "25.10",
-    "now": "2026-10-25 15:19:45",
+    "now": "2026-10-25 19:58:33",
     "info": [],
     "repertoire": [
       {
@@ -883,8 +883,8 @@
           "imdb": {
             "id": "tt14371256",
             "url": "https://www.imdb.com/title/tt14371256/",
-            "rating": 6,
-            "votes": 500
+            "rating": 6.2,
+            "votes": 743
           },
           "filmweb": {
             "id": "10035554",
@@ -948,8 +948,8 @@
           "imdb": {
             "id": "tt44766123",
             "url": "https://www.imdb.com/title/tt44766123/",
-            "rating": 8.2,
-            "votes": 5439
+            "rating": 8.3,
+            "votes": 5549
           },
           "filmweb": {
             "id": "10133039",
@@ -1014,7 +1014,7 @@
             "id": "tt13868840",
             "url": "https://www.imdb.com/title/tt13868840/",
             "rating": 7.4,
-            "votes": 622
+            "votes": 633
           },
           "filmweb": {
             "id": "10116502",

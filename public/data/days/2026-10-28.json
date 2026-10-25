@@ -1,12 +1,12 @@
 {
   "schemaVersion": 1,
   "date": "2026-10-28",
-  "updatedAt": "2026-10-24T18:46:09.725Z",
+  "updatedAt": "2026-10-25T14:20:30.248Z",
   "source": "https://www.kinomuza.pl/repertoire/day/",
   "day": {
-    "id": "04",
+    "id": "03",
     "date": "28.10",
-    "now": "2026-10-24 20:45:31",
+    "now": "2026-10-25 15:19:49",
     "info": [],
     "repertoire": [
       {
@@ -57,7 +57,7 @@
               "Kryminał"
             ],
             "rating": 6.3,
-            "votes": 8915
+            "votes": 9255
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/primetime",
@@ -67,9 +67,9 @@
               "Lance Oppenheim"
             ],
             "criticsRating": 86,
-            "criticsVotes": 243,
+            "criticsVotes": 244,
             "audienceRating": 77,
-            "audienceVotes": 2658
+            "audienceVotes": 2672
           }
         },
         "longDescription": "ROBERT PATTINSON w thrillerze psychologicznym PRIMETIME wciela się w Chrisa Hansena, charyzmatycznego dziennikarza, który wkracza do podziemnego świata przestępczego i pragnie zmienić oblicze telewizji. Z czasem jednak ulega własnej obsesji i w drodze na szczyt popularności zaczyna zatracać swój pierwotny cel.",
@@ -120,8 +120,8 @@
             "genres": [
               "Komedia rom."
             ],
-            "rating": 7,
-            "votes": 118
+            "rating": 7.1,
+            "votes": 136
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/no_good_men",
@@ -130,8 +130,8 @@
             "directors": [
               "Shahrbanoo Sadat"
             ],
-            "criticsRating": null,
-            "criticsVotes": 9,
+            "criticsRating": 60,
+            "criticsVotes": 10,
             "audienceRating": null,
             "audienceVotes": null
           }
@@ -188,7 +188,7 @@
               "Melodramat"
             ],
             "rating": 7.3,
-            "votes": 1623
+            "votes": 1864
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/sense_and_sensibility_2026",
@@ -197,10 +197,10 @@
             "directors": [
               "Georgia Oakley"
             ],
-            "criticsRating": 77,
-            "criticsVotes": 114,
-            "audienceRating": 89,
-            "audienceVotes": 582
+            "criticsRating": 76,
+            "criticsVotes": 116,
+            "audienceRating": 88,
+            "audienceVotes": 633
           }
         },
         "longDescription": "Georgeia Oakley jest reżyserką nowej interpretacji  Rozważnej i romantycznej  Jane Austen. To produkcja Working Title, oparta na scenariuszu Diany Reid, w rolach głównych zobaczymy: Daisy Edgar-Jones, Esmé Creed-Miles, Caitríonę Balfe, Franka Dillane’a, Herberta Nordruma, Bodhi Rae Breathnach, George’a MacKaya oraz Fionę Shaw.\n\nAkcja, osadzona w Anglii epoki georgiańskiej, podąża za losami zamożnego pana Dashwooda, który umiera, pozostawiając swoją drugą żonę oraz trzy córki w trudnej sytuacji finansowej. Kobiety przenoszą się do skromnej wiejskiej posiadłości, gdzie dwie starsze siostry rywalizują o względy różnych adoratorów, poszukując prawdziwej miłości.\n\nProducentami filmu są: Tim Bevan i Eric Fellner z Working Title, a także India Flint z November Pictures oraz Jo Wallett z Kiddo Films. Working Title i Focus wcześniej współpracowały przy filmowej adaptacji  Dumy i uprzedzenia  z 2005 roku, która zdobyła cztery nominacje do Oscara, oraz przy kinowej wersji  Emmy  z 2020 roku.\n\nRozważna i romantyczna  trafiła na ekrany również w 1995 roku ze studia Sony Pictures Classics — film w reżyserii Anga Lee, ze scenariuszem Emmy Thompson, nagrodzonej Oscarem za najlepszy scenariusz adaptowany. Thompson zagrała także Elinor Dashwood, a Kate Winslet wcieliła się w Marianne. Produkcja otrzymała w sumie siedem nominacji do Oscara i zarobiła ponad 134 miliony dolarów na świecie.",
@@ -254,7 +254,7 @@
               "Sci-Fi"
             ],
             "rating": 6.2,
-            "votes": 1378
+            "votes": 1490
           },
           "rottenTomatoes": null
         },
@@ -309,7 +309,7 @@
               "Kostiumowy"
             ],
             "rating": 7.7,
-            "votes": 31698
+            "votes": 32860
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/lalka",
@@ -415,7 +415,7 @@
               "Melodramat"
             ],
             "rating": 7.3,
-            "votes": 1623
+            "votes": 1864
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/sense_and_sensibility_2026",
@@ -424,10 +424,10 @@
             "directors": [
               "Georgia Oakley"
             ],
-            "criticsRating": 77,
-            "criticsVotes": 114,
-            "audienceRating": 89,
-            "audienceVotes": 582
+            "criticsRating": 76,
+            "criticsVotes": 116,
+            "audienceRating": 88,
+            "audienceVotes": 633
           }
         },
         "longDescription": "Georgeia Oakley jest reżyserką nowej interpretacji  Rozważnej i romantycznej  Jane Austen. To produkcja Working Title, oparta na scenariuszu Diany Reid, w rolach głównych zobaczymy: Daisy Edgar-Jones, Esmé Creed-Miles, Caitríonę Balfe, Franka Dillane’a, Herberta Nordruma, Bodhi Rae Breathnach, George’a MacKaya oraz Fionę Shaw.\n\nAkcja, osadzona w Anglii epoki georgiańskiej, podąża za losami zamożnego pana Dashwooda, który umiera, pozostawiając swoją drugą żonę oraz trzy córki w trudnej sytuacji finansowej. Kobiety przenoszą się do skromnej wiejskiej posiadłości, gdzie dwie starsze siostry rywalizują o względy różnych adoratorów, poszukując prawdziwej miłości.\n\nProducentami filmu są: Tim Bevan i Eric Fellner z Working Title, a także India Flint z November Pictures oraz Jo Wallett z Kiddo Films. Working Title i Focus wcześniej współpracowały przy filmowej adaptacji  Dumy i uprzedzenia  z 2005 roku, która zdobyła cztery nominacje do Oscara, oraz przy kinowej wersji  Emmy  z 2020 roku.\n\nRozważna i romantyczna  trafiła na ekrany również w 1995 roku ze studia Sony Pictures Classics — film w reżyserii Anga Lee, ze scenariuszem Emmy Thompson, nagrodzonej Oscarem za najlepszy scenariusz adaptowany. Thompson zagrała także Elinor Dashwood, a Kate Winslet wcieliła się w Marianne. Produkcja otrzymała w sumie siedem nominacji do Oscara i zarobiła ponad 134 miliony dolarów na świecie.",
@@ -482,7 +482,7 @@
               "Dramat historyczny"
             ],
             "rating": 7.7,
-            "votes": 5785
+            "votes": 6033
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/the_devils",
@@ -548,7 +548,7 @@
               "Sci-Fi"
             ],
             "rating": 6.3,
-            "votes": 161
+            "votes": 356
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/klara_and_the_sun",
@@ -558,9 +558,9 @@
               "Taika Waititi"
             ],
             "criticsRating": 24,
-            "criticsVotes": 63,
+            "criticsVotes": 66,
             "audienceRating": null,
-            "audienceVotes": 43
+            "audienceVotes": 72
           }
         },
         "longDescription": "Film „Klara i słońce”, oparty na bestsellerowej powieści laureata Nagrody Nobla Kazuo Ishiguro.\n\nTo historia Klary (Jenna Ortega), robota zasilanego energią słoneczną, stworzonego po to, by wspierać i towarzyszyć ludziom w ich codziennym życiu.\n\nKiedy Klara poznaje Josie (Mia Tharia), każda z nich od razu wyczuwa w drugiej pokrewną duszę. Josie ma trudną relację ze swoją matką (Amy Adams), a to właśnie Klara zaczyna uzdrawiać rodzinę i wnosić światło do skomplikowanego świata Josie.\n\n„Klara i słońce” to pełna nadziei opowieść o przyjaźni w czasach, gdy technologia sprawia, że czujemy się coraz bardziej samotni.",
@@ -614,7 +614,7 @@
               "Dokumentalny"
             ],
             "rating": 8.2,
-            "votes": 585
+            "votes": 674
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/whispers_in_the_woods",

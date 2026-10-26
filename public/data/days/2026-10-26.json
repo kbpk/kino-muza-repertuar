@@ -1,12 +1,12 @@
 {
   "schemaVersion": 1,
   "date": "2026-10-26",
-  "updatedAt": "2026-10-25T18:59:07.014Z",
+  "updatedAt": "2026-10-26T16:47:15.666Z",
   "source": "https://www.kinomuza.pl/repertoire/day/",
   "day": {
-    "id": "01",
+    "id": "00",
     "date": "26.10",
-    "now": "2026-10-25 19:58:38",
+    "now": "2026-10-26 17:46:17",
     "info": [],
     "repertoire": [
       {
@@ -438,7 +438,7 @@
               "Melodramat"
             ],
             "rating": 7.3,
-            "votes": 1864
+            "votes": 2109
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/sense_and_sensibility_2026",
@@ -448,9 +448,9 @@
               "Georgia Oakley"
             ],
             "criticsRating": 76,
-            "criticsVotes": 116,
+            "criticsVotes": 117,
             "audienceRating": 88,
-            "audienceVotes": 633
+            "audienceVotes": 676
           }
         },
         "longDescription": "Georgeia Oakley jest reżyserką nowej interpretacji  Rozważnej i romantycznej  Jane Austen. To produkcja Working Title, oparta na scenariuszu Diany Reid, w rolach głównych zobaczymy: Daisy Edgar-Jones, Esmé Creed-Miles, Caitríonę Balfe, Franka Dillane’a, Herberta Nordruma, Bodhi Rae Breathnach, George’a MacKaya oraz Fionę Shaw.\n\nAkcja, osadzona w Anglii epoki georgiańskiej, podąża za losami zamożnego pana Dashwooda, który umiera, pozostawiając swoją drugą żonę oraz trzy córki w trudnej sytuacji finansowej. Kobiety przenoszą się do skromnej wiejskiej posiadłości, gdzie dwie starsze siostry rywalizują o względy różnych adoratorów, poszukując prawdziwej miłości.\n\nProducentami filmu są: Tim Bevan i Eric Fellner z Working Title, a także India Flint z November Pictures oraz Jo Wallett z Kiddo Films. Working Title i Focus wcześniej współpracowały przy filmowej adaptacji  Dumy i uprzedzenia  z 2005 roku, która zdobyła cztery nominacje do Oscara, oraz przy kinowej wersji  Emmy  z 2020 roku.\n\nRozważna i romantyczna  trafiła na ekrany również w 1995 roku ze studia Sony Pictures Classics — film w reżyserii Anga Lee, ze scenariuszem Emmy Thompson, nagrodzonej Oscarem za najlepszy scenariusz adaptowany. Thompson zagrała także Elinor Dashwood, a Kate Winslet wcieliła się w Marianne. Produkcja otrzymała w sumie siedem nominacji do Oscara i zarobiła ponad 134 miliony dolarów na świecie.",
@@ -504,7 +504,7 @@
               "Dokumentalny"
             ],
             "rating": 8.2,
-            "votes": 674
+            "votes": 782
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/whispers_in_the_woods",
@@ -552,8 +552,8 @@
         "description": "Dzieło Prusa od blisko 140 lat rozpala emocje i wyobraźnię kolejnych pokoleń. Teraz ta ponadczasowa historia trafia na wielki ekran w nowej, spektakularnej, filmowej odsłonie.",
         "shortDescription": "Dzieło Prusa od blisko 140 lat rozpala emocje i wyobraźnię kolejnych pokoleń. Teraz ta ponadczasowa historia trafia na wielki ekran w nowej, spektakularnej, filmowej odsłonie.",
         "genres": [
-          "Dramat obyczajowy",
-          "Kostiumowy"
+          "Kostiumowy",
+          "Dramat obyczajowy"
         ],
         "external": {
           "imdb": {
@@ -566,11 +566,11 @@
             "id": "10057628",
             "url": "https://www.filmweb.pl/film/Lalka-2026-10057628",
             "genres": [
-              "Dramat obyczajowy",
-              "Kostiumowy"
+              "Kostiumowy",
+              "Dramat obyczajowy"
             ],
             "rating": 7.7,
-            "votes": 32860
+            "votes": 34297
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/lalka",
@@ -636,7 +636,7 @@
               "Sci-Fi"
             ],
             "rating": 6.3,
-            "votes": 356
+            "votes": 545
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/klara_and_the_sun",
@@ -646,9 +646,9 @@
               "Taika Waititi"
             ],
             "criticsRating": 24,
-            "criticsVotes": 66,
+            "criticsVotes": 70,
             "audienceRating": null,
-            "audienceVotes": 72
+            "audienceVotes": 96
           }
         },
         "longDescription": "Film „Klara i słońce”, oparty na bestsellerowej powieści laureata Nagrody Nobla Kazuo Ishiguro.\n\nTo historia Klary (Jenna Ortega), robota zasilanego energią słoneczną, stworzonego po to, by wspierać i towarzyszyć ludziom w ich codziennym życiu.\n\nKiedy Klara poznaje Josie (Mia Tharia), każda z nich od razu wyczuwa w drugiej pokrewną duszę. Josie ma trudną relację ze swoją matką (Amy Adams), a to właśnie Klara zaczyna uzdrawiać rodzinę i wnosić światło do skomplikowanego świata Josie.\n\n„Klara i słońce” to pełna nadziei opowieść o przyjaźni w czasach, gdy technologia sprawia, że czujemy się coraz bardziej samotni.",
@@ -700,8 +700,8 @@
             "genres": [
               "Komedia rom."
             ],
-            "rating": 7.1,
-            "votes": 136
+            "rating": 7,
+            "votes": 153
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/no_good_men",

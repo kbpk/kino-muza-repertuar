@@ -1,12 +1,12 @@
 {
   "schemaVersion": 1,
   "date": "2026-11-13",
-  "updatedAt": "2026-10-26T16:47:15.666Z",
+  "updatedAt": "2026-10-26T21:37:49.528Z",
   "source": "https://www.kinomuza.pl/repertoire/day/",
   "day": {
     "id": "18",
     "date": "13.11",
-    "now": "2026-10-26 17:46:27",
+    "now": "2026-10-26 22:37:28",
     "info": [],
     "repertoire": [
       {
@@ -47,7 +47,7 @@
             "id": "tt0435625",
             "url": "https://www.imdb.com/title/tt0435625/",
             "rating": 7.2,
-            "votes": 279010
+            "votes": 279084
           },
           "filmweb": {
             "id": "214803",

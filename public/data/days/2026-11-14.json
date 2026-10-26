@@ -1,12 +1,12 @@
 {
   "schemaVersion": 1,
   "date": "2026-11-14",
-  "updatedAt": "2026-10-25T18:59:07.014Z",
+  "updatedAt": "2026-10-26T16:47:15.666Z",
   "source": "https://www.kinomuza.pl/repertoire/day/",
   "day": {
-    "id": "20",
+    "id": "19",
     "date": "14.11",
-    "now": "2026-10-25 19:58:44",
+    "now": "2026-10-26 17:46:27",
     "info": [],
     "repertoire": [
       {
@@ -41,8 +41,8 @@
         "description": "Listonosz Pat postanawia spróbować swoich sił w telewizyjnym talent show. Wyrusza do wielkiego miasta, gdzie trafia do świata celebrytów, kamer i wielkich ambicji. Z dala od rodzinnego miasteczka musi odnaleźć się w rzeczywistości, w której sława potrafi zmienić wszystko. Pełnometrażowa animacja o sympatycznym listonoszu, który przekonuje się, że droga na szczyt bywa bardziej skomplikowana, niż mogłoby się wydawać.",
         "shortDescription": "Listonosz Pat postanawia spróbować swoich sił w telewizyjnym talent show. Wyrusza do wielkiego miasta, gdzie trafia do świata celebrytów, kamer i wielkich ambicji. Z dala od rodzinnego miasteczka musi odnaleźć się w rzeczywistości, w której sława potrafi zmienić wszystko. Pełnometrażowa animacja o sympatycznym listonoszu, który przekonuje się, że droga na szczyt bywa bardziej skomplikowana, niż mogłoby się wydawać.",
         "genres": [
-          "Animacja",
-          "Familijny"
+          "Familijny",
+          "Animacja"
         ],
         "external": {
           "imdb": {
@@ -55,11 +55,11 @@
             "id": "633588",
             "url": "https://www.filmweb.pl/film/Listonosz+Pat+i+wielki+%C5%9Bwiat-2014-633588",
             "genres": [
-              "Animacja",
-              "Familijny"
+              "Familijny",
+              "Animacja"
             ],
             "rating": 5.2,
-            "votes": 701
+            "votes": 702
           },
           "rottenTomatoes": null
         },

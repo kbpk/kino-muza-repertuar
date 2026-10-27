@@ -1,14 +1,1299 @@
 {
   "schemaVersion": 1,
   "date": "2026-11-13",
-  "updatedAt": "2026-10-26T21:37:49.528Z",
+  "updatedAt": "2026-10-27T15:53:45.812Z",
   "source": "https://www.kinomuza.pl/repertoire/day/",
   "day": {
-    "id": "18",
+    "id": "17",
     "date": "13.11",
-    "now": "2026-10-26 22:37:28",
+    "now": "2026-10-27 16:51:24",
     "info": [],
     "repertoire": [
+      {
+        "hour": "14:30",
+        "datetime": "2026-11-13 14:30:00",
+        "title": "Odrobina chaosu",
+        "originalTitle": "A Little Chaos",
+        "director": "Alan Rickman",
+        "year": "2014",
+        "premiereDate": "",
+        "duration": "117",
+        "countries": "Wielka Brytania ",
+        "shortDesc": "<p>Francja okresu Ludwika XIV. Straumatyzowana projektantka ogrodów Sabine De Barra (Kate Winslet) tworzy fontannę w Wersalu. Dworskie intrygi zmuszają ją do konfrontacji z przeszłością i męską dominacją. Alan Rickman urzeka po obu stronach kamery, podobnie jak zjawiskowe plenery i kostiumy z epoki.</p>\n",
+        "lang": "en",
+        "subtitlesLang": "pl",
+        "age": "16",
+        "credits": "reż. Alan Rickman <br>Wielka Brytania  <br>2014,117’",
+        "desc": "<p>Francja okresu Ludwika XIV. Straumatyzowana projektantka ogrodów Sabine De Barra (Kate Winslet) tworzy fontannę w Wersalu. Dworskie intrygi zmuszają ją do konfrontacji z przeszłością i męską dominacją. Alan Rickman urzeka po obu stronach kamery, podobnie jak zjawiskowe plenery i kostiumy z epoki.</p>\n",
+        "hall": "1",
+        "movieLink": "https://www.kinomuza.pl/movie/odrobina-chaosu/",
+        "ticketLink": "https://estradapoznan.bilety24.pl/kup-bilety/?id=1009789",
+        "prePremier": false,
+        "tape35mm": false,
+        "ad": false,
+        "deaf": false,
+        "ticketPrice": "",
+        "ticketHalfPrice": "",
+        "alt": "Odrobina chaosu",
+        "thumb": "https://www.kinomuza.pl/content/uploads/2026/10/odrobina-ch-3-800x450.jpg",
+        "description": "Francja okresu Ludwika XIV. Straumatyzowana projektantka ogrodów Sabine De Barra (Kate Winslet) tworzy fontannę w Wersalu. Dworskie intrygi zmuszają ją do konfrontacji z przeszłością i męską dominacją. Alan Rickman urzeka po obu stronach kamery, podobnie jak zjawiskowe plenery i kostiumy z epoki.",
+        "shortDescription": "Francja okresu Ludwika XIV. Straumatyzowana projektantka ogrodów Sabine De Barra (Kate Winslet) tworzy fontannę w Wersalu. Dworskie intrygi zmuszają ją do konfrontacji z przeszłością i męską dominacją. Alan Rickman urzeka po obu stronach kamery, podobnie jak zjawiskowe plenery i kostiumy z epoki.",
+        "genres": [
+          "Dramat",
+          "Romans",
+          "Komedia"
+        ],
+        "external": {
+          "imdb": {
+            "id": "tt2639254",
+            "url": "https://www.imdb.com/title/tt2639254/",
+            "rating": 6.5,
+            "votes": 27151
+          },
+          "filmweb": {
+            "id": "680371",
+            "url": "https://www.filmweb.pl/film/Odrobina+chaosu-2014-680371",
+            "genres": [
+              "Dramat",
+              "Romans",
+              "Komedia"
+            ],
+            "rating": 6.4,
+            "votes": 8481
+          },
+          "rottenTomatoes": {
+            "url": "https://www.rottentomatoes.com/m/a_little_chaos",
+            "title": "A Little Chaos",
+            "year": "2014",
+            "directors": [
+              "Alan Rickman"
+            ],
+            "criticsRating": 47,
+            "criticsVotes": 91,
+            "audienceRating": 50,
+            "audienceVotes": 1157
+          }
+        },
+        "longDescription": "Czy może istnieć piękniejsza sceneria dla płomiennego romansu od wersalskich ogrodów pachnących różami i słodką nutą gruszek? Tak w teorii smakuje miłość po francusku, ale co się stanie, gdy do przepisu dodamy… odrobinę chaosu? Stojący za kamerą Alan Rickman odszedł od lirycznego patosu. W miejsce dworskich uniesień zaproponował wyrafinowane emocje i dystans okazujące się kluczem do epoki miotającej się między konwenansem a potrzebą autentyczności.\n\nFrancja, druga połowa XVII wieku. Projektanci ogrodów zachodzą w głowę, aby stworzyć idealną przestrzeń Wersalu na zlecenie Ludwika XIV. Nadworny ogrodnik André Le Nôtre (Matthias Schoenaerts) ku powszechnemu oburzeniu męskich konkurentów angażuje do pracy młodą wdowę i pasjonatkę ogrodnictwa. Sabine De Barra (Kate Winslet) to kobieta o okaleczonej psychice, która znajduje chwilowe ukojenie w otoczeniu natury. Wraz z pojawieniem się świty króla nieobeznana w dworskiej etykiecie ani wszechobecnych spiskach kobieta musi stawić czoła nowym wyzwaniom, w tym męskiej dominacji, intrygom i własnej traumie, którą potęguje nagłe uczucie względem Le Nôtre’a.\n\nFilm podzielił krytykę pod względem tempa akcji czy emocjonalnej rezerwy, ale trzeba mu oddać sprawiedliwość w kwestii realistycznego obrazu epoki. Pod strojnymi falbankami, pudrem i maskaradą peruk nie brakuje tu społecznej diagnozy, do której dochodzi na styku dwóch światów: dostojnych intrygantów i skrytych w mglistych domostwach zwyczajnych ludzi, którzy pracują na zachcianki władzy kosztem prywatności. Nad wszystkim czuwa intensywna muzyka Petera Gregsona, w której zawiera się cały konflikt uczuć oraz interesów zamierzenie skrywany przez genialną obsadę aktorską.\n\nPierwiastek niezależnej kobiecości w niesprzyjających czasach zawdzięczamy zaś Alison Deegan, która napisała własną wersję historii Madame de Barra na wiele lat przed realizacją filmu. Powstała w cieniu urlopu macierzyńskiego i strachu przed kryzysem kariery w toksycznym środowisku opowieść wzbudziła zainteresowanie dopiero po siedemnastu latach i poskutkowała scenariuszem napisanym przez Deegan, Rickmana oraz Jeremy’ego Brocka.\n\nODROBINA CHAOSU to jeden z dwóch filmów wyreżyserowanych przez Alana Rickmana w jego blisko półwiecznym dorobku kinowym obok ZIMOWEGO GOŚCIA (1997). W 2014 roku brytyjski ulubieniec pokazał swój kostiumowy komediodramat Polakom podczas festiwalu Camerimage, na którym odebrał osobiście Nagrodę im. Krzysztofa Kieślowskiego.\n\nEN\n\nCould there be a more romantic setting than the gardens of Versailles, scented with roses and sweet pears? That may be the ideal recipe for love à la française, but what happens when you add… a little chaos? As director, Alan Rickman steers clear of lyrical grandiosity. Instead of courtly passion, he favours restraint and emotional subtlety, a fitting approach to an age caught between rigid convention and the desire for something more genuine.\n\nFrance, in the second half of the 17th century. Garden designers are competing to create the perfect grounds for Louis XIV’s Versailles. To the outrage of his male rivals, royal gardener André Le Nôtre (Matthias Schoenaerts) hires a young widow with a passion for horticulture. Sabine De Barra (Kate Winslet) is carrying deep emotional scars and finds temporary solace in nature. When the royal court arrives, Sabine, unfamiliar with its etiquette and intrigues, is forced to navigate an entirely new world. She faces male dominance, political manoeuvring and her own unresolved trauma, all complicated by her growing feelings for Le Nôtre.\n\nCritics were divided over the film’s pacing and emotional restraint, but its portrait of the period deserves attention. Beneath the elaborate frills, powder and towering wigs lies a sharp social contrast between two worlds: the elegant schemers of the court and the ordinary people living in modest, mist-shrouded homes, whose labour sustains the whims of those in power at the expense of their own private lives. Peter Gregson’s intense score runs through it all, giving voice to the clash between emotion and self-interest that the film’s accomplished cast keep carefully beneath the surface.\n\nThe film’s thread of female independence in an age that offered women little freedom owes much to Alison Deegan, who wrote her own version of Madame de Barra’s story many years before the film was made. Conceived during maternity leave and fears of a career crisis in a toxic environment, the story attracted interest only seventeen years later. It eventually became a screenplay written by Deegan, Rickman and Jeremy Brock.\n\nA LITTLE CHAOS is one of only two films directed by Alan Rickman during his nearly five-decade screen career, the other being THE WINTER GUEST (1997). In 2014, the much-loved British actor brought his period comedy-drama to Polish audiences at the Camerimage festival, where he personally received the Krzysztof Kieślowski Award.",
+        "poster": "media/posters/39e793145467490dcb49.webp"
+      },
+      {
+        "hour": "14:30",
+        "datetime": "2026-11-13 14:30:00",
+        "title": "Extra Geography",
+        "originalTitle": "",
+        "director": "Molly Manners",
+        "year": "2026",
+        "premiereDate": "",
+        "duration": "94",
+        "countries": "Wielka Brytania",
+        "shortDesc": "<p class=\"Esej-tekst\">Minna i Flic to dwie wybitne uczennice szkoły z internatem, które wspólnie planują swoją przyszłość. Gdy odkrywają, że w ich perfekcyjnym życiorysie brakuje miłości, postanawiają potraktować zakochanie się jak kolejne dydaktyczne zadanie i stworzyć plan, który pozwoli im zdobyć romantyczne doświadczenie.</p>\n",
+        "lang": "en",
+        "subtitlesLang": "pl",
+        "age": "16",
+        "credits": "reż. Molly Manners <br>Wielka Brytania <br>2026,94’",
+        "desc": "<p class=\"Esej-tekst\">Minna i Flic to dwie wybitne uczennice szkoły z internatem, które wspólnie planują swoją przyszłość. Gdy odkrywają, że w ich perfekcyjnym życiorysie brakuje miłości, postanawiają potraktować zakochanie się jak kolejne dydaktyczne zadanie i stworzyć plan, który pozwoli im zdobyć romantyczne doświadczenie.</p>\n",
+        "hall": "palacowe",
+        "movieLink": "https://www.kinomuza.pl/movie/extra-geography/",
+        "ticketLink": "https://estradapoznan.bilety24.pl/kup-bilety/?id=1009799",
+        "prePremier": false,
+        "tape35mm": false,
+        "ad": false,
+        "deaf": false,
+        "ticketPrice": "",
+        "ticketHalfPrice": "",
+        "alt": "Extra Geography",
+        "thumb": "https://www.kinomuza.pl/content/uploads/2026/10/extra-g-800x450.jpg",
+        "description": "Minna i Flic to dwie wybitne uczennice szkoły z internatem, które wspólnie planują swoją przyszłość. Gdy odkrywają, że w ich perfekcyjnym życiorysie brakuje miłości, postanawiają potraktować zakochanie się jak kolejne dydaktyczne zadanie i stworzyć plan, który pozwoli im zdobyć romantyczne doświadczenie.",
+        "shortDescription": "Minna i Flic to dwie wybitne uczennice szkoły z internatem, które wspólnie planują swoją przyszłość. Gdy odkrywają, że w ich perfekcyjnym życiorysie brakuje miłości, postanawiają potraktować zakochanie się jak kolejne dydaktyczne zadanie i stworzyć plan, który pozwoli im zdobyć romantyczne doświadczenie.",
+        "genres": [
+          "Dramat",
+          "Komedia",
+          "Romans"
+        ],
+        "external": {
+          "imdb": {
+            "id": "tt34798706",
+            "url": "https://www.imdb.com/title/tt34798706/",
+            "rating": 7,
+            "votes": 196
+          },
+          "filmweb": {
+            "id": "10109750",
+            "url": "https://www.filmweb.pl/film/Extra+Geography-2026-10109750",
+            "genres": [
+              "Dramat",
+              "Komedia",
+              "Romans"
+            ],
+            "rating": 6.8,
+            "votes": 38
+          },
+          "rottenTomatoes": {
+            "url": "https://www.rottentomatoes.com/m/extra_geography",
+            "title": "Extra Geography",
+            "year": "",
+            "directors": [
+              "Molly Manners"
+            ],
+            "criticsRating": 100,
+            "criticsVotes": 30,
+            "audienceRating": null,
+            "audienceVotes": null
+          }
+        },
+        "longDescription": "Minna (Galaxie Clear) i Flic (Marni Duggan) uczęszczają do prestiżowej angielskiej szkoły z internatem. Dobre są właściwie we wszystkim: i w przedmiotach humanistycznych, i w ścisłych, i – co nie tak znowuż oczywiste – w sporcie (uprawiają lacrosse). Życie – pomimo młodego wieku – traktują jak projekt wymagający perfekcyjnego zarządzania. Snują szalenie ambitne plany na przyszłość. Są, nie przymierzając, jak jeden organizm. Osiągnęły symbiozę, której rówieśniczki – i nie tylko one zresztą – mogłyby im pozazdrościć. Tym, o czym nie mają niestety zielonego pojęcia, jest miłość. Do zgłębienia tematu prowokuje je zbliżająca się premiera spektaklu na podstawie sztuki Williama Szekspira, w którym obie mają wystąpić. Dziewczęta postanawiają się zakochać, ale – jak to mają w zwyczaju – nie dają sobie przestrzeni na spontaniczność. Nie czucie i wiara, a szkiełko i oko. Chcąc dowiedzieć się jak najwięcej o zagadnieniu, studiują literackie romanse i analizują zachowania tych, którzy mają lub mieli motylki w brzuchu. Mało tego – opracowują nawet metodę wyboru obiektu westchnień. To sprawia, że ich uwagę przykuwa panna Delavigne (Alice Englert), trzydziestokilkuletnia nauczycielka, która nie wie, że stała się bohaterką eksperymentu swoich uczennic. Nowa sytuacja wystawia przyjaźń Minny i Flic na próbę. Oparty na prozie Rose Tremain i wyreżyserowany przez debiutującą w pełnym metrażu Molly Manners film EXTRA GEOGRAPHY (2026) to oryginalne i podszyte humorem kino o dorastaniu, w którym autorka zestawia ze sobą chłodny, akademicki sposób myślenia bohaterek z chaosem powodowanym przez pożądanie i zazdrość. Oto na ekranie oczekiwania zderzają się z realiami. Okazuje się, że dojrzewania nie da się zamknąć w liście kolejnych punktów do odhaczenia. To gorzka lekcja i prawdopodobnie najtrudniejsza rzecz, jakiej Minna i Flic muszą się nauczyć.\n\nEN\n\nMinna (Galaxie Clear) and Flic (Marni Duggan) attend a prestigious English boarding school. They are good at pretty much everything: the humanities, the sciences and – rather less predictably – sport, in their case lacrosse. Despite their young age, they treat life as something to be meticulously planned and managed. Their ambitions for the future are sky-high. The two are so close they are almost joined at the hip, having achieved a kind of symbiosis their classmates – and plenty of other people – might envy.\n\nThe one thing they know next to nothing about is love. The subject comes into focus with the approaching premiere of a Shakespeare play in which they are both due to perform. The girls decide they ought to fall in love, but, true to form, they leave nothing to chance. Instinct and emotion take a back seat to analysis. Determined to get to grips with the subject, they pore over literary romances and study the behaviour of people who are, or have been, in love. They even come up with a method for choosing the object of their affections.\n\nThat is how Miss Delavigne (Alice Englert), a teacher in her thirties, catches their attention, entirely unaware that she has become the subject of her pupils’ experiment. The situation soon begins to test Minna and Flic’s friendship.\n\nBased on the prose of Rose Tremain and directed by Molly Manners in her feature debut, EXTRA GEOGRAPHY (2026) is an original, darkly funny coming-of-age film that pits the girls’ cool, academic way of thinking against the chaos of desire and jealousy. Reality clashes with expectations, and it becomes clear that maturing is more than just checking off a box. It is a bitter lesson – and quite possibly the hardest one Minna and Flic will ever have to learn.",
+        "poster": "media/posters/312964dc0cb6fcf11dc1.webp"
+      },
+      {
+        "hour": "15:00",
+        "datetime": "2026-11-13 15:00:00",
+        "title": "hamnet",
+        "originalTitle": "",
+        "director": "Chloé Zhao",
+        "year": "2025",
+        "premiereDate": "2026-01-23",
+        "duration": "125",
+        "countries": "Wielka Brytania",
+        "shortDesc": "<p>Zainspirowany najsłynniejszą sztuką Williama Szekspira film w reżyserii Chloé Zhao jest wrażliwym i głębokim obrazem małżeństwa, próbującego ukształtować się na nowo po śmierci ukochanego dziecka. W rolach głównych zjawiskowy duet: Jessie Buckley oraz Paul Mescal.</p>\n",
+        "lang": "en",
+        "subtitlesLang": "pl",
+        "age": "16",
+        "credits": "reż. Chloé Zhao <br>Wielka Brytania <br>2025,125’",
+        "desc": "<p>Zainspirowany najsłynniejszą sztuką Williama Szekspira film w reżyserii Chloé Zhao jest wrażliwym i głębokim obrazem małżeństwa, próbującego ukształtować się na nowo po śmierci ukochanego dziecka. W rolach głównych zjawiskowy duet: Jessie Buckley oraz Paul Mescal.</p>\n",
+        "hall": "palacowe",
+        "movieLink": "https://www.kinomuza.pl/movie/hamnet-2/",
+        "ticketLink": "https://estradapoznan.bilety24.pl/kup-bilety/?id=1009803",
+        "prePremier": false,
+        "tape35mm": false,
+        "ad": false,
+        "deaf": false,
+        "ticketPrice": "",
+        "ticketHalfPrice": "",
+        "alt": "hamnet",
+        "thumb": "https://www.kinomuza.pl/content/uploads/2025/10/kadry-1-1-800x450.jpg",
+        "description": "Zainspirowany najsłynniejszą sztuką Williama Szekspira film w reżyserii Chloé Zhao jest wrażliwym i głębokim obrazem małżeństwa, próbującego ukształtować się na nowo po śmierci ukochanego dziecka. W rolach głównych zjawiskowy duet: Jessie Buckley oraz Paul Mescal.",
+        "shortDescription": "Zainspirowany najsłynniejszą sztuką Williama Szekspira film w reżyserii Chloé Zhao jest wrażliwym i głębokim obrazem małżeństwa, próbującego ukształtować się na nowo po śmierci ukochanego dziecka. W rolach głównych zjawiskowy duet: Jessie Buckley oraz Paul Mescal.",
+        "genres": [
+          "Dramat",
+          "Biograficzny",
+          "Kostiumowy"
+        ],
+        "external": {
+          "imdb": {
+            "id": "tt14905854",
+            "url": "https://www.imdb.com/title/tt14905854/",
+            "rating": 7.8,
+            "votes": 140268
+          },
+          "filmweb": {
+            "id": "10035555",
+            "url": "https://www.filmweb.pl/film/Hamnet-2025-10035555",
+            "genres": [
+              "Dramat",
+              "Biograficzny",
+              "Kostiumowy"
+            ],
+            "rating": 7.6,
+            "votes": 30292
+          },
+          "rottenTomatoes": {
+            "url": "https://www.rottentomatoes.com/m/hamnet",
+            "title": "Hamnet",
+            "year": "2025",
+            "directors": [
+              "Chloé Zhao"
+            ],
+            "criticsRating": 86,
+            "criticsVotes": 352,
+            "audienceRating": 93,
+            "audienceVotes": 2686
+          }
+        },
+        "longDescription": "Maggie O’Farrell w swojej powieści opisuje chłopca, który „ ma skłonności do wyślizgiwania się poza granice realnego, namacalnego świata, który go otacza. ” Nagrodzony w 2020 roku prestiżową brytyjską nagrodą Women’s Prize for Fiction tekst, został zainspirowany najsłynniejszą, a jednocześnie najbardziej enigmatyczną sztuką Williama Szekspira.\n\nW latach 80. XVI wieku pewnemu małżeństwu mieszkającemu w Stratfordzie urodziła się trójka dzieci: najmłodsza Susanna, a następnie bliźnięta – Hamnet i Judith. Chłopiec zmarł w wieku jedenastu lat. Cztery lata później jego ojciec napisał sztukę zatytułowaną Hamlet . Film wyreżyserowany przez Chloé Zhao, drugą kobietę w historii, która otrzymała Oscara za najlepszą reżyserię (NOMADLAND, 2021), jest wrażliwym i głębokim obrazem małżeństwa, próbującego ukształtować się na nowo po śmierci ukochanego dziecka. To historia Agnes – żony Williama Szekspira i jej zmagań po stracie ukochanego syna Hamneta.\n\nW rolach głównych zjawiskowy duet irlandzkich aktorów: Jessie Buckley oraz Paul Mescal. Producentami filmu są Steven Spielberg i Sam Mendes, a zdjęcia wykonał Łukasz Żal. Dopełnieniem całości jest muzyka skomponowana przez Maxa Richtera. Brytyjski HAMNET to opowieść o poszukiwaniu bliskości i sensu dalszego istnienia, mimo straty, której rany są niemożliwe do zagojenia się. Gdzieś na granicy snu i tego co realne, parafrazując bohaterów filmu, opowiemy Wam historię, ale taką, która Was poruszy. Film Zhao był nominowany do Oscara w 8 kategoriach, w tym za najlepszy film, a fantastyczna Jessie Buckley odebrała złotą statuetkę za swoją rolę. Pierwsze pokazy HAMNETA w Polsce odbyły się na British Film Festival 2025.\n\nEN\n\nMaggie O’Farrell’s novel describes a boy who “ tends to slip the bounds of the real, tangible world around him”. Winner of the Women’s Prize for Fiction in 2020, the book was inspired by William Shakespeare’s most famous and most enigmatic play.\n\nIn the 1580s, a couple living in Stratford had three children: Susanna, followed by twins Hamnet and Judith. Hamnet died at the age of eleven. Four years later, his father wrote a play entitled Hamlet . Directed by Chloé Zhao, the second woman in history to win the Academy Award for Best Director (NOMADLAND, 2021), HAMNET is a tender and deeply affecting portrait of a marriage trying to reshape itself after the death of a beloved child. At its heart is Agnes, William Shakespeare’s wife, and her struggle to live with the loss of their son.\n\nThe film is led by a remarkable pair of Irish actors, Jessie Buckley and Paul Mescal. Steven Spielberg and Sam Mendes are among the producers, Łukasz Żal is responsible for the cinematography, and the score was composed by Max Richter. HAMNET is a story about searching for closeness and meaning after a loss whose wounds can never fully heal. Hovering somewhere between dream and reality, it sets out, to borrow the language of the film itself, to tell a story that moves us.\n\nZhao’s film received eight Academy Award nominations, including Best Picture, while Jessie Buckley won the Oscar for her performance. HAMNET received its first Polish screenings at the British Film Festival in 2025.",
+        "poster": "media/posters/d468745e383f9771eca2.webp"
+      },
+      {
+        "hour": "16:00",
+        "datetime": "2026-11-13 16:00:00",
+        "title": "Śmieć",
+        "originalTitle": "Trash",
+        "director": "Stephen Daldry",
+        "year": "2014",
+        "premiereDate": "",
+        "duration": "114",
+        "countries": "Brazylia, Wielka Brytania",
+        "shortDesc": "<p>Raphael, Gardo i Rato, trzej chłopcy z faweli w Rio de Janeiro, znajdują na wysypisku portfel. Jego zawartość – trochę pieniędzy, jakieś zdjęcia, dokumenty i ciągi liczb – prowadzi ich do tajemnicy związanej z korupcją. Młodzieńcy, ścigani przez policję, rozpoczynają własne śledztwo.</p>\n",
+        "lang": "en",
+        "subtitlesLang": "pl",
+        "age": "16",
+        "credits": "reż. Stephen Daldry <br>Brazylia, Wielka Brytania <br>2014,114’",
+        "desc": "<p>Raphael, Gardo i Rato, trzej chłopcy z faweli w Rio de Janeiro, znajdują na wysypisku portfel. Jego zawartość – trochę pieniędzy, jakieś zdjęcia, dokumenty i ciągi liczb – prowadzi ich do tajemnicy związanej z korupcją. Młodzieńcy, ścigani przez policję, rozpoczynają własne śledztwo.</p>\n",
+        "hall": "rialto",
+        "movieLink": "https://www.kinomuza.pl/movie/smiec/",
+        "ticketLink": "https://estradapoznan.bilety24.pl/kup-bilety/?id=1009807",
+        "prePremier": false,
+        "tape35mm": false,
+        "ad": false,
+        "deaf": false,
+        "ticketPrice": "",
+        "ticketHalfPrice": "",
+        "alt": "Śmieć",
+        "thumb": "https://www.kinomuza.pl/content/uploads/2026/10/Trash_3840x2160_ENG_US_STILL_HE_Clean_RGB_v3-800x450.jpg",
+        "description": "Raphael, Gardo i Rato, trzej chłopcy z faweli w Rio de Janeiro, znajdują na wysypisku portfel. Jego zawartość – trochę pieniędzy, jakieś zdjęcia, dokumenty i ciągi liczb – prowadzi ich do tajemnicy związanej z korupcją. Młodzieńcy, ścigani przez policję, rozpoczynają własne śledztwo.",
+        "shortDescription": "Raphael, Gardo i Rato, trzej chłopcy z faweli w Rio de Janeiro, znajdują na wysypisku portfel. Jego zawartość – trochę pieniędzy, jakieś zdjęcia, dokumenty i ciągi liczb – prowadzi ich do tajemnicy związanej z korupcją. Młodzieńcy, ścigani przez policję, rozpoczynają własne śledztwo.",
+        "genres": [
+          "Kryminał",
+          "Przygodowy"
+        ],
+        "external": {
+          "imdb": {
+            "id": "tt1921149",
+            "url": "https://www.imdb.com/title/tt1921149/",
+            "rating": 7.1,
+            "votes": 23872
+          },
+          "filmweb": {
+            "id": "693053",
+            "url": "https://www.filmweb.pl/film/%C5%9Amie%C4%87-2014-693053",
+            "genres": [
+              "Kryminał",
+              "Przygodowy"
+            ],
+            "rating": 7.1,
+            "votes": 15790
+          },
+          "rottenTomatoes": {
+            "url": "https://www.rottentomatoes.com/m/trash_2015",
+            "title": "Trash",
+            "year": "2014",
+            "directors": [
+              "Stephen Daldry"
+            ],
+            "criticsRating": 66,
+            "criticsVotes": 44,
+            "audienceRating": 70,
+            "audienceVotes": 839
+          }
+        },
+        "longDescription": "Jeśli ktoś kiedykolwiek zastanawiał się, jak wyglądałoby połączenie filmów SLUMDOG. MILIONER Z ULICY (reż. Danny Boyle, 2008) i MIASTO BOGA (reż. Fernando Meirelles, 2002), ale według scenariusza Richarda Curtisa, tego od komedii romantycznych – na czele z TO WŁAŚNIE MIŁOŚĆ (2003) – to z pomocą i gotową odpowiedzią na tę zagwozdkę przychodzi Stephen Daldry. Jego ŚMIEĆ (2014), którego tytuł jest co najmniej dwuznaczny (dotyczy bowiem nie tylko przedmiotów, ale i ludzi), to dzieło opowiadane z perspektywy młodzieży, lecz dotykające kwestii przynależących do świata dorosłych, spośród których na czoło wybija się wszechobecna korupcja. A wszystko to zamknięte w ramach kina spod znaku kryminału, thrillera i przygodówki. Na ogromnym wysypisku leżącym na obrzeżach Rio de Janeiro czternastoletni Raphael (Rickson Tevez), jeden z tych wyrzuconych poza nawias społeczeństwa, zarabia na życie, przeszukując góry odpadów. Pewnego dnia znajduje portfel, a w nim kilka banknotów, jakieś dokumenty i zdjęcia, a także klucz do dworcowej skrytki oraz ciąg cyfr, który okazuje się elementem znacznie większej układanki. Kiedy po zgubę zgłasza się niestroniąca od brutalności policja, Raphael orientuje się, że sprawa jest poważna. Wraz z najlepszymi kumplami, czyli z Gardo (Eduardo Luís) i Rato (Gabriel Weinstein), chłopak przeczesuje brazylijskie fawele, by dowiedzieć się, o co w tym chodzi. Dzieciakom pomagają lokalny ksiądz (Martin Sheen) oraz wolontariuszka (Rooney Mara). Daldry, wykorzystując gatunkową mieszankę, opowiada o nierównościach i przemocy, a równocześnie tworzy skąpaną w kolorach, ociekającą brudem i skupioną na ruchu baśń, w której metafory są proste i czytelne.\n\nEN\n\nIf you have ever wondered what you might get if you crossed Danny Boyle’s SLUMDOG MILLIONAIRE (2008) with Fernando Meirelles’s CITY OF GOD (2002), then handed the screenplay to Richard Curtis – the man behind romantic comedies such as LOVE ACTUALLY (2003) – Stephen Daldry has the answer. His TRASH (2014) has a title that works on more than one level, referring not only to discarded objects but also to people cast aside by society. Told from the perspective of young people, the film tackles distinctly adult concerns, with endemic corruption chief among them, all within a blend of crime drama, thriller and adventure.\n\nOn a vast rubbish dump on the outskirts of Rio de Janeiro, fourteen-year-old Raphael (Rickson Tevez), one of society’s outcasts, makes a living sifting through mountains of waste. One day, he finds a wallet containing a few banknotes, some documents and photographs, a key to a locker at a railway station and a string of numbers that turns out to be part of a much larger puzzle. When the police come looking for the missing wallet – and make it clear they are not above using violence – Raphael realises he has stumbled onto something serious.\n\nTogether with his best friends Gardo (Eduardo Luís) and Rato (Gabriel Weinstein), he sets off through Rio’s favelas to find out what is really going on. Along the way, they get help from a local priest (Martin Sheen) and a volunteer (Rooney Mara). Drawing on its mix of genres, Daldry tells a story about inequality and violence while creating a vividly coloured, dirt-streaked and relentlessly kinetic fable whose metaphors remain simple and easy to read.",
+        "poster": "media/posters/4f97720e2ac56329fea9.webp"
+      },
+      {
+        "hour": "16:15",
+        "datetime": "2026-11-13 16:15:00",
+        "title": "Testament Ann Lee",
+        "originalTitle": "The Testament of Ann Lee",
+        "director": "Mona Fastvold",
+        "year": "2025",
+        "premiereDate": "2026-03-13",
+        "duration": "137",
+        "countries": "Wielka Brytania, USA",
+        "shortDesc": "<p>Hipnotyzujące dzieło współscenarzystki THE BRUTALIST, rzucające światło na <em>herstorię </em>Ann Lee – przywódczyni sekty Shakerów. Kobieta sprzeciwia się zastanemu porządkowi zepsutego świata i zakłada wspólnotę propagującą równość płciową i społeczną. Ann rusza ze swoją misją do Nowej Anglii za Atlantyk.</p>\n",
+        "lang": "en",
+        "subtitlesLang": "pl",
+        "age": "16",
+        "credits": "reż. Mona Fastvold <br>Wielka Brytania, USA <br>2025,137’",
+        "desc": "<p>Hipnotyzujące dzieło współscenarzystki THE BRUTALIST, rzucające światło na <em>herstorię </em>Ann Lee – przywódczyni sekty Shakerów. Kobieta sprzeciwia się zastanemu porządkowi zepsutego świata i zakłada wspólnotę propagującą równość płciową i społeczną. Ann rusza ze swoją misją do Nowej Anglii za Atlantyk.</p>\n",
+        "hall": "3",
+        "movieLink": "https://www.kinomuza.pl/movie/testament-ann-lee/",
+        "ticketLink": "https://estradapoznan.bilety24.pl/kup-bilety/?id=1009796",
+        "prePremier": false,
+        "tape35mm": false,
+        "ad": false,
+        "deaf": false,
+        "ticketPrice": "",
+        "ticketHalfPrice": "",
+        "alt": "Testament Ann Lee",
+        "thumb": "https://www.kinomuza.pl/content/uploads/2026/02/TAL-fot.2-800x450.jpeg",
+        "description": "Hipnotyzujące dzieło współscenarzystki THE BRUTALIST, rzucające światło na herstorię Ann Lee – przywódczyni sekty Shakerów. Kobieta sprzeciwia się zastanemu porządkowi zepsutego świata i zakłada wspólnotę propagującą równość płciową i społeczną. Ann rusza ze swoją misją do Nowej Anglii za Atlantyk.",
+        "shortDescription": "Hipnotyzujące dzieło współscenarzystki THE BRUTALIST, rzucające światło na herstorię Ann Lee – przywódczyni sekty Shakerów. Kobieta sprzeciwia się zastanemu porządkowi zepsutego świata i zakłada wspólnotę propagującą równość płciową i społeczną. Ann rusza ze swoją misją do Nowej Anglii za Atlantyk.",
+        "genres": [
+          "Dramat",
+          "Musical"
+        ],
+        "external": {
+          "imdb": {
+            "id": "tt34819091",
+            "url": "https://www.imdb.com/title/tt34819091/",
+            "rating": 6.4,
+            "votes": 11062
+          },
+          "filmweb": {
+            "id": "10090000",
+            "url": "https://www.filmweb.pl/film/Testament+Ann+Lee-2025-10090000",
+            "genres": [
+              "Dramat",
+              "Musical"
+            ],
+            "rating": 6,
+            "votes": 2448
+          },
+          "rottenTomatoes": {
+            "url": "https://www.rottentomatoes.com/m/the_testament_of_ann_lee",
+            "title": "The Testament of Ann Lee",
+            "year": "2025",
+            "directors": [
+              "Mona Fastvold"
+            ],
+            "criticsRating": 85,
+            "criticsVotes": 220,
+            "audienceRating": 82,
+            "audienceVotes": 212
+          }
+        },
+        "longDescription": "Przywódczynie religijne stanowią w historii absolutną rzadkość. Nic dziwnego, że gdy Mona Fastvold – reżyserka i scenarzystka, która współtworzyła scenariusz THE BRUTALIST (nominowany do Oscara) – natknęła się na postać Ann Lee, poczuła wręcz obowiązek, aby zekranizować jej herstorię . Tym bardziej, że działania tej kobiety o wielkim marzeniu zrewolucjonizowania nowego świata skutecznie pogrzebano i funkcjonują przeważnie w sferze domysłów. Fastvold potraktowała je z szacunkiem bez prób współczesnych reinterpretacji. W efekcie stworzyła hipnotyzujące, ekstatyczne doświadczenie kinowe z niesamowitą wyobraźnią inscenizacyjną i wykorzystaniem wstawek musicalowych, które nie odstraszą nawet sceptyków tego gatunku.\n\nAnn Lee (Amanda Seyfried) to kobieta z Manchesteru, która zakłada sektę Shakerów w reakcji na otaczające ją zepsucie i niesprawiedliwość. Wytyka opresyjność porządkowi konstytuowanemu przez Kościół Anglikański i skrada ludzkie serca utopijną wizją równości płciowej i społecznej, której życzyłby sobie Chrystus. Ann Lee rusza ze swoją wspólnotą do Nowej Anglii za Atlantyk z nadzieją, że przeniosą na odległy grunt świeżą koncepcję społeczeństwa zbudowanego na empatii.\n\nFastvold zaangażowała do produkcji TESTAMENTU ANN LEE nieprawdopodobnie utalentowanych ludzi, którzy tchnęli w jej historię autentyczność i transcendentność. Amanda Seyfried występuje prawdopodobnie w najbardziej wymagającej roli w jej karierze, która oferuje nie tylko gamę szczerych emocji, ale też doskonałe występy wokalne i ruchowe. Shakerów wyróżniają performatywność i pieśni uwielbieniowe, a opiekę nad tymi aspektami objęła choreografka Celia Rowlson-Hall, doskonale czująca ekspresywność ich tańca oraz muzyk Daniel Blumberg, dokonujący popisowej współczesnej interpretacji tradycyjnych melodii sekty. Ruchowi scenicznemu sprzyja również kamera Williama Rexera, który wręcz zanurza widza w euforycznej wspólnocie i umożliwia partycypowanie w ich niekonwencjonalnym spojrzeniu na wiarę i świat. Mając takich ludzi u boku, Fastvold tworzy dzieło totalne, z którego emanuje szalona, twórcza siła.\n\nEN\n\nFemale religious leaders have been vanishingly rare throughout history. So when director and screenwriter Mona Fastvold, co-writer of the Oscar-nominated THE BRUTALIST, came across the figure of Ann Lee, she felt almost compelled to bring her story to the screen. All the more so because the legacy of this woman, driven by an extraordinary ambition to reshape the New World, had largely been buried and left to survive in fragments, speculation and myth. Fastvold approaches that history with respect, resisting the temptation to force it into a contemporary framework. The result is a hypnotic, ecstatic cinematic experience, full of bold visual invention and musical interludes that may win over even those normally wary of the genre.\n\nAnn Lee (Amanda Seyfried) is a woman from Manchester who founds the Shaker movement in response to the corruption and injustice she sees around her. She challenges the oppressive social order upheld by the Church of England and wins people over with a utopian vision of gender and social equality, one she believes Christ himself would have wanted. Ann and her community eventually cross the Atlantic to New England, hoping to build a new society founded on empathy.\n\nFor THE TESTAMENT OF ANN LEE, Fastvold surrounded herself with an extraordinary group of collaborators who give the film both authenticity and a sense of transcendence. Amanda Seyfried takes on what may be the most demanding role of her career, delivering not only a remarkable emotional performance but also striking vocal and physical work. Song, movement and ecstatic worship are central to Shaker practice, and choreographer Celia Rowlson-Hall captures the expressive force of their dance. Meanwhile, composer Daniel Blumberg reworks traditional Shaker melodies with thrilling contemporary energy.\n\nWilliam Rexer’s camera moves enhance physical intensity. It literally draws the audience into euphoric community and lets us experience, from within, its unconventional understanding of faith and the world. With collaborators like these, Fastvold creates something close to a total work of cinema, charged throughout with an almost overwhelming creative force.",
+        "poster": "media/posters/2aaa8b64fb32e4ca98d3.webp"
+      },
+      {
+        "hour": "16:30",
+        "datetime": "2026-11-13 16:30:00",
+        "title": "Zgiń, kochanie",
+        "originalTitle": "Die, My Love",
+        "director": "Lynne Ramsay",
+        "year": "2025",
+        "premiereDate": "2025-12-12",
+        "duration": "118",
+        "countries": "Wielka Brytania",
+        "shortDesc": "<p>Powrót Lynne Ramsay z bezkompromisowym studium depresji poporodowej, samotności i kryzysu tożsamości. W krajobrazach Montany marzenie o romantycznej ucieczce zamienia się w koszmar. Na ekranie Pattinson i Lawrence, która tworzy hipnotyzującą i odważną kreację kobiety na skraju załamania.</p>\n",
+        "lang": "en",
+        "subtitlesLang": "pl",
+        "age": "16",
+        "credits": "reż. Lynne Ramsay <br>Wielka Brytania <br>2025,118’",
+        "desc": "<p>Powrót Lynne Ramsay z bezkompromisowym studium depresji poporodowej, samotności i kryzysu tożsamości. W krajobrazach Montany marzenie o romantycznej ucieczce zamienia się w koszmar. Na ekranie Pattinson i Lawrence, która tworzy hipnotyzującą i odważną kreację kobiety na skraju załamania.</p>\n",
+        "hall": "2",
+        "movieLink": "https://www.kinomuza.pl/movie/zgin-kochanie/",
+        "ticketLink": "https://estradapoznan.bilety24.pl/kup-bilety/?id=1009793",
+        "prePremier": false,
+        "tape35mm": false,
+        "ad": false,
+        "deaf": false,
+        "ticketPrice": "",
+        "ticketHalfPrice": "",
+        "alt": "Zgiń, kochanie",
+        "thumb": "https://www.kinomuza.pl/content/uploads/2025/10/zgin-kochanie-2-800x450.jpg",
+        "description": "Powrót Lynne Ramsay z bezkompromisowym studium depresji poporodowej, samotności i kryzysu tożsamości. W krajobrazach Montany marzenie o romantycznej ucieczce zamienia się w koszmar. Na ekranie Pattinson i Lawrence, która tworzy hipnotyzującą i odważną kreację kobiety na skraju załamania.",
+        "shortDescription": "Powrót Lynne Ramsay z bezkompromisowym studium depresji poporodowej, samotności i kryzysu tożsamości. W krajobrazach Montany marzenie o romantycznej ucieczce zamienia się w koszmar. Na ekranie Pattinson i Lawrence, która tworzy hipnotyzującą i odważną kreację kobiety na skraju załamania.",
+        "genres": [
+          "Dramat",
+          "Psychologiczny"
+        ],
+        "external": {
+          "imdb": {
+            "id": "tt9362736",
+            "url": "https://www.imdb.com/title/tt9362736/",
+            "rating": 6,
+            "votes": 50647
+          },
+          "filmweb": {
+            "id": "10023025",
+            "url": "https://www.filmweb.pl/film/Zgi%C5%84+kochanie-2025-10023025",
+            "genres": [
+              "Dramat",
+              "Psychologiczny"
+            ],
+            "rating": 5.8,
+            "votes": 12596
+          },
+          "rottenTomatoes": {
+            "url": "https://www.rottentomatoes.com/m/die_my_love_2025",
+            "title": "Die My Love (2025)",
+            "year": "2025",
+            "directors": [
+              "Lynne Ramsay"
+            ],
+            "criticsRating": 74,
+            "criticsVotes": 271,
+            "audienceRating": 45,
+            "audienceVotes": 629
+          }
+        },
+        "longDescription": "Lynne Ramsay, gościni i bohaterka retrospektywy reżyserskiej podczas British Film Festival 2024, powróciła w zeszłym roku z dziełem totalnym. ZGIŃ, KOCHANIE to kolejny dowód niezwykle czujnego spojrzenia i przenikliwej wrażliwości, która jak nikt inny potrafi przełożyć mroczne stany duszy na unikalny język wizualny.\n\nRamsay zabiera nas do odległej Montany, gdzie Grace i Jackson (nominowana do Złotego Globa Jennifer Lawrence i podbijający w tym roku kina Robert Pattinson) postanawiają zrealizować marzenie o ucieczce od miejskiego zgiełku. Ich sielanka w drewnianym domu pośrodku głuszy szybko jednak odsłania swoje drugie, mroczne oblicze. Ramsay z chirurgiczną precyzją pokazuje, jak idylliczna fasada pęka pod ciężarem izolacji i nowych obowiązków po narodzinach dziecka. To właśnie wtedy rozpoczyna się hipnotyzujące studium psychologicznego rozkładu.\n\nEkranem rządzi Jennifer Lawrence w roli Grace, która tworzy kreację wybitną, być może najważniejszą w jej dotychczasowej karierze. Jej portret kobiety pogrążającej się w otchłani depresji poporodowej, uwięzionej między utraconą tożsamością a (nie)chcianą rolą matki, magnetyzuje i porywa. Ramsay prowadzi swoją aktorkę przez najciemniejsze zakamarki emocji, budując opowieść, która jest jednocześnie brutalnie szczera i poetycko piękna.\n\nZGIŃ, KOCHANIE porusza, olśniewa wizualnie i umacnia pozycję Ramsay jako jednej z najbardziej bezkompromisowych autorek współczesnego kina.\n\nEN\n\nLynne Ramsay, a guest of honour and the subject of a director’s retrospective at the 2024 British Film Festival, returned last year with one of her most uncompromising films yet. DIE, MY LOVE is further proof of her extraordinary visual instinct and rare sensitivity to the darker states of mind.\n\nRamsay takes us to remote Montana, where Grace and Jackson (Golden Globe nominee Jennifer Lawrence and Robert Pattinson, who is taking the cinema world by storm this year) decide to fulfil their dream of escaping the hustle and bustle of city life. However, their idyll in a wooden house in the middle of nowhere soon reveals its dark underbelly. With surgical precision, Ramsay shows how the idyllic façade is cracking under the weight of isolation and new responsibilities following the birth of their child. At this point, a mesmerising study of psychological breakdown begins.\n\nJennifer Lawrence dominates the screen as Grace, delivering an outstanding performance – perhaps the most significant of her career to date. Her portrayal of a woman plunging into the depths of postnatal depression, trapped between a lost sense of self and her (un)wanted role as a mother, is mesmerising and captivating. Ramsay guides her actress through the darkest recesses of emotion, crafting a story that is both brutally honest and poetically beautiful.\n\nDIE, MY LOVE is emotionally raw, visually arresting and another reminder of Ramsay’s place among the most uncompromising voices in contemporary cinema.",
+        "poster": "media/posters/075b3e10310d24f44f37.webp"
+      },
+      {
+        "hour": "16:30",
+        "datetime": "2026-11-13 16:30:00",
+        "title": "Edukacja Jane Cumming",
+        "originalTitle": "The Education of Jane Cumming",
+        "director": "Sophie Heldman",
+        "year": "2026",
+        "premiereDate": "",
+        "duration": "114",
+        "countries": "Niemcy, Szwajcaria, Wielka Brytania",
+        "shortDesc": "<p>Rok 1810. Nieopodal Edynburga, dwie nauczycielki otwierają kameralną szkołę dla młodych dziewcząt. Kiedy jedna z uczennic rozpuszcza plotkę i oskarża je o romans, rozpoczyna się seria nieodwracalnych konsekwencji. Przejmujący film oparty na historii, która wydarzyła się w XIX-wiecznej Szkocji.</p>\n",
+        "lang": "en",
+        "subtitlesLang": "pl",
+        "age": "16",
+        "credits": "reż. Sophie Heldman <br>Niemcy, Szwajcaria, Wielka Brytania <br>2026,114’",
+        "desc": "<p>Rok 1810. Nieopodal Edynburga, dwie nauczycielki otwierają kameralną szkołę dla młodych dziewcząt. Kiedy jedna z uczennic rozpuszcza plotkę i oskarża je o romans, rozpoczyna się seria nieodwracalnych konsekwencji. Przejmujący film oparty na historii, która wydarzyła się w XIX-wiecznej Szkocji.</p>\n",
+        "hall": "palacowe",
+        "movieLink": "https://www.kinomuza.pl/movie/edukacja-jane-cumming/",
+        "ticketLink": "https://estradapoznan.bilety24.pl/kup-bilety/?id=1009800",
+        "prePremier": false,
+        "tape35mm": false,
+        "ad": false,
+        "deaf": false,
+        "ticketPrice": "",
+        "ticketHalfPrice": "",
+        "alt": "Edukacja Jane Cumming",
+        "thumb": "https://www.kinomuza.pl/content/uploads/2026/10/edukacja-1-800x450.jpg",
+        "description": "Rok 1810. Nieopodal Edynburga, dwie nauczycielki otwierają kameralną szkołę dla młodych dziewcząt. Kiedy jedna z uczennic rozpuszcza plotkę i oskarża je o romans, rozpoczyna się seria nieodwracalnych konsekwencji. Przejmujący film oparty na historii, która wydarzyła się w XIX-wiecznej Szkocji.",
+        "shortDescription": "Rok 1810. Nieopodal Edynburga, dwie nauczycielki otwierają kameralną szkołę dla młodych dziewcząt. Kiedy jedna z uczennic rozpuszcza plotkę i oskarża je o romans, rozpoczyna się seria nieodwracalnych konsekwencji. Przejmujący film oparty na historii, która wydarzyła się w XIX-wiecznej Szkocji.",
+        "genres": [
+          "Dramat"
+        ],
+        "external": {
+          "imdb": {
+            "id": "tt27811182",
+            "url": "https://www.imdb.com/title/tt27811182/",
+            "rating": 7.3,
+            "votes": 102
+          },
+          "filmweb": {
+            "id": "10112672",
+            "url": "https://www.filmweb.pl/film/The+Education+of+Jane+Cumming-2026-10112672",
+            "genres": [
+              "Dramat"
+            ],
+            "rating": 7.1,
+            "votes": 7
+          },
+          "rottenTomatoes": {
+            "url": "https://www.rottentomatoes.com/m/the_education_of_jane_cumming",
+            "title": "The Education of Jane Cumming",
+            "year": "",
+            "directors": [
+              "Sophie Heldman"
+            ],
+            "criticsRating": null,
+            "criticsVotes": 8,
+            "audienceRating": null,
+            "audienceVotes": null
+          }
+        },
+        "longDescription": "Jest rok 1810. Nieopodal Edynburga, dwie nauczycielki Jane Pirie (Flora Nicholson) i Marianne Woods (Clare Dunne) otwierają w domu kameralną szkołę dla młodych dziewcząt. Obie pragną niezależności i w świecie zdominowanym przez sztywne reguły oraz role społeczne przypisane kobietom, próbują stworzyć swoją rzeczywistość na własnych zasadach. Pewnego dnia do Drumsheugh zamożna babka (Fiona Shaw) przywozi trzy swoje wnuczki, żeby posłać je na pensję. Wśród nich jest piętnastoletnia Jane Cumming, urodzona poza małżeństwem dziewczyna o indyjskich i szkockich korzeniach, traktowana przez swoją arystokratyczną rodzinę jak zło konieczne. Jane pozostaje outsiderką wśród pozostałych uczennic, a jej pochodzenie i historia stają się pretekstem do ciągłych konfliktów w grupie i prześladowań. Odrzucona przez rówieśniczki coraz bardziej zbliża się do swoich nauczycielek, co później stanie się dla niej narzędziem do wymierzenia w nie najboleśniejszego ciosu. Kiedy narastają napięcia i oczekiwania Jane nie zostają spełnione, nastolatka rozpuszcza plotkę i oskarża swoje opiekunki kłamstwem, którego nie będzie można już odwrócić. Posądza je o wspólny romans. Oskarżenie szybko nabiera mocy i wywołuje skandal społeczny, który przeradza się w wieloletni proces, w którym Jane i Marianne muszą walczyć nie tylko o obronę reputacji, ale również swojego życia, niezależności i źródła utrzymania. Wyreżyserowany przez Sophie Heldman dramat kostiumowy odsłania najmroczniejsze reguły epoki, w których uprzedzenia związane z rasizmem, podziałami klasowymi i orientacją seksualną, stawały się bronią. Po cichu komentuje również okrutność czasów kolonialnych, które przyniosły wiele urodzonych dzieci, stającymi się ofiarami tylko dlatego, że ich skóra nie jest biała, a pochodzenie mieszane. Scenariusz filmu został oparty na podstawie książki Lillian Faderman Scotch Verdict: The Real-Life Story That Inspired “The Children’s Hour”, która nawiązuje do prawdziwych wydarzeń, mających miejsce w XIX-wiecznej Szkocji. Przejmujący film EDUKACJA JANE CUMMUING odsłania starą prawdę, że plotka może mieć ogromną siłę niszczenia zarówno marzeń, jak i najpiękniejszych uczuć jakimi można obdarzyć drugą osobę. A tego co raz zostało wypowiedziane, nie da się już odwrócić.\n\nEN\n\nIt is 1810. Near Edinburgh, two teachers, Jane Pirie (Flora Nicholson) and Marianne Woods (Clare Dunne), open a small school for young girls in their home. Both long for independence and, in a world governed by rigid conventions and clearly prescribed roles for women, try to build a life on their own terms. One day, a wealthy grandmother (Fiona Shaw) arrives in Drumsheugh with three of her granddaughters, whom she intends to enrol at the school.\n\nAmong them is fifteen-year-old Jane Cumming, a girl of Indian and Scottish heritage born out of wedlock, treated by her aristocratic family as a necessary evil. Jane remains an outsider among the other pupils, and her background and personal history become a constant source of conflict and bullying. Rejected by her peers, she grows increasingly close to her teachers – a relationship she will later turn against them, the most painful blow.\n\nAs tensions mount and Jane’s expectations go unmet, the teenager spreads a rumour and accuses her carers of a lie that cannot be taken back. She accuses them of having an affair. The accusation quickly gains traction and sparks a public scandal. That escalates into a protracted legal battle in which Jane and Marianne must fight not only for their reputations, but for their livelihoods, independence and the lives they have built for themselves.\n\nDirected by Sophie Heldman, this period drama exposes some of the darkest rules governing the era, when prejudice rooted in racism, class divisions and sexuality could readily be turned into a weapon. It also quietly reflects on the cruelty of the colonial age, which left many children born of mixed heritage to suffer simply because their skin was not white and their parentage crossed racial boundaries.\n\nThe screenplay is based on Lillian Faderman’s Scotch Verdict: The Real-Life Story That Inspired “The Children’s Hour” , which draws on events that took place in 19th-century Scotland. Deeply affecting, THE EDUCATION OF JANE CUMMING returns to an enduring truth: a rumour can destroy dreams and even the deepest feelings people have for one another. What was said cannot be taken back.",
+        "poster": "media/posters/2eb925d14902cfe7cdcb.webp"
+      },
+      {
+        "hour": "17:00",
+        "datetime": "2026-11-13 17:00:00",
+        "title": "Szlachectwo zobowiązuje",
+        "originalTitle": "Kind Hearts and Coronets",
+        "director": "Robert Hamer",
+        "year": "1949",
+        "premiereDate": "",
+        "duration": "106",
+        "countries": "Wielka Brytania ",
+        "shortDesc": "<p>Nieślubny syn arystokraty, zgorzkniały po latach życia w biedzie, postanawia po kolei pozbyć się swoich krewnych, aby odziedziczyć rodzinny tytuł. SZLACHECTWO ZOBOWIĄZUJE, jedna z najbardziej lubianych czarnych komedii studia Ealing, zachwyca brawurową rolą Aleca Guinnessa, który wciela się we wszystkich dziewięcioro członków skazanej na zagładę rodziny D’Ascoyne.</p>\n",
+        "lang": "en",
+        "subtitlesLang": "pl",
+        "age": "16",
+        "credits": "reż. Robert Hamer <br>Wielka Brytania  <br>1949,106’",
+        "desc": "<p>Nieślubny syn arystokraty, zgorzkniały po latach życia w biedzie, postanawia po kolei pozbyć się swoich krewnych, aby odziedziczyć rodzinny tytuł. SZLACHECTWO ZOBOWIĄZUJE, jedna z najbardziej lubianych czarnych komedii studia Ealing, zachwyca brawurową rolą Aleca Guinnessa, który wciela się we wszystkich dziewięcioro członków skazanej na zagładę rodziny D’Ascoyne.</p>\n",
+        "hall": "1",
+        "movieLink": "https://www.kinomuza.pl/movie/szlachectwo-zobowiazuje/",
+        "ticketLink": "https://estradapoznan.bilety24.pl/kup-bilety/?id=1009790",
+        "prePremier": false,
+        "tape35mm": false,
+        "ad": false,
+        "deaf": false,
+        "ticketPrice": "",
+        "ticketHalfPrice": "",
+        "alt": "Szlachectwo zobowiązuje",
+        "thumb": "https://www.kinomuza.pl/content/uploads/2026/10/szlachta-2-800x450.jpg",
+        "description": "Nieślubny syn arystokraty, zgorzkniały po latach życia w biedzie, postanawia po kolei pozbyć się swoich krewnych, aby odziedziczyć rodzinny tytuł. SZLACHECTWO ZOBOWIĄZUJE, jedna z najbardziej lubianych czarnych komedii studia Ealing, zachwyca brawurową rolą Aleca Guinnessa, który wciela się we wszystkich dziewięcioro członków skazanej na zagładę rodziny D’Ascoyne.",
+        "shortDescription": "Nieślubny syn arystokraty, zgorzkniały po latach życia w biedzie, postanawia po kolei pozbyć się swoich krewnych, aby odziedziczyć rodzinny tytuł. SZLACHECTWO ZOBOWIĄZUJE, jedna z najbardziej lubianych czarnych komedii studia Ealing, zachwyca brawurową rolą Aleca Guinnessa, który wciela się we wszystkich dziewięcioro członków skazanej na zagładę rodziny D’Ascoyne.",
+        "genres": [
+          "Komedia kryminalna"
+        ],
+        "external": {
+          "imdb": {
+            "id": "tt0041546",
+            "url": "https://www.imdb.com/title/tt0041546/",
+            "rating": 8,
+            "votes": 42662
+          },
+          "filmweb": {
+            "id": "31660",
+            "url": "https://www.filmweb.pl/film/Szlachectwo+zobowi%C4%85zuje-1949-31660",
+            "genres": [
+              "Komedia kryminalna"
+            ],
+            "rating": 7.8,
+            "votes": 1719
+          },
+          "rottenTomatoes": {
+            "url": "https://www.rottentomatoes.com/m/kind_hearts_and_coronets",
+            "title": "Kind Hearts and Coronets",
+            "year": "1949",
+            "directors": [
+              "Robert Hamer"
+            ],
+            "criticsRating": 100,
+            "criticsVotes": 51,
+            "audienceRating": 93,
+            "audienceVotes": 2296
+          }
+        },
+        "longDescription": "SZLACHECTWO ZOBOWIĄZUJE to jeden z najbardziej cenionych klejnotów brytyjskiego kina: film elegancki, przewrotnie zabawny i po ponad siedemdziesięciu pięciu latach wciąż zaskakująco świeży. Produkcja z 1949 roku należy do serii niezwykle popularnych powojennych komedii studia Ealing. Jej bohaterem jest Louis Mazzini, czarujący, lecz bezwzględny outsider, który postanawia zemścić się na arystokratycznej rodzinie odpowiedzialnej za wydziedziczenie jego i jego matki. Aby zdobyć tytuł książęcy, planuje usunąć ośmioro krewnych stojących mu na drodze – plan tyleż potworny, co przedstawiony z rozbrajającą lekkością.\n\nO sile filmu decyduje jednak nie tylko jego makabryczna fabuła, lecz także mistrzostwo, z jakim została opowiedziana. Dennis Price obdarza Louisa gładką powierzchownością i sardoniczną inteligencją, natomiast Alec Guinness daje legendarny popis komediowego aktorstwa, wcielając się w kolejnych członków rodziny D’Ascoyne – od duchownych po sufrażystki. Humor filmu jest na wskroś brytyjski i w dużej mierze bierze się z kontrastu między nienagannymi manierami Louisa a faktem, że potajemnie jest seryjnym mordercą. Właśnie z tego rozdźwięku rodzi się najbardziej charakterystyczny dla filmu czarny humor. SZLACHECTWO ZOBOWIĄZUJE bezlitośnie obnaża snobizm i hipokryzję klas wyższych, nie tracąc przy tym lekkości\n\nLuźno oparty na powieści z epoki edwardiańskiej, SZLACHECTWO ZOBOWIĄZUJE zachwyca również rekonstrukcją minionego świata – od obyczajów po kostiumy i scenografię. Studio Ealing chciało tworzyć filmy wyraźnie zakorzenione w brytyjskiej kulturze, a zarazem atrakcyjne dla międzynarodowej widowni. Seria komedii Ealing zrealizowała ten zamysł z ogromnym powodzeniem, a SZLACHECTWO ZOBOWIĄZUJE jest powszechnie uznawane za jedno z jej najwybitniejszych osiągnięć.\n\nEN\n\nKIND HEARTS AND CORONETS is a much-loved gem of British cinema: elegant, wickedly funny, and still incredibly fresh more than seventy-five years after its release. One in a series of hugely successful comedies made by Ealing Studios after the war, this 1949 production follows Louis Mazzini, a charming but ruthless outsider determined to seek revenge on the aristocratic family who disinherited him and his mother. He plots to remove the eight relatives that stand between him and the dukedom, an outrageous, immoral and irresistibly entertaining solution. What makes the film essential viewing is not just its deliciously macabre plot, but the brilliance with which it is told. Dennis Price gives Louis a silky, sardonic intelligence, while Alec Guinness delivers a legendary comic performance as multiple members of the D’Ascoyne family, playing everything from vicars to suffragettes. The film’s humour is unmistakably British, much of it in the presentation of Louis as outwardly charming and refined, but secretly a serial killer. It exposes the snobbery and hypocrisy of the upper classes without ever losing its lightness of touch.\n\nLoosely based on an Edwardian novel, the film’s recreation of the period is exceptional, both in its manners and its costumes and décor. Ealing Studio aimed to make British films that promoted the national character but which would appeal to international audiences and they achieved this with the Ealing comedies, Kind Hearts and Coronets being widely regarded as the high point of the series.",
+        "poster": "media/posters/ea7e27a91013687f2515.webp"
+      },
+      {
+        "hour": "17:30",
+        "datetime": "2026-11-13 17:30:00",
+        "title": "Mangrove",
+        "originalTitle": "",
+        "director": "Steve McQueen",
+        "year": "2020",
+        "premiereDate": "",
+        "duration": "127",
+        "countries": "Wielka Brytania",
+        "shortDesc": "<p>Pierwsza część pięcioodcinkowej antologii MAŁY TOPÓR Steve’a McQueena, opowiadającej o doświadczeniu i życiu imigrantów z Indii Zachodnich w Wielkiej Brytanii lat 70. i 80. XX wieku. Autentyczna historia sfingowanego procesu wytoczonego przez białą władzę Czarnej społeczności Notting Hill, ujęta w konwencji dramatu sądowego, pozwala rozłożyć na czynniki pierwsze mechanizm systemowego rasizmu, a jednocześnie przedstawić oskarżonych jako siłę zdolną do samostanowienia.</p>\n",
+        "lang": "en",
+        "subtitlesLang": "pl",
+        "age": "16",
+        "credits": "reż. Steve McQueen <br>Wielka Brytania <br>2020,127’",
+        "desc": "<p>Pierwsza część pięcioodcinkowej antologii MAŁY TOPÓR Steve’a McQueena, opowiadającej o doświadczeniu i życiu imigrantów z Indii Zachodnich w Wielkiej Brytanii lat 70. i 80. XX wieku. Autentyczna historia sfingowanego procesu wytoczonego przez białą władzę Czarnej społeczności Notting Hill, ujęta w konwencji dramatu sądowego, pozwala rozłożyć na czynniki pierwsze mechanizm systemowego rasizmu, a jednocześnie przedstawić oskarżonych jako siłę zdolną do samostanowienia.</p>\n",
+        "hall": "palacowe",
+        "movieLink": "https://www.kinomuza.pl/movie/mangrove/",
+        "ticketLink": "https://app.evently.pl/events/15690-mangrove-british-film-festival-2026",
+        "prePremier": false,
+        "tape35mm": false,
+        "ad": false,
+        "deaf": false,
+        "ticketPrice": "",
+        "ticketHalfPrice": "",
+        "alt": "Mangrove",
+        "thumb": "https://www.kinomuza.pl/content/uploads/2026/10/Mangrove-3-800x450.jpg",
+        "description": "Pierwsza część pięcioodcinkowej antologii MAŁY TOPÓR Steve’a McQueena, opowiadającej o doświadczeniu i życiu imigrantów z Indii Zachodnich w Wielkiej Brytanii lat 70. i 80. XX wieku. Autentyczna historia sfingowanego procesu wytoczonego przez białą władzę Czarnej społeczności Notting Hill, ujęta w konwencji dramatu sądowego, pozwala rozłożyć na czynniki pierwsze mechanizm systemowego rasizmu, a jednocześnie przedstawić oskarżonych jako siłę zdolną do samostanowienia.",
+        "shortDescription": "Pierwsza część pięcioodcinkowej antologii MAŁY TOPÓR Steve’a McQueena, opowiadającej o doświadczeniu i życiu imigrantów z Indii Zachodnich w Wielkiej Brytanii lat 70. i 80. XX wieku. Autentyczna historia sfingowanego procesu wytoczonego przez białą władzę Czarnej społeczności Notting Hill, ujęta w konwencji dramatu sądowego, pozwala rozłożyć na czynniki pierwsze mechanizm systemowego rasizmu, a jednocześnie przedstawić oskarżonych jako siłę zdolną do samostanowienia.",
+        "genres": [],
+        "external": {
+          "imdb": null,
+          "filmweb": null,
+          "rottenTomatoes": null
+        },
+        "longDescription": "W 2020 roku Steve McQueen zrealizował projekt MAŁY TOPÓR – pięcioczęściową antologię filmów opowiadających o doświadczeniu i życiu imigrantów (i ich dzieci) z Indii Zachodnich w Wielkiej Brytanii lat 70. i 80. XX wieku. MANGROVE to pierwsza część tego szczególnego serialu. McQueen, wykorzystując konwencję dramatu sądowego, opowiada historię prawdziwego procesu tzw. dziewiątki z Mangrove z 1970 roku.\n\nMangrove to nazwa restauracji, którą Frank Crichlow, imigrant z Trynidadu, otworzył na Notting Hill pod koniec lat 60., kiedy okolica ta była jeszcze naturalnym środowiskiem przybyszy z Karaibów. Lokal natychmiast stał się sercem miejscowej społeczności, a to nie spodobało się białej policji. Puszczona w ruch spirala systemowego rasizmu i przemocy doprowadziła do protestów, a ostatecznie do procesu, w którym oskarżonymi są obrońcy Mangrove i Czarnej wspólnoty. Konwencja gatunku pozwala McQueenowi rozłożyć na części pierwsze mechanizm uprzedzeń i przemocy na kolejnych poziomach władzy, a jednocześnie podkreślić moc samostanowienia oraz zdolność do obrony własnych racji po stronie oskarżonych i aktywistów. Czarni obywatele nie dają się tu sprowadzić do ofiar, umiejętnie i z pasją walczą o sprawiedliwość.\n\nW 1973 roku Bob Marley nagrał piosenkę SMALL AXE; jeden z jej wersów – Jeśli ty jesteś wielkim drzewem, ja jestem małym toporem – stanowi rodzaj motta dla antologii Steve’a McQueena. Historia dziewiątki z Mangrove jest jednym z uderzeń toporkiem w wielkie drzewo systemowego rasizmu.\n\nEN\n\nIn 2020, Steve McQueen created SMALL AXE, a five-film anthology exploring the lives and experiences of West Indian immigrants and their children in Britain during the 1970s and 1980s. MANGROVE is the first instalment in this distinctive series. Drawing on the conventions of the courtroom drama, McQueen tells the true story of the 1970 trial of the so-called Mangrove Nine.\n\nThe Mangrove was a restaurant opened in Notting Hill by Trinidadian immigrant Frank Crichlow in the late 1960s, when the area was still home to a large Caribbean community. It quickly became the heart of local life – something the largely white police force took exception to. A spiral of systemic racism and police violence led first to protest and eventually to a trial in which those defending the Mangrove and the Black community found themselves in the dock.\n\nThe conventions of the genre allow McQueen to dissect the mechanisms of prejudice and violence at successive levels of power, and highlight the power of self-determination and the ability to defend one’s own cause on the part of the accused and activists. Black citizens are not reduced to the role of victims here; they fight skilfully and passionately for justice.\n\nIn 1973, Bob Marley recorded the song SMALL AXE. One of its lines – If you are the big tree, we are the small axe – serves as a kind of motto for McQueen’s anthology. The story of the Mangrove Nine becomes one such blow of the axe against the great tree of systemic racism.",
+        "poster": "media/posters/03688016ffd906677570.webp"
+      },
+      {
+        "hour": "18:30",
+        "datetime": "2026-11-13 18:30:00",
+        "title": "Kucharz, złodziej, jego żona i jej kochanek",
+        "originalTitle": "The Cook, The Thief, His Wife & Her Lover",
+        "director": "Peter Greenaway",
+        "year": "1989",
+        "premiereDate": "",
+        "duration": "124",
+        "countries": "Francja, Holandia, Wielka Brytania",
+        "shortDesc": "<p>Gangster Albert Spica co wieczór terroryzuje gości ekskluzywnej restauracji i własną żonę, która ucieczki szuka w ramionach cichego miłośnika książek. Gdy zdrada wyjdzie na jaw, podana zostanie zemsta. Za tą wystawną ucztą dla oka kryje się ostra satyra na thatcherowską Wielką Brytanię.</p>\n",
+        "lang": "en",
+        "subtitlesLang": "pl",
+        "age": "16",
+        "credits": "reż. Peter Greenaway <br>Francja, Holandia, Wielka Brytania <br>1989,124’",
+        "desc": "<p>Gangster Albert Spica co wieczór terroryzuje gości ekskluzywnej restauracji i własną żonę, która ucieczki szuka w ramionach cichego miłośnika książek. Gdy zdrada wyjdzie na jaw, podana zostanie zemsta. Za tą wystawną ucztą dla oka kryje się ostra satyra na thatcherowską Wielką Brytanię.</p>\n",
+        "hall": "rialto",
+        "movieLink": "https://www.kinomuza.pl/movie/106882/",
+        "ticketLink": "https://estradapoznan.bilety24.pl/kup-bilety/?id=1009808",
+        "prePremier": false,
+        "tape35mm": false,
+        "ad": false,
+        "deaf": false,
+        "ticketPrice": "",
+        "ticketHalfPrice": "",
+        "alt": "Kucharz, złodziej, jego żona i jej kochanek",
+        "thumb": "https://www.kinomuza.pl/content/uploads/2026/10/kuch-1-800x450.jpg",
+        "description": "Gangster Albert Spica co wieczór terroryzuje gości ekskluzywnej restauracji i własną żonę, która ucieczki szuka w ramionach cichego miłośnika książek. Gdy zdrada wyjdzie na jaw, podana zostanie zemsta. Za tą wystawną ucztą dla oka kryje się ostra satyra na thatcherowską Wielką Brytanię.",
+        "shortDescription": "Gangster Albert Spica co wieczór terroryzuje gości ekskluzywnej restauracji i własną żonę, która ucieczki szuka w ramionach cichego miłośnika książek. Gdy zdrada wyjdzie na jaw, podana zostanie zemsta. Za tą wystawną ucztą dla oka kryje się ostra satyra na thatcherowską Wielką Brytanię.",
+        "genres": [
+          "Dramat",
+          "Komedia"
+        ],
+        "external": {
+          "imdb": {
+            "id": "tt0097108",
+            "url": "https://www.imdb.com/title/tt0097108/",
+            "rating": 7.5,
+            "votes": 45680
+          },
+          "filmweb": {
+            "id": "6923",
+            "url": "https://www.filmweb.pl/film/Kucharz%2C+z%C5%82odziej%2C+jego+%C5%BCona+i+jej+kochanek-1989-6923",
+            "genres": [
+              "Dramat",
+              "Komedia"
+            ],
+            "rating": 7.5,
+            "votes": 8974
+          },
+          "rottenTomatoes": {
+            "url": "https://www.rottentomatoes.com/m/the_cook_the_thief_his_wife_and_her_lover",
+            "title": "The Cook, the Thief, His Wife and Her Lover",
+            "year": "1989",
+            "directors": [
+              "Peter Greenaway"
+            ],
+            "criticsRating": 87,
+            "criticsVotes": 53,
+            "audienceRating": 88,
+            "audienceVotes": 4240
+          }
+        },
+        "longDescription": "W wytwornej restauracji Le Hollandais co wieczór zasiada gangster – Albert Spica. Prostacki, chciwy i okrutny, terroryzuje gości, personel i własną żonę – Georginę. Ta jednak znajduje ucieczkę: romantycznego bibliofila, z którym romansuje pod nosem męża – w kuchni, w spiżarni, w toalecie – przy dyskretnej pomocy kucharza Richarda. Gdy Albert odkrywa zdradę, rozpoczyna się krwawa tragedia zemsty, w której nikt nie pozostanie bez winy, a ostatnie danie zapada w pamięć na długo…\n\nGreenaway inscenizuje akcję filmu na kształt sztuki teatralnej: kolejne akty wyznaczają karty menu, kamera sunie równolegle wzdłuż dekoracji, podczas gdy postaci niejednokrotnie ustawiają się przy stole po jednej stronie, jakby kłaniały się publiczności. Każda przestrzeń ma swój kolor – parking jest niebieski, kuchnia zielona, sala czerwona, a toalety białe – a wraz z przestrzenią zmienia się także kolor strojów Georginy. Na ścianie wisi Frans Hals, na stołach piętrzą się martwe natury z ryb, owoców morza i mięs, przywodząc na myśl Koheletowską sentencję vanitas vanitatum .\n\nPrzy stołach Le Hollandais zasiada cała thatcherowska Wielka Brytania: Złodziej symbolizuje arogancję i pogardę władz, Kucharz to szary obywatel, który wykonuje polecenia i przeklina pod nosem, Kochanek – intelektualista i rebeliant, a Żona – pełen godności kraj przykuty do swojego oprawcy. Klasyka, którą trzeba zobaczyć na dużym ekranie – choć może niekoniecznie przed kolacją.\n\nEN\n\nEvery evening, gangster Albert Spica takes his place at a table in the elegant Le Hollandais restaurant. Vulgar, greedy and cruel, he terrorises the diners, the staff and his own wife, Georgina. She, however, finds an escape in a bookish, romantic lover, conducting their affair under her husband’s nose – in the kitchen, the pantry and the toilets – with the discreet help of Richard, the cook. When Albert discovers the betrayal, the story tips into a bloody revenge tragedy in which no one remains innocent, and the final course is hard to forget.\n\nGreenaway stages the film’s plot in the style of a play. Menu cards divide the action into acts; the camera glides parallel to the set, whilst the characters often line up on one side of the table, as if bowing to the audience. Each space has its own colour: the car park is blue, the kitchen green, the dining room red and the toilets white. Georgina’s clothes change colour with each new setting. A Frans Hals painting hangs on the wall. At the same time, the tables groan under still lifes of fish, seafood and meat, calling to mind the old vanitas refrain: vanity of vanities.\n\nAround the tables of Le Hollandais sits an entire vision of Thatcher’s Britain. The Thief embodies the arrogance and contempt of those in power; the Cook is the ordinary citizen, carrying out orders while muttering under his breath; the Lover is the intellectual and rebel; and the Wife, a dignified country bound to its abuser.\n\nA classic that demands to be seen on the big screen – though perhaps not just before dinner.",
+        "poster": "media/posters/f55b4e16b89a6d1a84bb.webp"
+      },
+      {
+        "hour": "19:00",
+        "datetime": "2026-11-13 19:00:00",
+        "title": "Burn!",
+        "originalTitle": "Queimada",
+        "director": "Gillo Pontecorvo",
+        "year": "1969",
+        "premiereDate": "",
+        "duration": "112",
+        "countries": "Francja, Włochy",
+        "shortDesc": "<p>Epicki film jednego z najważniejszych twórców kina politycznego, to przenikliwa analiza mechanizmów kolonizacji i zniewolenia. Jest połowa XIX w., brytyjski agent przybywa na rządzoną przez Portugalczyków wyspę na Antylach, by sprowokować powstanie niewolników i przejąć miejscową plantację.</p>\n",
+        "lang": "en",
+        "subtitlesLang": "pl",
+        "age": "16",
+        "credits": "reż. Gillo Pontecorvo <br>Francja, Włochy <br>1969,112’",
+        "desc": "<p>Epicki film jednego z najważniejszych twórców kina politycznego, to przenikliwa analiza mechanizmów kolonizacji i zniewolenia. Jest połowa XIX w., brytyjski agent przybywa na rządzoną przez Portugalczyków wyspę na Antylach, by sprowokować powstanie niewolników i przejąć miejscową plantację.</p>\n",
+        "hall": "2",
+        "movieLink": "https://www.kinomuza.pl/movie/burn/",
+        "ticketLink": "https://estradapoznan.bilety24.pl/kup-bilety/?id=1009794",
+        "prePremier": false,
+        "tape35mm": false,
+        "ad": false,
+        "deaf": false,
+        "ticketPrice": "",
+        "ticketHalfPrice": "",
+        "alt": "Burn!",
+        "thumb": "https://www.kinomuza.pl/content/uploads/2026/10/burn-3-800x450.jpg",
+        "description": "Epicki film jednego z najważniejszych twórców kina politycznego, to przenikliwa analiza mechanizmów kolonizacji i zniewolenia. Jest połowa XIX w., brytyjski agent przybywa na rządzoną przez Portugalczyków wyspę na Antylach, by sprowokować powstanie niewolników i przejąć miejscową plantację.",
+        "shortDescription": "Epicki film jednego z najważniejszych twórców kina politycznego, to przenikliwa analiza mechanizmów kolonizacji i zniewolenia. Jest połowa XIX w., brytyjski agent przybywa na rządzoną przez Portugalczyków wyspę na Antylach, by sprowokować powstanie niewolników i przejąć miejscową plantację.",
+        "genres": [
+          "Dramat historyczny"
+        ],
+        "external": {
+          "imdb": {
+            "id": "tt0064866",
+            "url": "https://www.imdb.com/title/tt0064866/",
+            "rating": 7.1,
+            "votes": 6544
+          },
+          "filmweb": {
+            "id": "9023",
+            "url": "https://www.filmweb.pl/film/Queimada-1969-9023",
+            "genres": [
+              "Dramat historyczny"
+            ],
+            "rating": 6.5,
+            "votes": 504
+          },
+          "rottenTomatoes": {
+            "url": "https://www.rottentomatoes.com/m/burn",
+            "title": "Burn!",
+            "year": "1969",
+            "directors": [
+              "Gillo Pontecorvo"
+            ],
+            "criticsRating": 80,
+            "criticsVotes": 15,
+            "audienceRating": 80,
+            "audienceVotes": 273
+          }
+        },
+        "longDescription": "Queimada – tak brzmi oryginalny tytuł filmu – to nazwa filmowej (fikcyjnej) wyspy na Antylach, skolonizowanej przez Portugalczyków. Nazwa ta oznacza tyle, co „spalona” – bo w ten właśnie sposób kolonizatorzy pozbyli się miejscowych wiosek i jej mieszkańców, by sprowadzić niewolników i rozpocząć plantacyjną eksploatację. Jest połowa XIX w., na wyspę przybywa William Walker, najęty przez Koronę Brytyjską agent, którego zadaniem będzie zradykalizowanie zniewolonych i wzniecenie powstania – to pozwoli zręcznie wyeliminować Portugalczyków i przejęcie plantacji.\n\nEpicki film Gilla Pontecorvo, włoskiego reżysera uznawanego za jednego z najważniejszych twórców zaangażowanego kina politycznego, jest jednocześnie dramatem kostiumowym, filmem akcji i przenikliwym traktatem na temat kolonializmu. Mechanizmy zniewolenia, manipulacji i eksploatacji są tu przedstawione klarownie i wprost, uderzając swoją aktualnością. Choć BURN! Nie jest filmem historycznym, a opowieść fikcyjna, można go potraktować jako wierny obraz rzeczywistości, o której mówi. W czasie, gdy powstał, traktowano go także jako mocny komentarz na temat toczącej się wojny w Wietnamie.\n\nUdział Marlona Brando w tym filmowym przedsięwzięciu w nieoczywisty sposób wzmacnia wymowę filmu. Jego bohater zdaje się być jednocześnie cynikiem i ideowcem, jest na wskroś współczesny, komplikuje sensy, wypychając film poza granice kina przygodowego. Ujawnione przez niego dyskryminacyjne zachowania wobec aktorów dodały jeszcze kontrowersji, wpisując BURN! w dyskurs, który sam film piętnował.\n\nEN\n\nThe film’s original title is the name of the fictional Caribbean island on which the story takes place, colonised by the Portuguese. The name translates as ‘burnt’ – a reference to the way the colonisers razed local villages and disposed of their inhabitants to bring in enslaved people and begin exploiting the island through plantation agriculture. In the mid-19th century, William Walker arrives on the island as an agent hired by the British Crown. His task is to radicalise the enslaved population and foment an uprising – a move designed to oust the Portuguese and enable the plantations to be taken over.\n\nThis epic film by Gillo Pontecorvo, the Italian director regarded as one of the foremost figures in politically engaged cinema, is at once a period drama, an action film, and an incisive treatise on colonialism. The mechanisms of subjugation, manipulation, and exploitation are laid bare with striking clarity and directness, and their relevance to the present day is hard to miss. Although BURN! is not a historical film and its story is fictional, it can be seen as a faithful reflection of the reality it depicts. At the time of its release, it was also regarded as a powerful commentary on the ongoing war in Vietnam.\n\nMarlon Brando’s involvement in this film project subtly enhances the film’s impact. His character appears to be both a cynic and an idealist; he is thoroughly contemporary, complicating the film’s meanings and pushing it beyond the boundaries of the adventure genre. The discriminatory behaviour towards actors that he revealed added further controversy, placing BURN! within the very discourse that the film itself condemned.",
+        "poster": "media/posters/da9c11f0094fa1957bdf.webp"
+      },
+      {
+        "hour": "19:00",
+        "datetime": "2026-11-13 19:00:00",
+        "title": "AGATHA CHRISTIE: TOMMY I TUPPENCE (odc. 1 i 2)",
+        "originalTitle": "",
+        "director": "Fergus O'Brien",
+        "year": "2025",
+        "premiereDate": "",
+        "duration": "90",
+        "countries": "Wielka Brytania",
+        "shortDesc": "<p>Tommy i Tuppence, para detektywów-amatorów stworzona przez Agathę Christie, powraca w nowej odsłonie osadzonej we współczesnym Londynie. W eleganckich wnętrzach i na ulicach wielkiego miasta bohaterowie rozwiązują zagadki i badają sprawy morderstw. Ich śledztwom towarzyszą błyskotliwe dialogi, wzajemne przekomarzanie się i chemia, która każe zastanawiać się, czy łączy ich wyłącznie przyjaźń.</p>\n",
+        "lang": "en",
+        "subtitlesLang": "pl",
+        "age": "16",
+        "credits": "reż. Fergus O'Brien <br>Wielka Brytania <br>2025,90’",
+        "desc": "<p>Tommy i Tuppence, para detektywów-amatorów stworzona przez Agathę Christie, powraca w nowej odsłonie osadzonej we współczesnym Londynie. W eleganckich wnętrzach i na ulicach wielkiego miasta bohaterowie rozwiązują zagadki i badają sprawy morderstw. Ich śledztwom towarzyszą błyskotliwe dialogi, wzajemne przekomarzanie się i chemia, która każe zastanawiać się, czy łączy ich wyłącznie przyjaźń.</p>\n",
+        "hall": "palacowe",
+        "movieLink": "https://www.kinomuza.pl/movie/tommy-tuppence-odc-1-i-2/",
+        "ticketLink": "https://app.evently.pl/events/15692-tommy-tuppence-odc-1-i-2-british-film-festival-2026",
+        "prePremier": false,
+        "tape35mm": false,
+        "ad": false,
+        "deaf": false,
+        "ticketPrice": "",
+        "ticketHalfPrice": "",
+        "alt": "AGATHA CHRISTIE: TOMMY I TUPPENCE (odc. 1 i 2)",
+        "thumb": "https://www.kinomuza.pl/content/uploads/2026/10/tommy-1-800x450.jpg",
+        "description": "Tommy i Tuppence, para detektywów-amatorów stworzona przez Agathę Christie, powraca w nowej odsłonie osadzonej we współczesnym Londynie. W eleganckich wnętrzach i na ulicach wielkiego miasta bohaterowie rozwiązują zagadki i badają sprawy morderstw. Ich śledztwom towarzyszą błyskotliwe dialogi, wzajemne przekomarzanie się i chemia, która każe zastanawiać się, czy łączy ich wyłącznie przyjaźń.",
+        "shortDescription": "Tommy i Tuppence, para detektywów-amatorów stworzona przez Agathę Christie, powraca w nowej odsłonie osadzonej we współczesnym Londynie. W eleganckich wnętrzach i na ulicach wielkiego miasta bohaterowie rozwiązują zagadki i badają sprawy morderstw. Ich śledztwom towarzyszą błyskotliwe dialogi, wzajemne przekomarzanie się i chemia, która każe zastanawiać się, czy łączy ich wyłącznie przyjaźń.",
+        "genres": [],
+        "external": {
+          "imdb": null,
+          "filmweb": null,
+          "rottenTomatoes": null
+        },
+        "longDescription": "Tommy i Tuppence, byli partnerzy z czasów studiów, spotykają się ponownie na miejscu zbrodni – i odkrywają, że mają zaskakujący talent do prowadzenia śledztw.\nTo współczesna adaptacja kultowej pary detektywów Agathy Christie. Po pomyślnym rozwiązaniu swojej pierwszej sprawy o morderstwo oboje ponownie otwierają agencję detektywistyczną, którą wcześniej prowadziła szanowana ciotka Tommy’ego, Ada. Tuppence ma naturalny talent do węszenia, odczytywania ludzkich intencji i wytrwałego śledzenia wskazówek. Tommy jest skrupulatny, zwraca uwagę na szczegóły i jest bystry. Zazwyczaj trafia instynktownie – ale on nie pozostaje daleko w tyle, dostarczając dowodów.\nCzy jednak byli partnerzy mogą naprawdę być przyjaciółmi? Zwłaszcza gdy odkrywają, że mają zupełnie różne poglądy na temat tego, dlaczego w ogóle się rozstali. Gdy dawne uczucia odżywają, ich najtrudniejszą sprawą może okazać się ustalenie, czy kiedykolwiek znów będą razem.\nEN\n\nTommy and Tuppence, the amateur detective duo created by Agatha Christie, return in a new adaptation set in modern-day London. Amidst the elegant interiors and on the streets of the big city, the protagonists solve mysteries and investigate murder cases. Their investigations are accompanied by witty dialogue, playful banter and chemistry that makes one wonder whether their relationship is based solely on friendship.",
+        "poster": "media/posters/711aaa927a596082d63b.webp"
+      },
+      {
+        "hour": "19:15",
+        "datetime": "2026-11-13 19:15:00",
+        "title": "Ścieżki życia",
+        "originalTitle": "The Salt Path",
+        "director": "Marianne Elliot",
+        "year": "2024",
+        "premiereDate": "2026-01-02",
+        "duration": "116",
+        "countries": "Wielka Brytania",
+        "shortDesc": "<p>Ekranizacja bestsellera Raynor Winn na podstawie scenariusza Rebeki Lenkiewicz (IDA). Gdy małżeństwo traci dom i zdrowie, podejmuje radykalną decyzję: pieszą wędrówkę liczącym ponad 1000 km szlakiem South West Coast Path. Poruszająca, wizualnie urzekająca oda do siły natury i ludzkiego ducha.</p>\n",
+        "lang": "en",
+        "subtitlesLang": "pl",
+        "age": "16",
+        "credits": "reż. Marianne Elliot <br>Wielka Brytania <br>2024,116’",
+        "desc": "<p>Ekranizacja bestsellera Raynor Winn na podstawie scenariusza Rebeki Lenkiewicz (IDA). Gdy małżeństwo traci dom i zdrowie, podejmuje radykalną decyzję: pieszą wędrówkę liczącym ponad 1000 km szlakiem South West Coast Path. Poruszająca, wizualnie urzekająca oda do siły natury i ludzkiego ducha.</p>\n",
+        "hall": "3",
+        "movieLink": "https://www.kinomuza.pl/movie/sciezki-zycia/",
+        "ticketLink": "https://estradapoznan.bilety24.pl/kup-bilety/?id=1009797",
+        "prePremier": false,
+        "tape35mm": false,
+        "ad": false,
+        "deaf": false,
+        "ticketPrice": "",
+        "ticketHalfPrice": "",
+        "alt": "Ścieżki życia",
+        "thumb": "https://www.kinomuza.pl/content/uploads/2025/08/sciezki-zycia-2-800x450.jpg",
+        "description": "Ekranizacja bestsellera Raynor Winn na podstawie scenariusza Rebeki Lenkiewicz (IDA). Gdy małżeństwo traci dom i zdrowie, podejmuje radykalną decyzję: pieszą wędrówkę liczącym ponad 1000 km szlakiem South West Coast Path. Poruszająca, wizualnie urzekająca oda do siły natury i ludzkiego ducha.",
+        "shortDescription": "Ekranizacja bestsellera Raynor Winn na podstawie scenariusza Rebeki Lenkiewicz (IDA). Gdy małżeństwo traci dom i zdrowie, podejmuje radykalną decyzję: pieszą wędrówkę liczącym ponad 1000 km szlakiem South West Coast Path. Poruszająca, wizualnie urzekająca oda do siły natury i ludzkiego ducha.",
+        "genres": [
+          "Psychologiczny",
+          "Dramat"
+        ],
+        "external": {
+          "imdb": {
+            "id": "tt27766440",
+            "url": "https://www.imdb.com/title/tt27766440/",
+            "rating": 6.6,
+            "votes": 7931
+          },
+          "filmweb": {
+            "id": "10058778",
+            "url": "https://www.filmweb.pl/film/%C5%9Acie%C5%BCki+%C5%BCycia-2024-10058778",
+            "genres": [
+              "Psychologiczny",
+              "Dramat"
+            ],
+            "rating": 6.8,
+            "votes": 6227
+          },
+          "rottenTomatoes": {
+            "url": "https://www.rottentomatoes.com/m/the_salt_path",
+            "title": "The Salt Path",
+            "year": "2024",
+            "directors": [
+              "Marianne Elliott"
+            ],
+            "criticsRating": 78,
+            "criticsVotes": 45,
+            "audienceRating": 61,
+            "audienceVotes": 167
+          }
+        },
+        "longDescription": "Są historie tak niezwykłe, że wydają się gotowym scenariuszem. Tak jest w przypadku opowieści Raynor Winn, której autobiograficzna książka „Słone ścieżki” stała się światowym bestsellerem i fenomenem wydawniczym.\n\nZa kamerą staje Marianne Elliot, dotychczas znana głównie z produkcji teatralnych, a za scenariusz odpowiedzialna jest Rebecca Lenkiewicz – jedna z najbardziej cenionych scenarzystek swojego pokolenia, współautorka oscarowej IDY czy autorka scenariusza do SŁONEGO LATA z sekcji High Season drugiej edycji festiwalu.\n\nElliot z niezwykłą czułością opowiada historię małżeństwa, które w jednej chwili traci wszystko: dom i poczucie bezpieczeństwa, a na dodatek staje w obliczu nieuleczalnej choroby mężczyzny. W akcie desperacji podejmują radykalną decyzję – wyruszają w pieszą podróż liczącym ponad tysiąc kilometrów szlakiem South West Coast Path, znanym jako „słona ścieżka”.\n\nTa legendarna trasa, wijąca się wzdłuż surowego i zapierającego dech w piersiach wybrzeża Kornwalii i Devon, staje się dla nich nie tylko wyzwaniem fizycznym, ale przede wszystkim drogą do wewnętrznego uzdrowienia. To kino drogi w najczystszej postaci, w którym natura jest pełnoprawnym bohaterem, a każdy krok staje się metaforą walki o przetrwanie i odnalezienie nadziei wbrew wszystkiemu.\n\nSpełnienie filmowi przynosi szczególnie subtelna, dojrzała rola Gillian Anderson w roli głównej i wyjątkowa chemia, jaka łączy ją z towarzyszącym na ekranie Jasonem Isaacsem.\n\nEN\n\nSome stories are so extraordinary they feel as though they were made for the screen. Raynor Winn’s memoir THE SALT PATH, which became an international bestseller and publishing phenomenon, is one of them.\n\nThe film marks the feature debut of Marianne Elliott, best known for her acclaimed theatre work, while the screenplay is by Rebecca Lenkiewicz, co-writer of the Oscar-winning IDA and screenwriter of HOT MILK, shown in the High Season section of the festival’s second edition.\n\nElliott tells with great tenderness the story of a married couple whose lives collapse almost overnight. They lose their home and any sense of security, only to learn that the husband is also facing an incurable illness. With nowhere else to turn, they make a drastic decision: to walk the South West Coast Path, a route stretching for more than a thousand kilometres along the coast of south-west England.\n\nRunning through the wild, breathtaking landscapes of Cornwall and Devon, the trail becomes more than a test of endurance. It offers the couple a way to keep moving when everything else has fallen apart. THE SALT PATH is road cinema in its purest form, with nature as a constant presence and each step carrying them towards a fragile sense of hope.\n\nAt the heart of the film is Gillian Anderson’s restrained, deeply felt performance, matched by the easy, convincing chemistry she shares with Jason Isaacs.",
+        "poster": "media/posters/7912b5760cc4e18ad9d0.webp"
+      },
+      {
+        "hour": "19:30",
+        "datetime": "2026-11-13 19:30:00",
+        "title": "Godziny",
+        "originalTitle": "The Hours",
+        "director": "Stephen Daldry",
+        "year": "2002",
+        "premiereDate": "",
+        "duration": "114",
+        "countries": "Francja, Kanada, Niemcy, USA, Wielka Brytania",
+        "shortDesc": "<p>Okolice Londynu AD 1923, przedmieścia Los Angeles tuż po II wojnie światowej i współczesny Nowy Jork. Trzy lokalizacje, trzy epoki i trzy kobiety, których losy łączy powieść Virginii Woolf oraz doświadczenie załamania nerwowego, próbują wyrwać się z ról narzuconych przez realia, w jakich funkcjonują.</p>\n",
+        "lang": "en",
+        "subtitlesLang": "pl",
+        "age": "16",
+        "credits": "reż. Stephen Daldry <br>Francja, Kanada, Niemcy, USA, Wielka Brytania <br>2002,114’",
+        "desc": "<p>Okolice Londynu AD 1923, przedmieścia Los Angeles tuż po II wojnie światowej i współczesny Nowy Jork. Trzy lokalizacje, trzy epoki i trzy kobiety, których losy łączy powieść Virginii Woolf oraz doświadczenie załamania nerwowego, próbują wyrwać się z ról narzuconych przez realia, w jakich funkcjonują.</p>\n",
+        "hall": "1",
+        "movieLink": "https://www.kinomuza.pl/movie/godziny/",
+        "ticketLink": "https://estradapoznan.bilety24.pl/kup-bilety/?id=1009791",
+        "prePremier": false,
+        "tape35mm": false,
+        "ad": false,
+        "deaf": false,
+        "ticketPrice": "",
+        "ticketHalfPrice": "",
+        "alt": "Godziny",
+        "thumb": "https://www.kinomuza.pl/content/uploads/2026/10/godziny-1-800x450.jpg",
+        "description": "Okolice Londynu AD 1923, przedmieścia Los Angeles tuż po II wojnie światowej i współczesny Nowy Jork. Trzy lokalizacje, trzy epoki i trzy kobiety, których losy łączy powieść Virginii Woolf oraz doświadczenie załamania nerwowego, próbują wyrwać się z ról narzuconych przez realia, w jakich funkcjonują.",
+        "shortDescription": "Okolice Londynu AD 1923, przedmieścia Los Angeles tuż po II wojnie światowej i współczesny Nowy Jork. Trzy lokalizacje, trzy epoki i trzy kobiety, których losy łączy powieść Virginii Woolf oraz doświadczenie załamania nerwowego, próbują wyrwać się z ról narzuconych przez realia, w jakich funkcjonują.",
+        "genres": [
+          "Dramat"
+        ],
+        "external": {
+          "imdb": {
+            "id": "tt0274558",
+            "url": "https://www.imdb.com/title/tt0274558/",
+            "rating": 7.5,
+            "votes": 148364
+          },
+          "filmweb": {
+            "id": "32380",
+            "url": "https://www.filmweb.pl/film/Godziny-2002-32380",
+            "genres": [
+              "Dramat"
+            ],
+            "rating": 7.3,
+            "votes": 110136
+          },
+          "rottenTomatoes": null
+        },
+        "longDescription": "Trzy kobiety, trzy miasta, trzy różne epoki. Richmond pod Londynem, rok 1923. Virginia Woolf (nagrodzona Oscarem za tę rolę Nicole Kidman, przez złośliwych wyszydzana za charakterystyczną protezę nosa) rozpoczyna prace nad kolejną powieścią, a mianowicie „Panią Dalloway”. Jednocześnie zmaga się z załamaniem nerwowym, apatią i poczuciem uwięzienia. Suburbia Los Angeles, rok 1951. Laura Brown (Julianne Moore), będąca w ciąży gospodyni, zajmuje się mężem, synem oraz pilnuje domowego ogniska. Jednocześnie zmaga się z załamaniem nerwowym, apatią i poczuciem uwięzienia. Nowy Jork, początek XXI wieku. Clarissa Vaughan (Meryl Streep) organizuje przyjęcie na cześć umierającego na AIDS poety, swojego dawnego kochanka. Jednocześnie zmaga się z załamaniem nerwowym, apatią i poczuciem uwięzienia. Choć Virginię, Laurę i Clarissę dzielą dekady, to łączy je wspólne doświadczenie, wynikające ze świadomości, iż codzienność, nawet jeśli z zewnątrz idealna, potrafi być udręką. Ekranizując nieadaptowalną ponoć i uhonorowaną Pulitzerem książkę Michaela Cunninghama z 1998 roku, Stephen Daldry stworzył poruszający tryptyk, który jest opowieścią o cenie, jaką płaci się za życie zgodne z oczekiwaniami innych, a zarazem o pragnieniu, by choć raz wybrać inną ścieżkę. GODZINY (2002), nominowane przez Akademię w dziewięciu kategoriach, entuzjastycznie przyjęte zarówno przez publiczność – o czym świadczą wpływy z kas biletowych – jak i krytykę, to historia napięć odczuwanych przez kobiety niezależnie od realiów, w jakich funkcjonują. W 2025 roku tytuł wpisano do National Film Registry, czyli na listę dzieł kinematograficznych budujących dziedzictwo kulturowe Stanów Zjednoczonych.\n\nEN\n\nThree women, three cities, three different eras. Richmond, near London, 1923. Virginia Woolf (Nicole Kidman, who won an Oscar for the role and was unkindly mocked by some for her distinctive prosthetic nose) begins work on her next novel, Mrs Dalloway . At the same time, she is struggling with a nervous breakdown, apathy and a profound sense of confinement.\n\nSuburban Los Angeles, 1951. Laura Brown (Julianne Moore), a pregnant housewife, looks after her husband and son and tends to the family home. At the same time, she is struggling with a nervous breakdown, apathy and a profound sense of confinement.New York, at the beginning of the 21st century. Clarissa Vaughan (Meryl Streep) is organising a party in honour of a poet dying of AIDS, who was once her lover. At the same time, she is struggling with a nervous breakdown, apathy and a profound sense of confinement. Although Virginia, Laura and Clarissa are separated by decades, they share a common experience: the realisation that everyday life, however perfect it may appear from the outside, can become a source of profound anguish.\n\nIn adapting Michael Cunningham’s supposedly unfilmable, Pulitzer Prize-winning 1998 novel, Stephen Daldry created a moving triptych about the price of living according to other people’s expectations, and the longing to choose a different path, if only once.\n\nNominated for nine Academy Awards and warmly received by both audiences – as reflected in its box-office success – and critics, THE HOURS (2002) explores the pressures experienced by women regardless of the time and circumstances in which they live. In 2025, the film was selected for inclusion in the National Film Registry, a collection of works recognised as part of the cultural heritage of the United States.",
+        "poster": "media/posters/80f009fb2fa1290ecbb8.webp"
+      },
+      {
+        "hour": "20:15",
+        "datetime": "2026-11-13 20:15:00",
+        "title": "M jak Mabel",
+        "originalTitle": "H is for Hawk",
+        "director": "Philippa Lowthorpe",
+        "year": "2025",
+        "premiereDate": "",
+        "duration": "114",
+        "countries": "Singapur, USA, Wielka Brytania",
+        "shortDesc": "<p>Poruszająca podróż po wspomnieniach Helen Macdonald, która mierzy się z żałobą po niespodziewanej śmierci ojca. Przygarnia jastrzębia o imieniu Mabel, który staje się jej całym światem. Helen zaczyna wierzyć, że Mabel uczy ją życia na nowo i staje się jej najlepszą przyjaciółką.</p>\n",
+        "lang": "en",
+        "subtitlesLang": "pl",
+        "age": "16",
+        "credits": "reż. Philippa Lowthorpe <br>Singapur, USA, Wielka Brytania <br>2025,114’",
+        "desc": "<p>Poruszająca podróż po wspomnieniach Helen Macdonald, która mierzy się z żałobą po niespodziewanej śmierci ojca. Przygarnia jastrzębia o imieniu Mabel, który staje się jej całym światem. Helen zaczyna wierzyć, że Mabel uczy ją życia na nowo i staje się jej najlepszą przyjaciółką.</p>\n",
+        "hall": "palacowe",
+        "movieLink": "https://www.kinomuza.pl/movie/m-jak-mabel/",
+        "ticketLink": "https://estradapoznan.bilety24.pl/kup-bilety/?id=1009805",
+        "prePremier": false,
+        "tape35mm": false,
+        "ad": false,
+        "deaf": false,
+        "ticketPrice": "",
+        "ticketHalfPrice": "",
+        "alt": "M jak Mabel",
+        "thumb": "https://www.kinomuza.pl/content/uploads/2026/10/m-jak-1-800x450.jpg",
+        "description": "Poruszająca podróż po wspomnieniach Helen Macdonald, która mierzy się z żałobą po niespodziewanej śmierci ojca. Przygarnia jastrzębia o imieniu Mabel, który staje się jej całym światem. Helen zaczyna wierzyć, że Mabel uczy ją życia na nowo i staje się jej najlepszą przyjaciółką.",
+        "shortDescription": "Poruszająca podróż po wspomnieniach Helen Macdonald, która mierzy się z żałobą po niespodziewanej śmierci ojca. Przygarnia jastrzębia o imieniu Mabel, który staje się jej całym światem. Helen zaczyna wierzyć, że Mabel uczy ją życia na nowo i staje się jej najlepszą przyjaciółką.",
+        "genres": [
+          "Dramat"
+        ],
+        "external": {
+          "imdb": {
+            "id": "tt10329560",
+            "url": "https://www.imdb.com/title/tt10329560/",
+            "rating": 6.6,
+            "votes": 2868
+          },
+          "filmweb": {
+            "id": "10048300",
+            "url": "https://www.filmweb.pl/film/M+jak+Mabel-2025-10048300",
+            "genres": [
+              "Dramat"
+            ],
+            "rating": 5.9,
+            "votes": 190
+          },
+          "rottenTomatoes": {
+            "url": "https://www.rottentomatoes.com/m/h_is_for_hawk",
+            "title": "H Is for Hawk",
+            "year": "2025",
+            "directors": [
+              "Philippa Lowthorpe"
+            ],
+            "criticsRating": 82,
+            "criticsVotes": 104,
+            "audienceRating": 75,
+            "audienceVotes": 135
+          }
+        },
+        "longDescription": "Pamiętacie przepięknego jastrzębia z HAMNETA, czuwającego przy Jessie Buckley? Ten ptak ponownie staje się bohaterem poruszającej historii o nieumiejętności przejścia przez żałobę, ale tym razem ma kluczową rolę. M JAK MABEL to zaskakująco kojąca i głęboko spirytualna produkcja Philippy Lowthorpe oparta na prawdziwych wspomnieniach przyrodniczki Helen Macdonald (w tej roli uwielbiana z THE CROWN Claire Foy).\n\nHelen nieoczekiwanie traci ojca (Brendan Gleeson) – cenionego fotografa prasowego i człowieka zakochanego w cudach świata. Jego córce traci poczucie sensu zawodowego, dystansuje się od rodziny i staje się coraz bardziej samotna. Jej życie zmienia się, gdy przygarnia majestatycznego jastrzębia, którego nazywa Mabel (z łaciny: „godna kochania”). Helen poświęca się całkowicie pielęgnowaniu jastrzębia, nawiązując z nim wyjątkową więź z nadzieją, że złagodzi jej cierpienie i pomoże uciec od frustrującej codzienności. Pojawiają się jednak obawy czy kobieta nie utożsamia się za bardzo z Mabel i traci kontakt z cywilizacją na rzecz natury.\n\nFilm Philippy Lowthorpe to czuła podróż po wspomnieniach bohaterki, doskonale zagranej przez Foy, łączącej w sobie tamowany potok przygnębienia i zachwyt nad dzikością natury. Ujęć na polującą Mabel nie powstydziliby się twórcy filmów przyrodniczych z Sir Davidem Attenborough, a Lowthorpe w przemyślany sposób przedstawia motyw ptaka jako ucieczki od trudnej rzeczywistości w duchu tradycji loachowskiego KESA. M JAK MABEL to budząca emocje lekcja wzbicia się ku wolności dla człowieka, którego paraliżuje żałoba i zaniedbanie samego siebie.\n\nEN\n\nRemember the magnificent hawk keeping watch beside Jessie Buckley in HAMNET? A bird of prey once again takes centre stage in a story about grief, but this time it becomes far more than a striking presence. Philippa Lowthorpe’s H IS FOR HAWK, based on the memoir by naturalist Helen Macdonald, is a surprisingly comforting and deeply spiritual story of loss, solitude and an extraordinary bond with the wild. Claire Foy, beloved for THE CROWN, stars as Helen.\n\nAfter the sudden death of her father (Brendan Gleeson), a respected photojournalist with an infectious sense of wonder about the world, Helen begins to lose her footing. Her work feels increasingly meaningless; she withdraws from her family and loneliness closes in. Everything changes when she takes on a magnificent goshawk and names her Mabel – from the Latin for “lovable”. Helen throws herself into training the bird, and an intense bond begins to form between them. She comes to see Mabel as both refuge and guide, hoping that life alongside this fierce, untamed creature might ease her grief and teach her how to inhabit the world again. But as Helen retreats further into Mabel’s world, a troubling question emerges: is she finding her way back to life, or disappearing into the wild?\n\nLowthorpe turns Helen’s memories into an intimate journey through mourning, anchored by Foy’s finely judged performance, in which barely contained sadness sits alongside an almost childlike awe at the natural world. The sequences of Mabel in flight and on the hunt have the arresting beauty of the finest wildlife filmmaking, while the hawk itself becomes a way of escaping a reality Helen can no longer bear – recalling the British tradition of KES.\n\nH IS FOR HAWK is ultimately a deeply affecting story about a person paralysed by grief learning, slowly and painfully, to take flight again.",
+        "poster": "media/posters/14f99b7443453475ae7e.webp"
+      },
+      {
+        "hour": "21:30",
+        "datetime": "2026-11-13 21:30:00",
+        "title": "Rozważna i Romantyczna 2026",
+        "originalTitle": "Sense and Sensibility",
+        "director": "Georgia Oakley",
+        "year": "2026",
+        "premiereDate": "",
+        "duration": "131",
+        "countries": "USA",
+        "shortDesc": "<p>Rewizja Austenowskiej prozy wydobywająca z kultowej powieści siostrzeństwo, emancypację i realizm epoki. Georgiańska Anglia. Po śmierci ojca siostry Dashwood wraz z matką zostają zmuszone opuścić dom. Nowa rzeczywistość stawia je w ogniu konwenansów, finansowych trudów i miłosnej niepewności.</p>\n",
+        "lang": "en",
+        "subtitlesLang": "pl",
+        "age": "16",
+        "credits": "reż. Georgia Oakley <br>USA <br>2026,131’",
+        "desc": "<p>Rewizja Austenowskiej prozy wydobywająca z kultowej powieści siostrzeństwo, emancypację i realizm epoki. Georgiańska Anglia. Po śmierci ojca siostry Dashwood wraz z matką zostają zmuszone opuścić dom. Nowa rzeczywistość stawia je w ogniu konwenansów, finansowych trudów i miłosnej niepewności.</p>\n",
+        "hall": "2",
+        "movieLink": "https://www.kinomuza.pl/movie/rozwazna-i-romantyczna-3/",
+        "ticketLink": "https://estradapoznan.bilety24.pl/kup-bilety/?id=1009795",
+        "prePremier": false,
+        "tape35mm": false,
+        "ad": false,
+        "deaf": false,
+        "ticketPrice": "",
+        "ticketHalfPrice": "",
+        "alt": "Rozważna i Romantyczna 2026",
+        "thumb": "https://www.kinomuza.pl/content/uploads/2026/08/romantyczna-5-800x450.jpg",
+        "description": "Rewizja Austenowskiej prozy wydobywająca z kultowej powieści siostrzeństwo, emancypację i realizm epoki. Georgiańska Anglia. Po śmierci ojca siostry Dashwood wraz z matką zostają zmuszone opuścić dom. Nowa rzeczywistość stawia je w ogniu konwenansów, finansowych trudów i miłosnej niepewności.",
+        "shortDescription": "Rewizja Austenowskiej prozy wydobywająca z kultowej powieści siostrzeństwo, emancypację i realizm epoki. Georgiańska Anglia. Po śmierci ojca siostry Dashwood wraz z matką zostają zmuszone opuścić dom. Nowa rzeczywistość stawia je w ogniu konwenansów, finansowych trudów i miłosnej niepewności.",
+        "genres": [
+          "Melodramat",
+          "Kostiumowy"
+        ],
+        "external": {
+          "imdb": {
+            "id": "tt13609648",
+            "url": "https://www.imdb.com/title/tt13609648/",
+            "rating": 7.4,
+            "votes": 5520
+          },
+          "filmweb": {
+            "id": "10087170",
+            "url": "https://www.filmweb.pl/film/Rozwa%C5%BCna+i+romantyczna-2026-10087170",
+            "genres": [
+              "Melodramat",
+              "Kostiumowy"
+            ],
+            "rating": 7.3,
+            "votes": 2262
+          },
+          "rottenTomatoes": {
+            "url": "https://www.rottentomatoes.com/m/sense_and_sensibility_2026",
+            "title": "Sense and Sensibility (2026)",
+            "year": "2026",
+            "directors": [
+              "Georgia Oakley"
+            ],
+            "criticsRating": 76,
+            "criticsVotes": 117,
+            "audienceRating": 89,
+            "audienceVotes": 701
+          }
+        },
+        "longDescription": "Rewizja klasycznej prozy Jane Austen, która debiutując w 1811 roku pod pseudonimem The Lady zaskoczyła czytelników bardziej ironicznym niż przesiąkniętym romantyzmem tonem, zjadliwym humorem i realistycznym obrazem epoki. Twórcy nowej ROZWAŻNEJ I ROMANTYCZNEJ nie tylko idą pierwotnym śladem niezmiennie uwielbianej pisarki, lecz także rozluźniają sznurowadła społecznego gorsetu, aby wydobyć motyw kobiecej emancypacji oraz siłę siostrzanej więzi. Wnikają przy tym w zawiłe niuanse georgiańskiej mentalności, odkrywając konflikt serca i rozwagi nie zawsze kończący się kliszą happy endu.\n\nWraz ze śmiercią pana Dashwooda jego trzy córki i druga żona zostają zmuszone do opuszczenia rodzinnej posiadłości. Zgodnie z dawnym angielskim prawem jego majątek dziedziczy męski spadkobierca, w tym przypadku syn z pierwszego małżeństwa. Siostry Dashwood zostają skazane na łaskę krewnych, mając świadomość jedynej akceptowanej społecznie drogi kobiecej stabilizacji – zamążpójścia. Najstarsze siostry, roztropna Elinor (oklaskiwana po występie w GDZIE ŚPIEWAJĄ RAKI Daisy Edgar-Jones) oraz podążająca za emocjami Marianne (znana z seriali HANNA i SANDMAN Esmé Creed-Miles), muszą sprostać oczekiwaniom drżącego przed etykietą środowiska i własnym dylematom serca.\n\nStojąca za kamerą Georgia Oakley (PTASZYNA, BLUE JEAN) po raz kolejny poraża wielką świadomością stylu zakorzenionego w wizualnym języku europejskich mistrzów, w tym francuskiej intymności czy wnikliwych obserwacjach ludzkich mechanizmów rodem z hiszpańskiego ekranu. Filmowe światy nominowanej do nagrody BAFTA brytyjskiej reżyserski przenika pewna doza zmysłowości, ale na próżno szukać w nich szablonowości czy upiększeń. Drogę do wciąż aktualnej problematyki społecznej wyznacza w nich kontekst historyczny, queerowa wrażliwość i psychologia postaci. Z pomocą australijskiej scenarzystki Diany Reid twórczynie przepuszczają przez realistyczny filtr ponadczasowe emocje i perypetie sióstr Dashwood poszukujących własnego miejsca w świecie.\n\nEN\n\nA fresh take on Jane Austen’s classic novel, first published in 1811 under the pseudonym “A Lady”, which surprised readers with a tone more ironic than romantic, a sharp wit and a clear-eyed portrait of its age. The makers of the new SENSE AND SENSIBILITY not only follow in the footsteps of the ever-beloved author, but also loosen the stays of social convention to bring female emancipation and the strength of sisterhood to the fore. At the same time, they delve into the intricacies of the Georgian mindset, exploring a conflict between feeling and reason that does not always resolve itself into the reassuring shape of a happy ending.\n\nAfter Mr Dashwood’s death, his second wife and three daughters are forced to leave the family estate. Under the inheritance laws of the time, his property passed to a male heir – in this case, his son from his first marriage. The Dashwood sisters are left dependent on the goodwill of relatives and acutely aware that marriage remains the only socially acceptable route to security. The two eldest, the sensible Elinor (Daisy Edgar-Jones, acclaimed for her performance in WHERE THE CRAWDADS SING) and the more impulsive Marianne (Esmé Creed-Miles, known from HANNA and THE SANDMAN), must navigate both the expectations of a society in thrall to etiquette and the complications of their own hearts.\n\nDirector Georgia Oakley (LITTLE BIRD, BLUE JEAN) once again displays a striking command of style, rooted in the visual language of European cinema – from French intimacy to the acute observation of human behaviour associated with Spanish film. A certain sensuality runs through the work of the BAFTA-nominated British filmmaker, yet there is little room for formula or prettification. Historical context, queer sensitivity and close attention to character psychology become her routes into social questions that remain strikingly relevant. Working with Australian screenwriter Diana Reid, Oakley refracts the timeless emotions and romantic entanglements of the Dashwood sisters through a realist lens as they search for a place of their own in the world.",
+        "poster": "media/posters/f97dfdbb297b0bd5c374.webp"
+      },
+      {
+        "hour": "21:45",
+        "datetime": "2026-11-13 21:45:00",
+        "title": "Pillion",
+        "originalTitle": "",
+        "director": "Harry Lighton",
+        "year": "2025",
+        "premiereDate": "2026-02-20",
+        "duration": "107",
+        "countries": "Wielka Brytania, Irlandia",
+        "shortDesc": "<p>Bezkompromisowy romans eksplorujący queerowe środowisko BDSM. Colin z uroczego miasta Bromley zakochuje się w tajemnicznym motocykliście Ray’u. Chłopak coraz chętniej wchodzi w świat swobody seksualnej, poznaje uroki, ale też trudy pierwszych relacji.</p>\n",
+        "lang": "pl",
+        "subtitlesLang": "pl",
+        "age": "16",
+        "credits": "reż. Harry Lighton <br>Wielka Brytania, Irlandia <br>2025,107’",
+        "desc": "<p>Bezkompromisowy romans eksplorujący queerowe środowisko BDSM. Colin z uroczego miasta Bromley zakochuje się w tajemnicznym motocykliście Ray’u. Chłopak coraz chętniej wchodzi w świat swobody seksualnej, poznaje uroki, ale też trudy pierwszych relacji.</p>\n",
+        "hall": "3",
+        "movieLink": "https://www.kinomuza.pl/movie/pillion/",
+        "ticketLink": "https://estradapoznan.bilety24.pl/kup-bilety/?id=1009798",
+        "prePremier": false,
+        "tape35mm": false,
+        "ad": false,
+        "deaf": false,
+        "ticketPrice": "",
+        "ticketHalfPrice": "",
+        "alt": "Pillion",
+        "thumb": "https://www.kinomuza.pl/content/uploads/2026/01/palion-3-800x450.jpg",
+        "description": "Bezkompromisowy romans eksplorujący queerowe środowisko BDSM. Colin z uroczego miasta Bromley zakochuje się w tajemnicznym motocykliście Ray’u. Chłopak coraz chętniej wchodzi w świat swobody seksualnej, poznaje uroki, ale też trudy pierwszych relacji.",
+        "shortDescription": "Bezkompromisowy romans eksplorujący queerowe środowisko BDSM. Colin z uroczego miasta Bromley zakochuje się w tajemnicznym motocykliście Ray’u. Chłopak coraz chętniej wchodzi w świat swobody seksualnej, poznaje uroki, ale też trudy pierwszych relacji.",
+        "genres": [
+          "Melodramat"
+        ],
+        "external": {
+          "imdb": {
+            "id": "tt32321317",
+            "url": "https://www.imdb.com/title/tt32321317/",
+            "rating": 6.9,
+            "votes": 25292
+          },
+          "filmweb": {
+            "id": "10053146",
+            "url": "https://www.filmweb.pl/film/Pillion-2025-10053146",
+            "genres": [
+              "Melodramat"
+            ],
+            "rating": 6.5,
+            "votes": 6245
+          },
+          "rottenTomatoes": {
+            "url": "https://www.rottentomatoes.com/m/pillion",
+            "title": "Pillion",
+            "year": "2025",
+            "directors": [
+              "Harry Lighton"
+            ],
+            "criticsRating": 99,
+            "criticsVotes": 201,
+            "audienceRating": 89,
+            "audienceVotes": 322
+          }
+        },
+        "longDescription": "Harry Lighton to debiutant z Hampshire, który zaskoczył publiczność Cannes bezkompromisowym PILLIONEM, eksplorującym queerowe środowisko BDSM. Reżyser podąża raczej ścieżką DUKE OF BURGUNDY Stricklanda czy BABYGIRL Reijn (nie tylko przez świąteczną aurę) niż hollywoodzkiej serii 50 TWARZY GREYA – i bardzo dobrze na tym wychodzi. Adaptując książkę Adama Marsa-Jonesa, nie tylko zaskakuje swobodą I luzem w poruszaniu się po strefie tabu, ale ma też odwagę w stawianiu pytań o nieumiejętność komunikowania pragnień i granic.\n\nW przeciwieństwie do oryginału literackiego, PILLION dzieje się współcześnie w uroczym mieście Bromley. Colin (Harry Melling) dryfuje przez życie bez grama adrenaliny, wspierany przez swoich rodziców. Nieoczekiwanie ze strefy komfortu – ale też ku wolności seksualnej – wyciąga go tajemniczy motocyklista Ray (Alexander Skarsgård). Parafrazując Rihannę, Colina zaczynają podniecać skóry i łańcuchy i z przyjemnością zajmuje tylne siedzenie zarezerwowane dla uległego w szalonej fetyszystycznej przejażdżce z facetem marzeń.\n\nLighton ma większe ambicje niż zrealizowanie komedii erotycznej szokującej niekonwencjonalnym seksem. Nie można mu odmówić zmysłowości i humoru z pazurem, ale to uczciwa, nieoceniająca perspektywa na odkrywanie rynku randkowego przez młodego geja jest jego największym atutem. Z dużym wyczuciem i zrozumieniem podchodzi też do gejowskiego środowiska motocyklistów, a ich przedstawiciele nie tylko konsultowali pomysły Lightona, ale też zagrali jako aktorzy-naturszczycy, wzmacniając autentyczność PILLIONA. To jeden z najbardziej nieoczywistych (i ponętnie przebranych) debiutów brytyjskich, słusznie nagrodzony za scenariusz w konkursie Un Certain Regard na festiwalu w Cannes.\n\nEN\n\nHarry Lighton, a first-time filmmaker from Hampshire, made a striking Cannes debut with PILLION, an uncompromising exploration of queer BDSM culture. The film sits closer to Peter Strickland’s THE DUKE OF BURGUNDY or Halina Reijn’s BABYGIRL than to the glossy fantasy of FIFTY SHADES OF GREY – and benefits from that distinction. In adapting Adam Mars-Jones’s novel, Lighton moves through taboo territory with remarkable ease, while asking sharper questions about desire, boundaries and the difficulty of communicating both.\n\nUnlike the novel, PILLION unfolds in the present day, in the quiet suburban setting of Bromley. Colin (Harry Melling) is drifting through life without much excitement, closely supported by his parents. His routine is abruptly disrupted by Ray (Alexander Skarsgård), a mysterious biker who draws him out of his comfort zone and into a world of sexual freedom. Leather, chains and submission become part of a relationship that initially seems to offer Colin both escape and fulfilment.\n\nLighton’s ambitions reach far beyond provocation. The film is sensual, funny and often sharply observed, but its real strength lies in its candid, non-judgemental depiction of a young gay man learning how to navigate desire, intimacy and power. The gay biker community is portrayed with similar care: members of the scene advised Lighton during development and also appear as non-professional performers, giving the film an added sense of authenticity.\n\nThe result is one of the more distinctive British debuts of recent years: playful, provocative and unusually assured. Its screenplay was awarded in the Un Certain Regard section at Cannes.",
+        "poster": "media/posters/2338b94fe141bd9dfd0d.webp"
+      },
+      {
+        "hour": "22:00",
+        "datetime": "2026-11-13 22:00:00",
+        "title": "The Fall of Sir Douglas Weatherford",
+        "originalTitle": "",
+        "director": "Sean Robert Dunn",
+        "year": "2026",
+        "premiereDate": "",
+        "duration": "95",
+        "countries": "Wielka Brytania",
+        "shortDesc": "<p>Melancholijna satyra na kulturę fanowską, ale też szkocką mentalność reprezentowaną przez Kennetha. Mężczyzna jest przewodnikiem turystycznym, szczycącym się spokrewnieniem z Sir Douglasem Weatherfordem. Gdy jego miasto najeżdża ekipa serialu fantasy, postanawia przypomnieć rodakom o ich historii.</p>\n",
+        "lang": "en",
+        "subtitlesLang": "pl",
+        "age": "16",
+        "credits": "reż. Sean Robert Dunn <br>Wielka Brytania <br>2026,95’",
+        "desc": "<p>Melancholijna satyra na kulturę fanowską, ale też szkocką mentalność reprezentowaną przez Kennetha. Mężczyzna jest przewodnikiem turystycznym, szczycącym się spokrewnieniem z Sir Douglasem Weatherfordem. Gdy jego miasto najeżdża ekipa serialu fantasy, postanawia przypomnieć rodakom o ich historii.</p>\n",
+        "hall": "palacowe",
+        "movieLink": "https://www.kinomuza.pl/movie/the-fall-of-sir-douglas-weatherford/",
+        "ticketLink": "https://estradapoznan.bilety24.pl/kup-bilety/?id=1009802",
+        "prePremier": false,
+        "tape35mm": false,
+        "ad": false,
+        "deaf": false,
+        "ticketPrice": "",
+        "ticketHalfPrice": "",
+        "alt": "The Fall of Sir Douglas Weatherford",
+        "thumb": "https://www.kinomuza.pl/content/uploads/2026/10/thefall-2-800x450.jpg",
+        "description": "Melancholijna satyra na kulturę fanowską, ale też szkocką mentalność reprezentowaną przez Kennetha. Mężczyzna jest przewodnikiem turystycznym, szczycącym się spokrewnieniem z Sir Douglasem Weatherfordem. Gdy jego miasto najeżdża ekipa serialu fantasy, postanawia przypomnieć rodakom o ich historii.",
+        "shortDescription": "Melancholijna satyra na kulturę fanowską, ale też szkocką mentalność reprezentowaną przez Kennetha. Mężczyzna jest przewodnikiem turystycznym, szczycącym się spokrewnieniem z Sir Douglasem Weatherfordem. Gdy jego miasto najeżdża ekipa serialu fantasy, postanawia przypomnieć rodakom o ich historii.",
+        "genres": [
+          "Czarna komedia"
+        ],
+        "external": {
+          "imdb": {
+            "id": "tt32293052",
+            "url": "https://www.imdb.com/title/tt32293052/",
+            "rating": 6.1,
+            "votes": 333
+          },
+          "filmweb": {
+            "id": "10053069",
+            "url": "https://www.filmweb.pl/film/The+Fall+of+Sir+Douglas+Weatherford-2026-10053069",
+            "genres": [
+              "Czarna komedia"
+            ],
+            "rating": 5,
+            "votes": 6
+          },
+          "rottenTomatoes": null
+        },
+        "longDescription": "HARRY POTTER, OUTLANDER czy produkcje Marvela bardzo upodobały sobie szkocki pejzaż w roli tła realizowanych z rozmachem historii. W ten sposób zagwarantowały lokalnym społecznościom pielgrzymki rzeszy fanów, za którymi idą spore zyski, ale również komercjalizacja cudzej rzeczywistości. Nie inaczej jest w THE FALL OF SIR DOUGLAS WEATHERFORD, melancholijnej satyrze debiutującego reżysera Seána Dunna. Szkocki filmowiec, doskonale rozeznany w narodowej mentalności, punktuje absurdy obsesyjnego fanostwa i krytycznie podchodzi do ekspansywnej branży filmowej, dla której kreowanie rzeczywistości jest istotniejsze niż świat realny.\n\nDunn nie zapomina przy tym o intymniejszym wymiarze, czyli portrecie Kennetha (Peter Mullan znany z TRAINSPOTTING i JESTEM JOE), dojrzałego samotnego człowieka, który nie potrafi odnaleźć się w czasach późnego kapitalizmu. Kenneth jest przewodnikiem turystycznym w małym miasteczku, który ma obsesję na punkcie Sir Douglasa Weatherforda – jego rzekomego przodka. Gdy jego mała ojczyzna zostaje najechana przez ekipę filmową produkcji fantasy, dziedzictwo miasta przestaje być ważne nawet dla lokalnej społeczności. Kenneth postanawia wziąć sprawy w swoje ręce, aby przypomnieć rodakom ich historię.\n\nW oczach Dunna bohater ma aurę miejscowego dziwaka, ale nigdy nie skręca w stronę karykatury. Z jednej strony z przymrużeniem oka obśmiewa jego snobizm i stawia znak równości między idealizowaniem celebrytów oraz figur historycznych, a jednocześnie sympatyzuje z człowiekiem pogrążonym w żałobie, trzymającym się kurczowo przeszłości i oddalającym się tym samym od rodziny. Dunn nie boi się eksperymentowania gatunkowego i obdarza Mullana ogromnym zaufaniem, co procentuje w postaci doskonałego popisu aktorskiego.\n\nEN\n\nHARRY POTTER, OUTLANDER and Marvel productions have all made liberal use of the Scottish landscape as a backdrop for large-scale storytelling. In doing so, they have brought waves of fans to local communities, along with substantial profits – but also the commercialisation of other people’s lived reality. The same tension runs through THE FALL OF SIR DOUGLAS WEATHERFORD, a melancholic satire from first-time director Seán Dunn. Deeply attuned to the national character, the Scottish filmmaker skewers the absurdities of obsessive fandom while taking a critical view of an expansive film industry more interested in manufacturing reality than engaging with the real world.\n\nDunn does not lose sight of the film’s more intimate dimension: the portrait of Kenneth (Peter Mullan, known for TRAINSPOTTING and MY NAME IS JOE), an ageing loner unable to find his place in the world of late capitalism. Kenneth works as a tour guide in a small town and is obsessed with Sir Douglas Weatherford, his supposed ancestor. When a fantasy film crew descends on his home town, even the local community begins to lose interest in its own heritage. Kenneth decides to take matters into his own hands and remind his fellow townspeople of their history.\n\nIn Dunn’s hands, Kenneth has the air of a local eccentric, but the character never tips into caricature. On the one hand, the director gently mocks his snobbery and draws a parallel between the idealisation of celebrities and historical figures; on the other, he remains sympathetic to a grieving man clinging to the past and, in the process, drifting away from his family. Dunn is unafraid to experiment with genre and places considerable trust in Mullan – a choice that pays off in a remarkable performance.",
+        "poster": "media/posters/13c37c7996dcd3803283.webp"
+      },
+      {
+        "hour": "22:15",
+        "datetime": "2026-11-13 22:15:00",
+        "title": "Rebelia",
+        "originalTitle": "The Uprising",
+        "director": "Paul Greengrass",
+        "year": "2026",
+        "premiereDate": "",
+        "duration": "128",
+        "countries": "Wielka Brytania, USA, Niemcy",
+        "shortDesc": "<p>Oparte na faktycznym powstaniu Wata Tylera z 1381 roku historyczne widowisko stawiające pytanie o cenę wolności w czasach feudalnego ucisku. Wyniszczony epidemią dżumy i represyjnym podatkiem pogłównym lud średniowiecznej Anglii wszczyna rebelię przeciwko szlachcie i tyranii króla Ryszarda II.</p>\n",
+        "lang": "en",
+        "subtitlesLang": "pl",
+        "age": "16",
+        "credits": "reż. Paul Greengrass <br>Wielka Brytania, USA, Niemcy <br>2026,128’",
+        "desc": "<p>Oparte na faktycznym powstaniu Wata Tylera z 1381 roku historyczne widowisko stawiające pytanie o cenę wolności w czasach feudalnego ucisku. Wyniszczony epidemią dżumy i represyjnym podatkiem pogłównym lud średniowiecznej Anglii wszczyna rebelię przeciwko szlachcie i tyranii króla Ryszarda II.</p>\n",
+        "hall": "rialto",
+        "movieLink": "https://www.kinomuza.pl/movie/rebelia/",
+        "ticketLink": "https://estradapoznan.bilety24.pl/kup-bilety/?id=1009809",
+        "prePremier": false,
+        "tape35mm": false,
+        "ad": false,
+        "deaf": false,
+        "ticketPrice": "",
+        "ticketHalfPrice": "",
+        "alt": "Rebelia",
+        "thumb": "https://www.kinomuza.pl/content/uploads/2026/10/UPRISING_Still_9-800x450.jpg",
+        "description": "Oparte na faktycznym powstaniu Wata Tylera z 1381 roku historyczne widowisko stawiające pytanie o cenę wolności w czasach feudalnego ucisku. Wyniszczony epidemią dżumy i represyjnym podatkiem pogłównym lud średniowiecznej Anglii wszczyna rebelię przeciwko szlachcie i tyranii króla Ryszarda II.",
+        "shortDescription": "Oparte na faktycznym powstaniu Wata Tylera z 1381 roku historyczne widowisko stawiające pytanie o cenę wolności w czasach feudalnego ucisku. Wyniszczony epidemią dżumy i represyjnym podatkiem pogłównym lud średniowiecznej Anglii wszczyna rebelię przeciwko szlachcie i tyranii króla Ryszarda II.",
+        "genres": [
+          "Historyczny",
+          "Akcja"
+        ],
+        "external": {
+          "imdb": {
+            "id": "tt36983905",
+            "url": "https://www.imdb.com/title/tt36983905/",
+            "rating": 6.2,
+            "votes": 12586
+          },
+          "filmweb": {
+            "id": "10122362",
+            "url": "https://www.filmweb.pl/film/Rebelia-2026-10122362",
+            "genres": [
+              "Historyczny",
+              "Akcja"
+            ],
+            "rating": 5.6,
+            "votes": 571
+          },
+          "rottenTomatoes": {
+            "url": "https://www.rottentomatoes.com/m/the_uprising_2026",
+            "title": "The Uprising (2026)",
+            "year": "2026",
+            "directors": [
+              "Paul Greengrass"
+            ],
+            "criticsRating": 57,
+            "criticsVotes": 122,
+            "audienceRating": 65,
+            "audienceVotes": 575
+          }
+        },
+        "longDescription": "Oparte na prawdziwych wydarzeniach historycznych widowisko stawiające pytanie o cenę wolności w czasach feudalnego ucisku. XIV-wieczny lud Anglii pozostaje wyniszczony epidemią dżumy, represjami ze strony władzy i społecznymi napięciami. Na wieść o bezwzględnych planach możnowładców i nałożeniu podatku uderzającego w najuboższych, stojący na skraju wytrzymałości chłopi postanawiają sprzeciwić się tyranii Ryszarda II. Opór kilkorga z nich na czele z młodym rebeliantem (charyzmatyczny Andrew Garfield) przeistacza się w falę wściekłości, która w krótkim czasie rozprzestrzenia się na cały kraj. Uciskani postanawiają wypowiedzieć wojnę koronie.\n\nGdy w 1381 roku śmiałkowie z Esseksu i Kentu pod przewodnictwem Wata Tylera i mobilizowani przez kaznodzieję Johna Balla wszczęli bunt przeciwko wyzyskowi oraz nałożeniu podatku obciążającego jednostki niezależnie od wielkości ich dochodu, nikt nie zakładał, że powstanie doprowadzi do marszu na Londyn. Krwawe zamieszki zakończyło równie brutalne stłumienie przez siły króla, ale mit wolności i walki o sprawiedliwość na dobre zakorzenił się w mentalności angielskich chłopów, doprowadzając do narodzin legendy o Robin Hoodzie.\n\nWyróżniony BAFTA i nominowany do Oscara za LOT 93 (2006) reżyser Paul Greengrass spogląda na przepełnioną gniewem historię z charakterystycznym dla siebie reporterskim stylem, nie szczędząc jednak okrucieństwa, intensywnej konwencji i dynamicznej kamery. Rozedrgane ujęcia oddają emocjonalną motywację zrywu wyznaczającego punkt zwrotny w dziejach średniowiecznej Anglii i po upływie stuleci inspirującego polityczną lewicę.\n\nEN\n\nA historical epic based on real events, THE UPRISING asks what freedom is worth in an age of feudal oppression. Fourteenth-century England has been ravaged by plague, repression and mounting social unrest. When word spreads of the ruling elite’s ruthless plans and a tax that falls hardest on the poorest, peasants already pushed to the breaking point decide to resist the tyranny of Richard II. What begins with a handful of rebels, led by a charismatic young insurgent (Andrew Garfield), soon swells into a wave of anger sweeping across the country. The oppressed are ready to wage war on the Crown.\n\nIn 1381, rebels from Essex and Kent, led by Wat Tyler and rallied by the preacher John Ball, rose against exploitation and a poll tax levied regardless of income. Few could have foreseen that the revolt would culminate in a march on London.\n\nThe bloody riots were brought to an end by an equally brutal crackdown by the king’s forces. But the myth of freedom and the struggle for justice took firm root in the minds of the English peasants, leading to the birth of the legend of Robin Hood.\n\nBAFTA-winning director Paul Greengrass, who received an Academy Award nomination for UNITED 93 (2006), approaches this story of rage and rebellion with his characteristic journalistic immediacy, while fully embracing its brutality, intensity and restless camerawork. The jittery, urgent images capture the emotional force behind an uprising that marked a turning point in medieval English history and, centuries later, would continue to inspire the political left.",
+        "poster": "media/posters/31d2d5dd4d0f0cdce511.webp"
+      },
+      {
+        "hour": "22:30",
+        "datetime": "2026-11-13 22:30:00",
+        "title": "Dobry chłopiec",
+        "originalTitle": "GOOD BOY",
+        "director": "Jan Komasa",
+        "year": "2025",
+        "premiereDate": "2026-03-06",
+        "duration": "110",
+        "countries": "Polska, Wielka Brytania",
+        "shortDesc": "<p>Polsko-brytyjska koprodukcja w reżyserii Jana Komasy z bezbłędnym Stephenem Grahamem. Mieszając thriller z czarną komedią zamyka w piwnicy chuligana Tommy’ego, którego próbuje naprostować pozornie potulna rodzina. Ich metody wychowawcze okazują się skrajnie radykalne.</p>\n",
+        "lang": "en",
+        "subtitlesLang": "pl",
+        "age": "16",
+        "credits": "reż. Jan Komasa <br>Polska, Wielka Brytania <br>2025,110’",
+        "desc": "<p>Polsko-brytyjska koprodukcja w reżyserii Jana Komasy z bezbłędnym Stephenem Grahamem. Mieszając thriller z czarną komedią zamyka w piwnicy chuligana Tommy’ego, którego próbuje naprostować pozornie potulna rodzina. Ich metody wychowawcze okazują się skrajnie radykalne.</p>\n",
+        "hall": "palacowe",
+        "movieLink": "https://www.kinomuza.pl/movie/dobry-chlopiec/",
+        "ticketLink": "https://estradapoznan.bilety24.pl/kup-bilety/?id=1009806",
+        "prePremier": false,
+        "tape35mm": false,
+        "ad": false,
+        "deaf": false,
+        "ticketPrice": "",
+        "ticketHalfPrice": "",
+        "alt": "Dobry chłopiec",
+        "thumb": "https://www.kinomuza.pl/content/uploads/2026/01/dobry-chlopiec-2-800x450.jpg",
+        "description": "Polsko-brytyjska koprodukcja w reżyserii Jana Komasy z bezbłędnym Stephenem Grahamem. Mieszając thriller z czarną komedią zamyka w piwnicy chuligana Tommy’ego, którego próbuje naprostować pozornie potulna rodzina. Ich metody wychowawcze okazują się skrajnie radykalne.",
+        "shortDescription": "Polsko-brytyjska koprodukcja w reżyserii Jana Komasy z bezbłędnym Stephenem Grahamem. Mieszając thriller z czarną komedią zamyka w piwnicy chuligana Tommy’ego, którego próbuje naprostować pozornie potulna rodzina. Ich metody wychowawcze okazują się skrajnie radykalne.",
+        "genres": [
+          "Thriller"
+        ],
+        "external": {
+          "imdb": {
+            "id": "tt35521922",
+            "url": "https://www.imdb.com/title/tt35521922/",
+            "rating": 6.1,
+            "votes": 38591
+          },
+          "filmweb": {
+            "id": "10064809",
+            "url": "https://www.filmweb.pl/film/Dobry+ch%C5%82opiec-2025-10064809",
+            "genres": [
+              "Thriller"
+            ],
+            "rating": 7.2,
+            "votes": 15331
+          },
+          "rottenTomatoes": null
+        },
+        "longDescription": "Do czego można się posunąć, aby skutecznie zresocjalizować trudną, agresywną jednostkę? Czy miłością i troską można usprawiedliwiać przemoc w metodach wychowawczych? Czy cel uświęca środki? To pytania, które zadaje poznański reżyser Jan Komasa (SALA SAMOBÓJCÓW, BOŻE CIAŁO) i zdają się być jego kluczowymi zainteresowaniami, co udowadnia w również swojej drugiej produkcji międzynarodowej.\n\nW roli tytułowego DOBREGO CHŁOPCA, czyli Tommy’ego występuje Anson Boon, młody brytyjski aktor, który w serialu STREFIE GANGSTERÓW terroryzuje Londyn jako Eddie Harrigan i aż się prosi o guza. Możliwe, że antypatyczne postaci to jego emploi, ponieważ w filmie Komasy jest równie brutalny, bezczelny i odurzony władzą nad zastraszonymi ludźmi. Jednak czas hulanki dla niegrzecznego chłopca kończy się, gdy po intensywnej imprezie zostaje porwany przez tajemniczego Chrisa (Stephen Graham). Tommy budzi się uwięziony w piwnicy potulnej rodziny, która z całą swoją „miłością” będzie skłonna wymierzyć mu baty, wierząc, że przemocą i siłą naprostują zepsutego członka społeczeństwa.\n\nKomasa tworzy swoją odpowiedź na MECHANICZNĄ POMARAŃCZĘ i to z ponurym humorem, którego nie powstydziłby się Lanthimos. Reżyser w debiutanckim scenariuszu Bartka Bartosika odnalazł surowość balansującą z absurdami, przemoc przenikającą się z wrażliwością, co umożliwiło mu doskonałą zabawę gatunkową. W tych sprzecznościach idealnie odnalazła się obsada, w szczególności Stephen Graham o twarzy najbardziej poczciwego taty, którego nagłe przemiany w surowego wychowawcę mrożą krew w żyłach. Kino Komasy niezmiennie prowokuje i porusza się po niewygodnej szarej strefie, w której wytyczone granice wewnątrz rodziny jako systemu są bardzo cienkie. Wyjątkowa polsko-brytyjska koprodukcja.\n\nEN\n\nHow far can you go in trying to reform someone violent and difficult? Can care and affection ever justify brutality as a method of discipline? Do the ends justify the means? These are the questions posed by Poznań-born director Jan Komasa (SUICIDE ROOM, CORPUS CHRISTI), and they seem to lie at the heart of his work, as his second international production once again makes clear.\n\nThe title character, Tommy, is played by Anson Boon, the young British actor who terrorises London as Eddie Harrigan in the series MOBLAND and seems almost designed to invite trouble. Unsympathetic characters may well be his forte: in Komasa’s film, Tommy is just as brutal, cocky and intoxicated by the power he holds over those around him. But the good times end abruptly when, after a heavy night out, he is abducted by the mysterious Chris (Stephen Graham). Tommy wakes up locked in the basement of an outwardly mild-mannered family who, with all their talk of “love”, are perfectly prepared to beat him into submission, convinced that force and violence can straighten out a damaged member of society.\n\nKomasa offers his own answer to A CLOCKWORK ORANGE, with a streak of bleak humour that would not feel out of place in a Lanthimos film. In Bartek Bartosik’s debut screenplay, he finds a productive tension between rawness and absurdity, violence and vulnerability, giving him plenty of room to play with genre. The cast are completely at home in these contradictions, particularly Stephen Graham, whose genial, fatherly face makes his sudden shifts into stern disciplinarian all the more chilling.\n\nKomasa’s cinema remains confrontational, drawn to uncomfortable grey areas where the boundaries within the family as a system become dangerously thin. A distinctive Polish-British co-production.",
+        "poster": "media/posters/58a19647a6c213cbfdee.webp"
+      },
+      {
+        "hour": "22:45",
+        "datetime": "2026-11-13 22:45:00",
+        "title": "Gothic",
+        "originalTitle": "",
+        "director": "Ken Russell",
+        "year": "1986",
+        "premiereDate": "",
+        "duration": "87",
+        "countries": "Wielka Brytania ",
+        "shortDesc": "<p>Czerwiec 1816 roku, Villa Diodati nad Jeziorem Genewskim. Byron, Shelleyowie i doktor Polidori postanawiają opowiedzieć sobie historie o duchach, a wieczór zamienia się w narkotyczny koszmar. Ken Russell opowiada o nocy, z której wyszedł FRANKENSTEIN – i robi to z niemalże barokową bezczelnością.</p>\n",
+        "lang": "en",
+        "subtitlesLang": "pl",
+        "age": "16",
+        "credits": "reż. Ken Russell <br>Wielka Brytania  <br>1986,87’",
+        "desc": "<p>Czerwiec 1816 roku, Villa Diodati nad Jeziorem Genewskim. Byron, Shelleyowie i doktor Polidori postanawiają opowiedzieć sobie historie o duchach, a wieczór zamienia się w narkotyczny koszmar. Ken Russell opowiada o nocy, z której wyszedł FRANKENSTEIN – i robi to z niemalże barokową bezczelnością.</p>\n",
+        "hall": "1",
+        "movieLink": "https://www.kinomuza.pl/movie/gothic/",
+        "ticketLink": "https://estradapoznan.bilety24.pl/kup-bilety/?id=1009792",
+        "prePremier": false,
+        "tape35mm": false,
+        "ad": false,
+        "deaf": false,
+        "ticketPrice": "",
+        "ticketHalfPrice": "",
+        "alt": "Gothic",
+        "thumb": "https://www.kinomuza.pl/content/uploads/2026/10/got-1-800x450.jpg",
+        "description": "Czerwiec 1816 roku, Villa Diodati nad Jeziorem Genewskim. Byron, Shelleyowie i doktor Polidori postanawiają opowiedzieć sobie historie o duchach, a wieczór zamienia się w narkotyczny koszmar. Ken Russell opowiada o nocy, z której wyszedł FRANKENSTEIN – i robi to z niemalże barokową bezczelnością.",
+        "shortDescription": "Czerwiec 1816 roku, Villa Diodati nad Jeziorem Genewskim. Byron, Shelleyowie i doktor Polidori postanawiają opowiedzieć sobie historie o duchach, a wieczór zamienia się w narkotyczny koszmar. Ken Russell opowiada o nocy, z której wyszedł FRANKENSTEIN – i robi to z niemalże barokową bezczelnością.",
+        "genres": [
+          "Horror"
+        ],
+        "external": {
+          "imdb": {
+            "id": "tt0091142",
+            "url": "https://www.imdb.com/title/tt0091142/",
+            "rating": 5.7,
+            "votes": 10215
+          },
+          "filmweb": {
+            "id": "5908",
+            "url": "https://www.filmweb.pl/film/Gotyk-1986-5908",
+            "genres": [
+              "Horror"
+            ],
+            "rating": 6.4,
+            "votes": 2598
+          },
+          "rottenTomatoes": {
+            "url": "https://www.rottentomatoes.com/m/gothic",
+            "title": "Gothic",
+            "year": "1986",
+            "directors": [
+              "Ken Russell"
+            ],
+            "criticsRating": 60,
+            "criticsVotes": 15,
+            "audienceRating": 49,
+            "audienceVotes": 587
+          }
+        },
+        "longDescription": "Jest czerwiec 1816 roku. W wynajętej willi zamknięci przez pogodę Lord Byron, Percy Bysshe Shelley, Mary Godwin, Claire Clairmont i doktor John Polidori rzucili sobie wyzwanie: każde z nich miało napisać opowieść o duchach. Dzięki jednej nocy powstały FRANKENSTEIN i WAMPIR – dwa teksty, na których stoi całe nowoczesne kino grozy. GOTYK Kena Russella opowiada właśnie o niej.\n\nNie jest to jednak film kostiumowy. Russell nie próbuje zrekonstruować historycznego wieczoru, tylko inscenizuje go jako zbiorowego bad tripa. Towarzystwo najpierw czyta niemieckie opowieści o duchach, potem urządza seans spirytystyczny, a następnie wspomaga się laudanum i zaczyna kolejno konfrontować z tym, czego każde z nich boi się najbardziej. Wraz z postępem nocy coraz trudniej orzec, czy w willi jest z nimi coś jeszcze, czy po prostu pięcioro romantyków wywołało własne demony i nie ma pojęcia, jak je odesłać.\n\nKen Russell, największy ekscentryk brytyjskiego kina i autor DIABŁÓW oraz ODMIENNYCH STANÓW ŚWIADOMOŚCI, chodził wokół tego tematu przez dekadę. Gdy wreszcie dostał dwa miliony funtów budżetu, nakręcił film w posiadłości w Hertfordshire udającej szwajcarską willę i puścił wodze fantazji: ze scenariusza Stephena Volka wyciął prolog i epilog i dorzucił mechanicznego manekina. A do współpracy zaprosił Gabriela Byrne’a, Juliana Sandsa, Tomothy’ego Spalla i Natashę Richardson.\n\nJeśli dodamy do tego syntezatorową muzykę, otrzymamy coś, co można nazwać filmowym odpowiednikiem majaków po absyncie. Krytycy GOTYKU nienawidzili, ale dla fanów odważnych dziwactw jest to film kultowy.\n\nEN\n\nIt is June 1816. Trapped indoors by the weather in a rented villa, Lord Byron, Percy Bysshe Shelley, Mary Godwin, Claire Clairmont and Dr John Polidori set each other a challenge: each of them was to write a ghost story. Out of that single night came FRANKENSTEIN and THE VAMPIRE – two texts on which modern horror cinema was built. Ken Russell’s GOTHIC is about that very night.\n\nThis is no conventional period drama, though. Russell does not attempt to reconstruct the evening with historical fidelity; instead, he stages it as one long collective bad trip. The group starts by reading German ghost stories; then holds a séance, doses themselves with laudanum, and, one by one, comes face to face with whatever each of them fears most. Over the course of the night, it gets harder to tell if there is really something else in the villa, or if the five Romantics have just called up their demons and don’t know how to get them back.\n\nKen Russell, British cinema’s great eccentric and the director of THE DEVILS and ALTERED STATES, had been circling the subject for a decade. When he finally secured a £2 million budget, he shot the film at a Hertfordshire country house standing in for the Swiss villa and let his imagination run wild: he cut the prologue and epilogue from Stephen Volk’s screenplay and added a mechanical mannequin. He also brought together Gabriel Byrne, Julian Sands, Timothy Spall and Natasha Richardson.\n\nAdd a synth-heavy score and the result is something close to the cinematic equivalent of an absinthe hallucination. Critics loathed GOTHIC, but devotees of fearless weirdness have made it a cult film.",
+        "poster": "media/posters/841c0b98ee0a88b6062a.webp"
+      },
       {
         "hour": "23:00",
         "datetime": "2026-11-13 23:00:00",
@@ -56,7 +1341,7 @@
               "Horror"
             ],
             "rating": 6.3,
-            "votes": 80280
+            "votes": 80281
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/descent",

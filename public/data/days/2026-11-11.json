@@ -1,14 +1,995 @@
 {
   "schemaVersion": 1,
   "date": "2026-11-11",
-  "updatedAt": "2026-10-26T21:37:49.528Z",
+  "updatedAt": "2026-10-27T15:53:45.812Z",
   "source": "https://www.kinomuza.pl/repertoire/day/",
   "day": {
-    "id": "16",
+    "id": "15",
     "date": "11.11",
-    "now": "2026-10-26 22:37:28",
+    "now": "2026-10-27 16:51:21",
     "info": [],
     "repertoire": [
+      {
+        "hour": "10:45",
+        "datetime": "2026-11-11 10:45:00",
+        "title": "baranek shaun i kudłata bestia",
+        "originalTitle": "Shaun the Sheep: The Beast of Mossy Bottom",
+        "director": "Steve Cox, Matthew Walker",
+        "year": "2026",
+        "premiereDate": "",
+        "duration": "80",
+        "countries": "Wielka Brytania",
+        "shortDesc": "<p>Zniszczone dynie, eksperyment wymykający się spod kontroli i pogłoski o kudłatej bestii na farmie Mossy Bottom! Shaun rusza na ratunek, a Aardman bawi się klasycznym kinem grozy, zamieniając strachy w familijną, slapstickową przygodę – bez słów, za to z brytyjskim humorem znanym na całym świecie.</p>\n",
+        "lang": "",
+        "subtitlesLang": "",
+        "age": "6",
+        "credits": "reż. Steve Cox, Matthew Walker <br>Wielka Brytania <br>2026,80’",
+        "desc": "<p>Zniszczone dynie, eksperyment wymykający się spod kontroli i pogłoski o kudłatej bestii na farmie Mossy Bottom! Shaun rusza na ratunek, a Aardman bawi się klasycznym kinem grozy, zamieniając strachy w familijną, slapstickową przygodę – bez słów, za to z brytyjskim humorem znanym na całym świecie.</p>\n",
+        "hall": "1",
+        "movieLink": "https://www.kinomuza.pl/movie/baranek-shaun-i-kudlata-bestia-2/",
+        "ticketLink": "https://estradapoznan.bilety24.pl/kup-bilety/?id=1009108",
+        "prePremier": false,
+        "tape35mm": false,
+        "ad": false,
+        "deaf": false,
+        "ticketPrice": "",
+        "ticketHalfPrice": "",
+        "alt": "baranek shaun i kudłata bestia",
+        "thumb": "https://www.kinomuza.pl/content/uploads/2026/08/1-2-800x450.jpg",
+        "dubbing": true,
+        "cycle": "dzieciaki, do kina!",
+        "description": "Zniszczone dynie, eksperyment wymykający się spod kontroli i pogłoski o kudłatej bestii na farmie Mossy Bottom! Shaun rusza na ratunek, a Aardman bawi się klasycznym kinem grozy, zamieniając strachy w familijną, slapstickową przygodę – bez słów, za to z brytyjskim humorem znanym na całym świecie.",
+        "shortDescription": "Zniszczone dynie, eksperyment wymykający się spod kontroli i pogłoski o kudłatej bestii na farmie Mossy Bottom! Shaun rusza na ratunek, a Aardman bawi się klasycznym kinem grozy, zamieniając strachy w familijną, slapstickową przygodę – bez słów, za to z brytyjskim humorem znanym na całym świecie.",
+        "genres": [
+          "Animacja",
+          "Familijny"
+        ],
+        "external": {
+          "imdb": {
+            "id": "tt36841161",
+            "url": "https://www.imdb.com/title/tt36841161/",
+            "rating": 7.1,
+            "votes": 2151
+          },
+          "filmweb": {
+            "id": "10101144",
+            "url": "https://www.filmweb.pl/film/Baranek+Shaun+i+kud%C5%82ata+bestia-2026-10101144",
+            "genres": [
+              "Animacja",
+              "Familijny"
+            ],
+            "rating": 6.9,
+            "votes": 661
+          },
+          "rottenTomatoes": {
+            "url": "https://www.rottentomatoes.com/m/shaun_the_sheep_the_beast_of_mossy_bottom",
+            "title": "Shaun the Sheep: The Beast of Mossy Bottom",
+            "year": "2026",
+            "directors": [
+              "Steve Cox",
+              "Matthew Walker"
+            ],
+            "criticsRating": 99,
+            "criticsVotes": 87,
+            "audienceRating": 91,
+            "audienceVotes": 156
+          }
+        },
+        "longDescription": "Ponad trzydzieści lat temu Baranek Shaun po raz pierwszy przemknął przez ekran jako jeden z bohaterów krótkometrażowego WALLACE I GROMIT: GOLENIE OWIEC (1995). Dziś trudno wyobrazić sobie Aardmana bez jego czarnej grzywki, zawadiackiego spojrzenia i charakterystycznej miny zwiastującej, że za chwilę ktoś wpadnie na szalony pomysł. Od 2007 roku Shaun ma własny serial, który trafił do 170 krajów i terytoriów, a dwa pełnometrażowe filmy o jego przygodach zdobyły nominacje oscarowe. Bohater zdążył pojawić się nawet na oficjalnych znaczkach Royal Mail i zostać uwieczniony przez Royal Mint wśród postaci na jubileuszowej monecie 50-lecia Aardmana. To wymowne dowody, że baranek z Mossy Bottom stał się jedną z najbardziej rozpoznawalnych ikon brytyjskiej animacji.\n\nW BARANKU SHAUNIE I KUDŁATEJ BESTII na farmie panuje jesienny, halloweenowy klimat. Kiedy nieszczęśliwy wypadek niszczy ukochane pole dyniowe stada, Shaun postanawia ratować sytuację metodami godnymi szalonego naukowca. Dobre intencje uruchamiają całą serię katastrof, a w okolicy szybko zaczynają krążyć pogłoski o tajemniczym stworzeniu czającym się w lesie. Stado musi uporządkować bałagan, do którego – jak zwykle – samo się nieco przyczyniło. Więcej wiedzieć nie trzeba – najlepiej pozwolić, by kolejne pomysły Shauna zaskakiwały dokładnie wtedy, kiedy powinny.\n\nTym razem Aardman z wyraźną przyjemnością zagląda do skarbca klasycznego kina grozy. FRANKENSTEIN czy PSYCHOZA zostają przepuszczone przez plastelinową wyobraźnię studia i zamienione w chwilowe strachy rozbrajane wizualnymi żartami. Twórcy pilnowali zresztą, by film pozostał przede wszystkim przygodą dla dzieci – niektóre sceny świadomie łagodzono, kiedy na etapie produkcji okazywały się zbyt intensywne.\n\nCałość pozostaje przy tym bardzo wierna temu, za co od dekad kocha się Aardmana: ręcznie animowanej materii, drobiazgowo zbudowanym światom, brytyjskiemu poczuciu humoru i przekonaniu, że dobrze ustawiona brew potrafi zastąpić każdy dialog. Brak dialogów, który początkowo miał ułatwić produkcję serialu, stał się jednym z jego największych atutów. To kino opiera się na spojrzeniach, gestach, rytmie i umiejętnie skonstruowanych gagach – dlatego działa równie dobrze dla młodego widza, który pierwszy raz trafia na farmę Mossy Bottom, jak i dla dorosłego wyłapującego filmowe cytaty.\n\nEN\n\nMore than thirty years ago, Shaun the Sheep first darted across the screen as one of the characters in the short film A CLOSE SHAVE (1995). Today, it is hard to imagine Aardman without his black fringe, mischievous look and unmistakable expression that usually means someone is about to have a wildly impractical idea. Shaun has had his own television series since 2007, reaching 170 countries and territories, while two feature-length adventures have earned Academy Award nominations. Shaun has even appeared on official Royal Mail stamps and on a Royal Mint commemorative coin celebrating Aardman’s 50th anniversary. It is hard to imagine clearer proof that the sheep from Mossy Bottom has become one of the most recognisable icons of British animation.\n\nIn SHAUN THE SHEEP: THE BEAST OF MOSSY BOTTOM, autumn has arrived on the farm, bringing a distinctly Halloween mood with it. When an unfortunate accident destroys the flock’s beloved pumpkin patch, Shaun decides to save the day with methods worthy of a mad scientist. His good intentions set off a whole chain of disasters, and rumours soon begin to spread about a mysterious creature lurking in the woods. The flock must clear up the mess which, as ever, they have had at least some hand in creating. There is little more you need to know – far better to let Shaun’s next bright idea catch you by surprise.\n\nThis time, Aardman takes obvious delight in raiding the treasure chest of classic horror. FRANKENSTEIN and PSYCHO are filtered through the studio’s plasticine imagination and transformed into fleeting scares, quickly defused by visual gags. The filmmakers were careful, though, to keep the film firmly rooted in children’s adventure, softening a few scenes during production when they felt too intense.\n\nAt the same time, the film remains completely faithful to everything audiences have loved about Aardman for decades: hand-crafted animation, meticulously built worlds, British humour and the belief that a perfectly raised eyebrow can do the work of an entire line of dialogue. The lack of spoken dialogue, initially a practical choice intended to streamline production of the television series, ultimately became one of its defining strengths. This is storytelling built on glances, gestures, rhythm and beautifully timed visual gags, which is why it works just as well for a young viewer visiting Mossy Bottom for the first time as it does for an adult picking up on the cinematic references.",
+        "poster": "media/posters/a4559ff39299dbcd174e.webp"
+      },
+      {
+        "hour": "12:00",
+        "datetime": "2026-11-11 12:00:00",
+        "title": "Drzewo magii",
+        "originalTitle": "THE MAGIC FARAWAY TREE",
+        "director": "Ben Gregor",
+        "year": "2026",
+        "premiereDate": "",
+        "duration": "110",
+        "countries": "Wielka Brytania",
+        "shortDesc": "<p>Rodzina Thompsonów przeprowadza się z Londynu na wieś, gdzie dzieci odkrywają drzewo kryjące w koronie przejście do coraz bardziej niezwykłych krain. Współczesna, gwiazdorska ekranizacja klasyki Enid Blyton to pełna humoru brytyjska baśń o dziecięcej ciekawości, rodzinnej bliskości i mocy wyobraźni.</p>\n",
+        "lang": "",
+        "subtitlesLang": "",
+        "age": "9",
+        "credits": "reż. Ben Gregor <br>Wielka Brytania <br>2026,110’",
+        "desc": "<p>Rodzina Thompsonów przeprowadza się z Londynu na wieś, gdzie dzieci odkrywają drzewo kryjące w koronie przejście do coraz bardziej niezwykłych krain. Współczesna, gwiazdorska ekranizacja klasyki Enid Blyton to pełna humoru brytyjska baśń o dziecięcej ciekawości, rodzinnej bliskości i mocy wyobraźni.</p>\n",
+        "hall": "3",
+        "movieLink": "https://www.kinomuza.pl/movie/drzewo-magii/",
+        "ticketLink": "https://estradapoznan.bilety24.pl/kup-bilety/?id=1009130",
+        "prePremier": false,
+        "tape35mm": false,
+        "ad": false,
+        "deaf": false,
+        "ticketPrice": "",
+        "ticketHalfPrice": "",
+        "alt": "Drzewo magii",
+        "thumb": "https://www.kinomuza.pl/content/uploads/2026/05/drzewo-magii-2-800x450.jpg",
+        "dubbing": true,
+        "cycle": "dzieciaki, do kina!",
+        "description": "Rodzina Thompsonów przeprowadza się z Londynu na wieś, gdzie dzieci odkrywają drzewo kryjące w koronie przejście do coraz bardziej niezwykłych krain. Współczesna, gwiazdorska ekranizacja klasyki Enid Blyton to pełna humoru brytyjska baśń o dziecięcej ciekawości, rodzinnej bliskości i mocy wyobraźni.",
+        "shortDescription": "Rodzina Thompsonów przeprowadza się z Londynu na wieś, gdzie dzieci odkrywają drzewo kryjące w koronie przejście do coraz bardziej niezwykłych krain. Współczesna, gwiazdorska ekranizacja klasyki Enid Blyton to pełna humoru brytyjska baśń o dziecięcej ciekawości, rodzinnej bliskości i mocy wyobraźni.",
+        "genres": [
+          "Przygodowy",
+          "Fantasy",
+          "Familijny"
+        ],
+        "external": {
+          "imdb": {
+            "id": "tt7734244",
+            "url": "https://www.imdb.com/title/tt7734244/",
+            "rating": 6.2,
+            "votes": 6464
+          },
+          "filmweb": {
+            "id": "10104409",
+            "url": "https://www.filmweb.pl/film/Drzewo+magii-2026-10104409",
+            "genres": [
+              "Przygodowy",
+              "Fantasy",
+              "Familijny"
+            ],
+            "rating": 5.8,
+            "votes": 754
+          },
+          "rottenTomatoes": {
+            "url": "https://www.rottentomatoes.com/m/the_magic_faraway_tree",
+            "title": "The Magic Faraway Tree",
+            "year": "2026",
+            "directors": [
+              "Ben Gregor"
+            ],
+            "criticsRating": 80,
+            "criticsVotes": 111,
+            "audienceRating": 81,
+            "audienceVotes": 258
+          }
+        },
+        "longDescription": "Rodzina Thompsonów wyprowadza się z Londynu na wieś – trochę z konieczności, trochę w nadziei na nowy początek. Dla trójki dzieci zmiana oznacza nagłe wyrwanie z dobrze znanej codzienności. Wszystko nabiera jednak zupełnie innego wymiaru, gdy najmłodsza Fran odkrywa w pobliskim lesie niezwykłe drzewo zamieszkane przez osobliwych lokatorów. Na jego szczycie pojawiają się fantastyczne krainy – zmienne, nieprzewidywalne i podporządkowane własnym, często absurdalnym regułom.\n\nDRZEWO MAGII to filmowa interpretacja jednego z najbardziej charakterystycznych światów brytyjskiej literatury dziecięcej. Enid Blyton zaprosiła czytelników do Zaklętego Lasu jeszcze pod koniec lat 30. Jej opowieści wyrastały z przekonania, że przygoda może rozpocząć się tuż za domem, a dzieci potrafią odkrywać świat na własnych zasadach – z ciekawością, odwagą i sporą dozą samodzielności. Bliskość natury, swoboda zabawy oraz fantastyczność przyjmowana bez zbędnych wyjaśnień przez dekady budowały szczególny charakter tej popularnej serii. Scenarzysta Simon Farnaby i reżyser Ben Gregor przenoszą znaną historię do współczesności, zachowując jej pierwotny urok.\n\nAndrew Garfield i Claire Foy odnajdują w rolach rodziców zarówno komediową bezradność wobec kolejnych absurdów, jak i ciepło rodzinnej relacji, a Nicola Coughlan, Nonso Anozie i Rebecca Ferguson z wyraźną przyjemnością wnoszą do filmu porcję baśniowej ekscentryczności.\n\nTwórcom zależało również, by magia miała możliwie materialny wymiar na planie filmowym. Zamiast wykreować świat wyłącznie cyfrowo, postawili na rozbudowane scenografie, dekoracje i kostiumy. Samo tytułowe drzewo powstawało przez wiele miesięcy jako pełnowymiarowa konstrukcja, po której aktorzy rzeczywiście mogli się wspinać, a kolejne krainy projektowano tak, by dawały realną przestrzeń do zabawy.\n\nPod baśniowym rozgardiaszem DRZEWA MAGII kryje się nie tylko zachęta do ograniczenia ekranów, ale też wspólnego, rodzinnego wychodzenia poza rutyny i wspierania się w eksplorowaniu nowych doświadczeń.\n\nEN\n\nThe Thompson family leave London for the countryside – partly out of necessity, partly in the hope of a fresh start. For their three children, the move means being abruptly uprooted from everything familiar. But things take an entirely different turn when the youngest, Fran, discovers an extraordinary tree in the nearby woods, inhabited by a host of peculiar residents. At its top, fantastical lands appear – ever-changing, unpredictable and governed by their own, often absurd, rules.\n\nTHE MAGIC FARAWAY TREE is a film adaptation of one of the most iconic worlds in British children’s literature. Enid Blyton invited readers into the Enchanted Forest as early as the late 1930s. Her stories were built on the idea that adventure could be waiting just beyond the garden gate, and that children should have the freedom to explore the world for themselves – with curiosity, courage and a healthy dose of independence.\n\nA connection to nature, the joy of play, and a sense of wonder—embraced without the need for explanation—have contributed to the lasting appeal of this beloved series for decades. Screenwriter Simon Farnaby and director Ben Gregor bring the story into the present day without losing its original charm.\n\nAndrew Garfield and Claire Foy strike a lovely balance between comic bewilderment and genuine warmth as the parents, while Nicola Coughlan, Nonso Anozie and Rebecca Ferguson clearly have great fun with the film’s more eccentric, fairy-tale elements.\n\nBeneath the fairy-tale chaos, THE MAGIC FARAWAY TREE offers not only a gentle nudge away from screens, but also an invitation for families to step outside their routines together and support one another in exploring new experiences.",
+        "poster": "media/posters/76e69644131d174cea95.webp"
+      },
+      {
+        "hour": "12:15",
+        "datetime": "2026-11-11 12:15:00",
+        "title": "Out There",
+        "originalTitle": "",
+        "director": "Simon Ryninks",
+        "year": "2026",
+        "premiereDate": "",
+        "duration": "80",
+        "countries": "Wielka Brytania ",
+        "shortDesc": "<p>Nastoletnia Maz rusza tropem tajemniczego zjawiska na niebie. W kameralnym debiucie Ryninksa walijski koloryt, klimat końca lat 90. i wiara w życie pozaziemskie stanowią tło dla urokliwej opowieści o rodzinie, żałobie i dorastaniu, w której poszukiwanie odpowiedzi splata losy grupy barwnych bohaterów.</p>\n",
+        "lang": "",
+        "subtitlesLang": "",
+        "age": "12",
+        "credits": "reż. Simon Ryninks <br>Wielka Brytania  <br>2026,80’",
+        "desc": "<p>Nastoletnia Maz rusza tropem tajemniczego zjawiska na niebie. W kameralnym debiucie Ryninksa walijski koloryt, klimat końca lat 90. i wiara w życie pozaziemskie stanowią tło dla urokliwej opowieści o rodzinie, żałobie i dorastaniu, w której poszukiwanie odpowiedzi splata losy grupy barwnych bohaterów.</p>\n",
+        "hall": "2",
+        "movieLink": "https://www.kinomuza.pl/movie/out-there/",
+        "ticketLink": "https://estradapoznan.bilety24.pl/kup-bilety/?id=1009125",
+        "prePremier": false,
+        "tape35mm": false,
+        "ad": false,
+        "deaf": false,
+        "ticketPrice": "",
+        "ticketHalfPrice": "",
+        "alt": "Out There",
+        "thumb": "https://www.kinomuza.pl/content/uploads/2026/10/out-there-2-800x450.jpg",
+        "dubbing": true,
+        "cycle": "dzieciaki, do kina!",
+        "description": "Nastoletnia Maz rusza tropem tajemniczego zjawiska na niebie. W kameralnym debiucie Ryninksa walijski koloryt, klimat końca lat 90. i wiara w życie pozaziemskie stanowią tło dla urokliwej opowieści o rodzinie, żałobie i dorastaniu, w której poszukiwanie odpowiedzi splata losy grupy barwnych bohaterów.",
+        "shortDescription": "Nastoletnia Maz rusza tropem tajemniczego zjawiska na niebie. W kameralnym debiucie Ryninksa walijski koloryt, klimat końca lat 90. i wiara w życie pozaziemskie stanowią tło dla urokliwej opowieści o rodzinie, żałobie i dorastaniu, w której poszukiwanie odpowiedzi splata losy grupy barwnych bohaterów.",
+        "genres": [
+          "Komedia",
+          "Sci-Fi"
+        ],
+        "external": {
+          "imdb": {
+            "id": "tt38554298",
+            "url": "https://www.imdb.com/title/tt38554298/",
+            "rating": 7,
+            "votes": 27
+          },
+          "filmweb": {
+            "id": "10129033",
+            "url": "https://www.filmweb.pl/film/Out+There-2026-10129033",
+            "genres": [
+              "Komedia",
+              "Sci-Fi"
+            ],
+            "rating": 6,
+            "votes": 1
+          },
+          "rottenTomatoes": {
+            "url": "https://www.rottentomatoes.com/m/out_there_2026",
+            "title": "Out There (2026)",
+            "year": "",
+            "directors": [
+              "Simon Ryninks"
+            ],
+            "criticsRating": null,
+            "criticsVotes": 1,
+            "audienceRating": null,
+            "audienceVotes": null
+          }
+        },
+        "longDescription": "Walia, koniec lat 90. Szesnastoletnia Maz mieszka w sennym nadmorskim miasteczku, z którego najchętniej wyrwałaby się gdzieś znacznie dalej – może nawet poza Ziemię. Od śmierci ojca minęło kilka lat, ale dziewczyna wciąż nie potrafi pogodzić się z jego odejściem. Kiedy na niebie pojawia się tajemniczy obiekt, dawne pytania powracają, a Maz zaczyna szukać odpowiedzi na własną rękę.\n\nSimon Ryninks osadza swój pełnometrażowy debiut w miejscu, które ma własną historię spotkań z niewyjaśnionym. Na walijski folklor UFO składają się dziesięciolecia relacji o tajemniczych światłach, osobliwych obserwacjach i wojskowych sekretach. Szczególne miejsce w tych lokalnych legendach zajmuje fala doniesień z Pembrokeshire w latach 70.\n\nReżysera interesują jednak nie tyle kosmici, ile ludzie, którzy wpatrują się w niebo. Sam pomysł na film wyrósł z jego osobistego doświadczenia żałoby. To dobrze znany sposób opowiadania o stracie: fascynacja tym, co niewyjaśnione, rodzi się z potrzeby znalezienia sensu, gdy trudno pogodzić się z rzeczywistością.\n\nFilm zachowuje przy tym lekkość, łącząc coming-of-age z odrobiną science fiction, teorii spiskowych i małomiasteczkowej ekscentryczności. Surowe wybrzeże, lokalny ufolog, ekscentryczne medium, zadymione puby i analogowa codzienność końca lat 90. budują jego charakter. Nerys Amber Stocks wnosi do głównej roli urzekającą szczerość, a Aneurin Barnard, Michael Sheen i Iwan Rheon z widoczną przyjemnością dopełniają galerię barwnych mieszkańców okolicy.\n\nOUT THERE pozostaje skromną, kameralną historią o dorastaniu, rodzinie, przyjaźni i godzeniu się z tym, czego nie możemy zmienić. Całość Ryninks prowadzi z czułością i humorem, mocno osadzając film w lokalnym, walijskim kontekście.\n\nEN\n\nWales, the late 1990s. Sixteen-year-old Maz lives in a sleepy seaside town she would happily escape for somewhere much farther away – perhaps even beyond Earth. Several years have passed since her father’s death, but she is still struggling to come to terms with the loss. When a mysterious object appears in the sky, old questions resurface, and Maz begins searching for answers on her own.\n\nSimon Ryninks makes his feature debut in a place with its own history of meeting the unexplained. Welsh UFO folklore is shaped by decades of stories about mysterious lights, strange sightings and military secrets, with the wave of reports from Pembrokeshire in the 1970s holding a particular place in local legend.\n\nRyninks, however, is less interested in aliens than in the people who keep looking up at the sky. The idea for the film grew out of his own experience of grief.  It is a well-known way of dealing with loss: a fascination with the unexplained arises from the need to find meaning when it is hard to come to terms with reality.\n\nThe film remains light on its feet, blending coming-of-age drama with touches of science fiction, conspiracy theory and small-town eccentricity. The rugged coastline, a local ufologist, an eccentric medium, smoky pubs and the analogue texture of late-1990s life all help shape its distinctive atmosphere. Nerys Amber Stocks brings an affecting honesty to the lead role. Aneurin Barnard, Michael Sheen and Iwan Rheon clearly relish their place among the film’s colourful local characters.\n\nOUT THERE remains a modest, intimate story about growing up, family, friendship and learning to live with what cannot be changed. Ryninks handles it all with warmth and humour, grounding the film firmly in its local Welsh setting.",
+        "poster": "media/posters/4e128bd4cc23158836de.webp"
+      },
+      {
+        "hour": "12:30",
+        "datetime": "2026-11-11 12:30:00",
+        "title": "Daleko od brzegu",
+        "originalTitle": "Queen at Sea",
+        "director": "Lance Hammer",
+        "year": "2026",
+        "premiereDate": "",
+        "duration": "121",
+        "countries": "Wielka Brytania",
+        "shortDesc": "<p>Wstrząsający film Lance’a Hammera eksplorujący dylemat moralny bez prostej recepty. Opiekująca się matką z demencją Amanda dokonuje odkrycia, które staje się kością niezgody między nią a ojczymem. Film otrzymał nagrodę za role drugoplanowe na Berlinale.</p>\n",
+        "lang": "en",
+        "subtitlesLang": "pl",
+        "age": "16",
+        "credits": "reż. Lance Hammer <br>Wielka Brytania <br>2026,121’",
+        "desc": "<p>Wstrząsający film Lance’a Hammera eksplorujący dylemat moralny bez prostej recepty. Opiekująca się matką z demencją Amanda dokonuje odkrycia, które staje się kością niezgody między nią a ojczymem. Film otrzymał nagrodę za role drugoplanowe na Berlinale.</p>\n",
+        "hall": "1",
+        "movieLink": "https://www.kinomuza.pl/movie/daleko-od-brzegu/",
+        "ticketLink": "https://estradapoznan.bilety24.pl/kup-bilety/?id=1009111",
+        "prePremier": false,
+        "tape35mm": false,
+        "ad": false,
+        "deaf": false,
+        "ticketPrice": "",
+        "ticketHalfPrice": "",
+        "alt": "Daleko od brzegu",
+        "thumb": "https://www.kinomuza.pl/content/uploads/2026/10/images.jpeg",
+        "description": "Wstrząsający film Lance’a Hammera eksplorujący dylemat moralny bez prostej recepty. Opiekująca się matką z demencją Amanda dokonuje odkrycia, które staje się kością niezgody między nią a ojczymem. Film otrzymał nagrodę za role drugoplanowe na Berlinale.",
+        "shortDescription": "Wstrząsający film Lance’a Hammera eksplorujący dylemat moralny bez prostej recepty. Opiekująca się matką z demencją Amanda dokonuje odkrycia, które staje się kością niezgody między nią a ojczymem. Film otrzymał nagrodę za role drugoplanowe na Berlinale.",
+        "genres": [
+          "Dramat"
+        ],
+        "external": {
+          "imdb": {
+            "id": "tt27541205",
+            "url": "https://www.imdb.com/title/tt27541205/",
+            "rating": 7.7,
+            "votes": 647
+          },
+          "filmweb": {
+            "id": "10034624",
+            "url": "https://www.filmweb.pl/film/Daleko+od+brzegu-2026-10034624",
+            "genres": [
+              "Dramat"
+            ],
+            "rating": 7.3,
+            "votes": 518
+          },
+          "rottenTomatoes": {
+            "url": "https://www.rottentomatoes.com/m/queen_at_sea",
+            "title": "Queen at Sea",
+            "year": "2026",
+            "directors": [
+              "Lance Hammer"
+            ],
+            "criticsRating": 92,
+            "criticsVotes": 37,
+            "audienceRating": null,
+            "audienceVotes": null
+          }
+        },
+        "longDescription": "Lance Hammer doskonale wie, jak skupić uwagę widowni na swojej opowieści już od pierwszych minut. Podczas gdy wiele produkcji stara się przygotować dla nas emocjonalny rollercoaster w finale, reżyser DALEKO OD BRZEGU stawia na scenę otwierającą, która wwierca się w głowę i zostawia z pytaniem: „Dlaczego?” Całe szczęście Hammer to odpowiedzialny twórca, który po zszokowaniu widowni, skrupulatnie dokłada kolejne cegiełki narracyjne i eksploruje tkankę moralną trudnych zdarzeń w życiu rodziny Amandy (Juliette Binoche).\n\nKobieta regularnie odwiedza swoją matkę Leslie (Anna Calder-Marshall), która cierpi na bardzo zaawansowaną demencję. Nie jest jednak sama w roli opiekunki. Bardzo zaangażowany w dbanie o schorowaną kobietę jest również jej drugi mąż Martin (Tom Courtenay). Pewnego razu Amanda dokonuje odkrycia, które staje się kością niezgody pomiędzy nią a ojczymem. Wspólnie mierzą się z ogromnym dylematem moralnym, uniemożliwiającym odnalezienia łatwych odpowiedzi.\n\nDALEKO OD BRZEGU jest pozornie wyciszonym, chłodnym filmem zanurzonym w ponurym londyńskim otoczeniu, co akcentują świetne zdjęcia Adolpha Veloso (SNY O POCIĄGACH). Jednak spod tej warstwy wizualnej wydobywają się błagania o odnalezienie recepty na niewyobrażalnie ciężką chorobę. Hammer, który w wyniku obszernych poszukiwań historii o członkach rodzin cierpiących na demencję, decyduje się, aby pozostać nieoceniającym obserwatorem bez roszczeń do deklarowania kategorycznego stanowiska. Jest świadomy złożoności problemu odczytywania potrzeb osób, które straciły umiejętność komunikowania swoich uczuć i granic, a jednocześnie rozumie potrzebę bliskości i okazywania miłości choremu. Dzięki drugoplanowym rolom Courtenaya i Calder-Marshall (nagrodzeni Srebrnym Niedźwiedziem na Berlinale) ta refleksja przybiera na naszych oczach w siłę.\n\nEN\n\nLance Hammer knows exactly how to seize the audience’s attention from the very first minutes. While many films save their emotional rollercoaster for the finale, the director of QUEEN AT SEA opens with a scene that lodges itself in the mind and leaves us with a single question: why? Thankfully, Hammer is a responsible filmmaker. Having shaken the audience, he painstakingly begins to fill in the narrative gaps, probing the moral fabric of the difficult events unfolding within Amanda’s (Juliette Binoche) family.\n\nAmanda regularly visits her mother Leslie (Anna Calder-Marshall), who is living with advanced dementia. However, she is not the only person caring for her. Leslie’s second husband, Martin (Tom Courtenay), is equally devoted to looking after her. One day, Amanda makes a discovery that drives a wedge between her and her stepfather. They must face a significant moral dilemma without easy answers.\n\nOn the surface, QUEEN AT SEA is a restrained, coolly observed film steeped in the gloom of its London setting, captured in Adolpho Veloso’s superb cinematography (TRAIN DREAMS). Beneath that visual austerity, however, lies a desperate search for some way of grappling with an unimaginably cruel illness. Having carried out extensive research into the experiences of families affected by dementia, Hammer chooses to remain a non-judgemental observer rather than impose a categorical position of his own. He recognises the complexity of interpreting the needs of people who have lost the ability to communicate their feelings and boundaries, while also understanding the human need for closeness and for expressing love towards someone who is ill.\n\nThanks to the supporting performances of Courtenay and Calder-Marshall, both of whom received the Silver Bear at the Berlinale, this reflection gains ever greater emotional force before our eyes.",
+        "poster": "media/posters/7a4e176bc85fe9bb3a3f.webp"
+      },
+      {
+        "hour": "13:30",
+        "datetime": "2026-11-11 13:30:00",
+        "title": "Zet i dwa zera",
+        "originalTitle": "A Zed & Two Noughts",
+        "director": "Peter Greenaway",
+        "year": "1985",
+        "premiereDate": "",
+        "duration": "115",
+        "countries": "Holandia, Wielka Brytania",
+        "shortDesc": "<p>W wyniku wypadku z udziałem łabędzia giną dwie żony. Owdowiali bliźniacy-zoolodzy próbują zrozumieć i oswoić śmierć, fotografując rozkład gnijących owoców i zwierząt. Wkrótce obaj zakochują się w ocalałej z wypadku Albie. Makabryczna, zabawna i hipnotyzująca opowieść o żałobie i… obsesji symetrii.</p>\n",
+        "lang": "en",
+        "subtitlesLang": "pl",
+        "age": "16",
+        "credits": "reż. Peter Greenaway <br>Holandia, Wielka Brytania <br>1985,115’",
+        "desc": "<p>W wyniku wypadku z udziałem łabędzia giną dwie żony. Owdowiali bliźniacy-zoolodzy próbują zrozumieć i oswoić śmierć, fotografując rozkład gnijących owoców i zwierząt. Wkrótce obaj zakochują się w ocalałej z wypadku Albie. Makabryczna, zabawna i hipnotyzująca opowieść o żałobie i… obsesji symetrii.</p>\n",
+        "hall": "rialto",
+        "movieLink": "https://www.kinomuza.pl/movie/106877/",
+        "ticketLink": "https://estradapoznan.bilety24.pl/kup-bilety/?id=1009135",
+        "prePremier": false,
+        "tape35mm": false,
+        "ad": false,
+        "deaf": false,
+        "ticketPrice": "",
+        "ticketHalfPrice": "",
+        "alt": "Zet i dwa zera",
+        "thumb": "https://www.kinomuza.pl/content/uploads/2026/10/zet-2-800x450.jpg",
+        "event": "Festiwal",
+        "description": "W wyniku wypadku z udziałem łabędzia giną dwie żony. Owdowiali bliźniacy-zoolodzy próbują zrozumieć i oswoić śmierć, fotografując rozkład gnijących owoców i zwierząt. Wkrótce obaj zakochują się w ocalałej z wypadku Albie. Makabryczna, zabawna i hipnotyzująca opowieść o żałobie i… obsesji symetrii.",
+        "shortDescription": "W wyniku wypadku z udziałem łabędzia giną dwie żony. Owdowiali bliźniacy-zoolodzy próbują zrozumieć i oswoić śmierć, fotografując rozkład gnijących owoców i zwierząt. Wkrótce obaj zakochują się w ocalałej z wypadku Albie. Makabryczna, zabawna i hipnotyzująca opowieść o żałobie i… obsesji symetrii.",
+        "genres": [
+          "Czarna komedia",
+          "Dramat"
+        ],
+        "external": {
+          "imdb": {
+            "id": "tt0090366",
+            "url": "https://www.imdb.com/title/tt0090366/",
+            "rating": 7.2,
+            "votes": 8250
+          },
+          "filmweb": {
+            "id": "3671",
+            "url": "https://www.filmweb.pl/film/Zet+i+dwa+zera-1985-3671",
+            "genres": [
+              "Czarna komedia",
+              "Dramat"
+            ],
+            "rating": 7.3,
+            "votes": 2921
+          },
+          "rottenTomatoes": {
+            "url": "https://www.rottentomatoes.com/m/zed_and_two_noughts",
+            "title": "A Zed & Two Noughts",
+            "year": "1985",
+            "directors": [
+              "Peter Greenaway"
+            ],
+            "criticsRating": 78,
+            "criticsVotes": 18,
+            "audienceRating": 85,
+            "audienceVotes": 756
+          }
+        },
+        "longDescription": "W krainie Petera Greenawaya otwarcia filmu dalekie są od zwyczajności. Przed bramą ZOO na maskę samochodu wpada łabędź, w wyniku czego na miejscu giną żony dwóch ZOOlogów – bliźniaków Olivera i Oswalda. Z rozbitego auta wychodzi tylko kierująca nim Alba Bewick, w której wkrótce zakochują się pogrążeni w żałobie bracia. Nocami oglądają filmy przyrodnicze, a za dnia próbują rozłożyć śmierć na czynniki pierwsze, rozwijając coraz bardziej niezdrową fascynację rozkładem. Greenaway nie pokazuje tu jednak śmierci dla samej ohydy: życie i śmierć to u niego naturalny, nieuchronny cykl, a filmowany przez braci poklatkowo rozkład owoców i zwierzęcych ciał bywa równie piękny jak martwa natura holenderskich mistrzów.\n\nZET I DWA ZERA to prawdziwy inwentarz dziwactw: jest tu chirurg van Meegeren, który w wolnych chwilach pielęgnuje fiksację na punkcie płócien Vermeera, pracownica seksualna Wenus z Milo, próbująca swych sił jako pisarka i Alba, pozbawiona w wyniku wypadku nogi, której dążenie do doskonałej symetrii zmienia się w obsesyjną chęć amputacji drugiej kończyny.\n\nSymetria, odbicia i lustra rządzą tu więc nie tylko kompozycją kadru, ale także losami bohaterów. Nad całością czuwa Sacha Vierny, operator Alaina Resnaisa, i to właśnie od ZET I DWÓCH ZER rozpoczyna się jego wieloletnia współpraca z Greenawayem. A współpracę tę charakteryzować będzie traktowanie światła jak osobnego bohatera, który w filmie rzeźbi kadry, wydobywa kolory i sprawia, że zoo, laboratorium i szpitalny pokój wyglądają jak obrazy z muzealnej sali. To dzieło, które umocniło pozycję reżysera w artystycznym świecie, a zarazem jedna z najdziwniejszych opowieści o żałobie, jakie zna kino.\n\nEN\n\nIn Peter Greenaway’s world, films rarely begin ordinarily. Outside the gates of a zoo, a swan crashes into the bonnet of a car, killing the wives of twin zoologists Oliver and Oswald. Only the driver, Alba Bewick, survives, and before long both grieving brothers fall in love with her. By night they watch wildlife documentaries; by day they try to dissect death itself, developing an increasingly unhealthy fascination with decay.\n\nGreenaway, however, is not interested in death merely for its grotesque potential. Life and death form a natural, inevitable cycle, and the brothers’ time-lapse studies of rotting fruit and animal carcasses can be as beautiful as the still lifes created by the Dutch masters.\n\nA ZED & TWO NOUGHTS is a veritable catalogue of eccentricities. There is the surgeon van Meegeren, who spends his spare time nurturing an obsession with Vermeer; a sex worker named Venus de Milo, trying her hand at writing; and Alba, who loses a leg in the crash and whose pursuit of perfect symmetry develops into an obsessive desire to have the other one amputated as well.\n\nSymmetry, reflections and mirrors govern not only the composition of the frame but the characters’ lives. Behind the camera is Sacha Vierny, Alain Resnais’s cinematographer, beginning a long collaboration with Greenaway. This collaboration would be characterised by treating light almost as a character in its own right: sculpting the frame, drawing out colour and transforming zoos, laboratories and hospital rooms into images that might belong on a museum wall.\n\nThe film cemented Greenaway’s reputation in the art-house world and remains one of cinema’s strangest explorations of grief.",
+        "poster": "media/posters/9f92eca7bb6a2ab833d0.webp"
+      },
+      {
+        "hour": "14:15",
+        "datetime": "2026-11-11 14:15:00",
+        "title": "Testament Ann Lee",
+        "originalTitle": "The Testament of Ann Lee",
+        "director": "Mona Fastvold",
+        "year": "2025",
+        "premiereDate": "2026-03-13",
+        "duration": "137",
+        "countries": "Wielka Brytania, USA",
+        "shortDesc": "<p>Hipnotyzujące dzieło współscenarzystki THE BRUTALIST, rzucające światło na <em>herstorię </em>Ann Lee – przywódczyni sekty Shakerów. Kobieta sprzeciwia się zastanemu porządkowi zepsutego świata i zakłada wspólnotę propagującą równość płciową i społeczną. Ann rusza ze swoją misją do Nowej Anglii za Atlantyk.</p>\n",
+        "lang": "en",
+        "subtitlesLang": "pl",
+        "age": "16",
+        "credits": "reż. Mona Fastvold <br>Wielka Brytania, USA <br>2025,137’",
+        "desc": "<p>Hipnotyzujące dzieło współscenarzystki THE BRUTALIST, rzucające światło na <em>herstorię </em>Ann Lee – przywódczyni sekty Shakerów. Kobieta sprzeciwia się zastanemu porządkowi zepsutego świata i zakłada wspólnotę propagującą równość płciową i społeczną. Ann rusza ze swoją misją do Nowej Anglii za Atlantyk.</p>\n",
+        "hall": "3",
+        "movieLink": "https://www.kinomuza.pl/movie/testament-ann-lee/",
+        "ticketLink": "https://estradapoznan.bilety24.pl/kup-bilety/?id=1009131",
+        "prePremier": false,
+        "tape35mm": false,
+        "ad": false,
+        "deaf": false,
+        "ticketPrice": "",
+        "ticketHalfPrice": "",
+        "alt": "Testament Ann Lee",
+        "thumb": "https://www.kinomuza.pl/content/uploads/2026/02/TAL-fot.2-800x450.jpeg",
+        "description": "Hipnotyzujące dzieło współscenarzystki THE BRUTALIST, rzucające światło na herstorię Ann Lee – przywódczyni sekty Shakerów. Kobieta sprzeciwia się zastanemu porządkowi zepsutego świata i zakłada wspólnotę propagującą równość płciową i społeczną. Ann rusza ze swoją misją do Nowej Anglii za Atlantyk.",
+        "shortDescription": "Hipnotyzujące dzieło współscenarzystki THE BRUTALIST, rzucające światło na herstorię Ann Lee – przywódczyni sekty Shakerów. Kobieta sprzeciwia się zastanemu porządkowi zepsutego świata i zakłada wspólnotę propagującą równość płciową i społeczną. Ann rusza ze swoją misją do Nowej Anglii za Atlantyk.",
+        "genres": [
+          "Dramat",
+          "Musical"
+        ],
+        "external": {
+          "imdb": {
+            "id": "tt34819091",
+            "url": "https://www.imdb.com/title/tt34819091/",
+            "rating": 6.4,
+            "votes": 11062
+          },
+          "filmweb": {
+            "id": "10090000",
+            "url": "https://www.filmweb.pl/film/Testament+Ann+Lee-2025-10090000",
+            "genres": [
+              "Dramat",
+              "Musical"
+            ],
+            "rating": 6,
+            "votes": 2448
+          },
+          "rottenTomatoes": {
+            "url": "https://www.rottentomatoes.com/m/the_testament_of_ann_lee",
+            "title": "The Testament of Ann Lee",
+            "year": "2025",
+            "directors": [
+              "Mona Fastvold"
+            ],
+            "criticsRating": 85,
+            "criticsVotes": 220,
+            "audienceRating": 82,
+            "audienceVotes": 212
+          }
+        },
+        "longDescription": "Przywódczynie religijne stanowią w historii absolutną rzadkość. Nic dziwnego, że gdy Mona Fastvold – reżyserka i scenarzystka, która współtworzyła scenariusz THE BRUTALIST (nominowany do Oscara) – natknęła się na postać Ann Lee, poczuła wręcz obowiązek, aby zekranizować jej herstorię . Tym bardziej, że działania tej kobiety o wielkim marzeniu zrewolucjonizowania nowego świata skutecznie pogrzebano i funkcjonują przeważnie w sferze domysłów. Fastvold potraktowała je z szacunkiem bez prób współczesnych reinterpretacji. W efekcie stworzyła hipnotyzujące, ekstatyczne doświadczenie kinowe z niesamowitą wyobraźnią inscenizacyjną i wykorzystaniem wstawek musicalowych, które nie odstraszą nawet sceptyków tego gatunku.\n\nAnn Lee (Amanda Seyfried) to kobieta z Manchesteru, która zakłada sektę Shakerów w reakcji na otaczające ją zepsucie i niesprawiedliwość. Wytyka opresyjność porządkowi konstytuowanemu przez Kościół Anglikański i skrada ludzkie serca utopijną wizją równości płciowej i społecznej, której życzyłby sobie Chrystus. Ann Lee rusza ze swoją wspólnotą do Nowej Anglii za Atlantyk z nadzieją, że przeniosą na odległy grunt świeżą koncepcję społeczeństwa zbudowanego na empatii.\n\nFastvold zaangażowała do produkcji TESTAMENTU ANN LEE nieprawdopodobnie utalentowanych ludzi, którzy tchnęli w jej historię autentyczność i transcendentność. Amanda Seyfried występuje prawdopodobnie w najbardziej wymagającej roli w jej karierze, która oferuje nie tylko gamę szczerych emocji, ale też doskonałe występy wokalne i ruchowe. Shakerów wyróżniają performatywność i pieśni uwielbieniowe, a opiekę nad tymi aspektami objęła choreografka Celia Rowlson-Hall, doskonale czująca ekspresywność ich tańca oraz muzyk Daniel Blumberg, dokonujący popisowej współczesnej interpretacji tradycyjnych melodii sekty. Ruchowi scenicznemu sprzyja również kamera Williama Rexera, który wręcz zanurza widza w euforycznej wspólnocie i umożliwia partycypowanie w ich niekonwencjonalnym spojrzeniu na wiarę i świat. Mając takich ludzi u boku, Fastvold tworzy dzieło totalne, z którego emanuje szalona, twórcza siła.\n\nEN\n\nFemale religious leaders have been vanishingly rare throughout history. So when director and screenwriter Mona Fastvold, co-writer of the Oscar-nominated THE BRUTALIST, came across the figure of Ann Lee, she felt almost compelled to bring her story to the screen. All the more so because the legacy of this woman, driven by an extraordinary ambition to reshape the New World, had largely been buried and left to survive in fragments, speculation and myth. Fastvold approaches that history with respect, resisting the temptation to force it into a contemporary framework. The result is a hypnotic, ecstatic cinematic experience, full of bold visual invention and musical interludes that may win over even those normally wary of the genre.\n\nAnn Lee (Amanda Seyfried) is a woman from Manchester who founds the Shaker movement in response to the corruption and injustice she sees around her. She challenges the oppressive social order upheld by the Church of England and wins people over with a utopian vision of gender and social equality, one she believes Christ himself would have wanted. Ann and her community eventually cross the Atlantic to New England, hoping to build a new society founded on empathy.\n\nFor THE TESTAMENT OF ANN LEE, Fastvold surrounded herself with an extraordinary group of collaborators who give the film both authenticity and a sense of transcendence. Amanda Seyfried takes on what may be the most demanding role of her career, delivering not only a remarkable emotional performance but also striking vocal and physical work. Song, movement and ecstatic worship are central to Shaker practice, and choreographer Celia Rowlson-Hall captures the expressive force of their dance. Meanwhile, composer Daniel Blumberg reworks traditional Shaker melodies with thrilling contemporary energy.\n\nWilliam Rexer’s camera moves enhance physical intensity. It literally draws the audience into euphoric community and lets us experience, from within, its unconventional understanding of faith and the world. With collaborators like these, Fastvold creates something close to a total work of cinema, charged throughout with an almost overwhelming creative force.",
+        "poster": "media/posters/2aaa8b64fb32e4ca98d3.webp"
+      },
+      {
+        "hour": "14:30",
+        "datetime": "2026-11-11 14:30:00",
+        "title": "Ścieżki życia",
+        "originalTitle": "The Salt Path",
+        "director": "Marianne Elliot",
+        "year": "2024",
+        "premiereDate": "2026-01-02",
+        "duration": "116",
+        "countries": "Wielka Brytania",
+        "shortDesc": "<p>Ekranizacja bestsellera Raynor Winn na podstawie scenariusza Rebeki Lenkiewicz (IDA). Gdy małżeństwo traci dom i zdrowie, podejmuje radykalną decyzję: pieszą wędrówkę liczącym ponad 1000 km szlakiem South West Coast Path. Poruszająca, wizualnie urzekająca oda do siły natury i ludzkiego ducha.</p>\n",
+        "lang": "en",
+        "subtitlesLang": "pl",
+        "age": "16",
+        "credits": "reż. Marianne Elliot <br>Wielka Brytania <br>2024,116’",
+        "desc": "<p>Ekranizacja bestsellera Raynor Winn na podstawie scenariusza Rebeki Lenkiewicz (IDA). Gdy małżeństwo traci dom i zdrowie, podejmuje radykalną decyzję: pieszą wędrówkę liczącym ponad 1000 km szlakiem South West Coast Path. Poruszająca, wizualnie urzekająca oda do siły natury i ludzkiego ducha.</p>\n",
+        "hall": "2",
+        "movieLink": "https://www.kinomuza.pl/movie/sciezki-zycia/",
+        "ticketLink": "https://estradapoznan.bilety24.pl/kup-bilety/?id=1009126",
+        "prePremier": false,
+        "tape35mm": false,
+        "ad": false,
+        "deaf": false,
+        "ticketPrice": "",
+        "ticketHalfPrice": "",
+        "alt": "Ścieżki życia",
+        "thumb": "https://www.kinomuza.pl/content/uploads/2025/08/sciezki-zycia-2-800x450.jpg",
+        "description": "Ekranizacja bestsellera Raynor Winn na podstawie scenariusza Rebeki Lenkiewicz (IDA). Gdy małżeństwo traci dom i zdrowie, podejmuje radykalną decyzję: pieszą wędrówkę liczącym ponad 1000 km szlakiem South West Coast Path. Poruszająca, wizualnie urzekająca oda do siły natury i ludzkiego ducha.",
+        "shortDescription": "Ekranizacja bestsellera Raynor Winn na podstawie scenariusza Rebeki Lenkiewicz (IDA). Gdy małżeństwo traci dom i zdrowie, podejmuje radykalną decyzję: pieszą wędrówkę liczącym ponad 1000 km szlakiem South West Coast Path. Poruszająca, wizualnie urzekająca oda do siły natury i ludzkiego ducha.",
+        "genres": [
+          "Psychologiczny",
+          "Dramat"
+        ],
+        "external": {
+          "imdb": {
+            "id": "tt27766440",
+            "url": "https://www.imdb.com/title/tt27766440/",
+            "rating": 6.6,
+            "votes": 7931
+          },
+          "filmweb": {
+            "id": "10058778",
+            "url": "https://www.filmweb.pl/film/%C5%9Acie%C5%BCki+%C5%BCycia-2024-10058778",
+            "genres": [
+              "Psychologiczny",
+              "Dramat"
+            ],
+            "rating": 6.8,
+            "votes": 6227
+          },
+          "rottenTomatoes": {
+            "url": "https://www.rottentomatoes.com/m/the_salt_path",
+            "title": "The Salt Path",
+            "year": "2024",
+            "directors": [
+              "Marianne Elliott"
+            ],
+            "criticsRating": 78,
+            "criticsVotes": 45,
+            "audienceRating": 61,
+            "audienceVotes": 167
+          }
+        },
+        "longDescription": "Są historie tak niezwykłe, że wydają się gotowym scenariuszem. Tak jest w przypadku opowieści Raynor Winn, której autobiograficzna książka „Słone ścieżki” stała się światowym bestsellerem i fenomenem wydawniczym.\n\nZa kamerą staje Marianne Elliot, dotychczas znana głównie z produkcji teatralnych, a za scenariusz odpowiedzialna jest Rebecca Lenkiewicz – jedna z najbardziej cenionych scenarzystek swojego pokolenia, współautorka oscarowej IDY czy autorka scenariusza do SŁONEGO LATA z sekcji High Season drugiej edycji festiwalu.\n\nElliot z niezwykłą czułością opowiada historię małżeństwa, które w jednej chwili traci wszystko: dom i poczucie bezpieczeństwa, a na dodatek staje w obliczu nieuleczalnej choroby mężczyzny. W akcie desperacji podejmują radykalną decyzję – wyruszają w pieszą podróż liczącym ponad tysiąc kilometrów szlakiem South West Coast Path, znanym jako „słona ścieżka”.\n\nTa legendarna trasa, wijąca się wzdłuż surowego i zapierającego dech w piersiach wybrzeża Kornwalii i Devon, staje się dla nich nie tylko wyzwaniem fizycznym, ale przede wszystkim drogą do wewnętrznego uzdrowienia. To kino drogi w najczystszej postaci, w którym natura jest pełnoprawnym bohaterem, a każdy krok staje się metaforą walki o przetrwanie i odnalezienie nadziei wbrew wszystkiemu.\n\nSpełnienie filmowi przynosi szczególnie subtelna, dojrzała rola Gillian Anderson w roli głównej i wyjątkowa chemia, jaka łączy ją z towarzyszącym na ekranie Jasonem Isaacsem.\n\nEN\n\nSome stories are so extraordinary they feel as though they were made for the screen. Raynor Winn’s memoir THE SALT PATH, which became an international bestseller and publishing phenomenon, is one of them.\n\nThe film marks the feature debut of Marianne Elliott, best known for her acclaimed theatre work, while the screenplay is by Rebecca Lenkiewicz, co-writer of the Oscar-winning IDA and screenwriter of HOT MILK, shown in the High Season section of the festival’s second edition.\n\nElliott tells with great tenderness the story of a married couple whose lives collapse almost overnight. They lose their home and any sense of security, only to learn that the husband is also facing an incurable illness. With nowhere else to turn, they make a drastic decision: to walk the South West Coast Path, a route stretching for more than a thousand kilometres along the coast of south-west England.\n\nRunning through the wild, breathtaking landscapes of Cornwall and Devon, the trail becomes more than a test of endurance. It offers the couple a way to keep moving when everything else has fallen apart. THE SALT PATH is road cinema in its purest form, with nature as a constant presence and each step carrying them towards a fragile sense of hope.\n\nAt the heart of the film is Gillian Anderson’s restrained, deeply felt performance, matched by the easy, convincing chemistry she shares with Jason Isaacs.",
+        "poster": "media/posters/7912b5760cc4e18ad9d0.webp"
+      },
+      {
+        "hour": "15:00",
+        "datetime": "2026-11-11 15:00:00",
+        "title": "Wojny domowe",
+        "originalTitle": "East Is East",
+        "director": "Damien O'Donnell",
+        "year": "1999",
+        "premiereDate": "",
+        "duration": "96",
+        "countries": "Wielka Brytania",
+        "shortDesc": "<p>Komediowy, słodko-gorzki portret wieloetnicznej rodziny z Manchesteru lat 70. Pakistański ojciec, irlandzka matka i siedmioro dzieci, które chcą żyć własnym – brytyjskim – życiem. Kiedy synowie buntują się przeciw zaaranżowanym małżeństwom, rodzina musi wybrać między tradycją a współczesnością.</p>\n",
+        "lang": "en",
+        "subtitlesLang": "pl",
+        "age": "16",
+        "credits": "reż. Damien O'Donnell <br>Wielka Brytania <br>1999,96’",
+        "desc": "<p>Komediowy, słodko-gorzki portret wieloetnicznej rodziny z Manchesteru lat 70. Pakistański ojciec, irlandzka matka i siedmioro dzieci, które chcą żyć własnym – brytyjskim – życiem. Kiedy synowie buntują się przeciw zaaranżowanym małżeństwom, rodzina musi wybrać między tradycją a współczesnością.</p>\n",
+        "hall": "1",
+        "movieLink": "https://www.kinomuza.pl/movie/106860/",
+        "ticketLink": "https://estradapoznan.bilety24.pl/kup-bilety/?id=1009114",
+        "prePremier": false,
+        "tape35mm": false,
+        "ad": false,
+        "deaf": false,
+        "ticketPrice": "",
+        "ticketHalfPrice": "",
+        "alt": "Wojny domowe",
+        "thumb": "https://www.kinomuza.pl/content/uploads/2026/10/wojny-d-3-800x450.jpg",
+        "event": "Festiwal",
+        "description": "Komediowy, słodko-gorzki portret wieloetnicznej rodziny z Manchesteru lat 70. Pakistański ojciec, irlandzka matka i siedmioro dzieci, które chcą żyć własnym – brytyjskim – życiem. Kiedy synowie buntują się przeciw zaaranżowanym małżeństwom, rodzina musi wybrać między tradycją a współczesnością.",
+        "shortDescription": "Komediowy, słodko-gorzki portret wieloetnicznej rodziny z Manchesteru lat 70. Pakistański ojciec, irlandzka matka i siedmioro dzieci, które chcą żyć własnym – brytyjskim – życiem. Kiedy synowie buntują się przeciw zaaranżowanym małżeństwom, rodzina musi wybrać między tradycją a współczesnością.",
+        "genres": [
+          "Dramat",
+          "Komedia"
+        ],
+        "external": {
+          "imdb": {
+            "id": "tt0166175",
+            "url": "https://www.imdb.com/title/tt0166175/",
+            "rating": 6.9,
+            "votes": 19828
+          },
+          "filmweb": {
+            "id": "1343",
+            "url": "https://www.filmweb.pl/film/Wojny+domowe-1999-1343",
+            "genres": [
+              "Dramat",
+              "Komedia"
+            ],
+            "rating": 7.2,
+            "votes": 1002
+          },
+          "rottenTomatoes": {
+            "url": "https://www.rottentomatoes.com/m/east_is_east",
+            "title": "East Is East",
+            "year": "2000",
+            "directors": [
+              "Damien O'Donnell"
+            ],
+            "criticsRating": 78,
+            "criticsVotes": 32,
+            "audienceRating": 78,
+            "audienceVotes": 1814
+          }
+        },
+        "longDescription": "Barwny, zabawny, choć słodko-gorzki portret rodziny, w którym odbijają się problemy międzykulturowej Brytanii lat 70. George, dumny ze swego pakistańskiego pochodzenia, chciałby być patriarchą familii, co nie do końca udaje się przy irlandzkiej żonie, Elli, oraz siedmiorgu zasymilowanych już dzieciach. On chciałby zachować tradycję, a ulice Manchesteru postrzega jako zagrożenie dla pielęgnowanej tożsamości kulturowej, własnej i bliskich. Czuła i uważna Ella rozumie, że świat się zmienia. A dzieci, te młodsze i te całkiem dorosłe, po prostu chcą żyć własnym – brytyjskim – życiem. Kiedy dwaj najstarsi bracia dowiadują się, że ojciec bez ich wiedzy wybrał im porządne pakistańskie żony, buntują się przeciw niemu, walcząc o samostanowienie.\n\nWOJNY DOMOWE to komedia nie uciekająca jednak od rzeczywistych dramatów – twórcy nie bagatelizują ani dylematów George’a i Elli, ani desperacji jego synów, ani też konsekwencji konfrontacji kultur i tradycji. Choć osadzona w latach 70., doskonale oddaje ducha czasu, w którym została zrealizowana. W latach 90. bhangra – połączenie tradycyjnej muzyki pendżabskiej z elektronicznym tanecznym beatem – królowała w brytyjskich klubach. Estetyka kojarzona z kulturą Indii i Pakistanu stała się modna, a WOJNY DOMOWE doskonale wpisują się w ten trend. Współtworzą też fenomen Cool Britannii: surowy realizm nasyca się kolorami i staje się częścią popkultury, z której Brytyjczycy byli tak dumni u kresu XX wieku.\n\nEN\n\nA colourful, amusing, yet bittersweet portrait of a family, reflecting the challenges of multicultural Britain in the 1970s. Proud of his Pakistani heritage, George sees himself as the family patriarch, but his Irish wife Ella and their seven assimilated children make that easier said than done. He is determined to hold on to tradition and sees the streets of Manchester as a threat to the cultural identity he strives to preserve, both for himself and his family. Warm and perceptive, Ella understands that the world is changing. Their children, from the youngest to those already grown up, simply want to live their own – British – lives. When the two eldest brothers discover that their father has chosen respectable Pakistani wives for them behind their backs, they rebel against him, fighting for the right to determine their own futures.\n\nEAST IS EAST is a comedy that does not shy away from genuine drama. The filmmakers do not downplay George and Ella’s dilemmas, the desperation of his sons, or the consequences of the clash between cultures and traditions. Although set in the 1970s, it perfectly captures the spirit of the era in which it was made. In the 1990s, bhangra – a fusion of traditional Punjabi music with electronic dance beats– ruled British clubs.\n\nThe aesthetic associated with Indian and Pakistani culture became fashionable, and EAST IS EAST fits perfectly into this trend. It also contributed to the Cool Britannia phenomenon: raw realism was infused with colour and became part of the pop culture of which the British were so proud at the end of the 20th century.",
+        "poster": "media/posters/5de8ad3188efd1740fef.webp"
+      },
+      {
+        "hour": "16:15",
+        "datetime": "2026-11-11 16:15:00",
+        "title": "Robin Hood: Książę złodziei",
+        "originalTitle": "Robin Hood: Prince of Thieves",
+        "director": "Kevin Reynolds",
+        "year": "1991",
+        "premiereDate": "",
+        "duration": "143",
+        "countries": "USA",
+        "shortDesc": "<p>Redefinicja klasycznej legendy o wyjętym spod prawa łuczniku i kasowy przebój 1991 roku. Powracający do Anglii Robin Hood (Kevin Costner) z pomocą banitów z lasu Sherwood rzuca wyzwanie szeryfowi Nottingham. Świadomie przeszarżowana rola niegodziwca przyniosła Alanowi Rickmanowi nagrodę BAFTA.</p>\n",
+        "lang": "en",
+        "subtitlesLang": "pl",
+        "age": "16",
+        "credits": "reż. Kevin Reynolds <br>USA <br>1991,143’",
+        "desc": "<p>Redefinicja klasycznej legendy o wyjętym spod prawa łuczniku i kasowy przebój 1991 roku. Powracający do Anglii Robin Hood (Kevin Costner) z pomocą banitów z lasu Sherwood rzuca wyzwanie szeryfowi Nottingham. Świadomie przeszarżowana rola niegodziwca przyniosła Alanowi Rickmanowi nagrodę BAFTA.</p>\n",
+        "hall": "rialto",
+        "movieLink": "https://www.kinomuza.pl/movie/robin-hood-ksiaze-zlodziei/",
+        "ticketLink": "https://estradapoznan.bilety24.pl/kup-bilety/?id=1009136",
+        "prePremier": false,
+        "tape35mm": false,
+        "ad": false,
+        "deaf": false,
+        "ticketPrice": "",
+        "ticketHalfPrice": "",
+        "alt": "Robin Hood: Książę złodziei",
+        "thumb": "https://www.kinomuza.pl/content/uploads/2026/10/robin-1-800x450.jpg",
+        "event": "Festiwal",
+        "description": "Redefinicja klasycznej legendy o wyjętym spod prawa łuczniku i kasowy przebój 1991 roku. Powracający do Anglii Robin Hood (Kevin Costner) z pomocą banitów z lasu Sherwood rzuca wyzwanie szeryfowi Nottingham. Świadomie przeszarżowana rola niegodziwca przyniosła Alanowi Rickmanowi nagrodę BAFTA.",
+        "shortDescription": "Redefinicja klasycznej legendy o wyjętym spod prawa łuczniku i kasowy przebój 1991 roku. Powracający do Anglii Robin Hood (Kevin Costner) z pomocą banitów z lasu Sherwood rzuca wyzwanie szeryfowi Nottingham. Świadomie przeszarżowana rola niegodziwca przyniosła Alanowi Rickmanowi nagrodę BAFTA.",
+        "genres": [
+          "Przygodowy"
+        ],
+        "external": {
+          "imdb": {
+            "id": "tt0102798",
+            "url": "https://www.imdb.com/title/tt0102798/",
+            "rating": 6.9,
+            "votes": 225006
+          },
+          "filmweb": {
+            "id": "9183",
+            "url": "https://www.filmweb.pl/film/Robin+Hood%3A+Ksi%C4%85%C5%BC%C4%99+z%C5%82odziei-1991-9183",
+            "genres": [
+              "Przygodowy"
+            ],
+            "rating": 7.2,
+            "votes": 143502
+          },
+          "rottenTomatoes": {
+            "url": "https://www.rottentomatoes.com/m/robin_hood_prince_of_thieves",
+            "title": "Robin Hood: Prince of Thieves",
+            "year": "1991",
+            "directors": [
+              "Kevin Reynolds"
+            ],
+            "criticsRating": 52,
+            "criticsVotes": 61,
+            "audienceRating": 72,
+            "audienceVotes": 16498
+          }
+        },
+        "longDescription": "Widowiskowy blockbuster z początku lat 90. i redefinicja klasycznej legendy o Robinie z Locksley. Po dekadach charyzmatycznych bohaterów w typie zawadiackiego Errola Flynna (PRZYGODY ROBIN HOODA z 1938 roku) czy antropomorficznych wariacji rodem z disneyowskiej animacji ROBIN HOOD (1973) reżyser Kevin Reynolds zaproponował świeże spojrzenie na osadzoną w średniowiecznych realiach historię. Jego wyjęty spod prawa banita to bardziej refleksyjny społecznik niż krewki awanturnik. Główna rola Kevina Costnera podzieliła krytykę i zainspirowała prześmiewczego Mela Brooksa do nakręcenia parodii ROBIN HOOD: FACECI W RAJTUZACH (1993).\n\nPowracający z niewoli podczas krucjaty do Anglii Robin Hood odkrywa podstęp, w wyniku którego stracił rodzinny majątek i ojca. Legendarny łucznik, któremu towarzyszy Maur Azeem (Morgan Freeman), poprzysięga zemstę na przebiegłym szeryfie Nottingham (Alan Rickman). Dołącza do bandy rozbójników ukrywających się w lesie Sherwood i jako ich przywódca wypowiada wojnę wrogom nieobecnego w kraju króla Ryszarda Lwie Serce (Sean Connery).\n\nDrugi najbardziej dochodowy film 1991 roku wzbogacił angielską legendę o elementy kina akcji, brutalne sekwencje oraz iście baśniowy kontrast ciemnych lochów i zjawiskowych plenerów kręconych w angielskich hrabstwach czy francuskim Carcassonne. Podczas gdy w hollywoodzkim założeniu to Kevin Costner miał być twarzą produkcji, jej duszą okazał się Alan Rickman. Pozostający na dalszym planie brytyjski mistrz mroku zdominował pozostałych członków obsady.\n\nMimo niedawnego sukcesu SZKLANEJ PUŁAPKI (1988) Rickman wyłamał się spod sztywnych ram wizerunku złoczyńcy. W portret szeryfa Nottingham wplótł świadome przerysowanie oraz infantylny pierwiastek. Pierwotnie odrzucił scenariusz, ale Kevin Reynolds – w sekrecie przed resztą ekipy – zagwarantował aktorowi ingerencję w dialogi, co zaowocowało kultowymi kwestiami o odwołaniu Świąt Bożego Narodzenia czy wydzieraniu serca… łyżką. Rola antagonisty o kreskówkowym zabarwieniu przyniosła gwiazdorowi nagrodę BAFTA dla najlepszego aktora drugoplanowego.\n\nEN\n\nA lavish early-1990s blockbuster and a fresh reworking of the classic Robin of Locksley legend. After decades of charismatic heroes in the mould of Errol Flynn’s swashbuckling outlaw in THE ADVENTURES OF ROBIN HOOD (1938), not to mention the anthropomorphic spin of Disney’s ROBIN HOOD (1973), director Kevin Reynolds offered a new take on the medieval tale. His outlaw hero is less a hot-headed adventurer than a thoughtful champion of the dispossessed. Kevin Costner’s performance divided critics and later inspired Mel Brooks to send the film up in ROBIN HOOD: MEN IN TIGHTS (1993).\n\nReturning to England after being held captive during the Crusades, Robin Hood discovers the plot that has cost him both his father and his family estate. Accompanied by the Moor Azeem (Morgan Freeman), the legendary archer vows revenge on the scheming Sheriff of Nottingham (Alan Rickman). He joins a band of outlaws hiding in Sherwood Forest and, as their leader, declares war on the enemies of the absent King Richard the Lionheart (Sean Connery).\n\nThe second highest-grossing film of 1991 injected the English legend with the pace of an action film, brutal set pieces and a distinctly fairytale contrast between dark dungeons and spectacular locations shot across English counties and in Carcassonne, France. Hollywood may have intended Kevin Costner to be the face of the production, but Alan Rickman proved to be its soul. Playing what was ostensibly a supporting role, the British master of darkness effortlessly stole the film from the rest of the cast.\n\nDespite the recent success of DIE HARD (1988), Rickman broke free of the rigid confines of the conventional screen villain. He played the Sheriff of Nottingham with deliberate excess and an almost childlike streak. He initially turned down the script, but Kevin Reynolds – without the rest of the crew knowing – promised him a say in the dialogue, resulting in now-iconic lines about cancelling Christmas and cutting someone’s heart out… with a spoon. His cartoonishly wicked antagonist won Rickman the BAFTA for Best Actor in a Supporting Role.",
+        "poster": "media/posters/38e5b69af67e32213e7e.webp"
+      },
+      {
+        "hour": "17:00",
+        "datetime": "2026-11-11 17:00:00",
+        "title": "M jak Mabel",
+        "originalTitle": "H is for Hawk",
+        "director": "Philippa Lowthorpe",
+        "year": "2025",
+        "premiereDate": "",
+        "duration": "114",
+        "countries": "Singapur, USA, Wielka Brytania",
+        "shortDesc": "<p>Poruszająca podróż po wspomnieniach Helen Macdonald, która mierzy się z żałobą po niespodziewanej śmierci ojca. Przygarnia jastrzębia o imieniu Mabel, który staje się jej całym światem. Helen zaczyna wierzyć, że Mabel uczy ją życia na nowo i staje się jej najlepszą przyjaciółką.</p>\n",
+        "lang": "en",
+        "subtitlesLang": "pl",
+        "age": "16",
+        "credits": "reż. Philippa Lowthorpe <br>Singapur, USA, Wielka Brytania <br>2025,114’",
+        "desc": "<p>Poruszająca podróż po wspomnieniach Helen Macdonald, która mierzy się z żałobą po niespodziewanej śmierci ojca. Przygarnia jastrzębia o imieniu Mabel, który staje się jej całym światem. Helen zaczyna wierzyć, że Mabel uczy ją życia na nowo i staje się jej najlepszą przyjaciółką.</p>\n",
+        "hall": "2",
+        "movieLink": "https://www.kinomuza.pl/movie/m-jak-mabel/",
+        "ticketLink": "https://estradapoznan.bilety24.pl/kup-bilety/?id=1009127",
+        "prePremier": false,
+        "tape35mm": false,
+        "ad": false,
+        "deaf": false,
+        "ticketPrice": "",
+        "ticketHalfPrice": "",
+        "alt": "M jak Mabel",
+        "thumb": "https://www.kinomuza.pl/content/uploads/2026/10/m-jak-1-800x450.jpg",
+        "description": "Poruszająca podróż po wspomnieniach Helen Macdonald, która mierzy się z żałobą po niespodziewanej śmierci ojca. Przygarnia jastrzębia o imieniu Mabel, który staje się jej całym światem. Helen zaczyna wierzyć, że Mabel uczy ją życia na nowo i staje się jej najlepszą przyjaciółką.",
+        "shortDescription": "Poruszająca podróż po wspomnieniach Helen Macdonald, która mierzy się z żałobą po niespodziewanej śmierci ojca. Przygarnia jastrzębia o imieniu Mabel, który staje się jej całym światem. Helen zaczyna wierzyć, że Mabel uczy ją życia na nowo i staje się jej najlepszą przyjaciółką.",
+        "genres": [
+          "Dramat"
+        ],
+        "external": {
+          "imdb": {
+            "id": "tt10329560",
+            "url": "https://www.imdb.com/title/tt10329560/",
+            "rating": 6.6,
+            "votes": 2868
+          },
+          "filmweb": {
+            "id": "10048300",
+            "url": "https://www.filmweb.pl/film/M+jak+Mabel-2025-10048300",
+            "genres": [
+              "Dramat"
+            ],
+            "rating": 5.9,
+            "votes": 190
+          },
+          "rottenTomatoes": {
+            "url": "https://www.rottentomatoes.com/m/h_is_for_hawk",
+            "title": "H Is for Hawk",
+            "year": "2025",
+            "directors": [
+              "Philippa Lowthorpe"
+            ],
+            "criticsRating": 82,
+            "criticsVotes": 104,
+            "audienceRating": 75,
+            "audienceVotes": 135
+          }
+        },
+        "longDescription": "Pamiętacie przepięknego jastrzębia z HAMNETA, czuwającego przy Jessie Buckley? Ten ptak ponownie staje się bohaterem poruszającej historii o nieumiejętności przejścia przez żałobę, ale tym razem ma kluczową rolę. M JAK MABEL to zaskakująco kojąca i głęboko spirytualna produkcja Philippy Lowthorpe oparta na prawdziwych wspomnieniach przyrodniczki Helen Macdonald (w tej roli uwielbiana z THE CROWN Claire Foy).\n\nHelen nieoczekiwanie traci ojca (Brendan Gleeson) – cenionego fotografa prasowego i człowieka zakochanego w cudach świata. Jego córce traci poczucie sensu zawodowego, dystansuje się od rodziny i staje się coraz bardziej samotna. Jej życie zmienia się, gdy przygarnia majestatycznego jastrzębia, którego nazywa Mabel (z łaciny: „godna kochania”). Helen poświęca się całkowicie pielęgnowaniu jastrzębia, nawiązując z nim wyjątkową więź z nadzieją, że złagodzi jej cierpienie i pomoże uciec od frustrującej codzienności. Pojawiają się jednak obawy czy kobieta nie utożsamia się za bardzo z Mabel i traci kontakt z cywilizacją na rzecz natury.\n\nFilm Philippy Lowthorpe to czuła podróż po wspomnieniach bohaterki, doskonale zagranej przez Foy, łączącej w sobie tamowany potok przygnębienia i zachwyt nad dzikością natury. Ujęć na polującą Mabel nie powstydziliby się twórcy filmów przyrodniczych z Sir Davidem Attenborough, a Lowthorpe w przemyślany sposób przedstawia motyw ptaka jako ucieczki od trudnej rzeczywistości w duchu tradycji loachowskiego KESA. M JAK MABEL to budząca emocje lekcja wzbicia się ku wolności dla człowieka, którego paraliżuje żałoba i zaniedbanie samego siebie.\n\nEN\n\nRemember the magnificent hawk keeping watch beside Jessie Buckley in HAMNET? A bird of prey once again takes centre stage in a story about grief, but this time it becomes far more than a striking presence. Philippa Lowthorpe’s H IS FOR HAWK, based on the memoir by naturalist Helen Macdonald, is a surprisingly comforting and deeply spiritual story of loss, solitude and an extraordinary bond with the wild. Claire Foy, beloved for THE CROWN, stars as Helen.\n\nAfter the sudden death of her father (Brendan Gleeson), a respected photojournalist with an infectious sense of wonder about the world, Helen begins to lose her footing. Her work feels increasingly meaningless; she withdraws from her family and loneliness closes in. Everything changes when she takes on a magnificent goshawk and names her Mabel – from the Latin for “lovable”. Helen throws herself into training the bird, and an intense bond begins to form between them. She comes to see Mabel as both refuge and guide, hoping that life alongside this fierce, untamed creature might ease her grief and teach her how to inhabit the world again. But as Helen retreats further into Mabel’s world, a troubling question emerges: is she finding her way back to life, or disappearing into the wild?\n\nLowthorpe turns Helen’s memories into an intimate journey through mourning, anchored by Foy’s finely judged performance, in which barely contained sadness sits alongside an almost childlike awe at the natural world. The sequences of Mabel in flight and on the hunt have the arresting beauty of the finest wildlife filmmaking, while the hawk itself becomes a way of escaping a reality Helen can no longer bear – recalling the British tradition of KES.\n\nH IS FOR HAWK is ultimately a deeply affecting story about a person paralysed by grief learning, slowly and painfully, to take flight again.",
+        "poster": "media/posters/14f99b7443453475ae7e.webp"
+      },
+      {
+        "hour": "17:15",
+        "datetime": "2026-11-11 17:15:00",
+        "title": "Dobry chłopiec",
+        "originalTitle": "GOOD BOY",
+        "director": "Jan Komasa",
+        "year": "2025",
+        "premiereDate": "2026-03-06",
+        "duration": "110",
+        "countries": "Polska, Wielka Brytania",
+        "shortDesc": "<p>Polsko-brytyjska koprodukcja w reżyserii Jana Komasy z bezbłędnym Stephenem Grahamem. Mieszając thriller z czarną komedią zamyka w piwnicy chuligana Tommy’ego, którego próbuje naprostować pozornie potulna rodzina. Ich metody wychowawcze okazują się skrajnie radykalne.</p>\n",
+        "lang": "en",
+        "subtitlesLang": "pl",
+        "age": "16",
+        "credits": "reż. Jan Komasa <br>Polska, Wielka Brytania <br>2025,110’",
+        "desc": "<p>Polsko-brytyjska koprodukcja w reżyserii Jana Komasy z bezbłędnym Stephenem Grahamem. Mieszając thriller z czarną komedią zamyka w piwnicy chuligana Tommy’ego, którego próbuje naprostować pozornie potulna rodzina. Ich metody wychowawcze okazują się skrajnie radykalne.</p>\n",
+        "hall": "3",
+        "movieLink": "https://www.kinomuza.pl/movie/dobry-chlopiec/",
+        "ticketLink": "https://estradapoznan.bilety24.pl/kup-bilety/?id=1009132",
+        "prePremier": false,
+        "tape35mm": false,
+        "ad": false,
+        "deaf": false,
+        "ticketPrice": "",
+        "ticketHalfPrice": "",
+        "alt": "Dobry chłopiec",
+        "thumb": "https://www.kinomuza.pl/content/uploads/2026/01/dobry-chlopiec-2-800x450.jpg",
+        "description": "Polsko-brytyjska koprodukcja w reżyserii Jana Komasy z bezbłędnym Stephenem Grahamem. Mieszając thriller z czarną komedią zamyka w piwnicy chuligana Tommy’ego, którego próbuje naprostować pozornie potulna rodzina. Ich metody wychowawcze okazują się skrajnie radykalne.",
+        "shortDescription": "Polsko-brytyjska koprodukcja w reżyserii Jana Komasy z bezbłędnym Stephenem Grahamem. Mieszając thriller z czarną komedią zamyka w piwnicy chuligana Tommy’ego, którego próbuje naprostować pozornie potulna rodzina. Ich metody wychowawcze okazują się skrajnie radykalne.",
+        "genres": [
+          "Thriller"
+        ],
+        "external": {
+          "imdb": {
+            "id": "tt35521922",
+            "url": "https://www.imdb.com/title/tt35521922/",
+            "rating": 6.1,
+            "votes": 38591
+          },
+          "filmweb": {
+            "id": "10064809",
+            "url": "https://www.filmweb.pl/film/Dobry+ch%C5%82opiec-2025-10064809",
+            "genres": [
+              "Thriller"
+            ],
+            "rating": 7.2,
+            "votes": 15331
+          },
+          "rottenTomatoes": null
+        },
+        "longDescription": "Do czego można się posunąć, aby skutecznie zresocjalizować trudną, agresywną jednostkę? Czy miłością i troską można usprawiedliwiać przemoc w metodach wychowawczych? Czy cel uświęca środki? To pytania, które zadaje poznański reżyser Jan Komasa (SALA SAMOBÓJCÓW, BOŻE CIAŁO) i zdają się być jego kluczowymi zainteresowaniami, co udowadnia w również swojej drugiej produkcji międzynarodowej.\n\nW roli tytułowego DOBREGO CHŁOPCA, czyli Tommy’ego występuje Anson Boon, młody brytyjski aktor, który w serialu STREFIE GANGSTERÓW terroryzuje Londyn jako Eddie Harrigan i aż się prosi o guza. Możliwe, że antypatyczne postaci to jego emploi, ponieważ w filmie Komasy jest równie brutalny, bezczelny i odurzony władzą nad zastraszonymi ludźmi. Jednak czas hulanki dla niegrzecznego chłopca kończy się, gdy po intensywnej imprezie zostaje porwany przez tajemniczego Chrisa (Stephen Graham). Tommy budzi się uwięziony w piwnicy potulnej rodziny, która z całą swoją „miłością” będzie skłonna wymierzyć mu baty, wierząc, że przemocą i siłą naprostują zepsutego członka społeczeństwa.\n\nKomasa tworzy swoją odpowiedź na MECHANICZNĄ POMARAŃCZĘ i to z ponurym humorem, którego nie powstydziłby się Lanthimos. Reżyser w debiutanckim scenariuszu Bartka Bartosika odnalazł surowość balansującą z absurdami, przemoc przenikającą się z wrażliwością, co umożliwiło mu doskonałą zabawę gatunkową. W tych sprzecznościach idealnie odnalazła się obsada, w szczególności Stephen Graham o twarzy najbardziej poczciwego taty, którego nagłe przemiany w surowego wychowawcę mrożą krew w żyłach. Kino Komasy niezmiennie prowokuje i porusza się po niewygodnej szarej strefie, w której wytyczone granice wewnątrz rodziny jako systemu są bardzo cienkie. Wyjątkowa polsko-brytyjska koprodukcja.\n\nEN\n\nHow far can you go in trying to reform someone violent and difficult? Can care and affection ever justify brutality as a method of discipline? Do the ends justify the means? These are the questions posed by Poznań-born director Jan Komasa (SUICIDE ROOM, CORPUS CHRISTI), and they seem to lie at the heart of his work, as his second international production once again makes clear.\n\nThe title character, Tommy, is played by Anson Boon, the young British actor who terrorises London as Eddie Harrigan in the series MOBLAND and seems almost designed to invite trouble. Unsympathetic characters may well be his forte: in Komasa’s film, Tommy is just as brutal, cocky and intoxicated by the power he holds over those around him. But the good times end abruptly when, after a heavy night out, he is abducted by the mysterious Chris (Stephen Graham). Tommy wakes up locked in the basement of an outwardly mild-mannered family who, with all their talk of “love”, are perfectly prepared to beat him into submission, convinced that force and violence can straighten out a damaged member of society.\n\nKomasa offers his own answer to A CLOCKWORK ORANGE, with a streak of bleak humour that would not feel out of place in a Lanthimos film. In Bartek Bartosik’s debut screenplay, he finds a productive tension between rawness and absurdity, violence and vulnerability, giving him plenty of room to play with genre. The cast are completely at home in these contradictions, particularly Stephen Graham, whose genial, fatherly face makes his sudden shifts into stern disciplinarian all the more chilling.\n\nKomasa’s cinema remains confrontational, drawn to uncomfortable grey areas where the boundaries within the family as a system become dangerously thin. A distinctive Polish-British co-production.",
+        "poster": "media/posters/58a19647a6c213cbfdee.webp"
+      },
+      {
+        "hour": "17:15",
+        "datetime": "2026-11-11 17:15:00",
+        "title": "Effi o Blaenau",
+        "originalTitle": "",
+        "director": "Marc Evans",
+        "year": "2026",
+        "premiereDate": "",
+        "duration": "90",
+        "countries": "Wielka Brytania",
+        "shortDesc": "<p>Walijskojęzyczna opowieść o Effi – młodej kobiecie z postindustrialnego Blaenau Ffestiniog, która poszukuje sposobów na przetrwanie w świecie biedy i ograniczonych perspektyw. Ekranizacja głośnego monodramu G. Owena łączy grecką tragedię z realizmem społecznym, mocną główną rolą i wyrazistym pejzażem.</p>\n",
+        "lang": "en",
+        "subtitlesLang": "pl",
+        "age": "16",
+        "credits": "reż. Marc Evans <br>Wielka Brytania <br>2026,90’",
+        "desc": "<p>Walijskojęzyczna opowieść o Effi – młodej kobiecie z postindustrialnego Blaenau Ffestiniog, która poszukuje sposobów na przetrwanie w świecie biedy i ograniczonych perspektyw. Ekranizacja głośnego monodramu G. Owena łączy grecką tragedię z realizmem społecznym, mocną główną rolą i wyrazistym pejzażem.</p>\n",
+        "hall": "1",
+        "movieLink": "https://www.kinomuza.pl/movie/effi-o-blaenau/",
+        "ticketLink": "https://estradapoznan.bilety24.pl/kup-bilety/?id=1009116",
+        "prePremier": false,
+        "tape35mm": false,
+        "ad": false,
+        "deaf": false,
+        "ticketPrice": "",
+        "ticketHalfPrice": "",
+        "alt": "Effi o Blaenau",
+        "thumb": "https://www.kinomuza.pl/content/uploads/2026/10/effi-2-800x450.jpg",
+        "description": "Walijskojęzyczna opowieść o Effi – młodej kobiecie z postindustrialnego Blaenau Ffestiniog, która poszukuje sposobów na przetrwanie w świecie biedy i ograniczonych perspektyw. Ekranizacja głośnego monodramu G. Owena łączy grecką tragedię z realizmem społecznym, mocną główną rolą i wyrazistym pejzażem.",
+        "shortDescription": "Walijskojęzyczna opowieść o Effi – młodej kobiecie z postindustrialnego Blaenau Ffestiniog, która poszukuje sposobów na przetrwanie w świecie biedy i ograniczonych perspektyw. Ekranizacja głośnego monodramu G. Owena łączy grecką tragedię z realizmem społecznym, mocną główną rolą i wyrazistym pejzażem.",
+        "genres": [
+          "Dramat"
+        ],
+        "external": {
+          "imdb": {
+            "id": "tt40001182",
+            "url": "https://www.imdb.com/title/tt40001182/",
+            "rating": 7.9,
+            "votes": 219
+          },
+          "filmweb": {
+            "id": "10118884",
+            "url": "https://www.filmweb.pl/film/Effi+o+Blaenau-2026-10118884",
+            "genres": [
+              "Dramat"
+            ],
+            "rating": 0,
+            "votes": 0
+          },
+          "rottenTomatoes": {
+            "url": "https://www.rottentomatoes.com/m/effi_o_blaenau",
+            "title": "Effi o Blaenau",
+            "year": "",
+            "directors": [
+              "Marc Evans"
+            ],
+            "criticsRating": 100,
+            "criticsVotes": 18,
+            "audienceRating": null,
+            "audienceVotes": null
+          }
+        },
+        "longDescription": "EFFI O BLAENAU to walijskojęzyczny portret młodej kobiety, która z uporem i temperamentem poszukuje sposobów na przetrwanie. Effi mieszka w Blaenau Ffestiniog – dawnym ośrodku przemysłu łupkowego w północnej Walii, dziś naznaczonym jego zanikiem. Bezrobocie, imprezy i kac wyznaczają rytm kolejnych tygodni. Przypadkowe spotkanie z żołnierzem Lee na moment wnosi do tej codzienności obietnicę czegoś innego. Rzeczywistość szybko jednak przypomina, że trudno jest uciec od warunków, w których zostało się ukształtowanym, a nadzieja w świecie Effi zwykle niepozbawiona jest komplikacji.\n\nMarc Evans przenosi na ekran głośny monodram Gary’ego Owena IPHIGENIA IN SPLOTT, łączący konstrukcję greckiej tragedii z brytyjskim realizmem społecznym. Zmienia przy tym miejsce akcji i mocno zakorzenia historię w północnej Walii. Góry, łupkowe hałdy, opustoszałe lokale i ślady dawnego przemysłu nie tworzą tu malowniczego tła – opowiadają historię pracy, klasy i ekonomicznego porzucenia.\n\nW centrum filmu pozostaje Leisa Gwenllian. Rola Effi stała się jednym z najczęściej docenianych przez krytyków elementem filmu. Bohaterka jest jednocześnie zadziorna, impulsywna, zabawna i bezbronna. Za gniewem i pozorną obojętnością Effi stopniowo odsłania się złożone kobiece doświadczenie życia w biedzie, zderzenia jednostki z niewydolnym systemem i walki o własną sprawczość.\n\nFilm okazał się również wydarzeniem dla walijskiego kina: zanotował największe otwarcie w historii walijskojęzycznych produkcji w Wielkiej Brytanii, a następnie przebił wynik dotychczasowego rekordzisty box office’u. Sukces jest szczególnie znaczący w kraju, w którym pełnometrażowe filmy kinowe w języku walijskim wciąż należą do rzadkości. Rodzima twórczość w tym języku przez lata rozwijała się przede wszystkim w telewizji.\n\nEFFI O BLAENAU wyrasta z bardzo konkretnego miejsca, języka i doświadczenia społecznego, ale nie zamyka się w lokalnym kontekście. Tematy, których dotyka wybrzmiewają znajomo również poza Walią.\n\nEN\n\nEFFI O BLAENAU is a Welsh-language portrait of a young woman who, with determination and spirit, seeks ways to survive. Effi lives in Blaenau Ffestiniog – a former centre of the slate industry in North Wales, now marked by its decline. Unemployment, parties and hangovers set the rhythm of her weeks. A chance encounter with a soldier named Lee briefly brings the promise of something different into her everyday life. But reality soon reasserts itself: it is hard to escape the circumstances that have shaped you, and in Effi’s world hope rarely comes without complications.\n\nMarc Evans brings Gary Owen’s acclaimed monodrama Iphigenia in Splott to the screen, retaining its blend of Greek tragedy and British social realism while relocating the story and rooting it firmly in North Wales. The mountains, slate tips, shuttered venues and remnants of former industry are more than picturesque scenery; they tell a story of labour, class and economic abandonment.\n\nLeisa Gwenllian remains at the heart of the film. Her portrayal of Effi has become one of the film’s most critically acclaimed aspects. The protagonist is at once feisty, impulsive, funny and vulnerable. Behind Effi’s anger and apparent indifference, a complex female experience of life in poverty gradually emerges, revealing the clash between the individual and a failing system, and the struggle for personal agency.\n\nThe film has also proved a landmark for Welsh cinema. It recorded the biggest UK opening for a Welsh-language film before going on to overtake the previous box-office record holder. That success carries particular weight in a country where Welsh-language feature films made for cinemas remain relatively rare, with home-grown work in the language having developed primarily through television for many years.\n\nEFFI O BLAENAU draws on a very specific place, language and social experience, but is not confined to a local context. The themes it explores resonate just as strongly outside Wales.",
+        "poster": "media/posters/6649377050a39a03fe14.webp"
+      },
+      {
+        "hour": "19:30",
+        "datetime": "2026-11-11 19:30:00",
+        "title": "Fałszerka",
+        "originalTitle": "The Christophers",
+        "director": "Steven Soderbergh",
+        "year": "2025",
+        "premiereDate": "",
+        "duration": "100",
+        "countries": "Wielka Brytania, USA",
+        "shortDesc": "<p>Aktorski popis Sir Iana McKellena (to on zainspirował powstanie scenariusza), Michaeli Coel, Jessiki Gunning i Jamesa Cordena w najnowszym filmie Stevena Soderbergha. Ekscytująca historia rozgrywająca się w świecie sztuki, pełna zarazem humoru i lekkości, jak i rodzinnych napięć i emocji. Prowokuje, pytając o różnicę między wartością a ceną. Pierwszy pokaz w Polsce.</p>\n",
+        "lang": "en",
+        "subtitlesLang": "pl",
+        "age": "16",
+        "credits": "reż. Steven Soderbergh <br>Wielka Brytania, USA <br>2025,100’",
+        "desc": "<p>Aktorski popis Sir Iana McKellena (to on zainspirował powstanie scenariusza), Michaeli Coel, Jessiki Gunning i Jamesa Cordena w najnowszym filmie Stevena Soderbergha. Ekscytująca historia rozgrywająca się w świecie sztuki, pełna zarazem humoru i lekkości, jak i rodzinnych napięć i emocji. Prowokuje, pytając o różnicę między wartością a ceną. Pierwszy pokaz w Polsce.</p>\n",
+        "hall": "rialto",
+        "movieLink": "https://www.kinomuza.pl/movie/107134/",
+        "ticketLink": "https://estradapoznan.bilety24.pl/kup-bilety/?id=1009137",
+        "prePremier": false,
+        "tape35mm": false,
+        "ad": false,
+        "deaf": false,
+        "ticketPrice": "",
+        "ticketHalfPrice": "",
+        "alt": "Fałszerka",
+        "thumb": "https://www.kinomuza.pl/content/uploads/2026/10/faluszerka-1-800x450.jpg",
+        "description": "Aktorski popis Sir Iana McKellena (to on zainspirował powstanie scenariusza), Michaeli Coel, Jessiki Gunning i Jamesa Cordena w najnowszym filmie Stevena Soderbergha. Ekscytująca historia rozgrywająca się w świecie sztuki, pełna zarazem humoru i lekkości, jak i rodzinnych napięć i emocji. Prowokuje, pytając o różnicę między wartością a ceną. Pierwszy pokaz w Polsce.",
+        "shortDescription": "Aktorski popis Sir Iana McKellena (to on zainspirował powstanie scenariusza), Michaeli Coel, Jessiki Gunning i Jamesa Cordena w najnowszym filmie Stevena Soderbergha. Ekscytująca historia rozgrywająca się w świecie sztuki, pełna zarazem humoru i lekkości, jak i rodzinnych napięć i emocji. Prowokuje, pytając o różnicę między wartością a ceną. Pierwszy pokaz w Polsce.",
+        "genres": [
+          "Dramat",
+          "Komedia"
+        ],
+        "external": {
+          "imdb": {
+            "id": "tt34966562",
+            "url": "https://www.imdb.com/title/tt34966562/",
+            "rating": 6.8,
+            "votes": 6874
+          },
+          "filmweb": {
+            "id": "10093695",
+            "url": "https://www.filmweb.pl/film/Fa%C5%82szerka-2025-10093695",
+            "genres": [
+              "Dramat",
+              "Komedia"
+            ],
+            "rating": 6,
+            "votes": 112
+          },
+          "rottenTomatoes": {
+            "url": "https://www.rottentomatoes.com/m/the_christophers",
+            "title": "The Christophers",
+            "year": "2025",
+            "directors": [
+              "Steven Soderbergh"
+            ],
+            "criticsRating": 95,
+            "criticsVotes": 174,
+            "audienceRating": 87,
+            "audienceVotes": 114
+          }
+        },
+        "longDescription": "Sztuka, pieniądze i oszustwo. Steven Soderbergh (OCEAN’S ELEVEN, SZPIEDZY, MAGIC MIKE) wraca z przewrotną opowieścią ze świata, w którym o wartości dzieła potrafi przesądzić nie talent, lecz nazwisko na płótnie. Na ekranie spotykają się legenda brytyjskiego aktorstwa Ian McKellen i elektryzująca Michaela Coel, gwiazda i scenarzystka nagradzanego serialu MOGĘ CIĘ ZNISZCZYĆ. Ich aktorski pojedynek to jeden z największych atutów tego błyskotliwego dramatu z kryminalną intrygą w tle.\n\nJulian Sklar (McKellen), niegdyś gwiazda londyńskiej sceny artystycznej, od lat nie namalował niczego, co mogłoby zainteresować świat sztuki. Jego dzieci mają jednak nadzieję, że niedokończone obrazy ojca są warte fortunę. W tym celu zatrudniają Lori (Coel), utalentowaną konserwatorkę i byłą fałszerkę, która ma wkraść się w łaski ekscentrycznego artysty i potajemnie dokończyć serię jego niedokończonych prac. Plan wydaje się prosty, dopóki nie okazuje się, że w tej grze każdy ma coś do ukrycia, a Julian może być znacznie sprytniejszy, niż ktokolwiek przypuszczał.\n\nSoderbergh z charakterystyczną lekkością i przewrotnym poczuciem humoru prowadzi widzów przez kolejne warstwy mistyfikacji, zamieniając pozornie kameralną historię w pełną niespodzianek rozgrywkę. Pod powierzchnią intrygi kryją się jednak pytania o artystyczne dziedzictwo, autentyczność i granice twórczego oszustwa. Co sprawia, że obraz staje się bezcenny? Podpis autora, jego historia, a może opowieść, którą chcemy w nim zobaczyć?\n\nW świecie, w którym sztuka bywa równie dobrze inwestycją, towarem i narzędziem budowania własnej legendy, FAŁSZERKA z humorem i inteligencją podważa granicę między wartością a ceną. A kiedy do gry wchodzą ego, rodzinne urazy i ambicje, nawet najbardziej misterny plan może wymknąć się spod kontroli. W rolach drugoplanowych błyszczą Jessica Gunning (RENIFEREK) i James Corden.\n\nEN\n\nArt, money and deception. Steven Soderbergh (OCEAN’S ELEVEN, BLACK BAG, MAGIC MIKE) returns with a sly story set in a world where the value of a work may depend less on talent than on the name in the corner of the canvas. British acting legend Ian McKellen faces off against the electrifying Michaela Coel, star and creator of the award-winning series I MAY DESTROY YOU. Their on-screen duel is one of the great pleasures of this smart, playful drama, with a criminal plot simmering underneath.\n\nFor years Julian Sklar (McKellen), once a star of the London art scene, hasn’t painted anything interesting for the art world. His children, however, are convinced that his unfinished paintings could be worth a fortune. They hire Lori (Coel), a gifted conservator and former forger, to charm her way into the eccentric artist’s confidence and secretly finish a series of incomplete works. It sounds straightforward enough – until it becomes clear that everyone has something to hide, and Julian may be far sharper than anyone gave him credit for.\n\nWith his trademark lightness of touch and mischievous humour, Soderbergh peels back layer after layer of deception, turning what begins as an intimate chamber piece into an increasingly unpredictable game. Beneath the intrigue are questions about artistic legacy, authenticity and the limits of creative fraud. What makes a painting priceless: the signature, the history behind it, or the story we choose to see in it?\n\nIn a world where art can be an investment, a commodity and a way of building one’s own legend all at once, THE CHRISTOPHERS wittily probes the line between value and price. And once ego, family resentment and ambition come into play, even the best-laid plans can unravel. Jessica Gunning (BABY REINDEER) and James Corden shine in supporting roles.",
+        "poster": "media/posters/7c7557708a4deae1cddc.webp"
+      },
+      {
+        "hour": "19:30",
+        "datetime": "2026-11-11 19:30:00",
+        "title": "Rozważna i Romantyczna 2026",
+        "originalTitle": "Sense and Sensibility",
+        "director": "Georgia Oakley",
+        "year": "2026",
+        "premiereDate": "",
+        "duration": "131",
+        "countries": "USA",
+        "shortDesc": "<p>Rewizja Austenowskiej prozy wydobywająca z kultowej powieści siostrzeństwo, emancypację i realizm epoki. Georgiańska Anglia. Po śmierci ojca siostry Dashwood wraz z matką zostają zmuszone opuścić dom. Nowa rzeczywistość stawia je w ogniu konwenansów, finansowych trudów i miłosnej niepewności.</p>\n",
+        "lang": "en",
+        "subtitlesLang": "pl",
+        "age": "16",
+        "credits": "reż. Georgia Oakley <br>USA <br>2026,131’",
+        "desc": "<p>Rewizja Austenowskiej prozy wydobywająca z kultowej powieści siostrzeństwo, emancypację i realizm epoki. Georgiańska Anglia. Po śmierci ojca siostry Dashwood wraz z matką zostają zmuszone opuścić dom. Nowa rzeczywistość stawia je w ogniu konwenansów, finansowych trudów i miłosnej niepewności.</p>\n",
+        "hall": "2",
+        "movieLink": "https://www.kinomuza.pl/movie/rozwazna-i-romantyczna-3/",
+        "ticketLink": "https://estradapoznan.bilety24.pl/kup-bilety/?id=1009128",
+        "prePremier": false,
+        "tape35mm": false,
+        "ad": false,
+        "deaf": false,
+        "ticketPrice": "",
+        "ticketHalfPrice": "",
+        "alt": "Rozważna i Romantyczna 2026",
+        "thumb": "https://www.kinomuza.pl/content/uploads/2026/08/romantyczna-5-800x450.jpg",
+        "description": "Rewizja Austenowskiej prozy wydobywająca z kultowej powieści siostrzeństwo, emancypację i realizm epoki. Georgiańska Anglia. Po śmierci ojca siostry Dashwood wraz z matką zostają zmuszone opuścić dom. Nowa rzeczywistość stawia je w ogniu konwenansów, finansowych trudów i miłosnej niepewności.",
+        "shortDescription": "Rewizja Austenowskiej prozy wydobywająca z kultowej powieści siostrzeństwo, emancypację i realizm epoki. Georgiańska Anglia. Po śmierci ojca siostry Dashwood wraz z matką zostają zmuszone opuścić dom. Nowa rzeczywistość stawia je w ogniu konwenansów, finansowych trudów i miłosnej niepewności.",
+        "genres": [
+          "Melodramat",
+          "Kostiumowy"
+        ],
+        "external": {
+          "imdb": {
+            "id": "tt13609648",
+            "url": "https://www.imdb.com/title/tt13609648/",
+            "rating": 7.4,
+            "votes": 5520
+          },
+          "filmweb": {
+            "id": "10087170",
+            "url": "https://www.filmweb.pl/film/Rozwa%C5%BCna+i+romantyczna-2026-10087170",
+            "genres": [
+              "Melodramat",
+              "Kostiumowy"
+            ],
+            "rating": 7.3,
+            "votes": 2262
+          },
+          "rottenTomatoes": {
+            "url": "https://www.rottentomatoes.com/m/sense_and_sensibility_2026",
+            "title": "Sense and Sensibility (2026)",
+            "year": "2026",
+            "directors": [
+              "Georgia Oakley"
+            ],
+            "criticsRating": 76,
+            "criticsVotes": 117,
+            "audienceRating": 89,
+            "audienceVotes": 701
+          }
+        },
+        "longDescription": "Rewizja klasycznej prozy Jane Austen, która debiutując w 1811 roku pod pseudonimem The Lady zaskoczyła czytelników bardziej ironicznym niż przesiąkniętym romantyzmem tonem, zjadliwym humorem i realistycznym obrazem epoki. Twórcy nowej ROZWAŻNEJ I ROMANTYCZNEJ nie tylko idą pierwotnym śladem niezmiennie uwielbianej pisarki, lecz także rozluźniają sznurowadła społecznego gorsetu, aby wydobyć motyw kobiecej emancypacji oraz siłę siostrzanej więzi. Wnikają przy tym w zawiłe niuanse georgiańskiej mentalności, odkrywając konflikt serca i rozwagi nie zawsze kończący się kliszą happy endu.\n\nWraz ze śmiercią pana Dashwooda jego trzy córki i druga żona zostają zmuszone do opuszczenia rodzinnej posiadłości. Zgodnie z dawnym angielskim prawem jego majątek dziedziczy męski spadkobierca, w tym przypadku syn z pierwszego małżeństwa. Siostry Dashwood zostają skazane na łaskę krewnych, mając świadomość jedynej akceptowanej społecznie drogi kobiecej stabilizacji – zamążpójścia. Najstarsze siostry, roztropna Elinor (oklaskiwana po występie w GDZIE ŚPIEWAJĄ RAKI Daisy Edgar-Jones) oraz podążająca za emocjami Marianne (znana z seriali HANNA i SANDMAN Esmé Creed-Miles), muszą sprostać oczekiwaniom drżącego przed etykietą środowiska i własnym dylematom serca.\n\nStojąca za kamerą Georgia Oakley (PTASZYNA, BLUE JEAN) po raz kolejny poraża wielką świadomością stylu zakorzenionego w wizualnym języku europejskich mistrzów, w tym francuskiej intymności czy wnikliwych obserwacjach ludzkich mechanizmów rodem z hiszpańskiego ekranu. Filmowe światy nominowanej do nagrody BAFTA brytyjskiej reżyserski przenika pewna doza zmysłowości, ale na próżno szukać w nich szablonowości czy upiększeń. Drogę do wciąż aktualnej problematyki społecznej wyznacza w nich kontekst historyczny, queerowa wrażliwość i psychologia postaci. Z pomocą australijskiej scenarzystki Diany Reid twórczynie przepuszczają przez realistyczny filtr ponadczasowe emocje i perypetie sióstr Dashwood poszukujących własnego miejsca w świecie.\n\nEN\n\nA fresh take on Jane Austen’s classic novel, first published in 1811 under the pseudonym “A Lady”, which surprised readers with a tone more ironic than romantic, a sharp wit and a clear-eyed portrait of its age. The makers of the new SENSE AND SENSIBILITY not only follow in the footsteps of the ever-beloved author, but also loosen the stays of social convention to bring female emancipation and the strength of sisterhood to the fore. At the same time, they delve into the intricacies of the Georgian mindset, exploring a conflict between feeling and reason that does not always resolve itself into the reassuring shape of a happy ending.\n\nAfter Mr Dashwood’s death, his second wife and three daughters are forced to leave the family estate. Under the inheritance laws of the time, his property passed to a male heir – in this case, his son from his first marriage. The Dashwood sisters are left dependent on the goodwill of relatives and acutely aware that marriage remains the only socially acceptable route to security. The two eldest, the sensible Elinor (Daisy Edgar-Jones, acclaimed for her performance in WHERE THE CRAWDADS SING) and the more impulsive Marianne (Esmé Creed-Miles, known from HANNA and THE SANDMAN), must navigate both the expectations of a society in thrall to etiquette and the complications of their own hearts.\n\nDirector Georgia Oakley (LITTLE BIRD, BLUE JEAN) once again displays a striking command of style, rooted in the visual language of European cinema – from French intimacy to the acute observation of human behaviour associated with Spanish film. A certain sensuality runs through the work of the BAFTA-nominated British filmmaker, yet there is little room for formula or prettification. Historical context, queer sensitivity and close attention to character psychology become her routes into social questions that remain strikingly relevant. Working with Australian screenwriter Diana Reid, Oakley refracts the timeless emotions and romantic entanglements of the Dashwood sisters through a realist lens as they search for a place of their own in the world.",
+        "poster": "media/posters/f97dfdbb297b0bd5c374.webp"
+      },
+      {
+        "hour": "19:45",
+        "datetime": "2026-11-11 19:45:00",
+        "title": "Zgiń, kochanie",
+        "originalTitle": "Die, My Love",
+        "director": "Lynne Ramsay",
+        "year": "2025",
+        "premiereDate": "2025-12-12",
+        "duration": "118",
+        "countries": "Wielka Brytania",
+        "shortDesc": "<p>Powrót Lynne Ramsay z bezkompromisowym studium depresji poporodowej, samotności i kryzysu tożsamości. W krajobrazach Montany marzenie o romantycznej ucieczce zamienia się w koszmar. Na ekranie Pattinson i Lawrence, która tworzy hipnotyzującą i odważną kreację kobiety na skraju załamania.</p>\n",
+        "lang": "en",
+        "subtitlesLang": "pl",
+        "age": "16",
+        "credits": "reż. Lynne Ramsay <br>Wielka Brytania <br>2025,118’",
+        "desc": "<p>Powrót Lynne Ramsay z bezkompromisowym studium depresji poporodowej, samotności i kryzysu tożsamości. W krajobrazach Montany marzenie o romantycznej ucieczce zamienia się w koszmar. Na ekranie Pattinson i Lawrence, która tworzy hipnotyzującą i odważną kreację kobiety na skraju załamania.</p>\n",
+        "hall": "3",
+        "movieLink": "https://www.kinomuza.pl/movie/zgin-kochanie/",
+        "ticketLink": "https://estradapoznan.bilety24.pl/kup-bilety/?id=1009133",
+        "prePremier": false,
+        "tape35mm": false,
+        "ad": false,
+        "deaf": false,
+        "ticketPrice": "",
+        "ticketHalfPrice": "",
+        "alt": "Zgiń, kochanie",
+        "thumb": "https://www.kinomuza.pl/content/uploads/2025/10/zgin-kochanie-2-800x450.jpg",
+        "description": "Powrót Lynne Ramsay z bezkompromisowym studium depresji poporodowej, samotności i kryzysu tożsamości. W krajobrazach Montany marzenie o romantycznej ucieczce zamienia się w koszmar. Na ekranie Pattinson i Lawrence, która tworzy hipnotyzującą i odważną kreację kobiety na skraju załamania.",
+        "shortDescription": "Powrót Lynne Ramsay z bezkompromisowym studium depresji poporodowej, samotności i kryzysu tożsamości. W krajobrazach Montany marzenie o romantycznej ucieczce zamienia się w koszmar. Na ekranie Pattinson i Lawrence, która tworzy hipnotyzującą i odważną kreację kobiety na skraju załamania.",
+        "genres": [
+          "Dramat",
+          "Psychologiczny"
+        ],
+        "external": {
+          "imdb": {
+            "id": "tt9362736",
+            "url": "https://www.imdb.com/title/tt9362736/",
+            "rating": 6,
+            "votes": 50647
+          },
+          "filmweb": {
+            "id": "10023025",
+            "url": "https://www.filmweb.pl/film/Zgi%C5%84+kochanie-2025-10023025",
+            "genres": [
+              "Dramat",
+              "Psychologiczny"
+            ],
+            "rating": 5.8,
+            "votes": 12596
+          },
+          "rottenTomatoes": {
+            "url": "https://www.rottentomatoes.com/m/die_my_love_2025",
+            "title": "Die My Love (2025)",
+            "year": "2025",
+            "directors": [
+              "Lynne Ramsay"
+            ],
+            "criticsRating": 74,
+            "criticsVotes": 271,
+            "audienceRating": 45,
+            "audienceVotes": 629
+          }
+        },
+        "longDescription": "Lynne Ramsay, gościni i bohaterka retrospektywy reżyserskiej podczas British Film Festival 2024, powróciła w zeszłym roku z dziełem totalnym. ZGIŃ, KOCHANIE to kolejny dowód niezwykle czujnego spojrzenia i przenikliwej wrażliwości, która jak nikt inny potrafi przełożyć mroczne stany duszy na unikalny język wizualny.\n\nRamsay zabiera nas do odległej Montany, gdzie Grace i Jackson (nominowana do Złotego Globa Jennifer Lawrence i podbijający w tym roku kina Robert Pattinson) postanawiają zrealizować marzenie o ucieczce od miejskiego zgiełku. Ich sielanka w drewnianym domu pośrodku głuszy szybko jednak odsłania swoje drugie, mroczne oblicze. Ramsay z chirurgiczną precyzją pokazuje, jak idylliczna fasada pęka pod ciężarem izolacji i nowych obowiązków po narodzinach dziecka. To właśnie wtedy rozpoczyna się hipnotyzujące studium psychologicznego rozkładu.\n\nEkranem rządzi Jennifer Lawrence w roli Grace, która tworzy kreację wybitną, być może najważniejszą w jej dotychczasowej karierze. Jej portret kobiety pogrążającej się w otchłani depresji poporodowej, uwięzionej między utraconą tożsamością a (nie)chcianą rolą matki, magnetyzuje i porywa. Ramsay prowadzi swoją aktorkę przez najciemniejsze zakamarki emocji, budując opowieść, która jest jednocześnie brutalnie szczera i poetycko piękna.\n\nZGIŃ, KOCHANIE porusza, olśniewa wizualnie i umacnia pozycję Ramsay jako jednej z najbardziej bezkompromisowych autorek współczesnego kina.\n\nEN\n\nLynne Ramsay, a guest of honour and the subject of a director’s retrospective at the 2024 British Film Festival, returned last year with one of her most uncompromising films yet. DIE, MY LOVE is further proof of her extraordinary visual instinct and rare sensitivity to the darker states of mind.\n\nRamsay takes us to remote Montana, where Grace and Jackson (Golden Globe nominee Jennifer Lawrence and Robert Pattinson, who is taking the cinema world by storm this year) decide to fulfil their dream of escaping the hustle and bustle of city life. However, their idyll in a wooden house in the middle of nowhere soon reveals its dark underbelly. With surgical precision, Ramsay shows how the idyllic façade is cracking under the weight of isolation and new responsibilities following the birth of their child. At this point, a mesmerising study of psychological breakdown begins.\n\nJennifer Lawrence dominates the screen as Grace, delivering an outstanding performance – perhaps the most significant of her career to date. Her portrayal of a woman plunging into the depths of postnatal depression, trapped between a lost sense of self and her (un)wanted role as a mother, is mesmerising and captivating. Ramsay guides her actress through the darkest recesses of emotion, crafting a story that is both brutally honest and poetically beautiful.\n\nDIE, MY LOVE is emotionally raw, visually arresting and another reminder of Ramsay’s place among the most uncompromising voices in contemporary cinema.",
+        "poster": "media/posters/075b3e10310d24f44f37.webp"
+      },
       {
         "hour": "20:00",
         "datetime": "2026-11-11 20:00:00",
@@ -62,6 +1043,328 @@
         },
         "longDescription": "Transylwania, rok 1885. Jonathan Harker (John Van Eyssen) przybywa do zamku hrabiego Draculi (Christopher Lee w roli, która przyniosła mu sławę i, nomen omen, nieśmiertelność) pod pretekstem uporządkowania tamtejszej kolekcji bibliotecznej. W rzeczywistości nie o książki mu chodzi. Jego misja jest dużo bardziej niebezpieczna. Mężczyzna planuje zgładzić arystokratę, który skrywa przerażającą naturę. Jest on, co tu dużo mówić, wampirem. Gdy Dracula odkrywa prawdziwe zamiary Harkera, postanawia – zrobiwszy najpierw to i owo – zająć się narzeczoną gościa, czyli Lucy Holmwood (Carol Marsh). Wkrótce nie tylko ona, ale i cała jej rodzina zostaje uwikłana w walkę ze złem. Pomaga im doktor Abraham Van Helsing (Peter Cushing), uczony próbujący przekonać otaczających go sceptyków, że za serią niepokojących wydarzeń stoi istota, której nie sposób pokonać konwencjonalnymi metodami (radę dają natomiast kwiaty czosnku, krucyfiksy, drewniane kołki i oczywiście światło słoneczne). HORROR DRACULI (1958) Terence’a Fishera to jedno z tych dzieł – obok na przykład PRZEKLEŃSTWA FRANKENSTEINA (1957) w reżyserii tego samego twórcy – które zdefiniowało brytyjskie kino grozy. Utwór ten powstał pod egidą wytwórni Hammer Film Productions, która, począwszy zresztą od tego momentu, wyspecjalizowała się w reinterpretowaniu znanych gotyckich opowieści poprzez dodanie do nich koloru (tak zwane niesamowitki z hollywoodzkiego okresu przedkodeksowego kojarzyły się z czernią i bielą). Ta decyzja artystyczna – banalna na pierwszy rzut oka, a przecież podbijająca efekt strachu i obrzydzenia (wreszcie czerwona krew na ekranie!) – wywróciła gatunek do góry nogami, czego HORROR DRACULI jest znakomitym przykładem.\n\nEN\n\nTransylvania, 1885. Jonathan Harker (John Van Eyssen) arrives at Count Dracula’s castle under the pretext of cataloguing its library. Books, however, are not his real concern. His mission is far more dangerous: he intends to destroy the aristocrat, whose true nature is terrifying. Dracula is, quite simply, a vampire.\n\nWhen Dracula discovers Harker’s true intentions, he decides – after doing a few things first – to turn his attention to the man’s fiancée, Lucy Holmwood (Carol Marsh). Soon, not only she, but her entire family, becomes embroiled in the battle against evil. Their ally is Dr Abraham Van Helsing (Peter Cushing), a scholar trying to convince the sceptics around him that behind a series of disturbing events lies a creature that cannot be defeated by conventional means (the remedies, however, are garlic, crucifixes, wooden stakes and, of course, sunlight).\n\nTerence Fisher’s HORROR OF DRACULA (1958), alongside films such as his own THE CURSE OF FRANKENSTEIN (1957), helped define British horror. Produced by Hammer Film Productions, it marked the beginning of the studio’s distinctive approach to reimagining familiar Gothic tales through colour at a time when classic screen horror was still strongly associated with black and white.\n\nThe choice may seem straightforward, but it transformed the genre by intensifying both fear and disgust: blood could finally appear vividly red on screen. HORROR OF DRACULA remains one of the clearest examples of how decisively that shift changed the face of horror cinema.",
         "poster": "media/posters/d3ee21c0f241948531f7.webp"
+      },
+      {
+        "hour": "20:15",
+        "datetime": "2026-11-11 20:15:00",
+        "title": "The Incomer",
+        "originalTitle": "",
+        "director": "Louis Paxton",
+        "year": "2026",
+        "premiereDate": "",
+        "duration": "102",
+        "countries": "Irlandia, Wielka Brytania",
+        "shortDesc": "<p>Na odległej szkockiej wyspie, mieszka samotnie rodzeństwo Isla i Sandy, którzy ze swojego świata skutecznie tępią wszystkich niechcianych przybyszów. Ich rzeczywistość zmienia się całkowicie, kiedy przybywa nieporadny urzędnik Daniel (Domhnall Gleeson), którego zadaniem jest eksmitowanie ich na ląd.</p>\n",
+        "lang": "en",
+        "subtitlesLang": "pl",
+        "age": "16",
+        "credits": "reż. Louis Paxton <br>Irlandia, Wielka Brytania <br>2026,102’",
+        "desc": "<p>Na odległej szkockiej wyspie, mieszka samotnie rodzeństwo Isla i Sandy, którzy ze swojego świata skutecznie tępią wszystkich niechcianych przybyszów. Ich rzeczywistość zmienia się całkowicie, kiedy przybywa nieporadny urzędnik Daniel (Domhnall Gleeson), którego zadaniem jest eksmitowanie ich na ląd.</p>\n",
+        "hall": "1",
+        "movieLink": "https://www.kinomuza.pl/movie/the-incomer/",
+        "ticketLink": "https://estradapoznan.bilety24.pl/kup-bilety/?id=1009122",
+        "prePremier": false,
+        "tape35mm": false,
+        "ad": false,
+        "deaf": false,
+        "ticketPrice": "",
+        "ticketHalfPrice": "",
+        "alt": "The Incomer",
+        "thumb": "https://www.kinomuza.pl/content/uploads/2026/10/incomer-1-800x450.jpg",
+        "description": "Na odległej szkockiej wyspie, mieszka samotnie rodzeństwo Isla i Sandy, którzy ze swojego świata skutecznie tępią wszystkich niechcianych przybyszów. Ich rzeczywistość zmienia się całkowicie, kiedy przybywa nieporadny urzędnik Daniel (Domhnall Gleeson), którego zadaniem jest eksmitowanie ich na ląd.",
+        "shortDescription": "Na odległej szkockiej wyspie, mieszka samotnie rodzeństwo Isla i Sandy, którzy ze swojego świata skutecznie tępią wszystkich niechcianych przybyszów. Ich rzeczywistość zmienia się całkowicie, kiedy przybywa nieporadny urzędnik Daniel (Domhnall Gleeson), którego zadaniem jest eksmitowanie ich na ląd.",
+        "genres": [
+          "Komedia"
+        ],
+        "external": {
+          "imdb": {
+            "id": "tt36980182",
+            "url": "https://www.imdb.com/title/tt36980182/",
+            "rating": 7.1,
+            "votes": 2368
+          },
+          "filmweb": {
+            "id": "10093682",
+            "url": "https://www.filmweb.pl/film/The+Incomer-2026-10093682",
+            "genres": [
+              "Komedia"
+            ],
+            "rating": 6.4,
+            "votes": 79
+          },
+          "rottenTomatoes": {
+            "url": "https://www.rottentomatoes.com/m/the_incomer",
+            "title": "The Incomer",
+            "year": "2026",
+            "directors": [
+              "Louis Paxton"
+            ],
+            "criticsRating": 95,
+            "criticsVotes": 65,
+            "audienceRating": 88,
+            "audienceVotes": 95
+          }
+        },
+        "longDescription": "Pokazywany jako premiera światowa na Sundance 2026 debiut fabularny Louisa Paxtona, zabiera nas na odległą i pozornie bezludną szkocką wyspę. Tak naprawdę zamieszkują ją dwie osoby. Jedynymi mieszkańcami tego miejsca jest rodzeństwo Isla i Sandy (w tych rolach wspaniali Gayle Rankin i Grant O’Rourke), którzy w całkowitej izolacji przed światem, rozmawiają z ptakami morskimi, są w kontakcie z mitycznymi folkowymi stworzeniami i noszą nieco zmęczone nordyckie swetry. Jednocześnie bronią swojej bastylii i ustalonego autorsko status quo, chroniąc się zaciekle przed obcymi przybyszami, którzy mogliby wtargnąć nieoczekiwanie do ich świata. Rzeczywistość rodzeństwa zmienia się całkowicie, kiedy na wyspę przybywa Daniel (Domhnall Gleeson) – niezdarny urzędnik, którego zadaniem jest wysiedlenie i przeniesienie ich na ląd. Przy tak ekscentrycznych charakterach, które na dodatek są na swoim terenie, łatwiej oczywiście jest to powiedzieć, niż realnie zrobić! Intruz początkowo popada w tarapaty, ale po kilku dniach (i specyficznym rytuale inicjacyjnym), ciekawość nowego wygrywa i następuje ocieplenie relacji. Daniel przecież przywozi ze sobą masę ciekawych opowieści z kontynentu: od magicznego Internetu, poprzez historię awokado lub próbę (nieskuteczną) wytłumaczenia, czym jest weganizm. Przynosi też przerwanie rutyny i ocieplenie międzyludzkich relacji oraz więzi. THE INCOMER to urocza i przezabawna interpretacja szkockiego folkloru wyspiarskiego, która mieszając sposoby narracji – od stosowania nie biorącego jeńców humoru, poprzez urocze wymiany zdań między bohaterami, zastosowanie animacji, pomysłowość scenariuszową i nadanie całości sznytu wręcz baśniowej opowieści – jest czystą przyjemnością podczas oglądania. Jednocześnie bohaterami tej zabawnej historii o obronie własnych wartości, są majestatyczne szkockie klify, zorza polarna, skarby, które przypłynęły na wyspę z falami i moce magiczne pogubionych czarodziejskich bohaterów. Jeśli szukać normalności, to dlaczego nie w przerażających kostiumach przypominających ptaki morskie, które jednocześnie skutecznie odstraszają niechcianych przybyszów, którzy nigdy nie zrozumieją kontekstu tego miejsca.\n\nEN\n\nPremiered at Sundance 2026, Louis Paxton’s feature debut takes us to a remote, seemingly deserted Scottish island. In fact, it has exactly two inhabitants: siblings Isla and Sandy (played with great flair by Gayle Rankin and Grant O’Rourke), who live in complete isolation from the outside world, talk to seabirds, commune with mythical folk creatures and wear slightly worn Nordic jumpers. At the same time, they fiercely defend their stronghold and carefully preserved status quo, keeping unwanted outsiders at bay.\n\nTheir world is turned upside down when Daniel (Domhnall Gleeson) arrives on the island. A hapless civil servant, he has been sent to evict the pair and relocate them to the mainland. With two such eccentric characters on home turf, that is rather easier said than done. At first, the intruder lands himself in trouble, but after a few days – and a rather unusual initiation ritual – curiosity gets the better of them, and relations begin to thaw. Daniel, after all, brings with him a wealth of stories from the mainland: from the wonders of the internet to the history of the avocado, not to mention an unsuccessful attempt to explain veganism. He also disrupts their routine and gradually brings warmth back into their relationships and everyday life.\n\nTHE INCOMER is a charming and very funny take on Scottish island folklore. Mixing modes of storytelling – from no-holds-barred humour and delightful exchanges between the characters to animation, playful writing and an almost fairy-tale quality – it is sheer fun to watch. The majestic Scottish cliffs, the Northern Lights, treasures washed ashore by the waves and the magical powers of wayward mythical figures are as much a part of this story about defending one’s values as the human characters themselves.\n\nAnd if normality is to be found anywhere, why not in terrifying seabird-like costumes that also happen to be remarkably effective at scaring off unwanted visitors who could never hope to understand the logic of this place?",
+        "poster": "media/posters/61b11ed0a92dedae71b3.webp"
+      },
+      {
+        "hour": "21:45",
+        "datetime": "2026-11-11 21:45:00",
+        "title": "Rose of Nevada",
+        "originalTitle": "",
+        "director": "Mark Jenkin",
+        "year": "2025",
+        "premiereDate": "",
+        "duration": "115",
+        "countries": "Wielka Brytania",
+        "shortDesc": "<p>Pewnego dnia w wiosce w Kornwalii pojawia się łódź, która zaginęła 30 lat temu razem z załogą. Ma wrócić na morze łowić ryby, a na pokład zgłaszają się na ochotnika Nick (George MacKay) oraz Liam (Callum Turner). Nakręcony na taśmie 16 mm film, zaprasza do rozwiązania lokalnej zagadki z przeszłości.</p>\n",
+        "lang": "en",
+        "subtitlesLang": "pl",
+        "age": "16",
+        "credits": "reż. Mark Jenkin <br>Wielka Brytania <br>2025,115’",
+        "desc": "<p>Pewnego dnia w wiosce w Kornwalii pojawia się łódź, która zaginęła 30 lat temu razem z załogą. Ma wrócić na morze łowić ryby, a na pokład zgłaszają się na ochotnika Nick (George MacKay) oraz Liam (Callum Turner). Nakręcony na taśmie 16 mm film, zaprasza do rozwiązania lokalnej zagadki z przeszłości.</p>\n",
+        "hall": "rialto",
+        "movieLink": "https://www.kinomuza.pl/movie/rose-of-nevada/",
+        "ticketLink": "https://estradapoznan.bilety24.pl/kup-bilety/?id=1009138",
+        "prePremier": false,
+        "tape35mm": false,
+        "ad": false,
+        "deaf": false,
+        "ticketPrice": "",
+        "ticketHalfPrice": "",
+        "alt": "Rose of Nevada",
+        "thumb": "https://www.kinomuza.pl/content/uploads/2026/10/rose-2-800x450.jpg",
+        "description": "Pewnego dnia w wiosce w Kornwalii pojawia się łódź, która zaginęła 30 lat temu razem z załogą. Ma wrócić na morze łowić ryby, a na pokład zgłaszają się na ochotnika Nick (George MacKay) oraz Liam (Callum Turner). Nakręcony na taśmie 16 mm film, zaprasza do rozwiązania lokalnej zagadki z przeszłości.",
+        "shortDescription": "Pewnego dnia w wiosce w Kornwalii pojawia się łódź, która zaginęła 30 lat temu razem z załogą. Ma wrócić na morze łowić ryby, a na pokład zgłaszają się na ochotnika Nick (George MacKay) oraz Liam (Callum Turner). Nakręcony na taśmie 16 mm film, zaprasza do rozwiązania lokalnej zagadki z przeszłości.",
+        "genres": [
+          "Sci-Fi",
+          "Dramat"
+        ],
+        "external": {
+          "imdb": {
+            "id": "tt35674521",
+            "url": "https://www.imdb.com/title/tt35674521/",
+            "rating": 6.2,
+            "votes": 3894
+          },
+          "filmweb": {
+            "id": "10072340",
+            "url": "https://www.filmweb.pl/film/R%C3%B3%C5%BCa+z+Nevady-2025-10072340",
+            "genres": [
+              "Sci-Fi",
+              "Dramat"
+            ],
+            "rating": 6.9,
+            "votes": 676
+          },
+          "rottenTomatoes": {
+            "url": "https://www.rottentomatoes.com/m/rose_of_nevada",
+            "title": "Rose of Nevada",
+            "year": "2025",
+            "directors": [
+              "Mark Jenkin"
+            ],
+            "criticsRating": 92,
+            "criticsVotes": 106,
+            "audienceRating": 54,
+            "audienceVotes": 98
+          }
+        },
+        "longDescription": "Reżyser Mark Jenkin (który tutaj – co charakterystyczne dla jego twórczości – jest równocześnie scenarzystą, montażystą, operatorem i kompozytorem muzyki), w swoim najnowszym filmie ponownie zabiera nas do rodzinnej Kornwalii, żeby opowiedzieć historię zapomnianej, maleńkiej wioski rybackiej, znajdującej się na celtyckim półwyspie wysuniętym ku Atlantykowi. Pewnego dnia, w niewielkim starym porcie pojawia się tajemnicza łódka o nazwie Rose of Nevada , która zaginęła 30 lat temu razem ze wszystkimi członkami załogi. Dla tych, co nie pamiętają, to anomalia i przypowiastka. Jednak wśród starszych wywołuje to niepokój i stanowi swoisty znak. Wiedzą, że łódź musi ponownie wypłynąć w morze, żeby mieszkańcy wioski zaznali spokoju. Przypominający Ahaba z Moby Dicka kapitan Murgey (Francis Magee), kolekcjonuje nową załogę, żeby ruszyć na połów ryb i tchnąć ponownie życie w starą zapomnianą łajbę. Na ochotnika zgłasza się Nick (George MacKay), dla którego jest to dodatkowa okazja do zarobienia pieniędzy i wyżywienia swojej rodziny, oraz nowy członek społeczności Liam (Callum Turner), który na surowym morzu chętnie ucieknie od swojej przeszłości. Ubrani w żółte sztormiaki wypływają we trójkę, a woda obdarowuje ich szczodrze. W duszącej, klaustrofobicznej izolacji na małej przestrzeni, patroszą złowione ryby, których zapach unosi się wszędzie. Kiedy wykonali powierzone zadanie i z dumą wracają do portu, nic nie jest już takie, jakie zostawili. Coś jest nie tak, i nawet czas stracił swoją normalną oś zdarzeń. Nakręcony na taśmie 16 mm film Jenkina, to oniryczna opowieść zgrabnie posługująca się metaforą, która poprzez drobne detale prowadzi widza i zaprasza do rozwiązania lokalnej tajemnicy. Wśród morskiej bryzy unosi się atmosfera i obecność duchów – ludzi, których nie ma już wśród nas, ale i milczący dramat straumatyzowanej przeszłością społeczności.\n\nEN\n\nIn his latest film, director Mark Jenkin – who, characteristically, also serves as screenwriter, editor, cinematographer and composer – returns to his native Cornwall to tell the story of a tiny, forgotten fishing village on the Celtic peninsula jutting out into the Atlantic.\n\nOne day, a mysterious boat called Rose of Nevada appears in the old harbour. It vanished thirty years earlier, taking its entire crew with it. To those too young to remember, its return is little more than an anomaly, almost a folk tale brought to life. For the older villagers, however, it is deeply unsettling – a sign of sorts. They know the boat must be put to sea again if the village is ever to find peace.\n\nCaptain Murgey (Francis Magee), an Ahab-like figure, sets about assembling a new crew to go fishing and breathe life back into the long-forgotten vessel. Nick (George MacKay) volunteers, seeing it as a chance to earn extra money and provide for his family. So does Liam (Callum Turner), a newcomer to the community who is only too willing to escape his past on the unforgiving sea.\n\nDressed in yellow oilskins, the three men head out together, and the sea rewards them generously. In the stifling, claustrophobic confines of the boat, they gut their catch as the smell of fish fills every corner. When the job is done, and they return proudly to harbour, nothing is quite as they left it. Something is wrong, and even time itself seems to have slipped off its usual axis.\n\nShot on 16mm, Jenkin’s film is an oneiric tale that uses metaphor with great precision, guiding the viewer through small details and inviting them to piece together a local mystery. The sea air carries the presence of ghosts, people no longer among the living, as well as the quiet trauma of a community scarred by its past.",
+        "poster": "media/posters/1262b7aded06d188d540.webp"
+      },
+      {
+        "hour": "22:15",
+        "datetime": "2026-11-11 22:15:00",
+        "title": "28 lat później - Część 2: Świątynia kości",
+        "originalTitle": "28 YEARS LATER: THE BONE TEMPLE",
+        "director": "Nia DaCosta",
+        "year": "2026",
+        "premiereDate": "2026-01-16",
+        "duration": "109",
+        "countries": "USA, Wielka Brytania",
+        "shortDesc": "<p>Nowa część horrorowej serii 28 DNI PÓŹNIEJ, tym razem w reżyserii Nii DaCosty, która zaszczepia scenariusz Garlanda heavy metalową energią. Kontynuuje historię Spike’a, wplątanego w sidła demonicznej grupy Jimmy’ego Crystala. Chłopak odkrywa, że w człowieku drzemie większe zło niż w zarażonych.</p>\n",
+        "lang": "en",
+        "subtitlesLang": "pl",
+        "age": "18",
+        "credits": "reż. Nia DaCosta <br>USA, Wielka Brytania <br>2026,109’",
+        "desc": "<p>Nowa część horrorowej serii 28 DNI PÓŹNIEJ, tym razem w reżyserii Nii DaCosty, która zaszczepia scenariusz Garlanda heavy metalową energią. Kontynuuje historię Spike’a, wplątanego w sidła demonicznej grupy Jimmy’ego Crystala. Chłopak odkrywa, że w człowieku drzemie większe zło niż w zarażonych.</p>\n",
+        "hall": "3",
+        "movieLink": "https://www.kinomuza.pl/movie/90175/",
+        "ticketLink": "https://estradapoznan.bilety24.pl/kup-bilety/?id=1009134",
+        "prePremier": false,
+        "tape35mm": false,
+        "ad": false,
+        "deaf": false,
+        "ticketPrice": "",
+        "ticketHalfPrice": "",
+        "alt": "28 lat później - Część 2: Świątynia kości",
+        "thumb": "https://www.kinomuza.pl/content/uploads/2025/12/28-lat-p-2-3-800x450.jpg",
+        "description": "Nowa część horrorowej serii 28 DNI PÓŹNIEJ, tym razem w reżyserii Nii DaCosty, która zaszczepia scenariusz Garlanda heavy metalową energią. Kontynuuje historię Spike’a, wplątanego w sidła demonicznej grupy Jimmy’ego Crystala. Chłopak odkrywa, że w człowieku drzemie większe zło niż w zarażonych.",
+        "shortDescription": "Nowa część horrorowej serii 28 DNI PÓŹNIEJ, tym razem w reżyserii Nii DaCosty, która zaszczepia scenariusz Garlanda heavy metalową energią. Kontynuuje historię Spike’a, wplątanego w sidła demonicznej grupy Jimmy’ego Crystala. Chłopak odkrywa, że w człowieku drzemie większe zło niż w zarażonych.",
+        "genres": [
+          "Horror"
+        ],
+        "external": {
+          "imdb": {
+            "id": "tt32141377",
+            "url": "https://www.imdb.com/title/tt32141377/",
+            "rating": 7.2,
+            "votes": 133120
+          },
+          "filmweb": {
+            "id": "10068169",
+            "url": "https://www.filmweb.pl/film/28+lat+p%C3%B3%C5%BAniej+-+Cz%C4%99%C5%9B%C4%87+2%3A+%C5%9Awi%C4%85tynia+ko%C5%9Bci-2026-10068169",
+            "genres": [
+              "Horror"
+            ],
+            "rating": 6.8,
+            "votes": 20881
+          },
+          "rottenTomatoes": {
+            "url": "https://www.rottentomatoes.com/m/28_years_later_the_bone_temple",
+            "title": "28 Years Later: The Bone Temple",
+            "year": "2026",
+            "directors": [
+              "Nia DaCosta"
+            ],
+            "criticsRating": 91,
+            "criticsVotes": 351,
+            "audienceRating": 88,
+            "audienceVotes": 2795
+          }
+        },
+        "longDescription": "Niedawno Danny Boyle i Alex Garland powrócili do postapokaliptycznego świata opanowanego przez ludzi zainfekowanych wirusem, który wywołuje niekontrolowaną agresję. W najnowszym filmie z serii – ŚWIĄTYNI KOŚCI – młoda reżyserka Nia DaCosta przejmuje stery po Boyle’u i sięga aż po bebechy świata toczonego zarazą, aby dojść do jądra ciemności w sercu człowieka. Podobnie jak w poprzedniej części, nie brakuje refleksji, że jej okrycia nie są obce dla współczesnego człowieka. Czy do takiej rzeczywistości dzieli nas już tylko apokalipsa zombie?\n\nDaCosta powraca do bohaterów, których poznaliśmy w 28 DNI PÓŹNIEJ Boyle’a. Śledzi losy młodego Spike’a (Alfie Williams), który opuszcza swój dom i schronienie i wpada na psychopatyczną szajkę dowodzoną przez Jimmy’ego Crystala (Jack O’Connell). „Sir Lord” Crystal jest przekonany, że jego ojcem jest sam szatan, dlatego w jego imieniu jest zdolny dokonać większych okrucieństw niż zarażeni. Wkrótce sadystyczna grupa ze werbowanym Spike’iem odkrywa świątynię kości doktora Iana Kelsona (Ralph Fiennes), będącego na tropie odkrycia rewolucyjnego dla przyszłości.\n\nChoć angażowanie się w nową franczyzę wydawało się reżyserce THE MARVELS ryzykowne, do realizacji ŚWIĄTYNI KOŚCI zachęcił ją sam Jonathan Glazer. Szczęśliwie DaCosta otrzymała swobodę artystyczną od Boyle’a i doskonale ją wykorzystała opierając się na doskonałym scenariuszu Garlanda. Stworzyła filmową wersję heavy metalu (z którego zresztą chętnie korzysta w scenie z The Number of Beast) – jest bezkompromisowa, intensywna i odarta ze wszelkich świętości. Ten charakter objawia się nie tylko w wyborach muzycznych, ale też wizualnych, gdy film DaCosty aż ocieka mrożącą krew w żyłach symboliką. To przejmująca, brutalna, a przy tym skrupulatnie zrealizowana opowieść o naturze zła – choć zdecydowanie dla widowni o mocnym żołądku.\n\nEN\n\nDanny Boyle and Alex Garland recently returned to the post-apocalyptic world of 28 YEARS LATER, ravaged by a virus that drives the infected into uncontrollable violence. In the latest instalment, 28 YEARS LATER: THE BONE TEMPLE, yound director Nia DaCosta takes over directing duties from Boyle and turns her attention to the darker side of human nature. As in the previous film, the horrors she uncovers feel uncomfortably close to the present. Is a zombie apocalypse really all that separates us from such a world?\n\nDaCosta returns to the characters introduced in Boyle’s 28 YEARS LATER. She follows young Spike (Alfie Williams), who leaves the safety of his home only to fall in with a psychopathic gang led by Jimmy Crystal (Jack O’Connell). “Sir Lord” Crystal believes Satan himself to be his father and, in his name, proves capable of atrocities even worse than those committed by the infected. Before long, the sadistic group, with Spike now drawn into its ranks, comes across the bone temple of Dr Ian Kelson (Ralph Fiennes), who is on the verge of a discovery that could transform the future.\n\nAlthough joining another franchise initially seemed risky to the director of THE MARVELS, it was Jonathan Glazer himself who encouraged DaCosta to take on 28 YEARS LATER: THE BONE TEMPLE. Fortunately, Boyle gave her considerable creative freedom, and she makes full use of it, working from Garland’s assured screenplay. The result is the cinematic equivalent of heavy metal, a genre the film embraces outright in a sequence set to The Number of the Beast : uncompromising, intense and stripped of all reverence. That spirit runs through not only the music but the imagery, as DaCosta’s film positively drips with chilling symbolism. The result is a harrowing, brutal and meticulously crafted exploration of the nature of evil – though decidedly not for the faint-hearted.",
+        "poster": "media/posters/c72be3594ff3dc033400.webp"
+      },
+      {
+        "hour": "22:30",
+        "datetime": "2026-11-11 22:30:00",
+        "title": "Hellraiser: Wysłannik piekieł",
+        "originalTitle": "Hellraiser",
+        "director": "Clive Barker",
+        "year": "1987",
+        "premiereDate": "",
+        "duration": "93",
+        "countries": "Wielka Brytania ",
+        "shortDesc": "<p>Mężczyzna znudzony wszystkimi przyjemnościami otwiera łamigłówkę, która sprowadza cenobitów – istoty nieodróżniające bólu od rozkoszy. Reżyserski debiut Clive’a Barkera: brudny melodramat o pożądaniu przebrany za horror i jedna z najważniejszych brytyjskich premier lat osiemdziesiątych.</p>\n",
+        "lang": "en",
+        "subtitlesLang": "pl",
+        "age": "16",
+        "credits": "reż. Clive Barker <br>Wielka Brytania  <br>1987,93’",
+        "desc": "<p>Mężczyzna znudzony wszystkimi przyjemnościami otwiera łamigłówkę, która sprowadza cenobitów – istoty nieodróżniające bólu od rozkoszy. Reżyserski debiut Clive’a Barkera: brudny melodramat o pożądaniu przebrany za horror i jedna z najważniejszych brytyjskich premier lat osiemdziesiątych.</p>\n",
+        "hall": "1",
+        "movieLink": "https://www.kinomuza.pl/movie/hellraiser-wyslannik-piekiel/",
+        "ticketLink": "https://estradapoznan.bilety24.pl/kup-bilety/?id=1009123",
+        "prePremier": false,
+        "tape35mm": false,
+        "ad": false,
+        "deaf": false,
+        "ticketPrice": "",
+        "ticketHalfPrice": "",
+        "alt": "Hellraiser: Wysłannik piekieł",
+        "thumb": "https://www.kinomuza.pl/content/uploads/2026/10/hell-2-800x450.jpg",
+        "description": "Mężczyzna znudzony wszystkimi przyjemnościami otwiera łamigłówkę, która sprowadza cenobitów – istoty nieodróżniające bólu od rozkoszy. Reżyserski debiut Clive’a Barkera: brudny melodramat o pożądaniu przebrany za horror i jedna z najważniejszych brytyjskich premier lat osiemdziesiątych.",
+        "shortDescription": "Mężczyzna znudzony wszystkimi przyjemnościami otwiera łamigłówkę, która sprowadza cenobitów – istoty nieodróżniające bólu od rozkoszy. Reżyserski debiut Clive’a Barkera: brudny melodramat o pożądaniu przebrany za horror i jedna z najważniejszych brytyjskich premier lat osiemdziesiątych.",
+        "genres": [
+          "Horror"
+        ],
+        "external": {
+          "imdb": {
+            "id": "tt0093177",
+            "url": "https://www.imdb.com/title/tt0093177/",
+            "rating": 6.9,
+            "votes": 157984
+          },
+          "filmweb": {
+            "id": "31326",
+            "url": "https://www.filmweb.pl/film/Hellraiser%3A+Wys%C5%82annik+piekie%C5%82-1987-31326",
+            "genres": [
+              "Horror"
+            ],
+            "rating": 6.8,
+            "votes": 26518
+          },
+          "rottenTomatoes": {
+            "url": "https://www.rottentomatoes.com/m/hellraiser",
+            "title": "Hellraiser",
+            "year": "1987",
+            "directors": [
+              "Clive Barker"
+            ],
+            "criticsRating": 72,
+            "criticsVotes": 57,
+            "audienceRating": 73,
+            "audienceVotes": 10660
+          }
+        },
+        "longDescription": "„Widziałem przyszłość horroru, a jej imię brzmi Clive Barker” – napisał o jego prozie Stephen King i to jedno zdanie zrobiło młodemu pisarzowi z Liverpoolu karierę. Gdy jednak Barker zobaczył, co producenci zrobili z dwoma pierwszymi ekranizacjami jego scenariuszy, doszedł do prostego wniosku: następny film musi wyreżyserować sam. Tak powstał HELLRAISER.\n\nFrank jest człowiekiem, którego znudziły już wszystkie dostępne przyjemności. Kupuje więc od handlarza osobliwości zdobioną łamigłówkę, o której mówi się, że otwiera drzwi do rozkoszy niedostępnych ludziom. Łamigłówka działa, ale po drugiej jej stronie czekają cenobici – istoty, dla których ból i przyjemność są dokładnie tym samym doznaniem.\n\nBudżet HELLRAISERA nie przekroczył dziewięciuset tysięcy dolarów, zdjęcia powstały jesienią 1986 roku w Londynie, a amerykański producent narzucił warunek: akcja ma się rozgrywać w miejscu, które widz może wziąć za Amerykę. Brytyjskim aktorom wygłuszono więc w postprodukcji ich własne akcenty. Barker musiał też przycinać film do skutku, bo pierwsza wersja dostała w Stanach zaporową kategorię X przeznaczoną przede wszystkim dla filmów porno.\n\nI choć HELLRAISER na stałe wpisał się w historię horroru lat osiemdziesiątych, a kolejne sequele (i kult wokół postaci Pinheada) ustawiły film Barkera obok serii takich jak PIĄTEK TRZYNASTEGO czy KOSZMAR Z ULICY WIĄZÓW, warto pamiętać, że HELLRAISER to przede wszystkim brudny i perwersyjny melodramat o pożądaniu, który nawet po trzydziestu latach od premiery sprawi, że będziecie patrzeć na ekran przez palce.\n\nEN\n\n‘I have seen the future of horror, and his name is Clive Barker,’ Stephen King wrote of his fiction – and that one sentence launched the young Liverpool writer’s career. But after Barker saw what producers had done with the first two screen adaptations of his work, he came to a simple conclusion: the next film he would have to direct himself. That film was HELLRAISER.\n\nFrank is a man who has grown bored with every pleasure available to him. So he buys an ornate puzzle box from a dealer in curiosities, said to open the door to pleasures beyond human experience. The box works – but waiting on the other side are the Cenobites, beings for whom pain and pleasure are one and the same sensation.\n\nHELLRAISER was made for less than $900,000 and shot in London in the autumn of 1986. Its American producer imposed one condition: the story had to take place somewhere audiences could plausibly mistake for America. The British actors therefore had their accents dubbed over in post-production. Barker was also forced to keep cutting the film, as the first version received the prohibitive X rating in the United States, a classification primarily associated with pornography.\n\nHELLRAISER has long since secured its place in the history of 1980s horror – with its many sequels and the cult surrounding Pinhead putting Barker’s film alongside franchises such as FRIDAY THE 13TH and A NIGHTMARE ON ELM STREET. However, it is worth remembering that HELLRAISER is, above all, a grubby, perverse melodrama about desire. Even thirty years after its release, it is the sort of film that will have you watching through your fingers.",
+        "poster": "media/posters/d5b4ed1679df596fa2eb.webp"
+      },
+      {
+        "hour": "22:30",
+        "datetime": "2026-11-11 22:30:00",
+        "title": "Pillion",
+        "originalTitle": "",
+        "director": "Harry Lighton",
+        "year": "2025",
+        "premiereDate": "2026-02-20",
+        "duration": "107",
+        "countries": "Wielka Brytania, Irlandia",
+        "shortDesc": "<p>Bezkompromisowy romans eksplorujący queerowe środowisko BDSM. Colin z uroczego miasta Bromley zakochuje się w tajemnicznym motocykliście Ray’u. Chłopak coraz chętniej wchodzi w świat swobody seksualnej, poznaje uroki, ale też trudy pierwszych relacji.</p>\n",
+        "lang": "en",
+        "subtitlesLang": "pl",
+        "age": "16",
+        "credits": "reż. Harry Lighton <br>Wielka Brytania, Irlandia <br>2025,107’",
+        "desc": "<p>Bezkompromisowy romans eksplorujący queerowe środowisko BDSM. Colin z uroczego miasta Bromley zakochuje się w tajemnicznym motocykliście Ray’u. Chłopak coraz chętniej wchodzi w świat swobody seksualnej, poznaje uroki, ale też trudy pierwszych relacji.</p>\n",
+        "hall": "2",
+        "movieLink": "https://www.kinomuza.pl/movie/pillion/",
+        "ticketLink": "https://estradapoznan.bilety24.pl/kup-bilety/?id=1009129",
+        "prePremier": false,
+        "tape35mm": false,
+        "ad": false,
+        "deaf": false,
+        "ticketPrice": "",
+        "ticketHalfPrice": "",
+        "alt": "Pillion",
+        "thumb": "https://www.kinomuza.pl/content/uploads/2026/01/palion-3-800x450.jpg",
+        "description": "Bezkompromisowy romans eksplorujący queerowe środowisko BDSM. Colin z uroczego miasta Bromley zakochuje się w tajemnicznym motocykliście Ray’u. Chłopak coraz chętniej wchodzi w świat swobody seksualnej, poznaje uroki, ale też trudy pierwszych relacji.",
+        "shortDescription": "Bezkompromisowy romans eksplorujący queerowe środowisko BDSM. Colin z uroczego miasta Bromley zakochuje się w tajemnicznym motocykliście Ray’u. Chłopak coraz chętniej wchodzi w świat swobody seksualnej, poznaje uroki, ale też trudy pierwszych relacji.",
+        "genres": [
+          "Melodramat"
+        ],
+        "external": {
+          "imdb": {
+            "id": "tt32321317",
+            "url": "https://www.imdb.com/title/tt32321317/",
+            "rating": 6.9,
+            "votes": 25292
+          },
+          "filmweb": {
+            "id": "10053146",
+            "url": "https://www.filmweb.pl/film/Pillion-2025-10053146",
+            "genres": [
+              "Melodramat"
+            ],
+            "rating": 6.5,
+            "votes": 6245
+          },
+          "rottenTomatoes": {
+            "url": "https://www.rottentomatoes.com/m/pillion",
+            "title": "Pillion",
+            "year": "2025",
+            "directors": [
+              "Harry Lighton"
+            ],
+            "criticsRating": 99,
+            "criticsVotes": 201,
+            "audienceRating": 89,
+            "audienceVotes": 322
+          }
+        },
+        "longDescription": "Harry Lighton to debiutant z Hampshire, który zaskoczył publiczność Cannes bezkompromisowym PILLIONEM, eksplorującym queerowe środowisko BDSM. Reżyser podąża raczej ścieżką DUKE OF BURGUNDY Stricklanda czy BABYGIRL Reijn (nie tylko przez świąteczną aurę) niż hollywoodzkiej serii 50 TWARZY GREYA – i bardzo dobrze na tym wychodzi. Adaptując książkę Adama Marsa-Jonesa, nie tylko zaskakuje swobodą I luzem w poruszaniu się po strefie tabu, ale ma też odwagę w stawianiu pytań o nieumiejętność komunikowania pragnień i granic.\n\nW przeciwieństwie do oryginału literackiego, PILLION dzieje się współcześnie w uroczym mieście Bromley. Colin (Harry Melling) dryfuje przez życie bez grama adrenaliny, wspierany przez swoich rodziców. Nieoczekiwanie ze strefy komfortu – ale też ku wolności seksualnej – wyciąga go tajemniczy motocyklista Ray (Alexander Skarsgård). Parafrazując Rihannę, Colina zaczynają podniecać skóry i łańcuchy i z przyjemnością zajmuje tylne siedzenie zarezerwowane dla uległego w szalonej fetyszystycznej przejażdżce z facetem marzeń.\n\nLighton ma większe ambicje niż zrealizowanie komedii erotycznej szokującej niekonwencjonalnym seksem. Nie można mu odmówić zmysłowości i humoru z pazurem, ale to uczciwa, nieoceniająca perspektywa na odkrywanie rynku randkowego przez młodego geja jest jego największym atutem. Z dużym wyczuciem i zrozumieniem podchodzi też do gejowskiego środowiska motocyklistów, a ich przedstawiciele nie tylko konsultowali pomysły Lightona, ale też zagrali jako aktorzy-naturszczycy, wzmacniając autentyczność PILLIONA. To jeden z najbardziej nieoczywistych (i ponętnie przebranych) debiutów brytyjskich, słusznie nagrodzony za scenariusz w konkursie Un Certain Regard na festiwalu w Cannes.\n\nEN\n\nHarry Lighton, a first-time filmmaker from Hampshire, made a striking Cannes debut with PILLION, an uncompromising exploration of queer BDSM culture. The film sits closer to Peter Strickland’s THE DUKE OF BURGUNDY or Halina Reijn’s BABYGIRL than to the glossy fantasy of FIFTY SHADES OF GREY – and benefits from that distinction. In adapting Adam Mars-Jones’s novel, Lighton moves through taboo territory with remarkable ease, while asking sharper questions about desire, boundaries and the difficulty of communicating both.\n\nUnlike the novel, PILLION unfolds in the present day, in the quiet suburban setting of Bromley. Colin (Harry Melling) is drifting through life without much excitement, closely supported by his parents. His routine is abruptly disrupted by Ray (Alexander Skarsgård), a mysterious biker who draws him out of his comfort zone and into a world of sexual freedom. Leather, chains and submission become part of a relationship that initially seems to offer Colin both escape and fulfilment.\n\nLighton’s ambitions reach far beyond provocation. The film is sensual, funny and often sharply observed, but its real strength lies in its candid, non-judgemental depiction of a young gay man learning how to navigate desire, intimacy and power. The gay biker community is portrayed with similar care: members of the scene advised Lighton during development and also appear as non-professional performers, giving the film an added sense of authenticity.\n\nThe result is one of the more distinctive British debuts of recent years: playful, provocative and unusually assured. Its screenplay was awarded in the Un Certain Regard section at Cannes.",
+        "poster": "media/posters/2338b94fe141bd9dfd0d.webp"
       }
     ]
   }

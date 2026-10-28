@@ -1,12 +1,12 @@
 {
   "schemaVersion": 1,
   "date": "2026-11-13",
-  "updatedAt": "2026-10-27T18:39:38.658Z",
+  "updatedAt": "2026-10-28T16:37:55.197Z",
   "source": "https://www.kinomuza.pl/repertoire/day/",
   "day": {
-    "id": "17",
+    "id": "16",
     "date": "13.11",
-    "now": "2026-10-27 19:39:22",
+    "now": "2026-10-28 17:35:46",
     "info": [],
     "repertoire": [
       {
@@ -48,7 +48,7 @@
             "id": "tt2639254",
             "url": "https://www.imdb.com/title/tt2639254/",
             "rating": 6.5,
-            "votes": 27151
+            "votes": 27155
           },
           "filmweb": {
             "id": "680371",
@@ -115,8 +115,8 @@
           "imdb": {
             "id": "tt34798706",
             "url": "https://www.imdb.com/title/tt34798706/",
-            "rating": 7,
-            "votes": 196
+            "rating": 6.9,
+            "votes": 200
           },
           "filmweb": {
             "id": "10109750",
@@ -175,8 +175,8 @@
         "description": "Zainspirowany najsłynniejszą sztuką Williama Szekspira film w reżyserii Chloé Zhao jest wrażliwym i głębokim obrazem małżeństwa, próbującego ukształtować się na nowo po śmierci ukochanego dziecka. W rolach głównych zjawiskowy duet: Jessie Buckley oraz Paul Mescal.",
         "shortDescription": "Zainspirowany najsłynniejszą sztuką Williama Szekspira film w reżyserii Chloé Zhao jest wrażliwym i głębokim obrazem małżeństwa, próbującego ukształtować się na nowo po śmierci ukochanego dziecka. W rolach głównych zjawiskowy duet: Jessie Buckley oraz Paul Mescal.",
         "genres": [
-          "Dramat",
           "Biograficzny",
+          "Dramat",
           "Kostiumowy"
         ],
         "external": {
@@ -184,18 +184,18 @@
             "id": "tt14905854",
             "url": "https://www.imdb.com/title/tt14905854/",
             "rating": 7.8,
-            "votes": 140268
+            "votes": 140474
           },
           "filmweb": {
             "id": "10035555",
             "url": "https://www.filmweb.pl/film/Hamnet-2025-10035555",
             "genres": [
-              "Dramat",
               "Biograficzny",
+              "Dramat",
               "Kostiumowy"
             ],
             "rating": 7.6,
-            "votes": 30292
+            "votes": 30309
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/hamnet",
@@ -251,7 +251,7 @@
             "id": "tt1921149",
             "url": "https://www.imdb.com/title/tt1921149/",
             "rating": 7.1,
-            "votes": 23872
+            "votes": 23873
           },
           "filmweb": {
             "id": "693053",
@@ -270,8 +270,8 @@
             "directors": [
               "Stephen Daldry"
             ],
-            "criticsRating": 66,
-            "criticsVotes": 44,
+            "criticsRating": 65,
+            "criticsVotes": 43,
             "audienceRating": 70,
             "audienceVotes": 839
           }
@@ -317,7 +317,7 @@
             "id": "tt34819091",
             "url": "https://www.imdb.com/title/tt34819091/",
             "rating": 6.4,
-            "votes": 11062
+            "votes": 11090
           },
           "filmweb": {
             "id": "10090000",
@@ -327,7 +327,7 @@
               "Musical"
             ],
             "rating": 6,
-            "votes": 2448
+            "votes": 2449
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/the_testament_of_ann_lee",
@@ -383,7 +383,7 @@
             "id": "tt9362736",
             "url": "https://www.imdb.com/title/tt9362736/",
             "rating": 6,
-            "votes": 50647
+            "votes": 50716
           },
           "filmweb": {
             "id": "10023025",
@@ -393,7 +393,7 @@
               "Psychologiczny"
             ],
             "rating": 5.8,
-            "votes": 12596
+            "votes": 12603
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/die_my_love_2025",
@@ -512,7 +512,7 @@
             "id": "tt0041546",
             "url": "https://www.imdb.com/title/tt0041546/",
             "rating": 8,
-            "votes": 42662
+            "votes": 42669
           },
           "filmweb": {
             "id": "31660",
@@ -531,7 +531,7 @@
               "Robert Hamer"
             ],
             "criticsRating": 100,
-            "criticsVotes": 51,
+            "criticsVotes": 49,
             "audienceRating": 93,
             "audienceVotes": 2296
           }
@@ -615,7 +615,7 @@
             "id": "tt0097108",
             "url": "https://www.imdb.com/title/tt0097108/",
             "rating": 7.5,
-            "votes": 45680
+            "votes": 45691
           },
           "filmweb": {
             "id": "6923",
@@ -625,7 +625,7 @@
               "Komedia"
             ],
             "rating": 7.5,
-            "votes": 8974
+            "votes": 8978
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/the_cook_the_thief_his_wife_and_her_lover",
@@ -680,7 +680,7 @@
             "id": "tt0064866",
             "url": "https://www.imdb.com/title/tt0064866/",
             "rating": 7.1,
-            "votes": 6544
+            "votes": 6545
           },
           "filmweb": {
             "id": "9023",
@@ -775,25 +775,25 @@
         "description": "Ekranizacja bestsellera Raynor Winn na podstawie scenariusza Rebeki Lenkiewicz (IDA). Gdy małżeństwo traci dom i zdrowie, podejmuje radykalną decyzję: pieszą wędrówkę liczącym ponad 1000 km szlakiem South West Coast Path. Poruszająca, wizualnie urzekająca oda do siły natury i ludzkiego ducha.",
         "shortDescription": "Ekranizacja bestsellera Raynor Winn na podstawie scenariusza Rebeki Lenkiewicz (IDA). Gdy małżeństwo traci dom i zdrowie, podejmuje radykalną decyzję: pieszą wędrówkę liczącym ponad 1000 km szlakiem South West Coast Path. Poruszająca, wizualnie urzekająca oda do siły natury i ludzkiego ducha.",
         "genres": [
-          "Psychologiczny",
-          "Dramat"
+          "Dramat",
+          "Psychologiczny"
         ],
         "external": {
           "imdb": {
             "id": "tt27766440",
             "url": "https://www.imdb.com/title/tt27766440/",
             "rating": 6.6,
-            "votes": 7931
+            "votes": 7938
           },
           "filmweb": {
             "id": "10058778",
             "url": "https://www.filmweb.pl/film/%C5%9Acie%C5%BCki+%C5%BCycia-2024-10058778",
             "genres": [
-              "Psychologiczny",
-              "Dramat"
+              "Dramat",
+              "Psychologiczny"
             ],
             "rating": 6.8,
-            "votes": 6227
+            "votes": 6234
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/the_salt_path",
@@ -848,7 +848,7 @@
             "id": "tt0274558",
             "url": "https://www.imdb.com/title/tt0274558/",
             "rating": 7.5,
-            "votes": 148364
+            "votes": 148379
           },
           "filmweb": {
             "id": "32380",
@@ -901,7 +901,7 @@
             "id": "tt10329560",
             "url": "https://www.imdb.com/title/tt10329560/",
             "rating": 6.6,
-            "votes": 2868
+            "votes": 2880
           },
           "filmweb": {
             "id": "10048300",
@@ -958,25 +958,25 @@
         "description": "Rewizja Austenowskiej prozy wydobywająca z kultowej powieści siostrzeństwo, emancypację i realizm epoki. Georgiańska Anglia. Po śmierci ojca siostry Dashwood wraz z matką zostają zmuszone opuścić dom. Nowa rzeczywistość stawia je w ogniu konwenansów, finansowych trudów i miłosnej niepewności.",
         "shortDescription": "Rewizja Austenowskiej prozy wydobywająca z kultowej powieści siostrzeństwo, emancypację i realizm epoki. Georgiańska Anglia. Po śmierci ojca siostry Dashwood wraz z matką zostają zmuszone opuścić dom. Nowa rzeczywistość stawia je w ogniu konwenansów, finansowych trudów i miłosnej niepewności.",
         "genres": [
-          "Melodramat",
-          "Kostiumowy"
+          "Kostiumowy",
+          "Melodramat"
         ],
         "external": {
           "imdb": {
             "id": "tt13609648",
             "url": "https://www.imdb.com/title/tt13609648/",
-            "rating": 7.4,
-            "votes": 5520
+            "rating": 7.3,
+            "votes": 6109
           },
           "filmweb": {
             "id": "10087170",
             "url": "https://www.filmweb.pl/film/Rozwa%C5%BCna+i+romantyczna-2026-10087170",
             "genres": [
-              "Melodramat",
-              "Kostiumowy"
+              "Kostiumowy",
+              "Melodramat"
             ],
-            "rating": 7.3,
-            "votes": 2262
+            "rating": 7.2,
+            "votes": 2415
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/sense_and_sensibility_2026",
@@ -985,10 +985,10 @@
             "directors": [
               "Georgia Oakley"
             ],
-            "criticsRating": 76,
-            "criticsVotes": 117,
-            "audienceRating": 89,
-            "audienceVotes": 701
+            "criticsRating": 77,
+            "criticsVotes": 120,
+            "audienceRating": 88,
+            "audienceVotes": 736
           }
         },
         "longDescription": "Rewizja klasycznej prozy Jane Austen, która debiutując w 1811 roku pod pseudonimem The Lady zaskoczyła czytelników bardziej ironicznym niż przesiąkniętym romantyzmem tonem, zjadliwym humorem i realistycznym obrazem epoki. Twórcy nowej ROZWAŻNEJ I ROMANTYCZNEJ nie tylko idą pierwotnym śladem niezmiennie uwielbianej pisarki, lecz także rozluźniają sznurowadła społecznego gorsetu, aby wydobyć motyw kobiecej emancypacji oraz siłę siostrzanej więzi. Wnikają przy tym w zawiłe niuanse georgiańskiej mentalności, odkrywając konflikt serca i rozwagi nie zawsze kończący się kliszą happy endu.\n\nWraz ze śmiercią pana Dashwooda jego trzy córki i druga żona zostają zmuszone do opuszczenia rodzinnej posiadłości. Zgodnie z dawnym angielskim prawem jego majątek dziedziczy męski spadkobierca, w tym przypadku syn z pierwszego małżeństwa. Siostry Dashwood zostają skazane na łaskę krewnych, mając świadomość jedynej akceptowanej społecznie drogi kobiecej stabilizacji – zamążpójścia. Najstarsze siostry, roztropna Elinor (oklaskiwana po występie w GDZIE ŚPIEWAJĄ RAKI Daisy Edgar-Jones) oraz podążająca za emocjami Marianne (znana z seriali HANNA i SANDMAN Esmé Creed-Miles), muszą sprostać oczekiwaniom drżącego przed etykietą środowiska i własnym dylematom serca.\n\nStojąca za kamerą Georgia Oakley (PTASZYNA, BLUE JEAN) po raz kolejny poraża wielką świadomością stylu zakorzenionego w wizualnym języku europejskich mistrzów, w tym francuskiej intymności czy wnikliwych obserwacjach ludzkich mechanizmów rodem z hiszpańskiego ekranu. Filmowe światy nominowanej do nagrody BAFTA brytyjskiej reżyserski przenika pewna doza zmysłowości, ale na próżno szukać w nich szablonowości czy upiększeń. Drogę do wciąż aktualnej problematyki społecznej wyznacza w nich kontekst historyczny, queerowa wrażliwość i psychologia postaci. Z pomocą australijskiej scenarzystki Diany Reid twórczynie przepuszczają przez realistyczny filtr ponadczasowe emocje i perypetie sióstr Dashwood poszukujących własnego miejsca w świecie.\n\nEN\n\nA fresh take on Jane Austen’s classic novel, first published in 1811 under the pseudonym “A Lady”, which surprised readers with a tone more ironic than romantic, a sharp wit and a clear-eyed portrait of its age. The makers of the new SENSE AND SENSIBILITY not only follow in the footsteps of the ever-beloved author, but also loosen the stays of social convention to bring female emancipation and the strength of sisterhood to the fore. At the same time, they delve into the intricacies of the Georgian mindset, exploring a conflict between feeling and reason that does not always resolve itself into the reassuring shape of a happy ending.\n\nAfter Mr Dashwood’s death, his second wife and three daughters are forced to leave the family estate. Under the inheritance laws of the time, his property passed to a male heir – in this case, his son from his first marriage. The Dashwood sisters are left dependent on the goodwill of relatives and acutely aware that marriage remains the only socially acceptable route to security. The two eldest, the sensible Elinor (Daisy Edgar-Jones, acclaimed for her performance in WHERE THE CRAWDADS SING) and the more impulsive Marianne (Esmé Creed-Miles, known from HANNA and THE SANDMAN), must navigate both the expectations of a society in thrall to etiquette and the complications of their own hearts.\n\nDirector Georgia Oakley (LITTLE BIRD, BLUE JEAN) once again displays a striking command of style, rooted in the visual language of European cinema – from French intimacy to the acute observation of human behaviour associated with Spanish film. A certain sensuality runs through the work of the BAFTA-nominated British filmmaker, yet there is little room for formula or prettification. Historical context, queer sensitivity and close attention to character psychology become her routes into social questions that remain strikingly relevant. Working with Australian screenwriter Diana Reid, Oakley refracts the timeless emotions and romantic entanglements of the Dashwood sisters through a realist lens as they search for a place of their own in the world.",
@@ -1031,7 +1031,7 @@
             "id": "tt32321317",
             "url": "https://www.imdb.com/title/tt32321317/",
             "rating": 6.9,
-            "votes": 25292
+            "votes": 25354
           },
           "filmweb": {
             "id": "10053146",
@@ -1040,7 +1040,7 @@
               "Melodramat"
             ],
             "rating": 6.5,
-            "votes": 6245
+            "votes": 6256
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/pillion",
@@ -1149,7 +1149,7 @@
             "id": "tt36983905",
             "url": "https://www.imdb.com/title/tt36983905/",
             "rating": 6.2,
-            "votes": 12586
+            "votes": 12892
           },
           "filmweb": {
             "id": "10122362",
@@ -1159,7 +1159,7 @@
               "Akcja"
             ],
             "rating": 5.6,
-            "votes": 571
+            "votes": 578
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/the_uprising_2026",
@@ -1171,7 +1171,7 @@
             "criticsRating": 57,
             "criticsVotes": 122,
             "audienceRating": 65,
-            "audienceVotes": 575
+            "audienceVotes": 576
           }
         },
         "longDescription": "Oparte na prawdziwych wydarzeniach historycznych widowisko stawiające pytanie o cenę wolności w czasach feudalnego ucisku. XIV-wieczny lud Anglii pozostaje wyniszczony epidemią dżumy, represjami ze strony władzy i społecznymi napięciami. Na wieść o bezwzględnych planach możnowładców i nałożeniu podatku uderzającego w najuboższych, stojący na skraju wytrzymałości chłopi postanawiają sprzeciwić się tyranii Ryszarda II. Opór kilkorga z nich na czele z młodym rebeliantem (charyzmatyczny Andrew Garfield) przeistacza się w falę wściekłości, która w krótkim czasie rozprzestrzenia się na cały kraj. Uciskani postanawiają wypowiedzieć wojnę koronie.\n\nGdy w 1381 roku śmiałkowie z Esseksu i Kentu pod przewodnictwem Wata Tylera i mobilizowani przez kaznodzieję Johna Balla wszczęli bunt przeciwko wyzyskowi oraz nałożeniu podatku obciążającego jednostki niezależnie od wielkości ich dochodu, nikt nie zakładał, że powstanie doprowadzi do marszu na Londyn. Krwawe zamieszki zakończyło równie brutalne stłumienie przez siły króla, ale mit wolności i walki o sprawiedliwość na dobre zakorzenił się w mentalności angielskich chłopów, doprowadzając do narodzin legendy o Robin Hoodzie.\n\nWyróżniony BAFTA i nominowany do Oscara za LOT 93 (2006) reżyser Paul Greengrass spogląda na przepełnioną gniewem historię z charakterystycznym dla siebie reporterskim stylem, nie szczędząc jednak okrucieństwa, intensywnej konwencji i dynamicznej kamery. Rozedrgane ujęcia oddają emocjonalną motywację zrywu wyznaczającego punkt zwrotny w dziejach średniowiecznej Anglii i po upływie stuleci inspirującego polityczną lewicę.\n\nEN\n\nA historical epic based on real events, THE UPRISING asks what freedom is worth in an age of feudal oppression. Fourteenth-century England has been ravaged by plague, repression and mounting social unrest. When word spreads of the ruling elite’s ruthless plans and a tax that falls hardest on the poorest, peasants already pushed to the breaking point decide to resist the tyranny of Richard II. What begins with a handful of rebels, led by a charismatic young insurgent (Andrew Garfield), soon swells into a wave of anger sweeping across the country. The oppressed are ready to wage war on the Crown.\n\nIn 1381, rebels from Essex and Kent, led by Wat Tyler and rallied by the preacher John Ball, rose against exploitation and a poll tax levied regardless of income. Few could have foreseen that the revolt would culminate in a march on London.\n\nThe bloody riots were brought to an end by an equally brutal crackdown by the king’s forces. But the myth of freedom and the struggle for justice took firm root in the minds of the English peasants, leading to the birth of the legend of Robin Hood.\n\nBAFTA-winning director Paul Greengrass, who received an Academy Award nomination for UNITED 93 (2006), approaches this story of rage and rebellion with his characteristic journalistic immediacy, while fully embracing its brutality, intensity and restless camerawork. The jittery, urgent images capture the emotional force behind an uprising that marked a turning point in medieval English history and, centuries later, would continue to inspire the political left.",
@@ -1214,7 +1214,7 @@
             "id": "tt35521922",
             "url": "https://www.imdb.com/title/tt35521922/",
             "rating": 6.1,
-            "votes": 38591
+            "votes": 38656
           },
           "filmweb": {
             "id": "10064809",
@@ -1223,7 +1223,7 @@
               "Thriller"
             ],
             "rating": 7.2,
-            "votes": 15331
+            "votes": 15360
           },
           "rottenTomatoes": null
         },
@@ -1267,7 +1267,7 @@
             "id": "tt0091142",
             "url": "https://www.imdb.com/title/tt0091142/",
             "rating": 5.7,
-            "votes": 10215
+            "votes": 10220
           },
           "filmweb": {
             "id": "5908",
@@ -1276,7 +1276,7 @@
               "Horror"
             ],
             "rating": 6.4,
-            "votes": 2598
+            "votes": 2599
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/gothic",
@@ -1332,7 +1332,7 @@
             "id": "tt0435625",
             "url": "https://www.imdb.com/title/tt0435625/",
             "rating": 7.2,
-            "votes": 279084
+            "votes": 279209
           },
           "filmweb": {
             "id": "214803",
@@ -1341,7 +1341,7 @@
               "Horror"
             ],
             "rating": 6.3,
-            "votes": 80281
+            "votes": 80285
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/descent",
@@ -1351,9 +1351,9 @@
               "Neil Marshall"
             ],
             "criticsRating": 87,
-            "criticsVotes": 191,
+            "criticsVotes": 189,
             "audienceRating": 76,
-            "audienceVotes": 26508
+            "audienceVotes": 26510
           }
         },
         "longDescription": "Drugi i do dziś najbardziej znany film Neila Marshalla, to opowieść o sześciu przyjaciółkach, które wyruszają na wyprawę speleologiczną w Appalachach, gdzieś na terenie Karoliny Północnej. Dla zmagającej się z traumą Sarah (Shauna Macdonald), która rok wcześniej straciła męża i córkę, ekspedycja ma być próbą powrotu do normalności. Pod przewodnictwem Juno (Natalie Mendoza) kobiety zapuszczają się w system nigdy dotąd niepenetrowanych jaskiń, gdzie jeden zły ruch oznacza utratę orientacji, a ta z kolei – walkę o przetrwanie. W ciasnych korytarzach kumpele muszą zmierzyć się nie tylko z zagrożeniami podziemnego świata – a tych oczywiście nie brakuje – lecz także z narastającą nieufnością, dawnymi urazami oraz sekretami, które podważają więzi między nimi. Im dalej w nieznane, tym mniejsze szanse na ratunek. Marshall przekształca jaskinię w przestrzeń przypominającą piekło lub przynajmniej czyścieć, a zatem miejsce zawieszone poza zwyczajnym porządkiem świata, takie, w którym bohaterki zostają zmuszone do konfrontacji z przeszłością oraz związanymi z nią lękami i poczuciem winy. Tytułowe zejście oznacza więc zarówno fizyczną podróż w głąb ziemi, jak i wędrówkę ku najciemniejszym zakamarkom psychiki, gdzie moralność zdaje się nie istnieć. Z tym wszystkim zaś koresponduje warstwa wizualna, oparta na klaustrofobicznych kompozycjach i oszczędnym oświetleniu. Im bliżej jądra planety, tym większa potworność: i obcej otchłani, i samych ludzi. Czy w takich warunkach istnieje nadzieja na odkupienie czy wręcz odrodzenie?\n\nUwaga! Seans odbędzie się na pływalni: uczestnicy pokazu zobowiązani się do pojawienia się na miejscu w adekwatnym stroju i z ręcznikiem.\n\nFilm będzie można oglądać zarówno „na sucho” – z brzegu basenu, jak i z materacy i siedzisk w wodzie.\n\nEN\n\nReleased in 2005, THE DESCENT was Neil Marshall’s second feature and remains his best-known film. It follows six friends on a caving expedition in the Appalachians, somewhere in North Carolina. For Sarah (Shauna Macdonald), still struggling with the trauma of losing her husband and daughter a year earlier, the trip is meant to be a step back towards normality. Led by Juno (Natalie Mendoza), the women venture into a previously unexplored cave system, where one wrong move can mean losing their bearings – and losing their bearings can mean a fight for survival.\n\nDeep underground, they must confront not only the dangers of the caves themselves, of which there are plenty, but also growing mistrust, old resentments and secrets that begin to strain the bonds between them. The farther they descend into the unknown, the slimmer their chances of escape.\n\nMarshall turns the cave into something resembling hell, or at least purgatory: a space outside the ordinary order of things, where the women are forced to confront their pasts, along with the fears and guilt bound up in them. The ‘descent’ referred to in the title thus signifies both a physical journey deep into the earth and a journey into the darkest recesses of the psyche, where morality seems to be non-existent.\n\nThe visual style reinforces this sense of entrapment, with claustrophobic compositions and sparse lighting closing in around the characters. The deeper they go, the more monstrous both the unfamiliar abyss and the people themselves become. In a place like this, is there still room for redemption – or even rebirth?\n\nPlease note! The screening will take place at a swimming pool. All attendees are required to arrive in appropriate swimwear and bring a towel.\n\nThe film can be watched both “on dry land” from the poolside and from inflatable mattresses and seats in the water.",

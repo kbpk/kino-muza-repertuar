@@ -1,12 +1,12 @@
 {
   "schemaVersion": 1,
   "date": "2026-11-15",
-  "updatedAt": "2026-10-27T18:39:38.658Z",
+  "updatedAt": "2026-10-28T16:37:55.197Z",
   "source": "https://www.kinomuza.pl/repertoire/day/",
   "day": {
-    "id": "19",
+    "id": "18",
     "date": "15.11",
-    "now": "2026-10-27 19:39:24",
+    "now": "2026-10-28 17:35:47",
     "info": [],
     "repertoire": [
       {
@@ -48,7 +48,7 @@
             "id": "tt36841161",
             "url": "https://www.imdb.com/title/tt36841161/",
             "rating": 7.1,
-            "votes": 2151
+            "votes": 2429
           },
           "filmweb": {
             "id": "10101144",
@@ -58,7 +58,7 @@
               "Familijny"
             ],
             "rating": 6.9,
-            "votes": 661
+            "votes": 692
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/shaun_the_sheep_the_beast_of_mossy_bottom",
@@ -149,27 +149,27 @@
         "description": "Po dwóch dekadach ponownie otwieramy filmową starą szafę. Czworo rodzeństwa trafia do zaśnieżonej krainy pełnej mitycznych zwierząt, niebezpieczeństw i magii. Klasyczna ekranizacja C.S. Lewisa wciąż urzeka baśniowym rozmachem, wyrazistymi kreacjami postaci i historią opartą na uniwersalnych wartościach.",
         "shortDescription": "Po dwóch dekadach ponownie otwieramy filmową starą szafę. Czworo rodzeństwa trafia do zaśnieżonej krainy pełnej mitycznych zwierząt, niebezpieczeństw i magii. Klasyczna ekranizacja C.S. Lewisa wciąż urzeka baśniowym rozmachem, wyrazistymi kreacjami postaci i historią opartą na uniwersalnych wartościach.",
         "genres": [
-          "Przygodowy",
+          "Familijny",
           "Fantasy",
-          "Familijny"
+          "Przygodowy"
         ],
         "external": {
           "imdb": {
             "id": "tt0363771",
             "url": "https://www.imdb.com/title/tt0363771/",
             "rating": 6.9,
-            "votes": 464090
+            "votes": 464211
           },
           "filmweb": {
             "id": "112761",
             "url": "https://www.filmweb.pl/film/Opowie%C5%9Bci+z+Narnii%3A+Lew%2C+czarownica+i+stara+szafa-2005-112761",
             "genres": [
-              "Przygodowy",
+              "Familijny",
               "Fantasy",
-              "Familijny"
+              "Przygodowy"
             ],
             "rating": 7.1,
-            "votes": 288400
+            "votes": 288407
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/chronicles_of_narnia_lion_witch_wardrobe",
@@ -179,7 +179,7 @@
               "Andrew Adamson"
             ],
             "criticsRating": 76,
-            "criticsVotes": 216,
+            "criticsVotes": 213,
             "audienceRating": 61,
             "audienceVotes": 150272
           }
@@ -227,7 +227,7 @@
             "id": "tt36841161",
             "url": "https://www.imdb.com/title/tt36841161/",
             "rating": 7.1,
-            "votes": 2151
+            "votes": 2429
           },
           "filmweb": {
             "id": "10101144",
@@ -237,7 +237,7 @@
               "Familijny"
             ],
             "rating": 6.9,
-            "votes": 661
+            "votes": 692
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/shaun_the_sheep_the_beast_of_mossy_bottom",
@@ -390,25 +390,25 @@
         "description": "Rewizja Austenowskiej prozy wydobywająca z kultowej powieści siostrzeństwo, emancypację i realizm epoki. Georgiańska Anglia. Po śmierci ojca siostry Dashwood wraz z matką zostają zmuszone opuścić dom. Nowa rzeczywistość stawia je w ogniu konwenansów, finansowych trudów i miłosnej niepewności.",
         "shortDescription": "Rewizja Austenowskiej prozy wydobywająca z kultowej powieści siostrzeństwo, emancypację i realizm epoki. Georgiańska Anglia. Po śmierci ojca siostry Dashwood wraz z matką zostają zmuszone opuścić dom. Nowa rzeczywistość stawia je w ogniu konwenansów, finansowych trudów i miłosnej niepewności.",
         "genres": [
-          "Melodramat",
-          "Kostiumowy"
+          "Kostiumowy",
+          "Melodramat"
         ],
         "external": {
           "imdb": {
             "id": "tt13609648",
             "url": "https://www.imdb.com/title/tt13609648/",
-            "rating": 7.4,
-            "votes": 5520
+            "rating": 7.3,
+            "votes": 6109
           },
           "filmweb": {
             "id": "10087170",
             "url": "https://www.filmweb.pl/film/Rozwa%C5%BCna+i+romantyczna-2026-10087170",
             "genres": [
-              "Melodramat",
-              "Kostiumowy"
+              "Kostiumowy",
+              "Melodramat"
             ],
-            "rating": 7.3,
-            "votes": 2262
+            "rating": 7.2,
+            "votes": 2415
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/sense_and_sensibility_2026",
@@ -417,10 +417,10 @@
             "directors": [
               "Georgia Oakley"
             ],
-            "criticsRating": 76,
-            "criticsVotes": 117,
-            "audienceRating": 89,
-            "audienceVotes": 701
+            "criticsRating": 77,
+            "criticsVotes": 120,
+            "audienceRating": 88,
+            "audienceVotes": 736
           }
         },
         "longDescription": "Rewizja klasycznej prozy Jane Austen, która debiutując w 1811 roku pod pseudonimem The Lady zaskoczyła czytelników bardziej ironicznym niż przesiąkniętym romantyzmem tonem, zjadliwym humorem i realistycznym obrazem epoki. Twórcy nowej ROZWAŻNEJ I ROMANTYCZNEJ nie tylko idą pierwotnym śladem niezmiennie uwielbianej pisarki, lecz także rozluźniają sznurowadła społecznego gorsetu, aby wydobyć motyw kobiecej emancypacji oraz siłę siostrzanej więzi. Wnikają przy tym w zawiłe niuanse georgiańskiej mentalności, odkrywając konflikt serca i rozwagi nie zawsze kończący się kliszą happy endu.\n\nWraz ze śmiercią pana Dashwooda jego trzy córki i druga żona zostają zmuszone do opuszczenia rodzinnej posiadłości. Zgodnie z dawnym angielskim prawem jego majątek dziedziczy męski spadkobierca, w tym przypadku syn z pierwszego małżeństwa. Siostry Dashwood zostają skazane na łaskę krewnych, mając świadomość jedynej akceptowanej społecznie drogi kobiecej stabilizacji – zamążpójścia. Najstarsze siostry, roztropna Elinor (oklaskiwana po występie w GDZIE ŚPIEWAJĄ RAKI Daisy Edgar-Jones) oraz podążająca za emocjami Marianne (znana z seriali HANNA i SANDMAN Esmé Creed-Miles), muszą sprostać oczekiwaniom drżącego przed etykietą środowiska i własnym dylematom serca.\n\nStojąca za kamerą Georgia Oakley (PTASZYNA, BLUE JEAN) po raz kolejny poraża wielką świadomością stylu zakorzenionego w wizualnym języku europejskich mistrzów, w tym francuskiej intymności czy wnikliwych obserwacjach ludzkich mechanizmów rodem z hiszpańskiego ekranu. Filmowe światy nominowanej do nagrody BAFTA brytyjskiej reżyserski przenika pewna doza zmysłowości, ale na próżno szukać w nich szablonowości czy upiększeń. Drogę do wciąż aktualnej problematyki społecznej wyznacza w nich kontekst historyczny, queerowa wrażliwość i psychologia postaci. Z pomocą australijskiej scenarzystki Diany Reid twórczynie przepuszczają przez realistyczny filtr ponadczasowe emocje i perypetie sióstr Dashwood poszukujących własnego miejsca w świecie.\n\nEN\n\nA fresh take on Jane Austen’s classic novel, first published in 1811 under the pseudonym “A Lady”, which surprised readers with a tone more ironic than romantic, a sharp wit and a clear-eyed portrait of its age. The makers of the new SENSE AND SENSIBILITY not only follow in the footsteps of the ever-beloved author, but also loosen the stays of social convention to bring female emancipation and the strength of sisterhood to the fore. At the same time, they delve into the intricacies of the Georgian mindset, exploring a conflict between feeling and reason that does not always resolve itself into the reassuring shape of a happy ending.\n\nAfter Mr Dashwood’s death, his second wife and three daughters are forced to leave the family estate. Under the inheritance laws of the time, his property passed to a male heir – in this case, his son from his first marriage. The Dashwood sisters are left dependent on the goodwill of relatives and acutely aware that marriage remains the only socially acceptable route to security. The two eldest, the sensible Elinor (Daisy Edgar-Jones, acclaimed for her performance in WHERE THE CRAWDADS SING) and the more impulsive Marianne (Esmé Creed-Miles, known from HANNA and THE SANDMAN), must navigate both the expectations of a society in thrall to etiquette and the complications of their own hearts.\n\nDirector Georgia Oakley (LITTLE BIRD, BLUE JEAN) once again displays a striking command of style, rooted in the visual language of European cinema – from French intimacy to the acute observation of human behaviour associated with Spanish film. A certain sensuality runs through the work of the BAFTA-nominated British filmmaker, yet there is little room for formula or prettification. Historical context, queer sensitivity and close attention to character psychology become her routes into social questions that remain strikingly relevant. Working with Australian screenwriter Diana Reid, Oakley refracts the timeless emotions and romantic entanglements of the Dashwood sisters through a realist lens as they search for a place of their own in the world.",
@@ -456,8 +456,8 @@
         "description": "Zainspirowany najsłynniejszą sztuką Williama Szekspira film w reżyserii Chloé Zhao jest wrażliwym i głębokim obrazem małżeństwa, próbującego ukształtować się na nowo po śmierci ukochanego dziecka. W rolach głównych zjawiskowy duet: Jessie Buckley oraz Paul Mescal.",
         "shortDescription": "Zainspirowany najsłynniejszą sztuką Williama Szekspira film w reżyserii Chloé Zhao jest wrażliwym i głębokim obrazem małżeństwa, próbującego ukształtować się na nowo po śmierci ukochanego dziecka. W rolach głównych zjawiskowy duet: Jessie Buckley oraz Paul Mescal.",
         "genres": [
-          "Dramat",
           "Biograficzny",
+          "Dramat",
           "Kostiumowy"
         ],
         "external": {
@@ -465,18 +465,18 @@
             "id": "tt14905854",
             "url": "https://www.imdb.com/title/tt14905854/",
             "rating": 7.8,
-            "votes": 140268
+            "votes": 140474
           },
           "filmweb": {
             "id": "10035555",
             "url": "https://www.filmweb.pl/film/Hamnet-2025-10035555",
             "genres": [
-              "Dramat",
               "Biograficzny",
+              "Dramat",
               "Kostiumowy"
             ],
             "rating": 7.6,
-            "votes": 30292
+            "votes": 30309
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/hamnet",
@@ -527,26 +527,26 @@
         "shortDescription": "Rodzina Thompsonów przeprowadza się z Londynu na wieś, gdzie dzieci odkrywają drzewo kryjące w koronie przejście do coraz bardziej niezwykłych krain. Współczesna, gwiazdorska ekranizacja klasyki Enid Blyton to pełna humoru brytyjska baśń o dziecięcej ciekawości, rodzinnej bliskości i mocy wyobraźni.",
         "genres": [
           "Przygodowy",
-          "Fantasy",
-          "Familijny"
+          "Familijny",
+          "Fantasy"
         ],
         "external": {
           "imdb": {
             "id": "tt7734244",
             "url": "https://www.imdb.com/title/tt7734244/",
             "rating": 6.2,
-            "votes": 6464
+            "votes": 6565
           },
           "filmweb": {
             "id": "10104409",
             "url": "https://www.filmweb.pl/film/Drzewo+magii-2026-10104409",
             "genres": [
               "Przygodowy",
-              "Fantasy",
-              "Familijny"
+              "Familijny",
+              "Fantasy"
             ],
             "rating": 5.8,
-            "votes": 754
+            "votes": 755
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/the_magic_faraway_tree",
@@ -602,7 +602,7 @@
             "id": "tt36983905",
             "url": "https://www.imdb.com/title/tt36983905/",
             "rating": 6.2,
-            "votes": 12586
+            "votes": 12892
           },
           "filmweb": {
             "id": "10122362",
@@ -612,7 +612,7 @@
               "Akcja"
             ],
             "rating": 5.6,
-            "votes": 571
+            "votes": 578
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/the_uprising_2026",
@@ -624,7 +624,7 @@
             "criticsRating": 57,
             "criticsVotes": 122,
             "audienceRating": 65,
-            "audienceVotes": 575
+            "audienceVotes": 576
           }
         },
         "longDescription": "Oparte na prawdziwych wydarzeniach historycznych widowisko stawiające pytanie o cenę wolności w czasach feudalnego ucisku. XIV-wieczny lud Anglii pozostaje wyniszczony epidemią dżumy, represjami ze strony władzy i społecznymi napięciami. Na wieść o bezwzględnych planach możnowładców i nałożeniu podatku uderzającego w najuboższych, stojący na skraju wytrzymałości chłopi postanawiają sprzeciwić się tyranii Ryszarda II. Opór kilkorga z nich na czele z młodym rebeliantem (charyzmatyczny Andrew Garfield) przeistacza się w falę wściekłości, która w krótkim czasie rozprzestrzenia się na cały kraj. Uciskani postanawiają wypowiedzieć wojnę koronie.\n\nGdy w 1381 roku śmiałkowie z Esseksu i Kentu pod przewodnictwem Wata Tylera i mobilizowani przez kaznodzieję Johna Balla wszczęli bunt przeciwko wyzyskowi oraz nałożeniu podatku obciążającego jednostki niezależnie od wielkości ich dochodu, nikt nie zakładał, że powstanie doprowadzi do marszu na Londyn. Krwawe zamieszki zakończyło równie brutalne stłumienie przez siły króla, ale mit wolności i walki o sprawiedliwość na dobre zakorzenił się w mentalności angielskich chłopów, doprowadzając do narodzin legendy o Robin Hoodzie.\n\nWyróżniony BAFTA i nominowany do Oscara za LOT 93 (2006) reżyser Paul Greengrass spogląda na przepełnioną gniewem historię z charakterystycznym dla siebie reporterskim stylem, nie szczędząc jednak okrucieństwa, intensywnej konwencji i dynamicznej kamery. Rozedrgane ujęcia oddają emocjonalną motywację zrywu wyznaczającego punkt zwrotny w dziejach średniowiecznej Anglii i po upływie stuleci inspirującego polityczną lewicę.\n\nEN\n\nA historical epic based on real events, THE UPRISING asks what freedom is worth in an age of feudal oppression. Fourteenth-century England has been ravaged by plague, repression and mounting social unrest. When word spreads of the ruling elite’s ruthless plans and a tax that falls hardest on the poorest, peasants already pushed to the breaking point decide to resist the tyranny of Richard II. What begins with a handful of rebels, led by a charismatic young insurgent (Andrew Garfield), soon swells into a wave of anger sweeping across the country. The oppressed are ready to wage war on the Crown.\n\nIn 1381, rebels from Essex and Kent, led by Wat Tyler and rallied by the preacher John Ball, rose against exploitation and a poll tax levied regardless of income. Few could have foreseen that the revolt would culminate in a march on London.\n\nThe bloody riots were brought to an end by an equally brutal crackdown by the king’s forces. But the myth of freedom and the struggle for justice took firm root in the minds of the English peasants, leading to the birth of the legend of Robin Hood.\n\nBAFTA-winning director Paul Greengrass, who received an Academy Award nomination for UNITED 93 (2006), approaches this story of rage and rebellion with his characteristic journalistic immediacy, while fully embracing its brutality, intensity and restless camerawork. The jittery, urgent images capture the emotional force behind an uprising that marked a turning point in medieval English history and, centuries later, would continue to inspire the political left.",
@@ -666,8 +666,8 @@
           "imdb": {
             "id": "tt37363222",
             "url": "https://www.imdb.com/title/tt37363222/",
-            "rating": 7.6,
-            "votes": 450
+            "rating": 7.7,
+            "votes": 470
           },
           "filmweb": {
             "id": "10112663",
@@ -686,7 +686,7 @@
               "Simon Stone"
             ],
             "criticsRating": 88,
-            "criticsVotes": 57,
+            "criticsVotes": 58,
             "audienceRating": null,
             "audienceVotes": null
           }
@@ -733,7 +733,7 @@
             "id": "tt0083851",
             "url": "https://www.imdb.com/title/tt0083851/",
             "rating": 7.2,
-            "votes": 12167
+            "votes": 12169
           },
           "filmweb": {
             "id": "6845",
@@ -744,7 +744,7 @@
               "Kostiumowy"
             ],
             "rating": 7.5,
-            "votes": 3416
+            "votes": 3417
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/draughtsmans_contract",
@@ -792,8 +792,8 @@
         "description": "Debiut fabularny Gurinder Chadhy – pierwszej reżyserki o azjatyckim pochodzeniu, której udało się zrobić film w Wielkiej Brytanii. Grupa kobiet z hinduskiej społeczności rusza na wycieczkę do Blackpool, nadmorskiego miasta rozrywki. Ten dzień będzie dla nich okazją do przemyślenia własnych wyborów.",
         "shortDescription": "Debiut fabularny Gurinder Chadhy – pierwszej reżyserki o azjatyckim pochodzeniu, której udało się zrobić film w Wielkiej Brytanii. Grupa kobiet z hinduskiej społeczności rusza na wycieczkę do Blackpool, nadmorskiego miasta rozrywki. Ten dzień będzie dla nich okazją do przemyślenia własnych wyborów.",
         "genres": [
-          "Dramat",
-          "Komedia"
+          "Komedia",
+          "Dramat"
         ],
         "external": {
           "imdb": {
@@ -806,8 +806,8 @@
             "id": "163199",
             "url": "https://www.filmweb.pl/film/Bhaji+na+pla%C5%BCy-1993-163199",
             "genres": [
-              "Dramat",
-              "Komedia"
+              "Komedia",
+              "Dramat"
             ],
             "rating": 5.8,
             "votes": 16
@@ -866,7 +866,7 @@
             "id": "tt34819091",
             "url": "https://www.imdb.com/title/tt34819091/",
             "rating": 6.4,
-            "votes": 11062
+            "votes": 11090
           },
           "filmweb": {
             "id": "10090000",
@@ -876,7 +876,7 @@
               "Musical"
             ],
             "rating": 6,
-            "votes": 2448
+            "votes": 2449
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/the_testament_of_ann_lee",
@@ -932,7 +932,7 @@
             "id": "tt34966562",
             "url": "https://www.imdb.com/title/tt34966562/",
             "rating": 6.8,
-            "votes": 6874
+            "votes": 6911
           },
           "filmweb": {
             "id": "10093695",
@@ -942,7 +942,7 @@
               "Komedia"
             ],
             "rating": 6,
-            "votes": 112
+            "votes": 113
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/the_christophers",
@@ -998,7 +998,7 @@
             "id": "tt0107943",
             "url": "https://www.imdb.com/title/tt0107943/",
             "rating": 7.8,
-            "votes": 94615
+            "votes": 94641
           },
           "filmweb": {
             "id": "1234",
@@ -1008,7 +1008,7 @@
               "Melodramat"
             ],
             "rating": 7.7,
-            "votes": 39598
+            "votes": 39607
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/remains_of_the_day",
@@ -1017,8 +1017,8 @@
             "directors": [
               "James Ivory"
             ],
-            "criticsRating": 96,
-            "criticsVotes": 47,
+            "criticsRating": 95,
+            "criticsVotes": 44,
             "audienceRating": 89,
             "audienceVotes": 4694
           }
@@ -1072,7 +1072,7 @@
               "Dramat"
             ],
             "rating": 7.4,
-            "votes": 6669
+            "votes": 6668
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/snow_cake",
@@ -1081,8 +1081,8 @@
             "directors": [
               "Marc Evans"
             ],
-            "criticsRating": 63,
-            "criticsVotes": 62,
+            "criticsRating": 62,
+            "criticsVotes": 61,
             "audienceRating": 86,
             "audienceVotes": 2497
           }
@@ -1128,7 +1128,7 @@
             "id": "tt35674521",
             "url": "https://www.imdb.com/title/tt35674521/",
             "rating": 6.2,
-            "votes": 3894
+            "votes": 3928
           },
           "filmweb": {
             "id": "10072340",
@@ -1138,7 +1138,7 @@
               "Dramat"
             ],
             "rating": 6.9,
-            "votes": 676
+            "votes": 678
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/rose_of_nevada",
@@ -1188,8 +1188,8 @@
         "shortDescription": "Pełnometrażowy debiut reżyserski Shane’a Madowsa, w którym Bob Hoskins wciela się w rolę mentora, oferującego młodym ludziom alternatywę dla otaczającej beznadziei. W typowym angielskim miasteczku, poprzez sport, próbuje nauczyć ich twardych reguł życia, odpowiedzialności i wychować na dobrych ludzi.",
         "genres": [
           "Dramat",
-          "Sportowy",
-          "Komedia"
+          "Komedia",
+          "Sportowy"
         ],
         "external": {
           "imdb": {
@@ -1203,8 +1203,8 @@
             "url": "https://www.filmweb.pl/film/Okr%C4%85g%C5%82y+tydzie%C5%84-1997-32922",
             "genres": [
               "Dramat",
-              "Sportowy",
-              "Komedia"
+              "Komedia",
+              "Sportowy"
             ],
             "rating": 7.1,
             "votes": 50
@@ -1216,8 +1216,8 @@
             "directors": [
               "Shane Meadows"
             ],
-            "criticsRating": 35,
-            "criticsVotes": 20,
+            "criticsRating": 33,
+            "criticsVotes": 15,
             "audienceRating": 82,
             "audienceVotes": 257
           }
@@ -1301,7 +1301,7 @@
             "id": "tt36980182",
             "url": "https://www.imdb.com/title/tt36980182/",
             "rating": 7.1,
-            "votes": 2368
+            "votes": 2462
           },
           "filmweb": {
             "id": "10093682",
@@ -1309,8 +1309,8 @@
             "genres": [
               "Komedia"
             ],
-            "rating": 6.4,
-            "votes": 79
+            "rating": 6.5,
+            "votes": 81
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/the_incomer",
@@ -1321,8 +1321,8 @@
             ],
             "criticsRating": 95,
             "criticsVotes": 65,
-            "audienceRating": 88,
-            "audienceVotes": 95
+            "audienceRating": 89,
+            "audienceVotes": 96
           }
         },
         "longDescription": "Pokazywany jako premiera światowa na Sundance 2026 debiut fabularny Louisa Paxtona, zabiera nas na odległą i pozornie bezludną szkocką wyspę. Tak naprawdę zamieszkują ją dwie osoby. Jedynymi mieszkańcami tego miejsca jest rodzeństwo Isla i Sandy (w tych rolach wspaniali Gayle Rankin i Grant O’Rourke), którzy w całkowitej izolacji przed światem, rozmawiają z ptakami morskimi, są w kontakcie z mitycznymi folkowymi stworzeniami i noszą nieco zmęczone nordyckie swetry. Jednocześnie bronią swojej bastylii i ustalonego autorsko status quo, chroniąc się zaciekle przed obcymi przybyszami, którzy mogliby wtargnąć nieoczekiwanie do ich świata. Rzeczywistość rodzeństwa zmienia się całkowicie, kiedy na wyspę przybywa Daniel (Domhnall Gleeson) – niezdarny urzędnik, którego zadaniem jest wysiedlenie i przeniesienie ich na ląd. Przy tak ekscentrycznych charakterach, które na dodatek są na swoim terenie, łatwiej oczywiście jest to powiedzieć, niż realnie zrobić! Intruz początkowo popada w tarapaty, ale po kilku dniach (i specyficznym rytuale inicjacyjnym), ciekawość nowego wygrywa i następuje ocieplenie relacji. Daniel przecież przywozi ze sobą masę ciekawych opowieści z kontynentu: od magicznego Internetu, poprzez historię awokado lub próbę (nieskuteczną) wytłumaczenia, czym jest weganizm. Przynosi też przerwanie rutyny i ocieplenie międzyludzkich relacji oraz więzi. THE INCOMER to urocza i przezabawna interpretacja szkockiego folkloru wyspiarskiego, która mieszając sposoby narracji – od stosowania nie biorącego jeńców humoru, poprzez urocze wymiany zdań między bohaterami, zastosowanie animacji, pomysłowość scenariuszową i nadanie całości sznytu wręcz baśniowej opowieści – jest czystą przyjemnością podczas oglądania. Jednocześnie bohaterami tej zabawnej historii o obronie własnych wartości, są majestatyczne szkockie klify, zorza polarna, skarby, które przypłynęły na wyspę z falami i moce magiczne pogubionych czarodziejskich bohaterów. Jeśli szukać normalności, to dlaczego nie w przerażających kostiumach przypominających ptaki morskie, które jednocześnie skutecznie odstraszają niechcianych przybyszów, którzy nigdy nie zrozumieją kontekstu tego miejsca.\n\nEN\n\nPremiered at Sundance 2026, Louis Paxton’s feature debut takes us to a remote, seemingly deserted Scottish island. In fact, it has exactly two inhabitants: siblings Isla and Sandy (played with great flair by Gayle Rankin and Grant O’Rourke), who live in complete isolation from the outside world, talk to seabirds, commune with mythical folk creatures and wear slightly worn Nordic jumpers. At the same time, they fiercely defend their stronghold and carefully preserved status quo, keeping unwanted outsiders at bay.\n\nTheir world is turned upside down when Daniel (Domhnall Gleeson) arrives on the island. A hapless civil servant, he has been sent to evict the pair and relocate them to the mainland. With two such eccentric characters on home turf, that is rather easier said than done. At first, the intruder lands himself in trouble, but after a few days – and a rather unusual initiation ritual – curiosity gets the better of them, and relations begin to thaw. Daniel, after all, brings with him a wealth of stories from the mainland: from the wonders of the internet to the history of the avocado, not to mention an unsuccessful attempt to explain veganism. He also disrupts their routine and gradually brings warmth back into their relationships and everyday life.\n\nTHE INCOMER is a charming and very funny take on Scottish island folklore. Mixing modes of storytelling – from no-holds-barred humour and delightful exchanges between the characters to animation, playful writing and an almost fairy-tale quality – it is sheer fun to watch. The majestic Scottish cliffs, the Northern Lights, treasures washed ashore by the waves and the magical powers of wayward mythical figures are as much a part of this story about defending one’s values as the human characters themselves.\n\nAnd if normality is to be found anywhere, why not in terrifying seabird-like costumes that also happen to be remarkably effective at scaring off unwanted visitors who could never hope to understand the logic of this place?",
@@ -1358,25 +1358,25 @@
         "description": "Ekranizacja bestsellera Raynor Winn na podstawie scenariusza Rebeki Lenkiewicz (IDA). Gdy małżeństwo traci dom i zdrowie, podejmuje radykalną decyzję: pieszą wędrówkę liczącym ponad 1000 km szlakiem South West Coast Path. Poruszająca, wizualnie urzekająca oda do siły natury i ludzkiego ducha.",
         "shortDescription": "Ekranizacja bestsellera Raynor Winn na podstawie scenariusza Rebeki Lenkiewicz (IDA). Gdy małżeństwo traci dom i zdrowie, podejmuje radykalną decyzję: pieszą wędrówkę liczącym ponad 1000 km szlakiem South West Coast Path. Poruszająca, wizualnie urzekająca oda do siły natury i ludzkiego ducha.",
         "genres": [
-          "Psychologiczny",
-          "Dramat"
+          "Dramat",
+          "Psychologiczny"
         ],
         "external": {
           "imdb": {
             "id": "tt27766440",
             "url": "https://www.imdb.com/title/tt27766440/",
             "rating": 6.6,
-            "votes": 7931
+            "votes": 7938
           },
           "filmweb": {
             "id": "10058778",
             "url": "https://www.filmweb.pl/film/%C5%9Acie%C5%BCki+%C5%BCycia-2024-10058778",
             "genres": [
-              "Psychologiczny",
-              "Dramat"
+              "Dramat",
+              "Psychologiczny"
             ],
             "rating": 6.8,
-            "votes": 6227
+            "votes": 6234
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/the_salt_path",
@@ -1432,7 +1432,7 @@
             "id": "tt0107207",
             "url": "https://www.imdb.com/title/tt0107207/",
             "rating": 8.1,
-            "votes": 205436
+            "votes": 205466
           },
           "filmweb": {
             "id": "1231",
@@ -1442,7 +1442,7 @@
               "Biograficzny"
             ],
             "rating": 8,
-            "votes": 54027
+            "votes": 54030
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/in_the_name_of_the_father",
@@ -1451,8 +1451,8 @@
             "directors": [
               "Jim Sheridan"
             ],
-            "criticsRating": 94,
-            "criticsVotes": 50,
+            "criticsRating": 96,
+            "criticsVotes": 47,
             "audienceRating": 95,
             "audienceVotes": 8216
           }
@@ -1497,7 +1497,7 @@
             "id": "tt0477302",
             "url": "https://www.imdb.com/title/tt0477302/",
             "rating": 6.9,
-            "votes": 108517
+            "votes": 108525
           },
           "filmweb": {
             "id": "296427",
@@ -1561,7 +1561,7 @@
             "id": "tt32141377",
             "url": "https://www.imdb.com/title/tt32141377/",
             "rating": 7.2,
-            "votes": 133120
+            "votes": 133388
           },
           "filmweb": {
             "id": "10068169",
@@ -1570,7 +1570,7 @@
               "Horror"
             ],
             "rating": 6.8,
-            "votes": 20881
+            "votes": 20905
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/28_years_later_the_bone_temple",
@@ -1625,7 +1625,7 @@
             "id": "tt38991615",
             "url": "https://www.imdb.com/title/tt38991615/",
             "rating": 7.1,
-            "votes": 217
+            "votes": 228
           },
           "filmweb": {
             "id": "10121238",
@@ -1634,7 +1634,7 @@
               "Dramat"
             ],
             "rating": 6.8,
-            "votes": 338
+            "votes": 339
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/i_see_buildings_fall_like_lightning",
@@ -1650,7 +1650,7 @@
           }
         },
         "longDescription": "Clio Barnard znana jest przede wszystkim z filmów łączących realizm społeczny z eksperymentalną narracją i estetyką. WIDZĘ BUDYNKI UPADAJĄCE NICZYM BŁYSKAWICE – na podstawie scenariusza Endy Walsha będącego z kolei adaptacją głośnej książkę Keirana Goddarda – przesuwa nieco stylistykę autorki. Barnard idzie tym razem w stronę bardziej konwencjonalnego, choć też uderzająco współczesnego kina społecznego, odważnie stawiając diagnozy.\n\nPiątka przyjaciół, których łączy wspólne dorastanie w robotniczej dzielnicy Birmingham, wciąż boryka się w wyzwaniami dorosłości, która każde w nich popchnęła w innym kierunku. Mają po 30 lat i nerwowo uczą się dojrzałości: Patrick i Shiv wychowują dwie córki, Oli próbuje zarabiać tak, by nikogo nie krzywdzić, Conor kieruje budową eleganckiego domu finansowaną przez Riana, jedynego z grupy, który dorobił się pieniędzy i mieszkania w Londynie. Przyjaźń tej piątki uderza o mur rzeczywistości: klasowej, finansowej, naznaczonej upadkiem etosu robotniczego i okrucieństwem neoliberalnej logiki. Dyplom uniwersytecki nie broni przed prekariatem, pieniądze – przed samotnością.\n\nWIDZĘ BUDYNKI… od razu wchłania widza – intensywnością barw, dynamiką kadrów, plątaniną głosów, śmiechów i dźwięków, podbitych doskonale współgrającą z całością muzyką The Streets. Euforia szybko może jednak ześlizgnąć się w dramat. Clio Barnard nie boi się włączyć w swój film klarownego manifestu: neoliberalizm niszczy wspólnotę, a bez niej świat upadnie niczym błyskawica.\n\nEN\n\nClio Barnard is best known for films that combine social realism with experimentation in both narrative and form. I SEE BUILDINGS FALL LIKE LIGHTNING – written by Enda Walsh and adapted from Keiran Goddard’s acclaimed book – marks a slight shift in the director’s style. This time, Barnard moves towards a more conventional, though no less strikingly contemporary, form of social cinema, unafraid to offer a clear-eyed diagnosis of the world it depicts.\n\nFive friends, bound together by a shared childhood in a working-class Birmingham neighbourhood, are still grappling with the challenges of adulthood, which has sent each of them down a different path. Now in their thirties, they are anxiously learning what it means to grow up: Patrick and Shiv are raising two daughters; Oli is trying to make a living without hurting anyone; Conor is overseeing the construction of an elegant house financed by Rian, the only one of the group to have made money and built a life for himself in London. Their friendship collides with the realities of class and money, a world shaped by the decline of working-class values and the cruelty of neoliberal logic. A university degree offers no protection from precocity; money offers none from loneliness.\n\nI SEE BUILDINGS FALL LIKE LIGHTNING draws the viewer in from the outset with its intensity of colour, dynamic framing and tangle of voices, laughter and sounds, all heightened by music from The Streets that fits the film perfectly. Yet euphoria can quickly tip into drama. Neoliberalism destroys community, and without community, the world will collapse like lightning. Clio Barnard is not afraid to make this clear in the film’s manifesto.",
-        "poster": "media/posters/647f104cf36f76190a95.webp"
+        "poster": "media/posters/169155ea841a05d7e654.webp"
       },
       {
         "hour": "21:30",
@@ -1682,27 +1682,27 @@
         "description": "Chcąc uporać się z przeszłością, ekscentryczny samotnik przeznacza ogromną wygraną na loterii, by reaktywować swój ulubiony duet muzyczny. Jego członków, którzy byli niegdyś parą i nie widzieli się od lat, zaprasza na odciętą od świata walijską wysepkę i zleca im zagranie kameralnego koncertu.",
         "shortDescription": "Chcąc uporać się z przeszłością, ekscentryczny samotnik przeznacza ogromną wygraną na loterii, by reaktywować swój ulubiony duet muzyczny. Jego członków, którzy byli niegdyś parą i nie widzieli się od lat, zaprasza na odciętą od świata walijską wysepkę i zleca im zagranie kameralnego koncertu.",
         "genres": [
-          "Dramat",
           "Komedia",
-          "Muzyczny"
+          "Muzyczny",
+          "Dramat"
         ],
         "external": {
           "imdb": {
             "id": "tt27674982",
             "url": "https://www.imdb.com/title/tt27674982/",
             "rating": 7.4,
-            "votes": 26417
+            "votes": 26445
           },
           "filmweb": {
             "id": "10070057",
             "url": "https://www.filmweb.pl/film/The+Ballad+of+Wallis+Island-2025-10070057",
             "genres": [
-              "Dramat",
               "Komedia",
-              "Muzyczny"
+              "Muzyczny",
+              "Dramat"
             ],
             "rating": 6.8,
-            "votes": 993
+            "votes": 994
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/the_ballad_of_wallis_island",
@@ -1757,7 +1757,7 @@
             "id": "tt35521922",
             "url": "https://www.imdb.com/title/tt35521922/",
             "rating": 6.1,
-            "votes": 38591
+            "votes": 38656
           },
           "filmweb": {
             "id": "10064809",
@@ -1766,7 +1766,7 @@
               "Thriller"
             ],
             "rating": 7.2,
-            "votes": 15331
+            "votes": 15360
           },
           "rottenTomatoes": null
         },
@@ -1810,7 +1810,7 @@
             "id": "tt0419677",
             "url": "https://www.imdb.com/title/tt0419677/",
             "rating": 7.5,
-            "votes": 64319
+            "votes": 64330
           },
           "filmweb": {
             "id": "39701",
@@ -1819,7 +1819,7 @@
               "Thriller"
             ],
             "rating": 7.2,
-            "votes": 4956
+            "votes": 4958
           },
           "rottenTomatoes": null
         },

@@ -1,12 +1,12 @@
 {
   "schemaVersion": 1,
   "date": "2026-11-14",
-  "updatedAt": "2026-10-27T18:39:38.658Z",
+  "updatedAt": "2026-10-28T16:37:55.197Z",
   "source": "https://www.kinomuza.pl/repertoire/day/",
   "day": {
-    "id": "18",
+    "id": "17",
     "date": "14.11",
-    "now": "2026-10-27 19:39:23",
+    "now": "2026-10-28 17:35:46",
     "info": [],
     "repertoire": [
       {
@@ -46,7 +46,7 @@
             "id": "tt33046039",
             "url": "https://www.imdb.com/title/tt33046039/",
             "rating": 6.7,
-            "votes": 200
+            "votes": 201
           },
           "filmweb": {
             "id": "10093535",
@@ -71,7 +71,7 @@
           }
         },
         "longDescription": "Jeśli nie zdecydujesz kim jesteś, inni ludzie zdecydują za Ciebie – słyszy Ish (Farhan Hasnat), żyjący w Luton nastolatek pochodzenia bangladeskiego. Pretendenci do definiowania jego tożsamości stanowią liczną grupę, która reprezentuje brytyjskiego organy władzy. Jednak z uporem redukują jego istnienie do bycia intruzem i zagrożeniem dla białej rasy oraz judeochrześcijańskiej, europejskiej cywilizacji. Imran Perreta, artysta audiowizualny i reżyser ISHA, wskazuje, że wiek chłopaka nie gra roli dla brytyjskiej policji i jest to uniwersalne doświadczenie młodych osób migranckich, którego sam doświadczył.\n\nISH, laureat nagrody BIFA za przełom produkcyjny, przedstawia rzeczywistość tytułowego nastolatka i jego przyjaciela Marama (Yahya Kitana), zmuszającej ich do szybszego pożegnania się z dzieciństwem. Rasowe profilowanie mniejszości i wyrywkowe kontrole policyjne sprawiają, że żyją w przytłaczającym napięciu, strachu i poczuciu nieustannej obserwacji. Wkrótce wpływa to nawet na ich przyjaźń, nacechowaną niewinnością i braterskością, a w konsekwencji wystawia ich relację na próbę. Chłopcy po raz pierwszy mierzą się z dotkliwą stratą, cierpieniem i w końcu z brutalną dorosłością.\n\nPoetycki i chwytający za serce film debiutującego Perretty skutecznie ucieka od schematów realizmu społecznego skoncentrowanego na portretowaniu miasta i społeczeństwa w ponurych barwach. W jego soczewce Luton – pomimo porażających nierówności społecznych i monochromatycznej estetyki – jest miejscem, w którym chłopcy odnajdują pierwiastek nadzwyczajności. Magię można odnaleźć również w chemii młodych aktorów, będących prywatnie przyjaciółmi. Choć scenariusz cenionego dramaturga Endy Walsha (ZGIŃ, KOCHANIE i WIDZĘ BUDYNKI UPADAJĄCE NICZYM BŁYSKAWICE) jest pełen empatii i wrażliwości na człowieka, to właśnie ich szczere spojrzenia i dynamika stanowią duszę filmu Perretty.\n\nEN\n\nIf you don’t decide who you are, other people will decide for you – Ish (Farhan Hasnat), a Bangladeshi teenager living in Luton, is told. Plenty of people are ready to define him, not least those who represent the British authorities. Yet they persist in reducing his existence to that of an intruder and a threat to the white race and to Judeo-Christian European civilisation. Imran Perretta, the audiovisual artist and director of ISH, points out that Ish’s age makes little difference to the British police, and that this is a common experience for young people from migrant backgrounds – one he has lived through himself.\n\nWinner of the BIFA award for breakthrough production, ISH portrays the reality faced by its teenage protagonist and his friend Maram (Yahya Kitana), forcing them to leave childhood behind far too soon. Racial profiling and random police stops leave them living under constant pressure, fear and a sense of being watched. Before long, this begins to affect even their friendship, defined by innocence and brotherly closeness, ultimately putting their bond to the test. For the first time, the boys are confronted with painful loss, suffering and, finally, the brutality of adulthood.\n\nPoetic and deeply affecting, Perretta’s debut avoids the familiar conventions of social realism that portray cities and communities solely in bleak tones. Through Perretta’s lens, Luton – for all its stark inequalities and monochrome palette – still holds moments of wonder for the boys. There is magic, too, in the chemistry between the young actors, who are friends in real life. Although the screenplay by acclaimed playwright Enda Walsh (DIE MY LOVE, I SEE BUILDINGS FALL LIKE LIGHTNING) is full of empathy and sensitivity to the human experience, it is their openness, their glances and the energy between them that form the true heart of Perretta’s film.",
-        "poster": "media/posters/7724d741ccf543cea05e.webp"
+        "poster": "media/posters/23be3d8fc9e1a6aa18fd.webp"
       },
       {
         "hour": "11:00",
@@ -153,7 +153,7 @@
             "id": "tt36841161",
             "url": "https://www.imdb.com/title/tt36841161/",
             "rating": 7.1,
-            "votes": 2151
+            "votes": 2429
           },
           "filmweb": {
             "id": "10101144",
@@ -163,7 +163,7 @@
               "Familijny"
             ],
             "rating": 6.9,
-            "votes": 661
+            "votes": 692
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/shaun_the_sheep_the_beast_of_mossy_bottom",
@@ -215,26 +215,26 @@
         "shortDescription": "Rodzina Thompsonów przeprowadza się z Londynu na wieś, gdzie dzieci odkrywają drzewo kryjące w koronie przejście do coraz bardziej niezwykłych krain. Współczesna, gwiazdorska ekranizacja klasyki Enid Blyton to pełna humoru brytyjska baśń o dziecięcej ciekawości, rodzinnej bliskości i mocy wyobraźni.",
         "genres": [
           "Przygodowy",
-          "Fantasy",
-          "Familijny"
+          "Familijny",
+          "Fantasy"
         ],
         "external": {
           "imdb": {
             "id": "tt7734244",
             "url": "https://www.imdb.com/title/tt7734244/",
             "rating": 6.2,
-            "votes": 6464
+            "votes": 6565
           },
           "filmweb": {
             "id": "10104409",
             "url": "https://www.filmweb.pl/film/Drzewo+magii-2026-10104409",
             "genres": [
               "Przygodowy",
-              "Fantasy",
-              "Familijny"
+              "Familijny",
+              "Fantasy"
             ],
             "rating": 5.8,
-            "votes": 754
+            "votes": 755
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/the_magic_faraway_tree",
@@ -290,8 +290,8 @@
           "imdb": {
             "id": "tt34798706",
             "url": "https://www.imdb.com/title/tt34798706/",
-            "rating": 7,
-            "votes": 196
+            "rating": 6.9,
+            "votes": 200
           },
           "filmweb": {
             "id": "10109750",
@@ -357,7 +357,7 @@
             "id": "tt0039192",
             "url": "https://www.imdb.com/title/tt0039192/",
             "rating": 7.7,
-            "votes": 32023
+            "votes": 32030
           },
           "filmweb": {
             "id": "111145",
@@ -377,7 +377,7 @@
               "Emeric Pressburger"
             ],
             "criticsRating": 100,
-            "criticsVotes": 39,
+            "criticsVotes": 36,
             "audienceRating": 87,
             "audienceVotes": 1874
           }
@@ -497,7 +497,7 @@
               "Melodramat"
             ],
             "rating": 7.2,
-            "votes": 5893
+            "votes": 5900
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/the_pillow_book",
@@ -506,8 +506,8 @@
             "directors": [
               "Peter Greenaway"
             ],
-            "criticsRating": 68,
-            "criticsVotes": 56,
+            "criticsRating": 67,
+            "criticsVotes": 54,
             "audienceRating": 80,
             "audienceVotes": 2242
           }
@@ -553,7 +553,7 @@
             "id": "tt34819091",
             "url": "https://www.imdb.com/title/tt34819091/",
             "rating": 6.4,
-            "votes": 11062
+            "votes": 11090
           },
           "filmweb": {
             "id": "10090000",
@@ -563,7 +563,7 @@
               "Musical"
             ],
             "rating": 6,
-            "votes": 2448
+            "votes": 2449
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/the_testament_of_ann_lee",
@@ -675,7 +675,7 @@
             "id": "tt0212380",
             "url": "https://www.imdb.com/title/tt0212380/",
             "rating": 6.2,
-            "votes": 9678
+            "votes": 9681
           },
           "filmweb": {
             "id": "30869",
@@ -693,8 +693,8 @@
             "directors": [
               "Paddy Breathnach"
             ],
-            "criticsRating": 19,
-            "criticsVotes": 64,
+            "criticsRating": 20,
+            "criticsVotes": 59,
             "audienceRating": 55,
             "audienceVotes": 1057
           }
@@ -739,7 +739,7 @@
             "id": "tt35521922",
             "url": "https://www.imdb.com/title/tt35521922/",
             "rating": 6.1,
-            "votes": 38591
+            "votes": 38656
           },
           "filmweb": {
             "id": "10064809",
@@ -748,7 +748,7 @@
               "Thriller"
             ],
             "rating": 7.2,
-            "votes": 15331
+            "votes": 15360
           },
           "rottenTomatoes": null
         },
@@ -784,14 +784,24 @@
         "thumb": "https://www.kinomuza.pl/content/uploads/2026/10/2making-800x450.jpg",
         "description": "W roku 100. urodzin Sir Davida Attenborough, odsłaniamy kulisy powstania najambitniejszego filmu przyrodniczego w historii BBC. Wyemitowany po raz pierwszy w 1979 roku program LIFE ON EARTH, powstawał 3 lata, ekipa odwiedziła 40 krajów na różnych kontynentach i sfilmowała ponad 600 gatunków zwierząt.",
         "shortDescription": "W roku 100. urodzin Sir Davida Attenborough, odsłaniamy kulisy powstania najambitniejszego filmu przyrodniczego w historii BBC. Wyemitowany po raz pierwszy w 1979 roku program LIFE ON EARTH, powstawał 3 lata, ekipa odwiedziła 40 krajów na różnych kontynentach i sfilmowała ponad 600 gatunków zwierząt.",
-        "genres": [],
+        "genres": [
+          "Dokumentalny"
+        ],
         "external": {
           "imdb": null,
-          "filmweb": null,
+          "filmweb": {
+            "id": "10121767",
+            "url": "https://www.filmweb.pl/film/David+Attenborough%3A+pocz%C4%85tek+wielkiej+przygody-2026-10121767",
+            "genres": [
+              "Dokumentalny"
+            ],
+            "rating": 8,
+            "votes": 41
+          },
           "rottenTomatoes": null
         },
         "longDescription": "W roku 100. urodzin, nie mogło zabraknąć w programie British Film Festival Sir Davida Attenborough i jego dziedzictwa. Dokument MAKING LIFE ON EARTH: ATTENBOROUGH’S GREATEST ADVENTURE odsłania kulisy powstania najbardziej ambitnego filmu przyrodniczego, który kiedykolwiek powstał w historii telewizji. To pierwszy hit BBC, który zapoczątkował wspaniałą tradycję produkcji wysokojakościowych programów odsłaniających tajemnice i przybliżających publiczności złożoność dzikiej przyrody. Nagrywanie programu trwało trzy lata, a ekipa filmowców zwiedziła pół świata, odwiedzając 40 krajów na różnych kontynentach i filmując ponad 600 gatunków zwierząt, w tym po raz pierwszy słynne goryle górskie. Serial LIFE ON EARTH wprowadził do telewizji kolor, co na zawsze zrewolucjonizowało sposób w jaki publiczność postrzegała prezentowany materiał na małych ekranach telewizorów w swoich domach. Program został wyemitowany po raz pierwszy w 1979 roku, a obejrzało go wówczas 500 milionów widzów. Był to również największy punkt zwrotny w karierze Sir Davida Attenborough. Od tego momentu stał się najbardziej utytułowanym i wpływowym twórcom filmów przyrodniczych naszych czasów. Jego narratorski głos, miłość i szacunek do dzikiej przyrody, wychowały całe pokolenia. Świat byłby dużo gorszym miejscem, gdyby nie blisko pół wieku uwrażliwiania przez Sir Davida widzów i odkrywania przed nimi różnych gatunków zwierząt, których w większości nigdy nie zobaczą sami w naturze. Ten dokument odsłania również liczne anegdoty i historie, które wydarzyły się po drugiej stronie kamery. Ukazuje jak ambitnym zadaniem było nakręcenie telewizyjnej analizy życia na planecie w czasach, kiedy królowały faksy, spotkań nie umawiało się poprzez wysłanie maila, a dotarcie na koniec świata stanowiło niemałe wyzwanie. Efekt tego trudu na zawsze zapisał się w historii BBC Studios.\n\nPokaz realizowany we współpracy z BBC Earth.\n\nEN\n\nIn the year of Sir David Attenborough’s 100th birthday, the British Film Festival could hardly overlook the man or his extraordinary legacy. MAKING LIFE ON EARTH goes behind the scenes of one of the most ambitious natural history productions ever made for television.\n\nLIFE ON EARTH became a landmark BBC success. It established a tradition of spectacular, high-quality programmes that brought the complexity and wonder of the wildlife into millions of homes. The series took three years to make. Its crew travelled across the globe, visiting 40 countries on several continents and filming more than 600 species, including the now-famous encounter with mountain gorillas. LIFE ON EARTH series also made spectacular use of colour television, transforming the way audiences experienced wildlife on their screens. First broadcast in 1979, the series reached an audience of around 500 million people worldwide. It was a major turning point in Attenborough’s career.\n\nFrom then on, he became one of the most influential and celebrated figures in natural history filmmaking. His unmistakable voice, together with his curiosity, affection and respect for wildlife, has accompanied generations of viewers. For nearly half a century, Attenborough has introduced audiences to animals and ecosystems most of us will never encounter in the wild, changing the way millions of people think about the natural world.\n\nThe documentary also uncovers the stories and mishaps that unfolded behind the camera. It reveals just how formidable an undertaking LIFE ON EARTH was in an age before email and instant communication, when arranging a meeting on the other side of the world could be an adventure in itself. The result? An extraordinary effort became part of BBC history and helped set the standard for the natural history television that followed.\n\nScreening presented in collaboration with BBC Earth.",
-        "poster": "media/posters/00e968086e44748c96c3.webp"
+        "poster": "media/posters/dea0094baa8bb9b1d529.webp"
       },
       {
         "hour": "16:00",
@@ -832,7 +842,7 @@
             "id": "tt0249462",
             "url": "https://www.imdb.com/title/tt0249462/",
             "rating": 7.7,
-            "votes": 154347
+            "votes": 154372
           },
           "filmweb": {
             "id": "1471",
@@ -843,7 +853,7 @@
               "Muzyczny"
             ],
             "rating": 7.6,
-            "votes": 150746
+            "votes": 150750
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/billy_elliot",
@@ -852,8 +862,8 @@
             "directors": [
               "Stephen Daldry"
             ],
-            "criticsRating": 85,
-            "criticsVotes": 120,
+            "criticsRating": 87,
+            "criticsVotes": 113,
             "audienceRating": 89,
             "audienceVotes": 13972
           }
@@ -891,8 +901,8 @@
         "description": "Zainspirowany najsłynniejszą sztuką Williama Szekspira film w reżyserii Chloé Zhao jest wrażliwym i głębokim obrazem małżeństwa, próbującego ukształtować się na nowo po śmierci ukochanego dziecka. W rolach głównych zjawiskowy duet: Jessie Buckley oraz Paul Mescal.",
         "shortDescription": "Zainspirowany najsłynniejszą sztuką Williama Szekspira film w reżyserii Chloé Zhao jest wrażliwym i głębokim obrazem małżeństwa, próbującego ukształtować się na nowo po śmierci ukochanego dziecka. W rolach głównych zjawiskowy duet: Jessie Buckley oraz Paul Mescal.",
         "genres": [
-          "Dramat",
           "Biograficzny",
+          "Dramat",
           "Kostiumowy"
         ],
         "external": {
@@ -900,18 +910,18 @@
             "id": "tt14905854",
             "url": "https://www.imdb.com/title/tt14905854/",
             "rating": 7.8,
-            "votes": 140268
+            "votes": 140474
           },
           "filmweb": {
             "id": "10035555",
             "url": "https://www.filmweb.pl/film/Hamnet-2025-10035555",
             "genres": [
-              "Dramat",
               "Biograficzny",
+              "Dramat",
               "Kostiumowy"
             ],
             "rating": 7.6,
-            "votes": 30292
+            "votes": 30309
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/hamnet",
@@ -977,7 +987,7 @@
               "Komedia kryminalna"
             ],
             "rating": 7.5,
-            "votes": 2443
+            "votes": 2444
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/drowning-by-numbers",
@@ -1025,25 +1035,25 @@
         "description": "Rewizja Austenowskiej prozy wydobywająca z kultowej powieści siostrzeństwo, emancypację i realizm epoki. Georgiańska Anglia. Po śmierci ojca siostry Dashwood wraz z matką zostają zmuszone opuścić dom. Nowa rzeczywistość stawia je w ogniu konwenansów, finansowych trudów i miłosnej niepewności.",
         "shortDescription": "Rewizja Austenowskiej prozy wydobywająca z kultowej powieści siostrzeństwo, emancypację i realizm epoki. Georgiańska Anglia. Po śmierci ojca siostry Dashwood wraz z matką zostają zmuszone opuścić dom. Nowa rzeczywistość stawia je w ogniu konwenansów, finansowych trudów i miłosnej niepewności.",
         "genres": [
-          "Melodramat",
-          "Kostiumowy"
+          "Kostiumowy",
+          "Melodramat"
         ],
         "external": {
           "imdb": {
             "id": "tt13609648",
             "url": "https://www.imdb.com/title/tt13609648/",
-            "rating": 7.4,
-            "votes": 5520
+            "rating": 7.3,
+            "votes": 6109
           },
           "filmweb": {
             "id": "10087170",
             "url": "https://www.filmweb.pl/film/Rozwa%C5%BCna+i+romantyczna-2026-10087170",
             "genres": [
-              "Melodramat",
-              "Kostiumowy"
+              "Kostiumowy",
+              "Melodramat"
             ],
-            "rating": 7.3,
-            "votes": 2262
+            "rating": 7.2,
+            "votes": 2415
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/sense_and_sensibility_2026",
@@ -1052,10 +1062,10 @@
             "directors": [
               "Georgia Oakley"
             ],
-            "criticsRating": 76,
-            "criticsVotes": 117,
-            "audienceRating": 89,
-            "audienceVotes": 701
+            "criticsRating": 77,
+            "criticsVotes": 120,
+            "audienceRating": 88,
+            "audienceVotes": 736
           }
         },
         "longDescription": "Rewizja klasycznej prozy Jane Austen, która debiutując w 1811 roku pod pseudonimem The Lady zaskoczyła czytelników bardziej ironicznym niż przesiąkniętym romantyzmem tonem, zjadliwym humorem i realistycznym obrazem epoki. Twórcy nowej ROZWAŻNEJ I ROMANTYCZNEJ nie tylko idą pierwotnym śladem niezmiennie uwielbianej pisarki, lecz także rozluźniają sznurowadła społecznego gorsetu, aby wydobyć motyw kobiecej emancypacji oraz siłę siostrzanej więzi. Wnikają przy tym w zawiłe niuanse georgiańskiej mentalności, odkrywając konflikt serca i rozwagi nie zawsze kończący się kliszą happy endu.\n\nWraz ze śmiercią pana Dashwooda jego trzy córki i druga żona zostają zmuszone do opuszczenia rodzinnej posiadłości. Zgodnie z dawnym angielskim prawem jego majątek dziedziczy męski spadkobierca, w tym przypadku syn z pierwszego małżeństwa. Siostry Dashwood zostają skazane na łaskę krewnych, mając świadomość jedynej akceptowanej społecznie drogi kobiecej stabilizacji – zamążpójścia. Najstarsze siostry, roztropna Elinor (oklaskiwana po występie w GDZIE ŚPIEWAJĄ RAKI Daisy Edgar-Jones) oraz podążająca za emocjami Marianne (znana z seriali HANNA i SANDMAN Esmé Creed-Miles), muszą sprostać oczekiwaniom drżącego przed etykietą środowiska i własnym dylematom serca.\n\nStojąca za kamerą Georgia Oakley (PTASZYNA, BLUE JEAN) po raz kolejny poraża wielką świadomością stylu zakorzenionego w wizualnym języku europejskich mistrzów, w tym francuskiej intymności czy wnikliwych obserwacjach ludzkich mechanizmów rodem z hiszpańskiego ekranu. Filmowe światy nominowanej do nagrody BAFTA brytyjskiej reżyserski przenika pewna doza zmysłowości, ale na próżno szukać w nich szablonowości czy upiększeń. Drogę do wciąż aktualnej problematyki społecznej wyznacza w nich kontekst historyczny, queerowa wrażliwość i psychologia postaci. Z pomocą australijskiej scenarzystki Diany Reid twórczynie przepuszczają przez realistyczny filtr ponadczasowe emocje i perypetie sióstr Dashwood poszukujących własnego miejsca w świecie.\n\nEN\n\nA fresh take on Jane Austen’s classic novel, first published in 1811 under the pseudonym “A Lady”, which surprised readers with a tone more ironic than romantic, a sharp wit and a clear-eyed portrait of its age. The makers of the new SENSE AND SENSIBILITY not only follow in the footsteps of the ever-beloved author, but also loosen the stays of social convention to bring female emancipation and the strength of sisterhood to the fore. At the same time, they delve into the intricacies of the Georgian mindset, exploring a conflict between feeling and reason that does not always resolve itself into the reassuring shape of a happy ending.\n\nAfter Mr Dashwood’s death, his second wife and three daughters are forced to leave the family estate. Under the inheritance laws of the time, his property passed to a male heir – in this case, his son from his first marriage. The Dashwood sisters are left dependent on the goodwill of relatives and acutely aware that marriage remains the only socially acceptable route to security. The two eldest, the sensible Elinor (Daisy Edgar-Jones, acclaimed for her performance in WHERE THE CRAWDADS SING) and the more impulsive Marianne (Esmé Creed-Miles, known from HANNA and THE SANDMAN), must navigate both the expectations of a society in thrall to etiquette and the complications of their own hearts.\n\nDirector Georgia Oakley (LITTLE BIRD, BLUE JEAN) once again displays a striking command of style, rooted in the visual language of European cinema – from French intimacy to the acute observation of human behaviour associated with Spanish film. A certain sensuality runs through the work of the BAFTA-nominated British filmmaker, yet there is little room for formula or prettification. Historical context, queer sensitivity and close attention to character psychology become her routes into social questions that remain strikingly relevant. Working with Australian screenwriter Diana Reid, Oakley refracts the timeless emotions and romantic entanglements of the Dashwood sisters through a realist lens as they search for a place of their own in the world.",
@@ -1098,7 +1108,7 @@
             "id": "tt0050280",
             "url": "https://www.imdb.com/title/tt0050280/",
             "rating": 7,
-            "votes": 15279
+            "votes": 15291
           },
           "filmweb": {
             "id": "112951",
@@ -1107,7 +1117,7 @@
               "Horror"
             ],
             "rating": 6.6,
-            "votes": 1562
+            "votes": 1563
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/curse_of_frankenstein",
@@ -1116,8 +1126,8 @@
             "directors": [
               "Terence Fisher"
             ],
-            "criticsRating": 85,
-            "criticsVotes": 26,
+            "criticsRating": 88,
+            "criticsVotes": 24,
             "audienceRating": 77,
             "audienceVotes": 824
           }
@@ -1155,25 +1165,25 @@
         "description": "Ekranizacja bestsellera Raynor Winn na podstawie scenariusza Rebeki Lenkiewicz (IDA). Gdy małżeństwo traci dom i zdrowie, podejmuje radykalną decyzję: pieszą wędrówkę liczącym ponad 1000 km szlakiem South West Coast Path. Poruszająca, wizualnie urzekająca oda do siły natury i ludzkiego ducha.",
         "shortDescription": "Ekranizacja bestsellera Raynor Winn na podstawie scenariusza Rebeki Lenkiewicz (IDA). Gdy małżeństwo traci dom i zdrowie, podejmuje radykalną decyzję: pieszą wędrówkę liczącym ponad 1000 km szlakiem South West Coast Path. Poruszająca, wizualnie urzekająca oda do siły natury i ludzkiego ducha.",
         "genres": [
-          "Psychologiczny",
-          "Dramat"
+          "Dramat",
+          "Psychologiczny"
         ],
         "external": {
           "imdb": {
             "id": "tt27766440",
             "url": "https://www.imdb.com/title/tt27766440/",
             "rating": 6.6,
-            "votes": 7931
+            "votes": 7938
           },
           "filmweb": {
             "id": "10058778",
             "url": "https://www.filmweb.pl/film/%C5%9Acie%C5%BCki+%C5%BCycia-2024-10058778",
             "genres": [
-              "Psychologiczny",
-              "Dramat"
+              "Dramat",
+              "Psychologiczny"
             ],
             "rating": 6.8,
-            "votes": 6227
+            "votes": 6234
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/the_salt_path",
@@ -1229,7 +1239,7 @@
             "id": "tt34966562",
             "url": "https://www.imdb.com/title/tt34966562/",
             "rating": 6.8,
-            "votes": 6874
+            "votes": 6911
           },
           "filmweb": {
             "id": "10093695",
@@ -1239,7 +1249,7 @@
               "Komedia"
             ],
             "rating": 6,
-            "votes": 112
+            "votes": 113
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/the_christophers",
@@ -1294,7 +1304,7 @@
             "id": "tt27541205",
             "url": "https://www.imdb.com/title/tt27541205/",
             "rating": 7.7,
-            "votes": 647
+            "votes": 728
           },
           "filmweb": {
             "id": "10034624",
@@ -1303,7 +1313,7 @@
               "Dramat"
             ],
             "rating": 7.3,
-            "votes": 518
+            "votes": 523
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/queen_at_sea",
@@ -1313,7 +1323,7 @@
               "Lance Hammer"
             ],
             "criticsRating": 92,
-            "criticsVotes": 37,
+            "criticsVotes": 39,
             "audienceRating": null,
             "audienceVotes": null
           }
@@ -1359,7 +1369,7 @@
             "id": "tt37967547",
             "url": "https://www.imdb.com/title/tt37967547/",
             "rating": 6.9,
-            "votes": 534
+            "votes": 550
           },
           "filmweb": {
             "id": "10100972",
@@ -1378,14 +1388,14 @@
             "directors": [
               "Danny Boyle"
             ],
-            "criticsRating": 72,
-            "criticsVotes": 61,
+            "criticsRating": 73,
+            "criticsVotes": 63,
             "audienceRating": null,
             "audienceVotes": null
           }
         },
         "longDescription": "W roku 1969, Fleet Street w Londynie było bijącym sercem branży prasowej. Wtedy też Rupert Murdoch (Guy Pearce) przejął brytyjski tabloid „The Sun” i zatrudnił charyzmatycznego Larry’ego Lamba (Jack O’Connell) do roli redaktora naczelnego gazety, która jak się później okazało – na zawsze odmieniła brytyjskie dziennikarstwo i społeczeństwo. Ten symboliczny „pakt z diabłem”, przekroczył wszystkie wyznaczone wcześniej moralne granice, a w efekcie zbudował informacyjne imperium, które w późniejszych dekadach odegrało m.in. znaczącą rolę w nagłaśnianiu i podsycaniu zainteresowania publicznego historią księżnej Diany, której tragiczny finał znamy wszyscy. Reżyser Danny Boyle (TRAINSPOTTING – BFF 2024, 28 DNI PÓŹNIEJ – BFF 2025), w charakterystyczny dla siebie sposób zabiera nas w podróż pełną filmowej energii, korzystając ze wszystkich dostępnych środków filmowych (w tym symptomatyczny dla reżysera montaż i narracja, która angażuje widza przez cały czas trwania historii!). Pachnie tu dookoła tuszem, drukiem świeżego papieru, a analogowy skład zecera, wzbudza zachwyt nad czymś, co przeminęło bezpowrotnie. Nie zmieniła się jednak refleksja nad rolą i znaczeniem mediów, których odpowiedzialność jest nierozłączna ze społecznymi konsekwencjami. Jak mówi pogrążony w obsesji wygranej i zdobycia największej ilości czytelników Larry: „ Ludzie potrzebują historii ”. Jednocześnie ludzie od mediów pozostają w tym układzie posłańcami newsów, których zadaniem jest utrzymywanie zainteresowania publiczności za wszelką cenę. Na drugim planie m.in. wspaniała Claire Foy. Powtarzając za bohaterami, czy nie właśnie tym jesteśmy przekazując informacje? Storytellers? Nie, w demonicznej odpowiedzi przyszłego redaktora naczelnego najpopularniejszej gazety w Wielkiej Brytanii: „ I’am a newsman. I make news ”.\n\nEN\n\nIn 1969, London’s Fleet Street was the beating heart of the British press. That same year, Rupert Murdoch (Guy Pearce) took control of the tabloid The Sun and hired the charismatic Larry Lamb (Jack O’Connell) as editor-in-chief. The partnership would go on to reshape British journalism and British society for good.\n\nThis symbolic ‘pact with the devil’ crossed every previously established moral boundary and, as a result, built a media empire which, in the decades that followed, played, amongst other things, a significant role in publicising and fuelling public interest in the story of Princess Diana, whose tragic end we are all familiar with.\n\nDanny Boyle (TRAINSPOTTING – BFF 2024, 28 DAYS LATER – BFF 2025) tells the story with his trademark energy, using every cinematic tool at his disposal. His restless editing and propulsive storytelling keep the audience constantly engaged. You can almost smell the ink and freshly printed paper, while the analogue mechanics of typesetting evoke a world that has disappeared for good.\n\nWhat has not disappeared is the question of media power and responsibility, and the social consequences that come with both. Obsessed with winning and reaching the largest possible readership, Larry insists that “people need stories”. At the same time, media professionals remain, within this system, the bearers of news, whose task is to maintain the public’s interest at all costs.\n\nClaire Foy is among the standout supporting cast. And so the film leaves us with a question raised by its own characters: when we pass information on, are we simply storytellers? Larry’s answer is darker and far more revealing: “I’m a newsman. I make news.”",
-        "poster": "media/posters/dc3e8251fc7cb2ccd127.webp"
+        "poster": "media/posters/7bcd6e0e5f48408c6ce5.webp"
       },
       {
         "hour": "19:30",
@@ -1424,7 +1434,7 @@
             "id": "tt10329560",
             "url": "https://www.imdb.com/title/tt10329560/",
             "rating": 6.6,
-            "votes": 2868
+            "votes": 2880
           },
           "filmweb": {
             "id": "10048300",
@@ -1488,7 +1498,7 @@
             "id": "tt32141377",
             "url": "https://www.imdb.com/title/tt32141377/",
             "rating": 7.2,
-            "votes": 133120
+            "votes": 133388
           },
           "filmweb": {
             "id": "10068169",
@@ -1497,7 +1507,7 @@
               "Horror"
             ],
             "rating": 6.8,
-            "votes": 20881
+            "votes": 20905
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/28_years_later_the_bone_temple",
@@ -1553,7 +1563,7 @@
             "id": "tt35674521",
             "url": "https://www.imdb.com/title/tt35674521/",
             "rating": 6.2,
-            "votes": 3894
+            "votes": 3928
           },
           "filmweb": {
             "id": "10072340",
@@ -1563,7 +1573,7 @@
               "Dramat"
             ],
             "rating": 6.9,
-            "votes": 676
+            "votes": 678
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/rose_of_nevada",
@@ -1619,7 +1629,7 @@
             "id": "tt9362736",
             "url": "https://www.imdb.com/title/tt9362736/",
             "rating": 6,
-            "votes": 50647
+            "votes": 50716
           },
           "filmweb": {
             "id": "10023025",
@@ -1629,7 +1639,7 @@
               "Psychologiczny"
             ],
             "rating": 5.8,
-            "votes": 12596
+            "votes": 12603
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/die_my_love_2025",
@@ -1677,27 +1687,27 @@
         "description": "Chcąc uporać się z przeszłością, ekscentryczny samotnik przeznacza ogromną wygraną na loterii, by reaktywować swój ulubiony duet muzyczny. Jego członków, którzy byli niegdyś parą i nie widzieli się od lat, zaprasza na odciętą od świata walijską wysepkę i zleca im zagranie kameralnego koncertu.",
         "shortDescription": "Chcąc uporać się z przeszłością, ekscentryczny samotnik przeznacza ogromną wygraną na loterii, by reaktywować swój ulubiony duet muzyczny. Jego członków, którzy byli niegdyś parą i nie widzieli się od lat, zaprasza na odciętą od świata walijską wysepkę i zleca im zagranie kameralnego koncertu.",
         "genres": [
-          "Dramat",
           "Komedia",
-          "Muzyczny"
+          "Muzyczny",
+          "Dramat"
         ],
         "external": {
           "imdb": {
             "id": "tt27674982",
             "url": "https://www.imdb.com/title/tt27674982/",
             "rating": 7.4,
-            "votes": 26417
+            "votes": 26445
           },
           "filmweb": {
             "id": "10070057",
             "url": "https://www.filmweb.pl/film/The+Ballad+of+Wallis+Island-2025-10070057",
             "genres": [
-              "Dramat",
               "Komedia",
-              "Muzyczny"
+              "Muzyczny",
+              "Dramat"
             ],
             "rating": 6.8,
-            "votes": 993
+            "votes": 994
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/the_ballad_of_wallis_island",
@@ -1761,7 +1771,7 @@
               "Dramat"
             ],
             "rating": 7.3,
-            "votes": 11
+            "votes": 12
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/pressure1976",
@@ -1816,7 +1826,7 @@
             "id": "tt0101595",
             "url": "https://www.imdb.com/title/tt0101595/",
             "rating": 6.2,
-            "votes": 3998
+            "votes": 4001
           },
           "filmweb": {
             "id": "11886",
@@ -1880,7 +1890,7 @@
             "id": "tt32321317",
             "url": "https://www.imdb.com/title/tt32321317/",
             "rating": 6.9,
-            "votes": 25292
+            "votes": 25354
           },
           "filmweb": {
             "id": "10053146",
@@ -1889,7 +1899,7 @@
               "Melodramat"
             ],
             "rating": 6.5,
-            "votes": 6245
+            "votes": 6256
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/pillion",

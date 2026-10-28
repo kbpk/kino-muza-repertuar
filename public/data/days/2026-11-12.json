@@ -1,12 +1,12 @@
 {
   "schemaVersion": 1,
   "date": "2026-11-12",
-  "updatedAt": "2026-10-27T18:39:38.658Z",
+  "updatedAt": "2026-10-28T16:37:55.197Z",
   "source": "https://www.kinomuza.pl/repertoire/day/",
   "day": {
-    "id": "16",
+    "id": "15",
     "date": "12.11",
-    "now": "2026-10-27 19:39:19",
+    "now": "2026-10-28 17:35:42",
     "info": [],
     "repertoire": [
       {
@@ -46,7 +46,7 @@
             "id": "tt33046039",
             "url": "https://www.imdb.com/title/tt33046039/",
             "rating": 6.7,
-            "votes": 200
+            "votes": 201
           },
           "filmweb": {
             "id": "10093535",
@@ -71,7 +71,7 @@
           }
         },
         "longDescription": "Jeśli nie zdecydujesz kim jesteś, inni ludzie zdecydują za Ciebie – słyszy Ish (Farhan Hasnat), żyjący w Luton nastolatek pochodzenia bangladeskiego. Pretendenci do definiowania jego tożsamości stanowią liczną grupę, która reprezentuje brytyjskiego organy władzy. Jednak z uporem redukują jego istnienie do bycia intruzem i zagrożeniem dla białej rasy oraz judeochrześcijańskiej, europejskiej cywilizacji. Imran Perreta, artysta audiowizualny i reżyser ISHA, wskazuje, że wiek chłopaka nie gra roli dla brytyjskiej policji i jest to uniwersalne doświadczenie młodych osób migranckich, którego sam doświadczył.\n\nISH, laureat nagrody BIFA za przełom produkcyjny, przedstawia rzeczywistość tytułowego nastolatka i jego przyjaciela Marama (Yahya Kitana), zmuszającej ich do szybszego pożegnania się z dzieciństwem. Rasowe profilowanie mniejszości i wyrywkowe kontrole policyjne sprawiają, że żyją w przytłaczającym napięciu, strachu i poczuciu nieustannej obserwacji. Wkrótce wpływa to nawet na ich przyjaźń, nacechowaną niewinnością i braterskością, a w konsekwencji wystawia ich relację na próbę. Chłopcy po raz pierwszy mierzą się z dotkliwą stratą, cierpieniem i w końcu z brutalną dorosłością.\n\nPoetycki i chwytający za serce film debiutującego Perretty skutecznie ucieka od schematów realizmu społecznego skoncentrowanego na portretowaniu miasta i społeczeństwa w ponurych barwach. W jego soczewce Luton – pomimo porażających nierówności społecznych i monochromatycznej estetyki – jest miejscem, w którym chłopcy odnajdują pierwiastek nadzwyczajności. Magię można odnaleźć również w chemii młodych aktorów, będących prywatnie przyjaciółmi. Choć scenariusz cenionego dramaturga Endy Walsha (ZGIŃ, KOCHANIE i WIDZĘ BUDYNKI UPADAJĄCE NICZYM BŁYSKAWICE) jest pełen empatii i wrażliwości na człowieka, to właśnie ich szczere spojrzenia i dynamika stanowią duszę filmu Perretty.\n\nEN\n\nIf you don’t decide who you are, other people will decide for you – Ish (Farhan Hasnat), a Bangladeshi teenager living in Luton, is told. Plenty of people are ready to define him, not least those who represent the British authorities. Yet they persist in reducing his existence to that of an intruder and a threat to the white race and to Judeo-Christian European civilisation. Imran Perretta, the audiovisual artist and director of ISH, points out that Ish’s age makes little difference to the British police, and that this is a common experience for young people from migrant backgrounds – one he has lived through himself.\n\nWinner of the BIFA award for breakthrough production, ISH portrays the reality faced by its teenage protagonist and his friend Maram (Yahya Kitana), forcing them to leave childhood behind far too soon. Racial profiling and random police stops leave them living under constant pressure, fear and a sense of being watched. Before long, this begins to affect even their friendship, defined by innocence and brotherly closeness, ultimately putting their bond to the test. For the first time, the boys are confronted with painful loss, suffering and, finally, the brutality of adulthood.\n\nPoetic and deeply affecting, Perretta’s debut avoids the familiar conventions of social realism that portray cities and communities solely in bleak tones. Through Perretta’s lens, Luton – for all its stark inequalities and monochrome palette – still holds moments of wonder for the boys. There is magic, too, in the chemistry between the young actors, who are friends in real life. Although the screenplay by acclaimed playwright Enda Walsh (DIE MY LOVE, I SEE BUILDINGS FALL LIKE LIGHTNING) is full of empathy and sensitivity to the human experience, it is their openness, their glances and the energy between them that form the true heart of Perretta’s film.",
-        "poster": "media/posters/7724d741ccf543cea05e.webp"
+        "poster": "media/posters/23be3d8fc9e1a6aa18fd.webp"
       },
       {
         "hour": "15:45",
@@ -103,27 +103,27 @@
         "description": "Chcąc uporać się z przeszłością, ekscentryczny samotnik przeznacza ogromną wygraną na loterii, by reaktywować swój ulubiony duet muzyczny. Jego członków, którzy byli niegdyś parą i nie widzieli się od lat, zaprasza na odciętą od świata walijską wysepkę i zleca im zagranie kameralnego koncertu.",
         "shortDescription": "Chcąc uporać się z przeszłością, ekscentryczny samotnik przeznacza ogromną wygraną na loterii, by reaktywować swój ulubiony duet muzyczny. Jego członków, którzy byli niegdyś parą i nie widzieli się od lat, zaprasza na odciętą od świata walijską wysepkę i zleca im zagranie kameralnego koncertu.",
         "genres": [
-          "Dramat",
           "Komedia",
-          "Muzyczny"
+          "Muzyczny",
+          "Dramat"
         ],
         "external": {
           "imdb": {
             "id": "tt27674982",
             "url": "https://www.imdb.com/title/tt27674982/",
             "rating": 7.4,
-            "votes": 26417
+            "votes": 26445
           },
           "filmweb": {
             "id": "10070057",
             "url": "https://www.filmweb.pl/film/The+Ballad+of+Wallis+Island-2025-10070057",
             "genres": [
-              "Dramat",
               "Komedia",
-              "Muzyczny"
+              "Muzyczny",
+              "Dramat"
             ],
             "rating": 6.8,
-            "votes": 993
+            "votes": 994
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/the_ballad_of_wallis_island",
@@ -274,7 +274,7 @@
             "id": "tt32321317",
             "url": "https://www.imdb.com/title/tt32321317/",
             "rating": 6.9,
-            "votes": 25292
+            "votes": 25354
           },
           "filmweb": {
             "id": "10053146",
@@ -283,7 +283,7 @@
               "Melodramat"
             ],
             "rating": 6.5,
-            "votes": 6245
+            "votes": 6256
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/pillion",
@@ -331,25 +331,25 @@
         "description": "Ekranizacja bestsellera Raynor Winn na podstawie scenariusza Rebeki Lenkiewicz (IDA). Gdy małżeństwo traci dom i zdrowie, podejmuje radykalną decyzję: pieszą wędrówkę liczącym ponad 1000 km szlakiem South West Coast Path. Poruszająca, wizualnie urzekająca oda do siły natury i ludzkiego ducha.",
         "shortDescription": "Ekranizacja bestsellera Raynor Winn na podstawie scenariusza Rebeki Lenkiewicz (IDA). Gdy małżeństwo traci dom i zdrowie, podejmuje radykalną decyzję: pieszą wędrówkę liczącym ponad 1000 km szlakiem South West Coast Path. Poruszająca, wizualnie urzekająca oda do siły natury i ludzkiego ducha.",
         "genres": [
-          "Psychologiczny",
-          "Dramat"
+          "Dramat",
+          "Psychologiczny"
         ],
         "external": {
           "imdb": {
             "id": "tt27766440",
             "url": "https://www.imdb.com/title/tt27766440/",
             "rating": 6.6,
-            "votes": 7931
+            "votes": 7938
           },
           "filmweb": {
             "id": "10058778",
             "url": "https://www.filmweb.pl/film/%C5%9Acie%C5%BCki+%C5%BCycia-2024-10058778",
             "genres": [
-              "Psychologiczny",
-              "Dramat"
+              "Dramat",
+              "Psychologiczny"
             ],
             "rating": 6.8,
-            "votes": 6227
+            "votes": 6234
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/the_salt_path",
@@ -405,7 +405,7 @@
             "id": "tt0038250",
             "url": "https://www.imdb.com/title/tt0038250/",
             "rating": 6.8,
-            "votes": 2005
+            "votes": 2007
           },
           "filmweb": {
             "id": "109176",
@@ -459,7 +459,7 @@
             "id": "tt38991615",
             "url": "https://www.imdb.com/title/tt38991615/",
             "rating": 7.1,
-            "votes": 217
+            "votes": 228
           },
           "filmweb": {
             "id": "10121238",
@@ -468,7 +468,7 @@
               "Dramat"
             ],
             "rating": 6.8,
-            "votes": 338
+            "votes": 339
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/i_see_buildings_fall_like_lightning",
@@ -484,7 +484,7 @@
           }
         },
         "longDescription": "Clio Barnard znana jest przede wszystkim z filmów łączących realizm społeczny z eksperymentalną narracją i estetyką. WIDZĘ BUDYNKI UPADAJĄCE NICZYM BŁYSKAWICE – na podstawie scenariusza Endy Walsha będącego z kolei adaptacją głośnej książkę Keirana Goddarda – przesuwa nieco stylistykę autorki. Barnard idzie tym razem w stronę bardziej konwencjonalnego, choć też uderzająco współczesnego kina społecznego, odważnie stawiając diagnozy.\n\nPiątka przyjaciół, których łączy wspólne dorastanie w robotniczej dzielnicy Birmingham, wciąż boryka się w wyzwaniami dorosłości, która każde w nich popchnęła w innym kierunku. Mają po 30 lat i nerwowo uczą się dojrzałości: Patrick i Shiv wychowują dwie córki, Oli próbuje zarabiać tak, by nikogo nie krzywdzić, Conor kieruje budową eleganckiego domu finansowaną przez Riana, jedynego z grupy, który dorobił się pieniędzy i mieszkania w Londynie. Przyjaźń tej piątki uderza o mur rzeczywistości: klasowej, finansowej, naznaczonej upadkiem etosu robotniczego i okrucieństwem neoliberalnej logiki. Dyplom uniwersytecki nie broni przed prekariatem, pieniądze – przed samotnością.\n\nWIDZĘ BUDYNKI… od razu wchłania widza – intensywnością barw, dynamiką kadrów, plątaniną głosów, śmiechów i dźwięków, podbitych doskonale współgrającą z całością muzyką The Streets. Euforia szybko może jednak ześlizgnąć się w dramat. Clio Barnard nie boi się włączyć w swój film klarownego manifestu: neoliberalizm niszczy wspólnotę, a bez niej świat upadnie niczym błyskawica.\n\nEN\n\nClio Barnard is best known for films that combine social realism with experimentation in both narrative and form. I SEE BUILDINGS FALL LIKE LIGHTNING – written by Enda Walsh and adapted from Keiran Goddard’s acclaimed book – marks a slight shift in the director’s style. This time, Barnard moves towards a more conventional, though no less strikingly contemporary, form of social cinema, unafraid to offer a clear-eyed diagnosis of the world it depicts.\n\nFive friends, bound together by a shared childhood in a working-class Birmingham neighbourhood, are still grappling with the challenges of adulthood, which has sent each of them down a different path. Now in their thirties, they are anxiously learning what it means to grow up: Patrick and Shiv are raising two daughters; Oli is trying to make a living without hurting anyone; Conor is overseeing the construction of an elegant house financed by Rian, the only one of the group to have made money and built a life for himself in London. Their friendship collides with the realities of class and money, a world shaped by the decline of working-class values and the cruelty of neoliberal logic. A university degree offers no protection from precocity; money offers none from loneliness.\n\nI SEE BUILDINGS FALL LIKE LIGHTNING draws the viewer in from the outset with its intensity of colour, dynamic framing and tangle of voices, laughter and sounds, all heightened by music from The Streets that fits the film perfectly. Yet euphoria can quickly tip into drama. Neoliberalism destroys community, and without community, the world will collapse like lightning. Clio Barnard is not afraid to make this clear in the film’s manifesto.",
-        "poster": "media/posters/647f104cf36f76190a95.webp"
+        "poster": "media/posters/169155ea841a05d7e654.webp"
       },
       {
         "hour": "18:00",
@@ -523,7 +523,7 @@
             "id": "tt0976051",
             "url": "https://www.imdb.com/title/tt0976051/",
             "rating": 7.6,
-            "votes": 276151
+            "votes": 276186
           },
           "filmweb": {
             "id": "439584",
@@ -542,7 +542,7 @@
               "Stephen Daldry"
             ],
             "criticsRating": 63,
-            "criticsVotes": 202,
+            "criticsVotes": 201,
             "audienceRating": 79,
             "audienceVotes": 25403
           }
@@ -588,7 +588,7 @@
             "id": "tt0114388",
             "url": "https://www.imdb.com/title/tt0114388/",
             "rating": 7.7,
-            "votes": 139012
+            "votes": 139089
           },
           "filmweb": {
             "id": "166",
@@ -598,7 +598,7 @@
               "Melodramat"
             ],
             "rating": 7.3,
-            "votes": 62944
+            "votes": 62948
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/1068832-sense_and_sensibility",
@@ -610,7 +610,7 @@
             "criticsRating": 97,
             "criticsVotes": 141,
             "audienceRating": 90,
-            "audienceVotes": 21207
+            "audienceVotes": 21208
           }
         },
         "longDescription": "Powściągliwy romantyzm i obyczajowa ironia pióra Jane Austen przepuszczone przez urokliwy filtr georgiańskiej Anglii. Tajwański reżyser Ang Lee przyjrzał się angielskim konwenansom z dystansu przy jednoczesnym doświadczeniu pozorów klasowej dominacji wciąż odczuwalnych w świecie kontrastów Azji Wschodniej. Gwiazdorska obsada umocniła emocjonalny wymiar filmu, który w dodatku pozwolił głównej aktorce – Emmie Thompson – dowieść zdolności scenariopisarskich, czego podsumowaniem okazał się Oscar za najlepszy scenariusz adaptowany.\n\nPo śmierci Henry’ego Dashwooda jego majątek dziedziczy syn z pierwszego małżeństwa. Wdowa po nim wraz z trzema córkami: małą Margaret, Elinor (Emma Thompson) i Marianne (Kate Winslet), zostają zmuszone zamieszkać w wiejskiej posiadłości. Panny Dashwood muszą sprostać nowej – skromnej – rzeczywistości, w której jedynym sposobem na kobiecą stabilizację okazuje się zamążpójście. Dziewczęta nie zamierzają jednak podporządkować się ówczesnej obyczajowości stawiającej pozycję i wpływy ponad szczere uczucie. Rozsądna Elinor tłumi w sobie zauroczenie nieśmiałym , podczas gdy targana emocjami i stęskniona za romansem rodem z dramatów Shakespeare’a Marianne wzdycha do Willoughby’ego (Greg Wise), odrzucając zaloty szczerze jej oddanego pułkownika Brandona (Alan Rickman).\n\nPo śmierci Alana Rickmana w 2016 roku reżyser SZKLANEJ PUŁAPKI (1988) John McTiernan wspominał go jako „antytezę ról czarnych charakterów, z których najbardziej słynął na ekranie”. W tym kontekście kreacja Austenowskiego pułkownika odsłania wszechstronne umiejętności aktora słynącego za kulisami z hojności i życzliwości. Christopher Brandon to cieszący się wielką estymą właściciel Delaford, spętany jednak węzłem tragicznej przeszłości. Rickman brawurowo odzwierciedlił ciężar traumy cichego melancholika, przez którego twarz przemyka cień goryczy – w żaden sposób niezakłócający jego dystynkcji i godności, o których próżny Willoughby mógłby tylko pomarzyć.\n\nEN\n\nThrough the elegance of Georgian England, Jane Austen’s restrained romanticism and social irony shine through. Taiwanese director Ang Lee approaches English manners and class conventions with an outsider’s perspective, bringing a particular sensitivity to the tensions between social hierarchy, appearances and private feeling. The film’s emotional power is significantly enhanced by its star-studded cast. Emma Thompson, who portrays Elinor, also showcased her talent as a screenwriter, winning the Academy Award for Best Adapted Screenplay for her adaptation.\n\nAfter Henry Dashwood passes, Norland passes to his son from his first marriage, leaving Mrs Dashwood and her three daughters – young Margaret, Elinor (Emma Thompson) and Marianne (Kate Winslet) – in greatly reduced circumstances. The Dashwood sisters must come to terms with their new—modest—reality, in which marriage is the only way for a woman to achieve stability.\n\nHowever, neither sister is ready to merely accept a social structure that prioritises wealth and status over true emotion. The composed Elinor maintains her affection for the retiring Edward Ferrars (Hugh Grant) in check; the impulsive Marianne, who yearns for a Shakespearean romance, is captivated by Willoughby (Greg Wise) and disregards the advances of the devoted Colonel Brandon (Alan Rickman).\n\nFollowing Alan Rickman’s death in 2016, DIE HARD (1988) director John McTiernan recalled how different Rickman himself was from the villains with whom he became so closely associated on screen. In that light, his Colonel Brandon reveals another side of the actor’s range: restraint, tenderness and melancholy rather than menace.\n\nAlthough Austen never gives Brandon a first name, the 1995 film calls him Christopher; the name has since become synonymous with the character. Brandon is the respected owner of Delaford, yet remains marked by a tragic past. Rickman conveys that burden with remarkable subtlety: bitterness flickers across his face without ever compromising his character’s dignity or self-possession – qualities the vain Willoughby could only aspire to.",
@@ -654,7 +654,7 @@
             "id": "tt34819091",
             "url": "https://www.imdb.com/title/tt34819091/",
             "rating": 6.4,
-            "votes": 11062
+            "votes": 11090
           },
           "filmweb": {
             "id": "10090000",
@@ -664,7 +664,7 @@
               "Musical"
             ],
             "rating": 6,
-            "votes": 2448
+            "votes": 2449
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/the_testament_of_ann_lee",
@@ -712,8 +712,8 @@
         "description": "Zainspirowany najsłynniejszą sztuką Williama Szekspira film w reżyserii Chloé Zhao jest wrażliwym i głębokim obrazem małżeństwa, próbującego ukształtować się na nowo po śmierci ukochanego dziecka. W rolach głównych zjawiskowy duet: Jessie Buckley oraz Paul Mescal.",
         "shortDescription": "Zainspirowany najsłynniejszą sztuką Williama Szekspira film w reżyserii Chloé Zhao jest wrażliwym i głębokim obrazem małżeństwa, próbującego ukształtować się na nowo po śmierci ukochanego dziecka. W rolach głównych zjawiskowy duet: Jessie Buckley oraz Paul Mescal.",
         "genres": [
-          "Dramat",
           "Biograficzny",
+          "Dramat",
           "Kostiumowy"
         ],
         "external": {
@@ -721,18 +721,18 @@
             "id": "tt14905854",
             "url": "https://www.imdb.com/title/tt14905854/",
             "rating": 7.8,
-            "votes": 140268
+            "votes": 140474
           },
           "filmweb": {
             "id": "10035555",
             "url": "https://www.filmweb.pl/film/Hamnet-2025-10035555",
             "genres": [
-              "Dramat",
               "Biograficzny",
+              "Dramat",
               "Kostiumowy"
             ],
             "rating": 7.6,
-            "votes": 30292
+            "votes": 30309
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/hamnet",
@@ -787,7 +787,7 @@
             "id": "tt9138170",
             "url": "https://www.imdb.com/title/tt9138170/",
             "rating": 7.2,
-            "votes": 5962
+            "votes": 5963
           },
           "filmweb": {
             "id": "848776",
@@ -852,7 +852,7 @@
             "id": "tt0314331",
             "url": "https://www.imdb.com/title/tt0314331/",
             "rating": 7.5,
-            "votes": 585833
+            "votes": 585915
           },
           "filmweb": {
             "id": "99390",
@@ -862,7 +862,7 @@
               "Komedia rom."
             ],
             "rating": 7.5,
-            "votes": 271305
+            "votes": 271307
           },
           "rottenTomatoes": null
         },
@@ -907,7 +907,7 @@
             "id": "tt31514146",
             "url": "https://www.imdb.com/title/tt31514146/",
             "rating": 8.3,
-            "votes": 71330
+            "votes": 71633
           },
           "filmweb": {
             "id": "10088817",
@@ -917,7 +917,7 @@
               "Dramat"
             ],
             "rating": 8,
-            "votes": 4914
+            "votes": 4920
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/i_swear_2025",
@@ -1056,8 +1056,8 @@
             "directors": [
               "Peter Greenaway"
             ],
-            "criticsRating": 38,
-            "criticsVotes": 8,
+            "criticsRating": 33,
+            "criticsVotes": 6,
             "audienceRating": 81,
             "audienceVotes": 304
           }
@@ -1102,7 +1102,7 @@
             "id": "tt32141377",
             "url": "https://www.imdb.com/title/tt32141377/",
             "rating": 7.2,
-            "votes": 133120
+            "votes": 133388
           },
           "filmweb": {
             "id": "10068169",
@@ -1111,7 +1111,7 @@
               "Horror"
             ],
             "rating": 6.8,
-            "votes": 20881
+            "votes": 20905
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/28_years_later_the_bone_temple",
@@ -1167,7 +1167,7 @@
             "id": "tt37967547",
             "url": "https://www.imdb.com/title/tt37967547/",
             "rating": 6.9,
-            "votes": 534
+            "votes": 550
           },
           "filmweb": {
             "id": "10100972",
@@ -1186,14 +1186,14 @@
             "directors": [
               "Danny Boyle"
             ],
-            "criticsRating": 72,
-            "criticsVotes": 61,
+            "criticsRating": 73,
+            "criticsVotes": 63,
             "audienceRating": null,
             "audienceVotes": null
           }
         },
         "longDescription": "W roku 1969, Fleet Street w Londynie było bijącym sercem branży prasowej. Wtedy też Rupert Murdoch (Guy Pearce) przejął brytyjski tabloid „The Sun” i zatrudnił charyzmatycznego Larry’ego Lamba (Jack O’Connell) do roli redaktora naczelnego gazety, która jak się później okazało – na zawsze odmieniła brytyjskie dziennikarstwo i społeczeństwo. Ten symboliczny „pakt z diabłem”, przekroczył wszystkie wyznaczone wcześniej moralne granice, a w efekcie zbudował informacyjne imperium, które w późniejszych dekadach odegrało m.in. znaczącą rolę w nagłaśnianiu i podsycaniu zainteresowania publicznego historią księżnej Diany, której tragiczny finał znamy wszyscy. Reżyser Danny Boyle (TRAINSPOTTING – BFF 2024, 28 DNI PÓŹNIEJ – BFF 2025), w charakterystyczny dla siebie sposób zabiera nas w podróż pełną filmowej energii, korzystając ze wszystkich dostępnych środków filmowych (w tym symptomatyczny dla reżysera montaż i narracja, która angażuje widza przez cały czas trwania historii!). Pachnie tu dookoła tuszem, drukiem świeżego papieru, a analogowy skład zecera, wzbudza zachwyt nad czymś, co przeminęło bezpowrotnie. Nie zmieniła się jednak refleksja nad rolą i znaczeniem mediów, których odpowiedzialność jest nierozłączna ze społecznymi konsekwencjami. Jak mówi pogrążony w obsesji wygranej i zdobycia największej ilości czytelników Larry: „ Ludzie potrzebują historii ”. Jednocześnie ludzie od mediów pozostają w tym układzie posłańcami newsów, których zadaniem jest utrzymywanie zainteresowania publiczności za wszelką cenę. Na drugim planie m.in. wspaniała Claire Foy. Powtarzając za bohaterami, czy nie właśnie tym jesteśmy przekazując informacje? Storytellers? Nie, w demonicznej odpowiedzi przyszłego redaktora naczelnego najpopularniejszej gazety w Wielkiej Brytanii: „ I’am a newsman. I make news ”.\n\nEN\n\nIn 1969, London’s Fleet Street was the beating heart of the British press. That same year, Rupert Murdoch (Guy Pearce) took control of the tabloid The Sun and hired the charismatic Larry Lamb (Jack O’Connell) as editor-in-chief. The partnership would go on to reshape British journalism and British society for good.\n\nThis symbolic ‘pact with the devil’ crossed every previously established moral boundary and, as a result, built a media empire which, in the decades that followed, played, amongst other things, a significant role in publicising and fuelling public interest in the story of Princess Diana, whose tragic end we are all familiar with.\n\nDanny Boyle (TRAINSPOTTING – BFF 2024, 28 DAYS LATER – BFF 2025) tells the story with his trademark energy, using every cinematic tool at his disposal. His restless editing and propulsive storytelling keep the audience constantly engaged. You can almost smell the ink and freshly printed paper, while the analogue mechanics of typesetting evoke a world that has disappeared for good.\n\nWhat has not disappeared is the question of media power and responsibility, and the social consequences that come with both. Obsessed with winning and reaching the largest possible readership, Larry insists that “people need stories”. At the same time, media professionals remain, within this system, the bearers of news, whose task is to maintain the public’s interest at all costs.\n\nClaire Foy is among the standout supporting cast. And so the film leaves us with a question raised by its own characters: when we pass information on, are we simply storytellers? Larry’s answer is darker and far more revealing: “I’m a newsman. I make news.”",
-        "poster": "media/posters/dc3e8251fc7cb2ccd127.webp"
+        "poster": "media/posters/7bcd6e0e5f48408c6ce5.webp"
       },
       {
         "hour": "21:30",
@@ -1232,7 +1232,7 @@
             "id": "tt35521922",
             "url": "https://www.imdb.com/title/tt35521922/",
             "rating": 6.1,
-            "votes": 38591
+            "votes": 38656
           },
           "filmweb": {
             "id": "10064809",
@@ -1241,7 +1241,7 @@
               "Thriller"
             ],
             "rating": 7.2,
-            "votes": 15331
+            "votes": 15360
           },
           "rottenTomatoes": null
         },
@@ -1285,7 +1285,7 @@
             "id": "tt10329560",
             "url": "https://www.imdb.com/title/tt10329560/",
             "rating": 6.6,
-            "votes": 2868
+            "votes": 2880
           },
           "filmweb": {
             "id": "10048300",
@@ -1352,8 +1352,8 @@
             "directors": [
               "Robert Rodriguez"
             ],
-            "criticsRating": 47,
-            "criticsVotes": 100,
+            "criticsRating": 48,
+            "criticsVotes": 96,
             "audienceRating": 32,
             "audienceVotes": 2308
           }
@@ -1399,7 +1399,7 @@
             "id": "tt0063285",
             "url": "https://www.imdb.com/title/tt0063285/",
             "rating": 6.7,
-            "votes": 14170
+            "votes": 14181
           },
           "filmweb": {
             "id": "119896",

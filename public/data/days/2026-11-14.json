@@ -1,12 +1,12 @@
 {
   "schemaVersion": 1,
   "date": "2026-11-14",
-  "updatedAt": "2026-10-28T16:37:55.197Z",
+  "updatedAt": "2026-10-28T21:20:06.651Z",
   "source": "https://www.kinomuza.pl/repertoire/day/",
   "day": {
     "id": "17",
     "date": "14.11",
-    "now": "2026-10-28 17:35:46",
+    "now": "2026-10-28 22:19:52",
     "info": [],
     "repertoire": [
       {
@@ -1285,11 +1285,11 @@
         "desc": "<p>Wstrząsający film Lance’a Hammera eksplorujący dylemat moralny bez prostej recepty. Opiekująca się matką z demencją Amanda dokonuje odkrycia, które staje się kością niezgody między nią a ojczymem. Film otrzymał nagrodę za role drugoplanowe na Berlinale.</p>\n",
         "hall": "palacowe",
         "movieLink": "https://www.kinomuza.pl/movie/daleko-od-brzegu/",
-        "ticketLink": "https://estradapoznan.bilety24.pl/kup-bilety/?id=1009947",
+        "ticketLink": "https://estradapoznan.bilety24.pl/kup-bilety/?id=1012693",
         "prePremier": false,
         "tape35mm": false,
-        "ad": false,
-        "deaf": false,
+        "ad": true,
+        "deaf": true,
         "ticketPrice": "",
         "ticketHalfPrice": "",
         "alt": "Daleko od brzegu",

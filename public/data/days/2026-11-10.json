@@ -1,12 +1,12 @@
 {
   "schemaVersion": 1,
   "date": "2026-11-10",
-  "updatedAt": "2026-10-27T18:39:38.658Z",
+  "updatedAt": "2026-10-28T16:37:55.197Z",
   "source": "https://www.kinomuza.pl/repertoire/day/",
   "day": {
-    "id": "14",
+    "id": "13",
     "date": "10.11",
-    "now": "2026-10-27 19:39:18",
+    "now": "2026-10-28 17:35:42",
     "info": [],
     "repertoire": [
       {
@@ -46,8 +46,8 @@
           "imdb": {
             "id": "tt37363222",
             "url": "https://www.imdb.com/title/tt37363222/",
-            "rating": 7.6,
-            "votes": 450
+            "rating": 7.7,
+            "votes": 470
           },
           "filmweb": {
             "id": "10112663",
@@ -66,7 +66,7 @@
               "Simon Stone"
             ],
             "criticsRating": 88,
-            "criticsVotes": 57,
+            "criticsVotes": 58,
             "audienceRating": null,
             "audienceVotes": null
           }
@@ -111,8 +111,8 @@
           "imdb": {
             "id": "tt37363222",
             "url": "https://www.imdb.com/title/tt37363222/",
-            "rating": 7.6,
-            "votes": 450
+            "rating": 7.7,
+            "votes": 470
           },
           "filmweb": {
             "id": "10112663",
@@ -131,7 +131,7 @@
               "Simon Stone"
             ],
             "criticsRating": 88,
-            "criticsVotes": 57,
+            "criticsVotes": 58,
             "audienceRating": null,
             "audienceVotes": null
           }
@@ -177,7 +177,7 @@
             "id": "tt31514146",
             "url": "https://www.imdb.com/title/tt31514146/",
             "rating": 8.3,
-            "votes": 71330
+            "votes": 71633
           },
           "filmweb": {
             "id": "10088817",
@@ -187,7 +187,7 @@
               "Dramat"
             ],
             "rating": 8,
-            "votes": 4914
+            "votes": 4920
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/i_swear_2025",
@@ -242,7 +242,7 @@
             "id": "tt38991615",
             "url": "https://www.imdb.com/title/tt38991615/",
             "rating": 7.1,
-            "votes": 217
+            "votes": 228
           },
           "filmweb": {
             "id": "10121238",
@@ -251,7 +251,7 @@
               "Dramat"
             ],
             "rating": 6.8,
-            "votes": 338
+            "votes": 339
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/i_see_buildings_fall_like_lightning",
@@ -267,7 +267,7 @@
           }
         },
         "longDescription": "Clio Barnard znana jest przede wszystkim z filmów łączących realizm społeczny z eksperymentalną narracją i estetyką. WIDZĘ BUDYNKI UPADAJĄCE NICZYM BŁYSKAWICE – na podstawie scenariusza Endy Walsha będącego z kolei adaptacją głośnej książkę Keirana Goddarda – przesuwa nieco stylistykę autorki. Barnard idzie tym razem w stronę bardziej konwencjonalnego, choć też uderzająco współczesnego kina społecznego, odważnie stawiając diagnozy.\n\nPiątka przyjaciół, których łączy wspólne dorastanie w robotniczej dzielnicy Birmingham, wciąż boryka się w wyzwaniami dorosłości, która każde w nich popchnęła w innym kierunku. Mają po 30 lat i nerwowo uczą się dojrzałości: Patrick i Shiv wychowują dwie córki, Oli próbuje zarabiać tak, by nikogo nie krzywdzić, Conor kieruje budową eleganckiego domu finansowaną przez Riana, jedynego z grupy, który dorobił się pieniędzy i mieszkania w Londynie. Przyjaźń tej piątki uderza o mur rzeczywistości: klasowej, finansowej, naznaczonej upadkiem etosu robotniczego i okrucieństwem neoliberalnej logiki. Dyplom uniwersytecki nie broni przed prekariatem, pieniądze – przed samotnością.\n\nWIDZĘ BUDYNKI… od razu wchłania widza – intensywnością barw, dynamiką kadrów, plątaniną głosów, śmiechów i dźwięków, podbitych doskonale współgrającą z całością muzyką The Streets. Euforia szybko może jednak ześlizgnąć się w dramat. Clio Barnard nie boi się włączyć w swój film klarownego manifestu: neoliberalizm niszczy wspólnotę, a bez niej świat upadnie niczym błyskawica.\n\nEN\n\nClio Barnard is best known for films that combine social realism with experimentation in both narrative and form. I SEE BUILDINGS FALL LIKE LIGHTNING – written by Enda Walsh and adapted from Keiran Goddard’s acclaimed book – marks a slight shift in the director’s style. This time, Barnard moves towards a more conventional, though no less strikingly contemporary, form of social cinema, unafraid to offer a clear-eyed diagnosis of the world it depicts.\n\nFive friends, bound together by a shared childhood in a working-class Birmingham neighbourhood, are still grappling with the challenges of adulthood, which has sent each of them down a different path. Now in their thirties, they are anxiously learning what it means to grow up: Patrick and Shiv are raising two daughters; Oli is trying to make a living without hurting anyone; Conor is overseeing the construction of an elegant house financed by Rian, the only one of the group to have made money and built a life for himself in London. Their friendship collides with the realities of class and money, a world shaped by the decline of working-class values and the cruelty of neoliberal logic. A university degree offers no protection from precocity; money offers none from loneliness.\n\nI SEE BUILDINGS FALL LIKE LIGHTNING draws the viewer in from the outset with its intensity of colour, dynamic framing and tangle of voices, laughter and sounds, all heightened by music from The Streets that fits the film perfectly. Yet euphoria can quickly tip into drama. Neoliberalism destroys community, and without community, the world will collapse like lightning. Clio Barnard is not afraid to make this clear in the film’s manifesto.",
-        "poster": "media/posters/647f104cf36f76190a95.webp"
+        "poster": "media/posters/169155ea841a05d7e654.webp"
       },
       {
         "hour": "22:30",
@@ -308,7 +308,7 @@
             "id": "tt0365748",
             "url": "https://www.imdb.com/title/tt0365748/",
             "rating": 7.8,
-            "votes": 647067
+            "votes": 647228
           },
           "filmweb": {
             "id": "121881",
@@ -318,7 +318,7 @@
               "Komedia"
             ],
             "rating": 6.6,
-            "votes": 52101
+            "votes": 52105
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/shaun_of_the_dead",
@@ -328,7 +328,7 @@
               "Edgar Wright"
             ],
             "criticsRating": 92,
-            "criticsVotes": 218,
+            "criticsVotes": 216,
             "audienceRating": 93,
             "audienceVotes": 107651
           }

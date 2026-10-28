@@ -1,12 +1,12 @@
 {
   "schemaVersion": 1,
   "date": "2026-11-26",
-  "updatedAt": "2026-10-27T18:39:38.658Z",
+  "updatedAt": "2026-10-28T16:37:55.197Z",
   "source": "https://www.kinomuza.pl/repertoire/day/",
   "day": {
-    "id": "30",
+    "id": "29",
     "date": "26.11",
-    "now": "2026-10-27 19:39:27",
+    "now": "2026-10-28 17:35:50",
     "info": [],
     "repertoire": [
       {
@@ -84,7 +84,7 @@
             "id": "tt39442922",
             "url": "https://www.imdb.com/title/tt39442922/",
             "rating": 7.4,
-            "votes": 123
+            "votes": 124
           },
           "filmweb": {
             "id": "10121011",
@@ -93,7 +93,7 @@
               "Dokumentalny"
             ],
             "rating": 7.4,
-            "votes": 242
+            "votes": 243
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/mariinka",

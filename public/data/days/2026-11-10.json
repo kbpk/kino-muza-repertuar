@@ -1,12 +1,12 @@
 {
   "schemaVersion": 1,
   "date": "2026-11-10",
-  "updatedAt": "2026-10-28T21:20:06.651Z",
+  "updatedAt": "2026-10-29T16:55:36.891Z",
   "source": "https://www.kinomuza.pl/repertoire/day/",
   "day": {
-    "id": "13",
+    "id": "12",
     "date": "10.11",
-    "now": "2026-10-28 22:19:49",
+    "now": "2026-10-29 17:53:35",
     "info": [],
     "repertoire": [
       {
@@ -46,8 +46,8 @@
           "imdb": {
             "id": "tt37363222",
             "url": "https://www.imdb.com/title/tt37363222/",
-            "rating": 7.7,
-            "votes": 470
+            "rating": 7.6,
+            "votes": 479
           },
           "filmweb": {
             "id": "10112663",
@@ -111,8 +111,8 @@
           "imdb": {
             "id": "tt37363222",
             "url": "https://www.imdb.com/title/tt37363222/",
-            "rating": 7.7,
-            "votes": 470
+            "rating": 7.6,
+            "votes": 479
           },
           "filmweb": {
             "id": "10112663",
@@ -177,7 +177,7 @@
             "id": "tt31514146",
             "url": "https://www.imdb.com/title/tt31514146/",
             "rating": 8.3,
-            "votes": 71633
+            "votes": 71713
           },
           "filmweb": {
             "id": "10088817",
@@ -187,7 +187,7 @@
               "Dramat"
             ],
             "rating": 8,
-            "votes": 4920
+            "votes": 4934
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/i_swear_2025",
@@ -251,7 +251,7 @@
               "Dramat"
             ],
             "rating": 6.8,
-            "votes": 339
+            "votes": 340
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/i_see_buildings_fall_like_lightning",
@@ -308,7 +308,7 @@
             "id": "tt0365748",
             "url": "https://www.imdb.com/title/tt0365748/",
             "rating": 7.8,
-            "votes": 647228
+            "votes": 647279
           },
           "filmweb": {
             "id": "121881",
@@ -318,7 +318,7 @@
               "Komedia"
             ],
             "rating": 6.6,
-            "votes": 52105
+            "votes": 52107
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/shaun_of_the_dead",
@@ -330,7 +330,7 @@
             "criticsRating": 92,
             "criticsVotes": 216,
             "audienceRating": 93,
-            "audienceVotes": 107651
+            "audienceVotes": 107652
           }
         },
         "longDescription": "Shaun ma trzydzieści lat, nudną pracę w sklepie z elektroniką, współlokatora leżącego całymi dniami na kanapie i dziewczynę, która ma serdecznie dość tego, że każdy wieczór kończą w tym samym pubie. Gdy Londyn ogarnia epidemia zmieniająca ludzi w żywe trupy, Shaun opracowuje plan: zabrać mamę i dziewczynę, pojechać do pubu, napić się piwa i przeczekać. Ten plan zdecydowanie nie jest dobry. Ale dzięki niemu powstała jedna z najlepszych komedii w historii brytyjskiego kina.\n\nWYSYP ŻYWYCH TRUPÓW dał światu zarówno duet Simon Pegg i Nick Frost, jak i Edgara Wrighta, reżysera, który w kolejnych swoich filmach przesuwał granice wizualnych gagów, tworząc z nich coś na kształt koncertu, w którym grają nie tylko zabawne dialogi, a też przemyślane co do ułamka sekundy cięcia montażowe czy precyzyjnie zaprojektowane ujęcia. Dzięki temu w WYSYPIE ŻYWYCH TRUPÓW z wielką radością obserwujemy narodziny stylu, który później Wright rozwinie w takich arcydziełach komedii jak HOT FUZZ, SCOTT PILGRIM KONTRA ŚWIAT czy BABY DRIVER.\n\nNajlepszą recenzję wystawił jednak filmowi sam George A. Romero, który obejrzał WYSYP ŻYWYCH TRUPÓW samotnie w kinie na Florydzie, a potem zaprosił Wrighta i Pegga do ZIEMI ŻYWYCH TRUPÓW – obsadzając ich, rzecz jasna, w rolach zombie. Trudno o czytelniejsze błogosławieństwo, bo film Wrighta nie jest parodią klasyków Romera, tylko listem miłosnym napisanym przez kogoś, kto zna je na pamięć: pełnym szacunku, ale też świadomym, że w brytyjskiej wersji apokalipsy najważniejsze jest, żeby nikt nie rozlał piwa.\n\nEN\n\nShaun is thirty, stuck in a dead-end job at an electronics shop, living with a flatmate who spends his days sprawled on the sofa, and dating a woman who is thoroughly fed up with every evening ending in the same pub. When an outbreak sweeps through London, turning people into the living dead, Shaun comes up with a plan: pick up his mum and girlfriend, head to the pub, have a pint and wait for it all to blow over. It is, quite clearly, a terrible plan. But it gave us one of the finest comedies in British cinema.\n\nSHAUN OF THE DEAD introduced the world not only to the double act of Simon Pegg and Nick Frost, but also to Edgar Wright, a director who would go on to push the visual gag to its limits, turning comedy into something almost musical: not just funny dialogue, but edits timed to the split second and shots designed with extraordinary precision. That makes SHAUN OF THE DEAD a particular joy to watch as the birth of a style Wright would later develop in comedy classics such as HOT FUZZ, SCOTT PILGRIM VS. THE WORLD and BABY DRIVER.\n\nThe best review, however, came from George A. Romero himself. He watched SHAUN OF THE DEAD alone in a cinema in Florida, then invited Wright and Pegg to appear in LAND OF THE DEAD – as zombies, naturally. It is hard to imagine a clearer blessing, because Wright’s film is not a parody of Romero’s classics but a love letter written by someone who knows them by heart: reverent, affectionate and fully aware that, in a British apocalypse, the most important thing is making sure nobody spills their pint.",

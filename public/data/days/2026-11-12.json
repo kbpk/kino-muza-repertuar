@@ -1,12 +1,12 @@
 {
   "schemaVersion": 1,
   "date": "2026-11-12",
-  "updatedAt": "2026-10-28T21:20:06.651Z",
+  "updatedAt": "2026-10-29T16:55:36.891Z",
   "source": "https://www.kinomuza.pl/repertoire/day/",
   "day": {
-    "id": "15",
+    "id": "14",
     "date": "12.11",
-    "now": "2026-10-28 22:19:49",
+    "now": "2026-10-29 17:53:36",
     "info": [],
     "repertoire": [
       {
@@ -104,23 +104,23 @@
         "shortDescription": "Chcąc uporać się z przeszłością, ekscentryczny samotnik przeznacza ogromną wygraną na loterii, by reaktywować swój ulubiony duet muzyczny. Jego członków, którzy byli niegdyś parą i nie widzieli się od lat, zaprasza na odciętą od świata walijską wysepkę i zleca im zagranie kameralnego koncertu.",
         "genres": [
           "Komedia",
-          "Muzyczny",
-          "Dramat"
+          "Dramat",
+          "Muzyczny"
         ],
         "external": {
           "imdb": {
             "id": "tt27674982",
             "url": "https://www.imdb.com/title/tt27674982/",
             "rating": 7.4,
-            "votes": 26445
+            "votes": 26449
           },
           "filmweb": {
             "id": "10070057",
             "url": "https://www.filmweb.pl/film/The+Ballad+of+Wallis+Island-2025-10070057",
             "genres": [
               "Komedia",
-              "Muzyczny",
-              "Dramat"
+              "Dramat",
+              "Muzyczny"
             ],
             "rating": 6.8,
             "votes": 994
@@ -176,7 +176,7 @@
             "id": "tt0252444",
             "url": "https://www.imdb.com/title/tt0252444/",
             "rating": 7.4,
-            "votes": 31903
+            "votes": 31906
           },
           "filmweb": null,
           "rottenTomatoes": null
@@ -274,7 +274,7 @@
             "id": "tt32321317",
             "url": "https://www.imdb.com/title/tt32321317/",
             "rating": 6.9,
-            "votes": 25354
+            "votes": 25370
           },
           "filmweb": {
             "id": "10053146",
@@ -283,7 +283,7 @@
               "Melodramat"
             ],
             "rating": 6.5,
-            "votes": 6256
+            "votes": 6270
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/pillion",
@@ -339,7 +339,7 @@
             "id": "tt27766440",
             "url": "https://www.imdb.com/title/tt27766440/",
             "rating": 6.6,
-            "votes": 7938
+            "votes": 7941
           },
           "filmweb": {
             "id": "10058778",
@@ -349,7 +349,7 @@
               "Psychologiczny"
             ],
             "rating": 6.8,
-            "votes": 6234
+            "votes": 6240
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/the_salt_path",
@@ -468,7 +468,7 @@
               "Dramat"
             ],
             "rating": 6.8,
-            "votes": 339
+            "votes": 340
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/i_see_buildings_fall_like_lightning",
@@ -523,7 +523,7 @@
             "id": "tt0976051",
             "url": "https://www.imdb.com/title/tt0976051/",
             "rating": 7.6,
-            "votes": 276186
+            "votes": 276201
           },
           "filmweb": {
             "id": "439584",
@@ -532,7 +532,7 @@
               "Melodramat"
             ],
             "rating": 7.8,
-            "votes": 211847
+            "votes": 211851
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/reader",
@@ -580,25 +580,25 @@
         "description": "Alan Rickman jako pułkownik Brandon stworzył portret cichego melancholika o zranionym sercu, czym zerwał z łatką filmowego złoczyńcy. Anglia, XVIII wiek. Po śmierci ojca panny Dashwood są zmuszone opuścić rodzinną posiadłość oraz sprostać skromnym realiom i zmiennym niczym londyńska mgła adoratorom.",
         "shortDescription": "Alan Rickman jako pułkownik Brandon stworzył portret cichego melancholika o zranionym sercu, czym zerwał z łatką filmowego złoczyńcy. Anglia, XVIII wiek. Po śmierci ojca panny Dashwood są zmuszone opuścić rodzinną posiadłość oraz sprostać skromnym realiom i zmiennym niczym londyńska mgła adoratorom.",
         "genres": [
-          "Kostiumowy",
-          "Melodramat"
+          "Melodramat",
+          "Kostiumowy"
         ],
         "external": {
           "imdb": {
             "id": "tt0114388",
             "url": "https://www.imdb.com/title/tt0114388/",
             "rating": 7.7,
-            "votes": 139089
+            "votes": 139115
           },
           "filmweb": {
             "id": "166",
             "url": "https://www.filmweb.pl/film/Rozwa%C5%BCna+i+romantyczna-1995-166",
             "genres": [
-              "Kostiumowy",
-              "Melodramat"
+              "Melodramat",
+              "Kostiumowy"
             ],
             "rating": 7.3,
-            "votes": 62948
+            "votes": 62957
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/1068832-sense_and_sensibility",
@@ -654,7 +654,7 @@
             "id": "tt34819091",
             "url": "https://www.imdb.com/title/tt34819091/",
             "rating": 6.4,
-            "votes": 11090
+            "votes": 11096
           },
           "filmweb": {
             "id": "10090000",
@@ -664,7 +664,7 @@
               "Musical"
             ],
             "rating": 6,
-            "votes": 2449
+            "votes": 2451
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/the_testament_of_ann_lee",
@@ -713,26 +713,26 @@
         "shortDescription": "Zainspirowany najsłynniejszą sztuką Williama Szekspira film w reżyserii Chloé Zhao jest wrażliwym i głębokim obrazem małżeństwa, próbującego ukształtować się na nowo po śmierci ukochanego dziecka. W rolach głównych zjawiskowy duet: Jessie Buckley oraz Paul Mescal.",
         "genres": [
           "Biograficzny",
-          "Dramat",
-          "Kostiumowy"
+          "Kostiumowy",
+          "Dramat"
         ],
         "external": {
           "imdb": {
             "id": "tt14905854",
             "url": "https://www.imdb.com/title/tt14905854/",
             "rating": 7.8,
-            "votes": 140474
+            "votes": 140555
           },
           "filmweb": {
             "id": "10035555",
             "url": "https://www.filmweb.pl/film/Hamnet-2025-10035555",
             "genres": [
               "Biograficzny",
-              "Dramat",
-              "Kostiumowy"
+              "Kostiumowy",
+              "Dramat"
             ],
             "rating": 7.6,
-            "votes": 30309
+            "votes": 30322
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/hamnet",
@@ -844,25 +844,25 @@
         "description": "ŚWIĄTECZNY POKAZ SPECJALNY Z MINI INCHCAPE POZNAŃ (eNStudiosul. Głogowska 216).",
         "shortDescription": "ŚWIĄTECZNY POKAZ SPECJALNY Z MINI INCHCAPE POZNAŃ (eNStudiosul. Głogowska 216).",
         "genres": [
-          "Świąteczny",
-          "Komedia rom."
+          "Komedia rom.",
+          "Świąteczny"
         ],
         "external": {
           "imdb": {
             "id": "tt0314331",
             "url": "https://www.imdb.com/title/tt0314331/",
             "rating": 7.5,
-            "votes": 585915
+            "votes": 585947
           },
           "filmweb": {
             "id": "99390",
             "url": "https://www.filmweb.pl/film/To+w%C5%82a%C5%9Bnie+mi%C5%82o%C5%9B%C4%87-2003-99390",
             "genres": [
-              "Świąteczny",
-              "Komedia rom."
+              "Komedia rom.",
+              "Świąteczny"
             ],
             "rating": 7.5,
-            "votes": 271307
+            "votes": 271311
           },
           "rottenTomatoes": null
         },
@@ -907,7 +907,7 @@
             "id": "tt31514146",
             "url": "https://www.imdb.com/title/tt31514146/",
             "rating": 8.3,
-            "votes": 71633
+            "votes": 71713
           },
           "filmweb": {
             "id": "10088817",
@@ -917,7 +917,7 @@
               "Dramat"
             ],
             "rating": 8,
-            "votes": 4920
+            "votes": 4934
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/i_swear_2025",
@@ -1102,7 +1102,7 @@
             "id": "tt32141377",
             "url": "https://www.imdb.com/title/tt32141377/",
             "rating": 7.2,
-            "votes": 133388
+            "votes": 133482
           },
           "filmweb": {
             "id": "10068169",
@@ -1111,7 +1111,7 @@
               "Horror"
             ],
             "rating": 6.8,
-            "votes": 20905
+            "votes": 20921
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/28_years_later_the_bone_temple",
@@ -1123,7 +1123,7 @@
             "criticsRating": 91,
             "criticsVotes": 351,
             "audienceRating": 88,
-            "audienceVotes": 2795
+            "audienceVotes": 2796
           }
         },
         "longDescription": "Niedawno Danny Boyle i Alex Garland powrócili do postapokaliptycznego świata opanowanego przez ludzi zainfekowanych wirusem, który wywołuje niekontrolowaną agresję. W najnowszym filmie z serii – ŚWIĄTYNI KOŚCI – młoda reżyserka Nia DaCosta przejmuje stery po Boyle’u i sięga aż po bebechy świata toczonego zarazą, aby dojść do jądra ciemności w sercu człowieka. Podobnie jak w poprzedniej części, nie brakuje refleksji, że jej okrycia nie są obce dla współczesnego człowieka. Czy do takiej rzeczywistości dzieli nas już tylko apokalipsa zombie?\n\nDaCosta powraca do bohaterów, których poznaliśmy w 28 DNI PÓŹNIEJ Boyle’a. Śledzi losy młodego Spike’a (Alfie Williams), który opuszcza swój dom i schronienie i wpada na psychopatyczną szajkę dowodzoną przez Jimmy’ego Crystala (Jack O’Connell). „Sir Lord” Crystal jest przekonany, że jego ojcem jest sam szatan, dlatego w jego imieniu jest zdolny dokonać większych okrucieństw niż zarażeni. Wkrótce sadystyczna grupa ze werbowanym Spike’iem odkrywa świątynię kości doktora Iana Kelsona (Ralph Fiennes), będącego na tropie odkrycia rewolucyjnego dla przyszłości.\n\nChoć angażowanie się w nową franczyzę wydawało się reżyserce THE MARVELS ryzykowne, do realizacji ŚWIĄTYNI KOŚCI zachęcił ją sam Jonathan Glazer. Szczęśliwie DaCosta otrzymała swobodę artystyczną od Boyle’a i doskonale ją wykorzystała opierając się na doskonałym scenariuszu Garlanda. Stworzyła filmową wersję heavy metalu (z którego zresztą chętnie korzysta w scenie z The Number of Beast) – jest bezkompromisowa, intensywna i odarta ze wszelkich świętości. Ten charakter objawia się nie tylko w wyborach muzycznych, ale też wizualnych, gdy film DaCosty aż ocieka mrożącą krew w żyłach symboliką. To przejmująca, brutalna, a przy tym skrupulatnie zrealizowana opowieść o naturze zła – choć zdecydowanie dla widowni o mocnym żołądku.\n\nEN\n\nDanny Boyle and Alex Garland recently returned to the post-apocalyptic world of 28 YEARS LATER, ravaged by a virus that drives the infected into uncontrollable violence. In the latest instalment, 28 YEARS LATER: THE BONE TEMPLE, yound director Nia DaCosta takes over directing duties from Boyle and turns her attention to the darker side of human nature. As in the previous film, the horrors she uncovers feel uncomfortably close to the present. Is a zombie apocalypse really all that separates us from such a world?\n\nDaCosta returns to the characters introduced in Boyle’s 28 YEARS LATER. She follows young Spike (Alfie Williams), who leaves the safety of his home only to fall in with a psychopathic gang led by Jimmy Crystal (Jack O’Connell). “Sir Lord” Crystal believes Satan himself to be his father and, in his name, proves capable of atrocities even worse than those committed by the infected. Before long, the sadistic group, with Spike now drawn into its ranks, comes across the bone temple of Dr Ian Kelson (Ralph Fiennes), who is on the verge of a discovery that could transform the future.\n\nAlthough joining another franchise initially seemed risky to the director of THE MARVELS, it was Jonathan Glazer himself who encouraged DaCosta to take on 28 YEARS LATER: THE BONE TEMPLE. Fortunately, Boyle gave her considerable creative freedom, and she makes full use of it, working from Garland’s assured screenplay. The result is the cinematic equivalent of heavy metal, a genre the film embraces outright in a sequence set to The Number of the Beast : uncompromising, intense and stripped of all reverence. That spirit runs through not only the music but the imagery, as DaCosta’s film positively drips with chilling symbolism. The result is a harrowing, brutal and meticulously crafted exploration of the nature of evil – though decidedly not for the faint-hearted.",
@@ -1167,7 +1167,7 @@
             "id": "tt37967547",
             "url": "https://www.imdb.com/title/tt37967547/",
             "rating": 6.9,
-            "votes": 550
+            "votes": 552
           },
           "filmweb": {
             "id": "10100972",
@@ -1176,8 +1176,8 @@
               "Biograficzny",
               "Dramat"
             ],
-            "rating": 6.5,
-            "votes": 132
+            "rating": 6.6,
+            "votes": 133
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/ink_2026",
@@ -1232,7 +1232,7 @@
             "id": "tt35521922",
             "url": "https://www.imdb.com/title/tt35521922/",
             "rating": 6.1,
-            "votes": 38656
+            "votes": 38672
           },
           "filmweb": {
             "id": "10064809",
@@ -1241,7 +1241,7 @@
               "Thriller"
             ],
             "rating": 7.2,
-            "votes": 15360
+            "votes": 15387
           },
           "rottenTomatoes": null
         },
@@ -1285,7 +1285,7 @@
             "id": "tt10329560",
             "url": "https://www.imdb.com/title/tt10329560/",
             "rating": 6.6,
-            "votes": 2880
+            "votes": 2881
           },
           "filmweb": {
             "id": "10048300",
@@ -1399,7 +1399,7 @@
             "id": "tt0063285",
             "url": "https://www.imdb.com/title/tt0063285/",
             "rating": 6.7,
-            "votes": 14181
+            "votes": 14185
           },
           "filmweb": {
             "id": "119896",

@@ -1,12 +1,12 @@
 {
   "schemaVersion": 1,
   "date": "2026-11-04",
-  "updatedAt": "2026-10-28T21:20:06.651Z",
+  "updatedAt": "2026-10-29T16:55:36.891Z",
   "source": "https://www.kinomuza.pl/repertoire/day/",
   "day": {
-    "id": "07",
+    "id": "06",
     "date": "04.11",
-    "now": "2026-10-28 22:19:43",
+    "now": "2026-10-29 17:53:28",
     "info": [],
     "repertoire": [
       {
@@ -39,25 +39,25 @@
         "description": "Zatrzymaj się i poczuj magię natury podczas prawdziwego kinowego doświadczenia, które angażuje wszystkie zmysły!",
         "shortDescription": "Zatrzymaj się i poczuj magię natury podczas prawdziwego kinowego doświadczenia, które angażuje wszystkie zmysły!",
         "genres": [
-          "Przyrodniczy",
-          "Dokumentalny"
+          "Dokumentalny",
+          "Przyrodniczy"
         ],
         "external": {
           "imdb": {
             "id": "tt32368068",
             "url": "https://www.imdb.com/title/tt32368068/",
             "rating": 7.7,
-            "votes": 1339
+            "votes": 1345
           },
           "filmweb": {
             "id": "10111381",
             "url": "https://www.filmweb.pl/film/Pie%C5%9Bni+lasu-2025-10111381",
             "genres": [
-              "Przyrodniczy",
-              "Dokumentalny"
+              "Dokumentalny",
+              "Przyrodniczy"
             ],
             "rating": 8.1,
-            "votes": 919
+            "votes": 990
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/whispers_in_the_woods",
@@ -113,7 +113,7 @@
             "id": "tt36955382",
             "url": "https://www.imdb.com/title/tt36955382/",
             "rating": 5.8,
-            "votes": 67
+            "votes": 69
           },
           "filmweb": {
             "id": "10082282",
@@ -123,7 +123,7 @@
               "Sci-Fi"
             ],
             "rating": 6.2,
-            "votes": 1689
+            "votes": 1736
           },
           "rottenTomatoes": null
         },
@@ -161,25 +161,25 @@
         "description": "Dzieło Prusa od blisko 140 lat rozpala emocje i wyobraźnię kolejnych pokoleń. Teraz ta ponadczasowa historia trafia na wielki ekran w nowej, spektakularnej, filmowej odsłonie.",
         "shortDescription": "Dzieło Prusa od blisko 140 lat rozpala emocje i wyobraźnię kolejnych pokoleń. Teraz ta ponadczasowa historia trafia na wielki ekran w nowej, spektakularnej, filmowej odsłonie.",
         "genres": [
-          "Kostiumowy",
-          "Dramat obyczajowy"
+          "Dramat obyczajowy",
+          "Kostiumowy"
         ],
         "external": {
           "imdb": {
             "id": "tt37082105",
             "url": "https://www.imdb.com/title/tt37082105/",
             "rating": 7.7,
-            "votes": 1457
+            "votes": 1475
           },
           "filmweb": {
             "id": "10057628",
             "url": "https://www.filmweb.pl/film/Lalka-2026-10057628",
             "genres": [
-              "Kostiumowy",
-              "Dramat obyczajowy"
+              "Dramat obyczajowy",
+              "Kostiumowy"
             ],
             "rating": 7.7,
-            "votes": 35419
+            "votes": 35945
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/lalka",
@@ -227,25 +227,25 @@
         "description": "Charyzmatyczny dziennikarz wkracza do podziemnego świata przestępczego i pragnie zmienić oblicze telewizji. Ulega własnej obsesji i w drodze na szczyt popularności zaczyna zatracać swój pierwotny cel.",
         "shortDescription": "Charyzmatyczny dziennikarz wkracza do podziemnego świata przestępczego i pragnie zmienić oblicze telewizji. Ulega własnej obsesji i w drodze na szczyt popularności zaczyna zatracać swój pierwotny cel.",
         "genres": [
-          "Kryminał",
-          "Dramat"
+          "Dramat",
+          "Kryminał"
         ],
         "external": {
           "imdb": {
             "id": "tt34206385",
             "url": "https://www.imdb.com/title/tt34206385/",
             "rating": 7.1,
-            "votes": 22856
+            "votes": 23134
           },
           "filmweb": {
             "id": "10115409",
             "url": "https://www.filmweb.pl/film/Primetime-2026-10115409",
             "genres": [
-              "Kryminał",
-              "Dramat"
+              "Dramat",
+              "Kryminał"
             ],
             "rating": 6.3,
-            "votes": 10083
+            "votes": 10277
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/primetime",
@@ -255,9 +255,9 @@
               "Lance Oppenheim"
             ],
             "criticsRating": 86,
-            "criticsVotes": 248,
+            "criticsVotes": 251,
             "audienceRating": 78,
-            "audienceVotes": 2726
+            "audienceVotes": 2738
           }
         },
         "longDescription": "ROBERT PATTINSON w thrillerze psychologicznym PRIMETIME wciela się w Chrisa Hansena, charyzmatycznego dziennikarza, który wkracza do podziemnego świata przestępczego i pragnie zmienić oblicze telewizji. Z czasem jednak ulega własnej obsesji i w drodze na szczyt popularności zaczyna zatracać swój pierwotny cel.",
@@ -294,26 +294,26 @@
         "shortDescription": "Poruszająca historia miłości Williama, ambitnego dramaturga i jego żony Agnes. Ich idylliczne życie zostaje zburzone, gdy wybucha epidemia dżumy, która dotyka ich dzieci.",
         "genres": [
           "Biograficzny",
-          "Dramat",
-          "Kostiumowy"
+          "Kostiumowy",
+          "Dramat"
         ],
         "external": {
           "imdb": {
             "id": "tt14905854",
             "url": "https://www.imdb.com/title/tt14905854/",
             "rating": 7.8,
-            "votes": 140474
+            "votes": 140555
           },
           "filmweb": {
             "id": "10035555",
             "url": "https://www.filmweb.pl/film/Hamnet-2025-10035555",
             "genres": [
               "Biograficzny",
-              "Dramat",
-              "Kostiumowy"
+              "Kostiumowy",
+              "Dramat"
             ],
             "rating": 7.6,
-            "votes": 30309
+            "votes": 30322
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/hamnet",
@@ -361,25 +361,25 @@
         "description": "Dzieło Prusa od blisko 140 lat rozpala emocje i wyobraźnię kolejnych pokoleń. Teraz ta ponadczasowa historia trafia na wielki ekran w nowej, spektakularnej, filmowej odsłonie.",
         "shortDescription": "Dzieło Prusa od blisko 140 lat rozpala emocje i wyobraźnię kolejnych pokoleń. Teraz ta ponadczasowa historia trafia na wielki ekran w nowej, spektakularnej, filmowej odsłonie.",
         "genres": [
-          "Kostiumowy",
-          "Dramat obyczajowy"
+          "Dramat obyczajowy",
+          "Kostiumowy"
         ],
         "external": {
           "imdb": {
             "id": "tt37082105",
             "url": "https://www.imdb.com/title/tt37082105/",
             "rating": 7.7,
-            "votes": 1457
+            "votes": 1475
           },
           "filmweb": {
             "id": "10057628",
             "url": "https://www.filmweb.pl/film/Lalka-2026-10057628",
             "genres": [
-              "Kostiumowy",
-              "Dramat obyczajowy"
+              "Dramat obyczajowy",
+              "Kostiumowy"
             ],
             "rating": 7.7,
-            "votes": 35419
+            "votes": 35945
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/lalka",
@@ -427,25 +427,25 @@
         "description": "Akcja, osadzona w Anglii epoki georgiańskiej, podąża za losami zamożnego pana Dashwooda, który umiera, pozostawiając swoją drugą żonę oraz trzy córki w trudnej sytuacji finansowej.",
         "shortDescription": "Akcja, osadzona w Anglii epoki georgiańskiej, podąża za losami zamożnego pana Dashwooda, który umiera, pozostawiając swoją drugą żonę oraz trzy córki w trudnej sytuacji finansowej.",
         "genres": [
-          "Kostiumowy",
-          "Melodramat"
+          "Melodramat",
+          "Kostiumowy"
         ],
         "external": {
           "imdb": {
             "id": "tt13609648",
             "url": "https://www.imdb.com/title/tt13609648/",
             "rating": 7.3,
-            "votes": 6109
+            "votes": 6496
           },
           "filmweb": {
             "id": "10087170",
             "url": "https://www.filmweb.pl/film/Rozwa%C5%BCna+i+romantyczna-2026-10087170",
             "genres": [
-              "Kostiumowy",
-              "Melodramat"
+              "Melodramat",
+              "Kostiumowy"
             ],
             "rating": 7.2,
-            "votes": 2415
+            "votes": 2558
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/sense_and_sensibility_2026",
@@ -455,9 +455,9 @@
               "Georgia Oakley"
             ],
             "criticsRating": 77,
-            "criticsVotes": 120,
+            "criticsVotes": 126,
             "audienceRating": 88,
-            "audienceVotes": 736
+            "audienceVotes": 757
           }
         },
         "longDescription": "Georgeia Oakley jest reżyserką nowej interpretacji  Rozważnej i romantycznej  Jane Austen. To produkcja Working Title, oparta na scenariuszu Diany Reid, w rolach głównych zobaczymy: Daisy Edgar-Jones, Esmé Creed-Miles, Caitríonę Balfe, Franka Dillane’a, Herberta Nordruma, Bodhi Rae Breathnach, George’a MacKaya oraz Fionę Shaw.\n\nAkcja, osadzona w Anglii epoki georgiańskiej, podąża za losami zamożnego pana Dashwooda, który umiera, pozostawiając swoją drugą żonę oraz trzy córki w trudnej sytuacji finansowej. Kobiety przenoszą się do skromnej wiejskiej posiadłości, gdzie dwie starsze siostry rywalizują o względy różnych adoratorów, poszukując prawdziwej miłości.\n\nProducentami filmu są: Tim Bevan i Eric Fellner z Working Title, a także India Flint z November Pictures oraz Jo Wallett z Kiddo Films. Working Title i Focus wcześniej współpracowały przy filmowej adaptacji  Dumy i uprzedzenia  z 2005 roku, która zdobyła cztery nominacje do Oscara, oraz przy kinowej wersji  Emmy  z 2020 roku.\n\nRozważna i romantyczna  trafiła na ekrany również w 1995 roku ze studia Sony Pictures Classics — film w reżyserii Anga Lee, ze scenariuszem Emmy Thompson, nagrodzonej Oscarem za najlepszy scenariusz adaptowany. Thompson zagrała także Elinor Dashwood, a Kate Winslet wcieliła się w Marianne. Produkcja otrzymała w sumie siedem nominacji do Oscara i zarobiła ponad 134 miliony dolarów na świecie.",
@@ -493,22 +493,22 @@
         "description": "Poruszająca historia dwojga ludzi połączonych miłością, ambicją i pragnieniem dokonania rzeczy pozornie niemożliwej.",
         "shortDescription": "Poruszająca historia dwojga ludzi połączonych miłością, ambicją i pragnieniem dokonania rzeczy pozornie niemożliwej.",
         "genres": [
-          "Dokumentalny",
-          "Sportowy"
+          "Sportowy",
+          "Dokumentalny"
         ],
         "external": {
           "imdb": {
             "id": "tt38691481",
             "url": "https://www.imdb.com/title/tt38691481/",
             "rating": 7.5,
-            "votes": 76
+            "votes": 80
           },
           "filmweb": {
             "id": "10130537",
             "url": "https://www.filmweb.pl/film/Everest%3A+Druga+strona-2026-10130537",
             "genres": [
-              "Dokumentalny",
-              "Sportowy"
+              "Sportowy",
+              "Dokumentalny"
             ],
             "rating": 6,
             "votes": 6
@@ -521,8 +521,8 @@
               "Elizabeth Chai Vasarhelyi",
               "Jimmy Chin"
             ],
-            "criticsRating": 87,
-            "criticsVotes": 15,
+            "criticsRating": 83,
+            "criticsVotes": 18,
             "audienceRating": null,
             "audienceVotes": null
           }
@@ -560,25 +560,25 @@
         "description": "Opowieść o losach młodej inżynierki Facebooka, która we współpracy z reportem z &#8222;Wall Street Journal&#8221; &#8211; stara się ujawnić skryte tajemnice portalu społecznościowego.",
         "shortDescription": "Opowieść o losach młodej inżynierki Facebooka, która we współpracy z reportem z &#8222;Wall Street Journal&#8221; &#8211; stara się ujawnić skryte tajemnice portalu społecznościowego.",
         "genres": [
-          "Dramat",
-          "Biograficzny"
+          "Biograficzny",
+          "Dramat"
         ],
         "external": {
           "imdb": {
             "id": "tt37510326",
             "url": "https://www.imdb.com/title/tt37510326/",
             "rating": 6.7,
-            "votes": 9617
+            "votes": 9759
           },
           "filmweb": {
             "id": "10095188",
             "url": "https://www.filmweb.pl/film/The+Social+Reckoning%3A+W+sieci+konsekwencji-2026-10095188",
             "genres": [
-              "Dramat",
-              "Biograficzny"
+              "Biograficzny",
+              "Dramat"
             ],
             "rating": 6,
-            "votes": 1827
+            "votes": 1847
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/the_social_reckoning",
@@ -588,9 +588,9 @@
               "Aaron Sorkin"
             ],
             "criticsRating": 54,
-            "criticsVotes": 263,
+            "criticsVotes": 264,
             "audienceRating": 71,
-            "audienceVotes": 659
+            "audienceVotes": 662
           }
         },
         "longDescription": "Zobaczymy kontynuację filmu Aarona Sorkina „The Social Network” pod tytułem „The Social Reckoning: W sieci konsekwencji ”.\n\nOpowieść o losach Frances Haugen, młodej inżynierki Facebooka, która we współpracy z Jeffem Horwitzem – reportem z „Wall Street Journal” – stara się ujawnić najbardziej skryte tajemnice tego potężnego portalu społecznościowego.\n\nAaron Sorkin otrzymał Oscara za scenariusz adaptowany do filmu „The Social Network” .\n\nW nowym filmie filmie zobaczymy nominowanego do Oscara Jeremy’ego Stronga, który wcieli się w rolę Marka Zuckerberga; lauretkę Oscara, Mikey Madison, która wcieli się w rolę Frances Haugen; oraz laureata Złotego Globu i Emmy Jeremy’ego Allena White’a, który zagra reportera Wall Street Journal Jeffa Horowitza, autora serii artykułów znanych jako „The Facebook Files”. Te opublikowane w październiku 2021 r. reportaże ujawniły wewnętrzne funkcjonowanie Facebooka i wiele szkód spowodowanych przez tę platformę.",
@@ -634,7 +634,7 @@
             "id": "tt14371256",
             "url": "https://www.imdb.com/title/tt14371256/",
             "rating": 6.4,
-            "votes": 1389
+            "votes": 1550
           },
           "filmweb": {
             "id": "10035554",
@@ -644,7 +644,7 @@
               "Sci-Fi"
             ],
             "rating": 6.3,
-            "votes": 742
+            "votes": 855
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/klara_and_the_sun",
@@ -653,10 +653,10 @@
             "directors": [
               "Taika Waititi"
             ],
-            "criticsRating": 25,
-            "criticsVotes": 81,
-            "audienceRating": 77,
-            "audienceVotes": 131
+            "criticsRating": 24,
+            "criticsVotes": 86,
+            "audienceRating": 75,
+            "audienceVotes": 152
           }
         },
         "longDescription": "Film „Klara i słońce”, oparty na bestsellerowej powieści laureata Nagrody Nobla Kazuo Ishiguro.\n\nTo historia Klary (Jenna Ortega), robota zasilanego energią słoneczną, stworzonego po to, by wspierać i towarzyszyć ludziom w ich codziennym życiu.\n\nKiedy Klara poznaje Josie (Mia Tharia), każda z nich od razu wyczuwa w drugiej pokrewną duszę. Josie ma trudną relację ze swoją matką (Amy Adams), a to właśnie Klara zaczyna uzdrawiać rodzinę i wnosić światło do skomplikowanego świata Josie.\n\n„Klara i słońce” to pełna nadziei opowieść o przyjaźni w czasach, gdy technologia sprawia, że czujemy się coraz bardziej samotni.",
@@ -693,25 +693,25 @@
         "description": "Diabły  Kena Russella to jeden z najbardziej bezkompromisowych i kontrowersyjnych filmów w historii brytyjskiego kina.",
         "shortDescription": "Diabły  Kena Russella to jeden z najbardziej bezkompromisowych i kontrowersyjnych filmów w historii brytyjskiego kina.",
         "genres": [
-          "Biograficzny",
-          "Dramat historyczny"
+          "Dramat historyczny",
+          "Biograficzny"
         ],
         "external": {
           "imdb": {
             "id": "tt0066993",
             "url": "https://www.imdb.com/title/tt0066993/",
             "rating": 7.8,
-            "votes": 24616
+            "votes": 24720
           },
           "filmweb": {
             "id": "32858",
             "url": "https://www.filmweb.pl/film/Diab%C5%82y-1971-32858",
             "genres": [
-              "Biograficzny",
-              "Dramat historyczny"
+              "Dramat historyczny",
+              "Biograficzny"
             ],
             "rating": 7.7,
-            "votes": 6697
+            "votes": 6954
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/the_devils",
@@ -723,7 +723,7 @@
             "criticsRating": 55,
             "criticsVotes": 101,
             "audienceRating": 87,
-            "audienceVotes": 1015
+            "audienceVotes": 1016
           }
         },
         "longDescription": "XVII-wieczna Francja. Charyzmatyczny i kontrowersyjny ksiądz Urbain Grandier (Oliver Reed) staje na drodze politycznym planom kardynała Richelieu. Kiedy przełożona klasztoru urszulanek, siostra Jeanne (Vanessa Redgrave), oskarża Grandiera o czary i opętanie zakonnic, religijna histeria szybko staje się narzędziem politycznej rozgrywki. Rozpoczyna się spektakl egzorcyzmów, oskarżeń i przemocy, którego prawdziwą stawką okazuje się władza.\n\nDiabły  Kena Russella to jeden z najbardziej bezkompromisowych i kontrowersyjnych filmów w historii brytyjskiego kina. Inspirowany autentycznymi wydarzeniami w Loudun oraz książką Aldousa Huxleya i sztuką Johna Whitinga, film łączy dramat historyczny, horror, polityczną satyrę i religijną prowokację. Russell tworzy oszałamiające wizualnie widowisko o fanatyzmie, seksualnym pożądaniu i mechanizmach władzy, w którym granica między religijnym uniesieniem a zbiorową histerią niemal całkowicie znika.\n\nOd premiery w 1971 roku Diabły  wywoływały skandale, podlegały cenzurze i funkcjonowały w wielu skróconych wersjach. Dziś pozostają jednym z najbardziej radykalnych dzieł Kena Russella – filmem, który ponad pół wieku później wciąż potrafi szokować.",

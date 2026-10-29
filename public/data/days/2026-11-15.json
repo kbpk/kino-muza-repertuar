@@ -1,12 +1,12 @@
 {
   "schemaVersion": 1,
   "date": "2026-11-15",
-  "updatedAt": "2026-10-28T21:20:06.651Z",
+  "updatedAt": "2026-10-29T16:55:36.891Z",
   "source": "https://www.kinomuza.pl/repertoire/day/",
   "day": {
-    "id": "18",
+    "id": "17",
     "date": "15.11",
-    "now": "2026-10-28 22:19:52",
+    "now": "2026-10-29 17:53:40",
     "info": [],
     "repertoire": [
       {
@@ -48,7 +48,7 @@
             "id": "tt36841161",
             "url": "https://www.imdb.com/title/tt36841161/",
             "rating": 7.1,
-            "votes": 2429
+            "votes": 2520
           },
           "filmweb": {
             "id": "10101144",
@@ -58,7 +58,7 @@
               "Familijny"
             ],
             "rating": 6.9,
-            "votes": 692
+            "votes": 710
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/shaun_the_sheep_the_beast_of_mossy_bottom",
@@ -158,7 +158,7 @@
             "id": "tt0363771",
             "url": "https://www.imdb.com/title/tt0363771/",
             "rating": 6.9,
-            "votes": 464211
+            "votes": 464247
           },
           "filmweb": {
             "id": "112761",
@@ -169,7 +169,7 @@
               "Przygodowy"
             ],
             "rating": 7.1,
-            "votes": 288407
+            "votes": 288414
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/chronicles_of_narnia_lion_witch_wardrobe",
@@ -227,7 +227,7 @@
             "id": "tt36841161",
             "url": "https://www.imdb.com/title/tt36841161/",
             "rating": 7.1,
-            "votes": 2429
+            "votes": 2520
           },
           "filmweb": {
             "id": "10101144",
@@ -237,7 +237,7 @@
               "Familijny"
             ],
             "rating": 6.9,
-            "votes": 692
+            "votes": 710
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/shaun_the_sheep_the_beast_of_mossy_bottom",
@@ -390,25 +390,25 @@
         "description": "Rewizja Austenowskiej prozy wydobywająca z kultowej powieści siostrzeństwo, emancypację i realizm epoki. Georgiańska Anglia. Po śmierci ojca siostry Dashwood wraz z matką zostają zmuszone opuścić dom. Nowa rzeczywistość stawia je w ogniu konwenansów, finansowych trudów i miłosnej niepewności.",
         "shortDescription": "Rewizja Austenowskiej prozy wydobywająca z kultowej powieści siostrzeństwo, emancypację i realizm epoki. Georgiańska Anglia. Po śmierci ojca siostry Dashwood wraz z matką zostają zmuszone opuścić dom. Nowa rzeczywistość stawia je w ogniu konwenansów, finansowych trudów i miłosnej niepewności.",
         "genres": [
-          "Kostiumowy",
-          "Melodramat"
+          "Melodramat",
+          "Kostiumowy"
         ],
         "external": {
           "imdb": {
             "id": "tt13609648",
             "url": "https://www.imdb.com/title/tt13609648/",
             "rating": 7.3,
-            "votes": 6109
+            "votes": 6496
           },
           "filmweb": {
             "id": "10087170",
             "url": "https://www.filmweb.pl/film/Rozwa%C5%BCna+i+romantyczna-2026-10087170",
             "genres": [
-              "Kostiumowy",
-              "Melodramat"
+              "Melodramat",
+              "Kostiumowy"
             ],
             "rating": 7.2,
-            "votes": 2415
+            "votes": 2558
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/sense_and_sensibility_2026",
@@ -418,9 +418,9 @@
               "Georgia Oakley"
             ],
             "criticsRating": 77,
-            "criticsVotes": 120,
+            "criticsVotes": 126,
             "audienceRating": 88,
-            "audienceVotes": 736
+            "audienceVotes": 757
           }
         },
         "longDescription": "Rewizja klasycznej prozy Jane Austen, która debiutując w 1811 roku pod pseudonimem The Lady zaskoczyła czytelników bardziej ironicznym niż przesiąkniętym romantyzmem tonem, zjadliwym humorem i realistycznym obrazem epoki. Twórcy nowej ROZWAŻNEJ I ROMANTYCZNEJ nie tylko idą pierwotnym śladem niezmiennie uwielbianej pisarki, lecz także rozluźniają sznurowadła społecznego gorsetu, aby wydobyć motyw kobiecej emancypacji oraz siłę siostrzanej więzi. Wnikają przy tym w zawiłe niuanse georgiańskiej mentalności, odkrywając konflikt serca i rozwagi nie zawsze kończący się kliszą happy endu.\n\nWraz ze śmiercią pana Dashwooda jego trzy córki i druga żona zostają zmuszone do opuszczenia rodzinnej posiadłości. Zgodnie z dawnym angielskim prawem jego majątek dziedziczy męski spadkobierca, w tym przypadku syn z pierwszego małżeństwa. Siostry Dashwood zostają skazane na łaskę krewnych, mając świadomość jedynej akceptowanej społecznie drogi kobiecej stabilizacji – zamążpójścia. Najstarsze siostry, roztropna Elinor (oklaskiwana po występie w GDZIE ŚPIEWAJĄ RAKI Daisy Edgar-Jones) oraz podążająca za emocjami Marianne (znana z seriali HANNA i SANDMAN Esmé Creed-Miles), muszą sprostać oczekiwaniom drżącego przed etykietą środowiska i własnym dylematom serca.\n\nStojąca za kamerą Georgia Oakley (PTASZYNA, BLUE JEAN) po raz kolejny poraża wielką świadomością stylu zakorzenionego w wizualnym języku europejskich mistrzów, w tym francuskiej intymności czy wnikliwych obserwacjach ludzkich mechanizmów rodem z hiszpańskiego ekranu. Filmowe światy nominowanej do nagrody BAFTA brytyjskiej reżyserski przenika pewna doza zmysłowości, ale na próżno szukać w nich szablonowości czy upiększeń. Drogę do wciąż aktualnej problematyki społecznej wyznacza w nich kontekst historyczny, queerowa wrażliwość i psychologia postaci. Z pomocą australijskiej scenarzystki Diany Reid twórczynie przepuszczają przez realistyczny filtr ponadczasowe emocje i perypetie sióstr Dashwood poszukujących własnego miejsca w świecie.\n\nEN\n\nA fresh take on Jane Austen’s classic novel, first published in 1811 under the pseudonym “A Lady”, which surprised readers with a tone more ironic than romantic, a sharp wit and a clear-eyed portrait of its age. The makers of the new SENSE AND SENSIBILITY not only follow in the footsteps of the ever-beloved author, but also loosen the stays of social convention to bring female emancipation and the strength of sisterhood to the fore. At the same time, they delve into the intricacies of the Georgian mindset, exploring a conflict between feeling and reason that does not always resolve itself into the reassuring shape of a happy ending.\n\nAfter Mr Dashwood’s death, his second wife and three daughters are forced to leave the family estate. Under the inheritance laws of the time, his property passed to a male heir – in this case, his son from his first marriage. The Dashwood sisters are left dependent on the goodwill of relatives and acutely aware that marriage remains the only socially acceptable route to security. The two eldest, the sensible Elinor (Daisy Edgar-Jones, acclaimed for her performance in WHERE THE CRAWDADS SING) and the more impulsive Marianne (Esmé Creed-Miles, known from HANNA and THE SANDMAN), must navigate both the expectations of a society in thrall to etiquette and the complications of their own hearts.\n\nDirector Georgia Oakley (LITTLE BIRD, BLUE JEAN) once again displays a striking command of style, rooted in the visual language of European cinema – from French intimacy to the acute observation of human behaviour associated with Spanish film. A certain sensuality runs through the work of the BAFTA-nominated British filmmaker, yet there is little room for formula or prettification. Historical context, queer sensitivity and close attention to character psychology become her routes into social questions that remain strikingly relevant. Working with Australian screenwriter Diana Reid, Oakley refracts the timeless emotions and romantic entanglements of the Dashwood sisters through a realist lens as they search for a place of their own in the world.",
@@ -457,26 +457,26 @@
         "shortDescription": "Zainspirowany najsłynniejszą sztuką Williama Szekspira film w reżyserii Chloé Zhao jest wrażliwym i głębokim obrazem małżeństwa, próbującego ukształtować się na nowo po śmierci ukochanego dziecka. W rolach głównych zjawiskowy duet: Jessie Buckley oraz Paul Mescal.",
         "genres": [
           "Biograficzny",
-          "Dramat",
-          "Kostiumowy"
+          "Kostiumowy",
+          "Dramat"
         ],
         "external": {
           "imdb": {
             "id": "tt14905854",
             "url": "https://www.imdb.com/title/tt14905854/",
             "rating": 7.8,
-            "votes": 140474
+            "votes": 140555
           },
           "filmweb": {
             "id": "10035555",
             "url": "https://www.filmweb.pl/film/Hamnet-2025-10035555",
             "genres": [
               "Biograficzny",
-              "Dramat",
-              "Kostiumowy"
+              "Kostiumowy",
+              "Dramat"
             ],
             "rating": 7.6,
-            "votes": 30309
+            "votes": 30322
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/hamnet",
@@ -526,27 +526,27 @@
         "description": "Rodzina Thompsonów przeprowadza się z Londynu na wieś, gdzie dzieci odkrywają drzewo kryjące w koronie przejście do coraz bardziej niezwykłych krain. Współczesna, gwiazdorska ekranizacja klasyki Enid Blyton to pełna humoru brytyjska baśń o dziecięcej ciekawości, rodzinnej bliskości i mocy wyobraźni.",
         "shortDescription": "Rodzina Thompsonów przeprowadza się z Londynu na wieś, gdzie dzieci odkrywają drzewo kryjące w koronie przejście do coraz bardziej niezwykłych krain. Współczesna, gwiazdorska ekranizacja klasyki Enid Blyton to pełna humoru brytyjska baśń o dziecięcej ciekawości, rodzinnej bliskości i mocy wyobraźni.",
         "genres": [
+          "Fantasy",
           "Przygodowy",
-          "Familijny",
-          "Fantasy"
+          "Familijny"
         ],
         "external": {
           "imdb": {
             "id": "tt7734244",
             "url": "https://www.imdb.com/title/tt7734244/",
             "rating": 6.2,
-            "votes": 6565
+            "votes": 6590
           },
           "filmweb": {
             "id": "10104409",
             "url": "https://www.filmweb.pl/film/Drzewo+magii-2026-10104409",
             "genres": [
+              "Fantasy",
               "Przygodowy",
-              "Familijny",
-              "Fantasy"
+              "Familijny"
             ],
             "rating": 5.8,
-            "votes": 755
+            "votes": 756
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/the_magic_faraway_tree",
@@ -602,7 +602,7 @@
             "id": "tt36983905",
             "url": "https://www.imdb.com/title/tt36983905/",
             "rating": 6.2,
-            "votes": 12892
+            "votes": 12993
           },
           "filmweb": {
             "id": "10122362",
@@ -612,7 +612,7 @@
               "Akcja"
             ],
             "rating": 5.6,
-            "votes": 578
+            "votes": 584
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/the_uprising_2026",
@@ -624,7 +624,7 @@
             "criticsRating": 57,
             "criticsVotes": 122,
             "audienceRating": 65,
-            "audienceVotes": 576
+            "audienceVotes": 579
           }
         },
         "longDescription": "Oparte na prawdziwych wydarzeniach historycznych widowisko stawiające pytanie o cenę wolności w czasach feudalnego ucisku. XIV-wieczny lud Anglii pozostaje wyniszczony epidemią dżumy, represjami ze strony władzy i społecznymi napięciami. Na wieść o bezwzględnych planach możnowładców i nałożeniu podatku uderzającego w najuboższych, stojący na skraju wytrzymałości chłopi postanawiają sprzeciwić się tyranii Ryszarda II. Opór kilkorga z nich na czele z młodym rebeliantem (charyzmatyczny Andrew Garfield) przeistacza się w falę wściekłości, która w krótkim czasie rozprzestrzenia się na cały kraj. Uciskani postanawiają wypowiedzieć wojnę koronie.\n\nGdy w 1381 roku śmiałkowie z Esseksu i Kentu pod przewodnictwem Wata Tylera i mobilizowani przez kaznodzieję Johna Balla wszczęli bunt przeciwko wyzyskowi oraz nałożeniu podatku obciążającego jednostki niezależnie od wielkości ich dochodu, nikt nie zakładał, że powstanie doprowadzi do marszu na Londyn. Krwawe zamieszki zakończyło równie brutalne stłumienie przez siły króla, ale mit wolności i walki o sprawiedliwość na dobre zakorzenił się w mentalności angielskich chłopów, doprowadzając do narodzin legendy o Robin Hoodzie.\n\nWyróżniony BAFTA i nominowany do Oscara za LOT 93 (2006) reżyser Paul Greengrass spogląda na przepełnioną gniewem historię z charakterystycznym dla siebie reporterskim stylem, nie szczędząc jednak okrucieństwa, intensywnej konwencji i dynamicznej kamery. Rozedrgane ujęcia oddają emocjonalną motywację zrywu wyznaczającego punkt zwrotny w dziejach średniowiecznej Anglii i po upływie stuleci inspirującego polityczną lewicę.\n\nEN\n\nA historical epic based on real events, THE UPRISING asks what freedom is worth in an age of feudal oppression. Fourteenth-century England has been ravaged by plague, repression and mounting social unrest. When word spreads of the ruling elite’s ruthless plans and a tax that falls hardest on the poorest, peasants already pushed to the breaking point decide to resist the tyranny of Richard II. What begins with a handful of rebels, led by a charismatic young insurgent (Andrew Garfield), soon swells into a wave of anger sweeping across the country. The oppressed are ready to wage war on the Crown.\n\nIn 1381, rebels from Essex and Kent, led by Wat Tyler and rallied by the preacher John Ball, rose against exploitation and a poll tax levied regardless of income. Few could have foreseen that the revolt would culminate in a march on London.\n\nThe bloody riots were brought to an end by an equally brutal crackdown by the king’s forces. But the myth of freedom and the struggle for justice took firm root in the minds of the English peasants, leading to the birth of the legend of Robin Hood.\n\nBAFTA-winning director Paul Greengrass, who received an Academy Award nomination for UNITED 93 (2006), approaches this story of rage and rebellion with his characteristic journalistic immediacy, while fully embracing its brutality, intensity and restless camerawork. The jittery, urgent images capture the emotional force behind an uprising that marked a turning point in medieval English history and, centuries later, would continue to inspire the political left.",
@@ -666,8 +666,8 @@
           "imdb": {
             "id": "tt37363222",
             "url": "https://www.imdb.com/title/tt37363222/",
-            "rating": 7.7,
-            "votes": 470
+            "rating": 7.6,
+            "votes": 479
           },
           "filmweb": {
             "id": "10112663",
@@ -724,9 +724,9 @@
         "description": "Anglia, 1694 rok. Arogancki rysownik przyjmuje zlecenie na 12 rysunków posiadłości, a jego wynagrodzeniem mają być nie tylko pieniądze, ale i łoże pani domu. Na rycinach zaczynają jednak pojawiać się niepokojące szczegóły. Wytworny kryminał kostiumowy, w którym sztuka widzi więcej niż ludzkie oko.",
         "shortDescription": "Anglia, 1694 rok. Arogancki rysownik przyjmuje zlecenie na 12 rysunków posiadłości, a jego wynagrodzeniem mają być nie tylko pieniądze, ale i łoże pani domu. Na rycinach zaczynają jednak pojawiać się niepokojące szczegóły. Wytworny kryminał kostiumowy, w którym sztuka widzi więcej niż ludzkie oko.",
         "genres": [
-          "Dramat",
           "Komedia",
-          "Kostiumowy"
+          "Kostiumowy",
+          "Dramat"
         ],
         "external": {
           "imdb": {
@@ -739,9 +739,9 @@
             "id": "6845",
             "url": "https://www.filmweb.pl/film/Kontrakt+rysownika-1982-6845",
             "genres": [
-              "Dramat",
               "Komedia",
-              "Kostiumowy"
+              "Kostiumowy",
+              "Dramat"
             ],
             "rating": 7.5,
             "votes": 3417
@@ -792,8 +792,8 @@
         "description": "Debiut fabularny Gurinder Chadhy – pierwszej reżyserki o azjatyckim pochodzeniu, której udało się zrobić film w Wielkiej Brytanii. Grupa kobiet z hinduskiej społeczności rusza na wycieczkę do Blackpool, nadmorskiego miasta rozrywki. Ten dzień będzie dla nich okazją do przemyślenia własnych wyborów.",
         "shortDescription": "Debiut fabularny Gurinder Chadhy – pierwszej reżyserki o azjatyckim pochodzeniu, której udało się zrobić film w Wielkiej Brytanii. Grupa kobiet z hinduskiej społeczności rusza na wycieczkę do Blackpool, nadmorskiego miasta rozrywki. Ten dzień będzie dla nich okazją do przemyślenia własnych wyborów.",
         "genres": [
-          "Komedia",
-          "Dramat"
+          "Dramat",
+          "Komedia"
         ],
         "external": {
           "imdb": {
@@ -806,8 +806,8 @@
             "id": "163199",
             "url": "https://www.filmweb.pl/film/Bhaji+na+pla%C5%BCy-1993-163199",
             "genres": [
-              "Komedia",
-              "Dramat"
+              "Dramat",
+              "Komedia"
             ],
             "rating": 5.8,
             "votes": 16
@@ -866,7 +866,7 @@
             "id": "tt34819091",
             "url": "https://www.imdb.com/title/tt34819091/",
             "rating": 6.4,
-            "votes": 11090
+            "votes": 11096
           },
           "filmweb": {
             "id": "10090000",
@@ -876,7 +876,7 @@
               "Musical"
             ],
             "rating": 6,
-            "votes": 2449
+            "votes": 2451
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/the_testament_of_ann_lee",
@@ -932,7 +932,7 @@
             "id": "tt34966562",
             "url": "https://www.imdb.com/title/tt34966562/",
             "rating": 6.8,
-            "votes": 6911
+            "votes": 6923
           },
           "filmweb": {
             "id": "10093695",
@@ -942,7 +942,7 @@
               "Komedia"
             ],
             "rating": 6,
-            "votes": 113
+            "votes": 114
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/the_christophers",
@@ -990,25 +990,25 @@
         "description": "Wzruszająca opowieść o utraconej miłości, rozgrywająca się „na dole” angielskiej wiejskiej rezydencji – w świecie, który w połowie XX wieku powoli odchodzi w przeszłość. Film studia Merchant Ivory, oparty na powieści Kazuo Ishiguro, jest znakomitym przykładem popularnego kina kostiumowego, w którym brytyjska kinematografia osiągnęła w tym okresie prawdziwe mistrzostwo.",
         "shortDescription": "Wzruszająca opowieść o utraconej miłości, rozgrywająca się „na dole” angielskiej wiejskiej rezydencji – w świecie, który w połowie XX wieku powoli odchodzi w przeszłość. Film studia Merchant Ivory, oparty na powieści Kazuo Ishiguro, jest znakomitym przykładem popularnego kina kostiumowego, w którym brytyjska kinematografia osiągnęła w tym okresie prawdziwe mistrzostwo.",
         "genres": [
-          "Obyczajowy",
-          "Melodramat"
+          "Melodramat",
+          "Obyczajowy"
         ],
         "external": {
           "imdb": {
             "id": "tt0107943",
             "url": "https://www.imdb.com/title/tt0107943/",
             "rating": 7.8,
-            "votes": 94641
+            "votes": 94645
           },
           "filmweb": {
             "id": "1234",
             "url": "https://www.filmweb.pl/film/Okruchy+dnia-1993-1234",
             "genres": [
-              "Obyczajowy",
-              "Melodramat"
+              "Melodramat",
+              "Obyczajowy"
             ],
             "rating": 7.7,
-            "votes": 39607
+            "votes": 39623
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/remains_of_the_day",
@@ -1020,7 +1020,7 @@
             "criticsRating": 95,
             "criticsVotes": 44,
             "audienceRating": 89,
-            "audienceVotes": 4694
+            "audienceVotes": 4695
           }
         },
         "longDescription": "Jedna z najważniejszych produkcji Merchant Ivory i zarazem jeden z najważniejszych brytyjskich dramatów filmowych końca XX wieku: oparty na dwóch wybitnych kreacjach aktorskich, precyzyjnie skomponowany, powściągliwy w formie, druzgocący w wymowie. Ekranizacja nagrodzonej Bookerem powieści Kazuo Ishiguro opowiada o Stevensie, oddanym kamerdynerze posiadłości Darlington Hall, który z perspektywy czasu spogląda na życie podporządkowane służbie domowi – i ideałom – skompromitowanym przez historię. W roli Stevensa Anthony Hopkins uosabia przedstawiciela odchodzącego świata; pod nienagannie opanowaną powierzchnią każda pauza zdradza tłumione emocje. Partnerująca mu Emma Thompson jako panna Kenton wnosi do filmu ciepło, inteligencję i nadzieję naznaczoną rozczarowaniem, budując obraz niewypowiedzianego uczucia, które nigdy nie znajduje spełnienia. Rozciągająca się od połowy lat 30. po okres powojenny historia jest zarazem intymną opowieścią o straconych szansach i niepokojącym portretem politycznej ślepoty oraz moralnych uników.\n\nMerchant Ivory specjalizowało się w kostiumowych adaptacjach literatury, lecz charakterystyczna elegancja tych produkcji nigdy nie sprowadzała się wyłącznie do dekoracyjności. W OKRUCHACH DNIA wypolerowane wnętrza, formalne rytuały i oszczędne rozmowy odgradzają mieszkańców Darlington Hall od zmian zachodzących poza jego murami, gdzie powojenny porządek zaczyna rozsadzać klasowe podstawy brytyjskiego społeczeństwa.\n\nFilm otrzymał osiem nominacji do Oscara, między innymi za precyzyjnie skonstruowany scenariusz Ruth Prawer Jhabvali, kostiumy i scenografię. OKRUCHY DNIA to kino ukrytych uczuć, przemilczeń i niemal niedostrzegalnych przesunięć emocjonalnych pokazujące, że drobne ustępstwa i zaniechania mogą kształtować ludzkie życie równie silnie jak wielkie, dramatyczne gesty.\n\nEN\n\nMerchant Ivory’s THE REMAINS OF THE DAY is one of the great late-20th-century British screen dramas: beautifully composed, quietly devastating, and anchored by two performances of extraordinary power. Adapted from Kazuo Ishiguro’s Booker Prize-winning novel, the film follows Stevens, the dedicated butler of Darlington Hall, as he looks back on a lifetime spent in service to a household—and to ideals—that history has left exposed. As Stevens, Anthony Hopkins personifies a dying breed and behind his exterior of perfect control are hints of repressed emotion beneath every pause; opposite him, Emma Thompson’s Miss Kenton brings warmth, intelligence and bruised hope to an unspoken attraction that remains painfully unrealised. Spanning the mid-1930s to the post-war years, the film is both an intimate story of missed chances and a troubling portrait of political blindness and moral evasion. Merchant Ivory specialised in period literary adaptations, but the company’s elegant style is more than decorative. Here, the polished rooms, formal rituals and clipped exchanges isolate the inhabitants from wider changes, until the post-war world begins to dismantle the class-bound nature of British society. The film received eight Oscar nominations, including for Ruth Prawer Jhabvala’s finely judged screenplay as well as the costumes and set design. THE REMAINS OF THE DAY is a film of hidden feelings, silences and infinitesimal shifts, showing that the small refusals in life can shape a person’s destiny just as much as dramatic gestures.",
@@ -1063,7 +1063,7 @@
             "id": "tt0448124",
             "url": "https://www.imdb.com/title/tt0448124/",
             "rating": 7.4,
-            "votes": 13926
+            "votes": 13927
           },
           "filmweb": {
             "id": "182553",
@@ -1120,22 +1120,22 @@
         "description": "Pewnego dnia w wiosce w Kornwalii pojawia się łódź, która zaginęła 30 lat temu razem z załogą. Ma wrócić na morze łowić ryby, a na pokład zgłaszają się na ochotnika Nick (George MacKay) oraz Liam (Callum Turner). Nakręcony na taśmie 16 mm film, zaprasza do rozwiązania lokalnej zagadki z przeszłości.",
         "shortDescription": "Pewnego dnia w wiosce w Kornwalii pojawia się łódź, która zaginęła 30 lat temu razem z załogą. Ma wrócić na morze łowić ryby, a na pokład zgłaszają się na ochotnika Nick (George MacKay) oraz Liam (Callum Turner). Nakręcony na taśmie 16 mm film, zaprasza do rozwiązania lokalnej zagadki z przeszłości.",
         "genres": [
-          "Sci-Fi",
-          "Dramat"
+          "Dramat",
+          "Sci-Fi"
         ],
         "external": {
           "imdb": {
             "id": "tt35674521",
             "url": "https://www.imdb.com/title/tt35674521/",
             "rating": 6.2,
-            "votes": 3928
+            "votes": 3941
           },
           "filmweb": {
             "id": "10072340",
             "url": "https://www.filmweb.pl/film/R%C3%B3%C5%BCa+z+Nevady-2025-10072340",
             "genres": [
-              "Sci-Fi",
-              "Dramat"
+              "Dramat",
+              "Sci-Fi"
             ],
             "rating": 6.9,
             "votes": 678
@@ -1187,24 +1187,24 @@
         "description": "Pełnometrażowy debiut reżyserski Shane’a Madowsa, w którym Bob Hoskins wciela się w rolę mentora, oferującego młodym ludziom alternatywę dla otaczającej beznadziei. W typowym angielskim miasteczku, poprzez sport, próbuje nauczyć ich twardych reguł życia, odpowiedzialności i wychować na dobrych ludzi.",
         "shortDescription": "Pełnometrażowy debiut reżyserski Shane’a Madowsa, w którym Bob Hoskins wciela się w rolę mentora, oferującego młodym ludziom alternatywę dla otaczającej beznadziei. W typowym angielskim miasteczku, poprzez sport, próbuje nauczyć ich twardych reguł życia, odpowiedzialności i wychować na dobrych ludzi.",
         "genres": [
+          "Sportowy",
           "Dramat",
-          "Komedia",
-          "Sportowy"
+          "Komedia"
         ],
         "external": {
           "imdb": {
             "id": "tt0120391",
             "url": "https://www.imdb.com/title/tt0120391/",
             "rating": 7,
-            "votes": 2916
+            "votes": 2917
           },
           "filmweb": {
             "id": "32922",
             "url": "https://www.filmweb.pl/film/Okr%C4%85g%C5%82y+tydzie%C5%84-1997-32922",
             "genres": [
+              "Sportowy",
               "Dramat",
-              "Komedia",
-              "Sportowy"
+              "Komedia"
             ],
             "rating": 7.1,
             "votes": 50
@@ -1301,7 +1301,7 @@
             "id": "tt36980182",
             "url": "https://www.imdb.com/title/tt36980182/",
             "rating": 7.1,
-            "votes": 2462
+            "votes": 2496
           },
           "filmweb": {
             "id": "10093682",
@@ -1310,7 +1310,7 @@
               "Komedia"
             ],
             "rating": 6.5,
-            "votes": 81
+            "votes": 82
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/the_incomer",
@@ -1366,7 +1366,7 @@
             "id": "tt27766440",
             "url": "https://www.imdb.com/title/tt27766440/",
             "rating": 6.6,
-            "votes": 7938
+            "votes": 7941
           },
           "filmweb": {
             "id": "10058778",
@@ -1376,7 +1376,7 @@
               "Psychologiczny"
             ],
             "rating": 6.8,
-            "votes": 6234
+            "votes": 6240
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/the_salt_path",
@@ -1424,22 +1424,22 @@
         "description": "W 1974 roku w dwóch pubach angielskiego Guildford wybuchły bomby – podłożyła je Irlandzka Armia Republikańska, przyjmując za cel odwiedzających lokale brytyjskich żołnierzy. Gerry Conlon, chłopak z Belfastu, był jednym z czwórki skazanych za ten zamach. Po 15 latach angielska prawniczka postanowiła wznowić proces i obnażyć nadużycia sądu w sprawie. Jim Sheridan przełożył tę historię na pełną pasji opowieść filmową, będącą zarówno oskarżeniem, jak i politycznym manifestem strony irlandzkiej.",
         "shortDescription": "W 1974 roku w dwóch pubach angielskiego Guildford wybuchły bomby – podłożyła je Irlandzka Armia Republikańska, przyjmując za cel odwiedzających lokale brytyjskich żołnierzy. Gerry Conlon, chłopak z Belfastu, był jednym z czwórki skazanych za ten zamach. Po 15 latach angielska prawniczka postanowiła wznowić proces i obnażyć nadużycia sądu w sprawie. Jim Sheridan przełożył tę historię na pełną pasji opowieść filmową, będącą zarówno oskarżeniem, jak i politycznym manifestem strony irlandzkiej.",
         "genres": [
-          "Dramat obyczajowy",
-          "Biograficzny"
+          "Biograficzny",
+          "Dramat obyczajowy"
         ],
         "external": {
           "imdb": {
             "id": "tt0107207",
             "url": "https://www.imdb.com/title/tt0107207/",
             "rating": 8.1,
-            "votes": 205466
+            "votes": 205482
           },
           "filmweb": {
             "id": "1231",
             "url": "https://www.filmweb.pl/film/W+imi%C4%99+ojca-1993-1231",
             "genres": [
-              "Dramat obyczajowy",
-              "Biograficzny"
+              "Biograficzny",
+              "Dramat obyczajowy"
             ],
             "rating": 8,
             "votes": 54030
@@ -1497,7 +1497,7 @@
             "id": "tt0477302",
             "url": "https://www.imdb.com/title/tt0477302/",
             "rating": 6.9,
-            "votes": 108525
+            "votes": 108527
           },
           "filmweb": {
             "id": "296427",
@@ -1561,7 +1561,7 @@
             "id": "tt32141377",
             "url": "https://www.imdb.com/title/tt32141377/",
             "rating": 7.2,
-            "votes": 133388
+            "votes": 133482
           },
           "filmweb": {
             "id": "10068169",
@@ -1570,7 +1570,7 @@
               "Horror"
             ],
             "rating": 6.8,
-            "votes": 20905
+            "votes": 20921
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/28_years_later_the_bone_temple",
@@ -1582,7 +1582,7 @@
             "criticsRating": 91,
             "criticsVotes": 351,
             "audienceRating": 88,
-            "audienceVotes": 2795
+            "audienceVotes": 2796
           }
         },
         "longDescription": "Niedawno Danny Boyle i Alex Garland powrócili do postapokaliptycznego świata opanowanego przez ludzi zainfekowanych wirusem, który wywołuje niekontrolowaną agresję. W najnowszym filmie z serii – ŚWIĄTYNI KOŚCI – młoda reżyserka Nia DaCosta przejmuje stery po Boyle’u i sięga aż po bebechy świata toczonego zarazą, aby dojść do jądra ciemności w sercu człowieka. Podobnie jak w poprzedniej części, nie brakuje refleksji, że jej okrycia nie są obce dla współczesnego człowieka. Czy do takiej rzeczywistości dzieli nas już tylko apokalipsa zombie?\n\nDaCosta powraca do bohaterów, których poznaliśmy w 28 DNI PÓŹNIEJ Boyle’a. Śledzi losy młodego Spike’a (Alfie Williams), który opuszcza swój dom i schronienie i wpada na psychopatyczną szajkę dowodzoną przez Jimmy’ego Crystala (Jack O’Connell). „Sir Lord” Crystal jest przekonany, że jego ojcem jest sam szatan, dlatego w jego imieniu jest zdolny dokonać większych okrucieństw niż zarażeni. Wkrótce sadystyczna grupa ze werbowanym Spike’iem odkrywa świątynię kości doktora Iana Kelsona (Ralph Fiennes), będącego na tropie odkrycia rewolucyjnego dla przyszłości.\n\nChoć angażowanie się w nową franczyzę wydawało się reżyserce THE MARVELS ryzykowne, do realizacji ŚWIĄTYNI KOŚCI zachęcił ją sam Jonathan Glazer. Szczęśliwie DaCosta otrzymała swobodę artystyczną od Boyle’a i doskonale ją wykorzystała opierając się na doskonałym scenariuszu Garlanda. Stworzyła filmową wersję heavy metalu (z którego zresztą chętnie korzysta w scenie z The Number of Beast) – jest bezkompromisowa, intensywna i odarta ze wszelkich świętości. Ten charakter objawia się nie tylko w wyborach muzycznych, ale też wizualnych, gdy film DaCosty aż ocieka mrożącą krew w żyłach symboliką. To przejmująca, brutalna, a przy tym skrupulatnie zrealizowana opowieść o naturze zła – choć zdecydowanie dla widowni o mocnym żołądku.\n\nEN\n\nDanny Boyle and Alex Garland recently returned to the post-apocalyptic world of 28 YEARS LATER, ravaged by a virus that drives the infected into uncontrollable violence. In the latest instalment, 28 YEARS LATER: THE BONE TEMPLE, yound director Nia DaCosta takes over directing duties from Boyle and turns her attention to the darker side of human nature. As in the previous film, the horrors she uncovers feel uncomfortably close to the present. Is a zombie apocalypse really all that separates us from such a world?\n\nDaCosta returns to the characters introduced in Boyle’s 28 YEARS LATER. She follows young Spike (Alfie Williams), who leaves the safety of his home only to fall in with a psychopathic gang led by Jimmy Crystal (Jack O’Connell). “Sir Lord” Crystal believes Satan himself to be his father and, in his name, proves capable of atrocities even worse than those committed by the infected. Before long, the sadistic group, with Spike now drawn into its ranks, comes across the bone temple of Dr Ian Kelson (Ralph Fiennes), who is on the verge of a discovery that could transform the future.\n\nAlthough joining another franchise initially seemed risky to the director of THE MARVELS, it was Jonathan Glazer himself who encouraged DaCosta to take on 28 YEARS LATER: THE BONE TEMPLE. Fortunately, Boyle gave her considerable creative freedom, and she makes full use of it, working from Garland’s assured screenplay. The result is the cinematic equivalent of heavy metal, a genre the film embraces outright in a sequence set to The Number of the Beast : uncompromising, intense and stripped of all reverence. That spirit runs through not only the music but the imagery, as DaCosta’s film positively drips with chilling symbolism. The result is a harrowing, brutal and meticulously crafted exploration of the nature of evil – though decidedly not for the faint-hearted.",
@@ -1634,7 +1634,7 @@
               "Dramat"
             ],
             "rating": 6.8,
-            "votes": 339
+            "votes": 340
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/i_see_buildings_fall_like_lightning",
@@ -1683,23 +1683,23 @@
         "shortDescription": "Chcąc uporać się z przeszłością, ekscentryczny samotnik przeznacza ogromną wygraną na loterii, by reaktywować swój ulubiony duet muzyczny. Jego członków, którzy byli niegdyś parą i nie widzieli się od lat, zaprasza na odciętą od świata walijską wysepkę i zleca im zagranie kameralnego koncertu.",
         "genres": [
           "Komedia",
-          "Muzyczny",
-          "Dramat"
+          "Dramat",
+          "Muzyczny"
         ],
         "external": {
           "imdb": {
             "id": "tt27674982",
             "url": "https://www.imdb.com/title/tt27674982/",
             "rating": 7.4,
-            "votes": 26445
+            "votes": 26449
           },
           "filmweb": {
             "id": "10070057",
             "url": "https://www.filmweb.pl/film/The+Ballad+of+Wallis+Island-2025-10070057",
             "genres": [
               "Komedia",
-              "Muzyczny",
-              "Dramat"
+              "Dramat",
+              "Muzyczny"
             ],
             "rating": 6.8,
             "votes": 994
@@ -1757,7 +1757,7 @@
             "id": "tt35521922",
             "url": "https://www.imdb.com/title/tt35521922/",
             "rating": 6.1,
-            "votes": 38656
+            "votes": 38672
           },
           "filmweb": {
             "id": "10064809",
@@ -1766,7 +1766,7 @@
               "Thriller"
             ],
             "rating": 7.2,
-            "votes": 15360
+            "votes": 15387
           },
           "rottenTomatoes": null
         },
@@ -1810,7 +1810,7 @@
             "id": "tt0419677",
             "url": "https://www.imdb.com/title/tt0419677/",
             "rating": 7.5,
-            "votes": 64330
+            "votes": 64339
           },
           "filmweb": {
             "id": "39701",
@@ -1819,7 +1819,7 @@
               "Thriller"
             ],
             "rating": 7.2,
-            "votes": 4958
+            "votes": 4959
           },
           "rottenTomatoes": null
         },

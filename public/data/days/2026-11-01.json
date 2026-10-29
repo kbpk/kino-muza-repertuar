@@ -1,12 +1,12 @@
 {
   "schemaVersion": 1,
   "date": "2026-11-01",
-  "updatedAt": "2026-10-28T21:20:06.651Z",
+  "updatedAt": "2026-10-29T16:55:36.891Z",
   "source": "https://www.kinomuza.pl/repertoire/day/",
   "day": {
-    "id": "04",
+    "id": "03",
     "date": "01.11",
-    "now": "2026-10-28 22:19:42",
+    "now": "2026-10-29 17:53:26",
     "info": [],
     "repertoire": [
       {
@@ -49,7 +49,7 @@
             "id": "tt36841161",
             "url": "https://www.imdb.com/title/tt36841161/",
             "rating": 7.1,
-            "votes": 2429
+            "votes": 2520
           },
           "filmweb": {
             "id": "10101144",
@@ -59,7 +59,7 @@
               "Familijny"
             ],
             "rating": 6.9,
-            "votes": 692
+            "votes": 710
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/shaun_the_sheep_the_beast_of_mossy_bottom",
@@ -119,7 +119,7 @@
             "id": "tt36583977",
             "url": "https://www.imdb.com/title/tt36583977/",
             "rating": 7.7,
-            "votes": 7875
+            "votes": 8171
           },
           "filmweb": {
             "id": "10116454",
@@ -130,7 +130,7 @@
               "Przygodowy"
             ],
             "rating": 6.7,
-            "votes": 931
+            "votes": 942
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/forgotten_island",
@@ -141,9 +141,9 @@
               "Januel P. Mercado"
             ],
             "criticsRating": 95,
-            "criticsVotes": 130,
+            "criticsVotes": 131,
             "audienceRating": 94,
-            "audienceVotes": 1761
+            "audienceVotes": 1776
           }
         },
         "longDescription": "Warto walczyć o najlepszą przyjaźń.\n\nDreamWorks Animation, studio, które stworzyło niezapomniane więzi między chłopcem a smokiem w filmie „Jak wytresować smoka”, ogrem i osłem w animacji „Shrek” oraz robotem i gąsiątkiem w „Dzikim robocie”. Teraz przedstawia olśniewającą i wzruszającą historię o dwójce przyjaciół na całe życie, którzy muszą się zjednoczyć.\n\nNowy film został napisany i wyreżyserowany przez nominowanych do Oscara® Joela Crawforda i Januela Mercado, a jego producentem jest nominowany do Oscara® Mark Swift, twórca filmu „Kot w butach: Ostatnie życzenie”.\n\nNagrodzone nagrodą Grammy i Oscarem® H.E.R. i Liza Soberano użyczają głosu Jo i Raissie.\n\nTo przyjaciółki od najmłodszych lat, które właśnie kończą szkołę średnią i stoją u progu zupełnie nowych etapów życia.\n\nPodczas wspólnego świętowania ostatniego wieczoru przed rozstaniem dziewczyny przypadkiem odkrywają tajemniczy portal, który przenosi je na magiczną wyspę Nakali. To niezwykła kraina pełna fantastycznych i mitycznych stworzeń, o których od dzieciństwa słyszały w opowieściach przekazywanych przez ich filipińskie rodziny.\n\nNiektóre z tych postaci staną się przyjaciółmi, inne wrogami. Jo i Raissa muszą stawić czoła najgroźniejszemu stworzeniu na wyspie.\n\nKiedy odkryją, że wspomnienia ich przyjaźni są ceną za powrót do domu, Jo i Raissa będą ścigać się, by znaleźć sposób na opuszczenie wyspy, zanim zapomną o sobie na zawsze.",
@@ -181,9 +181,9 @@
         "description": "Wielkie głębiny, jeszcze większe wyzwania i… humbak szukający własnego głosu! Nastoletni Vincent musi kontynuować misję swojego ojca, legendarnego Magicznego Wieloryba, którego śpiew chronił oceany. Niestety, zamiast tego niezwykłego daru ma jedynie wyjątkowy talent do… wpadania w tarapaty!",
         "shortDescription": "Wielkie głębiny, jeszcze większe wyzwania i… humbak szukający własnego głosu! Nastoletni Vincent musi kontynuować misję swojego ojca, legendarnego Magicznego Wieloryba, którego śpiew chronił oceany. Niestety, zamiast tego niezwykłego daru ma jedynie wyjątkowy talent do… wpadania w tarapaty!",
         "genres": [
-          "Familijny",
           "Animacja",
-          "Komedia"
+          "Komedia",
+          "Familijny"
         ],
         "external": {
           "imdb": {
@@ -196,9 +196,9 @@
             "id": "10117297",
             "url": "https://www.filmweb.pl/film/Vincent.+Legenda+oceanu-2025-10117297",
             "genres": [
-              "Familijny",
               "Animacja",
-              "Komedia"
+              "Komedia",
+              "Familijny"
             ],
             "rating": 5.6,
             "votes": 111
@@ -245,7 +245,7 @@
             "id": "tt44766123",
             "url": "https://www.imdb.com/title/tt44766123/",
             "rating": 8.3,
-            "votes": 5911
+            "votes": 6003
           },
           "filmweb": {
             "id": "10133039",
@@ -254,7 +254,7 @@
               "Dokumentalny"
             ],
             "rating": 8.2,
-            "votes": 494
+            "votes": 522
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/naza",
@@ -265,7 +265,7 @@
               "Rachel Szor"
             ],
             "criticsRating": 100,
-            "criticsVotes": 74,
+            "criticsVotes": 76,
             "audienceRating": 99,
             "audienceVotes": 70
           }
@@ -311,7 +311,7 @@
             "id": "tt36955382",
             "url": "https://www.imdb.com/title/tt36955382/",
             "rating": 5.8,
-            "votes": 67
+            "votes": 69
           },
           "filmweb": {
             "id": "10082282",
@@ -321,7 +321,7 @@
               "Sci-Fi"
             ],
             "rating": 6.2,
-            "votes": 1689
+            "votes": 1736
           },
           "rottenTomatoes": null
         },
@@ -358,22 +358,22 @@
         "description": "Poruszająca historia dwojga ludzi połączonych miłością, ambicją i pragnieniem dokonania rzeczy pozornie niemożliwej.",
         "shortDescription": "Poruszająca historia dwojga ludzi połączonych miłością, ambicją i pragnieniem dokonania rzeczy pozornie niemożliwej.",
         "genres": [
-          "Dokumentalny",
-          "Sportowy"
+          "Sportowy",
+          "Dokumentalny"
         ],
         "external": {
           "imdb": {
             "id": "tt38691481",
             "url": "https://www.imdb.com/title/tt38691481/",
             "rating": 7.5,
-            "votes": 76
+            "votes": 80
           },
           "filmweb": {
             "id": "10130537",
             "url": "https://www.filmweb.pl/film/Everest%3A+Druga+strona-2026-10130537",
             "genres": [
-              "Dokumentalny",
-              "Sportowy"
+              "Sportowy",
+              "Dokumentalny"
             ],
             "rating": 6,
             "votes": 6
@@ -386,8 +386,8 @@
               "Elizabeth Chai Vasarhelyi",
               "Jimmy Chin"
             ],
-            "criticsRating": 87,
-            "criticsVotes": 15,
+            "criticsRating": 83,
+            "criticsVotes": 18,
             "audienceRating": null,
             "audienceVotes": null
           }
@@ -425,25 +425,25 @@
         "description": "Dzieło Prusa od blisko 140 lat rozpala emocje i wyobraźnię kolejnych pokoleń. Teraz ta ponadczasowa historia trafia na wielki ekran w nowej, spektakularnej, filmowej odsłonie.",
         "shortDescription": "Dzieło Prusa od blisko 140 lat rozpala emocje i wyobraźnię kolejnych pokoleń. Teraz ta ponadczasowa historia trafia na wielki ekran w nowej, spektakularnej, filmowej odsłonie.",
         "genres": [
-          "Kostiumowy",
-          "Dramat obyczajowy"
+          "Dramat obyczajowy",
+          "Kostiumowy"
         ],
         "external": {
           "imdb": {
             "id": "tt37082105",
             "url": "https://www.imdb.com/title/tt37082105/",
             "rating": 7.7,
-            "votes": 1457
+            "votes": 1475
           },
           "filmweb": {
             "id": "10057628",
             "url": "https://www.filmweb.pl/film/Lalka-2026-10057628",
             "genres": [
-              "Kostiumowy",
-              "Dramat obyczajowy"
+              "Dramat obyczajowy",
+              "Kostiumowy"
             ],
             "rating": 7.7,
-            "votes": 35419
+            "votes": 35945
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/lalka",
@@ -491,25 +491,25 @@
         "description": "Zatrzymaj się i poczuj magię natury podczas prawdziwego kinowego doświadczenia, które angażuje wszystkie zmysły!",
         "shortDescription": "Zatrzymaj się i poczuj magię natury podczas prawdziwego kinowego doświadczenia, które angażuje wszystkie zmysły!",
         "genres": [
-          "Przyrodniczy",
-          "Dokumentalny"
+          "Dokumentalny",
+          "Przyrodniczy"
         ],
         "external": {
           "imdb": {
             "id": "tt32368068",
             "url": "https://www.imdb.com/title/tt32368068/",
             "rating": 7.7,
-            "votes": 1339
+            "votes": 1345
           },
           "filmweb": {
             "id": "10111381",
             "url": "https://www.filmweb.pl/film/Pie%C5%9Bni+lasu-2025-10111381",
             "genres": [
-              "Przyrodniczy",
-              "Dokumentalny"
+              "Dokumentalny",
+              "Przyrodniczy"
             ],
             "rating": 8.1,
-            "votes": 919
+            "votes": 990
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/whispers_in_the_woods",
@@ -565,7 +565,7 @@
             "id": "tt14371256",
             "url": "https://www.imdb.com/title/tt14371256/",
             "rating": 6.4,
-            "votes": 1389
+            "votes": 1550
           },
           "filmweb": {
             "id": "10035554",
@@ -575,7 +575,7 @@
               "Sci-Fi"
             ],
             "rating": 6.3,
-            "votes": 742
+            "votes": 855
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/klara_and_the_sun",
@@ -584,10 +584,10 @@
             "directors": [
               "Taika Waititi"
             ],
-            "criticsRating": 25,
-            "criticsVotes": 81,
-            "audienceRating": 77,
-            "audienceVotes": 131
+            "criticsRating": 24,
+            "criticsVotes": 86,
+            "audienceRating": 75,
+            "audienceVotes": 152
           }
         },
         "longDescription": "Film „Klara i słońce”, oparty na bestsellerowej powieści laureata Nagrody Nobla Kazuo Ishiguro.\n\nTo historia Klary (Jenna Ortega), robota zasilanego energią słoneczną, stworzonego po to, by wspierać i towarzyszyć ludziom w ich codziennym życiu.\n\nKiedy Klara poznaje Josie (Mia Tharia), każda z nich od razu wyczuwa w drugiej pokrewną duszę. Josie ma trudną relację ze swoją matką (Amy Adams), a to właśnie Klara zaczyna uzdrawiać rodzinę i wnosić światło do skomplikowanego świata Josie.\n\n„Klara i słońce” to pełna nadziei opowieść o przyjaźni w czasach, gdy technologia sprawia, że czujemy się coraz bardziej samotni.",
@@ -630,7 +630,7 @@
             "id": "tt25399154",
             "url": "https://www.imdb.com/title/tt25399154/",
             "rating": 7.5,
-            "votes": 3084
+            "votes": 3105
           },
           "filmweb": {
             "id": "10113205",
@@ -639,7 +639,7 @@
               "Dramat historyczny"
             ],
             "rating": 7.2,
-            "votes": 2296
+            "votes": 2318
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/rose_2026",
@@ -695,7 +695,7 @@
             "id": "tt45368240",
             "url": "https://www.imdb.com/title/tt45368240/",
             "rating": 9.2,
-            "votes": 18485
+            "votes": 19629
           },
           "filmweb": {
             "id": "10133825",
@@ -704,7 +704,7 @@
               "Dokumentalny"
             ],
             "rating": 8.8,
-            "votes": 3178
+            "votes": 3573
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/you_can_see_everything",
@@ -714,10 +714,10 @@
               "Nathan Fielder",
               "Lance Oppenheim"
             ],
-            "criticsRating": 98,
-            "criticsVotes": 184,
+            "criticsRating": 97,
+            "criticsVotes": 193,
             "audienceRating": 96,
-            "audienceVotes": 3120
+            "audienceVotes": 3211
           }
         },
         "longDescription": "Kinowe wydarzenie roku i zdecydowany kandydat do Oscarów. Wyreżyserowany przez Nathana Fieldera (twórcy „Próby generalnej” i „Klątwy”) oraz Lance’a Oppenheima („Primetime” z Robertem Pattinsonem), film bezczelnie zaciera granicę między fikcją a rzeczywistością.\n\nElizabeth Holmes, założycielka firmy Theranos i okrzyknięta „kobiecym Steve’em Jobsem” wizjonerka, została skazana na 11 lat więzienia za jedno z największych oszustw Doliny Krzemowej. Na 34 dni przed odbyciem kary w jej życie wkracza Nathan Fielder – bezkompromisowy komik i prowokator. Wprowadza się do jej domu, by obserwować ostatnie chwile wolności kobiety. Holmes twierdzi, że jest niewinna, i obiecuje, że kamera Fieldera ujawni prawdę, która wstrząśnie światem. Wypowiada tylko dwa słowa: „Zobaczysz wszystko”.\n\nTak zaczyna się epicka opowieść filmowa wymykająca się gatunkowym ramom. Co w tej grze jest szczerą spowiedzią, a co kolejnym, mistrzowskim oszustwem? Czegoś takiego jeszcze nie widzieliście.",
@@ -753,25 +753,25 @@
         "description": "Akcja, osadzona w Anglii epoki georgiańskiej, podąża za losami zamożnego pana Dashwooda, który umiera, pozostawiając swoją drugą żonę oraz trzy córki w trudnej sytuacji finansowej.",
         "shortDescription": "Akcja, osadzona w Anglii epoki georgiańskiej, podąża za losami zamożnego pana Dashwooda, który umiera, pozostawiając swoją drugą żonę oraz trzy córki w trudnej sytuacji finansowej.",
         "genres": [
-          "Kostiumowy",
-          "Melodramat"
+          "Melodramat",
+          "Kostiumowy"
         ],
         "external": {
           "imdb": {
             "id": "tt13609648",
             "url": "https://www.imdb.com/title/tt13609648/",
             "rating": 7.3,
-            "votes": 6109
+            "votes": 6496
           },
           "filmweb": {
             "id": "10087170",
             "url": "https://www.filmweb.pl/film/Rozwa%C5%BCna+i+romantyczna-2026-10087170",
             "genres": [
-              "Kostiumowy",
-              "Melodramat"
+              "Melodramat",
+              "Kostiumowy"
             ],
             "rating": 7.2,
-            "votes": 2415
+            "votes": 2558
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/sense_and_sensibility_2026",
@@ -781,9 +781,9 @@
               "Georgia Oakley"
             ],
             "criticsRating": 77,
-            "criticsVotes": 120,
+            "criticsVotes": 126,
             "audienceRating": 88,
-            "audienceVotes": 736
+            "audienceVotes": 757
           }
         },
         "longDescription": "Georgeia Oakley jest reżyserką nowej interpretacji  Rozważnej i romantycznej  Jane Austen. To produkcja Working Title, oparta na scenariuszu Diany Reid, w rolach głównych zobaczymy: Daisy Edgar-Jones, Esmé Creed-Miles, Caitríonę Balfe, Franka Dillane’a, Herberta Nordruma, Bodhi Rae Breathnach, George’a MacKaya oraz Fionę Shaw.\n\nAkcja, osadzona w Anglii epoki georgiańskiej, podąża za losami zamożnego pana Dashwooda, który umiera, pozostawiając swoją drugą żonę oraz trzy córki w trudnej sytuacji finansowej. Kobiety przenoszą się do skromnej wiejskiej posiadłości, gdzie dwie starsze siostry rywalizują o względy różnych adoratorów, poszukując prawdziwej miłości.\n\nProducentami filmu są: Tim Bevan i Eric Fellner z Working Title, a także India Flint z November Pictures oraz Jo Wallett z Kiddo Films. Working Title i Focus wcześniej współpracowały przy filmowej adaptacji  Dumy i uprzedzenia  z 2005 roku, która zdobyła cztery nominacje do Oscara, oraz przy kinowej wersji  Emmy  z 2020 roku.\n\nRozważna i romantyczna  trafiła na ekrany również w 1995 roku ze studia Sony Pictures Classics — film w reżyserii Anga Lee, ze scenariuszem Emmy Thompson, nagrodzonej Oscarem za najlepszy scenariusz adaptowany. Thompson zagrała także Elinor Dashwood, a Kate Winslet wcieliła się w Marianne. Produkcja otrzymała w sumie siedem nominacji do Oscara i zarobiła ponad 134 miliony dolarów na świecie.",
@@ -826,7 +826,7 @@
             "id": "tt44766123",
             "url": "https://www.imdb.com/title/tt44766123/",
             "rating": 8.3,
-            "votes": 5911
+            "votes": 6003
           },
           "filmweb": {
             "id": "10133039",
@@ -835,7 +835,7 @@
               "Dokumentalny"
             ],
             "rating": 8.2,
-            "votes": 494
+            "votes": 522
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/naza",
@@ -846,7 +846,7 @@
               "Rachel Szor"
             ],
             "criticsRating": 100,
-            "criticsVotes": 74,
+            "criticsVotes": 76,
             "audienceRating": 99,
             "audienceVotes": 70
           }
@@ -885,25 +885,25 @@
         "description": "Diabły  Kena Russella to jeden z najbardziej bezkompromisowych i kontrowersyjnych filmów w historii brytyjskiego kina.",
         "shortDescription": "Diabły  Kena Russella to jeden z najbardziej bezkompromisowych i kontrowersyjnych filmów w historii brytyjskiego kina.",
         "genres": [
-          "Biograficzny",
-          "Dramat historyczny"
+          "Dramat historyczny",
+          "Biograficzny"
         ],
         "external": {
           "imdb": {
             "id": "tt0066993",
             "url": "https://www.imdb.com/title/tt0066993/",
             "rating": 7.8,
-            "votes": 24616
+            "votes": 24720
           },
           "filmweb": {
             "id": "32858",
             "url": "https://www.filmweb.pl/film/Diab%C5%82y-1971-32858",
             "genres": [
-              "Biograficzny",
-              "Dramat historyczny"
+              "Dramat historyczny",
+              "Biograficzny"
             ],
             "rating": 7.7,
-            "votes": 6697
+            "votes": 6954
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/the_devils",
@@ -915,7 +915,7 @@
             "criticsRating": 55,
             "criticsVotes": 101,
             "audienceRating": 87,
-            "audienceVotes": 1015
+            "audienceVotes": 1016
           }
         },
         "longDescription": "XVII-wieczna Francja. Charyzmatyczny i kontrowersyjny ksiądz Urbain Grandier (Oliver Reed) staje na drodze politycznym planom kardynała Richelieu. Kiedy przełożona klasztoru urszulanek, siostra Jeanne (Vanessa Redgrave), oskarża Grandiera o czary i opętanie zakonnic, religijna histeria szybko staje się narzędziem politycznej rozgrywki. Rozpoczyna się spektakl egzorcyzmów, oskarżeń i przemocy, którego prawdziwą stawką okazuje się władza.\n\nDiabły  Kena Russella to jeden z najbardziej bezkompromisowych i kontrowersyjnych filmów w historii brytyjskiego kina. Inspirowany autentycznymi wydarzeniami w Loudun oraz książką Aldousa Huxleya i sztuką Johna Whitinga, film łączy dramat historyczny, horror, polityczną satyrę i religijną prowokację. Russell tworzy oszałamiające wizualnie widowisko o fanatyzmie, seksualnym pożądaniu i mechanizmach władzy, w którym granica między religijnym uniesieniem a zbiorową histerią niemal całkowicie znika.\n\nOd premiery w 1971 roku Diabły  wywoływały skandale, podlegały cenzurze i funkcjonowały w wielu skróconych wersjach. Dziś pozostają jednym z najbardziej radykalnych dzieł Kena Russella – filmem, który ponad pół wieku później wciąż potrafi szokować.",
@@ -952,26 +952,26 @@
         "shortDescription": "Poruszająca historia miłości Williama, ambitnego dramaturga i jego żony Agnes. Ich idylliczne życie zostaje zburzone, gdy wybucha epidemia dżumy, która dotyka ich dzieci.",
         "genres": [
           "Biograficzny",
-          "Dramat",
-          "Kostiumowy"
+          "Kostiumowy",
+          "Dramat"
         ],
         "external": {
           "imdb": {
             "id": "tt14905854",
             "url": "https://www.imdb.com/title/tt14905854/",
             "rating": 7.8,
-            "votes": 140474
+            "votes": 140555
           },
           "filmweb": {
             "id": "10035555",
             "url": "https://www.filmweb.pl/film/Hamnet-2025-10035555",
             "genres": [
               "Biograficzny",
-              "Dramat",
-              "Kostiumowy"
+              "Kostiumowy",
+              "Dramat"
             ],
             "rating": 7.6,
-            "votes": 30309
+            "votes": 30322
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/hamnet",
@@ -1019,25 +1019,25 @@
         "description": "Charyzmatyczny dziennikarz wkracza do podziemnego świata przestępczego i pragnie zmienić oblicze telewizji. Ulega własnej obsesji i w drodze na szczyt popularności zaczyna zatracać swój pierwotny cel.",
         "shortDescription": "Charyzmatyczny dziennikarz wkracza do podziemnego świata przestępczego i pragnie zmienić oblicze telewizji. Ulega własnej obsesji i w drodze na szczyt popularności zaczyna zatracać swój pierwotny cel.",
         "genres": [
-          "Kryminał",
-          "Dramat"
+          "Dramat",
+          "Kryminał"
         ],
         "external": {
           "imdb": {
             "id": "tt34206385",
             "url": "https://www.imdb.com/title/tt34206385/",
             "rating": 7.1,
-            "votes": 22856
+            "votes": 23134
           },
           "filmweb": {
             "id": "10115409",
             "url": "https://www.filmweb.pl/film/Primetime-2026-10115409",
             "genres": [
-              "Kryminał",
-              "Dramat"
+              "Dramat",
+              "Kryminał"
             ],
             "rating": 6.3,
-            "votes": 10083
+            "votes": 10277
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/primetime",
@@ -1047,9 +1047,9 @@
               "Lance Oppenheim"
             ],
             "criticsRating": 86,
-            "criticsVotes": 248,
+            "criticsVotes": 251,
             "audienceRating": 78,
-            "audienceVotes": 2726
+            "audienceVotes": 2738
           }
         },
         "longDescription": "ROBERT PATTINSON w thrillerze psychologicznym PRIMETIME wciela się w Chrisa Hansena, charyzmatycznego dziennikarza, który wkracza do podziemnego świata przestępczego i pragnie zmienić oblicze telewizji. Z czasem jednak ulega własnej obsesji i w drodze na szczyt popularności zaczyna zatracać swój pierwotny cel.",

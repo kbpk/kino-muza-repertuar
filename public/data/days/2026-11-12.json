@@ -1,12 +1,12 @@
 {
   "schemaVersion": 1,
   "date": "2026-11-12",
-  "updatedAt": "2026-10-29T21:46:13.767Z",
+  "updatedAt": "2026-10-30T16:42:10.234Z",
   "source": "https://www.kinomuza.pl/repertoire/day/",
   "day": {
-    "id": "14",
+    "id": "13",
     "date": "12.11",
-    "now": "2026-10-29 22:45:56",
+    "now": "2026-10-30 17:41:00",
     "info": [],
     "repertoire": [
       {
@@ -123,7 +123,7 @@
               "Muzyczny"
             ],
             "rating": 6.8,
-            "votes": 994
+            "votes": 995
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/the_ballad_of_wallis_island",
@@ -283,7 +283,7 @@
               "Melodramat"
             ],
             "rating": 6.5,
-            "votes": 6270
+            "votes": 6276
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/pillion",
@@ -349,7 +349,7 @@
               "Psychologiczny"
             ],
             "rating": 6.8,
-            "votes": 6240
+            "votes": 6242
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/the_salt_path",
@@ -532,7 +532,7 @@
               "Melodramat"
             ],
             "rating": 7.8,
-            "votes": 211851
+            "votes": 211855
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/reader",
@@ -580,8 +580,8 @@
         "description": "Alan Rickman jako pułkownik Brandon stworzył portret cichego melancholika o zranionym sercu, czym zerwał z łatką filmowego złoczyńcy. Anglia, XVIII wiek. Po śmierci ojca panny Dashwood są zmuszone opuścić rodzinną posiadłość oraz sprostać skromnym realiom i zmiennym niczym londyńska mgła adoratorom.",
         "shortDescription": "Alan Rickman jako pułkownik Brandon stworzył portret cichego melancholika o zranionym sercu, czym zerwał z łatką filmowego złoczyńcy. Anglia, XVIII wiek. Po śmierci ojca panny Dashwood są zmuszone opuścić rodzinną posiadłość oraz sprostać skromnym realiom i zmiennym niczym londyńska mgła adoratorom.",
         "genres": [
-          "Melodramat",
-          "Kostiumowy"
+          "Kostiumowy",
+          "Melodramat"
         ],
         "external": {
           "imdb": {
@@ -594,11 +594,11 @@
             "id": "166",
             "url": "https://www.filmweb.pl/film/Rozwa%C5%BCna+i+romantyczna-1995-166",
             "genres": [
-              "Melodramat",
-              "Kostiumowy"
+              "Kostiumowy",
+              "Melodramat"
             ],
             "rating": 7.3,
-            "votes": 62957
+            "votes": 62960
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/1068832-sense_and_sensibility",
@@ -732,7 +732,7 @@
               "Dramat"
             ],
             "rating": 7.6,
-            "votes": 30322
+            "votes": 30346
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/hamnet",
@@ -844,8 +844,8 @@
         "description": "ŚWIĄTECZNY POKAZ SPECJALNY Z MINI INCHCAPE POZNAŃ (eNStudiosul. Głogowska 216).",
         "shortDescription": "ŚWIĄTECZNY POKAZ SPECJALNY Z MINI INCHCAPE POZNAŃ (eNStudiosul. Głogowska 216).",
         "genres": [
-          "Komedia rom.",
-          "Świąteczny"
+          "Świąteczny",
+          "Komedia rom."
         ],
         "external": {
           "imdb": {
@@ -858,11 +858,11 @@
             "id": "99390",
             "url": "https://www.filmweb.pl/film/To+w%C5%82a%C5%9Bnie+mi%C5%82o%C5%9B%C4%87-2003-99390",
             "genres": [
-              "Komedia rom.",
-              "Świąteczny"
+              "Świąteczny",
+              "Komedia rom."
             ],
             "rating": 7.5,
-            "votes": 271311
+            "votes": 271317
           },
           "rottenTomatoes": null
         },
@@ -917,7 +917,7 @@
               "Dramat"
             ],
             "rating": 8,
-            "votes": 4934
+            "votes": 4946
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/i_swear_2025",
@@ -1111,7 +1111,7 @@
               "Horror"
             ],
             "rating": 6.8,
-            "votes": 20921
+            "votes": 20944
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/28_years_later_the_bone_temple",
@@ -1159,8 +1159,8 @@
         "description": "Danny Bolye opowiada historię niczym z pierwszych stron gazet. W roku 1969 Rupert Murdoch (Guy Pearce) wykupił tabloid „The Sun” i zatrudnił jako naczelnego Larry’ego Lamba (Jack O&#8217;Connell). W efekcie powstało medialne imperium, które zmieniło na zawsze brytyjskie dziennikarstwo i społeczeństwo.",
         "shortDescription": "Danny Bolye opowiada historię niczym z pierwszych stron gazet. W roku 1969 Rupert Murdoch (Guy Pearce) wykupił tabloid „The Sun” i zatrudnił jako naczelnego Larry’ego Lamba (Jack O&#8217;Connell). W efekcie powstało medialne imperium, które zmieniło na zawsze brytyjskie dziennikarstwo i społeczeństwo.",
         "genres": [
-          "Biograficzny",
-          "Dramat"
+          "Dramat",
+          "Biograficzny"
         ],
         "external": {
           "imdb": {
@@ -1173,8 +1173,8 @@
             "id": "10100972",
             "url": "https://www.filmweb.pl/film/Tabloid-2026-10100972",
             "genres": [
-              "Biograficzny",
-              "Dramat"
+              "Dramat",
+              "Biograficzny"
             ],
             "rating": 6.6,
             "votes": 133
@@ -1241,7 +1241,7 @@
               "Thriller"
             ],
             "rating": 7.2,
-            "votes": 15387
+            "votes": 15427
           },
           "rottenTomatoes": null
         },

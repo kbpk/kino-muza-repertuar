@@ -1,12 +1,12 @@
 {
   "schemaVersion": 1,
   "date": "2026-11-26",
-  "updatedAt": "2026-10-29T21:46:13.767Z",
+  "updatedAt": "2026-10-30T16:42:10.234Z",
   "source": "https://www.kinomuza.pl/repertoire/day/",
   "day": {
-    "id": "28",
+    "id": "27",
     "date": "26.11",
-    "now": "2026-10-29 22:46:02",
+    "now": "2026-10-30 17:41:06",
     "info": [],
     "repertoire": [
       {
@@ -93,7 +93,7 @@
               "Dokumentalny"
             ],
             "rating": 7.4,
-            "votes": 246
+            "votes": 248
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/mariinka",

@@ -1,12 +1,12 @@
 {
   "schemaVersion": 1,
   "date": "2026-11-10",
-  "updatedAt": "2026-10-29T21:46:13.767Z",
+  "updatedAt": "2026-10-30T16:42:10.234Z",
   "source": "https://www.kinomuza.pl/repertoire/day/",
   "day": {
-    "id": "12",
+    "id": "11",
     "date": "10.11",
-    "now": "2026-10-29 22:45:54",
+    "now": "2026-10-30 17:41:00",
     "info": [],
     "repertoire": [
       {
@@ -187,7 +187,7 @@
               "Dramat"
             ],
             "rating": 8,
-            "votes": 4934
+            "votes": 4946
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/i_swear_2025",
@@ -318,7 +318,7 @@
               "Komedia"
             ],
             "rating": 6.6,
-            "votes": 52107
+            "votes": 52110
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/shaun_of_the_dead",

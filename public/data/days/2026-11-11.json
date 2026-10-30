@@ -1,12 +1,12 @@
 {
   "schemaVersion": 1,
   "date": "2026-11-11",
-  "updatedAt": "2026-10-29T21:46:13.767Z",
+  "updatedAt": "2026-10-30T16:42:10.234Z",
   "source": "https://www.kinomuza.pl/repertoire/day/",
   "day": {
-    "id": "13",
+    "id": "12",
     "date": "11.11",
-    "now": "2026-10-29 22:45:55",
+    "now": "2026-10-30 17:41:00",
     "info": [],
     "repertoire": [
       {
@@ -59,7 +59,7 @@
               "Familijny"
             ],
             "rating": 6.9,
-            "votes": 710
+            "votes": 739
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/shaun_the_sheep_the_beast_of_mossy_bottom",
@@ -142,7 +142,7 @@
             "criticsRating": 80,
             "criticsVotes": 111,
             "audienceRating": 81,
-            "audienceVotes": 258
+            "audienceVotes": 259
           }
         },
         "longDescription": "Rodzina Thompsonów wyprowadza się z Londynu na wieś – trochę z konieczności, trochę w nadziei na nowy początek. Dla trójki dzieci zmiana oznacza nagłe wyrwanie z dobrze znanej codzienności. Wszystko nabiera jednak zupełnie innego wymiaru, gdy najmłodsza Fran odkrywa w pobliskim lesie niezwykłe drzewo zamieszkane przez osobliwych lokatorów. Na jego szczycie pojawiają się fantastyczne krainy – zmienne, nieprzewidywalne i podporządkowane własnym, często absurdalnym regułom.\n\nDRZEWO MAGII to filmowa interpretacja jednego z najbardziej charakterystycznych światów brytyjskiej literatury dziecięcej. Enid Blyton zaprosiła czytelników do Zaklętego Lasu jeszcze pod koniec lat 30. Jej opowieści wyrastały z przekonania, że przygoda może rozpocząć się tuż za domem, a dzieci potrafią odkrywać świat na własnych zasadach – z ciekawością, odwagą i sporą dozą samodzielności. Bliskość natury, swoboda zabawy oraz fantastyczność przyjmowana bez zbędnych wyjaśnień przez dekady budowały szczególny charakter tej popularnej serii. Scenarzysta Simon Farnaby i reżyser Ben Gregor przenoszą znaną historię do współczesności, zachowując jej pierwotny urok.\n\nAndrew Garfield i Claire Foy odnajdują w rolach rodziców zarówno komediową bezradność wobec kolejnych absurdów, jak i ciepło rodzinnej relacji, a Nicola Coughlan, Nonso Anozie i Rebecca Ferguson z wyraźną przyjemnością wnoszą do filmu porcję baśniowej ekscentryczności.\n\nTwórcom zależało również, by magia miała możliwie materialny wymiar na planie filmowym. Zamiast wykreować świat wyłącznie cyfrowo, postawili na rozbudowane scenografie, dekoracje i kostiumy. Samo tytułowe drzewo powstawało przez wiele miesięcy jako pełnowymiarowa konstrukcja, po której aktorzy rzeczywiście mogli się wspinać, a kolejne krainy projektowano tak, by dawały realną przestrzeń do zabawy.\n\nPod baśniowym rozgardiaszem DRZEWA MAGII kryje się nie tylko zachęta do ograniczenia ekranów, ale też wspólnego, rodzinnego wychodzenia poza rutyny i wspierania się w eksplorowaniu nowych doświadczeń.\n\nEN\n\nThe Thompson family leave London for the countryside – partly out of necessity, partly in the hope of a fresh start. For their three children, the move means being abruptly uprooted from everything familiar. But things take an entirely different turn when the youngest, Fran, discovers an extraordinary tree in the nearby woods, inhabited by a host of peculiar residents. At its top, fantastical lands appear – ever-changing, unpredictable and governed by their own, often absurd, rules.\n\nTHE MAGIC FARAWAY TREE is a film adaptation of one of the most iconic worlds in British children’s literature. Enid Blyton invited readers into the Enchanted Forest as early as the late 1930s. Her stories were built on the idea that adventure could be waiting just beyond the garden gate, and that children should have the freedom to explore the world for themselves – with curiosity, courage and a healthy dose of independence.\n\nA connection to nature, the joy of play, and a sense of wonder—embraced without the need for explanation—have contributed to the lasting appeal of this beloved series for decades. Screenwriter Simon Farnaby and director Ben Gregor bring the story into the present day without losing its original charm.\n\nAndrew Garfield and Claire Foy strike a lovely balance between comic bewilderment and genuine warmth as the parents, while Nicola Coughlan, Nonso Anozie and Rebecca Ferguson clearly have great fun with the film’s more eccentric, fairy-tale elements.\n\nBeneath the fairy-tale chaos, THE MAGIC FARAWAY TREE offers not only a gentle nudge away from screens, but also an invitation for families to step outside their routines together and support one another in exploring new experiences.",
@@ -180,8 +180,8 @@
         "description": "Nastoletnia Maz rusza tropem tajemniczego zjawiska na niebie. W kameralnym debiucie Ryninksa walijski koloryt, klimat końca lat 90. i wiara w życie pozaziemskie stanowią tło dla urokliwej opowieści o rodzinie, żałobie i dorastaniu, w której poszukiwanie odpowiedzi splata losy grupy barwnych bohaterów.",
         "shortDescription": "Nastoletnia Maz rusza tropem tajemniczego zjawiska na niebie. W kameralnym debiucie Ryninksa walijski koloryt, klimat końca lat 90. i wiara w życie pozaziemskie stanowią tło dla urokliwej opowieści o rodzinie, żałobie i dorastaniu, w której poszukiwanie odpowiedzi splata losy grupy barwnych bohaterów.",
         "genres": [
-          "Sci-Fi",
-          "Komedia"
+          "Komedia",
+          "Sci-Fi"
         ],
         "external": {
           "imdb": {
@@ -194,8 +194,8 @@
             "id": "10129033",
             "url": "https://www.filmweb.pl/film/Out+There-2026-10129033",
             "genres": [
-              "Sci-Fi",
-              "Komedia"
+              "Komedia",
+              "Sci-Fi"
             ],
             "rating": 6,
             "votes": 1
@@ -262,7 +262,7 @@
               "Dramat"
             ],
             "rating": 7.3,
-            "votes": 524
+            "votes": 526
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/queen_at_sea",
@@ -272,7 +272,7 @@
               "Lance Hammer"
             ],
             "criticsRating": 93,
-            "criticsVotes": 40,
+            "criticsVotes": 42,
             "audienceRating": null,
             "audienceVotes": null
           }
@@ -461,7 +461,7 @@
               "Psychologiczny"
             ],
             "rating": 6.8,
-            "votes": 6240
+            "votes": 6242
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/the_salt_path",
@@ -510,8 +510,8 @@
         "description": "Komediowy, słodko-gorzki portret wieloetnicznej rodziny z Manchesteru lat 70. Pakistański ojciec, irlandzka matka i siedmioro dzieci, które chcą żyć własnym – brytyjskim – życiem. Kiedy synowie buntują się przeciw zaaranżowanym małżeństwom, rodzina musi wybrać między tradycją a współczesnością.",
         "shortDescription": "Komediowy, słodko-gorzki portret wieloetnicznej rodziny z Manchesteru lat 70. Pakistański ojciec, irlandzka matka i siedmioro dzieci, które chcą żyć własnym – brytyjskim – życiem. Kiedy synowie buntują się przeciw zaaranżowanym małżeństwom, rodzina musi wybrać między tradycją a współczesnością.",
         "genres": [
-          "Dramat",
-          "Komedia"
+          "Komedia",
+          "Dramat"
         ],
         "external": {
           "imdb": {
@@ -524,8 +524,8 @@
             "id": "1343",
             "url": "https://www.filmweb.pl/film/Wojny+domowe-1999-1343",
             "genres": [
-              "Dramat",
-              "Komedia"
+              "Komedia",
+              "Dramat"
             ],
             "rating": 7.2,
             "votes": 1002
@@ -593,7 +593,7 @@
               "Przygodowy"
             ],
             "rating": 7.2,
-            "votes": 143505
+            "votes": 143507
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/robin_hood_prince_of_thieves",
@@ -721,7 +721,7 @@
               "Thriller"
             ],
             "rating": 7.2,
-            "votes": 15387
+            "votes": 15427
           },
           "rottenTomatoes": null
         },
@@ -906,7 +906,7 @@
               "Kostiumowy"
             ],
             "rating": 7.2,
-            "votes": 2558
+            "votes": 2702
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/sense_and_sensibility_2026",
@@ -915,10 +915,10 @@
             "directors": [
               "Georgia Oakley"
             ],
-            "criticsRating": 77,
-            "criticsVotes": 126,
+            "criticsRating": 78,
+            "criticsVotes": 130,
             "audienceRating": 88,
-            "audienceVotes": 757
+            "audienceVotes": 771
           }
         },
         "longDescription": "Rewizja klasycznej prozy Jane Austen, która debiutując w 1811 roku pod pseudonimem The Lady zaskoczyła czytelników bardziej ironicznym niż przesiąkniętym romantyzmem tonem, zjadliwym humorem i realistycznym obrazem epoki. Twórcy nowej ROZWAŻNEJ I ROMANTYCZNEJ nie tylko idą pierwotnym śladem niezmiennie uwielbianej pisarki, lecz także rozluźniają sznurowadła społecznego gorsetu, aby wydobyć motyw kobiecej emancypacji oraz siłę siostrzanej więzi. Wnikają przy tym w zawiłe niuanse georgiańskiej mentalności, odkrywając konflikt serca i rozwagi nie zawsze kończący się kliszą happy endu.\n\nWraz ze śmiercią pana Dashwooda jego trzy córki i druga żona zostają zmuszone do opuszczenia rodzinnej posiadłości. Zgodnie z dawnym angielskim prawem jego majątek dziedziczy męski spadkobierca, w tym przypadku syn z pierwszego małżeństwa. Siostry Dashwood zostają skazane na łaskę krewnych, mając świadomość jedynej akceptowanej społecznie drogi kobiecej stabilizacji – zamążpójścia. Najstarsze siostry, roztropna Elinor (oklaskiwana po występie w GDZIE ŚPIEWAJĄ RAKI Daisy Edgar-Jones) oraz podążająca za emocjami Marianne (znana z seriali HANNA i SANDMAN Esmé Creed-Miles), muszą sprostać oczekiwaniom drżącego przed etykietą środowiska i własnym dylematom serca.\n\nStojąca za kamerą Georgia Oakley (PTASZYNA, BLUE JEAN) po raz kolejny poraża wielką świadomością stylu zakorzenionego w wizualnym języku europejskich mistrzów, w tym francuskiej intymności czy wnikliwych obserwacjach ludzkich mechanizmów rodem z hiszpańskiego ekranu. Filmowe światy nominowanej do nagrody BAFTA brytyjskiej reżyserski przenika pewna doza zmysłowości, ale na próżno szukać w nich szablonowości czy upiększeń. Drogę do wciąż aktualnej problematyki społecznej wyznacza w nich kontekst historyczny, queerowa wrażliwość i psychologia postaci. Z pomocą australijskiej scenarzystki Diany Reid twórczynie przepuszczają przez realistyczny filtr ponadczasowe emocje i perypetie sióstr Dashwood poszukujących własnego miejsca w świecie.\n\nEN\n\nA fresh take on Jane Austen’s classic novel, first published in 1811 under the pseudonym “A Lady”, which surprised readers with a tone more ironic than romantic, a sharp wit and a clear-eyed portrait of its age. The makers of the new SENSE AND SENSIBILITY not only follow in the footsteps of the ever-beloved author, but also loosen the stays of social convention to bring female emancipation and the strength of sisterhood to the fore. At the same time, they delve into the intricacies of the Georgian mindset, exploring a conflict between feeling and reason that does not always resolve itself into the reassuring shape of a happy ending.\n\nAfter Mr Dashwood’s death, his second wife and three daughters are forced to leave the family estate. Under the inheritance laws of the time, his property passed to a male heir – in this case, his son from his first marriage. The Dashwood sisters are left dependent on the goodwill of relatives and acutely aware that marriage remains the only socially acceptable route to security. The two eldest, the sensible Elinor (Daisy Edgar-Jones, acclaimed for her performance in WHERE THE CRAWDADS SING) and the more impulsive Marianne (Esmé Creed-Miles, known from HANNA and THE SANDMAN), must navigate both the expectations of a society in thrall to etiquette and the complications of their own hearts.\n\nDirector Georgia Oakley (LITTLE BIRD, BLUE JEAN) once again displays a striking command of style, rooted in the visual language of European cinema – from French intimacy to the acute observation of human behaviour associated with Spanish film. A certain sensuality runs through the work of the BAFTA-nominated British filmmaker, yet there is little room for formula or prettification. Historical context, queer sensitivity and close attention to character psychology become her routes into social questions that remain strikingly relevant. Working with Australian screenwriter Diana Reid, Oakley refracts the timeless emotions and romantic entanglements of the Dashwood sisters through a realist lens as they search for a place of their own in the world.",
@@ -972,7 +972,7 @@
               "Psychologiczny"
             ],
             "rating": 5.8,
-            "votes": 12615
+            "votes": 12626
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/die_my_love_2025",
@@ -1037,7 +1037,7 @@
               "Horror"
             ],
             "rating": 6.7,
-            "votes": 3473
+            "votes": 3474
           },
           "rottenTomatoes": null
         },
@@ -1220,7 +1220,7 @@
               "Horror"
             ],
             "rating": 6.8,
-            "votes": 20921
+            "votes": 20944
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/28_years_later_the_bone_temple",
@@ -1284,7 +1284,7 @@
               "Horror"
             ],
             "rating": 6.8,
-            "votes": 26535
+            "votes": 26539
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/hellraiser",
@@ -1348,7 +1348,7 @@
               "Melodramat"
             ],
             "rating": 6.5,
-            "votes": 6270
+            "votes": 6276
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/pillion",

@@ -1,12 +1,12 @@
 {
   "schemaVersion": 1,
   "date": "2026-11-25",
-  "updatedAt": "2026-10-30T21:27:57.789Z",
+  "updatedAt": "2026-10-31T15:43:58.114Z",
   "source": "https://www.kinomuza.pl/repertoire/day/",
   "day": {
-    "id": "26",
+    "id": "25",
     "date": "25.11",
-    "now": "2026-10-30 22:27:18",
+    "now": "2026-10-31 16:42:42",
     "info": [],
     "repertoire": [
       {
@@ -72,7 +72,7 @@
           }
         },
         "longDescription": "Rok 1936, mieszkańcy Palestyny powstają przeciwko brytyjskim rządom. Jusuf dzieli swoje życie pomiędzy Jerozolimą a życiem na prowincji, marząc o przyszłości wolnej od wojennej zawieruchy. W miarę jak rośnie liczba żydowskich osadników uciekających przed falą antysemityzmu w Europie, Palestyńczycy jednoczą się w akcie największego oporu w 30-letniej historii brytyjskiego panowania. Wszystkie strony stoją w obliczu nieuchronnej konfrontacji. Nadchodzą kluczowe chwile dla przyszłości Imperium Brytyjskiego i Palestyny.\n\nPokaz specjalny jest częścią ogólnopolskiej premiery filmu „PALESTYNA 36″. Film wprowadzony do polskich kin dzięki Portalowi Immersja oraz FFIPP Poland.\n\nPo pokazie odbędzie się dyskusja z gościem – Przemysławem Wielgoszem. Spotkanie poprowadzi Natalia Zajączkowska.",
-        "poster": "media/posters/0a262ebf16ff938be178.webp"
+        "poster": "media/posters/ce9aa0b7b9705821bb05.webp"
       },
       {
         "hour": "19:00",

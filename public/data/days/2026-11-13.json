@@ -1,12 +1,12 @@
 {
   "schemaVersion": 1,
   "date": "2026-11-13",
-  "updatedAt": "2026-10-30T21:27:57.789Z",
+  "updatedAt": "2026-10-31T15:43:58.114Z",
   "source": "https://www.kinomuza.pl/repertoire/day/",
   "day": {
-    "id": "14",
+    "id": "13",
     "date": "13.11",
-    "now": "2026-10-30 22:27:15",
+    "now": "2026-10-31 16:42:37",
     "info": [],
     "repertoire": [
       {
@@ -107,9 +107,9 @@
         "description": "Minna i Flic to dwie wybitne uczennice szkoły z internatem, które wspólnie planują swoją przyszłość. Gdy odkrywają, że w ich perfekcyjnym życiorysie brakuje miłości, postanawiają potraktować zakochanie się jak kolejne dydaktyczne zadanie i stworzyć plan, który pozwoli im zdobyć romantyczne doświadczenie.",
         "shortDescription": "Minna i Flic to dwie wybitne uczennice szkoły z internatem, które wspólnie planują swoją przyszłość. Gdy odkrywają, że w ich perfekcyjnym życiorysie brakuje miłości, postanawiają potraktować zakochanie się jak kolejne dydaktyczne zadanie i stworzyć plan, który pozwoli im zdobyć romantyczne doświadczenie.",
         "genres": [
+          "Romans",
           "Dramat",
-          "Komedia",
-          "Romans"
+          "Komedia"
         ],
         "external": {
           "imdb": {
@@ -122,9 +122,9 @@
             "id": "10109750",
             "url": "https://www.filmweb.pl/film/Extra+Geography-2026-10109750",
             "genres": [
+              "Romans",
               "Dramat",
-              "Komedia",
-              "Romans"
+              "Komedia"
             ],
             "rating": 6.9,
             "votes": 39
@@ -195,7 +195,7 @@
               "Dramat"
             ],
             "rating": 7.6,
-            "votes": 30346
+            "votes": 30370
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/hamnet",
@@ -207,7 +207,7 @@
             "criticsRating": 86,
             "criticsVotes": 352,
             "audienceRating": 93,
-            "audienceVotes": 2686
+            "audienceVotes": 2687
           }
         },
         "longDescription": "Maggie O’Farrell w swojej powieści opisuje chłopca, który „ ma skłonności do wyślizgiwania się poza granice realnego, namacalnego świata, który go otacza. ” Nagrodzony w 2020 roku prestiżową brytyjską nagrodą Women’s Prize for Fiction tekst, został zainspirowany najsłynniejszą, a jednocześnie najbardziej enigmatyczną sztuką Williama Szekspira.\n\nW latach 80. XVI wieku pewnemu małżeństwu mieszkającemu w Stratfordzie urodziła się trójka dzieci: najmłodsza Susanna, a następnie bliźnięta – Hamnet i Judith. Chłopiec zmarł w wieku jedenastu lat. Cztery lata później jego ojciec napisał sztukę zatytułowaną Hamlet . Film wyreżyserowany przez Chloé Zhao, drugą kobietę w historii, która otrzymała Oscara za najlepszą reżyserię (NOMADLAND, 2021), jest wrażliwym i głębokim obrazem małżeństwa, próbującego ukształtować się na nowo po śmierci ukochanego dziecka. To historia Agnes – żony Williama Szekspira i jej zmagań po stracie ukochanego syna Hamneta.\n\nW rolach głównych zjawiskowy duet irlandzkich aktorów: Jessie Buckley oraz Paul Mescal. Producentami filmu są Steven Spielberg i Sam Mendes, a zdjęcia wykonał Łukasz Żal. Dopełnieniem całości jest muzyka skomponowana przez Maxa Richtera. Brytyjski HAMNET to opowieść o poszukiwaniu bliskości i sensu dalszego istnienia, mimo straty, której rany są niemożliwe do zagojenia się. Gdzieś na granicy snu i tego co realne, parafrazując bohaterów filmu, opowiemy Wam historię, ale taką, która Was poruszy. Film Zhao był nominowany do Oscara w 8 kategoriach, w tym za najlepszy film, a fantastyczna Jessie Buckley odebrała złotą statuetkę za swoją rolę. Pierwsze pokazy HAMNETA w Polsce odbyły się na British Film Festival 2025.\n\nEN\n\nMaggie O’Farrell’s novel describes a boy who “ tends to slip the bounds of the real, tangible world around him”. Winner of the Women’s Prize for Fiction in 2020, the book was inspired by William Shakespeare’s most famous and most enigmatic play.\n\nIn the 1580s, a couple living in Stratford had three children: Susanna, followed by twins Hamnet and Judith. Hamnet died at the age of eleven. Four years later, his father wrote a play entitled Hamlet . Directed by Chloé Zhao, the second woman in history to win the Academy Award for Best Director (NOMADLAND, 2021), HAMNET is a tender and deeply affecting portrait of a marriage trying to reshape itself after the death of a beloved child. At its heart is Agnes, William Shakespeare’s wife, and her struggle to live with the loss of their son.\n\nThe film is led by a remarkable pair of Irish actors, Jessie Buckley and Paul Mescal. Steven Spielberg and Sam Mendes are among the producers, Łukasz Żal is responsible for the cinematography, and the score was composed by Max Richter. HAMNET is a story about searching for closeness and meaning after a loss whose wounds can never fully heal. Hovering somewhere between dream and reality, it sets out, to borrow the language of the film itself, to tell a story that moves us.\n\nZhao’s film received eight Academy Award nominations, including Best Picture, while Jessie Buckley won the Oscar for her performance. HAMNET received its first Polish screenings at the British Film Festival in 2025.",
@@ -327,7 +327,7 @@
               "Musical"
             ],
             "rating": 6,
-            "votes": 2451
+            "votes": 2452
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/the_testament_of_ann_lee",
@@ -393,7 +393,7 @@
               "Psychologiczny"
             ],
             "rating": 5.8,
-            "votes": 12626
+            "votes": 12641
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/die_my_love_2025",
@@ -793,7 +793,7 @@
               "Psychologiczny"
             ],
             "rating": 6.8,
-            "votes": 6242
+            "votes": 6247
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/the_salt_path",
@@ -857,7 +857,7 @@
               "Dramat"
             ],
             "rating": 7.3,
-            "votes": 110141
+            "votes": 110143
           },
           "rottenTomatoes": null
         },
@@ -910,7 +910,7 @@
               "Dramat"
             ],
             "rating": 5.9,
-            "votes": 190
+            "votes": 191
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/h_is_for_hawk",
@@ -976,7 +976,7 @@
               "Kostiumowy"
             ],
             "rating": 7.2,
-            "votes": 2702
+            "votes": 2792
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/sense_and_sensibility_2026",
@@ -985,10 +985,10 @@
             "directors": [
               "Georgia Oakley"
             ],
-            "criticsRating": 78,
-            "criticsVotes": 130,
-            "audienceRating": 88,
-            "audienceVotes": 771
+            "criticsRating": 77,
+            "criticsVotes": 133,
+            "audienceRating": 89,
+            "audienceVotes": 785
           }
         },
         "longDescription": "Rewizja klasycznej prozy Jane Austen, która debiutując w 1811 roku pod pseudonimem The Lady zaskoczyła czytelników bardziej ironicznym niż przesiąkniętym romantyzmem tonem, zjadliwym humorem i realistycznym obrazem epoki. Twórcy nowej ROZWAŻNEJ I ROMANTYCZNEJ nie tylko idą pierwotnym śladem niezmiennie uwielbianej pisarki, lecz także rozluźniają sznurowadła społecznego gorsetu, aby wydobyć motyw kobiecej emancypacji oraz siłę siostrzanej więzi. Wnikają przy tym w zawiłe niuanse georgiańskiej mentalności, odkrywając konflikt serca i rozwagi nie zawsze kończący się kliszą happy endu.\n\nWraz ze śmiercią pana Dashwooda jego trzy córki i druga żona zostają zmuszone do opuszczenia rodzinnej posiadłości. Zgodnie z dawnym angielskim prawem jego majątek dziedziczy męski spadkobierca, w tym przypadku syn z pierwszego małżeństwa. Siostry Dashwood zostają skazane na łaskę krewnych, mając świadomość jedynej akceptowanej społecznie drogi kobiecej stabilizacji – zamążpójścia. Najstarsze siostry, roztropna Elinor (oklaskiwana po występie w GDZIE ŚPIEWAJĄ RAKI Daisy Edgar-Jones) oraz podążająca za emocjami Marianne (znana z seriali HANNA i SANDMAN Esmé Creed-Miles), muszą sprostać oczekiwaniom drżącego przed etykietą środowiska i własnym dylematom serca.\n\nStojąca za kamerą Georgia Oakley (PTASZYNA, BLUE JEAN) po raz kolejny poraża wielką świadomością stylu zakorzenionego w wizualnym języku europejskich mistrzów, w tym francuskiej intymności czy wnikliwych obserwacjach ludzkich mechanizmów rodem z hiszpańskiego ekranu. Filmowe światy nominowanej do nagrody BAFTA brytyjskiej reżyserski przenika pewna doza zmysłowości, ale na próżno szukać w nich szablonowości czy upiększeń. Drogę do wciąż aktualnej problematyki społecznej wyznacza w nich kontekst historyczny, queerowa wrażliwość i psychologia postaci. Z pomocą australijskiej scenarzystki Diany Reid twórczynie przepuszczają przez realistyczny filtr ponadczasowe emocje i perypetie sióstr Dashwood poszukujących własnego miejsca w świecie.\n\nEN\n\nA fresh take on Jane Austen’s classic novel, first published in 1811 under the pseudonym “A Lady”, which surprised readers with a tone more ironic than romantic, a sharp wit and a clear-eyed portrait of its age. The makers of the new SENSE AND SENSIBILITY not only follow in the footsteps of the ever-beloved author, but also loosen the stays of social convention to bring female emancipation and the strength of sisterhood to the fore. At the same time, they delve into the intricacies of the Georgian mindset, exploring a conflict between feeling and reason that does not always resolve itself into the reassuring shape of a happy ending.\n\nAfter Mr Dashwood’s death, his second wife and three daughters are forced to leave the family estate. Under the inheritance laws of the time, his property passed to a male heir – in this case, his son from his first marriage. The Dashwood sisters are left dependent on the goodwill of relatives and acutely aware that marriage remains the only socially acceptable route to security. The two eldest, the sensible Elinor (Daisy Edgar-Jones, acclaimed for her performance in WHERE THE CRAWDADS SING) and the more impulsive Marianne (Esmé Creed-Miles, known from HANNA and THE SANDMAN), must navigate both the expectations of a society in thrall to etiquette and the complications of their own hearts.\n\nDirector Georgia Oakley (LITTLE BIRD, BLUE JEAN) once again displays a striking command of style, rooted in the visual language of European cinema – from French intimacy to the acute observation of human behaviour associated with Spanish film. A certain sensuality runs through the work of the BAFTA-nominated British filmmaker, yet there is little room for formula or prettification. Historical context, queer sensitivity and close attention to character psychology become her routes into social questions that remain strikingly relevant. Working with Australian screenwriter Diana Reid, Oakley refracts the timeless emotions and romantic entanglements of the Dashwood sisters through a realist lens as they search for a place of their own in the world.",
@@ -1040,7 +1040,7 @@
               "Melodramat"
             ],
             "rating": 6.5,
-            "votes": 6276
+            "votes": 6289
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/pillion",
@@ -1159,7 +1159,7 @@
               "Akcja"
             ],
             "rating": 5.6,
-            "votes": 588
+            "votes": 593
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/the_uprising_2026",
@@ -1171,7 +1171,7 @@
             "criticsRating": 57,
             "criticsVotes": 122,
             "audienceRating": 65,
-            "audienceVotes": 579
+            "audienceVotes": 580
           }
         },
         "longDescription": "Oparte na prawdziwych wydarzeniach historycznych widowisko stawiające pytanie o cenę wolności w czasach feudalnego ucisku. XIV-wieczny lud Anglii pozostaje wyniszczony epidemią dżumy, represjami ze strony władzy i społecznymi napięciami. Na wieść o bezwzględnych planach możnowładców i nałożeniu podatku uderzającego w najuboższych, stojący na skraju wytrzymałości chłopi postanawiają sprzeciwić się tyranii Ryszarda II. Opór kilkorga z nich na czele z młodym rebeliantem (charyzmatyczny Andrew Garfield) przeistacza się w falę wściekłości, która w krótkim czasie rozprzestrzenia się na cały kraj. Uciskani postanawiają wypowiedzieć wojnę koronie.\n\nGdy w 1381 roku śmiałkowie z Esseksu i Kentu pod przewodnictwem Wata Tylera i mobilizowani przez kaznodzieję Johna Balla wszczęli bunt przeciwko wyzyskowi oraz nałożeniu podatku obciążającego jednostki niezależnie od wielkości ich dochodu, nikt nie zakładał, że powstanie doprowadzi do marszu na Londyn. Krwawe zamieszki zakończyło równie brutalne stłumienie przez siły króla, ale mit wolności i walki o sprawiedliwość na dobre zakorzenił się w mentalności angielskich chłopów, doprowadzając do narodzin legendy o Robin Hoodzie.\n\nWyróżniony BAFTA i nominowany do Oscara za LOT 93 (2006) reżyser Paul Greengrass spogląda na przepełnioną gniewem historię z charakterystycznym dla siebie reporterskim stylem, nie szczędząc jednak okrucieństwa, intensywnej konwencji i dynamicznej kamery. Rozedrgane ujęcia oddają emocjonalną motywację zrywu wyznaczającego punkt zwrotny w dziejach średniowiecznej Anglii i po upływie stuleci inspirującego polityczną lewicę.\n\nEN\n\nA historical epic based on real events, THE UPRISING asks what freedom is worth in an age of feudal oppression. Fourteenth-century England has been ravaged by plague, repression and mounting social unrest. When word spreads of the ruling elite’s ruthless plans and a tax that falls hardest on the poorest, peasants already pushed to the breaking point decide to resist the tyranny of Richard II. What begins with a handful of rebels, led by a charismatic young insurgent (Andrew Garfield), soon swells into a wave of anger sweeping across the country. The oppressed are ready to wage war on the Crown.\n\nIn 1381, rebels from Essex and Kent, led by Wat Tyler and rallied by the preacher John Ball, rose against exploitation and a poll tax levied regardless of income. Few could have foreseen that the revolt would culminate in a march on London.\n\nThe bloody riots were brought to an end by an equally brutal crackdown by the king’s forces. But the myth of freedom and the struggle for justice took firm root in the minds of the English peasants, leading to the birth of the legend of Robin Hood.\n\nBAFTA-winning director Paul Greengrass, who received an Academy Award nomination for UNITED 93 (2006), approaches this story of rage and rebellion with his characteristic journalistic immediacy, while fully embracing its brutality, intensity and restless camerawork. The jittery, urgent images capture the emotional force behind an uprising that marked a turning point in medieval English history and, centuries later, would continue to inspire the political left.",
@@ -1223,7 +1223,7 @@
               "Thriller"
             ],
             "rating": 7.2,
-            "votes": 15427
+            "votes": 15476
           },
           "rottenTomatoes": null
         },
@@ -1341,7 +1341,7 @@
               "Horror"
             ],
             "rating": 6.3,
-            "votes": 80289
+            "votes": 80293
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/descent",

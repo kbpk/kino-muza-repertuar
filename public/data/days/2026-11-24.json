@@ -1,0 +1,72 @@
+{
+  "schemaVersion": 1,
+  "date": "2026-11-24",
+  "updatedAt": "2026-10-31T15:43:58.114Z",
+  "source": "https://www.kinomuza.pl/repertoire/day/",
+  "day": {
+    "id": "24",
+    "date": "24.11",
+    "now": "2026-10-31 16:42:41",
+    "info": [],
+    "repertoire": [
+      {
+        "hour": "20:00",
+        "datetime": "2026-11-24 20:00:00",
+        "title": "Dzień Świra",
+        "originalTitle": "",
+        "director": "Marek Koterski",
+        "year": "2002",
+        "premiereDate": "",
+        "duration": "93",
+        "countries": "Polska",
+        "shortDesc": "<p>Adam Miauczyński, mężczyzna w średnim wieku, sfrustrowany polonista cierpi na nerwicę natręctw. Stał się niewolnikiem własnych rytuałów, które wymagają odliczania.</p>\n",
+        "lang": "pl",
+        "subtitlesLang": "",
+        "age": "16",
+        "credits": "reż. Marek Koterski <br>Polska <br>2002,93’",
+        "desc": "<p>Adam Miauczyński, mężczyzna w średnim wieku, sfrustrowany polonista cierpi na nerwicę natręctw. Stał się niewolnikiem własnych rytuałów, które wymagają odliczania.</p>\n",
+        "hall": "1",
+        "movieLink": "https://www.kinomuza.pl/movie/dzien-swira/",
+        "ticketLink": "https://estradapoznan.bilety24.pl/kup-bilety/?id=1013784#total",
+        "prePremier": false,
+        "tape35mm": false,
+        "ad": false,
+        "deaf": false,
+        "ticketPrice": "",
+        "ticketHalfPrice": "",
+        "alt": "Dzień Świra",
+        "thumb": "https://www.kinomuza.pl/content/uploads/2026/10/dzien-swira-2-800x450.jpg",
+        "cycle": "dkf kamera",
+        "description": "Adam Miauczyński, mężczyzna w średnim wieku, sfrustrowany polonista cierpi na nerwicę natręctw. Stał się niewolnikiem własnych rytuałów, które wymagają odliczania.",
+        "shortDescription": "Adam Miauczyński, mężczyzna w średnim wieku, sfrustrowany polonista cierpi na nerwicę natręctw. Stał się niewolnikiem własnych rytuałów, które wymagają odliczania.",
+        "genres": [
+          "Psychologiczny",
+          "Komedia",
+          "Dramat"
+        ],
+        "external": {
+          "imdb": {
+            "id": "tt0330243",
+            "url": "https://www.imdb.com/title/tt0330243/",
+            "rating": 8.1,
+            "votes": 13665
+          },
+          "filmweb": {
+            "id": "31413",
+            "url": "https://www.filmweb.pl/film/Dzie%C5%84+%C5%9Bwira-2002-31413",
+            "genres": [
+              "Psychologiczny",
+              "Komedia",
+              "Dramat"
+            ],
+            "rating": 7.8,
+            "votes": 642920
+          },
+          "rottenTomatoes": null
+        },
+        "longDescription": "Adam Miauczyński (Marek Kondrat), mężczyzna w średnim wieku, sfrustrowany polonista cierpi na nerwicę natręctw. Stał się niewolnikiem własnych rytuałów, które wymagają odliczania. Na każdym kroku spotyka go upokorzenie: niska wypłata, leniwi uczniowie, hałaśliwi sąsiedzi, syn nieuk, cyrk w sejmie. A z głębi serca jeszcze dochodzi tchnienie romantyzmu. Marek Koterski, autor filmu od fabularnego debiutu „DOM WARIATÓW” rozwija historię swego bohatera, Adama Miauczyńskiego, niespełnionego artysty, poety i reżysera.",
+        "poster": "media/posters/8ec12e08bd60ffe7f745.webp"
+      }
+    ]
+  }
+}

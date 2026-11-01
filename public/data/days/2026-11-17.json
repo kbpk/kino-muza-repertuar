@@ -1,12 +1,12 @@
 {
   "schemaVersion": 1,
   "date": "2026-11-17",
-  "updatedAt": "2026-10-31T19:55:50.354Z",
+  "updatedAt": "2026-11-01T16:49:01.739Z",
   "source": "https://www.kinomuza.pl/repertoire/day/",
   "day": {
-    "id": "17",
+    "id": "16",
     "date": "17.11",
-    "now": "2026-10-31 20:55:38",
+    "now": "2026-11-01 17:47:15",
     "info": [],
     "repertoire": [
       {
@@ -78,25 +78,25 @@
         "description": "Roman, kilkunastoletni chłopak najmuje się na pomywacza w luksusowej restauracji. Bystry i grzeczny, szybko awansuje na pikolaka. Codziennie jest świadkiem drobnych oszustw i rażących niesprawiedliwości.",
         "shortDescription": "Roman, kilkunastoletni chłopak najmuje się na pomywacza w luksusowej restauracji. Bystry i grzeczny, szybko awansuje na pikolaka. Codziennie jest świadkiem drobnych oszustw i rażących niesprawiedliwości.",
         "genres": [
-          "Obyczajowy",
-          "Dramat"
+          "Dramat",
+          "Obyczajowy"
         ],
         "external": {
           "imdb": {
             "id": "tt0075454",
             "url": "https://www.imdb.com/title/tt0075454/",
             "rating": 7.2,
-            "votes": 1271
+            "votes": 1272
           },
           "filmweb": {
             "id": "11923",
             "url": "https://www.filmweb.pl/film/Zakl%C4%99te+rewiry-1975-11923",
             "genres": [
-              "Obyczajowy",
-              "Dramat"
+              "Dramat",
+              "Obyczajowy"
             ],
             "rating": 7.8,
-            "votes": 34250
+            "votes": 34253
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/zaklete_rewiry_1975",

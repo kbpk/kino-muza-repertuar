@@ -1,12 +1,12 @@
 {
   "schemaVersion": 1,
   "date": "2026-11-15",
-  "updatedAt": "2026-10-31T19:55:50.354Z",
+  "updatedAt": "2026-11-01T16:49:01.739Z",
   "source": "https://www.kinomuza.pl/repertoire/day/",
   "day": {
-    "id": "15",
+    "id": "14",
     "date": "15.11",
-    "now": "2026-10-31 20:55:39",
+    "now": "2026-11-01 17:47:16",
     "info": [],
     "repertoire": [
       {
@@ -48,7 +48,7 @@
             "id": "tt36841161",
             "url": "https://www.imdb.com/title/tt36841161/",
             "rating": 7.1,
-            "votes": 2667
+            "votes": 2855
           },
           "filmweb": {
             "id": "10101144",
@@ -58,7 +58,7 @@
               "Familijny"
             ],
             "rating": 6.9,
-            "votes": 773
+            "votes": 817
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/shaun_the_sheep_the_beast_of_mossy_bottom",
@@ -150,26 +150,26 @@
         "shortDescription": "Po dwóch dekadach ponownie otwieramy filmową starą szafę. Czworo rodzeństwa trafia do zaśnieżonej krainy pełnej mitycznych zwierząt, niebezpieczeństw i magii. Klasyczna ekranizacja C.S. Lewisa wciąż urzeka baśniowym rozmachem, wyrazistymi kreacjami postaci i historią opartą na uniwersalnych wartościach.",
         "genres": [
           "Familijny",
-          "Przygodowy",
-          "Fantasy"
+          "Fantasy",
+          "Przygodowy"
         ],
         "external": {
           "imdb": {
             "id": "tt0363771",
             "url": "https://www.imdb.com/title/tt0363771/",
             "rating": 6.9,
-            "votes": 464289
+            "votes": 464376
           },
           "filmweb": {
             "id": "112761",
             "url": "https://www.filmweb.pl/film/Opowie%C5%9Bci+z+Narnii%3A+Lew%2C+czarownica+i+stara+szafa-2005-112761",
             "genres": [
               "Familijny",
-              "Przygodowy",
-              "Fantasy"
+              "Fantasy",
+              "Przygodowy"
             ],
             "rating": 7.1,
-            "votes": 288419
+            "votes": 288422
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/chronicles_of_narnia_lion_witch_wardrobe",
@@ -227,7 +227,7 @@
             "id": "tt36841161",
             "url": "https://www.imdb.com/title/tt36841161/",
             "rating": 7.1,
-            "votes": 2667
+            "votes": 2855
           },
           "filmweb": {
             "id": "10101144",
@@ -237,7 +237,7 @@
               "Familijny"
             ],
             "rating": 6.9,
-            "votes": 773
+            "votes": 817
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/shaun_the_sheep_the_beast_of_mossy_bottom",
@@ -286,8 +286,8 @@
         "description": "Dylan, zmęczony życiem, pogrążony w samotności i beznadziei młody mężczyzna, daje sobie tydzień na to, by odnaleźć sens istnienia. Wróciwszy wspomnieniami do stanu śmierci klinicznej doświadczonego w dzieciństwie, podejmuje szereg desperackich działań, testując tym samym i siebie, i otoczenie.",
         "shortDescription": "Dylan, zmęczony życiem, pogrążony w samotności i beznadziei młody mężczyzna, daje sobie tydzień na to, by odnaleźć sens istnienia. Wróciwszy wspomnieniami do stanu śmierci klinicznej doświadczonego w dzieciństwie, podejmuje szereg desperackich działań, testując tym samym i siebie, i otoczenie.",
         "genres": [
-          "Thriller",
-          "Dramat"
+          "Dramat",
+          "Thriller"
         ],
         "external": {
           "imdb": {
@@ -300,8 +300,8 @@
             "id": "10080762",
             "url": "https://www.filmweb.pl/film/Mission-2026-10080762",
             "genres": [
-              "Thriller",
-              "Dramat"
+              "Dramat",
+              "Thriller"
             ],
             "rating": 3,
             "votes": 1
@@ -398,7 +398,7 @@
             "id": "tt13609648",
             "url": "https://www.imdb.com/title/tt13609648/",
             "rating": 7.3,
-            "votes": 6989
+            "votes": 7863
           },
           "filmweb": {
             "id": "10087170",
@@ -408,7 +408,7 @@
               "Kostiumowy"
             ],
             "rating": 7.2,
-            "votes": 2792
+            "votes": 2891
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/sense_and_sensibility_2026",
@@ -420,7 +420,7 @@
             "criticsRating": 77,
             "criticsVotes": 133,
             "audienceRating": 89,
-            "audienceVotes": 785
+            "audienceVotes": 799
           }
         },
         "longDescription": "Rewizja klasycznej prozy Jane Austen, która debiutując w 1811 roku pod pseudonimem The Lady zaskoczyła czytelników bardziej ironicznym niż przesiąkniętym romantyzmem tonem, zjadliwym humorem i realistycznym obrazem epoki. Twórcy nowej ROZWAŻNEJ I ROMANTYCZNEJ nie tylko idą pierwotnym śladem niezmiennie uwielbianej pisarki, lecz także rozluźniają sznurowadła społecznego gorsetu, aby wydobyć motyw kobiecej emancypacji oraz siłę siostrzanej więzi. Wnikają przy tym w zawiłe niuanse georgiańskiej mentalności, odkrywając konflikt serca i rozwagi nie zawsze kończący się kliszą happy endu.\n\nWraz ze śmiercią pana Dashwooda jego trzy córki i druga żona zostają zmuszone do opuszczenia rodzinnej posiadłości. Zgodnie z dawnym angielskim prawem jego majątek dziedziczy męski spadkobierca, w tym przypadku syn z pierwszego małżeństwa. Siostry Dashwood zostają skazane na łaskę krewnych, mając świadomość jedynej akceptowanej społecznie drogi kobiecej stabilizacji – zamążpójścia. Najstarsze siostry, roztropna Elinor (oklaskiwana po występie w GDZIE ŚPIEWAJĄ RAKI Daisy Edgar-Jones) oraz podążająca za emocjami Marianne (znana z seriali HANNA i SANDMAN Esmé Creed-Miles), muszą sprostać oczekiwaniom drżącego przed etykietą środowiska i własnym dylematom serca.\n\nStojąca za kamerą Georgia Oakley (PTASZYNA, BLUE JEAN) po raz kolejny poraża wielką świadomością stylu zakorzenionego w wizualnym języku europejskich mistrzów, w tym francuskiej intymności czy wnikliwych obserwacjach ludzkich mechanizmów rodem z hiszpańskiego ekranu. Filmowe światy nominowanej do nagrody BAFTA brytyjskiej reżyserski przenika pewna doza zmysłowości, ale na próżno szukać w nich szablonowości czy upiększeń. Drogę do wciąż aktualnej problematyki społecznej wyznacza w nich kontekst historyczny, queerowa wrażliwość i psychologia postaci. Z pomocą australijskiej scenarzystki Diany Reid twórczynie przepuszczają przez realistyczny filtr ponadczasowe emocje i perypetie sióstr Dashwood poszukujących własnego miejsca w świecie.\n\nEN\n\nA fresh take on Jane Austen’s classic novel, first published in 1811 under the pseudonym “A Lady”, which surprised readers with a tone more ironic than romantic, a sharp wit and a clear-eyed portrait of its age. The makers of the new SENSE AND SENSIBILITY not only follow in the footsteps of the ever-beloved author, but also loosen the stays of social convention to bring female emancipation and the strength of sisterhood to the fore. At the same time, they delve into the intricacies of the Georgian mindset, exploring a conflict between feeling and reason that does not always resolve itself into the reassuring shape of a happy ending.\n\nAfter Mr Dashwood’s death, his second wife and three daughters are forced to leave the family estate. Under the inheritance laws of the time, his property passed to a male heir – in this case, his son from his first marriage. The Dashwood sisters are left dependent on the goodwill of relatives and acutely aware that marriage remains the only socially acceptable route to security. The two eldest, the sensible Elinor (Daisy Edgar-Jones, acclaimed for her performance in WHERE THE CRAWDADS SING) and the more impulsive Marianne (Esmé Creed-Miles, known from HANNA and THE SANDMAN), must navigate both the expectations of a society in thrall to etiquette and the complications of their own hearts.\n\nDirector Georgia Oakley (LITTLE BIRD, BLUE JEAN) once again displays a striking command of style, rooted in the visual language of European cinema – from French intimacy to the acute observation of human behaviour associated with Spanish film. A certain sensuality runs through the work of the BAFTA-nominated British filmmaker, yet there is little room for formula or prettification. Historical context, queer sensitivity and close attention to character psychology become her routes into social questions that remain strikingly relevant. Working with Australian screenwriter Diana Reid, Oakley refracts the timeless emotions and romantic entanglements of the Dashwood sisters through a realist lens as they search for a place of their own in the world.",
@@ -457,26 +457,26 @@
         "shortDescription": "Zainspirowany najsłynniejszą sztuką Williama Szekspira film w reżyserii Chloé Zhao jest wrażliwym i głębokim obrazem małżeństwa, próbującego ukształtować się na nowo po śmierci ukochanego dziecka. W rolach głównych zjawiskowy duet: Jessie Buckley oraz Paul Mescal.",
         "genres": [
           "Biograficzny",
-          "Kostiumowy",
-          "Dramat"
+          "Dramat",
+          "Kostiumowy"
         ],
         "external": {
           "imdb": {
             "id": "tt14905854",
             "url": "https://www.imdb.com/title/tt14905854/",
             "rating": 7.8,
-            "votes": 140638
+            "votes": 140834
           },
           "filmweb": {
             "id": "10035555",
             "url": "https://www.filmweb.pl/film/Hamnet-2025-10035555",
             "genres": [
               "Biograficzny",
-              "Kostiumowy",
-              "Dramat"
+              "Dramat",
+              "Kostiumowy"
             ],
             "rating": 7.6,
-            "votes": 30370
+            "votes": 30408
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/hamnet",
@@ -535,7 +535,7 @@
             "id": "tt7734244",
             "url": "https://www.imdb.com/title/tt7734244/",
             "rating": 6.2,
-            "votes": 6606
+            "votes": 6657
           },
           "filmweb": {
             "id": "10104409",
@@ -546,7 +546,7 @@
               "Przygodowy"
             ],
             "rating": 5.8,
-            "votes": 758
+            "votes": 759
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/the_magic_faraway_tree",
@@ -602,7 +602,7 @@
             "id": "tt36983905",
             "url": "https://www.imdb.com/title/tt36983905/",
             "rating": 6.2,
-            "votes": 13135
+            "votes": 13369
           },
           "filmweb": {
             "id": "10122362",
@@ -612,7 +612,7 @@
               "Akcja"
             ],
             "rating": 5.6,
-            "votes": 593
+            "votes": 595
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/the_uprising_2026",
@@ -667,7 +667,7 @@
             "id": "tt37363222",
             "url": "https://www.imdb.com/title/tt37363222/",
             "rating": 7.7,
-            "votes": 484
+            "votes": 493
           },
           "filmweb": {
             "id": "10112663",
@@ -686,7 +686,7 @@
               "Simon Stone"
             ],
             "criticsRating": 88,
-            "criticsVotes": 59,
+            "criticsVotes": 60,
             "audienceRating": null,
             "audienceVotes": null
           }
@@ -724,24 +724,24 @@
         "description": "Anglia, 1694 rok. Arogancki rysownik przyjmuje zlecenie na 12 rysunków posiadłości, a jego wynagrodzeniem mają być nie tylko pieniądze, ale i łoże pani domu. Na rycinach zaczynają jednak pojawiać się niepokojące szczegóły. Wytworny kryminał kostiumowy, w którym sztuka widzi więcej niż ludzkie oko.",
         "shortDescription": "Anglia, 1694 rok. Arogancki rysownik przyjmuje zlecenie na 12 rysunków posiadłości, a jego wynagrodzeniem mają być nie tylko pieniądze, ale i łoże pani domu. Na rycinach zaczynają jednak pojawiać się niepokojące szczegóły. Wytworny kryminał kostiumowy, w którym sztuka widzi więcej niż ludzkie oko.",
         "genres": [
+          "Dramat",
           "Komedia",
-          "Kostiumowy",
-          "Dramat"
+          "Kostiumowy"
         ],
         "external": {
           "imdb": {
             "id": "tt0083851",
             "url": "https://www.imdb.com/title/tt0083851/",
             "rating": 7.2,
-            "votes": 12171
+            "votes": 12175
           },
           "filmweb": {
             "id": "6845",
             "url": "https://www.filmweb.pl/film/Kontrakt+rysownika-1982-6845",
             "genres": [
+              "Dramat",
               "Komedia",
-              "Kostiumowy",
-              "Dramat"
+              "Kostiumowy"
             ],
             "rating": 7.5,
             "votes": 3417
@@ -866,7 +866,7 @@
             "id": "tt34819091",
             "url": "https://www.imdb.com/title/tt34819091/",
             "rating": 6.4,
-            "votes": 11105
+            "votes": 11125
           },
           "filmweb": {
             "id": "10090000",
@@ -876,7 +876,7 @@
               "Musical"
             ],
             "rating": 6,
-            "votes": 2452
+            "votes": 2456
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/the_testament_of_ann_lee",
@@ -924,25 +924,25 @@
         "description": "Aktorski popis Sir Iana McKellena (to on zainspirował powstanie scenariusza), Michaeli Coel, Jessiki Gunning i Jamesa Cordena w najnowszym filmie Stevena Soderbergha. Ekscytująca historia rozgrywająca się w świecie sztuki, pełna zarazem humoru i lekkości, jak i rodzinnych napięć i emocji. Prowokuje, pytając o różnicę między wartością a ceną. Pierwszy pokaz w Polsce.",
         "shortDescription": "Aktorski popis Sir Iana McKellena (to on zainspirował powstanie scenariusza), Michaeli Coel, Jessiki Gunning i Jamesa Cordena w najnowszym filmie Stevena Soderbergha. Ekscytująca historia rozgrywająca się w świecie sztuki, pełna zarazem humoru i lekkości, jak i rodzinnych napięć i emocji. Prowokuje, pytając o różnicę między wartością a ceną. Pierwszy pokaz w Polsce.",
         "genres": [
-          "Dramat",
-          "Komedia"
+          "Komedia",
+          "Dramat"
         ],
         "external": {
           "imdb": {
             "id": "tt34966562",
             "url": "https://www.imdb.com/title/tt34966562/",
             "rating": 6.8,
-            "votes": 6942
+            "votes": 6969
           },
           "filmweb": {
             "id": "10093695",
             "url": "https://www.filmweb.pl/film/Fa%C5%82szerka-2025-10093695",
             "genres": [
-              "Dramat",
-              "Komedia"
+              "Komedia",
+              "Dramat"
             ],
             "rating": 6,
-            "votes": 114
+            "votes": 116
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/the_christophers",
@@ -998,7 +998,7 @@
             "id": "tt0107943",
             "url": "https://www.imdb.com/title/tt0107943/",
             "rating": 7.8,
-            "votes": 94659
+            "votes": 94680
           },
           "filmweb": {
             "id": "1234",
@@ -1008,7 +1008,7 @@
               "Obyczajowy"
             ],
             "rating": 7.7,
-            "votes": 39653
+            "votes": 39677
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/remains_of_the_day",
@@ -1063,7 +1063,7 @@
             "id": "tt0448124",
             "url": "https://www.imdb.com/title/tt0448124/",
             "rating": 7.4,
-            "votes": 13927
+            "votes": 13929
           },
           "filmweb": {
             "id": "182553",
@@ -1128,7 +1128,7 @@
             "id": "tt35674521",
             "url": "https://www.imdb.com/title/tt35674521/",
             "rating": 6.2,
-            "votes": 3954
+            "votes": 3981
           },
           "filmweb": {
             "id": "10072340",
@@ -1138,7 +1138,7 @@
               "Sci-Fi"
             ],
             "rating": 6.9,
-            "votes": 678
+            "votes": 679
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/rose_of_nevada",
@@ -1187,9 +1187,9 @@
         "description": "Pełnometrażowy debiut reżyserski Shane’a Madowsa, w którym Bob Hoskins wciela się w rolę mentora, oferującego młodym ludziom alternatywę dla otaczającej beznadziei. W typowym angielskim miasteczku, poprzez sport, próbuje nauczyć ich twardych reguł życia, odpowiedzialności i wychować na dobrych ludzi.",
         "shortDescription": "Pełnometrażowy debiut reżyserski Shane’a Madowsa, w którym Bob Hoskins wciela się w rolę mentora, oferującego młodym ludziom alternatywę dla otaczającej beznadziei. W typowym angielskim miasteczku, poprzez sport, próbuje nauczyć ich twardych reguł życia, odpowiedzialności i wychować na dobrych ludzi.",
         "genres": [
-          "Sportowy",
           "Dramat",
-          "Komedia"
+          "Komedia",
+          "Sportowy"
         ],
         "external": {
           "imdb": {
@@ -1202,9 +1202,9 @@
             "id": "32922",
             "url": "https://www.filmweb.pl/film/Okr%C4%85g%C5%82y+tydzie%C5%84-1997-32922",
             "genres": [
-              "Sportowy",
               "Dramat",
-              "Komedia"
+              "Komedia",
+              "Sportowy"
             ],
             "rating": 7.1,
             "votes": 50
@@ -1301,7 +1301,7 @@
             "id": "tt36980182",
             "url": "https://www.imdb.com/title/tt36980182/",
             "rating": 7.1,
-            "votes": 2541
+            "votes": 2593
           },
           "filmweb": {
             "id": "10093682",
@@ -1310,7 +1310,7 @@
               "Komedia"
             ],
             "rating": 6.5,
-            "votes": 83
+            "votes": 84
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/the_incomer",
@@ -1322,7 +1322,7 @@
             "criticsRating": 95,
             "criticsVotes": 65,
             "audienceRating": 89,
-            "audienceVotes": 97
+            "audienceVotes": 98
           }
         },
         "longDescription": "Pokazywany jako premiera światowa na Sundance 2026 debiut fabularny Louisa Paxtona, zabiera nas na odległą i pozornie bezludną szkocką wyspę. Tak naprawdę zamieszkują ją dwie osoby. Jedynymi mieszkańcami tego miejsca jest rodzeństwo Isla i Sandy (w tych rolach wspaniali Gayle Rankin i Grant O’Rourke), którzy w całkowitej izolacji przed światem, rozmawiają z ptakami morskimi, są w kontakcie z mitycznymi folkowymi stworzeniami i noszą nieco zmęczone nordyckie swetry. Jednocześnie bronią swojej bastylii i ustalonego autorsko status quo, chroniąc się zaciekle przed obcymi przybyszami, którzy mogliby wtargnąć nieoczekiwanie do ich świata. Rzeczywistość rodzeństwa zmienia się całkowicie, kiedy na wyspę przybywa Daniel (Domhnall Gleeson) – niezdarny urzędnik, którego zadaniem jest wysiedlenie i przeniesienie ich na ląd. Przy tak ekscentrycznych charakterach, które na dodatek są na swoim terenie, łatwiej oczywiście jest to powiedzieć, niż realnie zrobić! Intruz początkowo popada w tarapaty, ale po kilku dniach (i specyficznym rytuale inicjacyjnym), ciekawość nowego wygrywa i następuje ocieplenie relacji. Daniel przecież przywozi ze sobą masę ciekawych opowieści z kontynentu: od magicznego Internetu, poprzez historię awokado lub próbę (nieskuteczną) wytłumaczenia, czym jest weganizm. Przynosi też przerwanie rutyny i ocieplenie międzyludzkich relacji oraz więzi. THE INCOMER to urocza i przezabawna interpretacja szkockiego folkloru wyspiarskiego, która mieszając sposoby narracji – od stosowania nie biorącego jeńców humoru, poprzez urocze wymiany zdań między bohaterami, zastosowanie animacji, pomysłowość scenariuszową i nadanie całości sznytu wręcz baśniowej opowieści – jest czystą przyjemnością podczas oglądania. Jednocześnie bohaterami tej zabawnej historii o obronie własnych wartości, są majestatyczne szkockie klify, zorza polarna, skarby, które przypłynęły na wyspę z falami i moce magiczne pogubionych czarodziejskich bohaterów. Jeśli szukać normalności, to dlaczego nie w przerażających kostiumach przypominających ptaki morskie, które jednocześnie skutecznie odstraszają niechcianych przybyszów, którzy nigdy nie zrozumieją kontekstu tego miejsca.\n\nEN\n\nPremiered at Sundance 2026, Louis Paxton’s feature debut takes us to a remote, seemingly deserted Scottish island. In fact, it has exactly two inhabitants: siblings Isla and Sandy (played with great flair by Gayle Rankin and Grant O’Rourke), who live in complete isolation from the outside world, talk to seabirds, commune with mythical folk creatures and wear slightly worn Nordic jumpers. At the same time, they fiercely defend their stronghold and carefully preserved status quo, keeping unwanted outsiders at bay.\n\nTheir world is turned upside down when Daniel (Domhnall Gleeson) arrives on the island. A hapless civil servant, he has been sent to evict the pair and relocate them to the mainland. With two such eccentric characters on home turf, that is rather easier said than done. At first, the intruder lands himself in trouble, but after a few days – and a rather unusual initiation ritual – curiosity gets the better of them, and relations begin to thaw. Daniel, after all, brings with him a wealth of stories from the mainland: from the wonders of the internet to the history of the avocado, not to mention an unsuccessful attempt to explain veganism. He also disrupts their routine and gradually brings warmth back into their relationships and everyday life.\n\nTHE INCOMER is a charming and very funny take on Scottish island folklore. Mixing modes of storytelling – from no-holds-barred humour and delightful exchanges between the characters to animation, playful writing and an almost fairy-tale quality – it is sheer fun to watch. The majestic Scottish cliffs, the Northern Lights, treasures washed ashore by the waves and the magical powers of wayward mythical figures are as much a part of this story about defending one’s values as the human characters themselves.\n\nAnd if normality is to be found anywhere, why not in terrifying seabird-like costumes that also happen to be remarkably effective at scaring off unwanted visitors who could never hope to understand the logic of this place?",
@@ -1366,7 +1366,7 @@
             "id": "tt27766440",
             "url": "https://www.imdb.com/title/tt27766440/",
             "rating": 6.6,
-            "votes": 7944
+            "votes": 7953
           },
           "filmweb": {
             "id": "10058778",
@@ -1376,7 +1376,7 @@
               "Psychologiczny"
             ],
             "rating": 6.8,
-            "votes": 6247
+            "votes": 6254
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/the_salt_path",
@@ -1424,25 +1424,25 @@
         "description": "W 1974 roku w dwóch pubach angielskiego Guildford wybuchły bomby – podłożyła je Irlandzka Armia Republikańska, przyjmując za cel odwiedzających lokale brytyjskich żołnierzy. Gerry Conlon, chłopak z Belfastu, był jednym z czwórki skazanych za ten zamach. Po 15 latach angielska prawniczka postanowiła wznowić proces i obnażyć nadużycia sądu w sprawie. Jim Sheridan przełożył tę historię na pełną pasji opowieść filmową, będącą zarówno oskarżeniem, jak i politycznym manifestem strony irlandzkiej.",
         "shortDescription": "W 1974 roku w dwóch pubach angielskiego Guildford wybuchły bomby – podłożyła je Irlandzka Armia Republikańska, przyjmując za cel odwiedzających lokale brytyjskich żołnierzy. Gerry Conlon, chłopak z Belfastu, był jednym z czwórki skazanych za ten zamach. Po 15 latach angielska prawniczka postanowiła wznowić proces i obnażyć nadużycia sądu w sprawie. Jim Sheridan przełożył tę historię na pełną pasji opowieść filmową, będącą zarówno oskarżeniem, jak i politycznym manifestem strony irlandzkiej.",
         "genres": [
-          "Biograficzny",
-          "Dramat obyczajowy"
+          "Dramat obyczajowy",
+          "Biograficzny"
         ],
         "external": {
           "imdb": {
             "id": "tt0107207",
             "url": "https://www.imdb.com/title/tt0107207/",
             "rating": 8.1,
-            "votes": 205500
+            "votes": 205529
           },
           "filmweb": {
             "id": "1231",
             "url": "https://www.filmweb.pl/film/W+imi%C4%99+ojca-1993-1231",
             "genres": [
-              "Biograficzny",
-              "Dramat obyczajowy"
+              "Dramat obyczajowy",
+              "Biograficzny"
             ],
             "rating": 8,
-            "votes": 54032
+            "votes": 54034
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/in_the_name_of_the_father",
@@ -1497,7 +1497,7 @@
             "id": "tt0477302",
             "url": "https://www.imdb.com/title/tt0477302/",
             "rating": 6.9,
-            "votes": 108531
+            "votes": 108543
           },
           "filmweb": {
             "id": "296427",
@@ -1506,7 +1506,7 @@
               "Dramat"
             ],
             "rating": 7.4,
-            "votes": 56916
+            "votes": 56917
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/extremely_loud_and_incredibly_close",
@@ -1561,7 +1561,7 @@
             "id": "tt32141377",
             "url": "https://www.imdb.com/title/tt32141377/",
             "rating": 7.2,
-            "votes": 133589
+            "votes": 133948
           },
           "filmweb": {
             "id": "10068169",
@@ -1570,7 +1570,7 @@
               "Horror"
             ],
             "rating": 6.8,
-            "votes": 20965
+            "votes": 21009
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/28_years_later_the_bone_temple",
@@ -1625,7 +1625,7 @@
             "id": "tt38991615",
             "url": "https://www.imdb.com/title/tt38991615/",
             "rating": 7.2,
-            "votes": 232
+            "votes": 234
           },
           "filmweb": {
             "id": "10121238",
@@ -1634,7 +1634,7 @@
               "Dramat"
             ],
             "rating": 6.8,
-            "votes": 341
+            "votes": 342
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/i_see_buildings_fall_like_lightning",
@@ -1682,24 +1682,24 @@
         "description": "Chcąc uporać się z przeszłością, ekscentryczny samotnik przeznacza ogromną wygraną na loterii, by reaktywować swój ulubiony duet muzyczny. Jego członków, którzy byli niegdyś parą i nie widzieli się od lat, zaprasza na odciętą od świata walijską wysepkę i zleca im zagranie kameralnego koncertu.",
         "shortDescription": "Chcąc uporać się z przeszłością, ekscentryczny samotnik przeznacza ogromną wygraną na loterii, by reaktywować swój ulubiony duet muzyczny. Jego członków, którzy byli niegdyś parą i nie widzieli się od lat, zaprasza na odciętą od świata walijską wysepkę i zleca im zagranie kameralnego koncertu.",
         "genres": [
-          "Komedia",
           "Dramat",
-          "Muzyczny"
+          "Muzyczny",
+          "Komedia"
         ],
         "external": {
           "imdb": {
             "id": "tt27674982",
             "url": "https://www.imdb.com/title/tt27674982/",
             "rating": 7.4,
-            "votes": 26458
+            "votes": 26469
           },
           "filmweb": {
             "id": "10070057",
             "url": "https://www.filmweb.pl/film/The+Ballad+of+Wallis+Island-2025-10070057",
             "genres": [
-              "Komedia",
               "Dramat",
-              "Muzyczny"
+              "Muzyczny",
+              "Komedia"
             ],
             "rating": 6.8,
             "votes": 997
@@ -1757,7 +1757,7 @@
             "id": "tt35521922",
             "url": "https://www.imdb.com/title/tt35521922/",
             "rating": 6.1,
-            "votes": 38690
+            "votes": 38759
           },
           "filmweb": {
             "id": "10064809",
@@ -1766,7 +1766,7 @@
               "Thriller"
             ],
             "rating": 7.2,
-            "votes": 15476
+            "votes": 15529
           },
           "rottenTomatoes": null
         },
@@ -1810,7 +1810,7 @@
             "id": "tt0419677",
             "url": "https://www.imdb.com/title/tt0419677/",
             "rating": 7.5,
-            "votes": 64343
+            "votes": 64352
           },
           "filmweb": {
             "id": "39701",

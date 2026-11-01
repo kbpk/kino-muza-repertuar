@@ -1,12 +1,12 @@
 {
   "schemaVersion": 1,
   "date": "2026-11-05",
-  "updatedAt": "2026-10-31T19:55:50.354Z",
+  "updatedAt": "2026-11-01T16:49:01.739Z",
   "source": "https://www.kinomuza.pl/repertoire/day/",
   "day": {
-    "id": "05",
+    "id": "04",
     "date": "05.11",
-    "now": "2026-10-31 20:55:31",
+    "now": "2026-11-01 17:47:04",
     "info": [],
     "repertoire": [
       {
@@ -48,7 +48,7 @@
             "id": "tt14371256",
             "url": "https://www.imdb.com/title/tt14371256/",
             "rating": 6.4,
-            "votes": 1758
+            "votes": 1990
           },
           "filmweb": {
             "id": "10035554",
@@ -58,7 +58,7 @@
               "Sci-Fi"
             ],
             "rating": 6.3,
-            "votes": 976
+            "votes": 1037
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/klara_and_the_sun",
@@ -68,9 +68,9 @@
               "Taika Waititi"
             ],
             "criticsRating": 26,
-            "criticsVotes": 89,
-            "audienceRating": 75,
-            "audienceVotes": 166
+            "criticsVotes": 90,
+            "audienceRating": 74,
+            "audienceVotes": 176
           }
         },
         "longDescription": "Film „Klara i słońce”, oparty na bestsellerowej powieści laureata Nagrody Nobla Kazuo Ishiguro.\n\nTo historia Klary (Jenna Ortega), robota zasilanego energią słoneczną, stworzonego po to, by wspierać i towarzyszyć ludziom w ich codziennym życiu.\n\nKiedy Klara poznaje Josie (Mia Tharia), każda z nich od razu wyczuwa w drugiej pokrewną duszę. Josie ma trudną relację ze swoją matką (Amy Adams), a to właśnie Klara zaczyna uzdrawiać rodzinę i wnosić światło do skomplikowanego świata Josie.\n\n„Klara i słońce” to pełna nadziei opowieść o przyjaźni w czasach, gdy technologia sprawia, że czujemy się coraz bardziej samotni.",
@@ -115,7 +115,7 @@
             "id": "tt13609648",
             "url": "https://www.imdb.com/title/tt13609648/",
             "rating": 7.3,
-            "votes": 6989
+            "votes": 7863
           },
           "filmweb": {
             "id": "10087170",
@@ -125,7 +125,7 @@
               "Kostiumowy"
             ],
             "rating": 7.2,
-            "votes": 2792
+            "votes": 2891
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/sense_and_sensibility_2026",
@@ -137,7 +137,7 @@
             "criticsRating": 77,
             "criticsVotes": 133,
             "audienceRating": 89,
-            "audienceVotes": 785
+            "audienceVotes": 799
           }
         },
         "longDescription": "Georgeia Oakley jest reżyserką nowej interpretacji  Rozważnej i romantycznej  Jane Austen. To produkcja Working Title, oparta na scenariuszu Diany Reid, w rolach głównych zobaczymy: Daisy Edgar-Jones, Esmé Creed-Miles, Caitríonę Balfe, Franka Dillane’a, Herberta Nordruma, Bodhi Rae Breathnach, George’a MacKaya oraz Fionę Shaw.\n\nAkcja, osadzona w Anglii epoki georgiańskiej, podąża za losami zamożnego pana Dashwooda, który umiera, pozostawiając swoją drugą żonę oraz trzy córki w trudnej sytuacji finansowej. Kobiety przenoszą się do skromnej wiejskiej posiadłości, gdzie dwie starsze siostry rywalizują o względy różnych adoratorów, poszukując prawdziwej miłości.\n\nProducentami filmu są: Tim Bevan i Eric Fellner z Working Title, a także India Flint z November Pictures oraz Jo Wallett z Kiddo Films. Working Title i Focus wcześniej współpracowały przy filmowej adaptacji  Dumy i uprzedzenia  z 2005 roku, która zdobyła cztery nominacje do Oscara, oraz przy kinowej wersji  Emmy  z 2020 roku.\n\nRozważna i romantyczna  trafiła na ekrany również w 1995 roku ze studia Sony Pictures Classics — film w reżyserii Anga Lee, ze scenariuszem Emmy Thompson, nagrodzonej Oscarem za najlepszy scenariusz adaptowany. Thompson zagrała także Elinor Dashwood, a Kate Winslet wcieliła się w Marianne. Produkcja otrzymała w sumie siedem nominacji do Oscara i zarobiła ponad 134 miliony dolarów na świecie.",
@@ -232,7 +232,7 @@
             "id": "tt45368240",
             "url": "https://www.imdb.com/title/tt45368240/",
             "rating": 9.2,
-            "votes": 20661
+            "votes": 22398
           },
           "filmweb": {
             "id": "10133825",
@@ -241,7 +241,7 @@
               "Dokumentalny"
             ],
             "rating": 8.7,
-            "votes": 4802
+            "votes": 5599
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/you_can_see_everything",
@@ -251,10 +251,10 @@
               "Nathan Fielder",
               "Lance Oppenheim"
             ],
-            "criticsRating": 97,
-            "criticsVotes": 201,
+            "criticsRating": 96,
+            "criticsVotes": 202,
             "audienceRating": 96,
-            "audienceVotes": 3379
+            "audienceVotes": 3489
           }
         },
         "longDescription": "Kinowe wydarzenie roku i zdecydowany kandydat do Oscarów. Wyreżyserowany przez Nathana Fieldera (twórcy „Próby generalnej” i „Klątwy”) oraz Lance’a Oppenheima („Primetime” z Robertem Pattinsonem), film bezczelnie zaciera granicę między fikcją a rzeczywistością.\n\nElizabeth Holmes, założycielka firmy Theranos i okrzyknięta „kobiecym Steve’em Jobsem” wizjonerka, została skazana na 11 lat więzienia za jedno z największych oszustw Doliny Krzemowej. Na 34 dni przed odbyciem kary w jej życie wkracza Nathan Fielder – bezkompromisowy komik i prowokator. Wprowadza się do jej domu, by obserwować ostatnie chwile wolności kobiety. Holmes twierdzi, że jest niewinna, i obiecuje, że kamera Fieldera ujawni prawdę, która wstrząśnie światem. Wypowiada tylko dwa słowa: „Zobaczysz wszystko”.\n\nTak zaczyna się epicka opowieść filmowa wymykająca się gatunkowym ramom. Co w tej grze jest szczerą spowiedzią, a co kolejnym, mistrzowskim oszustwem? Czegoś takiego jeszcze nie widzieliście.",

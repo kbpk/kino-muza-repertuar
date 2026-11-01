@@ -1,12 +1,12 @@
 {
   "schemaVersion": 1,
   "date": "2026-11-25",
-  "updatedAt": "2026-10-31T19:55:50.354Z",
+  "updatedAt": "2026-11-01T16:49:01.739Z",
   "source": "https://www.kinomuza.pl/repertoire/day/",
   "day": {
-    "id": "25",
+    "id": "24",
     "date": "25.11",
-    "now": "2026-10-31 20:55:41",
+    "now": "2026-11-01 17:47:18",
     "info": [],
     "repertoire": [
       {
@@ -47,7 +47,7 @@
             "id": "tt29271622",
             "url": "https://www.imdb.com/title/tt29271622/",
             "rating": 7.4,
-            "votes": 8599
+            "votes": 8603
           },
           "filmweb": {
             "id": "10075691",
@@ -104,9 +104,9 @@
         "description": "Odesa, 1926 rok. Miasto przeżywa niezwykły rozkwit – rozwijają się literatura, jazz, boks i przede wszystkim kino. Właśnie tutaj młody Oleksandr Dovzhenko stawia pierwsze kroki w świecie filmu.",
         "shortDescription": "Odesa, 1926 rok. Miasto przeżywa niezwykły rozkwit – rozwijają się literatura, jazz, boks i przede wszystkim kino. Właśnie tutaj młody Oleksandr Dovzhenko stawia pierwsze kroki w świecie filmu.",
         "genres": [
-          "Dramat",
           "Biograficzny",
-          "Historyczny"
+          "Historyczny",
+          "Dramat"
         ],
         "external": {
           "imdb": null,
@@ -114,9 +114,9 @@
             "id": "10136847",
             "url": "https://www.filmweb.pl/film/Dow%C5%BCenko.+Pierwsze+spojrzenie-2025-10136847",
             "genres": [
-              "Dramat",
               "Biograficzny",
-              "Historyczny"
+              "Historyczny",
+              "Dramat"
             ],
             "rating": 0,
             "votes": 0

@@ -1,12 +1,12 @@
 {
   "schemaVersion": 1,
   "date": "2026-11-10",
-  "updatedAt": "2026-10-31T19:55:50.354Z",
+  "updatedAt": "2026-11-01T16:49:01.739Z",
   "source": "https://www.kinomuza.pl/repertoire/day/",
   "day": {
-    "id": "10",
+    "id": "09",
     "date": "10.11",
-    "now": "2026-10-31 20:55:33",
+    "now": "2026-11-01 17:47:10",
     "info": [],
     "repertoire": [
       {
@@ -47,7 +47,7 @@
             "id": "tt37363222",
             "url": "https://www.imdb.com/title/tt37363222/",
             "rating": 7.7,
-            "votes": 484
+            "votes": 493
           },
           "filmweb": {
             "id": "10112663",
@@ -66,7 +66,7 @@
               "Simon Stone"
             ],
             "criticsRating": 88,
-            "criticsVotes": 59,
+            "criticsVotes": 60,
             "audienceRating": null,
             "audienceVotes": null
           }
@@ -112,7 +112,7 @@
             "id": "tt37363222",
             "url": "https://www.imdb.com/title/tt37363222/",
             "rating": 7.7,
-            "votes": 484
+            "votes": 493
           },
           "filmweb": {
             "id": "10112663",
@@ -131,7 +131,7 @@
               "Simon Stone"
             ],
             "criticsRating": 88,
-            "criticsVotes": 59,
+            "criticsVotes": 60,
             "audienceRating": null,
             "audienceVotes": null
           }
@@ -177,7 +177,7 @@
             "id": "tt31514146",
             "url": "https://www.imdb.com/title/tt31514146/",
             "rating": 8.3,
-            "votes": 71845
+            "votes": 72124
           },
           "filmweb": {
             "id": "10088817",
@@ -187,7 +187,7 @@
               "Dramat"
             ],
             "rating": 8,
-            "votes": 4955
+            "votes": 4970
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/i_swear_2025",
@@ -242,7 +242,7 @@
             "id": "tt38991615",
             "url": "https://www.imdb.com/title/tt38991615/",
             "rating": 7.2,
-            "votes": 232
+            "votes": 234
           },
           "filmweb": {
             "id": "10121238",
@@ -251,7 +251,7 @@
               "Dramat"
             ],
             "rating": 6.8,
-            "votes": 341
+            "votes": 342
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/i_see_buildings_fall_like_lightning",
@@ -308,7 +308,7 @@
             "id": "tt0365748",
             "url": "https://www.imdb.com/title/tt0365748/",
             "rating": 7.8,
-            "votes": 647358
+            "votes": 647515
           },
           "filmweb": {
             "id": "121881",
@@ -318,7 +318,7 @@
               "Komedia"
             ],
             "rating": 6.6,
-            "votes": 52113
+            "votes": 52115
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/shaun_of_the_dead",

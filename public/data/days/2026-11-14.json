@@ -1,12 +1,12 @@
 {
   "schemaVersion": 1,
   "date": "2026-11-14",
-  "updatedAt": "2026-10-31T19:55:50.354Z",
+  "updatedAt": "2026-11-01T16:49:01.739Z",
   "source": "https://www.kinomuza.pl/repertoire/day/",
   "day": {
-    "id": "14",
+    "id": "13",
     "date": "14.11",
-    "now": "2026-10-31 20:55:38",
+    "now": "2026-11-01 17:47:14",
     "info": [],
     "repertoire": [
       {
@@ -153,7 +153,7 @@
             "id": "tt36841161",
             "url": "https://www.imdb.com/title/tt36841161/",
             "rating": 7.1,
-            "votes": 2667
+            "votes": 2855
           },
           "filmweb": {
             "id": "10101144",
@@ -163,7 +163,7 @@
               "Familijny"
             ],
             "rating": 6.9,
-            "votes": 773
+            "votes": 817
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/shaun_the_sheep_the_beast_of_mossy_bottom",
@@ -223,7 +223,7 @@
             "id": "tt7734244",
             "url": "https://www.imdb.com/title/tt7734244/",
             "rating": 6.2,
-            "votes": 6606
+            "votes": 6657
           },
           "filmweb": {
             "id": "10104409",
@@ -234,7 +234,7 @@
               "Przygodowy"
             ],
             "rating": 5.8,
-            "votes": 758
+            "votes": 759
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/the_magic_faraway_tree",
@@ -282,24 +282,24 @@
         "description": "Minna i Flic to dwie wybitne uczennice szkoły z internatem, które wspólnie planują swoją przyszłość. Gdy odkrywają, że w ich perfekcyjnym życiorysie brakuje miłości, postanawiają potraktować zakochanie się jak kolejne dydaktyczne zadanie i stworzyć plan, który pozwoli im zdobyć romantyczne doświadczenie.",
         "shortDescription": "Minna i Flic to dwie wybitne uczennice szkoły z internatem, które wspólnie planują swoją przyszłość. Gdy odkrywają, że w ich perfekcyjnym życiorysie brakuje miłości, postanawiają potraktować zakochanie się jak kolejne dydaktyczne zadanie i stworzyć plan, który pozwoli im zdobyć romantyczne doświadczenie.",
         "genres": [
-          "Romans",
           "Dramat",
-          "Komedia"
+          "Komedia",
+          "Romans"
         ],
         "external": {
           "imdb": {
             "id": "tt34798706",
             "url": "https://www.imdb.com/title/tt34798706/",
             "rating": 6.9,
-            "votes": 204
+            "votes": 205
           },
           "filmweb": {
             "id": "10109750",
             "url": "https://www.filmweb.pl/film/Extra+Geography-2026-10109750",
             "genres": [
-              "Romans",
               "Dramat",
-              "Komedia"
+              "Komedia",
+              "Romans"
             ],
             "rating": 6.9,
             "votes": 39
@@ -357,7 +357,7 @@
             "id": "tt0039192",
             "url": "https://www.imdb.com/title/tt0039192/",
             "rating": 7.7,
-            "votes": 32041
+            "votes": 32050
           },
           "filmweb": {
             "id": "111145",
@@ -422,7 +422,7 @@
             "id": "tt27811182",
             "url": "https://www.imdb.com/title/tt27811182/",
             "rating": 7.3,
-            "votes": 102
+            "votes": 103
           },
           "filmweb": {
             "id": "10112672",
@@ -487,7 +487,7 @@
             "id": "tt0114134",
             "url": "https://www.imdb.com/title/tt0114134/",
             "rating": 6.5,
-            "votes": 14376
+            "votes": 14377
           },
           "filmweb": {
             "id": "10738",
@@ -497,7 +497,7 @@
               "Obyczajowy"
             ],
             "rating": 7.2,
-            "votes": 5902
+            "votes": 5903
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/the_pillow_book",
@@ -553,7 +553,7 @@
             "id": "tt34819091",
             "url": "https://www.imdb.com/title/tt34819091/",
             "rating": 6.4,
-            "votes": 11105
+            "votes": 11125
           },
           "filmweb": {
             "id": "10090000",
@@ -563,7 +563,7 @@
               "Musical"
             ],
             "rating": 6,
-            "votes": 2452
+            "votes": 2456
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/the_testament_of_ann_lee",
@@ -621,7 +621,7 @@
             "id": "tt2062622",
             "url": "https://www.imdb.com/title/tt2062622/",
             "rating": 4.8,
-            "votes": 2177
+            "votes": 2179
           },
           "filmweb": {
             "id": "633588",
@@ -675,7 +675,7 @@
             "id": "tt0212380",
             "url": "https://www.imdb.com/title/tt0212380/",
             "rating": 6.2,
-            "votes": 9687
+            "votes": 9691
           },
           "filmweb": {
             "id": "30869",
@@ -739,7 +739,7 @@
             "id": "tt35521922",
             "url": "https://www.imdb.com/title/tt35521922/",
             "rating": 6.1,
-            "votes": 38690
+            "votes": 38759
           },
           "filmweb": {
             "id": "10064809",
@@ -748,7 +748,7 @@
               "Thriller"
             ],
             "rating": 7.2,
-            "votes": 15476
+            "votes": 15529
           },
           "rottenTomatoes": null
         },
@@ -842,7 +842,7 @@
             "id": "tt0249462",
             "url": "https://www.imdb.com/title/tt0249462/",
             "rating": 7.7,
-            "votes": 154395
+            "votes": 154416
           },
           "filmweb": {
             "id": "1471",
@@ -853,7 +853,7 @@
               "Komedia"
             ],
             "rating": 7.6,
-            "votes": 150757
+            "votes": 150760
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/billy_elliot",
@@ -902,26 +902,26 @@
         "shortDescription": "Zainspirowany najsłynniejszą sztuką Williama Szekspira film w reżyserii Chloé Zhao jest wrażliwym i głębokim obrazem małżeństwa, próbującego ukształtować się na nowo po śmierci ukochanego dziecka. W rolach głównych zjawiskowy duet: Jessie Buckley oraz Paul Mescal.",
         "genres": [
           "Biograficzny",
-          "Kostiumowy",
-          "Dramat"
+          "Dramat",
+          "Kostiumowy"
         ],
         "external": {
           "imdb": {
             "id": "tt14905854",
             "url": "https://www.imdb.com/title/tt14905854/",
             "rating": 7.8,
-            "votes": 140638
+            "votes": 140834
           },
           "filmweb": {
             "id": "10035555",
             "url": "https://www.filmweb.pl/film/Hamnet-2025-10035555",
             "genres": [
               "Biograficzny",
-              "Kostiumowy",
-              "Dramat"
+              "Dramat",
+              "Kostiumowy"
             ],
             "rating": 7.6,
-            "votes": 30370
+            "votes": 30408
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/hamnet",
@@ -969,25 +969,25 @@
         "description": "Trzy Cissie Colpitts, trzy pokolenia kobiet i trzech mężów, których trzeba się pozbyć. Koroner Madgett tuszuje zgony, a jego syn Smut wymyśla gry o coraz bardziej ezoterycznych zasadach. Wśród ślimaków oblepiających kadry Greenaway pokazuje śmierć bez ohydy – jako naturalną część cyklu życia.",
         "shortDescription": "Trzy Cissie Colpitts, trzy pokolenia kobiet i trzech mężów, których trzeba się pozbyć. Koroner Madgett tuszuje zgony, a jego syn Smut wymyśla gry o coraz bardziej ezoterycznych zasadach. Wśród ślimaków oblepiających kadry Greenaway pokazuje śmierć bez ohydy – jako naturalną część cyklu życia.",
         "genres": [
-          "Dramat",
-          "Komedia kryminalna"
+          "Komedia kryminalna",
+          "Dramat"
         ],
         "external": {
           "imdb": {
             "id": "tt0092929",
             "url": "https://www.imdb.com/title/tt0092929/",
             "rating": 7.1,
-            "votes": 10709
+            "votes": 10712
           },
           "filmweb": {
             "id": "5214",
             "url": "https://www.filmweb.pl/film/Wyliczanka-1988-5214",
             "genres": [
-              "Dramat",
-              "Komedia kryminalna"
+              "Komedia kryminalna",
+              "Dramat"
             ],
             "rating": 7.5,
-            "votes": 2444
+            "votes": 2445
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/drowning-by-numbers",
@@ -1043,7 +1043,7 @@
             "id": "tt13609648",
             "url": "https://www.imdb.com/title/tt13609648/",
             "rating": 7.3,
-            "votes": 6989
+            "votes": 7863
           },
           "filmweb": {
             "id": "10087170",
@@ -1053,7 +1053,7 @@
               "Kostiumowy"
             ],
             "rating": 7.2,
-            "votes": 2792
+            "votes": 2891
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/sense_and_sensibility_2026",
@@ -1065,7 +1065,7 @@
             "criticsRating": 77,
             "criticsVotes": 133,
             "audienceRating": 89,
-            "audienceVotes": 785
+            "audienceVotes": 799
           }
         },
         "longDescription": "Rewizja klasycznej prozy Jane Austen, która debiutując w 1811 roku pod pseudonimem The Lady zaskoczyła czytelników bardziej ironicznym niż przesiąkniętym romantyzmem tonem, zjadliwym humorem i realistycznym obrazem epoki. Twórcy nowej ROZWAŻNEJ I ROMANTYCZNEJ nie tylko idą pierwotnym śladem niezmiennie uwielbianej pisarki, lecz także rozluźniają sznurowadła społecznego gorsetu, aby wydobyć motyw kobiecej emancypacji oraz siłę siostrzanej więzi. Wnikają przy tym w zawiłe niuanse georgiańskiej mentalności, odkrywając konflikt serca i rozwagi nie zawsze kończący się kliszą happy endu.\n\nWraz ze śmiercią pana Dashwooda jego trzy córki i druga żona zostają zmuszone do opuszczenia rodzinnej posiadłości. Zgodnie z dawnym angielskim prawem jego majątek dziedziczy męski spadkobierca, w tym przypadku syn z pierwszego małżeństwa. Siostry Dashwood zostają skazane na łaskę krewnych, mając świadomość jedynej akceptowanej społecznie drogi kobiecej stabilizacji – zamążpójścia. Najstarsze siostry, roztropna Elinor (oklaskiwana po występie w GDZIE ŚPIEWAJĄ RAKI Daisy Edgar-Jones) oraz podążająca za emocjami Marianne (znana z seriali HANNA i SANDMAN Esmé Creed-Miles), muszą sprostać oczekiwaniom drżącego przed etykietą środowiska i własnym dylematom serca.\n\nStojąca za kamerą Georgia Oakley (PTASZYNA, BLUE JEAN) po raz kolejny poraża wielką świadomością stylu zakorzenionego w wizualnym języku europejskich mistrzów, w tym francuskiej intymności czy wnikliwych obserwacjach ludzkich mechanizmów rodem z hiszpańskiego ekranu. Filmowe światy nominowanej do nagrody BAFTA brytyjskiej reżyserski przenika pewna doza zmysłowości, ale na próżno szukać w nich szablonowości czy upiększeń. Drogę do wciąż aktualnej problematyki społecznej wyznacza w nich kontekst historyczny, queerowa wrażliwość i psychologia postaci. Z pomocą australijskiej scenarzystki Diany Reid twórczynie przepuszczają przez realistyczny filtr ponadczasowe emocje i perypetie sióstr Dashwood poszukujących własnego miejsca w świecie.\n\nEN\n\nA fresh take on Jane Austen’s classic novel, first published in 1811 under the pseudonym “A Lady”, which surprised readers with a tone more ironic than romantic, a sharp wit and a clear-eyed portrait of its age. The makers of the new SENSE AND SENSIBILITY not only follow in the footsteps of the ever-beloved author, but also loosen the stays of social convention to bring female emancipation and the strength of sisterhood to the fore. At the same time, they delve into the intricacies of the Georgian mindset, exploring a conflict between feeling and reason that does not always resolve itself into the reassuring shape of a happy ending.\n\nAfter Mr Dashwood’s death, his second wife and three daughters are forced to leave the family estate. Under the inheritance laws of the time, his property passed to a male heir – in this case, his son from his first marriage. The Dashwood sisters are left dependent on the goodwill of relatives and acutely aware that marriage remains the only socially acceptable route to security. The two eldest, the sensible Elinor (Daisy Edgar-Jones, acclaimed for her performance in WHERE THE CRAWDADS SING) and the more impulsive Marianne (Esmé Creed-Miles, known from HANNA and THE SANDMAN), must navigate both the expectations of a society in thrall to etiquette and the complications of their own hearts.\n\nDirector Georgia Oakley (LITTLE BIRD, BLUE JEAN) once again displays a striking command of style, rooted in the visual language of European cinema – from French intimacy to the acute observation of human behaviour associated with Spanish film. A certain sensuality runs through the work of the BAFTA-nominated British filmmaker, yet there is little room for formula or prettification. Historical context, queer sensitivity and close attention to character psychology become her routes into social questions that remain strikingly relevant. Working with Australian screenwriter Diana Reid, Oakley refracts the timeless emotions and romantic entanglements of the Dashwood sisters through a realist lens as they search for a place of their own in the world.",
@@ -1108,7 +1108,7 @@
             "id": "tt0050280",
             "url": "https://www.imdb.com/title/tt0050280/",
             "rating": 7,
-            "votes": 15301
+            "votes": 15321
           },
           "filmweb": {
             "id": "112951",
@@ -1173,7 +1173,7 @@
             "id": "tt27766440",
             "url": "https://www.imdb.com/title/tt27766440/",
             "rating": 6.6,
-            "votes": 7944
+            "votes": 7953
           },
           "filmweb": {
             "id": "10058778",
@@ -1183,7 +1183,7 @@
               "Psychologiczny"
             ],
             "rating": 6.8,
-            "votes": 6247
+            "votes": 6254
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/the_salt_path",
@@ -1231,25 +1231,25 @@
         "description": "Aktorski popis Sir Iana McKellena (to on zainspirował powstanie scenariusza), Michaeli Coel, Jessiki Gunning i Jamesa Cordena w najnowszym filmie Stevena Soderbergha. Ekscytująca historia rozgrywająca się w świecie sztuki, pełna zarazem humoru i lekkości, jak i rodzinnych napięć i emocji. Prowokuje, pytając o różnicę między wartością a ceną. Pierwszy pokaz w Polsce.",
         "shortDescription": "Aktorski popis Sir Iana McKellena (to on zainspirował powstanie scenariusza), Michaeli Coel, Jessiki Gunning i Jamesa Cordena w najnowszym filmie Stevena Soderbergha. Ekscytująca historia rozgrywająca się w świecie sztuki, pełna zarazem humoru i lekkości, jak i rodzinnych napięć i emocji. Prowokuje, pytając o różnicę między wartością a ceną. Pierwszy pokaz w Polsce.",
         "genres": [
-          "Dramat",
-          "Komedia"
+          "Komedia",
+          "Dramat"
         ],
         "external": {
           "imdb": {
             "id": "tt34966562",
             "url": "https://www.imdb.com/title/tt34966562/",
             "rating": 6.8,
-            "votes": 6942
+            "votes": 6969
           },
           "filmweb": {
             "id": "10093695",
             "url": "https://www.filmweb.pl/film/Fa%C5%82szerka-2025-10093695",
             "genres": [
-              "Dramat",
-              "Komedia"
+              "Komedia",
+              "Dramat"
             ],
             "rating": 6,
-            "votes": 114
+            "votes": 116
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/the_christophers",
@@ -1304,7 +1304,7 @@
             "id": "tt27541205",
             "url": "https://www.imdb.com/title/tt27541205/",
             "rating": 7.6,
-            "votes": 791
+            "votes": 834
           },
           "filmweb": {
             "id": "10034624",
@@ -1313,7 +1313,7 @@
               "Dramat"
             ],
             "rating": 7.3,
-            "votes": 528
+            "votes": 530
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/queen_at_sea",
@@ -1325,7 +1325,7 @@
             "criticsRating": 91,
             "criticsVotes": 45,
             "audienceRating": null,
-            "audienceVotes": 2
+            "audienceVotes": 4
           }
         },
         "longDescription": "Lance Hammer doskonale wie, jak skupić uwagę widowni na swojej opowieści już od pierwszych minut. Podczas gdy wiele produkcji stara się przygotować dla nas emocjonalny rollercoaster w finale, reżyser DALEKO OD BRZEGU stawia na scenę otwierającą, która wwierca się w głowę i zostawia z pytaniem: „Dlaczego?” Całe szczęście Hammer to odpowiedzialny twórca, który po zszokowaniu widowni, skrupulatnie dokłada kolejne cegiełki narracyjne i eksploruje tkankę moralną trudnych zdarzeń w życiu rodziny Amandy (Juliette Binoche).\n\nKobieta regularnie odwiedza swoją matkę Leslie (Anna Calder-Marshall), która cierpi na bardzo zaawansowaną demencję. Nie jest jednak sama w roli opiekunki. Bardzo zaangażowany w dbanie o schorowaną kobietę jest również jej drugi mąż Martin (Tom Courtenay). Pewnego razu Amanda dokonuje odkrycia, które staje się kością niezgody pomiędzy nią a ojczymem. Wspólnie mierzą się z ogromnym dylematem moralnym, uniemożliwiającym odnalezienia łatwych odpowiedzi.\n\nDALEKO OD BRZEGU jest pozornie wyciszonym, chłodnym filmem zanurzonym w ponurym londyńskim otoczeniu, co akcentują świetne zdjęcia Adolpha Veloso (SNY O POCIĄGACH). Jednak spod tej warstwy wizualnej wydobywają się błagania o odnalezienie recepty na niewyobrażalnie ciężką chorobę. Hammer, który w wyniku obszernych poszukiwań historii o członkach rodzin cierpiących na demencję, decyduje się, aby pozostać nieoceniającym obserwatorem bez roszczeń do deklarowania kategorycznego stanowiska. Jest świadomy złożoności problemu odczytywania potrzeb osób, które straciły umiejętność komunikowania swoich uczuć i granic, a jednocześnie rozumie potrzebę bliskości i okazywania miłości choremu. Dzięki drugoplanowym rolom Courtenaya i Calder-Marshall (nagrodzeni Srebrnym Niedźwiedziem na Berlinale) ta refleksja przybiera na naszych oczach w siłę.\n\nPokaz 14.11 z AD SDH PJM\n\nEN\n\nLance Hammer knows exactly how to seize the audience’s attention from the very first minutes. While many films save their emotional rollercoaster for the finale, the director of QUEEN AT SEA opens with a scene that lodges itself in the mind and leaves us with a single question: why? Thankfully, Hammer is a responsible filmmaker. Having shaken the audience, he painstakingly begins to fill in the narrative gaps, probing the moral fabric of the difficult events unfolding within Amanda’s (Juliette Binoche) family.\n\nAmanda regularly visits her mother Leslie (Anna Calder-Marshall), who is living with advanced dementia. However, she is not the only person caring for her. Leslie’s second husband, Martin (Tom Courtenay), is equally devoted to looking after her. One day, Amanda makes a discovery that drives a wedge between her and her stepfather. They must face a significant moral dilemma without easy answers.\n\nOn the surface, QUEEN AT SEA is a restrained, coolly observed film steeped in the gloom of its London setting, captured in Adolpho Veloso’s superb cinematography (TRAIN DREAMS). Beneath that visual austerity, however, lies a desperate search for some way of grappling with an unimaginably cruel illness. Having carried out extensive research into the experiences of families affected by dementia, Hammer chooses to remain a non-judgemental observer rather than impose a categorical position of his own. He recognises the complexity of interpreting the needs of people who have lost the ability to communicate their feelings and boundaries, while also understanding the human need for closeness and for expressing love towards someone who is ill.\n\nThanks to the supporting performances of Courtenay and Calder-Marshall, both of whom received the Silver Bear at the Berlinale, this reflection gains ever greater emotional force before our eyes.",
@@ -1361,22 +1361,22 @@
         "description": "Danny Bolye opowiada historię niczym z pierwszych stron gazet. W roku 1969 Rupert Murdoch (Guy Pearce) wykupił tabloid „The Sun” i zatrudnił jako naczelnego Larry’ego Lamba (Jack O&#8217;Connell). W efekcie powstało medialne imperium, które zmieniło na zawsze brytyjskie dziennikarstwo i społeczeństwo.",
         "shortDescription": "Danny Bolye opowiada historię niczym z pierwszych stron gazet. W roku 1969 Rupert Murdoch (Guy Pearce) wykupił tabloid „The Sun” i zatrudnił jako naczelnego Larry’ego Lamba (Jack O&#8217;Connell). W efekcie powstało medialne imperium, które zmieniło na zawsze brytyjskie dziennikarstwo i społeczeństwo.",
         "genres": [
-          "Dramat",
-          "Biograficzny"
+          "Biograficzny",
+          "Dramat"
         ],
         "external": {
           "imdb": {
             "id": "tt37967547",
             "url": "https://www.imdb.com/title/tt37967547/",
             "rating": 6.9,
-            "votes": 552
+            "votes": 562
           },
           "filmweb": {
             "id": "10100972",
             "url": "https://www.filmweb.pl/film/Tabloid-2026-10100972",
             "genres": [
-              "Dramat",
-              "Biograficzny"
+              "Biograficzny",
+              "Dramat"
             ],
             "rating": 6.6,
             "votes": 133
@@ -1434,7 +1434,7 @@
             "id": "tt10329560",
             "url": "https://www.imdb.com/title/tt10329560/",
             "rating": 6.6,
-            "votes": 2885
+            "votes": 2894
           },
           "filmweb": {
             "id": "10048300",
@@ -1443,7 +1443,7 @@
               "Dramat"
             ],
             "rating": 5.9,
-            "votes": 191
+            "votes": 192
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/h_is_for_hawk",
@@ -1454,8 +1454,8 @@
             ],
             "criticsRating": 82,
             "criticsVotes": 104,
-            "audienceRating": 75,
-            "audienceVotes": 135
+            "audienceRating": 74,
+            "audienceVotes": 136
           }
         },
         "longDescription": "Pamiętacie przepięknego jastrzębia z HAMNETA, czuwającego przy Jessie Buckley? Ten ptak ponownie staje się bohaterem poruszającej historii o nieumiejętności przejścia przez żałobę, ale tym razem ma kluczową rolę. M JAK MABEL to zaskakująco kojąca i głęboko spirytualna produkcja Philippy Lowthorpe oparta na prawdziwych wspomnieniach przyrodniczki Helen Macdonald (w tej roli uwielbiana z THE CROWN Claire Foy).\n\nHelen nieoczekiwanie traci ojca (Brendan Gleeson) – cenionego fotografa prasowego i człowieka zakochanego w cudach świata. Jego córce traci poczucie sensu zawodowego, dystansuje się od rodziny i staje się coraz bardziej samotna. Jej życie zmienia się, gdy przygarnia majestatycznego jastrzębia, którego nazywa Mabel (z łaciny: „godna kochania”). Helen poświęca się całkowicie pielęgnowaniu jastrzębia, nawiązując z nim wyjątkową więź z nadzieją, że złagodzi jej cierpienie i pomoże uciec od frustrującej codzienności. Pojawiają się jednak obawy czy kobieta nie utożsamia się za bardzo z Mabel i traci kontakt z cywilizacją na rzecz natury.\n\nFilm Philippy Lowthorpe to czuła podróż po wspomnieniach bohaterki, doskonale zagranej przez Foy, łączącej w sobie tamowany potok przygnębienia i zachwyt nad dzikością natury. Ujęć na polującą Mabel nie powstydziliby się twórcy filmów przyrodniczych z Sir Davidem Attenborough, a Lowthorpe w przemyślany sposób przedstawia motyw ptaka jako ucieczki od trudnej rzeczywistości w duchu tradycji loachowskiego KESA. M JAK MABEL to budząca emocje lekcja wzbicia się ku wolności dla człowieka, którego paraliżuje żałoba i zaniedbanie samego siebie.\n\nEN\n\nRemember the magnificent hawk keeping watch beside Jessie Buckley in HAMNET? A bird of prey once again takes centre stage in a story about grief, but this time it becomes far more than a striking presence. Philippa Lowthorpe’s H IS FOR HAWK, based on the memoir by naturalist Helen Macdonald, is a surprisingly comforting and deeply spiritual story of loss, solitude and an extraordinary bond with the wild. Claire Foy, beloved for THE CROWN, stars as Helen.\n\nAfter the sudden death of her father (Brendan Gleeson), a respected photojournalist with an infectious sense of wonder about the world, Helen begins to lose her footing. Her work feels increasingly meaningless; she withdraws from her family and loneliness closes in. Everything changes when she takes on a magnificent goshawk and names her Mabel – from the Latin for “lovable”. Helen throws herself into training the bird, and an intense bond begins to form between them. She comes to see Mabel as both refuge and guide, hoping that life alongside this fierce, untamed creature might ease her grief and teach her how to inhabit the world again. But as Helen retreats further into Mabel’s world, a troubling question emerges: is she finding her way back to life, or disappearing into the wild?\n\nLowthorpe turns Helen’s memories into an intimate journey through mourning, anchored by Foy’s finely judged performance, in which barely contained sadness sits alongside an almost childlike awe at the natural world. The sequences of Mabel in flight and on the hunt have the arresting beauty of the finest wildlife filmmaking, while the hawk itself becomes a way of escaping a reality Helen can no longer bear – recalling the British tradition of KES.\n\nH IS FOR HAWK is ultimately a deeply affecting story about a person paralysed by grief learning, slowly and painfully, to take flight again.",
@@ -1498,7 +1498,7 @@
             "id": "tt32141377",
             "url": "https://www.imdb.com/title/tt32141377/",
             "rating": 7.2,
-            "votes": 133589
+            "votes": 133948
           },
           "filmweb": {
             "id": "10068169",
@@ -1507,7 +1507,7 @@
               "Horror"
             ],
             "rating": 6.8,
-            "votes": 20965
+            "votes": 21009
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/28_years_later_the_bone_temple",
@@ -1563,7 +1563,7 @@
             "id": "tt35674521",
             "url": "https://www.imdb.com/title/tt35674521/",
             "rating": 6.2,
-            "votes": 3954
+            "votes": 3981
           },
           "filmweb": {
             "id": "10072340",
@@ -1573,7 +1573,7 @@
               "Sci-Fi"
             ],
             "rating": 6.9,
-            "votes": 678
+            "votes": 679
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/rose_of_nevada",
@@ -1629,7 +1629,7 @@
             "id": "tt9362736",
             "url": "https://www.imdb.com/title/tt9362736/",
             "rating": 6,
-            "votes": 50769
+            "votes": 50825
           },
           "filmweb": {
             "id": "10023025",
@@ -1639,7 +1639,7 @@
               "Psychologiczny"
             ],
             "rating": 5.8,
-            "votes": 12641
+            "votes": 12660
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/die_my_love_2025",
@@ -1687,24 +1687,24 @@
         "description": "Chcąc uporać się z przeszłością, ekscentryczny samotnik przeznacza ogromną wygraną na loterii, by reaktywować swój ulubiony duet muzyczny. Jego członków, którzy byli niegdyś parą i nie widzieli się od lat, zaprasza na odciętą od świata walijską wysepkę i zleca im zagranie kameralnego koncertu.",
         "shortDescription": "Chcąc uporać się z przeszłością, ekscentryczny samotnik przeznacza ogromną wygraną na loterii, by reaktywować swój ulubiony duet muzyczny. Jego członków, którzy byli niegdyś parą i nie widzieli się od lat, zaprasza na odciętą od świata walijską wysepkę i zleca im zagranie kameralnego koncertu.",
         "genres": [
-          "Komedia",
           "Dramat",
-          "Muzyczny"
+          "Muzyczny",
+          "Komedia"
         ],
         "external": {
           "imdb": {
             "id": "tt27674982",
             "url": "https://www.imdb.com/title/tt27674982/",
             "rating": 7.4,
-            "votes": 26458
+            "votes": 26469
           },
           "filmweb": {
             "id": "10070057",
             "url": "https://www.filmweb.pl/film/The+Ballad+of+Wallis+Island-2025-10070057",
             "genres": [
-              "Komedia",
               "Dramat",
-              "Muzyczny"
+              "Muzyczny",
+              "Komedia"
             ],
             "rating": 6.8,
             "votes": 997
@@ -1826,7 +1826,7 @@
             "id": "tt0101595",
             "url": "https://www.imdb.com/title/tt0101595/",
             "rating": 6.2,
-            "votes": 4002
+            "votes": 4003
           },
           "filmweb": {
             "id": "11886",
@@ -1890,7 +1890,7 @@
             "id": "tt32321317",
             "url": "https://www.imdb.com/title/tt32321317/",
             "rating": 6.9,
-            "votes": 25401
+            "votes": 25456
           },
           "filmweb": {
             "id": "10053146",
@@ -1899,7 +1899,7 @@
               "Melodramat"
             ],
             "rating": 6.5,
-            "votes": 6289
+            "votes": 6300
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/pillion",

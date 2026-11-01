@@ -1,12 +1,12 @@
 {
   "schemaVersion": 1,
   "date": "2026-11-12",
-  "updatedAt": "2026-10-31T19:55:50.354Z",
+  "updatedAt": "2026-11-01T16:49:01.739Z",
   "source": "https://www.kinomuza.pl/repertoire/day/",
   "day": {
-    "id": "12",
+    "id": "11",
     "date": "12.11",
-    "now": "2026-10-31 20:55:35",
+    "now": "2026-11-01 17:47:11",
     "info": [],
     "repertoire": [
       {
@@ -103,24 +103,24 @@
         "description": "Chcąc uporać się z przeszłością, ekscentryczny samotnik przeznacza ogromną wygraną na loterii, by reaktywować swój ulubiony duet muzyczny. Jego członków, którzy byli niegdyś parą i nie widzieli się od lat, zaprasza na odciętą od świata walijską wysepkę i zleca im zagranie kameralnego koncertu.",
         "shortDescription": "Chcąc uporać się z przeszłością, ekscentryczny samotnik przeznacza ogromną wygraną na loterii, by reaktywować swój ulubiony duet muzyczny. Jego członków, którzy byli niegdyś parą i nie widzieli się od lat, zaprasza na odciętą od świata walijską wysepkę i zleca im zagranie kameralnego koncertu.",
         "genres": [
-          "Komedia",
           "Dramat",
-          "Muzyczny"
+          "Muzyczny",
+          "Komedia"
         ],
         "external": {
           "imdb": {
             "id": "tt27674982",
             "url": "https://www.imdb.com/title/tt27674982/",
             "rating": 7.4,
-            "votes": 26458
+            "votes": 26469
           },
           "filmweb": {
             "id": "10070057",
             "url": "https://www.filmweb.pl/film/The+Ballad+of+Wallis+Island-2025-10070057",
             "genres": [
-              "Komedia",
               "Dramat",
-              "Muzyczny"
+              "Muzyczny",
+              "Komedia"
             ],
             "rating": 6.8,
             "votes": 997
@@ -176,7 +176,7 @@
             "id": "tt0252444",
             "url": "https://www.imdb.com/title/tt0252444/",
             "rating": 7.4,
-            "votes": 31910
+            "votes": 31915
           },
           "filmweb": null,
           "rottenTomatoes": null
@@ -274,7 +274,7 @@
             "id": "tt32321317",
             "url": "https://www.imdb.com/title/tt32321317/",
             "rating": 6.9,
-            "votes": 25401
+            "votes": 25456
           },
           "filmweb": {
             "id": "10053146",
@@ -283,7 +283,7 @@
               "Melodramat"
             ],
             "rating": 6.5,
-            "votes": 6289
+            "votes": 6300
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/pillion",
@@ -339,7 +339,7 @@
             "id": "tt27766440",
             "url": "https://www.imdb.com/title/tt27766440/",
             "rating": 6.6,
-            "votes": 7944
+            "votes": 7953
           },
           "filmweb": {
             "id": "10058778",
@@ -349,7 +349,7 @@
               "Psychologiczny"
             ],
             "rating": 6.8,
-            "votes": 6247
+            "votes": 6254
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/the_salt_path",
@@ -459,7 +459,7 @@
             "id": "tt38991615",
             "url": "https://www.imdb.com/title/tt38991615/",
             "rating": 7.2,
-            "votes": 232
+            "votes": 234
           },
           "filmweb": {
             "id": "10121238",
@@ -468,7 +468,7 @@
               "Dramat"
             ],
             "rating": 6.8,
-            "votes": 341
+            "votes": 342
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/i_see_buildings_fall_like_lightning",
@@ -523,7 +523,7 @@
             "id": "tt0976051",
             "url": "https://www.imdb.com/title/tt0976051/",
             "rating": 7.6,
-            "votes": 276208
+            "votes": 276224
           },
           "filmweb": {
             "id": "439584",
@@ -532,7 +532,7 @@
               "Melodramat"
             ],
             "rating": 7.8,
-            "votes": 211860
+            "votes": 211866
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/reader",
@@ -588,7 +588,7 @@
             "id": "tt0114388",
             "url": "https://www.imdb.com/title/tt0114388/",
             "rating": 7.7,
-            "votes": 139165
+            "votes": 139252
           },
           "filmweb": {
             "id": "166",
@@ -598,7 +598,7 @@
               "Melodramat"
             ],
             "rating": 7.3,
-            "votes": 62961
+            "votes": 62966
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/1068832-sense_and_sensibility",
@@ -610,7 +610,7 @@
             "criticsRating": 97,
             "criticsVotes": 141,
             "audienceRating": 90,
-            "audienceVotes": 21208
+            "audienceVotes": 21209
           }
         },
         "longDescription": "Powściągliwy romantyzm i obyczajowa ironia pióra Jane Austen przepuszczone przez urokliwy filtr georgiańskiej Anglii. Tajwański reżyser Ang Lee przyjrzał się angielskim konwenansom z dystansu przy jednoczesnym doświadczeniu pozorów klasowej dominacji wciąż odczuwalnych w świecie kontrastów Azji Wschodniej. Gwiazdorska obsada umocniła emocjonalny wymiar filmu, który w dodatku pozwolił głównej aktorce – Emmie Thompson – dowieść zdolności scenariopisarskich, czego podsumowaniem okazał się Oscar za najlepszy scenariusz adaptowany.\n\nPo śmierci Henry’ego Dashwooda jego majątek dziedziczy syn z pierwszego małżeństwa. Wdowa po nim wraz z trzema córkami: małą Margaret, Elinor (Emma Thompson) i Marianne (Kate Winslet), zostają zmuszone zamieszkać w wiejskiej posiadłości. Panny Dashwood muszą sprostać nowej – skromnej – rzeczywistości, w której jedynym sposobem na kobiecą stabilizację okazuje się zamążpójście. Dziewczęta nie zamierzają jednak podporządkować się ówczesnej obyczajowości stawiającej pozycję i wpływy ponad szczere uczucie. Rozsądna Elinor tłumi w sobie zauroczenie nieśmiałym , podczas gdy targana emocjami i stęskniona za romansem rodem z dramatów Shakespeare’a Marianne wzdycha do Willoughby’ego (Greg Wise), odrzucając zaloty szczerze jej oddanego pułkownika Brandona (Alan Rickman).\n\nPo śmierci Alana Rickmana w 2016 roku reżyser SZKLANEJ PUŁAPKI (1988) John McTiernan wspominał go jako „antytezę ról czarnych charakterów, z których najbardziej słynął na ekranie”. W tym kontekście kreacja Austenowskiego pułkownika odsłania wszechstronne umiejętności aktora słynącego za kulisami z hojności i życzliwości. Christopher Brandon to cieszący się wielką estymą właściciel Delaford, spętany jednak węzłem tragicznej przeszłości. Rickman brawurowo odzwierciedlił ciężar traumy cichego melancholika, przez którego twarz przemyka cień goryczy – w żaden sposób niezakłócający jego dystynkcji i godności, o których próżny Willoughby mógłby tylko pomarzyć.\n\nEN\n\nThrough the elegance of Georgian England, Jane Austen’s restrained romanticism and social irony shine through. Taiwanese director Ang Lee approaches English manners and class conventions with an outsider’s perspective, bringing a particular sensitivity to the tensions between social hierarchy, appearances and private feeling. The film’s emotional power is significantly enhanced by its star-studded cast. Emma Thompson, who portrays Elinor, also showcased her talent as a screenwriter, winning the Academy Award for Best Adapted Screenplay for her adaptation.\n\nAfter Henry Dashwood passes, Norland passes to his son from his first marriage, leaving Mrs Dashwood and her three daughters – young Margaret, Elinor (Emma Thompson) and Marianne (Kate Winslet) – in greatly reduced circumstances. The Dashwood sisters must come to terms with their new—modest—reality, in which marriage is the only way for a woman to achieve stability.\n\nHowever, neither sister is ready to merely accept a social structure that prioritises wealth and status over true emotion. The composed Elinor maintains her affection for the retiring Edward Ferrars (Hugh Grant) in check; the impulsive Marianne, who yearns for a Shakespearean romance, is captivated by Willoughby (Greg Wise) and disregards the advances of the devoted Colonel Brandon (Alan Rickman).\n\nFollowing Alan Rickman’s death in 2016, DIE HARD (1988) director John McTiernan recalled how different Rickman himself was from the villains with whom he became so closely associated on screen. In that light, his Colonel Brandon reveals another side of the actor’s range: restraint, tenderness and melancholy rather than menace.\n\nAlthough Austen never gives Brandon a first name, the 1995 film calls him Christopher; the name has since become synonymous with the character. Brandon is the respected owner of Delaford, yet remains marked by a tragic past. Rickman conveys that burden with remarkable subtlety: bitterness flickers across his face without ever compromising his character’s dignity or self-possession – qualities the vain Willoughby could only aspire to.",
@@ -654,7 +654,7 @@
             "id": "tt34819091",
             "url": "https://www.imdb.com/title/tt34819091/",
             "rating": 6.4,
-            "votes": 11105
+            "votes": 11125
           },
           "filmweb": {
             "id": "10090000",
@@ -664,7 +664,7 @@
               "Musical"
             ],
             "rating": 6,
-            "votes": 2452
+            "votes": 2456
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/the_testament_of_ann_lee",
@@ -713,26 +713,26 @@
         "shortDescription": "Zainspirowany najsłynniejszą sztuką Williama Szekspira film w reżyserii Chloé Zhao jest wrażliwym i głębokim obrazem małżeństwa, próbującego ukształtować się na nowo po śmierci ukochanego dziecka. W rolach głównych zjawiskowy duet: Jessie Buckley oraz Paul Mescal.",
         "genres": [
           "Biograficzny",
-          "Kostiumowy",
-          "Dramat"
+          "Dramat",
+          "Kostiumowy"
         ],
         "external": {
           "imdb": {
             "id": "tt14905854",
             "url": "https://www.imdb.com/title/tt14905854/",
             "rating": 7.8,
-            "votes": 140638
+            "votes": 140834
           },
           "filmweb": {
             "id": "10035555",
             "url": "https://www.filmweb.pl/film/Hamnet-2025-10035555",
             "genres": [
               "Biograficzny",
-              "Kostiumowy",
-              "Dramat"
+              "Dramat",
+              "Kostiumowy"
             ],
             "rating": 7.6,
-            "votes": 30370
+            "votes": 30408
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/hamnet",
@@ -787,7 +787,7 @@
             "id": "tt9138170",
             "url": "https://www.imdb.com/title/tt9138170/",
             "rating": 7.2,
-            "votes": 5963
+            "votes": 5964
           },
           "filmweb": {
             "id": "848776",
@@ -852,7 +852,7 @@
             "id": "tt0314331",
             "url": "https://www.imdb.com/title/tt0314331/",
             "rating": 7.5,
-            "votes": 585987
+            "votes": 586053
           },
           "filmweb": {
             "id": "99390",
@@ -862,7 +862,7 @@
               "Komedia rom."
             ],
             "rating": 7.5,
-            "votes": 271319
+            "votes": 271322
           },
           "rottenTomatoes": null
         },
@@ -907,7 +907,7 @@
             "id": "tt31514146",
             "url": "https://www.imdb.com/title/tt31514146/",
             "rating": 8.3,
-            "votes": 71845
+            "votes": 72124
           },
           "filmweb": {
             "id": "10088817",
@@ -917,7 +917,7 @@
               "Dramat"
             ],
             "rating": 8,
-            "votes": 4955
+            "votes": 4970
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/i_swear_2025",
@@ -965,8 +965,8 @@
         "description": "Dylan, zmęczony życiem, pogrążony w samotności i beznadziei młody mężczyzna, daje sobie tydzień na to, by odnaleźć sens istnienia. Wróciwszy wspomnieniami do stanu śmierci klinicznej doświadczonego w dzieciństwie, podejmuje szereg desperackich działań, testując tym samym i siebie, i otoczenie.",
         "shortDescription": "Dylan, zmęczony życiem, pogrążony w samotności i beznadziei młody mężczyzna, daje sobie tydzień na to, by odnaleźć sens istnienia. Wróciwszy wspomnieniami do stanu śmierci klinicznej doświadczonego w dzieciństwie, podejmuje szereg desperackich działań, testując tym samym i siebie, i otoczenie.",
         "genres": [
-          "Thriller",
-          "Dramat"
+          "Dramat",
+          "Thriller"
         ],
         "external": {
           "imdb": {
@@ -979,8 +979,8 @@
             "id": "10080762",
             "url": "https://www.filmweb.pl/film/Mission-2026-10080762",
             "genres": [
-              "Thriller",
-              "Dramat"
+              "Dramat",
+              "Thriller"
             ],
             "rating": 3,
             "votes": 1
@@ -1038,7 +1038,7 @@
             "id": "tt0106335",
             "url": "https://www.imdb.com/title/tt0106335/",
             "rating": 6.9,
-            "votes": 5514
+            "votes": 5516
           },
           "filmweb": {
             "id": "5282",
@@ -1102,7 +1102,7 @@
             "id": "tt32141377",
             "url": "https://www.imdb.com/title/tt32141377/",
             "rating": 7.2,
-            "votes": 133589
+            "votes": 133948
           },
           "filmweb": {
             "id": "10068169",
@@ -1111,7 +1111,7 @@
               "Horror"
             ],
             "rating": 6.8,
-            "votes": 20965
+            "votes": 21009
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/28_years_later_the_bone_temple",
@@ -1159,22 +1159,22 @@
         "description": "Danny Bolye opowiada historię niczym z pierwszych stron gazet. W roku 1969 Rupert Murdoch (Guy Pearce) wykupił tabloid „The Sun” i zatrudnił jako naczelnego Larry’ego Lamba (Jack O&#8217;Connell). W efekcie powstało medialne imperium, które zmieniło na zawsze brytyjskie dziennikarstwo i społeczeństwo.",
         "shortDescription": "Danny Bolye opowiada historię niczym z pierwszych stron gazet. W roku 1969 Rupert Murdoch (Guy Pearce) wykupił tabloid „The Sun” i zatrudnił jako naczelnego Larry’ego Lamba (Jack O&#8217;Connell). W efekcie powstało medialne imperium, które zmieniło na zawsze brytyjskie dziennikarstwo i społeczeństwo.",
         "genres": [
-          "Dramat",
-          "Biograficzny"
+          "Biograficzny",
+          "Dramat"
         ],
         "external": {
           "imdb": {
             "id": "tt37967547",
             "url": "https://www.imdb.com/title/tt37967547/",
             "rating": 6.9,
-            "votes": 552
+            "votes": 562
           },
           "filmweb": {
             "id": "10100972",
             "url": "https://www.filmweb.pl/film/Tabloid-2026-10100972",
             "genres": [
-              "Dramat",
-              "Biograficzny"
+              "Biograficzny",
+              "Dramat"
             ],
             "rating": 6.6,
             "votes": 133
@@ -1232,7 +1232,7 @@
             "id": "tt35521922",
             "url": "https://www.imdb.com/title/tt35521922/",
             "rating": 6.1,
-            "votes": 38690
+            "votes": 38759
           },
           "filmweb": {
             "id": "10064809",
@@ -1241,7 +1241,7 @@
               "Thriller"
             ],
             "rating": 7.2,
-            "votes": 15476
+            "votes": 15529
           },
           "rottenTomatoes": null
         },
@@ -1285,7 +1285,7 @@
             "id": "tt10329560",
             "url": "https://www.imdb.com/title/tt10329560/",
             "rating": 6.6,
-            "votes": 2885
+            "votes": 2894
           },
           "filmweb": {
             "id": "10048300",
@@ -1294,7 +1294,7 @@
               "Dramat"
             ],
             "rating": 5.9,
-            "votes": 191
+            "votes": 192
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/h_is_for_hawk",
@@ -1305,8 +1305,8 @@
             ],
             "criticsRating": 82,
             "criticsVotes": 104,
-            "audienceRating": 75,
-            "audienceVotes": 135
+            "audienceRating": 74,
+            "audienceVotes": 136
           }
         },
         "longDescription": "Pamiętacie przepięknego jastrzębia z HAMNETA, czuwającego przy Jessie Buckley? Ten ptak ponownie staje się bohaterem poruszającej historii o nieumiejętności przejścia przez żałobę, ale tym razem ma kluczową rolę. M JAK MABEL to zaskakująco kojąca i głęboko spirytualna produkcja Philippy Lowthorpe oparta na prawdziwych wspomnieniach przyrodniczki Helen Macdonald (w tej roli uwielbiana z THE CROWN Claire Foy).\n\nHelen nieoczekiwanie traci ojca (Brendan Gleeson) – cenionego fotografa prasowego i człowieka zakochanego w cudach świata. Jego córce traci poczucie sensu zawodowego, dystansuje się od rodziny i staje się coraz bardziej samotna. Jej życie zmienia się, gdy przygarnia majestatycznego jastrzębia, którego nazywa Mabel (z łaciny: „godna kochania”). Helen poświęca się całkowicie pielęgnowaniu jastrzębia, nawiązując z nim wyjątkową więź z nadzieją, że złagodzi jej cierpienie i pomoże uciec od frustrującej codzienności. Pojawiają się jednak obawy czy kobieta nie utożsamia się za bardzo z Mabel i traci kontakt z cywilizacją na rzecz natury.\n\nFilm Philippy Lowthorpe to czuła podróż po wspomnieniach bohaterki, doskonale zagranej przez Foy, łączącej w sobie tamowany potok przygnębienia i zachwyt nad dzikością natury. Ujęć na polującą Mabel nie powstydziliby się twórcy filmów przyrodniczych z Sir Davidem Attenborough, a Lowthorpe w przemyślany sposób przedstawia motyw ptaka jako ucieczki od trudnej rzeczywistości w duchu tradycji loachowskiego KESA. M JAK MABEL to budząca emocje lekcja wzbicia się ku wolności dla człowieka, którego paraliżuje żałoba i zaniedbanie samego siebie.\n\nEN\n\nRemember the magnificent hawk keeping watch beside Jessie Buckley in HAMNET? A bird of prey once again takes centre stage in a story about grief, but this time it becomes far more than a striking presence. Philippa Lowthorpe’s H IS FOR HAWK, based on the memoir by naturalist Helen Macdonald, is a surprisingly comforting and deeply spiritual story of loss, solitude and an extraordinary bond with the wild. Claire Foy, beloved for THE CROWN, stars as Helen.\n\nAfter the sudden death of her father (Brendan Gleeson), a respected photojournalist with an infectious sense of wonder about the world, Helen begins to lose her footing. Her work feels increasingly meaningless; she withdraws from her family and loneliness closes in. Everything changes when she takes on a magnificent goshawk and names her Mabel – from the Latin for “lovable”. Helen throws herself into training the bird, and an intense bond begins to form between them. She comes to see Mabel as both refuge and guide, hoping that life alongside this fierce, untamed creature might ease her grief and teach her how to inhabit the world again. But as Helen retreats further into Mabel’s world, a troubling question emerges: is she finding her way back to life, or disappearing into the wild?\n\nLowthorpe turns Helen’s memories into an intimate journey through mourning, anchored by Foy’s finely judged performance, in which barely contained sadness sits alongside an almost childlike awe at the natural world. The sequences of Mabel in flight and on the hunt have the arresting beauty of the finest wildlife filmmaking, while the hawk itself becomes a way of escaping a reality Helen can no longer bear – recalling the British tradition of KES.\n\nH IS FOR HAWK is ultimately a deeply affecting story about a person paralysed by grief learning, slowly and painfully, to take flight again.",
@@ -1399,7 +1399,7 @@
             "id": "tt0063285",
             "url": "https://www.imdb.com/title/tt0063285/",
             "rating": 6.7,
-            "votes": 14191
+            "votes": 14199
           },
           "filmweb": {
             "id": "119896",
@@ -1409,7 +1409,7 @@
               "Dramat historyczny"
             ],
             "rating": 6.6,
-            "votes": 828
+            "votes": 829
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/the_conqueror_worm",

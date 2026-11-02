@@ -1,12 +1,12 @@
 {
   "schemaVersion": 1,
   "date": "2026-11-02",
-  "updatedAt": "2026-11-01T21:09:12.115Z",
+  "updatedAt": "2026-11-02T20:20:34.360Z",
   "source": "https://www.kinomuza.pl/repertoire/day/",
   "day": {
-    "id": "01",
+    "id": "00",
     "date": "02.11",
-    "now": "2026-11-01 22:08:50",
+    "now": "2026-11-02 21:18:19",
     "info": [],
     "repertoire": [
       {
@@ -628,7 +628,7 @@
             "id": "tt14371256",
             "url": "https://www.imdb.com/title/tt14371256/",
             "rating": 6.4,
-            "votes": 1990
+            "votes": 2156
           },
           "filmweb": {
             "id": "10035554",
@@ -638,7 +638,7 @@
               "Sci-Fi"
             ],
             "rating": 6.3,
-            "votes": 1037
+            "votes": 1090
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/klara_and_the_sun",
@@ -647,10 +647,10 @@
             "directors": [
               "Taika Waititi"
             ],
-            "criticsRating": 26,
+            "criticsRating": 24,
             "criticsVotes": 90,
             "audienceRating": 74,
-            "audienceVotes": 176
+            "audienceVotes": 184
           }
         },
         "longDescription": "Film „Klara i słońce”, oparty na bestsellerowej powieści laureata Nagrody Nobla Kazuo Ishiguro.\n\nTo historia Klary (Jenna Ortega), robota zasilanego energią słoneczną, stworzonego po to, by wspierać i towarzyszyć ludziom w ich codziennym życiu.\n\nKiedy Klara poznaje Josie (Mia Tharia), każda z nich od razu wyczuwa w drugiej pokrewną duszę. Josie ma trudną relację ze swoją matką (Amy Adams), a to właśnie Klara zaczyna uzdrawiać rodzinę i wnosić światło do skomplikowanego świata Josie.\n\n„Klara i słońce” to pełna nadziei opowieść o przyjaźni w czasach, gdy technologia sprawia, że czujemy się coraz bardziej samotni.",
@@ -695,7 +695,7 @@
             "id": "tt32368068",
             "url": "https://www.imdb.com/title/tt32368068/",
             "rating": 7.7,
-            "votes": 1362
+            "votes": 1367
           },
           "filmweb": {
             "id": "10111381",
@@ -705,7 +705,7 @@
               "Przyrodniczy"
             ],
             "rating": 8.1,
-            "votes": 1118
+            "votes": 1162
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/whispers_in_the_woods",

@@ -1,12 +1,12 @@
 {
   "schemaVersion": 1,
   "date": "2026-11-17",
-  "updatedAt": "2026-11-01T21:09:12.115Z",
+  "updatedAt": "2026-11-02T20:20:34.360Z",
   "source": "https://www.kinomuza.pl/repertoire/day/",
   "day": {
-    "id": "16",
+    "id": "15",
     "date": "17.11",
-    "now": "2026-11-01 22:09:01",
+    "now": "2026-11-02 21:18:33",
     "info": [],
     "repertoire": [
       {
@@ -86,7 +86,7 @@
             "id": "tt0075454",
             "url": "https://www.imdb.com/title/tt0075454/",
             "rating": 7.2,
-            "votes": 1272
+            "votes": 1273
           },
           "filmweb": {
             "id": "11923",
@@ -96,7 +96,7 @@
               "Obyczajowy"
             ],
             "rating": 7.8,
-            "votes": 34253
+            "votes": 34256
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/zaklete_rewiry_1975",

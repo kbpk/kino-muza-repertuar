@@ -1,12 +1,12 @@
 {
   "schemaVersion": 1,
   "date": "2026-11-12",
-  "updatedAt": "2026-11-01T21:09:12.115Z",
+  "updatedAt": "2026-11-02T20:20:34.360Z",
   "source": "https://www.kinomuza.pl/repertoire/day/",
   "day": {
-    "id": "11",
+    "id": "10",
     "date": "12.11",
-    "now": "2026-11-01 22:08:57",
+    "now": "2026-11-02 21:18:28",
     "info": [],
     "repertoire": [
       {
@@ -112,7 +112,7 @@
             "id": "tt27674982",
             "url": "https://www.imdb.com/title/tt27674982/",
             "rating": 7.4,
-            "votes": 26469
+            "votes": 26486
           },
           "filmweb": {
             "id": "10070057",
@@ -123,7 +123,7 @@
               "Komedia"
             ],
             "rating": 6.8,
-            "votes": 997
+            "votes": 998
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/the_ballad_of_wallis_island",
@@ -176,7 +176,7 @@
             "id": "tt0252444",
             "url": "https://www.imdb.com/title/tt0252444/",
             "rating": 7.4,
-            "votes": 31915
+            "votes": 31916
           },
           "filmweb": null,
           "rottenTomatoes": null
@@ -221,7 +221,7 @@
             "id": "tt32293052",
             "url": "https://www.imdb.com/title/tt32293052/",
             "rating": 6.1,
-            "votes": 333
+            "votes": 335
           },
           "filmweb": {
             "id": "10053069",
@@ -274,7 +274,7 @@
             "id": "tt32321317",
             "url": "https://www.imdb.com/title/tt32321317/",
             "rating": 6.9,
-            "votes": 25456
+            "votes": 25493
           },
           "filmweb": {
             "id": "10053146",
@@ -283,7 +283,7 @@
               "Melodramat"
             ],
             "rating": 6.5,
-            "votes": 6300
+            "votes": 6319
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/pillion",
@@ -339,7 +339,7 @@
             "id": "tt27766440",
             "url": "https://www.imdb.com/title/tt27766440/",
             "rating": 6.6,
-            "votes": 7953
+            "votes": 7961
           },
           "filmweb": {
             "id": "10058778",
@@ -349,7 +349,7 @@
               "Psychologiczny"
             ],
             "rating": 6.8,
-            "votes": 6254
+            "votes": 6262
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/the_salt_path",
@@ -405,7 +405,7 @@
             "id": "tt0038250",
             "url": "https://www.imdb.com/title/tt0038250/",
             "rating": 6.8,
-            "votes": 2007
+            "votes": 2008
           },
           "filmweb": {
             "id": "109176",
@@ -459,7 +459,7 @@
             "id": "tt38991615",
             "url": "https://www.imdb.com/title/tt38991615/",
             "rating": 7.2,
-            "votes": 234
+            "votes": 235
           },
           "filmweb": {
             "id": "10121238",
@@ -477,8 +477,8 @@
             "directors": [
               "Clio Barnard"
             ],
-            "criticsRating": 90,
-            "criticsVotes": 21,
+            "criticsRating": 91,
+            "criticsVotes": 22,
             "audienceRating": null,
             "audienceVotes": null
           }
@@ -523,7 +523,7 @@
             "id": "tt0976051",
             "url": "https://www.imdb.com/title/tt0976051/",
             "rating": 7.6,
-            "votes": 276224
+            "votes": 276240
           },
           "filmweb": {
             "id": "439584",
@@ -532,7 +532,7 @@
               "Melodramat"
             ],
             "rating": 7.8,
-            "votes": 211866
+            "votes": 211870
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/reader",
@@ -580,25 +580,25 @@
         "description": "Alan Rickman jako pułkownik Brandon stworzył portret cichego melancholika o zranionym sercu, czym zerwał z łatką filmowego złoczyńcy. Anglia, XVIII wiek. Po śmierci ojca panny Dashwood są zmuszone opuścić rodzinną posiadłość oraz sprostać skromnym realiom i zmiennym niczym londyńska mgła adoratorom.",
         "shortDescription": "Alan Rickman jako pułkownik Brandon stworzył portret cichego melancholika o zranionym sercu, czym zerwał z łatką filmowego złoczyńcy. Anglia, XVIII wiek. Po śmierci ojca panny Dashwood są zmuszone opuścić rodzinną posiadłość oraz sprostać skromnym realiom i zmiennym niczym londyńska mgła adoratorom.",
         "genres": [
-          "Kostiumowy",
-          "Melodramat"
+          "Melodramat",
+          "Kostiumowy"
         ],
         "external": {
           "imdb": {
             "id": "tt0114388",
             "url": "https://www.imdb.com/title/tt0114388/",
             "rating": 7.7,
-            "votes": 139252
+            "votes": 139296
           },
           "filmweb": {
             "id": "166",
             "url": "https://www.filmweb.pl/film/Rozwa%C5%BCna+i+romantyczna-1995-166",
             "genres": [
-              "Kostiumowy",
-              "Melodramat"
+              "Melodramat",
+              "Kostiumowy"
             ],
             "rating": 7.3,
-            "votes": 62966
+            "votes": 62973
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/1068832-sense_and_sensibility",
@@ -646,25 +646,25 @@
         "description": "Hipnotyzujące dzieło współscenarzystki THE BRUTALIST, rzucające światło na herstorię Ann Lee – przywódczyni sekty Shakerów. Kobieta sprzeciwia się zastanemu porządkowi zepsutego świata i zakłada wspólnotę propagującą równość płciową i społeczną. Ann rusza ze swoją misją do Nowej Anglii za Atlantyk.",
         "shortDescription": "Hipnotyzujące dzieło współscenarzystki THE BRUTALIST, rzucające światło na herstorię Ann Lee – przywódczyni sekty Shakerów. Kobieta sprzeciwia się zastanemu porządkowi zepsutego świata i zakłada wspólnotę propagującą równość płciową i społeczną. Ann rusza ze swoją misją do Nowej Anglii za Atlantyk.",
         "genres": [
-          "Dramat",
-          "Musical"
+          "Musical",
+          "Dramat"
         ],
         "external": {
           "imdb": {
             "id": "tt34819091",
             "url": "https://www.imdb.com/title/tt34819091/",
             "rating": 6.4,
-            "votes": 11125
+            "votes": 11135
           },
           "filmweb": {
             "id": "10090000",
             "url": "https://www.filmweb.pl/film/Testament+Ann+Lee-2025-10090000",
             "genres": [
-              "Dramat",
-              "Musical"
+              "Musical",
+              "Dramat"
             ],
             "rating": 6,
-            "votes": 2456
+            "votes": 2459
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/the_testament_of_ann_lee",
@@ -713,26 +713,26 @@
         "shortDescription": "Zainspirowany najsłynniejszą sztuką Williama Szekspira film w reżyserii Chloé Zhao jest wrażliwym i głębokim obrazem małżeństwa, próbującego ukształtować się na nowo po śmierci ukochanego dziecka. W rolach głównych zjawiskowy duet: Jessie Buckley oraz Paul Mescal.",
         "genres": [
           "Biograficzny",
-          "Dramat",
-          "Kostiumowy"
+          "Kostiumowy",
+          "Dramat"
         ],
         "external": {
           "imdb": {
             "id": "tt14905854",
             "url": "https://www.imdb.com/title/tt14905854/",
             "rating": 7.8,
-            "votes": 140834
+            "votes": 140990
           },
           "filmweb": {
             "id": "10035555",
             "url": "https://www.filmweb.pl/film/Hamnet-2025-10035555",
             "genres": [
               "Biograficzny",
-              "Dramat",
-              "Kostiumowy"
+              "Kostiumowy",
+              "Dramat"
             ],
             "rating": 7.6,
-            "votes": 30408
+            "votes": 30445
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/hamnet",
@@ -787,7 +787,7 @@
             "id": "tt9138170",
             "url": "https://www.imdb.com/title/tt9138170/",
             "rating": 7.2,
-            "votes": 5964
+            "votes": 5965
           },
           "filmweb": {
             "id": "848776",
@@ -820,7 +820,7 @@
         "title": "To właśnie miłość",
         "originalTitle": "Love Actually",
         "director": "Richard Curtis",
-        "year": "2023",
+        "year": "2003",
         "premiereDate": "",
         "duration": "135",
         "countries": " Wielka Brytania, USA, Francja",
@@ -828,7 +828,7 @@
         "lang": "en",
         "subtitlesLang": "pl",
         "age": "16",
-        "credits": "reż. Richard Curtis <br> Wielka Brytania, USA, Francja <br>2023,135’",
+        "credits": "reż. Richard Curtis <br> Wielka Brytania, USA, Francja <br>2003,135’",
         "desc": "<p>ŚWIĄTECZNY POKAZ SPECJALNY Z MINI INCHCAPE POZNAŃ (eNStudiosul. Głogowska 216).</p>\n",
         "hall": "poza_kinem",
         "movieLink": "https://www.kinomuza.pl/movie/to-wlasnie-milosc-20-rocznica/",
@@ -844,27 +844,38 @@
         "description": "ŚWIĄTECZNY POKAZ SPECJALNY Z MINI INCHCAPE POZNAŃ (eNStudiosul. Głogowska 216).",
         "shortDescription": "ŚWIĄTECZNY POKAZ SPECJALNY Z MINI INCHCAPE POZNAŃ (eNStudiosul. Głogowska 216).",
         "genres": [
-          "Świąteczny",
-          "Komedia rom."
+          "Komedia rom.",
+          "Świąteczny"
         ],
         "external": {
           "imdb": {
             "id": "tt0314331",
             "url": "https://www.imdb.com/title/tt0314331/",
             "rating": 7.5,
-            "votes": 586053
+            "votes": 586100
           },
           "filmweb": {
             "id": "99390",
             "url": "https://www.filmweb.pl/film/To+w%C5%82a%C5%9Bnie+mi%C5%82o%C5%9B%C4%87-2003-99390",
             "genres": [
-              "Świąteczny",
-              "Komedia rom."
+              "Komedia rom.",
+              "Świąteczny"
             ],
             "rating": 7.5,
-            "votes": 271322
+            "votes": 271325
           },
-          "rottenTomatoes": null
+          "rottenTomatoes": {
+            "url": "https://www.rottentomatoes.com/m/love_actually",
+            "title": "Love Actually",
+            "year": "2003",
+            "directors": [
+              "Richard Curtis"
+            ],
+            "criticsRating": 65,
+            "criticsVotes": 228,
+            "audienceRating": 72,
+            "audienceVotes": 119521
+          }
         },
         "longDescription": "ŚWIĄTECZNY POKAZ SPECJALNY Z MINI INCHCAPE POZNAŃ.\n\neNStudios\n\nul. Głogowska 216\n\nMistrz wysublimowanej komedii romantycznej Richard Curtis przekonuje, że miłość najlepiej smakuje po brytyjsku w zestawie ze śmietanką aktorstwa. Powiedzieć, że film ma gwiazdorską obsadę, to jakby nic nie powiedzieć. Na ekranie błyszczą Alan Rickman, Emma Thompson, Colin Firth, Liam Neeson, Keira Knightley, Bill Nighy czy Laura Linney. Jeśli te nazwiska jeszcze Was nie przekonały, dodajmy do tego roztańczonego w rytm kawałka „Jump” The Pointer Sisters Hugh Granta jako premiera Wielkiej Brytanii oraz gościnne występy komika Rowana Atkinsona i modelki Claudii Schiffer, która za niespełna minutę ekranowego czasu zainkasowała rekordowe 200 tys. funtów.\n\nZbliża się Boże Narodzenie. Życie mieszkańców Londynu wypełniają świąteczne przygotowania i miłosne rozterki. Zakazane uczucie, miłość od pierwszego wejrzenia, przyjaźń ponad wszystko, zdrada, młodzieńcze fascynacje i rodzinne więzi… miłość przybiera wszechstronne oblicze i jest tym, czego pragną wszyscy bohaterowie.\n\nHarry i Karen to małżeństwo z długoletnim stażem, które zostaje wystawione na próbę z powodu uwodzicielskiej sekretarki mężczyzny. Nowy premier już pierwszego dnia kadencji zakochuje się w pracownicy biura. Zdradzony pisarz ucieka na południe Francji, gdzie poznaje niemówiącą w jego języku Portugalkę. Wdowiec stara się pomóc pasierbowi w żałobie po stracie mamy i zwróceniu na siebie uwagi najpiękniejszej dziewczyny w szkole. Sarah czuje się odpowiedzialna za chorego psychicznie brata i nie potrafi wyznać swych uczuć koledze z biura. Łącznie otrzymujemy 10 historii, które początkowo miały być dwoma odrębnymi produkcjami, ale ich fabularne podobieństwa złożyły się na ekranowy projekt-gwiazdka.\n\nPoza ekranem podobnie chcemy kochać i być kochani – twórca scenariuszy do komediowych hitów CZTERY WESELA I POGRZEB (1994) czy NOTTING HILL (1999) Robert Curtis ponownie trafia w uniwersalne potrzeby widzów. Dodając do tego absurd brytyjskiego humoru i pozbawiony patosu świąteczny klimat stworzył przepis na wigilijny klasyk. Amerykanie mają TO WSPANIAŁE ŻYCIE (1946), Anglicy otwierają z trzaskiem tradycyjne „crackery” przy finalnym spotkaniu bohaterów TO WŁAŚNIE MIŁOŚĆ na lotnisku Heathrow.\n\nEN\n\nRichard Curtis, a master of the romantic comedy, makes a persuasive case that love is best served British-style – with the cream of the country’s acting talent. To call the cast star-studded hardly does it justice: Alan Rickman, Emma Thompson, Colin Firth, Liam Neeson, Keira Knightley, Bill Nighy and Laura Linney all light up the screen.\n\nIf that line-up isn’t impressive enough, we have Hugh Grant portraying the British Prime Minister, dancing through Downing Street to The Pointer Sisters’ song Jump. The film also features cameos from comedian Rowan Atkinson and model Claudia Schiffer, who was reportedly paid a record £200,000 for less than a minute of screen time.\n\nChristmas is approaching, and London is awash with festive preparations and romantic complications. Forbidden love, love at first sight, friendship above all else, infidelity, youthful infatuation and family ties – love takes many forms, and every character is searching for it in one way or another. Harry and Karen’s long-standing marriage is put to the test by his seductive secretary. On his very first day in office, the new Prime Minister falls for a member of his staff. A betrayed writer retreats to the south of France, where he meets a Portuguese woman who does not speak his language. A widower tries to help his stepson cope with the loss of his mother – and win the attention of the prettiest girl at school. Sarah feels responsible for her mentally ill brother and cannot bring herself to confess her feelings for a colleague.\n\nAltogether, LOVE ACTUALLY weaves ten stories into one; two of them were originally conceived as separate films before their shared themes helped shape Curtis’s ensemble Christmas romance.\n\nOff screen, we are driven by much the same desire to love and be loved. Richard Curtis, the screenwriter behind such comedy hits as FOUR WEDDINGS AND A FUNERAL (1994) and NOTTING HILL (1999), once again taps into something universal. Add the absurdity of British humour and a Christmas atmosphere refreshingly free of sentimentality, and you have the recipe for a festive classic. Americans have IT’S A WONDERFUL LIFE (1946); in Britain, Christmas crackers go off as the characters of LOVE ACTUALLY reunite at Heathrow Airport.",
         "poster": "media/posters/c07472b5dccbc65b044e.webp"
@@ -907,7 +918,7 @@
             "id": "tt31514146",
             "url": "https://www.imdb.com/title/tt31514146/",
             "rating": 8.3,
-            "votes": 72124
+            "votes": 72312
           },
           "filmweb": {
             "id": "10088817",
@@ -917,7 +928,7 @@
               "Dramat"
             ],
             "rating": 8,
-            "votes": 4970
+            "votes": 5007
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/i_swear_2025",
@@ -1102,7 +1113,7 @@
             "id": "tt32141377",
             "url": "https://www.imdb.com/title/tt32141377/",
             "rating": 7.2,
-            "votes": 133948
+            "votes": 134246
           },
           "filmweb": {
             "id": "10068169",
@@ -1111,7 +1122,7 @@
               "Horror"
             ],
             "rating": 6.8,
-            "votes": 21009
+            "votes": 21062
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/28_years_later_the_bone_temple",
@@ -1167,7 +1178,7 @@
             "id": "tt37967547",
             "url": "https://www.imdb.com/title/tt37967547/",
             "rating": 6.9,
-            "votes": 562
+            "votes": 568
           },
           "filmweb": {
             "id": "10100972",
@@ -1176,8 +1187,8 @@
               "Biograficzny",
               "Dramat"
             ],
-            "rating": 6.6,
-            "votes": 133
+            "rating": 6.5,
+            "votes": 134
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/ink_2026",
@@ -1232,7 +1243,7 @@
             "id": "tt35521922",
             "url": "https://www.imdb.com/title/tt35521922/",
             "rating": 6.1,
-            "votes": 38759
+            "votes": 38851
           },
           "filmweb": {
             "id": "10064809",
@@ -1241,7 +1252,7 @@
               "Thriller"
             ],
             "rating": 7.2,
-            "votes": 15529
+            "votes": 15610
           },
           "rottenTomatoes": null
         },
@@ -1285,7 +1296,7 @@
             "id": "tt10329560",
             "url": "https://www.imdb.com/title/tt10329560/",
             "rating": 6.6,
-            "votes": 2894
+            "votes": 2897
           },
           "filmweb": {
             "id": "10048300",
@@ -1294,7 +1305,7 @@
               "Dramat"
             ],
             "rating": 5.9,
-            "votes": 192
+            "votes": 193
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/h_is_for_hawk",
@@ -1399,7 +1410,7 @@
             "id": "tt0063285",
             "url": "https://www.imdb.com/title/tt0063285/",
             "rating": 6.7,
-            "votes": 14199
+            "votes": 14203
           },
           "filmweb": {
             "id": "119896",

@@ -1,12 +1,12 @@
 {
   "schemaVersion": 1,
   "date": "2026-11-15",
-  "updatedAt": "2026-11-01T21:09:12.115Z",
+  "updatedAt": "2026-11-02T20:20:34.360Z",
   "source": "https://www.kinomuza.pl/repertoire/day/",
   "day": {
-    "id": "14",
+    "id": "13",
     "date": "15.11",
-    "now": "2026-11-01 22:09:01",
+    "now": "2026-11-02 21:18:32",
     "info": [],
     "repertoire": [
       {
@@ -48,7 +48,7 @@
             "id": "tt36841161",
             "url": "https://www.imdb.com/title/tt36841161/",
             "rating": 7.1,
-            "votes": 2855
+            "votes": 3079
           },
           "filmweb": {
             "id": "10101144",
@@ -58,7 +58,7 @@
               "Familijny"
             ],
             "rating": 6.9,
-            "votes": 817
+            "votes": 849
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/shaun_the_sheep_the_beast_of_mossy_bottom",
@@ -158,7 +158,7 @@
             "id": "tt0363771",
             "url": "https://www.imdb.com/title/tt0363771/",
             "rating": 6.9,
-            "votes": 464376
+            "votes": 464418
           },
           "filmweb": {
             "id": "112761",
@@ -169,7 +169,7 @@
               "Przygodowy"
             ],
             "rating": 7.1,
-            "votes": 288422
+            "votes": 288432
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/chronicles_of_narnia_lion_witch_wardrobe",
@@ -227,7 +227,7 @@
             "id": "tt36841161",
             "url": "https://www.imdb.com/title/tt36841161/",
             "rating": 7.1,
-            "votes": 2855
+            "votes": 3079
           },
           "filmweb": {
             "id": "10101144",
@@ -237,7 +237,7 @@
               "Familijny"
             ],
             "rating": 6.9,
-            "votes": 817
+            "votes": 849
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/shaun_the_sheep_the_beast_of_mossy_bottom",
@@ -353,7 +353,12 @@
         "shortDescription": "Bliskie spotkanie X muzy ze scenicznym widowiskiem. Zarejestrowana na żywo w 2013 roku sztuka fabularyzuje osnute tajemnicą audiencje Elżbiety II (Helen Mirren) udzielane brytyjskim premierom. Scenarzysta Peter Morgan i reżyser Stephen Daldry spotkali się później na planie THE CROWN.",
         "genres": [],
         "external": {
-          "imdb": null,
+          "imdb": {
+            "id": "tt3233718",
+            "url": "https://www.imdb.com/title/tt3233718/",
+            "rating": 7.8,
+            "votes": 490
+          },
           "filmweb": null,
           "rottenTomatoes": null
         },
@@ -390,25 +395,25 @@
         "description": "Rewizja Austenowskiej prozy wydobywająca z kultowej powieści siostrzeństwo, emancypację i realizm epoki. Georgiańska Anglia. Po śmierci ojca siostry Dashwood wraz z matką zostają zmuszone opuścić dom. Nowa rzeczywistość stawia je w ogniu konwenansów, finansowych trudów i miłosnej niepewności.",
         "shortDescription": "Rewizja Austenowskiej prozy wydobywająca z kultowej powieści siostrzeństwo, emancypację i realizm epoki. Georgiańska Anglia. Po śmierci ojca siostry Dashwood wraz z matką zostają zmuszone opuścić dom. Nowa rzeczywistość stawia je w ogniu konwenansów, finansowych trudów i miłosnej niepewności.",
         "genres": [
-          "Melodramat",
-          "Kostiumowy"
+          "Kostiumowy",
+          "Melodramat"
         ],
         "external": {
           "imdb": {
             "id": "tt13609648",
             "url": "https://www.imdb.com/title/tt13609648/",
             "rating": 7.3,
-            "votes": 7863
+            "votes": 8391
           },
           "filmweb": {
             "id": "10087170",
             "url": "https://www.filmweb.pl/film/Rozwa%C5%BCna+i+romantyczna-2026-10087170",
             "genres": [
-              "Melodramat",
-              "Kostiumowy"
+              "Kostiumowy",
+              "Melodramat"
             ],
             "rating": 7.2,
-            "votes": 2891
+            "votes": 2998
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/sense_and_sensibility_2026",
@@ -417,10 +422,10 @@
             "directors": [
               "Georgia Oakley"
             ],
-            "criticsRating": 77,
-            "criticsVotes": 133,
+            "criticsRating": 78,
+            "criticsVotes": 135,
             "audienceRating": 89,
-            "audienceVotes": 799
+            "audienceVotes": 811
           }
         },
         "longDescription": "Rewizja klasycznej prozy Jane Austen, która debiutując w 1811 roku pod pseudonimem The Lady zaskoczyła czytelników bardziej ironicznym niż przesiąkniętym romantyzmem tonem, zjadliwym humorem i realistycznym obrazem epoki. Twórcy nowej ROZWAŻNEJ I ROMANTYCZNEJ nie tylko idą pierwotnym śladem niezmiennie uwielbianej pisarki, lecz także rozluźniają sznurowadła społecznego gorsetu, aby wydobyć motyw kobiecej emancypacji oraz siłę siostrzanej więzi. Wnikają przy tym w zawiłe niuanse georgiańskiej mentalności, odkrywając konflikt serca i rozwagi nie zawsze kończący się kliszą happy endu.\n\nWraz ze śmiercią pana Dashwooda jego trzy córki i druga żona zostają zmuszone do opuszczenia rodzinnej posiadłości. Zgodnie z dawnym angielskim prawem jego majątek dziedziczy męski spadkobierca, w tym przypadku syn z pierwszego małżeństwa. Siostry Dashwood zostają skazane na łaskę krewnych, mając świadomość jedynej akceptowanej społecznie drogi kobiecej stabilizacji – zamążpójścia. Najstarsze siostry, roztropna Elinor (oklaskiwana po występie w GDZIE ŚPIEWAJĄ RAKI Daisy Edgar-Jones) oraz podążająca za emocjami Marianne (znana z seriali HANNA i SANDMAN Esmé Creed-Miles), muszą sprostać oczekiwaniom drżącego przed etykietą środowiska i własnym dylematom serca.\n\nStojąca za kamerą Georgia Oakley (PTASZYNA, BLUE JEAN) po raz kolejny poraża wielką świadomością stylu zakorzenionego w wizualnym języku europejskich mistrzów, w tym francuskiej intymności czy wnikliwych obserwacjach ludzkich mechanizmów rodem z hiszpańskiego ekranu. Filmowe światy nominowanej do nagrody BAFTA brytyjskiej reżyserski przenika pewna doza zmysłowości, ale na próżno szukać w nich szablonowości czy upiększeń. Drogę do wciąż aktualnej problematyki społecznej wyznacza w nich kontekst historyczny, queerowa wrażliwość i psychologia postaci. Z pomocą australijskiej scenarzystki Diany Reid twórczynie przepuszczają przez realistyczny filtr ponadczasowe emocje i perypetie sióstr Dashwood poszukujących własnego miejsca w świecie.\n\nEN\n\nA fresh take on Jane Austen’s classic novel, first published in 1811 under the pseudonym “A Lady”, which surprised readers with a tone more ironic than romantic, a sharp wit and a clear-eyed portrait of its age. The makers of the new SENSE AND SENSIBILITY not only follow in the footsteps of the ever-beloved author, but also loosen the stays of social convention to bring female emancipation and the strength of sisterhood to the fore. At the same time, they delve into the intricacies of the Georgian mindset, exploring a conflict between feeling and reason that does not always resolve itself into the reassuring shape of a happy ending.\n\nAfter Mr Dashwood’s death, his second wife and three daughters are forced to leave the family estate. Under the inheritance laws of the time, his property passed to a male heir – in this case, his son from his first marriage. The Dashwood sisters are left dependent on the goodwill of relatives and acutely aware that marriage remains the only socially acceptable route to security. The two eldest, the sensible Elinor (Daisy Edgar-Jones, acclaimed for her performance in WHERE THE CRAWDADS SING) and the more impulsive Marianne (Esmé Creed-Miles, known from HANNA and THE SANDMAN), must navigate both the expectations of a society in thrall to etiquette and the complications of their own hearts.\n\nDirector Georgia Oakley (LITTLE BIRD, BLUE JEAN) once again displays a striking command of style, rooted in the visual language of European cinema – from French intimacy to the acute observation of human behaviour associated with Spanish film. A certain sensuality runs through the work of the BAFTA-nominated British filmmaker, yet there is little room for formula or prettification. Historical context, queer sensitivity and close attention to character psychology become her routes into social questions that remain strikingly relevant. Working with Australian screenwriter Diana Reid, Oakley refracts the timeless emotions and romantic entanglements of the Dashwood sisters through a realist lens as they search for a place of their own in the world.",
@@ -457,26 +462,26 @@
         "shortDescription": "Zainspirowany najsłynniejszą sztuką Williama Szekspira film w reżyserii Chloé Zhao jest wrażliwym i głębokim obrazem małżeństwa, próbującego ukształtować się na nowo po śmierci ukochanego dziecka. W rolach głównych zjawiskowy duet: Jessie Buckley oraz Paul Mescal.",
         "genres": [
           "Biograficzny",
-          "Dramat",
-          "Kostiumowy"
+          "Kostiumowy",
+          "Dramat"
         ],
         "external": {
           "imdb": {
             "id": "tt14905854",
             "url": "https://www.imdb.com/title/tt14905854/",
             "rating": 7.8,
-            "votes": 140834
+            "votes": 140990
           },
           "filmweb": {
             "id": "10035555",
             "url": "https://www.filmweb.pl/film/Hamnet-2025-10035555",
             "genres": [
               "Biograficzny",
-              "Dramat",
-              "Kostiumowy"
+              "Kostiumowy",
+              "Dramat"
             ],
             "rating": 7.6,
-            "votes": 30408
+            "votes": 30445
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/hamnet",
@@ -535,7 +540,7 @@
             "id": "tt7734244",
             "url": "https://www.imdb.com/title/tt7734244/",
             "rating": 6.2,
-            "votes": 6657
+            "votes": 6721
           },
           "filmweb": {
             "id": "10104409",
@@ -546,7 +551,7 @@
               "Przygodowy"
             ],
             "rating": 5.8,
-            "votes": 759
+            "votes": 763
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/the_magic_faraway_tree",
@@ -602,7 +607,7 @@
             "id": "tt36983905",
             "url": "https://www.imdb.com/title/tt36983905/",
             "rating": 6.2,
-            "votes": 13369
+            "votes": 13589
           },
           "filmweb": {
             "id": "10122362",
@@ -612,7 +617,7 @@
               "Akcja"
             ],
             "rating": 5.6,
-            "votes": 595
+            "votes": 602
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/the_uprising_2026",
@@ -624,7 +629,7 @@
             "criticsRating": 57,
             "criticsVotes": 122,
             "audienceRating": 65,
-            "audienceVotes": 580
+            "audienceVotes": 583
           }
         },
         "longDescription": "Oparte na prawdziwych wydarzeniach historycznych widowisko stawiające pytanie o cenę wolności w czasach feudalnego ucisku. XIV-wieczny lud Anglii pozostaje wyniszczony epidemią dżumy, represjami ze strony władzy i społecznymi napięciami. Na wieść o bezwzględnych planach możnowładców i nałożeniu podatku uderzającego w najuboższych, stojący na skraju wytrzymałości chłopi postanawiają sprzeciwić się tyranii Ryszarda II. Opór kilkorga z nich na czele z młodym rebeliantem (charyzmatyczny Andrew Garfield) przeistacza się w falę wściekłości, która w krótkim czasie rozprzestrzenia się na cały kraj. Uciskani postanawiają wypowiedzieć wojnę koronie.\n\nGdy w 1381 roku śmiałkowie z Esseksu i Kentu pod przewodnictwem Wata Tylera i mobilizowani przez kaznodzieję Johna Balla wszczęli bunt przeciwko wyzyskowi oraz nałożeniu podatku obciążającego jednostki niezależnie od wielkości ich dochodu, nikt nie zakładał, że powstanie doprowadzi do marszu na Londyn. Krwawe zamieszki zakończyło równie brutalne stłumienie przez siły króla, ale mit wolności i walki o sprawiedliwość na dobre zakorzenił się w mentalności angielskich chłopów, doprowadzając do narodzin legendy o Robin Hoodzie.\n\nWyróżniony BAFTA i nominowany do Oscara za LOT 93 (2006) reżyser Paul Greengrass spogląda na przepełnioną gniewem historię z charakterystycznym dla siebie reporterskim stylem, nie szczędząc jednak okrucieństwa, intensywnej konwencji i dynamicznej kamery. Rozedrgane ujęcia oddają emocjonalną motywację zrywu wyznaczającego punkt zwrotny w dziejach średniowiecznej Anglii i po upływie stuleci inspirującego polityczną lewicę.\n\nEN\n\nA historical epic based on real events, THE UPRISING asks what freedom is worth in an age of feudal oppression. Fourteenth-century England has been ravaged by plague, repression and mounting social unrest. When word spreads of the ruling elite’s ruthless plans and a tax that falls hardest on the poorest, peasants already pushed to the breaking point decide to resist the tyranny of Richard II. What begins with a handful of rebels, led by a charismatic young insurgent (Andrew Garfield), soon swells into a wave of anger sweeping across the country. The oppressed are ready to wage war on the Crown.\n\nIn 1381, rebels from Essex and Kent, led by Wat Tyler and rallied by the preacher John Ball, rose against exploitation and a poll tax levied regardless of income. Few could have foreseen that the revolt would culminate in a march on London.\n\nThe bloody riots were brought to an end by an equally brutal crackdown by the king’s forces. But the myth of freedom and the struggle for justice took firm root in the minds of the English peasants, leading to the birth of the legend of Robin Hood.\n\nBAFTA-winning director Paul Greengrass, who received an Academy Award nomination for UNITED 93 (2006), approaches this story of rage and rebellion with his characteristic journalistic immediacy, while fully embracing its brutality, intensity and restless camerawork. The jittery, urgent images capture the emotional force behind an uprising that marked a turning point in medieval English history and, centuries later, would continue to inspire the political left.",
@@ -667,7 +672,7 @@
             "id": "tt37363222",
             "url": "https://www.imdb.com/title/tt37363222/",
             "rating": 7.7,
-            "votes": 493
+            "votes": 502
           },
           "filmweb": {
             "id": "10112663",
@@ -692,7 +697,7 @@
           }
         },
         "longDescription": "Andrew Scott w roli, która zagwarantuje mu nominację aktorską w kolejnym rozdaniu Oscarów®. OSTATNI HAMLET to oparty na faktach film, który opowiada historię legendarnego brytyjskiego aktora Iana Charlesona (RYDWANY OGNIA – BFF 2024). Jest przełom lat 80., a Ian niespodziewanie dostaje rolę Hamleta w prestiżowym National Theatre w Londynie (po tym, jak wycofał się Daniel Day-Lewis). Będący u szczytu kariery zawodowej aktor, jednocześnie mierzy się z największym wyzwaniem, które przyniosło mu życie – właśnie dowiedział się, że jest chory na AIDS. W czasach, kiedy choroba była otoczona społecznym tabu, lękiem i stygmatyzacją, jednocześnie rozgrywa się historia, w której pasja, miłość i afirmacja rzeczywistości, stają się motorem napędowym do tego, żeby przeżyć każdy kolejny dzień. To również sposób na to, żeby nie przekreślać marzeń, stworzyć teatralną rolę życia i na zawsze zapisać się z historii! Shakespeare’owski Hamlet rozmyśla o śmierci, kiedy jednocześnie odgrywający go aktor chce za wszelką cenę pozostać żywym. Na drugim planie występuje ulubienica publiczności, laureatka Oscara® Olivia Colman, która wciela się w rolę lekarki, pełnej przyjaźni, opieki i solidarności ze swoim pacjentem. Film wyreżyserował nominowany do nagród BAFTA Simon Stone, a autorem scenariusza jest Stephen Beresford, znany publiczności ze wspaniałego tekstu, który stał się fundamentem nagradzanego na całym świecie hitu DUMNI I WŚCIEKLI. Film otworzył jubileuszową 70. Edycję BFI London Film Festival. Podczas British Film Festival 2026 prezentujemy film premierowo, na pierwszych pokazach kinowych w Polsce.\n\nEN\n\nAndrew Scott gives a performance already generating serious Oscar buzz in ELSINORE, a film based on the true story of legendary British actor Ian Charleson (CHARIOTS OF FIRE – BFF 2024). It is the end of the 1980s, and Ian unexpectedly gets the chance to play Hamlet at London’s National Theatre after Daniel Day-Lewis withdraws from the production. At the height of his career, he is also facing the greatest challenge of his life: he has just learned that he has AIDS.\n\nAt a time when the illness was surrounded by fear, stigma and social taboo, another story begins to unfold – one driven by passion, love and an insistence on embracing life one day at a time. For Ian, it is also a way of refusing to let go of his ambitions: a chance to create the defining stage performance of his life and secure his place in theatre history. Shakespeare’s Hamlet dwells on death while the actor playing him is determined, at all costs, to remain alive.\n\nOscar winner Olivia Colman co-stars as Ian’s doctor, bringing warmth, friendship and solidarity to their relationship. The film is directed by BAFTA-nominated Simon Stone, with a screenplay by Stephen Beresford, best known to audiences for PRIDE, the much-loved and internationally acclaimed film built around his script.\n\nELSINORE opened the landmark 70th edition of the BFI London Film Festival. At the 2026 British Film Festival, we present the film in its first Polish cinema screenings.",
-        "poster": "media/posters/c63288fdb40d098c9fcd.webp"
+        "poster": "media/posters/5a2cd163782d01f51d45.webp"
       },
       {
         "hour": "16:00",
@@ -744,7 +749,7 @@
               "Kostiumowy"
             ],
             "rating": 7.5,
-            "votes": 3417
+            "votes": 3418
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/draughtsmans_contract",
@@ -858,25 +863,25 @@
         "description": "Hipnotyzujące dzieło współscenarzystki THE BRUTALIST, rzucające światło na herstorię Ann Lee – przywódczyni sekty Shakerów. Kobieta sprzeciwia się zastanemu porządkowi zepsutego świata i zakłada wspólnotę propagującą równość płciową i społeczną. Ann rusza ze swoją misją do Nowej Anglii za Atlantyk.",
         "shortDescription": "Hipnotyzujące dzieło współscenarzystki THE BRUTALIST, rzucające światło na herstorię Ann Lee – przywódczyni sekty Shakerów. Kobieta sprzeciwia się zastanemu porządkowi zepsutego świata i zakłada wspólnotę propagującą równość płciową i społeczną. Ann rusza ze swoją misją do Nowej Anglii za Atlantyk.",
         "genres": [
-          "Dramat",
-          "Musical"
+          "Musical",
+          "Dramat"
         ],
         "external": {
           "imdb": {
             "id": "tt34819091",
             "url": "https://www.imdb.com/title/tt34819091/",
             "rating": 6.4,
-            "votes": 11125
+            "votes": 11135
           },
           "filmweb": {
             "id": "10090000",
             "url": "https://www.filmweb.pl/film/Testament+Ann+Lee-2025-10090000",
             "genres": [
-              "Dramat",
-              "Musical"
+              "Musical",
+              "Dramat"
             ],
             "rating": 6,
-            "votes": 2456
+            "votes": 2459
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/the_testament_of_ann_lee",
@@ -932,7 +937,7 @@
             "id": "tt34966562",
             "url": "https://www.imdb.com/title/tt34966562/",
             "rating": 6.8,
-            "votes": 6969
+            "votes": 6988
           },
           "filmweb": {
             "id": "10093695",
@@ -998,7 +1003,7 @@
             "id": "tt0107943",
             "url": "https://www.imdb.com/title/tt0107943/",
             "rating": 7.8,
-            "votes": 94680
+            "votes": 94699
           },
           "filmweb": {
             "id": "1234",
@@ -1008,7 +1013,7 @@
               "Obyczajowy"
             ],
             "rating": 7.7,
-            "votes": 39677
+            "votes": 39683
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/remains_of_the_day",
@@ -1128,7 +1133,7 @@
             "id": "tt35674521",
             "url": "https://www.imdb.com/title/tt35674521/",
             "rating": 6.2,
-            "votes": 3981
+            "votes": 3998
           },
           "filmweb": {
             "id": "10072340",
@@ -1137,8 +1142,8 @@
               "Dramat",
               "Sci-Fi"
             ],
-            "rating": 6.9,
-            "votes": 679
+            "rating": 7,
+            "votes": 682
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/rose_of_nevada",
@@ -1150,7 +1155,7 @@
             "criticsRating": 92,
             "criticsVotes": 106,
             "audienceRating": 54,
-            "audienceVotes": 98
+            "audienceVotes": 99
           }
         },
         "longDescription": "Reżyser Mark Jenkin (który tutaj – co charakterystyczne dla jego twórczości – jest równocześnie scenarzystą, montażystą, operatorem i kompozytorem muzyki), w swoim najnowszym filmie ponownie zabiera nas do rodzinnej Kornwalii, żeby opowiedzieć historię zapomnianej, maleńkiej wioski rybackiej, znajdującej się na celtyckim półwyspie wysuniętym ku Atlantykowi. Pewnego dnia, w niewielkim starym porcie pojawia się tajemnicza łódka o nazwie Rose of Nevada , która zaginęła 30 lat temu razem ze wszystkimi członkami załogi. Dla tych, co nie pamiętają, to anomalia i przypowiastka. Jednak wśród starszych wywołuje to niepokój i stanowi swoisty znak. Wiedzą, że łódź musi ponownie wypłynąć w morze, żeby mieszkańcy wioski zaznali spokoju. Przypominający Ahaba z Moby Dicka kapitan Murgey (Francis Magee), kolekcjonuje nową załogę, żeby ruszyć na połów ryb i tchnąć ponownie życie w starą zapomnianą łajbę. Na ochotnika zgłasza się Nick (George MacKay), dla którego jest to dodatkowa okazja do zarobienia pieniędzy i wyżywienia swojej rodziny, oraz nowy członek społeczności Liam (Callum Turner), który na surowym morzu chętnie ucieknie od swojej przeszłości. Ubrani w żółte sztormiaki wypływają we trójkę, a woda obdarowuje ich szczodrze. W duszącej, klaustrofobicznej izolacji na małej przestrzeni, patroszą złowione ryby, których zapach unosi się wszędzie. Kiedy wykonali powierzone zadanie i z dumą wracają do portu, nic nie jest już takie, jakie zostawili. Coś jest nie tak, i nawet czas stracił swoją normalną oś zdarzeń. Nakręcony na taśmie 16 mm film Jenkina, to oniryczna opowieść zgrabnie posługująca się metaforą, która poprzez drobne detale prowadzi widza i zaprasza do rozwiązania lokalnej tajemnicy. Wśród morskiej bryzy unosi się atmosfera i obecność duchów – ludzi, których nie ma już wśród nas, ale i milczący dramat straumatyzowanej przeszłością społeczności.\n\nEN\n\nIn his latest film, director Mark Jenkin – who, characteristically, also serves as screenwriter, editor, cinematographer and composer – returns to his native Cornwall to tell the story of a tiny, forgotten fishing village on the Celtic peninsula jutting out into the Atlantic.\n\nOne day, a mysterious boat called Rose of Nevada appears in the old harbour. It vanished thirty years earlier, taking its entire crew with it. To those too young to remember, its return is little more than an anomaly, almost a folk tale brought to life. For the older villagers, however, it is deeply unsettling – a sign of sorts. They know the boat must be put to sea again if the village is ever to find peace.\n\nCaptain Murgey (Francis Magee), an Ahab-like figure, sets about assembling a new crew to go fishing and breathe life back into the long-forgotten vessel. Nick (George MacKay) volunteers, seeing it as a chance to earn extra money and provide for his family. So does Liam (Callum Turner), a newcomer to the community who is only too willing to escape his past on the unforgiving sea.\n\nDressed in yellow oilskins, the three men head out together, and the sea rewards them generously. In the stifling, claustrophobic confines of the boat, they gut their catch as the smell of fish fills every corner. When the job is done, and they return proudly to harbour, nothing is quite as they left it. Something is wrong, and even time itself seems to have slipped off its usual axis.\n\nShot on 16mm, Jenkin’s film is an oneiric tale that uses metaphor with great precision, guiding the viewer through small details and inviting them to piece together a local mystery. The sea air carries the presence of ghosts, people no longer among the living, as well as the quiet trauma of a community scarred by its past.",
@@ -1187,9 +1192,9 @@
         "description": "Pełnometrażowy debiut reżyserski Shane’a Madowsa, w którym Bob Hoskins wciela się w rolę mentora, oferującego młodym ludziom alternatywę dla otaczającej beznadziei. W typowym angielskim miasteczku, poprzez sport, próbuje nauczyć ich twardych reguł życia, odpowiedzialności i wychować na dobrych ludzi.",
         "shortDescription": "Pełnometrażowy debiut reżyserski Shane’a Madowsa, w którym Bob Hoskins wciela się w rolę mentora, oferującego młodym ludziom alternatywę dla otaczającej beznadziei. W typowym angielskim miasteczku, poprzez sport, próbuje nauczyć ich twardych reguł życia, odpowiedzialności i wychować na dobrych ludzi.",
         "genres": [
-          "Dramat",
+          "Sportowy",
           "Komedia",
-          "Sportowy"
+          "Dramat"
         ],
         "external": {
           "imdb": {
@@ -1202,9 +1207,9 @@
             "id": "32922",
             "url": "https://www.filmweb.pl/film/Okr%C4%85g%C5%82y+tydzie%C5%84-1997-32922",
             "genres": [
-              "Dramat",
+              "Sportowy",
               "Komedia",
-              "Sportowy"
+              "Dramat"
             ],
             "rating": 7.1,
             "votes": 50
@@ -1300,8 +1305,8 @@
           "imdb": {
             "id": "tt36980182",
             "url": "https://www.imdb.com/title/tt36980182/",
-            "rating": 7.1,
-            "votes": 2593
+            "rating": 7,
+            "votes": 2652
           },
           "filmweb": {
             "id": "10093682",
@@ -1310,7 +1315,7 @@
               "Komedia"
             ],
             "rating": 6.5,
-            "votes": 84
+            "votes": 88
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/the_incomer",
@@ -1366,7 +1371,7 @@
             "id": "tt27766440",
             "url": "https://www.imdb.com/title/tt27766440/",
             "rating": 6.6,
-            "votes": 7953
+            "votes": 7961
           },
           "filmweb": {
             "id": "10058778",
@@ -1376,7 +1381,7 @@
               "Psychologiczny"
             ],
             "rating": 6.8,
-            "votes": 6254
+            "votes": 6262
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/the_salt_path",
@@ -1432,7 +1437,7 @@
             "id": "tt0107207",
             "url": "https://www.imdb.com/title/tt0107207/",
             "rating": 8.1,
-            "votes": 205529
+            "votes": 205560
           },
           "filmweb": {
             "id": "1231",
@@ -1497,7 +1502,7 @@
             "id": "tt0477302",
             "url": "https://www.imdb.com/title/tt0477302/",
             "rating": 6.9,
-            "votes": 108543
+            "votes": 108546
           },
           "filmweb": {
             "id": "296427",
@@ -1506,7 +1511,7 @@
               "Dramat"
             ],
             "rating": 7.4,
-            "votes": 56917
+            "votes": 56918
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/extremely_loud_and_incredibly_close",
@@ -1561,7 +1566,7 @@
             "id": "tt32141377",
             "url": "https://www.imdb.com/title/tt32141377/",
             "rating": 7.2,
-            "votes": 133948
+            "votes": 134246
           },
           "filmweb": {
             "id": "10068169",
@@ -1570,7 +1575,7 @@
               "Horror"
             ],
             "rating": 6.8,
-            "votes": 21009
+            "votes": 21062
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/28_years_later_the_bone_temple",
@@ -1625,7 +1630,7 @@
             "id": "tt38991615",
             "url": "https://www.imdb.com/title/tt38991615/",
             "rating": 7.2,
-            "votes": 234
+            "votes": 235
           },
           "filmweb": {
             "id": "10121238",
@@ -1643,8 +1648,8 @@
             "directors": [
               "Clio Barnard"
             ],
-            "criticsRating": 90,
-            "criticsVotes": 21,
+            "criticsRating": 91,
+            "criticsVotes": 22,
             "audienceRating": null,
             "audienceVotes": null
           }
@@ -1691,7 +1696,7 @@
             "id": "tt27674982",
             "url": "https://www.imdb.com/title/tt27674982/",
             "rating": 7.4,
-            "votes": 26469
+            "votes": 26486
           },
           "filmweb": {
             "id": "10070057",
@@ -1702,7 +1707,7 @@
               "Komedia"
             ],
             "rating": 6.8,
-            "votes": 997
+            "votes": 998
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/the_ballad_of_wallis_island",
@@ -1757,7 +1762,7 @@
             "id": "tt35521922",
             "url": "https://www.imdb.com/title/tt35521922/",
             "rating": 6.1,
-            "votes": 38759
+            "votes": 38851
           },
           "filmweb": {
             "id": "10064809",
@@ -1766,7 +1771,7 @@
               "Thriller"
             ],
             "rating": 7.2,
-            "votes": 15529
+            "votes": 15610
           },
           "rottenTomatoes": null
         },
@@ -1810,7 +1815,7 @@
             "id": "tt0419677",
             "url": "https://www.imdb.com/title/tt0419677/",
             "rating": 7.5,
-            "votes": 64352
+            "votes": 64359
           },
           "filmweb": {
             "id": "39701",
@@ -1819,7 +1824,7 @@
               "Thriller"
             ],
             "rating": 7.2,
-            "votes": 4960
+            "votes": 4961
           },
           "rottenTomatoes": null
         },

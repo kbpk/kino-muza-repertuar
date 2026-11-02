@@ -1,12 +1,12 @@
 {
   "schemaVersion": 1,
   "date": "2026-11-11",
-  "updatedAt": "2026-11-01T21:09:12.115Z",
+  "updatedAt": "2026-11-02T20:20:34.360Z",
   "source": "https://www.kinomuza.pl/repertoire/day/",
   "day": {
-    "id": "10",
+    "id": "09",
     "date": "11.11",
-    "now": "2026-11-01 22:08:57",
+    "now": "2026-11-02 21:18:29",
     "info": [],
     "repertoire": [
       {
@@ -49,7 +49,7 @@
             "id": "tt36841161",
             "url": "https://www.imdb.com/title/tt36841161/",
             "rating": 7.1,
-            "votes": 2855
+            "votes": 3079
           },
           "filmweb": {
             "id": "10101144",
@@ -59,7 +59,7 @@
               "Familijny"
             ],
             "rating": 6.9,
-            "votes": 817
+            "votes": 849
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/shaun_the_sheep_the_beast_of_mossy_bottom",
@@ -119,7 +119,7 @@
             "id": "tt7734244",
             "url": "https://www.imdb.com/title/tt7734244/",
             "rating": 6.2,
-            "votes": 6657
+            "votes": 6721
           },
           "filmweb": {
             "id": "10104409",
@@ -130,7 +130,7 @@
               "Przygodowy"
             ],
             "rating": 5.8,
-            "votes": 759
+            "votes": 763
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/the_magic_faraway_tree",
@@ -253,7 +253,7 @@
             "id": "tt27541205",
             "url": "https://www.imdb.com/title/tt27541205/",
             "rating": 7.6,
-            "votes": 834
+            "votes": 878
           },
           "filmweb": {
             "id": "10034624",
@@ -262,7 +262,7 @@
               "Dramat"
             ],
             "rating": 7.3,
-            "votes": 530
+            "votes": 534
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/queen_at_sea",
@@ -377,25 +377,25 @@
         "description": "Hipnotyzujące dzieło współscenarzystki THE BRUTALIST, rzucające światło na herstorię Ann Lee – przywódczyni sekty Shakerów. Kobieta sprzeciwia się zastanemu porządkowi zepsutego świata i zakłada wspólnotę propagującą równość płciową i społeczną. Ann rusza ze swoją misją do Nowej Anglii za Atlantyk.",
         "shortDescription": "Hipnotyzujące dzieło współscenarzystki THE BRUTALIST, rzucające światło na herstorię Ann Lee – przywódczyni sekty Shakerów. Kobieta sprzeciwia się zastanemu porządkowi zepsutego świata i zakłada wspólnotę propagującą równość płciową i społeczną. Ann rusza ze swoją misją do Nowej Anglii za Atlantyk.",
         "genres": [
-          "Dramat",
-          "Musical"
+          "Musical",
+          "Dramat"
         ],
         "external": {
           "imdb": {
             "id": "tt34819091",
             "url": "https://www.imdb.com/title/tt34819091/",
             "rating": 6.4,
-            "votes": 11125
+            "votes": 11135
           },
           "filmweb": {
             "id": "10090000",
             "url": "https://www.filmweb.pl/film/Testament+Ann+Lee-2025-10090000",
             "genres": [
-              "Dramat",
-              "Musical"
+              "Musical",
+              "Dramat"
             ],
             "rating": 6,
-            "votes": 2456
+            "votes": 2459
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/the_testament_of_ann_lee",
@@ -451,7 +451,7 @@
             "id": "tt27766440",
             "url": "https://www.imdb.com/title/tt27766440/",
             "rating": 6.6,
-            "votes": 7953
+            "votes": 7961
           },
           "filmweb": {
             "id": "10058778",
@@ -461,7 +461,7 @@
               "Psychologiczny"
             ],
             "rating": 6.8,
-            "votes": 6254
+            "votes": 6262
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/the_salt_path",
@@ -518,7 +518,7 @@
             "id": "tt0166175",
             "url": "https://www.imdb.com/title/tt0166175/",
             "rating": 6.9,
-            "votes": 19830
+            "votes": 19831
           },
           "filmweb": {
             "id": "1343",
@@ -584,7 +584,7 @@
             "id": "tt0102798",
             "url": "https://www.imdb.com/title/tt0102798/",
             "rating": 6.9,
-            "votes": 225097
+            "votes": 225116
           },
           "filmweb": {
             "id": "9183",
@@ -593,7 +593,7 @@
               "Przygodowy"
             ],
             "rating": 7.2,
-            "votes": 143510
+            "votes": 143512
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/robin_hood_prince_of_thieves",
@@ -605,7 +605,7 @@
             "criticsRating": 53,
             "criticsVotes": 57,
             "audienceRating": 72,
-            "audienceVotes": 16498
+            "audienceVotes": 16499
           }
         },
         "longDescription": "Widowiskowy blockbuster z początku lat 90. i redefinicja klasycznej legendy o Robinie z Locksley. Po dekadach charyzmatycznych bohaterów w typie zawadiackiego Errola Flynna (PRZYGODY ROBIN HOODA z 1938 roku) czy antropomorficznych wariacji rodem z disneyowskiej animacji ROBIN HOOD (1973) reżyser Kevin Reynolds zaproponował świeże spojrzenie na osadzoną w średniowiecznych realiach historię. Jego wyjęty spod prawa banita to bardziej refleksyjny społecznik niż krewki awanturnik. Główna rola Kevina Costnera podzieliła krytykę i zainspirowała prześmiewczego Mela Brooksa do nakręcenia parodii ROBIN HOOD: FACECI W RAJTUZACH (1993).\n\nPowracający z niewoli podczas krucjaty do Anglii Robin Hood odkrywa podstęp, w wyniku którego stracił rodzinny majątek i ojca. Legendarny łucznik, któremu towarzyszy Maur Azeem (Morgan Freeman), poprzysięga zemstę na przebiegłym szeryfie Nottingham (Alan Rickman). Dołącza do bandy rozbójników ukrywających się w lesie Sherwood i jako ich przywódca wypowiada wojnę wrogom nieobecnego w kraju króla Ryszarda Lwie Serce (Sean Connery).\n\nDrugi najbardziej dochodowy film 1991 roku wzbogacił angielską legendę o elementy kina akcji, brutalne sekwencje oraz iście baśniowy kontrast ciemnych lochów i zjawiskowych plenerów kręconych w angielskich hrabstwach czy francuskim Carcassonne. Podczas gdy w hollywoodzkim założeniu to Kevin Costner miał być twarzą produkcji, jej duszą okazał się Alan Rickman. Pozostający na dalszym planie brytyjski mistrz mroku zdominował pozostałych członków obsady.\n\nMimo niedawnego sukcesu SZKLANEJ PUŁAPKI (1988) Rickman wyłamał się spod sztywnych ram wizerunku złoczyńcy. W portret szeryfa Nottingham wplótł świadome przerysowanie oraz infantylny pierwiastek. Pierwotnie odrzucił scenariusz, ale Kevin Reynolds – w sekrecie przed resztą ekipy – zagwarantował aktorowi ingerencję w dialogi, co zaowocowało kultowymi kwestiami o odwołaniu Świąt Bożego Narodzenia czy wydzieraniu serca… łyżką. Rola antagonisty o kreskówkowym zabarwieniu przyniosła gwiazdorowi nagrodę BAFTA dla najlepszego aktora drugoplanowego.\n\nEN\n\nA lavish early-1990s blockbuster and a fresh reworking of the classic Robin of Locksley legend. After decades of charismatic heroes in the mould of Errol Flynn’s swashbuckling outlaw in THE ADVENTURES OF ROBIN HOOD (1938), not to mention the anthropomorphic spin of Disney’s ROBIN HOOD (1973), director Kevin Reynolds offered a new take on the medieval tale. His outlaw hero is less a hot-headed adventurer than a thoughtful champion of the dispossessed. Kevin Costner’s performance divided critics and later inspired Mel Brooks to send the film up in ROBIN HOOD: MEN IN TIGHTS (1993).\n\nReturning to England after being held captive during the Crusades, Robin Hood discovers the plot that has cost him both his father and his family estate. Accompanied by the Moor Azeem (Morgan Freeman), the legendary archer vows revenge on the scheming Sheriff of Nottingham (Alan Rickman). He joins a band of outlaws hiding in Sherwood Forest and, as their leader, declares war on the enemies of the absent King Richard the Lionheart (Sean Connery).\n\nThe second highest-grossing film of 1991 injected the English legend with the pace of an action film, brutal set pieces and a distinctly fairytale contrast between dark dungeons and spectacular locations shot across English counties and in Carcassonne, France. Hollywood may have intended Kevin Costner to be the face of the production, but Alan Rickman proved to be its soul. Playing what was ostensibly a supporting role, the British master of darkness effortlessly stole the film from the rest of the cast.\n\nDespite the recent success of DIE HARD (1988), Rickman broke free of the rigid confines of the conventional screen villain. He played the Sheriff of Nottingham with deliberate excess and an almost childlike streak. He initially turned down the script, but Kevin Reynolds – without the rest of the crew knowing – promised him a say in the dialogue, resulting in now-iconic lines about cancelling Christmas and cutting someone’s heart out… with a spoon. His cartoonishly wicked antagonist won Rickman the BAFTA for Best Actor in a Supporting Role.",
@@ -648,7 +648,7 @@
             "id": "tt10329560",
             "url": "https://www.imdb.com/title/tt10329560/",
             "rating": 6.6,
-            "votes": 2894
+            "votes": 2897
           },
           "filmweb": {
             "id": "10048300",
@@ -657,7 +657,7 @@
               "Dramat"
             ],
             "rating": 5.9,
-            "votes": 192
+            "votes": 193
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/h_is_for_hawk",
@@ -712,7 +712,7 @@
             "id": "tt35521922",
             "url": "https://www.imdb.com/title/tt35521922/",
             "rating": 6.1,
-            "votes": 38759
+            "votes": 38851
           },
           "filmweb": {
             "id": "10064809",
@@ -721,7 +721,7 @@
               "Thriller"
             ],
             "rating": 7.2,
-            "votes": 15529
+            "votes": 15610
           },
           "rottenTomatoes": null
         },
@@ -765,7 +765,7 @@
             "id": "tt40001182",
             "url": "https://www.imdb.com/title/tt40001182/",
             "rating": 7.9,
-            "votes": 221
+            "votes": 222
           },
           "filmweb": {
             "id": "10118884",
@@ -830,7 +830,7 @@
             "id": "tt34966562",
             "url": "https://www.imdb.com/title/tt34966562/",
             "rating": 6.8,
-            "votes": 6969
+            "votes": 6988
           },
           "filmweb": {
             "id": "10093695",
@@ -888,25 +888,25 @@
         "description": "Rewizja Austenowskiej prozy wydobywająca z kultowej powieści siostrzeństwo, emancypację i realizm epoki. Georgiańska Anglia. Po śmierci ojca siostry Dashwood wraz z matką zostają zmuszone opuścić dom. Nowa rzeczywistość stawia je w ogniu konwenansów, finansowych trudów i miłosnej niepewności.",
         "shortDescription": "Rewizja Austenowskiej prozy wydobywająca z kultowej powieści siostrzeństwo, emancypację i realizm epoki. Georgiańska Anglia. Po śmierci ojca siostry Dashwood wraz z matką zostają zmuszone opuścić dom. Nowa rzeczywistość stawia je w ogniu konwenansów, finansowych trudów i miłosnej niepewności.",
         "genres": [
-          "Melodramat",
-          "Kostiumowy"
+          "Kostiumowy",
+          "Melodramat"
         ],
         "external": {
           "imdb": {
             "id": "tt13609648",
             "url": "https://www.imdb.com/title/tt13609648/",
             "rating": 7.3,
-            "votes": 7863
+            "votes": 8391
           },
           "filmweb": {
             "id": "10087170",
             "url": "https://www.filmweb.pl/film/Rozwa%C5%BCna+i+romantyczna-2026-10087170",
             "genres": [
-              "Melodramat",
-              "Kostiumowy"
+              "Kostiumowy",
+              "Melodramat"
             ],
             "rating": 7.2,
-            "votes": 2891
+            "votes": 2998
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/sense_and_sensibility_2026",
@@ -915,10 +915,10 @@
             "directors": [
               "Georgia Oakley"
             ],
-            "criticsRating": 77,
-            "criticsVotes": 133,
+            "criticsRating": 78,
+            "criticsVotes": 135,
             "audienceRating": 89,
-            "audienceVotes": 799
+            "audienceVotes": 811
           }
         },
         "longDescription": "Rewizja klasycznej prozy Jane Austen, która debiutując w 1811 roku pod pseudonimem The Lady zaskoczyła czytelników bardziej ironicznym niż przesiąkniętym romantyzmem tonem, zjadliwym humorem i realistycznym obrazem epoki. Twórcy nowej ROZWAŻNEJ I ROMANTYCZNEJ nie tylko idą pierwotnym śladem niezmiennie uwielbianej pisarki, lecz także rozluźniają sznurowadła społecznego gorsetu, aby wydobyć motyw kobiecej emancypacji oraz siłę siostrzanej więzi. Wnikają przy tym w zawiłe niuanse georgiańskiej mentalności, odkrywając konflikt serca i rozwagi nie zawsze kończący się kliszą happy endu.\n\nWraz ze śmiercią pana Dashwooda jego trzy córki i druga żona zostają zmuszone do opuszczenia rodzinnej posiadłości. Zgodnie z dawnym angielskim prawem jego majątek dziedziczy męski spadkobierca, w tym przypadku syn z pierwszego małżeństwa. Siostry Dashwood zostają skazane na łaskę krewnych, mając świadomość jedynej akceptowanej społecznie drogi kobiecej stabilizacji – zamążpójścia. Najstarsze siostry, roztropna Elinor (oklaskiwana po występie w GDZIE ŚPIEWAJĄ RAKI Daisy Edgar-Jones) oraz podążająca za emocjami Marianne (znana z seriali HANNA i SANDMAN Esmé Creed-Miles), muszą sprostać oczekiwaniom drżącego przed etykietą środowiska i własnym dylematom serca.\n\nStojąca za kamerą Georgia Oakley (PTASZYNA, BLUE JEAN) po raz kolejny poraża wielką świadomością stylu zakorzenionego w wizualnym języku europejskich mistrzów, w tym francuskiej intymności czy wnikliwych obserwacjach ludzkich mechanizmów rodem z hiszpańskiego ekranu. Filmowe światy nominowanej do nagrody BAFTA brytyjskiej reżyserski przenika pewna doza zmysłowości, ale na próżno szukać w nich szablonowości czy upiększeń. Drogę do wciąż aktualnej problematyki społecznej wyznacza w nich kontekst historyczny, queerowa wrażliwość i psychologia postaci. Z pomocą australijskiej scenarzystki Diany Reid twórczynie przepuszczają przez realistyczny filtr ponadczasowe emocje i perypetie sióstr Dashwood poszukujących własnego miejsca w świecie.\n\nEN\n\nA fresh take on Jane Austen’s classic novel, first published in 1811 under the pseudonym “A Lady”, which surprised readers with a tone more ironic than romantic, a sharp wit and a clear-eyed portrait of its age. The makers of the new SENSE AND SENSIBILITY not only follow in the footsteps of the ever-beloved author, but also loosen the stays of social convention to bring female emancipation and the strength of sisterhood to the fore. At the same time, they delve into the intricacies of the Georgian mindset, exploring a conflict between feeling and reason that does not always resolve itself into the reassuring shape of a happy ending.\n\nAfter Mr Dashwood’s death, his second wife and three daughters are forced to leave the family estate. Under the inheritance laws of the time, his property passed to a male heir – in this case, his son from his first marriage. The Dashwood sisters are left dependent on the goodwill of relatives and acutely aware that marriage remains the only socially acceptable route to security. The two eldest, the sensible Elinor (Daisy Edgar-Jones, acclaimed for her performance in WHERE THE CRAWDADS SING) and the more impulsive Marianne (Esmé Creed-Miles, known from HANNA and THE SANDMAN), must navigate both the expectations of a society in thrall to etiquette and the complications of their own hearts.\n\nDirector Georgia Oakley (LITTLE BIRD, BLUE JEAN) once again displays a striking command of style, rooted in the visual language of European cinema – from French intimacy to the acute observation of human behaviour associated with Spanish film. A certain sensuality runs through the work of the BAFTA-nominated British filmmaker, yet there is little room for formula or prettification. Historical context, queer sensitivity and close attention to character psychology become her routes into social questions that remain strikingly relevant. Working with Australian screenwriter Diana Reid, Oakley refracts the timeless emotions and romantic entanglements of the Dashwood sisters through a realist lens as they search for a place of their own in the world.",
@@ -962,7 +962,7 @@
             "id": "tt9362736",
             "url": "https://www.imdb.com/title/tt9362736/",
             "rating": 6,
-            "votes": 50825
+            "votes": 50873
           },
           "filmweb": {
             "id": "10023025",
@@ -972,7 +972,7 @@
               "Psychologiczny"
             ],
             "rating": 5.8,
-            "votes": 12660
+            "votes": 12683
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/die_my_love_2025",
@@ -1028,7 +1028,7 @@
             "id": "tt0051554",
             "url": "https://www.imdb.com/title/tt0051554/",
             "rating": 7.2,
-            "votes": 30691
+            "votes": 30721
           },
           "filmweb": {
             "id": "35022",
@@ -1080,8 +1080,8 @@
           "imdb": {
             "id": "tt36980182",
             "url": "https://www.imdb.com/title/tt36980182/",
-            "rating": 7.1,
-            "votes": 2593
+            "rating": 7,
+            "votes": 2652
           },
           "filmweb": {
             "id": "10093682",
@@ -1090,7 +1090,7 @@
               "Komedia"
             ],
             "rating": 6.5,
-            "votes": 84
+            "votes": 88
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/the_incomer",
@@ -1146,7 +1146,7 @@
             "id": "tt35674521",
             "url": "https://www.imdb.com/title/tt35674521/",
             "rating": 6.2,
-            "votes": 3981
+            "votes": 3998
           },
           "filmweb": {
             "id": "10072340",
@@ -1155,8 +1155,8 @@
               "Dramat",
               "Sci-Fi"
             ],
-            "rating": 6.9,
-            "votes": 679
+            "rating": 7,
+            "votes": 682
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/rose_of_nevada",
@@ -1168,7 +1168,7 @@
             "criticsRating": 92,
             "criticsVotes": 106,
             "audienceRating": 54,
-            "audienceVotes": 98
+            "audienceVotes": 99
           }
         },
         "longDescription": "Reżyser Mark Jenkin (który tutaj – co charakterystyczne dla jego twórczości – jest równocześnie scenarzystą, montażystą, operatorem i kompozytorem muzyki), w swoim najnowszym filmie ponownie zabiera nas do rodzinnej Kornwalii, żeby opowiedzieć historię zapomnianej, maleńkiej wioski rybackiej, znajdującej się na celtyckim półwyspie wysuniętym ku Atlantykowi. Pewnego dnia, w niewielkim starym porcie pojawia się tajemnicza łódka o nazwie Rose of Nevada , która zaginęła 30 lat temu razem ze wszystkimi członkami załogi. Dla tych, co nie pamiętają, to anomalia i przypowiastka. Jednak wśród starszych wywołuje to niepokój i stanowi swoisty znak. Wiedzą, że łódź musi ponownie wypłynąć w morze, żeby mieszkańcy wioski zaznali spokoju. Przypominający Ahaba z Moby Dicka kapitan Murgey (Francis Magee), kolekcjonuje nową załogę, żeby ruszyć na połów ryb i tchnąć ponownie życie w starą zapomnianą łajbę. Na ochotnika zgłasza się Nick (George MacKay), dla którego jest to dodatkowa okazja do zarobienia pieniędzy i wyżywienia swojej rodziny, oraz nowy członek społeczności Liam (Callum Turner), który na surowym morzu chętnie ucieknie od swojej przeszłości. Ubrani w żółte sztormiaki wypływają we trójkę, a woda obdarowuje ich szczodrze. W duszącej, klaustrofobicznej izolacji na małej przestrzeni, patroszą złowione ryby, których zapach unosi się wszędzie. Kiedy wykonali powierzone zadanie i z dumą wracają do portu, nic nie jest już takie, jakie zostawili. Coś jest nie tak, i nawet czas stracił swoją normalną oś zdarzeń. Nakręcony na taśmie 16 mm film Jenkina, to oniryczna opowieść zgrabnie posługująca się metaforą, która poprzez drobne detale prowadzi widza i zaprasza do rozwiązania lokalnej tajemnicy. Wśród morskiej bryzy unosi się atmosfera i obecność duchów – ludzi, których nie ma już wśród nas, ale i milczący dramat straumatyzowanej przeszłością społeczności.\n\nEN\n\nIn his latest film, director Mark Jenkin – who, characteristically, also serves as screenwriter, editor, cinematographer and composer – returns to his native Cornwall to tell the story of a tiny, forgotten fishing village on the Celtic peninsula jutting out into the Atlantic.\n\nOne day, a mysterious boat called Rose of Nevada appears in the old harbour. It vanished thirty years earlier, taking its entire crew with it. To those too young to remember, its return is little more than an anomaly, almost a folk tale brought to life. For the older villagers, however, it is deeply unsettling – a sign of sorts. They know the boat must be put to sea again if the village is ever to find peace.\n\nCaptain Murgey (Francis Magee), an Ahab-like figure, sets about assembling a new crew to go fishing and breathe life back into the long-forgotten vessel. Nick (George MacKay) volunteers, seeing it as a chance to earn extra money and provide for his family. So does Liam (Callum Turner), a newcomer to the community who is only too willing to escape his past on the unforgiving sea.\n\nDressed in yellow oilskins, the three men head out together, and the sea rewards them generously. In the stifling, claustrophobic confines of the boat, they gut their catch as the smell of fish fills every corner. When the job is done, and they return proudly to harbour, nothing is quite as they left it. Something is wrong, and even time itself seems to have slipped off its usual axis.\n\nShot on 16mm, Jenkin’s film is an oneiric tale that uses metaphor with great precision, guiding the viewer through small details and inviting them to piece together a local mystery. The sea air carries the presence of ghosts, people no longer among the living, as well as the quiet trauma of a community scarred by its past.",
@@ -1211,7 +1211,7 @@
             "id": "tt32141377",
             "url": "https://www.imdb.com/title/tt32141377/",
             "rating": 7.2,
-            "votes": 133948
+            "votes": 134246
           },
           "filmweb": {
             "id": "10068169",
@@ -1220,7 +1220,7 @@
               "Horror"
             ],
             "rating": 6.8,
-            "votes": 21009
+            "votes": 21062
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/28_years_later_the_bone_temple",
@@ -1275,7 +1275,7 @@
             "id": "tt0093177",
             "url": "https://www.imdb.com/title/tt0093177/",
             "rating": 6.9,
-            "votes": 158397
+            "votes": 158537
           },
           "filmweb": {
             "id": "31326",
@@ -1284,7 +1284,7 @@
               "Horror"
             ],
             "rating": 6.8,
-            "votes": 26588
+            "votes": 26605
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/hellraiser",
@@ -1296,7 +1296,7 @@
             "criticsRating": 72,
             "criticsVotes": 57,
             "audienceRating": 73,
-            "audienceVotes": 10664
+            "audienceVotes": 10665
           }
         },
         "longDescription": "„Widziałem przyszłość horroru, a jej imię brzmi Clive Barker” – napisał o jego prozie Stephen King i to jedno zdanie zrobiło młodemu pisarzowi z Liverpoolu karierę. Gdy jednak Barker zobaczył, co producenci zrobili z dwoma pierwszymi ekranizacjami jego scenariuszy, doszedł do prostego wniosku: następny film musi wyreżyserować sam. Tak powstał HELLRAISER.\n\nFrank jest człowiekiem, którego znudziły już wszystkie dostępne przyjemności. Kupuje więc od handlarza osobliwości zdobioną łamigłówkę, o której mówi się, że otwiera drzwi do rozkoszy niedostępnych ludziom. Łamigłówka działa, ale po drugiej jej stronie czekają cenobici – istoty, dla których ból i przyjemność są dokładnie tym samym doznaniem.\n\nBudżet HELLRAISERA nie przekroczył dziewięciuset tysięcy dolarów, zdjęcia powstały jesienią 1986 roku w Londynie, a amerykański producent narzucił warunek: akcja ma się rozgrywać w miejscu, które widz może wziąć za Amerykę. Brytyjskim aktorom wygłuszono więc w postprodukcji ich własne akcenty. Barker musiał też przycinać film do skutku, bo pierwsza wersja dostała w Stanach zaporową kategorię X przeznaczoną przede wszystkim dla filmów porno.\n\nI choć HELLRAISER na stałe wpisał się w historię horroru lat osiemdziesiątych, a kolejne sequele (i kult wokół postaci Pinheada) ustawiły film Barkera obok serii takich jak PIĄTEK TRZYNASTEGO czy KOSZMAR Z ULICY WIĄZÓW, warto pamiętać, że HELLRAISER to przede wszystkim brudny i perwersyjny melodramat o pożądaniu, który nawet po trzydziestu latach od premiery sprawi, że będziecie patrzeć na ekran przez palce.\n\nEN\n\n‘I have seen the future of horror, and his name is Clive Barker,’ Stephen King wrote of his fiction – and that one sentence launched the young Liverpool writer’s career. But after Barker saw what producers had done with the first two screen adaptations of his work, he came to a simple conclusion: the next film he would have to direct himself. That film was HELLRAISER.\n\nFrank is a man who has grown bored with every pleasure available to him. So he buys an ornate puzzle box from a dealer in curiosities, said to open the door to pleasures beyond human experience. The box works – but waiting on the other side are the Cenobites, beings for whom pain and pleasure are one and the same sensation.\n\nHELLRAISER was made for less than $900,000 and shot in London in the autumn of 1986. Its American producer imposed one condition: the story had to take place somewhere audiences could plausibly mistake for America. The British actors therefore had their accents dubbed over in post-production. Barker was also forced to keep cutting the film, as the first version received the prohibitive X rating in the United States, a classification primarily associated with pornography.\n\nHELLRAISER has long since secured its place in the history of 1980s horror – with its many sequels and the cult surrounding Pinhead putting Barker’s film alongside franchises such as FRIDAY THE 13TH and A NIGHTMARE ON ELM STREET. However, it is worth remembering that HELLRAISER is, above all, a grubby, perverse melodrama about desire. Even thirty years after its release, it is the sort of film that will have you watching through your fingers.",
@@ -1339,7 +1339,7 @@
             "id": "tt32321317",
             "url": "https://www.imdb.com/title/tt32321317/",
             "rating": 6.9,
-            "votes": 25456
+            "votes": 25493
           },
           "filmweb": {
             "id": "10053146",
@@ -1348,7 +1348,7 @@
               "Melodramat"
             ],
             "rating": 6.5,
-            "votes": 6300
+            "votes": 6319
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/pillion",

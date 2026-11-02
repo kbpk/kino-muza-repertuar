@@ -1,12 +1,12 @@
 {
   "schemaVersion": 1,
   "date": "2026-12-10",
-  "updatedAt": "2026-11-01T21:09:12.115Z",
+  "updatedAt": "2026-11-02T20:20:34.360Z",
   "source": "https://www.kinomuza.pl/repertoire/day/",
   "day": {
-    "id": "39",
+    "id": "38",
     "date": "10.12",
-    "now": "2026-11-01 22:09:08",
+    "now": "2026-11-02 21:18:41",
     "info": [],
     "repertoire": [
       {
@@ -40,8 +40,8 @@
         "description": "Pełna czułości i przewrotnego humoru opowieść o kobiecie, która walczy o swoje marzenia i umie rozkoszować się życiem, oraz o pozornej, zaskakującej codzienności.",
         "shortDescription": "Pełna czułości i przewrotnego humoru opowieść o kobiecie, która walczy o swoje marzenia i umie rozkoszować się życiem, oraz o pozornej, zaskakującej codzienności.",
         "genres": [
-          "Dramat",
-          "Komedia"
+          "Komedia",
+          "Dramat"
         ],
         "external": {
           "imdb": {
@@ -54,8 +54,8 @@
             "id": "10116773",
             "url": "https://www.filmweb.pl/film/Isabel-2026-10116773",
             "genres": [
-              "Dramat",
-              "Komedia"
+              "Komedia",
+              "Dramat"
             ],
             "rating": 6,
             "votes": 9

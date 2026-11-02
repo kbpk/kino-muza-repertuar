@@ -1,12 +1,12 @@
 {
   "schemaVersion": 1,
   "date": "2026-11-14",
-  "updatedAt": "2026-11-01T21:09:12.115Z",
+  "updatedAt": "2026-11-02T20:20:34.360Z",
   "source": "https://www.kinomuza.pl/repertoire/day/",
   "day": {
-    "id": "13",
+    "id": "12",
     "date": "14.11",
-    "now": "2026-11-01 22:08:59",
+    "now": "2026-11-02 21:18:31",
     "info": [],
     "repertoire": [
       {
@@ -153,7 +153,7 @@
             "id": "tt36841161",
             "url": "https://www.imdb.com/title/tt36841161/",
             "rating": 7.1,
-            "votes": 2855
+            "votes": 3079
           },
           "filmweb": {
             "id": "10101144",
@@ -163,7 +163,7 @@
               "Familijny"
             ],
             "rating": 6.9,
-            "votes": 817
+            "votes": 849
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/shaun_the_sheep_the_beast_of_mossy_bottom",
@@ -223,7 +223,7 @@
             "id": "tt7734244",
             "url": "https://www.imdb.com/title/tt7734244/",
             "rating": 6.2,
-            "votes": 6657
+            "votes": 6721
           },
           "filmweb": {
             "id": "10104409",
@@ -234,7 +234,7 @@
               "Przygodowy"
             ],
             "rating": 5.8,
-            "votes": 759
+            "votes": 763
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/the_magic_faraway_tree",
@@ -291,7 +291,7 @@
             "id": "tt34798706",
             "url": "https://www.imdb.com/title/tt34798706/",
             "rating": 6.9,
-            "votes": 205
+            "votes": 206
           },
           "filmweb": {
             "id": "10109750",
@@ -357,7 +357,7 @@
             "id": "tt0039192",
             "url": "https://www.imdb.com/title/tt0039192/",
             "rating": 7.7,
-            "votes": 32050
+            "votes": 32054
           },
           "filmweb": {
             "id": "111145",
@@ -366,7 +366,7 @@
               "Dramat"
             ],
             "rating": 7.2,
-            "votes": 1909
+            "votes": 1910
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/black_narcissus",
@@ -545,25 +545,25 @@
         "description": "Hipnotyzujące dzieło współscenarzystki THE BRUTALIST, rzucające światło na herstorię Ann Lee – przywódczyni sekty Shakerów. Kobieta sprzeciwia się zastanemu porządkowi zepsutego świata i zakłada wspólnotę propagującą równość płciową i społeczną. Ann rusza ze swoją misją do Nowej Anglii za Atlantyk.",
         "shortDescription": "Hipnotyzujące dzieło współscenarzystki THE BRUTALIST, rzucające światło na herstorię Ann Lee – przywódczyni sekty Shakerów. Kobieta sprzeciwia się zastanemu porządkowi zepsutego świata i zakłada wspólnotę propagującą równość płciową i społeczną. Ann rusza ze swoją misją do Nowej Anglii za Atlantyk.",
         "genres": [
-          "Dramat",
-          "Musical"
+          "Musical",
+          "Dramat"
         ],
         "external": {
           "imdb": {
             "id": "tt34819091",
             "url": "https://www.imdb.com/title/tt34819091/",
             "rating": 6.4,
-            "votes": 11125
+            "votes": 11135
           },
           "filmweb": {
             "id": "10090000",
             "url": "https://www.filmweb.pl/film/Testament+Ann+Lee-2025-10090000",
             "genres": [
-              "Dramat",
-              "Musical"
+              "Musical",
+              "Dramat"
             ],
             "rating": 6,
-            "votes": 2456
+            "votes": 2459
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/the_testament_of_ann_lee",
@@ -621,7 +621,7 @@
             "id": "tt2062622",
             "url": "https://www.imdb.com/title/tt2062622/",
             "rating": 4.8,
-            "votes": 2179
+            "votes": 2180
           },
           "filmweb": {
             "id": "633588",
@@ -675,7 +675,7 @@
             "id": "tt0212380",
             "url": "https://www.imdb.com/title/tt0212380/",
             "rating": 6.2,
-            "votes": 9691
+            "votes": 9692
           },
           "filmweb": {
             "id": "30869",
@@ -739,7 +739,7 @@
             "id": "tt35521922",
             "url": "https://www.imdb.com/title/tt35521922/",
             "rating": 6.1,
-            "votes": 38759
+            "votes": 38851
           },
           "filmweb": {
             "id": "10064809",
@@ -748,7 +748,7 @@
               "Thriller"
             ],
             "rating": 7.2,
-            "votes": 15529
+            "votes": 15610
           },
           "rottenTomatoes": null
         },
@@ -796,7 +796,7 @@
               "Dokumentalny"
             ],
             "rating": 8,
-            "votes": 41
+            "votes": 42
           },
           "rottenTomatoes": null
         },
@@ -842,7 +842,7 @@
             "id": "tt0249462",
             "url": "https://www.imdb.com/title/tt0249462/",
             "rating": 7.7,
-            "votes": 154416
+            "votes": 154426
           },
           "filmweb": {
             "id": "1471",
@@ -853,7 +853,7 @@
               "Komedia"
             ],
             "rating": 7.6,
-            "votes": 150760
+            "votes": 150768
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/billy_elliot",
@@ -902,26 +902,26 @@
         "shortDescription": "Zainspirowany najsłynniejszą sztuką Williama Szekspira film w reżyserii Chloé Zhao jest wrażliwym i głębokim obrazem małżeństwa, próbującego ukształtować się na nowo po śmierci ukochanego dziecka. W rolach głównych zjawiskowy duet: Jessie Buckley oraz Paul Mescal.",
         "genres": [
           "Biograficzny",
-          "Dramat",
-          "Kostiumowy"
+          "Kostiumowy",
+          "Dramat"
         ],
         "external": {
           "imdb": {
             "id": "tt14905854",
             "url": "https://www.imdb.com/title/tt14905854/",
             "rating": 7.8,
-            "votes": 140834
+            "votes": 140990
           },
           "filmweb": {
             "id": "10035555",
             "url": "https://www.filmweb.pl/film/Hamnet-2025-10035555",
             "genres": [
               "Biograficzny",
-              "Dramat",
-              "Kostiumowy"
+              "Kostiumowy",
+              "Dramat"
             ],
             "rating": 7.6,
-            "votes": 30408
+            "votes": 30445
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/hamnet",
@@ -977,7 +977,7 @@
             "id": "tt0092929",
             "url": "https://www.imdb.com/title/tt0092929/",
             "rating": 7.1,
-            "votes": 10712
+            "votes": 10714
           },
           "filmweb": {
             "id": "5214",
@@ -1035,25 +1035,25 @@
         "description": "Rewizja Austenowskiej prozy wydobywająca z kultowej powieści siostrzeństwo, emancypację i realizm epoki. Georgiańska Anglia. Po śmierci ojca siostry Dashwood wraz z matką zostają zmuszone opuścić dom. Nowa rzeczywistość stawia je w ogniu konwenansów, finansowych trudów i miłosnej niepewności.",
         "shortDescription": "Rewizja Austenowskiej prozy wydobywająca z kultowej powieści siostrzeństwo, emancypację i realizm epoki. Georgiańska Anglia. Po śmierci ojca siostry Dashwood wraz z matką zostają zmuszone opuścić dom. Nowa rzeczywistość stawia je w ogniu konwenansów, finansowych trudów i miłosnej niepewności.",
         "genres": [
-          "Melodramat",
-          "Kostiumowy"
+          "Kostiumowy",
+          "Melodramat"
         ],
         "external": {
           "imdb": {
             "id": "tt13609648",
             "url": "https://www.imdb.com/title/tt13609648/",
             "rating": 7.3,
-            "votes": 7863
+            "votes": 8391
           },
           "filmweb": {
             "id": "10087170",
             "url": "https://www.filmweb.pl/film/Rozwa%C5%BCna+i+romantyczna-2026-10087170",
             "genres": [
-              "Melodramat",
-              "Kostiumowy"
+              "Kostiumowy",
+              "Melodramat"
             ],
             "rating": 7.2,
-            "votes": 2891
+            "votes": 2998
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/sense_and_sensibility_2026",
@@ -1062,10 +1062,10 @@
             "directors": [
               "Georgia Oakley"
             ],
-            "criticsRating": 77,
-            "criticsVotes": 133,
+            "criticsRating": 78,
+            "criticsVotes": 135,
             "audienceRating": 89,
-            "audienceVotes": 799
+            "audienceVotes": 811
           }
         },
         "longDescription": "Rewizja klasycznej prozy Jane Austen, która debiutując w 1811 roku pod pseudonimem The Lady zaskoczyła czytelników bardziej ironicznym niż przesiąkniętym romantyzmem tonem, zjadliwym humorem i realistycznym obrazem epoki. Twórcy nowej ROZWAŻNEJ I ROMANTYCZNEJ nie tylko idą pierwotnym śladem niezmiennie uwielbianej pisarki, lecz także rozluźniają sznurowadła społecznego gorsetu, aby wydobyć motyw kobiecej emancypacji oraz siłę siostrzanej więzi. Wnikają przy tym w zawiłe niuanse georgiańskiej mentalności, odkrywając konflikt serca i rozwagi nie zawsze kończący się kliszą happy endu.\n\nWraz ze śmiercią pana Dashwooda jego trzy córki i druga żona zostają zmuszone do opuszczenia rodzinnej posiadłości. Zgodnie z dawnym angielskim prawem jego majątek dziedziczy męski spadkobierca, w tym przypadku syn z pierwszego małżeństwa. Siostry Dashwood zostają skazane na łaskę krewnych, mając świadomość jedynej akceptowanej społecznie drogi kobiecej stabilizacji – zamążpójścia. Najstarsze siostry, roztropna Elinor (oklaskiwana po występie w GDZIE ŚPIEWAJĄ RAKI Daisy Edgar-Jones) oraz podążająca za emocjami Marianne (znana z seriali HANNA i SANDMAN Esmé Creed-Miles), muszą sprostać oczekiwaniom drżącego przed etykietą środowiska i własnym dylematom serca.\n\nStojąca za kamerą Georgia Oakley (PTASZYNA, BLUE JEAN) po raz kolejny poraża wielką świadomością stylu zakorzenionego w wizualnym języku europejskich mistrzów, w tym francuskiej intymności czy wnikliwych obserwacjach ludzkich mechanizmów rodem z hiszpańskiego ekranu. Filmowe światy nominowanej do nagrody BAFTA brytyjskiej reżyserski przenika pewna doza zmysłowości, ale na próżno szukać w nich szablonowości czy upiększeń. Drogę do wciąż aktualnej problematyki społecznej wyznacza w nich kontekst historyczny, queerowa wrażliwość i psychologia postaci. Z pomocą australijskiej scenarzystki Diany Reid twórczynie przepuszczają przez realistyczny filtr ponadczasowe emocje i perypetie sióstr Dashwood poszukujących własnego miejsca w świecie.\n\nEN\n\nA fresh take on Jane Austen’s classic novel, first published in 1811 under the pseudonym “A Lady”, which surprised readers with a tone more ironic than romantic, a sharp wit and a clear-eyed portrait of its age. The makers of the new SENSE AND SENSIBILITY not only follow in the footsteps of the ever-beloved author, but also loosen the stays of social convention to bring female emancipation and the strength of sisterhood to the fore. At the same time, they delve into the intricacies of the Georgian mindset, exploring a conflict between feeling and reason that does not always resolve itself into the reassuring shape of a happy ending.\n\nAfter Mr Dashwood’s death, his second wife and three daughters are forced to leave the family estate. Under the inheritance laws of the time, his property passed to a male heir – in this case, his son from his first marriage. The Dashwood sisters are left dependent on the goodwill of relatives and acutely aware that marriage remains the only socially acceptable route to security. The two eldest, the sensible Elinor (Daisy Edgar-Jones, acclaimed for her performance in WHERE THE CRAWDADS SING) and the more impulsive Marianne (Esmé Creed-Miles, known from HANNA and THE SANDMAN), must navigate both the expectations of a society in thrall to etiquette and the complications of their own hearts.\n\nDirector Georgia Oakley (LITTLE BIRD, BLUE JEAN) once again displays a striking command of style, rooted in the visual language of European cinema – from French intimacy to the acute observation of human behaviour associated with Spanish film. A certain sensuality runs through the work of the BAFTA-nominated British filmmaker, yet there is little room for formula or prettification. Historical context, queer sensitivity and close attention to character psychology become her routes into social questions that remain strikingly relevant. Working with Australian screenwriter Diana Reid, Oakley refracts the timeless emotions and romantic entanglements of the Dashwood sisters through a realist lens as they search for a place of their own in the world.",
@@ -1108,7 +1108,7 @@
             "id": "tt0050280",
             "url": "https://www.imdb.com/title/tt0050280/",
             "rating": 7,
-            "votes": 15321
+            "votes": 15334
           },
           "filmweb": {
             "id": "112951",
@@ -1117,7 +1117,7 @@
               "Horror"
             ],
             "rating": 6.6,
-            "votes": 1564
+            "votes": 1565
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/curse_of_frankenstein",
@@ -1173,7 +1173,7 @@
             "id": "tt27766440",
             "url": "https://www.imdb.com/title/tt27766440/",
             "rating": 6.6,
-            "votes": 7953
+            "votes": 7961
           },
           "filmweb": {
             "id": "10058778",
@@ -1183,7 +1183,7 @@
               "Psychologiczny"
             ],
             "rating": 6.8,
-            "votes": 6254
+            "votes": 6262
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/the_salt_path",
@@ -1239,7 +1239,7 @@
             "id": "tt34966562",
             "url": "https://www.imdb.com/title/tt34966562/",
             "rating": 6.8,
-            "votes": 6969
+            "votes": 6988
           },
           "filmweb": {
             "id": "10093695",
@@ -1304,7 +1304,7 @@
             "id": "tt27541205",
             "url": "https://www.imdb.com/title/tt27541205/",
             "rating": 7.6,
-            "votes": 834
+            "votes": 878
           },
           "filmweb": {
             "id": "10034624",
@@ -1313,7 +1313,7 @@
               "Dramat"
             ],
             "rating": 7.3,
-            "votes": 530
+            "votes": 534
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/queen_at_sea",
@@ -1369,7 +1369,7 @@
             "id": "tt37967547",
             "url": "https://www.imdb.com/title/tt37967547/",
             "rating": 6.9,
-            "votes": 562
+            "votes": 568
           },
           "filmweb": {
             "id": "10100972",
@@ -1378,8 +1378,8 @@
               "Biograficzny",
               "Dramat"
             ],
-            "rating": 6.6,
-            "votes": 133
+            "rating": 6.5,
+            "votes": 134
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/ink_2026",
@@ -1434,7 +1434,7 @@
             "id": "tt10329560",
             "url": "https://www.imdb.com/title/tt10329560/",
             "rating": 6.6,
-            "votes": 2894
+            "votes": 2897
           },
           "filmweb": {
             "id": "10048300",
@@ -1443,7 +1443,7 @@
               "Dramat"
             ],
             "rating": 5.9,
-            "votes": 192
+            "votes": 193
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/h_is_for_hawk",
@@ -1498,7 +1498,7 @@
             "id": "tt32141377",
             "url": "https://www.imdb.com/title/tt32141377/",
             "rating": 7.2,
-            "votes": 133948
+            "votes": 134246
           },
           "filmweb": {
             "id": "10068169",
@@ -1507,7 +1507,7 @@
               "Horror"
             ],
             "rating": 6.8,
-            "votes": 21009
+            "votes": 21062
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/28_years_later_the_bone_temple",
@@ -1563,7 +1563,7 @@
             "id": "tt35674521",
             "url": "https://www.imdb.com/title/tt35674521/",
             "rating": 6.2,
-            "votes": 3981
+            "votes": 3998
           },
           "filmweb": {
             "id": "10072340",
@@ -1572,8 +1572,8 @@
               "Dramat",
               "Sci-Fi"
             ],
-            "rating": 6.9,
-            "votes": 679
+            "rating": 7,
+            "votes": 682
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/rose_of_nevada",
@@ -1585,7 +1585,7 @@
             "criticsRating": 92,
             "criticsVotes": 106,
             "audienceRating": 54,
-            "audienceVotes": 98
+            "audienceVotes": 99
           }
         },
         "longDescription": "Reżyser Mark Jenkin (który tutaj – co charakterystyczne dla jego twórczości – jest równocześnie scenarzystą, montażystą, operatorem i kompozytorem muzyki), w swoim najnowszym filmie ponownie zabiera nas do rodzinnej Kornwalii, żeby opowiedzieć historię zapomnianej, maleńkiej wioski rybackiej, znajdującej się na celtyckim półwyspie wysuniętym ku Atlantykowi. Pewnego dnia, w niewielkim starym porcie pojawia się tajemnicza łódka o nazwie Rose of Nevada , która zaginęła 30 lat temu razem ze wszystkimi członkami załogi. Dla tych, co nie pamiętają, to anomalia i przypowiastka. Jednak wśród starszych wywołuje to niepokój i stanowi swoisty znak. Wiedzą, że łódź musi ponownie wypłynąć w morze, żeby mieszkańcy wioski zaznali spokoju. Przypominający Ahaba z Moby Dicka kapitan Murgey (Francis Magee), kolekcjonuje nową załogę, żeby ruszyć na połów ryb i tchnąć ponownie życie w starą zapomnianą łajbę. Na ochotnika zgłasza się Nick (George MacKay), dla którego jest to dodatkowa okazja do zarobienia pieniędzy i wyżywienia swojej rodziny, oraz nowy członek społeczności Liam (Callum Turner), który na surowym morzu chętnie ucieknie od swojej przeszłości. Ubrani w żółte sztormiaki wypływają we trójkę, a woda obdarowuje ich szczodrze. W duszącej, klaustrofobicznej izolacji na małej przestrzeni, patroszą złowione ryby, których zapach unosi się wszędzie. Kiedy wykonali powierzone zadanie i z dumą wracają do portu, nic nie jest już takie, jakie zostawili. Coś jest nie tak, i nawet czas stracił swoją normalną oś zdarzeń. Nakręcony na taśmie 16 mm film Jenkina, to oniryczna opowieść zgrabnie posługująca się metaforą, która poprzez drobne detale prowadzi widza i zaprasza do rozwiązania lokalnej tajemnicy. Wśród morskiej bryzy unosi się atmosfera i obecność duchów – ludzi, których nie ma już wśród nas, ale i milczący dramat straumatyzowanej przeszłością społeczności.\n\nEN\n\nIn his latest film, director Mark Jenkin – who, characteristically, also serves as screenwriter, editor, cinematographer and composer – returns to his native Cornwall to tell the story of a tiny, forgotten fishing village on the Celtic peninsula jutting out into the Atlantic.\n\nOne day, a mysterious boat called Rose of Nevada appears in the old harbour. It vanished thirty years earlier, taking its entire crew with it. To those too young to remember, its return is little more than an anomaly, almost a folk tale brought to life. For the older villagers, however, it is deeply unsettling – a sign of sorts. They know the boat must be put to sea again if the village is ever to find peace.\n\nCaptain Murgey (Francis Magee), an Ahab-like figure, sets about assembling a new crew to go fishing and breathe life back into the long-forgotten vessel. Nick (George MacKay) volunteers, seeing it as a chance to earn extra money and provide for his family. So does Liam (Callum Turner), a newcomer to the community who is only too willing to escape his past on the unforgiving sea.\n\nDressed in yellow oilskins, the three men head out together, and the sea rewards them generously. In the stifling, claustrophobic confines of the boat, they gut their catch as the smell of fish fills every corner. When the job is done, and they return proudly to harbour, nothing is quite as they left it. Something is wrong, and even time itself seems to have slipped off its usual axis.\n\nShot on 16mm, Jenkin’s film is an oneiric tale that uses metaphor with great precision, guiding the viewer through small details and inviting them to piece together a local mystery. The sea air carries the presence of ghosts, people no longer among the living, as well as the quiet trauma of a community scarred by its past.",
@@ -1629,7 +1629,7 @@
             "id": "tt9362736",
             "url": "https://www.imdb.com/title/tt9362736/",
             "rating": 6,
-            "votes": 50825
+            "votes": 50873
           },
           "filmweb": {
             "id": "10023025",
@@ -1639,7 +1639,7 @@
               "Psychologiczny"
             ],
             "rating": 5.8,
-            "votes": 12660
+            "votes": 12683
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/die_my_love_2025",
@@ -1696,7 +1696,7 @@
             "id": "tt27674982",
             "url": "https://www.imdb.com/title/tt27674982/",
             "rating": 7.4,
-            "votes": 26469
+            "votes": 26486
           },
           "filmweb": {
             "id": "10070057",
@@ -1707,7 +1707,7 @@
               "Komedia"
             ],
             "rating": 6.8,
-            "votes": 997
+            "votes": 998
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/the_ballad_of_wallis_island",
@@ -1890,7 +1890,7 @@
             "id": "tt32321317",
             "url": "https://www.imdb.com/title/tt32321317/",
             "rating": 6.9,
-            "votes": 25456
+            "votes": 25493
           },
           "filmweb": {
             "id": "10053146",
@@ -1899,7 +1899,7 @@
               "Melodramat"
             ],
             "rating": 6.5,
-            "votes": 6300
+            "votes": 6319
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/pillion",

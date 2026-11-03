@@ -1,12 +1,12 @@
 {
   "schemaVersion": 1,
   "date": "2026-11-15",
-  "updatedAt": "2026-11-02T20:20:34.360Z",
+  "updatedAt": "2026-11-03T17:48:35.792Z",
   "source": "https://www.kinomuza.pl/repertoire/day/",
   "day": {
-    "id": "13",
+    "id": "12",
     "date": "15.11",
-    "now": "2026-11-02 21:18:32",
+    "now": "2026-11-03 18:47:17",
     "info": [],
     "repertoire": [
       {
@@ -58,7 +58,7 @@
               "Familijny"
             ],
             "rating": 6.9,
-            "votes": 849
+            "votes": 872
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/shaun_the_sheep_the_beast_of_mossy_bottom",
@@ -169,7 +169,7 @@
               "Przygodowy"
             ],
             "rating": 7.1,
-            "votes": 288432
+            "votes": 288437
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/chronicles_of_narnia_lion_witch_wardrobe",
@@ -237,7 +237,7 @@
               "Familijny"
             ],
             "rating": 6.9,
-            "votes": 849
+            "votes": 872
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/shaun_the_sheep_the_beast_of_mossy_bottom",
@@ -413,7 +413,7 @@
               "Melodramat"
             ],
             "rating": 7.2,
-            "votes": 2998
+            "votes": 3063
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/sense_and_sensibility_2026",
@@ -425,7 +425,7 @@
             "criticsRating": 78,
             "criticsVotes": 135,
             "audienceRating": 89,
-            "audienceVotes": 811
+            "audienceVotes": 818
           }
         },
         "longDescription": "Rewizja klasycznej prozy Jane Austen, która debiutując w 1811 roku pod pseudonimem The Lady zaskoczyła czytelników bardziej ironicznym niż przesiąkniętym romantyzmem tonem, zjadliwym humorem i realistycznym obrazem epoki. Twórcy nowej ROZWAŻNEJ I ROMANTYCZNEJ nie tylko idą pierwotnym śladem niezmiennie uwielbianej pisarki, lecz także rozluźniają sznurowadła społecznego gorsetu, aby wydobyć motyw kobiecej emancypacji oraz siłę siostrzanej więzi. Wnikają przy tym w zawiłe niuanse georgiańskiej mentalności, odkrywając konflikt serca i rozwagi nie zawsze kończący się kliszą happy endu.\n\nWraz ze śmiercią pana Dashwooda jego trzy córki i druga żona zostają zmuszone do opuszczenia rodzinnej posiadłości. Zgodnie z dawnym angielskim prawem jego majątek dziedziczy męski spadkobierca, w tym przypadku syn z pierwszego małżeństwa. Siostry Dashwood zostają skazane na łaskę krewnych, mając świadomość jedynej akceptowanej społecznie drogi kobiecej stabilizacji – zamążpójścia. Najstarsze siostry, roztropna Elinor (oklaskiwana po występie w GDZIE ŚPIEWAJĄ RAKI Daisy Edgar-Jones) oraz podążająca za emocjami Marianne (znana z seriali HANNA i SANDMAN Esmé Creed-Miles), muszą sprostać oczekiwaniom drżącego przed etykietą środowiska i własnym dylematom serca.\n\nStojąca za kamerą Georgia Oakley (PTASZYNA, BLUE JEAN) po raz kolejny poraża wielką świadomością stylu zakorzenionego w wizualnym języku europejskich mistrzów, w tym francuskiej intymności czy wnikliwych obserwacjach ludzkich mechanizmów rodem z hiszpańskiego ekranu. Filmowe światy nominowanej do nagrody BAFTA brytyjskiej reżyserski przenika pewna doza zmysłowości, ale na próżno szukać w nich szablonowości czy upiększeń. Drogę do wciąż aktualnej problematyki społecznej wyznacza w nich kontekst historyczny, queerowa wrażliwość i psychologia postaci. Z pomocą australijskiej scenarzystki Diany Reid twórczynie przepuszczają przez realistyczny filtr ponadczasowe emocje i perypetie sióstr Dashwood poszukujących własnego miejsca w świecie.\n\nEN\n\nA fresh take on Jane Austen’s classic novel, first published in 1811 under the pseudonym “A Lady”, which surprised readers with a tone more ironic than romantic, a sharp wit and a clear-eyed portrait of its age. The makers of the new SENSE AND SENSIBILITY not only follow in the footsteps of the ever-beloved author, but also loosen the stays of social convention to bring female emancipation and the strength of sisterhood to the fore. At the same time, they delve into the intricacies of the Georgian mindset, exploring a conflict between feeling and reason that does not always resolve itself into the reassuring shape of a happy ending.\n\nAfter Mr Dashwood’s death, his second wife and three daughters are forced to leave the family estate. Under the inheritance laws of the time, his property passed to a male heir – in this case, his son from his first marriage. The Dashwood sisters are left dependent on the goodwill of relatives and acutely aware that marriage remains the only socially acceptable route to security. The two eldest, the sensible Elinor (Daisy Edgar-Jones, acclaimed for her performance in WHERE THE CRAWDADS SING) and the more impulsive Marianne (Esmé Creed-Miles, known from HANNA and THE SANDMAN), must navigate both the expectations of a society in thrall to etiquette and the complications of their own hearts.\n\nDirector Georgia Oakley (LITTLE BIRD, BLUE JEAN) once again displays a striking command of style, rooted in the visual language of European cinema – from French intimacy to the acute observation of human behaviour associated with Spanish film. A certain sensuality runs through the work of the BAFTA-nominated British filmmaker, yet there is little room for formula or prettification. Historical context, queer sensitivity and close attention to character psychology become her routes into social questions that remain strikingly relevant. Working with Australian screenwriter Diana Reid, Oakley refracts the timeless emotions and romantic entanglements of the Dashwood sisters through a realist lens as they search for a place of their own in the world.",
@@ -481,7 +481,7 @@
               "Dramat"
             ],
             "rating": 7.6,
-            "votes": 30445
+            "votes": 30462
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/hamnet",
@@ -493,7 +493,7 @@
             "criticsRating": 86,
             "criticsVotes": 352,
             "audienceRating": 93,
-            "audienceVotes": 2687
+            "audienceVotes": 2688
           }
         },
         "longDescription": "Maggie O’Farrell w swojej powieści opisuje chłopca, który „ ma skłonności do wyślizgiwania się poza granice realnego, namacalnego świata, który go otacza. ” Nagrodzony w 2020 roku prestiżową brytyjską nagrodą Women’s Prize for Fiction tekst, został zainspirowany najsłynniejszą, a jednocześnie najbardziej enigmatyczną sztuką Williama Szekspira.\n\nW latach 80. XVI wieku pewnemu małżeństwu mieszkającemu w Stratfordzie urodziła się trójka dzieci: najmłodsza Susanna, a następnie bliźnięta – Hamnet i Judith. Chłopiec zmarł w wieku jedenastu lat. Cztery lata później jego ojciec napisał sztukę zatytułowaną Hamlet . Film wyreżyserowany przez Chloé Zhao, drugą kobietę w historii, która otrzymała Oscara za najlepszą reżyserię (NOMADLAND, 2021), jest wrażliwym i głębokim obrazem małżeństwa, próbującego ukształtować się na nowo po śmierci ukochanego dziecka. To historia Agnes – żony Williama Szekspira i jej zmagań po stracie ukochanego syna Hamneta.\n\nW rolach głównych zjawiskowy duet irlandzkich aktorów: Jessie Buckley oraz Paul Mescal. Producentami filmu są Steven Spielberg i Sam Mendes, a zdjęcia wykonał Łukasz Żal. Dopełnieniem całości jest muzyka skomponowana przez Maxa Richtera. Brytyjski HAMNET to opowieść o poszukiwaniu bliskości i sensu dalszego istnienia, mimo straty, której rany są niemożliwe do zagojenia się. Gdzieś na granicy snu i tego co realne, parafrazując bohaterów filmu, opowiemy Wam historię, ale taką, która Was poruszy. Film Zhao był nominowany do Oscara w 8 kategoriach, w tym za najlepszy film, a fantastyczna Jessie Buckley odebrała złotą statuetkę za swoją rolę. Pierwsze pokazy HAMNETA w Polsce odbyły się na British Film Festival 2025.\n\nEN\n\nMaggie O’Farrell’s novel describes a boy who “ tends to slip the bounds of the real, tangible world around him”. Winner of the Women’s Prize for Fiction in 2020, the book was inspired by William Shakespeare’s most famous and most enigmatic play.\n\nIn the 1580s, a couple living in Stratford had three children: Susanna, followed by twins Hamnet and Judith. Hamnet died at the age of eleven. Four years later, his father wrote a play entitled Hamlet . Directed by Chloé Zhao, the second woman in history to win the Academy Award for Best Director (NOMADLAND, 2021), HAMNET is a tender and deeply affecting portrait of a marriage trying to reshape itself after the death of a beloved child. At its heart is Agnes, William Shakespeare’s wife, and her struggle to live with the loss of their son.\n\nThe film is led by a remarkable pair of Irish actors, Jessie Buckley and Paul Mescal. Steven Spielberg and Sam Mendes are among the producers, Łukasz Żal is responsible for the cinematography, and the score was composed by Max Richter. HAMNET is a story about searching for closeness and meaning after a loss whose wounds can never fully heal. Hovering somewhere between dream and reality, it sets out, to borrow the language of the film itself, to tell a story that moves us.\n\nZhao’s film received eight Academy Award nominations, including Best Picture, while Jessie Buckley won the Oscar for her performance. HAMNET received its first Polish screenings at the British Film Festival in 2025.",
@@ -551,7 +551,7 @@
               "Przygodowy"
             ],
             "rating": 5.8,
-            "votes": 763
+            "votes": 764
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/the_magic_faraway_tree",
@@ -562,8 +562,8 @@
             ],
             "criticsRating": 80,
             "criticsVotes": 111,
-            "audienceRating": 81,
-            "audienceVotes": 259
+            "audienceRating": 82,
+            "audienceVotes": 260
           }
         },
         "longDescription": "Rodzina Thompsonów wyprowadza się z Londynu na wieś – trochę z konieczności, trochę w nadziei na nowy początek. Dla trójki dzieci zmiana oznacza nagłe wyrwanie z dobrze znanej codzienności. Wszystko nabiera jednak zupełnie innego wymiaru, gdy najmłodsza Fran odkrywa w pobliskim lesie niezwykłe drzewo zamieszkane przez osobliwych lokatorów. Na jego szczycie pojawiają się fantastyczne krainy – zmienne, nieprzewidywalne i podporządkowane własnym, często absurdalnym regułom.\n\nDRZEWO MAGII to filmowa interpretacja jednego z najbardziej charakterystycznych światów brytyjskiej literatury dziecięcej. Enid Blyton zaprosiła czytelników do Zaklętego Lasu jeszcze pod koniec lat 30. Jej opowieści wyrastały z przekonania, że przygoda może rozpocząć się tuż za domem, a dzieci potrafią odkrywać świat na własnych zasadach – z ciekawością, odwagą i sporą dozą samodzielności. Bliskość natury, swoboda zabawy oraz fantastyczność przyjmowana bez zbędnych wyjaśnień przez dekady budowały szczególny charakter tej popularnej serii. Scenarzysta Simon Farnaby i reżyser Ben Gregor przenoszą znaną historię do współczesności, zachowując jej pierwotny urok.\n\nAndrew Garfield i Claire Foy odnajdują w rolach rodziców zarówno komediową bezradność wobec kolejnych absurdów, jak i ciepło rodzinnej relacji, a Nicola Coughlan, Nonso Anozie i Rebecca Ferguson z wyraźną przyjemnością wnoszą do filmu porcję baśniowej ekscentryczności.\n\nTwórcom zależało również, by magia miała możliwie materialny wymiar na planie filmowym. Zamiast wykreować świat wyłącznie cyfrowo, postawili na rozbudowane scenografie, dekoracje i kostiumy. Samo tytułowe drzewo powstawało przez wiele miesięcy jako pełnowymiarowa konstrukcja, po której aktorzy rzeczywiście mogli się wspinać, a kolejne krainy projektowano tak, by dawały realną przestrzeń do zabawy.\n\nPod baśniowym rozgardiaszem DRZEWA MAGII kryje się nie tylko zachęta do ograniczenia ekranów, ale też wspólnego, rodzinnego wychodzenia poza rutyny i wspierania się w eksplorowaniu nowych doświadczeń.\n\nEN\n\nThe Thompson family leave London for the countryside – partly out of necessity, partly in the hope of a fresh start. For their three children, the move means being abruptly uprooted from everything familiar. But things take an entirely different turn when the youngest, Fran, discovers an extraordinary tree in the nearby woods, inhabited by a host of peculiar residents. At its top, fantastical lands appear – ever-changing, unpredictable and governed by their own, often absurd, rules.\n\nTHE MAGIC FARAWAY TREE is a film adaptation of one of the most iconic worlds in British children’s literature. Enid Blyton invited readers into the Enchanted Forest as early as the late 1930s. Her stories were built on the idea that adventure could be waiting just beyond the garden gate, and that children should have the freedom to explore the world for themselves – with curiosity, courage and a healthy dose of independence.\n\nA connection to nature, the joy of play, and a sense of wonder—embraced without the need for explanation—have contributed to the lasting appeal of this beloved series for decades. Screenwriter Simon Farnaby and director Ben Gregor bring the story into the present day without losing its original charm.\n\nAndrew Garfield and Claire Foy strike a lovely balance between comic bewilderment and genuine warmth as the parents, while Nicola Coughlan, Nonso Anozie and Rebecca Ferguson clearly have great fun with the film’s more eccentric, fairy-tale elements.\n\nBeneath the fairy-tale chaos, THE MAGIC FARAWAY TREE offers not only a gentle nudge away from screens, but also an invitation for families to step outside their routines together and support one another in exploring new experiences.",
@@ -617,7 +617,7 @@
               "Akcja"
             ],
             "rating": 5.6,
-            "votes": 602
+            "votes": 608
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/the_uprising_2026",
@@ -629,7 +629,7 @@
             "criticsRating": 57,
             "criticsVotes": 122,
             "audienceRating": 65,
-            "audienceVotes": 583
+            "audienceVotes": 584
           }
         },
         "longDescription": "Oparte na prawdziwych wydarzeniach historycznych widowisko stawiające pytanie o cenę wolności w czasach feudalnego ucisku. XIV-wieczny lud Anglii pozostaje wyniszczony epidemią dżumy, represjami ze strony władzy i społecznymi napięciami. Na wieść o bezwzględnych planach możnowładców i nałożeniu podatku uderzającego w najuboższych, stojący na skraju wytrzymałości chłopi postanawiają sprzeciwić się tyranii Ryszarda II. Opór kilkorga z nich na czele z młodym rebeliantem (charyzmatyczny Andrew Garfield) przeistacza się w falę wściekłości, która w krótkim czasie rozprzestrzenia się na cały kraj. Uciskani postanawiają wypowiedzieć wojnę koronie.\n\nGdy w 1381 roku śmiałkowie z Esseksu i Kentu pod przewodnictwem Wata Tylera i mobilizowani przez kaznodzieję Johna Balla wszczęli bunt przeciwko wyzyskowi oraz nałożeniu podatku obciążającego jednostki niezależnie od wielkości ich dochodu, nikt nie zakładał, że powstanie doprowadzi do marszu na Londyn. Krwawe zamieszki zakończyło równie brutalne stłumienie przez siły króla, ale mit wolności i walki o sprawiedliwość na dobre zakorzenił się w mentalności angielskich chłopów, doprowadzając do narodzin legendy o Robin Hoodzie.\n\nWyróżniony BAFTA i nominowany do Oscara za LOT 93 (2006) reżyser Paul Greengrass spogląda na przepełnioną gniewem historię z charakterystycznym dla siebie reporterskim stylem, nie szczędząc jednak okrucieństwa, intensywnej konwencji i dynamicznej kamery. Rozedrgane ujęcia oddają emocjonalną motywację zrywu wyznaczającego punkt zwrotny w dziejach średniowiecznej Anglii i po upływie stuleci inspirującego polityczną lewicę.\n\nEN\n\nA historical epic based on real events, THE UPRISING asks what freedom is worth in an age of feudal oppression. Fourteenth-century England has been ravaged by plague, repression and mounting social unrest. When word spreads of the ruling elite’s ruthless plans and a tax that falls hardest on the poorest, peasants already pushed to the breaking point decide to resist the tyranny of Richard II. What begins with a handful of rebels, led by a charismatic young insurgent (Andrew Garfield), soon swells into a wave of anger sweeping across the country. The oppressed are ready to wage war on the Crown.\n\nIn 1381, rebels from Essex and Kent, led by Wat Tyler and rallied by the preacher John Ball, rose against exploitation and a poll tax levied regardless of income. Few could have foreseen that the revolt would culminate in a march on London.\n\nThe bloody riots were brought to an end by an equally brutal crackdown by the king’s forces. But the myth of freedom and the struggle for justice took firm root in the minds of the English peasants, leading to the birth of the legend of Robin Hood.\n\nBAFTA-winning director Paul Greengrass, who received an Academy Award nomination for UNITED 93 (2006), approaches this story of rage and rebellion with his characteristic journalistic immediacy, while fully embracing its brutality, intensity and restless camerawork. The jittery, urgent images capture the emotional force behind an uprising that marked a turning point in medieval English history and, centuries later, would continue to inspire the political left.",
@@ -681,7 +681,7 @@
               "Dramat"
             ],
             "rating": 7.3,
-            "votes": 6
+            "votes": 7
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/elsinore",
@@ -863,8 +863,8 @@
         "description": "Hipnotyzujące dzieło współscenarzystki THE BRUTALIST, rzucające światło na herstorię Ann Lee – przywódczyni sekty Shakerów. Kobieta sprzeciwia się zastanemu porządkowi zepsutego świata i zakłada wspólnotę propagującą równość płciową i społeczną. Ann rusza ze swoją misją do Nowej Anglii za Atlantyk.",
         "shortDescription": "Hipnotyzujące dzieło współscenarzystki THE BRUTALIST, rzucające światło na herstorię Ann Lee – przywódczyni sekty Shakerów. Kobieta sprzeciwia się zastanemu porządkowi zepsutego świata i zakłada wspólnotę propagującą równość płciową i społeczną. Ann rusza ze swoją misją do Nowej Anglii za Atlantyk.",
         "genres": [
-          "Musical",
-          "Dramat"
+          "Dramat",
+          "Musical"
         ],
         "external": {
           "imdb": {
@@ -877,11 +877,11 @@
             "id": "10090000",
             "url": "https://www.filmweb.pl/film/Testament+Ann+Lee-2025-10090000",
             "genres": [
-              "Musical",
-              "Dramat"
+              "Dramat",
+              "Musical"
             ],
             "rating": 6,
-            "votes": 2459
+            "votes": 2463
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/the_testament_of_ann_lee",
@@ -947,7 +947,7 @@
               "Dramat"
             ],
             "rating": 6,
-            "votes": 116
+            "votes": 117
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/the_christophers",
@@ -1013,7 +1013,7 @@
               "Obyczajowy"
             ],
             "rating": 7.7,
-            "votes": 39683
+            "votes": 39689
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/remains_of_the_day",
@@ -1025,7 +1025,7 @@
             "criticsRating": 95,
             "criticsVotes": 44,
             "audienceRating": 89,
-            "audienceVotes": 4695
+            "audienceVotes": 4696
           }
         },
         "longDescription": "Jedna z najważniejszych produkcji Merchant Ivory i zarazem jeden z najważniejszych brytyjskich dramatów filmowych końca XX wieku: oparty na dwóch wybitnych kreacjach aktorskich, precyzyjnie skomponowany, powściągliwy w formie, druzgocący w wymowie. Ekranizacja nagrodzonej Bookerem powieści Kazuo Ishiguro opowiada o Stevensie, oddanym kamerdynerze posiadłości Darlington Hall, który z perspektywy czasu spogląda na życie podporządkowane służbie domowi – i ideałom – skompromitowanym przez historię. W roli Stevensa Anthony Hopkins uosabia przedstawiciela odchodzącego świata; pod nienagannie opanowaną powierzchnią każda pauza zdradza tłumione emocje. Partnerująca mu Emma Thompson jako panna Kenton wnosi do filmu ciepło, inteligencję i nadzieję naznaczoną rozczarowaniem, budując obraz niewypowiedzianego uczucia, które nigdy nie znajduje spełnienia. Rozciągająca się od połowy lat 30. po okres powojenny historia jest zarazem intymną opowieścią o straconych szansach i niepokojącym portretem politycznej ślepoty oraz moralnych uników.\n\nMerchant Ivory specjalizowało się w kostiumowych adaptacjach literatury, lecz charakterystyczna elegancja tych produkcji nigdy nie sprowadzała się wyłącznie do dekoracyjności. W OKRUCHACH DNIA wypolerowane wnętrza, formalne rytuały i oszczędne rozmowy odgradzają mieszkańców Darlington Hall od zmian zachodzących poza jego murami, gdzie powojenny porządek zaczyna rozsadzać klasowe podstawy brytyjskiego społeczeństwa.\n\nFilm otrzymał osiem nominacji do Oscara, między innymi za precyzyjnie skonstruowany scenariusz Ruth Prawer Jhabvali, kostiumy i scenografię. OKRUCHY DNIA to kino ukrytych uczuć, przemilczeń i niemal niedostrzegalnych przesunięć emocjonalnych pokazujące, że drobne ustępstwa i zaniechania mogą kształtować ludzkie życie równie silnie jak wielkie, dramatyczne gesty.\n\nEN\n\nMerchant Ivory’s THE REMAINS OF THE DAY is one of the great late-20th-century British screen dramas: beautifully composed, quietly devastating, and anchored by two performances of extraordinary power. Adapted from Kazuo Ishiguro’s Booker Prize-winning novel, the film follows Stevens, the dedicated butler of Darlington Hall, as he looks back on a lifetime spent in service to a household—and to ideals—that history has left exposed. As Stevens, Anthony Hopkins personifies a dying breed and behind his exterior of perfect control are hints of repressed emotion beneath every pause; opposite him, Emma Thompson’s Miss Kenton brings warmth, intelligence and bruised hope to an unspoken attraction that remains painfully unrealised. Spanning the mid-1930s to the post-war years, the film is both an intimate story of missed chances and a troubling portrait of political blindness and moral evasion. Merchant Ivory specialised in period literary adaptations, but the company’s elegant style is more than decorative. Here, the polished rooms, formal rituals and clipped exchanges isolate the inhabitants from wider changes, until the post-war world begins to dismantle the class-bound nature of British society. The film received eight Oscar nominations, including for Ruth Prawer Jhabvala’s finely judged screenplay as well as the costumes and set design. THE REMAINS OF THE DAY is a film of hidden feelings, silences and infinitesimal shifts, showing that the small refusals in life can shape a person’s destiny just as much as dramatic gestures.",
@@ -1077,7 +1077,7 @@
               "Dramat"
             ],
             "rating": 7.4,
-            "votes": 6670
+            "votes": 6671
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/snow_cake",
@@ -1142,8 +1142,8 @@
               "Dramat",
               "Sci-Fi"
             ],
-            "rating": 7,
-            "votes": 682
+            "rating": 6.9,
+            "votes": 683
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/rose_of_nevada",
@@ -1327,7 +1327,7 @@
             "criticsRating": 95,
             "criticsVotes": 65,
             "audienceRating": 89,
-            "audienceVotes": 98
+            "audienceVotes": 99
           }
         },
         "longDescription": "Pokazywany jako premiera światowa na Sundance 2026 debiut fabularny Louisa Paxtona, zabiera nas na odległą i pozornie bezludną szkocką wyspę. Tak naprawdę zamieszkują ją dwie osoby. Jedynymi mieszkańcami tego miejsca jest rodzeństwo Isla i Sandy (w tych rolach wspaniali Gayle Rankin i Grant O’Rourke), którzy w całkowitej izolacji przed światem, rozmawiają z ptakami morskimi, są w kontakcie z mitycznymi folkowymi stworzeniami i noszą nieco zmęczone nordyckie swetry. Jednocześnie bronią swojej bastylii i ustalonego autorsko status quo, chroniąc się zaciekle przed obcymi przybyszami, którzy mogliby wtargnąć nieoczekiwanie do ich świata. Rzeczywistość rodzeństwa zmienia się całkowicie, kiedy na wyspę przybywa Daniel (Domhnall Gleeson) – niezdarny urzędnik, którego zadaniem jest wysiedlenie i przeniesienie ich na ląd. Przy tak ekscentrycznych charakterach, które na dodatek są na swoim terenie, łatwiej oczywiście jest to powiedzieć, niż realnie zrobić! Intruz początkowo popada w tarapaty, ale po kilku dniach (i specyficznym rytuale inicjacyjnym), ciekawość nowego wygrywa i następuje ocieplenie relacji. Daniel przecież przywozi ze sobą masę ciekawych opowieści z kontynentu: od magicznego Internetu, poprzez historię awokado lub próbę (nieskuteczną) wytłumaczenia, czym jest weganizm. Przynosi też przerwanie rutyny i ocieplenie międzyludzkich relacji oraz więzi. THE INCOMER to urocza i przezabawna interpretacja szkockiego folkloru wyspiarskiego, która mieszając sposoby narracji – od stosowania nie biorącego jeńców humoru, poprzez urocze wymiany zdań między bohaterami, zastosowanie animacji, pomysłowość scenariuszową i nadanie całości sznytu wręcz baśniowej opowieści – jest czystą przyjemnością podczas oglądania. Jednocześnie bohaterami tej zabawnej historii o obronie własnych wartości, są majestatyczne szkockie klify, zorza polarna, skarby, które przypłynęły na wyspę z falami i moce magiczne pogubionych czarodziejskich bohaterów. Jeśli szukać normalności, to dlaczego nie w przerażających kostiumach przypominających ptaki morskie, które jednocześnie skutecznie odstraszają niechcianych przybyszów, którzy nigdy nie zrozumieją kontekstu tego miejsca.\n\nEN\n\nPremiered at Sundance 2026, Louis Paxton’s feature debut takes us to a remote, seemingly deserted Scottish island. In fact, it has exactly two inhabitants: siblings Isla and Sandy (played with great flair by Gayle Rankin and Grant O’Rourke), who live in complete isolation from the outside world, talk to seabirds, commune with mythical folk creatures and wear slightly worn Nordic jumpers. At the same time, they fiercely defend their stronghold and carefully preserved status quo, keeping unwanted outsiders at bay.\n\nTheir world is turned upside down when Daniel (Domhnall Gleeson) arrives on the island. A hapless civil servant, he has been sent to evict the pair and relocate them to the mainland. With two such eccentric characters on home turf, that is rather easier said than done. At first, the intruder lands himself in trouble, but after a few days – and a rather unusual initiation ritual – curiosity gets the better of them, and relations begin to thaw. Daniel, after all, brings with him a wealth of stories from the mainland: from the wonders of the internet to the history of the avocado, not to mention an unsuccessful attempt to explain veganism. He also disrupts their routine and gradually brings warmth back into their relationships and everyday life.\n\nTHE INCOMER is a charming and very funny take on Scottish island folklore. Mixing modes of storytelling – from no-holds-barred humour and delightful exchanges between the characters to animation, playful writing and an almost fairy-tale quality – it is sheer fun to watch. The majestic Scottish cliffs, the Northern Lights, treasures washed ashore by the waves and the magical powers of wayward mythical figures are as much a part of this story about defending one’s values as the human characters themselves.\n\nAnd if normality is to be found anywhere, why not in terrifying seabird-like costumes that also happen to be remarkably effective at scaring off unwanted visitors who could never hope to understand the logic of this place?",
@@ -1381,7 +1381,7 @@
               "Psychologiczny"
             ],
             "rating": 6.8,
-            "votes": 6262
+            "votes": 6269
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/the_salt_path",
@@ -1575,7 +1575,7 @@
               "Horror"
             ],
             "rating": 6.8,
-            "votes": 21062
+            "votes": 21098
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/28_years_later_the_bone_temple",
@@ -1587,7 +1587,7 @@
             "criticsRating": 91,
             "criticsVotes": 351,
             "audienceRating": 88,
-            "audienceVotes": 2797
+            "audienceVotes": 2798
           }
         },
         "longDescription": "Niedawno Danny Boyle i Alex Garland powrócili do postapokaliptycznego świata opanowanego przez ludzi zainfekowanych wirusem, który wywołuje niekontrolowaną agresję. W najnowszym filmie z serii – ŚWIĄTYNI KOŚCI – młoda reżyserka Nia DaCosta przejmuje stery po Boyle’u i sięga aż po bebechy świata toczonego zarazą, aby dojść do jądra ciemności w sercu człowieka. Podobnie jak w poprzedniej części, nie brakuje refleksji, że jej okrycia nie są obce dla współczesnego człowieka. Czy do takiej rzeczywistości dzieli nas już tylko apokalipsa zombie?\n\nDaCosta powraca do bohaterów, których poznaliśmy w 28 DNI PÓŹNIEJ Boyle’a. Śledzi losy młodego Spike’a (Alfie Williams), który opuszcza swój dom i schronienie i wpada na psychopatyczną szajkę dowodzoną przez Jimmy’ego Crystala (Jack O’Connell). „Sir Lord” Crystal jest przekonany, że jego ojcem jest sam szatan, dlatego w jego imieniu jest zdolny dokonać większych okrucieństw niż zarażeni. Wkrótce sadystyczna grupa ze werbowanym Spike’iem odkrywa świątynię kości doktora Iana Kelsona (Ralph Fiennes), będącego na tropie odkrycia rewolucyjnego dla przyszłości.\n\nChoć angażowanie się w nową franczyzę wydawało się reżyserce THE MARVELS ryzykowne, do realizacji ŚWIĄTYNI KOŚCI zachęcił ją sam Jonathan Glazer. Szczęśliwie DaCosta otrzymała swobodę artystyczną od Boyle’a i doskonale ją wykorzystała opierając się na doskonałym scenariuszu Garlanda. Stworzyła filmową wersję heavy metalu (z którego zresztą chętnie korzysta w scenie z The Number of Beast) – jest bezkompromisowa, intensywna i odarta ze wszelkich świętości. Ten charakter objawia się nie tylko w wyborach muzycznych, ale też wizualnych, gdy film DaCosty aż ocieka mrożącą krew w żyłach symboliką. To przejmująca, brutalna, a przy tym skrupulatnie zrealizowana opowieść o naturze zła – choć zdecydowanie dla widowni o mocnym żołądku.\n\nEN\n\nDanny Boyle and Alex Garland recently returned to the post-apocalyptic world of 28 YEARS LATER, ravaged by a virus that drives the infected into uncontrollable violence. In the latest instalment, 28 YEARS LATER: THE BONE TEMPLE, yound director Nia DaCosta takes over directing duties from Boyle and turns her attention to the darker side of human nature. As in the previous film, the horrors she uncovers feel uncomfortably close to the present. Is a zombie apocalypse really all that separates us from such a world?\n\nDaCosta returns to the characters introduced in Boyle’s 28 YEARS LATER. She follows young Spike (Alfie Williams), who leaves the safety of his home only to fall in with a psychopathic gang led by Jimmy Crystal (Jack O’Connell). “Sir Lord” Crystal believes Satan himself to be his father and, in his name, proves capable of atrocities even worse than those committed by the infected. Before long, the sadistic group, with Spike now drawn into its ranks, comes across the bone temple of Dr Ian Kelson (Ralph Fiennes), who is on the verge of a discovery that could transform the future.\n\nAlthough joining another franchise initially seemed risky to the director of THE MARVELS, it was Jonathan Glazer himself who encouraged DaCosta to take on 28 YEARS LATER: THE BONE TEMPLE. Fortunately, Boyle gave her considerable creative freedom, and she makes full use of it, working from Garland’s assured screenplay. The result is the cinematic equivalent of heavy metal, a genre the film embraces outright in a sequence set to The Number of the Beast : uncompromising, intense and stripped of all reverence. That spirit runs through not only the music but the imagery, as DaCosta’s film positively drips with chilling symbolism. The result is a harrowing, brutal and meticulously crafted exploration of the nature of evil – though decidedly not for the faint-hearted.",
@@ -1639,7 +1639,7 @@
               "Dramat"
             ],
             "rating": 6.8,
-            "votes": 342
+            "votes": 343
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/i_see_buildings_fall_like_lightning",
@@ -1707,7 +1707,7 @@
               "Komedia"
             ],
             "rating": 6.8,
-            "votes": 998
+            "votes": 999
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/the_ballad_of_wallis_island",
@@ -1771,7 +1771,7 @@
               "Thriller"
             ],
             "rating": 7.2,
-            "votes": 15610
+            "votes": 15656
           },
           "rottenTomatoes": null
         },

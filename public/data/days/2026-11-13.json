@@ -1,12 +1,12 @@
 {
   "schemaVersion": 1,
   "date": "2026-11-13",
-  "updatedAt": "2026-11-02T20:20:34.360Z",
+  "updatedAt": "2026-11-03T17:48:35.792Z",
   "source": "https://www.kinomuza.pl/repertoire/day/",
   "day": {
-    "id": "11",
+    "id": "10",
     "date": "13.11",
-    "now": "2026-11-02 21:18:31",
+    "now": "2026-11-03 18:47:16",
     "info": [],
     "repertoire": [
       {
@@ -195,7 +195,7 @@
               "Dramat"
             ],
             "rating": 7.6,
-            "votes": 30445
+            "votes": 30462
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/hamnet",
@@ -207,7 +207,7 @@
             "criticsRating": 86,
             "criticsVotes": 352,
             "audienceRating": 93,
-            "audienceVotes": 2687
+            "audienceVotes": 2688
           }
         },
         "longDescription": "Maggie O’Farrell w swojej powieści opisuje chłopca, który „ ma skłonności do wyślizgiwania się poza granice realnego, namacalnego świata, który go otacza. ” Nagrodzony w 2020 roku prestiżową brytyjską nagrodą Women’s Prize for Fiction tekst, został zainspirowany najsłynniejszą, a jednocześnie najbardziej enigmatyczną sztuką Williama Szekspira.\n\nW latach 80. XVI wieku pewnemu małżeństwu mieszkającemu w Stratfordzie urodziła się trójka dzieci: najmłodsza Susanna, a następnie bliźnięta – Hamnet i Judith. Chłopiec zmarł w wieku jedenastu lat. Cztery lata później jego ojciec napisał sztukę zatytułowaną Hamlet . Film wyreżyserowany przez Chloé Zhao, drugą kobietę w historii, która otrzymała Oscara za najlepszą reżyserię (NOMADLAND, 2021), jest wrażliwym i głębokim obrazem małżeństwa, próbującego ukształtować się na nowo po śmierci ukochanego dziecka. To historia Agnes – żony Williama Szekspira i jej zmagań po stracie ukochanego syna Hamneta.\n\nW rolach głównych zjawiskowy duet irlandzkich aktorów: Jessie Buckley oraz Paul Mescal. Producentami filmu są Steven Spielberg i Sam Mendes, a zdjęcia wykonał Łukasz Żal. Dopełnieniem całości jest muzyka skomponowana przez Maxa Richtera. Brytyjski HAMNET to opowieść o poszukiwaniu bliskości i sensu dalszego istnienia, mimo straty, której rany są niemożliwe do zagojenia się. Gdzieś na granicy snu i tego co realne, parafrazując bohaterów filmu, opowiemy Wam historię, ale taką, która Was poruszy. Film Zhao był nominowany do Oscara w 8 kategoriach, w tym za najlepszy film, a fantastyczna Jessie Buckley odebrała złotą statuetkę za swoją rolę. Pierwsze pokazy HAMNETA w Polsce odbyły się na British Film Festival 2025.\n\nEN\n\nMaggie O’Farrell’s novel describes a boy who “ tends to slip the bounds of the real, tangible world around him”. Winner of the Women’s Prize for Fiction in 2020, the book was inspired by William Shakespeare’s most famous and most enigmatic play.\n\nIn the 1580s, a couple living in Stratford had three children: Susanna, followed by twins Hamnet and Judith. Hamnet died at the age of eleven. Four years later, his father wrote a play entitled Hamlet . Directed by Chloé Zhao, the second woman in history to win the Academy Award for Best Director (NOMADLAND, 2021), HAMNET is a tender and deeply affecting portrait of a marriage trying to reshape itself after the death of a beloved child. At its heart is Agnes, William Shakespeare’s wife, and her struggle to live with the loss of their son.\n\nThe film is led by a remarkable pair of Irish actors, Jessie Buckley and Paul Mescal. Steven Spielberg and Sam Mendes are among the producers, Łukasz Żal is responsible for the cinematography, and the score was composed by Max Richter. HAMNET is a story about searching for closeness and meaning after a loss whose wounds can never fully heal. Hovering somewhere between dream and reality, it sets out, to borrow the language of the film itself, to tell a story that moves us.\n\nZhao’s film received eight Academy Award nominations, including Best Picture, while Jessie Buckley won the Oscar for her performance. HAMNET received its first Polish screenings at the British Film Festival in 2025.",
@@ -309,8 +309,8 @@
         "description": "Hipnotyzujące dzieło współscenarzystki THE BRUTALIST, rzucające światło na herstorię Ann Lee – przywódczyni sekty Shakerów. Kobieta sprzeciwia się zastanemu porządkowi zepsutego świata i zakłada wspólnotę propagującą równość płciową i społeczną. Ann rusza ze swoją misją do Nowej Anglii za Atlantyk.",
         "shortDescription": "Hipnotyzujące dzieło współscenarzystki THE BRUTALIST, rzucające światło na herstorię Ann Lee – przywódczyni sekty Shakerów. Kobieta sprzeciwia się zastanemu porządkowi zepsutego świata i zakłada wspólnotę propagującą równość płciową i społeczną. Ann rusza ze swoją misją do Nowej Anglii za Atlantyk.",
         "genres": [
-          "Musical",
-          "Dramat"
+          "Dramat",
+          "Musical"
         ],
         "external": {
           "imdb": {
@@ -323,11 +323,11 @@
             "id": "10090000",
             "url": "https://www.filmweb.pl/film/Testament+Ann+Lee-2025-10090000",
             "genres": [
-              "Musical",
-              "Dramat"
+              "Dramat",
+              "Musical"
             ],
             "rating": 6,
-            "votes": 2459
+            "votes": 2463
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/the_testament_of_ann_lee",
@@ -375,8 +375,8 @@
         "description": "Powrót Lynne Ramsay z bezkompromisowym studium depresji poporodowej, samotności i kryzysu tożsamości. W krajobrazach Montany marzenie o romantycznej ucieczce zamienia się w koszmar. Na ekranie Pattinson i Lawrence, która tworzy hipnotyzującą i odważną kreację kobiety na skraju załamania.",
         "shortDescription": "Powrót Lynne Ramsay z bezkompromisowym studium depresji poporodowej, samotności i kryzysu tożsamości. W krajobrazach Montany marzenie o romantycznej ucieczce zamienia się w koszmar. Na ekranie Pattinson i Lawrence, która tworzy hipnotyzującą i odważną kreację kobiety na skraju załamania.",
         "genres": [
-          "Dramat",
-          "Psychologiczny"
+          "Psychologiczny",
+          "Dramat"
         ],
         "external": {
           "imdb": {
@@ -389,11 +389,11 @@
             "id": "10023025",
             "url": "https://www.filmweb.pl/film/Zgi%C5%84+kochanie-2025-10023025",
             "genres": [
-              "Dramat",
-              "Psychologiczny"
+              "Psychologiczny",
+              "Dramat"
             ],
             "rating": 5.8,
-            "votes": 12683
+            "votes": 12696
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/die_my_love_2025",
@@ -533,7 +533,7 @@
             "criticsRating": 100,
             "criticsVotes": 49,
             "audienceRating": 93,
-            "audienceVotes": 2296
+            "audienceVotes": 2297
           }
         },
         "longDescription": "SZLACHECTWO ZOBOWIĄZUJE to jeden z najbardziej cenionych klejnotów brytyjskiego kina: film elegancki, przewrotnie zabawny i po ponad siedemdziesięciu pięciu latach wciąż zaskakująco świeży. Produkcja z 1949 roku należy do serii niezwykle popularnych powojennych komedii studia Ealing. Jej bohaterem jest Louis Mazzini, czarujący, lecz bezwzględny outsider, który postanawia zemścić się na arystokratycznej rodzinie odpowiedzialnej za wydziedziczenie jego i jego matki. Aby zdobyć tytuł książęcy, planuje usunąć ośmioro krewnych stojących mu na drodze – plan tyleż potworny, co przedstawiony z rozbrajającą lekkością.\n\nO sile filmu decyduje jednak nie tylko jego makabryczna fabuła, lecz także mistrzostwo, z jakim została opowiedziana. Dennis Price obdarza Louisa gładką powierzchownością i sardoniczną inteligencją, natomiast Alec Guinness daje legendarny popis komediowego aktorstwa, wcielając się w kolejnych członków rodziny D’Ascoyne – od duchownych po sufrażystki. Humor filmu jest na wskroś brytyjski i w dużej mierze bierze się z kontrastu między nienagannymi manierami Louisa a faktem, że potajemnie jest seryjnym mordercą. Właśnie z tego rozdźwięku rodzi się najbardziej charakterystyczny dla filmu czarny humor. SZLACHECTWO ZOBOWIĄZUJE bezlitośnie obnaża snobizm i hipokryzję klas wyższych, nie tracąc przy tym lekkości\n\nLuźno oparty na powieści z epoki edwardiańskiej, SZLACHECTWO ZOBOWIĄZUJE zachwyca również rekonstrukcją minionego świata – od obyczajów po kostiumy i scenografię. Studio Ealing chciało tworzyć filmy wyraźnie zakorzenione w brytyjskiej kulturze, a zarazem atrakcyjne dla międzynarodowej widowni. Seria komedii Ealing zrealizowała ten zamysł z ogromnym powodzeniem, a SZLACHECTWO ZOBOWIĄZUJE jest powszechnie uznawane za jedno z jej najwybitniejszych osiągnięć.\n\nEN\n\nKIND HEARTS AND CORONETS is a much-loved gem of British cinema: elegant, wickedly funny, and still incredibly fresh more than seventy-five years after its release. One in a series of hugely successful comedies made by Ealing Studios after the war, this 1949 production follows Louis Mazzini, a charming but ruthless outsider determined to seek revenge on the aristocratic family who disinherited him and his mother. He plots to remove the eight relatives that stand between him and the dukedom, an outrageous, immoral and irresistibly entertaining solution. What makes the film essential viewing is not just its deliciously macabre plot, but the brilliance with which it is told. Dennis Price gives Louis a silky, sardonic intelligence, while Alec Guinness delivers a legendary comic performance as multiple members of the D’Ascoyne family, playing everything from vicars to suffragettes. The film’s humour is unmistakably British, much of it in the presentation of Louis as outwardly charming and refined, but secretly a serial killer. It exposes the snobbery and hypocrisy of the upper classes without ever losing its lightness of touch.\n\nLoosely based on an Edwardian novel, the film’s recreation of the period is exceptional, both in its manners and its costumes and décor. Ealing Studio aimed to make British films that promoted the national character but which would appeal to international audiences and they achieved this with the Ealing comedies, Kind Hearts and Coronets being widely regarded as the high point of the series.",
@@ -625,7 +625,7 @@
               "Dramat"
             ],
             "rating": 7.5,
-            "votes": 8981
+            "votes": 8982
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/the_cook_the_thief_his_wife_and_her_lover",
@@ -793,7 +793,7 @@
               "Psychologiczny"
             ],
             "rating": 6.8,
-            "votes": 6262
+            "votes": 6269
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/the_salt_path",
@@ -857,7 +857,7 @@
               "Dramat"
             ],
             "rating": 7.3,
-            "votes": 110145
+            "votes": 110147
           },
           "rottenTomatoes": null
         },
@@ -976,7 +976,7 @@
               "Melodramat"
             ],
             "rating": 7.2,
-            "votes": 2998
+            "votes": 3063
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/sense_and_sensibility_2026",
@@ -988,7 +988,7 @@
             "criticsRating": 78,
             "criticsVotes": 135,
             "audienceRating": 89,
-            "audienceVotes": 811
+            "audienceVotes": 818
           }
         },
         "longDescription": "Rewizja klasycznej prozy Jane Austen, która debiutując w 1811 roku pod pseudonimem The Lady zaskoczyła czytelników bardziej ironicznym niż przesiąkniętym romantyzmem tonem, zjadliwym humorem i realistycznym obrazem epoki. Twórcy nowej ROZWAŻNEJ I ROMANTYCZNEJ nie tylko idą pierwotnym śladem niezmiennie uwielbianej pisarki, lecz także rozluźniają sznurowadła społecznego gorsetu, aby wydobyć motyw kobiecej emancypacji oraz siłę siostrzanej więzi. Wnikają przy tym w zawiłe niuanse georgiańskiej mentalności, odkrywając konflikt serca i rozwagi nie zawsze kończący się kliszą happy endu.\n\nWraz ze śmiercią pana Dashwooda jego trzy córki i druga żona zostają zmuszone do opuszczenia rodzinnej posiadłości. Zgodnie z dawnym angielskim prawem jego majątek dziedziczy męski spadkobierca, w tym przypadku syn z pierwszego małżeństwa. Siostry Dashwood zostają skazane na łaskę krewnych, mając świadomość jedynej akceptowanej społecznie drogi kobiecej stabilizacji – zamążpójścia. Najstarsze siostry, roztropna Elinor (oklaskiwana po występie w GDZIE ŚPIEWAJĄ RAKI Daisy Edgar-Jones) oraz podążająca za emocjami Marianne (znana z seriali HANNA i SANDMAN Esmé Creed-Miles), muszą sprostać oczekiwaniom drżącego przed etykietą środowiska i własnym dylematom serca.\n\nStojąca za kamerą Georgia Oakley (PTASZYNA, BLUE JEAN) po raz kolejny poraża wielką świadomością stylu zakorzenionego w wizualnym języku europejskich mistrzów, w tym francuskiej intymności czy wnikliwych obserwacjach ludzkich mechanizmów rodem z hiszpańskiego ekranu. Filmowe światy nominowanej do nagrody BAFTA brytyjskiej reżyserski przenika pewna doza zmysłowości, ale na próżno szukać w nich szablonowości czy upiększeń. Drogę do wciąż aktualnej problematyki społecznej wyznacza w nich kontekst historyczny, queerowa wrażliwość i psychologia postaci. Z pomocą australijskiej scenarzystki Diany Reid twórczynie przepuszczają przez realistyczny filtr ponadczasowe emocje i perypetie sióstr Dashwood poszukujących własnego miejsca w świecie.\n\nEN\n\nA fresh take on Jane Austen’s classic novel, first published in 1811 under the pseudonym “A Lady”, which surprised readers with a tone more ironic than romantic, a sharp wit and a clear-eyed portrait of its age. The makers of the new SENSE AND SENSIBILITY not only follow in the footsteps of the ever-beloved author, but also loosen the stays of social convention to bring female emancipation and the strength of sisterhood to the fore. At the same time, they delve into the intricacies of the Georgian mindset, exploring a conflict between feeling and reason that does not always resolve itself into the reassuring shape of a happy ending.\n\nAfter Mr Dashwood’s death, his second wife and three daughters are forced to leave the family estate. Under the inheritance laws of the time, his property passed to a male heir – in this case, his son from his first marriage. The Dashwood sisters are left dependent on the goodwill of relatives and acutely aware that marriage remains the only socially acceptable route to security. The two eldest, the sensible Elinor (Daisy Edgar-Jones, acclaimed for her performance in WHERE THE CRAWDADS SING) and the more impulsive Marianne (Esmé Creed-Miles, known from HANNA and THE SANDMAN), must navigate both the expectations of a society in thrall to etiquette and the complications of their own hearts.\n\nDirector Georgia Oakley (LITTLE BIRD, BLUE JEAN) once again displays a striking command of style, rooted in the visual language of European cinema – from French intimacy to the acute observation of human behaviour associated with Spanish film. A certain sensuality runs through the work of the BAFTA-nominated British filmmaker, yet there is little room for formula or prettification. Historical context, queer sensitivity and close attention to character psychology become her routes into social questions that remain strikingly relevant. Working with Australian screenwriter Diana Reid, Oakley refracts the timeless emotions and romantic entanglements of the Dashwood sisters through a realist lens as they search for a place of their own in the world.",
@@ -1040,7 +1040,7 @@
               "Melodramat"
             ],
             "rating": 6.5,
-            "votes": 6319
+            "votes": 6327
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/pillion",
@@ -1159,7 +1159,7 @@
               "Akcja"
             ],
             "rating": 5.6,
-            "votes": 602
+            "votes": 608
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/the_uprising_2026",
@@ -1171,7 +1171,7 @@
             "criticsRating": 57,
             "criticsVotes": 122,
             "audienceRating": 65,
-            "audienceVotes": 583
+            "audienceVotes": 584
           }
         },
         "longDescription": "Oparte na prawdziwych wydarzeniach historycznych widowisko stawiające pytanie o cenę wolności w czasach feudalnego ucisku. XIV-wieczny lud Anglii pozostaje wyniszczony epidemią dżumy, represjami ze strony władzy i społecznymi napięciami. Na wieść o bezwzględnych planach możnowładców i nałożeniu podatku uderzającego w najuboższych, stojący na skraju wytrzymałości chłopi postanawiają sprzeciwić się tyranii Ryszarda II. Opór kilkorga z nich na czele z młodym rebeliantem (charyzmatyczny Andrew Garfield) przeistacza się w falę wściekłości, która w krótkim czasie rozprzestrzenia się na cały kraj. Uciskani postanawiają wypowiedzieć wojnę koronie.\n\nGdy w 1381 roku śmiałkowie z Esseksu i Kentu pod przewodnictwem Wata Tylera i mobilizowani przez kaznodzieję Johna Balla wszczęli bunt przeciwko wyzyskowi oraz nałożeniu podatku obciążającego jednostki niezależnie od wielkości ich dochodu, nikt nie zakładał, że powstanie doprowadzi do marszu na Londyn. Krwawe zamieszki zakończyło równie brutalne stłumienie przez siły króla, ale mit wolności i walki o sprawiedliwość na dobre zakorzenił się w mentalności angielskich chłopów, doprowadzając do narodzin legendy o Robin Hoodzie.\n\nWyróżniony BAFTA i nominowany do Oscara za LOT 93 (2006) reżyser Paul Greengrass spogląda na przepełnioną gniewem historię z charakterystycznym dla siebie reporterskim stylem, nie szczędząc jednak okrucieństwa, intensywnej konwencji i dynamicznej kamery. Rozedrgane ujęcia oddają emocjonalną motywację zrywu wyznaczającego punkt zwrotny w dziejach średniowiecznej Anglii i po upływie stuleci inspirującego polityczną lewicę.\n\nEN\n\nA historical epic based on real events, THE UPRISING asks what freedom is worth in an age of feudal oppression. Fourteenth-century England has been ravaged by plague, repression and mounting social unrest. When word spreads of the ruling elite’s ruthless plans and a tax that falls hardest on the poorest, peasants already pushed to the breaking point decide to resist the tyranny of Richard II. What begins with a handful of rebels, led by a charismatic young insurgent (Andrew Garfield), soon swells into a wave of anger sweeping across the country. The oppressed are ready to wage war on the Crown.\n\nIn 1381, rebels from Essex and Kent, led by Wat Tyler and rallied by the preacher John Ball, rose against exploitation and a poll tax levied regardless of income. Few could have foreseen that the revolt would culminate in a march on London.\n\nThe bloody riots were brought to an end by an equally brutal crackdown by the king’s forces. But the myth of freedom and the struggle for justice took firm root in the minds of the English peasants, leading to the birth of the legend of Robin Hood.\n\nBAFTA-winning director Paul Greengrass, who received an Academy Award nomination for UNITED 93 (2006), approaches this story of rage and rebellion with his characteristic journalistic immediacy, while fully embracing its brutality, intensity and restless camerawork. The jittery, urgent images capture the emotional force behind an uprising that marked a turning point in medieval English history and, centuries later, would continue to inspire the political left.",
@@ -1223,7 +1223,7 @@
               "Thriller"
             ],
             "rating": 7.2,
-            "votes": 15610
+            "votes": 15656
           },
           "rottenTomatoes": null
         },
@@ -1276,7 +1276,7 @@
               "Horror"
             ],
             "rating": 6.4,
-            "votes": 2605
+            "votes": 2608
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/gothic",
@@ -1341,7 +1341,7 @@
               "Horror"
             ],
             "rating": 6.3,
-            "votes": 80323
+            "votes": 80330
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/descent",

@@ -1,12 +1,12 @@
 {
   "schemaVersion": 1,
   "date": "2026-11-27",
-  "updatedAt": "2026-11-03T17:48:35.792Z",
+  "updatedAt": "2026-11-04T17:59:47.065Z",
   "source": "https://www.kinomuza.pl/repertoire/day/",
   "day": {
-    "id": "24",
+    "id": "23",
     "date": "27.11",
-    "now": "2026-11-03 18:47:24",
+    "now": "2026-11-04 18:58:00",
     "info": [],
     "repertoire": [
       {
@@ -46,7 +46,7 @@
             "id": "tt20149536",
             "url": "https://www.imdb.com/title/tt20149536/",
             "rating": 5.4,
-            "votes": 22
+            "votes": 23
           },
           "filmweb": {
             "id": "10131126",
@@ -55,11 +55,11 @@
               "Dramat"
             ],
             "rating": 5,
-            "votes": 26
+            "votes": 27
           },
           "rottenTomatoes": null
         },
-        "longDescription": "Akcja rozgrywa się w burzliwych latach po upadku Związku Radzieckiego. Bohaterką jest Nina – charyzmatyczna kobieta, która przygarnia bezdomnego rosyjskiego włóczęgę podającego się za pisarza. Mając nadzieję na wspólne nowe życie, szybko odkrywa, że mistyczna ziemia Połtawy – gdzie czarownice żyją obok zwykłych mieszkańców, a zmarli rozmawiają z żywymi – stopniowo ujawnia prawdziwą naturę mężczyzny, którego wpuściła do swojego domu.",
+        "longDescription": "Akcja rozgrywa się w burzliwych latach po upadku Związku Radzieckiego. Bohaterką jest Nina – charyzmatyczna kobieta, która przygarnia bezdomnego rosyjskiego włóczęgę podającego się za pisarza. Mając nadzieję na wspólne nowe życie, szybko odkrywa, że mistyczna ziemia Połtawy – gdzie czarownice żyją obok zwykłych mieszkańców, a zmarli rozmawiają z żywymi – stopniowo ujawnia prawdziwą naturę mężczyzny, którego wpuściła do swojego domu.\n\nFilm dostępny z audiodeskrypcją lub lektorem. Skorzystaj bezpłatnie z aplikacji Kino Dostępne 2.0 w Twoim telefonie –  http://kinodostepne.pl",
         "poster": "media/posters/4ed3539e6b1a2c4889f8.webp"
       }
     ]

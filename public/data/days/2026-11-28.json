@@ -1,12 +1,12 @@
 {
   "schemaVersion": 1,
   "date": "2026-11-28",
-  "updatedAt": "2026-11-03T17:48:35.792Z",
+  "updatedAt": "2026-11-04T17:59:47.065Z",
   "source": "https://www.kinomuza.pl/repertoire/day/",
   "day": {
-    "id": "25",
+    "id": "24",
     "date": "28.11",
-    "now": "2026-11-03 18:47:24",
+    "now": "2026-11-04 18:58:00",
     "info": [],
     "repertoire": [
       {
@@ -48,7 +48,7 @@
             "id": "tt37661902",
             "url": "https://www.imdb.com/title/tt37661902/",
             "rating": 6.8,
-            "votes": 106
+            "votes": 110
           },
           "filmweb": {
             "id": "10090787",
@@ -74,7 +74,7 @@
             "audienceVotes": null
           }
         },
-        "longDescription": "W niedalekiej przyszłości wojna w Ukrainie dobiegła końca. Roman, reżyser filmowy, pozostaje w kraju, podczas gdy jego żona i córka rozpoczynają nowe życie w Wiedniu. Próbuje wrócić do pracy i jednocześnie odbudować relację z rodziną.\n\nValentyn Vasyanovych tworzy osobistą, gorzką i momentami absurdalną opowieść o Ukrainie po wojnie. Film stawia pytania o przyszłość kraju, pamięć, społeczne podziały i rolę sztuki w świecie, który próbuje się odrodzić.\n\nW roli głównej występuje sam Valentyn Vasyanovych, jeden z najbardziej uznanych i utalentowanych reżyserów ukraińskich, znanych z takich filmów jak Atlantyda czy Reflection.",
+        "longDescription": "W niedalekiej przyszłości wojna w Ukrainie dobiegła końca. Roman, reżyser filmowy, pozostaje w kraju, podczas gdy jego żona i córka rozpoczynają nowe życie w Wiedniu. Próbuje wrócić do pracy i jednocześnie odbudować relację z rodziną.\n\nValentyn Vasyanovych tworzy osobistą, gorzką i momentami absurdalną opowieść o Ukrainie po wojnie. Film stawia pytania o przyszłość kraju, pamięć, społeczne podziały i rolę sztuki w świecie, który próbuje się odrodzić.\n\nW roli głównej występuje sam Valentyn Vasyanovych, jeden z najbardziej uznanych i utalentowanych reżyserów ukraińskich, znanych z takich filmów jak Atlantyda czy Reflection.\n\nFilm dostępny z audiodeskrypcją lub lektorem. Skorzystaj bezpłatnie z aplikacji Kino Dostępne 2.0 w Twoim telefonie –  http://kinodostepne.pl",
         "poster": "media/posters/f778b8967a7ad20fc96b.webp"
       }
     ]

@@ -1,12 +1,12 @@
 {
   "schemaVersion": 1,
   "date": "2026-11-12",
-  "updatedAt": "2026-11-03T17:48:35.792Z",
+  "updatedAt": "2026-11-04T17:59:47.065Z",
   "source": "https://www.kinomuza.pl/repertoire/day/",
   "day": {
-    "id": "09",
+    "id": "08",
     "date": "12.11",
-    "now": "2026-11-03 18:47:13",
+    "now": "2026-11-04 18:57:49",
     "info": [],
     "repertoire": [
       {
@@ -46,7 +46,7 @@
             "id": "tt33046039",
             "url": "https://www.imdb.com/title/tt33046039/",
             "rating": 6.7,
-            "votes": 201
+            "votes": 202
           },
           "filmweb": {
             "id": "10093535",
@@ -64,7 +64,7 @@
             "directors": [
               "Imran Perretta"
             ],
-            "criticsRating": 95,
+            "criticsRating": null,
             "criticsVotes": 22,
             "audienceRating": null,
             "audienceVotes": null
@@ -103,24 +103,24 @@
         "description": "Chcąc uporać się z przeszłością, ekscentryczny samotnik przeznacza ogromną wygraną na loterii, by reaktywować swój ulubiony duet muzyczny. Jego członków, którzy byli niegdyś parą i nie widzieli się od lat, zaprasza na odciętą od świata walijską wysepkę i zleca im zagranie kameralnego koncertu.",
         "shortDescription": "Chcąc uporać się z przeszłością, ekscentryczny samotnik przeznacza ogromną wygraną na loterii, by reaktywować swój ulubiony duet muzyczny. Jego członków, którzy byli niegdyś parą i nie widzieli się od lat, zaprasza na odciętą od świata walijską wysepkę i zleca im zagranie kameralnego koncertu.",
         "genres": [
-          "Dramat",
+          "Komedia",
           "Muzyczny",
-          "Komedia"
+          "Dramat"
         ],
         "external": {
           "imdb": {
             "id": "tt27674982",
             "url": "https://www.imdb.com/title/tt27674982/",
             "rating": 7.4,
-            "votes": 26486
+            "votes": 26515
           },
           "filmweb": {
             "id": "10070057",
             "url": "https://www.filmweb.pl/film/The+Ballad+of+Wallis+Island-2025-10070057",
             "genres": [
-              "Dramat",
+              "Komedia",
               "Muzyczny",
-              "Komedia"
+              "Dramat"
             ],
             "rating": 6.8,
             "votes": 999
@@ -132,10 +132,10 @@
             "directors": [
               "James Griffiths"
             ],
-            "criticsRating": 97,
+            "criticsRating": null,
             "criticsVotes": 145,
-            "audienceRating": 93,
-            "audienceVotes": 155
+            "audienceRating": null,
+            "audienceVotes": null
           }
         },
         "longDescription": "Istnieje mnóstwo sposobów na to, co zrobić z główną wygraną na loterii. Można na przykład przeznaczyć zdobyte pieniądze na reaktywację ulubionego zespołu muzycznego. Na ten pomysł wpada Charles Heath (Tim Key), ekscentryczny i gadatliwy samotnik mieszkający na niemal odciętej od świata walijskiej wysepce. Mężczyzna, prawdopodobnie największy pod słońcem fan folkowo-rockowego i nieistniejącego od dekady duetu McGwyer Mortimer, ściąga pod swój dach ludzi, którzy tworzyli niegdyś kapelę, a przy okazji byli parą w życiu prywatnym. Herb McGwyer (Tom Basden), którego solowa kariera to jedno wielkie pasmo nieszczęść, nie pała radością na myśl o zagraniu kameralnego koncertu z dawną partnerką, ale jako że pół miliona funtów piechotą nie chodzi – a tyle właśnie płaci mu Charles – postanawia przyjąć ofertę. Nell Mortimer (Carey Mulligan), która porzuciła sztukę na rzecz produkcji indyjskich sosów, jest pozytywniej nastawiona do koncepcji gospodarza. Sęk w tym, że na miejsce dociera wraz z mężem Michaelem (Akemnji Ndifornyen). Podczas prób do występu budzą się stare napięcia i frustracje, ale też od lat niedoświadczane uczucia. THE BALLAD OF WALLIS ISLAND (2025) Jamesa Griffithsa – film powstały na bazie krótkometrażówki z 2007 roku – to przepełnione nastrojowymi melodiami dzieło, które łączy w sobie inteligentny humor z głębokimi emocjami. To ponadto subtelne, skłaniające do refleksji, pozbawione klisz i nasycone obezwładniającymi krajobrazami kino o rozprawianiu się z przeszłością i wypatrywaniu lepszej przyszłości.\n\nEN\n\nThere are countless ways to spend a lottery jackpot. One could, for instance, use it to bring back a long-lost favourite band. That’s precisely the idea that strikes Charles Heath (Tim Key) – an eccentric, endlessly talkative loner living on a tiny, windswept island off the coast of Wales. A self-proclaimed superfan of the defunct folk-rock duo McGwyer Mortimer, Charles decides to reunite the pair, who haven’t seen each other for years and whose romantic relationship ended almost as messily as their musical one.\n\nHerb McGwyer (Tom Basden), whose solo career has been little more than a string of misfortunes, isn’t exactly thrilled at the thought of performing a cosy comeback gig with his ex. But when Charles offers him half a million pounds for the privilege, he reluctantly agrees. Nell Mortimer (Carey Mulligan), who’s since traded songwriting for a career producing Indian sauces, greets the idea with more warmth, though her arrival on the island with her husband Michael (Akemnji Ndifornyen) complicates matters considerably.\n\nAs rehearsals get underway, long-buried tensions resurface, egos collide, and the echoes of the past mingle with flickers of tenderness that neither Herb nor Nell expected to feel again.\n\nDirected by James Griffiths, whose 2007 short film inspired this feature-length adaptation, THE BALLAD of WALLIS ISLAND (2025) is a wry, beautifully scored and quietly affecting film. Blending British humour with emotional depth, it’s a thoughtful and visually stunning meditation on reconciliation, regret and the fragile hope of starting anew and looking forward to a better future.",
@@ -176,7 +176,7 @@
             "id": "tt0252444",
             "url": "https://www.imdb.com/title/tt0252444/",
             "rating": 7.4,
-            "votes": 31916
+            "votes": 31918
           },
           "filmweb": null,
           "rottenTomatoes": null
@@ -221,7 +221,7 @@
             "id": "tt32293052",
             "url": "https://www.imdb.com/title/tt32293052/",
             "rating": 6.1,
-            "votes": 335
+            "votes": 337
           },
           "filmweb": {
             "id": "10053069",
@@ -274,7 +274,7 @@
             "id": "tt32321317",
             "url": "https://www.imdb.com/title/tt32321317/",
             "rating": 6.9,
-            "votes": 25493
+            "votes": 25556
           },
           "filmweb": {
             "id": "10053146",
@@ -283,7 +283,7 @@
               "Melodramat"
             ],
             "rating": 6.5,
-            "votes": 6327
+            "votes": 6332
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/pillion",
@@ -292,10 +292,10 @@
             "directors": [
               "Harry Lighton"
             ],
-            "criticsRating": 99,
+            "criticsRating": null,
             "criticsVotes": 201,
-            "audienceRating": 89,
-            "audienceVotes": 322
+            "audienceRating": null,
+            "audienceVotes": null
           }
         },
         "longDescription": "Harry Lighton to debiutant z Hampshire, który zaskoczył publiczność Cannes bezkompromisowym PILLIONEM, eksplorującym queerowe środowisko BDSM. Reżyser podąża raczej ścieżką DUKE OF BURGUNDY Stricklanda czy BABYGIRL Reijn (nie tylko przez świąteczną aurę) niż hollywoodzkiej serii 50 TWARZY GREYA – i bardzo dobrze na tym wychodzi. Adaptując książkę Adama Marsa-Jonesa, nie tylko zaskakuje swobodą I luzem w poruszaniu się po strefie tabu, ale ma też odwagę w stawianiu pytań o nieumiejętność komunikowania pragnień i granic.\n\nW przeciwieństwie do oryginału literackiego, PILLION dzieje się współcześnie w uroczym mieście Bromley. Colin (Harry Melling) dryfuje przez życie bez grama adrenaliny, wspierany przez swoich rodziców. Nieoczekiwanie ze strefy komfortu – ale też ku wolności seksualnej – wyciąga go tajemniczy motocyklista Ray (Alexander Skarsgård). Parafrazując Rihannę, Colina zaczynają podniecać skóry i łańcuchy i z przyjemnością zajmuje tylne siedzenie zarezerwowane dla uległego w szalonej fetyszystycznej przejażdżce z facetem marzeń.\n\nLighton ma większe ambicje niż zrealizowanie komedii erotycznej szokującej niekonwencjonalnym seksem. Nie można mu odmówić zmysłowości i humoru z pazurem, ale to uczciwa, nieoceniająca perspektywa na odkrywanie rynku randkowego przez młodego geja jest jego największym atutem. Z dużym wyczuciem i zrozumieniem podchodzi też do gejowskiego środowiska motocyklistów, a ich przedstawiciele nie tylko konsultowali pomysły Lightona, ale też zagrali jako aktorzy-naturszczycy, wzmacniając autentyczność PILLIONA. To jeden z najbardziej nieoczywistych (i ponętnie przebranych) debiutów brytyjskich, słusznie nagrodzony za scenariusz w konkursie Un Certain Regard na festiwalu w Cannes.\n\nEN\n\nHarry Lighton, a first-time filmmaker from Hampshire, made a striking Cannes debut with PILLION, an uncompromising exploration of queer BDSM culture. The film sits closer to Peter Strickland’s THE DUKE OF BURGUNDY or Halina Reijn’s BABYGIRL than to the glossy fantasy of FIFTY SHADES OF GREY – and benefits from that distinction. In adapting Adam Mars-Jones’s novel, Lighton moves through taboo territory with remarkable ease, while asking sharper questions about desire, boundaries and the difficulty of communicating both.\n\nUnlike the novel, PILLION unfolds in the present day, in the quiet suburban setting of Bromley. Colin (Harry Melling) is drifting through life without much excitement, closely supported by his parents. His routine is abruptly disrupted by Ray (Alexander Skarsgård), a mysterious biker who draws him out of his comfort zone and into a world of sexual freedom. Leather, chains and submission become part of a relationship that initially seems to offer Colin both escape and fulfilment.\n\nLighton’s ambitions reach far beyond provocation. The film is sensual, funny and often sharply observed, but its real strength lies in its candid, non-judgemental depiction of a young gay man learning how to navigate desire, intimacy and power. The gay biker community is portrayed with similar care: members of the scene advised Lighton during development and also appear as non-professional performers, giving the film an added sense of authenticity.\n\nThe result is one of the more distinctive British debuts of recent years: playful, provocative and unusually assured. Its screenplay was awarded in the Un Certain Regard section at Cannes.",
@@ -339,7 +339,7 @@
             "id": "tt27766440",
             "url": "https://www.imdb.com/title/tt27766440/",
             "rating": 6.6,
-            "votes": 7961
+            "votes": 7963
           },
           "filmweb": {
             "id": "10058778",
@@ -349,7 +349,7 @@
               "Psychologiczny"
             ],
             "rating": 6.8,
-            "votes": 6269
+            "votes": 6274
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/the_salt_path",
@@ -358,10 +358,10 @@
             "directors": [
               "Marianne Elliott"
             ],
-            "criticsRating": 78,
+            "criticsRating": null,
             "criticsVotes": 45,
-            "audienceRating": 61,
-            "audienceVotes": 167
+            "audienceRating": null,
+            "audienceVotes": null
           }
         },
         "longDescription": "Są historie tak niezwykłe, że wydają się gotowym scenariuszem. Tak jest w przypadku opowieści Raynor Winn, której autobiograficzna książka „Słone ścieżki” stała się światowym bestsellerem i fenomenem wydawniczym.\n\nZa kamerą staje Marianne Elliot, dotychczas znana głównie z produkcji teatralnych, a za scenariusz odpowiedzialna jest Rebecca Lenkiewicz – jedna z najbardziej cenionych scenarzystek swojego pokolenia, współautorka oscarowej IDY czy autorka scenariusza do SŁONEGO LATA z sekcji High Season drugiej edycji festiwalu.\n\nElliot z niezwykłą czułością opowiada historię małżeństwa, które w jednej chwili traci wszystko: dom i poczucie bezpieczeństwa, a na dodatek staje w obliczu nieuleczalnej choroby mężczyzny. W akcie desperacji podejmują radykalną decyzję – wyruszają w pieszą podróż liczącym ponad tysiąc kilometrów szlakiem South West Coast Path, znanym jako „słona ścieżka”.\n\nTa legendarna trasa, wijąca się wzdłuż surowego i zapierającego dech w piersiach wybrzeża Kornwalii i Devon, staje się dla nich nie tylko wyzwaniem fizycznym, ale przede wszystkim drogą do wewnętrznego uzdrowienia. To kino drogi w najczystszej postaci, w którym natura jest pełnoprawnym bohaterem, a każdy krok staje się metaforą walki o przetrwanie i odnalezienie nadziei wbrew wszystkiemu.\n\nSpełnienie filmowi przynosi szczególnie subtelna, dojrzała rola Gillian Anderson w roli głównej i wyjątkowa chemia, jaka łączy ją z towarzyszącym na ekranie Jasonem Isaacsem.\n\nEN\n\nSome stories are so extraordinary they feel as though they were made for the screen. Raynor Winn’s memoir THE SALT PATH, which became an international bestseller and publishing phenomenon, is one of them.\n\nThe film marks the feature debut of Marianne Elliott, best known for her acclaimed theatre work, while the screenplay is by Rebecca Lenkiewicz, co-writer of the Oscar-winning IDA and screenwriter of HOT MILK, shown in the High Season section of the festival’s second edition.\n\nElliott tells with great tenderness the story of a married couple whose lives collapse almost overnight. They lose their home and any sense of security, only to learn that the husband is also facing an incurable illness. With nowhere else to turn, they make a drastic decision: to walk the South West Coast Path, a route stretching for more than a thousand kilometres along the coast of south-west England.\n\nRunning through the wild, breathtaking landscapes of Cornwall and Devon, the trail becomes more than a test of endurance. It offers the couple a way to keep moving when everything else has fallen apart. THE SALT PATH is road cinema in its purest form, with nature as a constant presence and each step carrying them towards a fragile sense of hope.\n\nAt the heart of the film is Gillian Anderson’s restrained, deeply felt performance, matched by the easy, convincing chemistry she shares with Jason Isaacs.",
@@ -459,7 +459,7 @@
             "id": "tt38991615",
             "url": "https://www.imdb.com/title/tt38991615/",
             "rating": 7.2,
-            "votes": 235
+            "votes": 236
           },
           "filmweb": {
             "id": "10121238",
@@ -477,7 +477,7 @@
             "directors": [
               "Clio Barnard"
             ],
-            "criticsRating": 91,
+            "criticsRating": null,
             "criticsVotes": 22,
             "audienceRating": null,
             "audienceVotes": null
@@ -523,7 +523,7 @@
             "id": "tt0976051",
             "url": "https://www.imdb.com/title/tt0976051/",
             "rating": 7.6,
-            "votes": 276240
+            "votes": 276271
           },
           "filmweb": {
             "id": "439584",
@@ -532,7 +532,7 @@
               "Melodramat"
             ],
             "rating": 7.8,
-            "votes": 211872
+            "votes": 211873
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/reader",
@@ -541,10 +541,10 @@
             "directors": [
               "Stephen Daldry"
             ],
-            "criticsRating": 63,
+            "criticsRating": null,
             "criticsVotes": 201,
-            "audienceRating": 79,
-            "audienceVotes": 25404
+            "audienceRating": null,
+            "audienceVotes": null
           }
         },
         "longDescription": "RFN, rok 1958. Od zakończenia wojny minęło niespełna półtorej dekady. To, jak się okazuje, dużo i mało jednocześnie. Przypadkowe spotkanie sprawia, że piętnastoletni, a zatem wciąż będący dzieckiem Michael Berg (David Kross) poznaje ponad dwa razy starszą od siebie Hannę Schmitz (uhonorowana Oscarem za tę rolę Kate Winslet), konduktorkę tramwajową. Ona udziela mu pomocy, gdy on podupada na zdrowiu. Jakiś czas później młokos, odzyskawszy siły, postanawia odwiedzić dobrodziejkę i podziękować jej za okazane mu wsparcie. Niespodziewanie para nawiązuje płomienny romans. Niedługo potem rodzi się między nimi coś na kształt uczucia, a ich trzymane w tajemnicy przed światem schadzki przybierają stały rytm: Michael czyta Hannie książki, a następnie dochodzi do erotycznego zbliżenia. Pewnego dnia panna Schmitz znika bez śladu. Berg odnajduje ją – znowu dziwnym trafem – już jako student prawa. Jego dawna kochanka jest sądzona w procesie kobiet oskarżonych o zbrodnie popełnione w nazistowskim obozie koncentracyjnym. Oparty na wydanej w 1995 roku książce Bernharda Schlinka i nominowany do szeregu przeróżnych nagród LEKTOR (2008) Stephena Daldry’ego to niemal subwersywna mieszanka opowieści o dojrzewaniu – w której na pierwszy plan wysuwają się takie tematy jak inicjacja seksualna czy młodzieńcza fascynacja płcią przeciwną – a także historii winy i odpowiedzialności. To, co intymne i mające charakter prywatny, zostaje tu skonfrontowane z pamięcią zbiorową o Zagładzie, a to zderzenie przyczynia się z kolei do zadawania powodujących dyskomfort pytań o granice empatii i sposób przedstawiania katów.\n\nEN\n\nWest Germany, 1958. Thirteen years have passed since the end of the Second World War – long enough for everyday life to have moved on, yet little enough time for the past to remain painfully close. A chance encounter brings fifteen-year-old Michael Berg (David Kross), still very much a boy, into the life of Hanna Schmitz (Kate Winslet, who won an Academy Award for the role), a tram conductor more than twice his age. She comes to his aid when he falls ill. Some time later, having recovered, Michael returns to thank her for her kindness. Unexpectedly, the two begin a passionate affair.\n\nBefore long, something resembling love develops between them, and their secret meetings settle into a ritual: Michael reads aloud to Hanna, after which they have sex. Then, one day, Hanna disappears without a trace. Years later, Michael comes across her again by chance, this time as a law student. His former lover is now standing trial alongside other women accused of crimes committed at a Nazi concentration camp.\n\nBased on Bernhard Schlink’s 1995 novel, Stephen Daldry’s THE READER (2008) received widespread awards recognition. The film blends a coming-of-age story, centred on sexual awakening and youthful infatuation, with a broader exploration of guilt and responsibility.\n\nThe intimate and deeply personal are set against the collective memory of the Holocaust, and the collision between the two gives rise to deeply uncomfortable questions about the limits of empathy and the ethics of representing perpetrators.",
@@ -588,7 +588,7 @@
             "id": "tt0114388",
             "url": "https://www.imdb.com/title/tt0114388/",
             "rating": 7.7,
-            "votes": 139296
+            "votes": 139362
           },
           "filmweb": {
             "id": "166",
@@ -598,7 +598,7 @@
               "Kostiumowy"
             ],
             "rating": 7.3,
-            "votes": 62974
+            "votes": 62978
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/1068832-sense_and_sensibility",
@@ -607,10 +607,10 @@
             "directors": [
               "Ang Lee"
             ],
-            "criticsRating": 97,
+            "criticsRating": null,
             "criticsVotes": 141,
-            "audienceRating": 90,
-            "audienceVotes": 21209
+            "audienceRating": null,
+            "audienceVotes": null
           }
         },
         "longDescription": "Powściągliwy romantyzm i obyczajowa ironia pióra Jane Austen przepuszczone przez urokliwy filtr georgiańskiej Anglii. Tajwański reżyser Ang Lee przyjrzał się angielskim konwenansom z dystansu przy jednoczesnym doświadczeniu pozorów klasowej dominacji wciąż odczuwalnych w świecie kontrastów Azji Wschodniej. Gwiazdorska obsada umocniła emocjonalny wymiar filmu, który w dodatku pozwolił głównej aktorce – Emmie Thompson – dowieść zdolności scenariopisarskich, czego podsumowaniem okazał się Oscar za najlepszy scenariusz adaptowany.\n\nPo śmierci Henry’ego Dashwooda jego majątek dziedziczy syn z pierwszego małżeństwa. Wdowa po nim wraz z trzema córkami: małą Margaret, Elinor (Emma Thompson) i Marianne (Kate Winslet), zostają zmuszone zamieszkać w wiejskiej posiadłości. Panny Dashwood muszą sprostać nowej – skromnej – rzeczywistości, w której jedynym sposobem na kobiecą stabilizację okazuje się zamążpójście. Dziewczęta nie zamierzają jednak podporządkować się ówczesnej obyczajowości stawiającej pozycję i wpływy ponad szczere uczucie. Rozsądna Elinor tłumi w sobie zauroczenie nieśmiałym , podczas gdy targana emocjami i stęskniona za romansem rodem z dramatów Shakespeare’a Marianne wzdycha do Willoughby’ego (Greg Wise), odrzucając zaloty szczerze jej oddanego pułkownika Brandona (Alan Rickman).\n\nPo śmierci Alana Rickmana w 2016 roku reżyser SZKLANEJ PUŁAPKI (1988) John McTiernan wspominał go jako „antytezę ról czarnych charakterów, z których najbardziej słynął na ekranie”. W tym kontekście kreacja Austenowskiego pułkownika odsłania wszechstronne umiejętności aktora słynącego za kulisami z hojności i życzliwości. Christopher Brandon to cieszący się wielką estymą właściciel Delaford, spętany jednak węzłem tragicznej przeszłości. Rickman brawurowo odzwierciedlił ciężar traumy cichego melancholika, przez którego twarz przemyka cień goryczy – w żaden sposób niezakłócający jego dystynkcji i godności, o których próżny Willoughby mógłby tylko pomarzyć.\n\nEN\n\nThrough the elegance of Georgian England, Jane Austen’s restrained romanticism and social irony shine through. Taiwanese director Ang Lee approaches English manners and class conventions with an outsider’s perspective, bringing a particular sensitivity to the tensions between social hierarchy, appearances and private feeling. The film’s emotional power is significantly enhanced by its star-studded cast. Emma Thompson, who portrays Elinor, also showcased her talent as a screenwriter, winning the Academy Award for Best Adapted Screenplay for her adaptation.\n\nAfter Henry Dashwood passes, Norland passes to his son from his first marriage, leaving Mrs Dashwood and her three daughters – young Margaret, Elinor (Emma Thompson) and Marianne (Kate Winslet) – in greatly reduced circumstances. The Dashwood sisters must come to terms with their new—modest—reality, in which marriage is the only way for a woman to achieve stability.\n\nHowever, neither sister is ready to merely accept a social structure that prioritises wealth and status over true emotion. The composed Elinor maintains her affection for the retiring Edward Ferrars (Hugh Grant) in check; the impulsive Marianne, who yearns for a Shakespearean romance, is captivated by Willoughby (Greg Wise) and disregards the advances of the devoted Colonel Brandon (Alan Rickman).\n\nFollowing Alan Rickman’s death in 2016, DIE HARD (1988) director John McTiernan recalled how different Rickman himself was from the villains with whom he became so closely associated on screen. In that light, his Colonel Brandon reveals another side of the actor’s range: restraint, tenderness and melancholy rather than menace.\n\nAlthough Austen never gives Brandon a first name, the 1995 film calls him Christopher; the name has since become synonymous with the character. Brandon is the respected owner of Delaford, yet remains marked by a tragic past. Rickman conveys that burden with remarkable subtlety: bitterness flickers across his face without ever compromising his character’s dignity or self-possession – qualities the vain Willoughby could only aspire to.",
@@ -654,7 +654,7 @@
             "id": "tt34819091",
             "url": "https://www.imdb.com/title/tt34819091/",
             "rating": 6.4,
-            "votes": 11135
+            "votes": 11155
           },
           "filmweb": {
             "id": "10090000",
@@ -664,7 +664,7 @@
               "Musical"
             ],
             "rating": 6,
-            "votes": 2463
+            "votes": 2470
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/the_testament_of_ann_lee",
@@ -673,10 +673,10 @@
             "directors": [
               "Mona Fastvold"
             ],
-            "criticsRating": 85,
+            "criticsRating": null,
             "criticsVotes": 220,
-            "audienceRating": 82,
-            "audienceVotes": 212
+            "audienceRating": null,
+            "audienceVotes": null
           }
         },
         "longDescription": "Przywódczynie religijne stanowią w historii absolutną rzadkość. Nic dziwnego, że gdy Mona Fastvold – reżyserka i scenarzystka, która współtworzyła scenariusz THE BRUTALIST (nominowany do Oscara) – natknęła się na postać Ann Lee, poczuła wręcz obowiązek, aby zekranizować jej herstorię . Tym bardziej, że działania tej kobiety o wielkim marzeniu zrewolucjonizowania nowego świata skutecznie pogrzebano i funkcjonują przeważnie w sferze domysłów. Fastvold potraktowała je z szacunkiem bez prób współczesnych reinterpretacji. W efekcie stworzyła hipnotyzujące, ekstatyczne doświadczenie kinowe z niesamowitą wyobraźnią inscenizacyjną i wykorzystaniem wstawek musicalowych, które nie odstraszą nawet sceptyków tego gatunku.\n\nAnn Lee (Amanda Seyfried) to kobieta z Manchesteru, która zakłada sektę Shakerów w reakcji na otaczające ją zepsucie i niesprawiedliwość. Wytyka opresyjność porządkowi konstytuowanemu przez Kościół Anglikański i skrada ludzkie serca utopijną wizją równości płciowej i społecznej, której życzyłby sobie Chrystus. Ann Lee rusza ze swoją wspólnotą do Nowej Anglii za Atlantyk z nadzieją, że przeniosą na odległy grunt świeżą koncepcję społeczeństwa zbudowanego na empatii.\n\nFastvold zaangażowała do produkcji TESTAMENTU ANN LEE nieprawdopodobnie utalentowanych ludzi, którzy tchnęli w jej historię autentyczność i transcendentność. Amanda Seyfried występuje prawdopodobnie w najbardziej wymagającej roli w jej karierze, która oferuje nie tylko gamę szczerych emocji, ale też doskonałe występy wokalne i ruchowe. Shakerów wyróżniają performatywność i pieśni uwielbieniowe, a opiekę nad tymi aspektami objęła choreografka Celia Rowlson-Hall, doskonale czująca ekspresywność ich tańca oraz muzyk Daniel Blumberg, dokonujący popisowej współczesnej interpretacji tradycyjnych melodii sekty. Ruchowi scenicznemu sprzyja również kamera Williama Rexera, który wręcz zanurza widza w euforycznej wspólnocie i umożliwia partycypowanie w ich niekonwencjonalnym spojrzeniu na wiarę i świat. Mając takich ludzi u boku, Fastvold tworzy dzieło totalne, z którego emanuje szalona, twórcza siła.\n\nEN\n\nFemale religious leaders have been vanishingly rare throughout history. So when director and screenwriter Mona Fastvold, co-writer of the Oscar-nominated THE BRUTALIST, came across the figure of Ann Lee, she felt almost compelled to bring her story to the screen. All the more so because the legacy of this woman, driven by an extraordinary ambition to reshape the New World, had largely been buried and left to survive in fragments, speculation and myth. Fastvold approaches that history with respect, resisting the temptation to force it into a contemporary framework. The result is a hypnotic, ecstatic cinematic experience, full of bold visual invention and musical interludes that may win over even those normally wary of the genre.\n\nAnn Lee (Amanda Seyfried) is a woman from Manchester who founds the Shaker movement in response to the corruption and injustice she sees around her. She challenges the oppressive social order upheld by the Church of England and wins people over with a utopian vision of gender and social equality, one she believes Christ himself would have wanted. Ann and her community eventually cross the Atlantic to New England, hoping to build a new society founded on empathy.\n\nFor THE TESTAMENT OF ANN LEE, Fastvold surrounded herself with an extraordinary group of collaborators who give the film both authenticity and a sense of transcendence. Amanda Seyfried takes on what may be the most demanding role of her career, delivering not only a remarkable emotional performance but also striking vocal and physical work. Song, movement and ecstatic worship are central to Shaker practice, and choreographer Celia Rowlson-Hall captures the expressive force of their dance. Meanwhile, composer Daniel Blumberg reworks traditional Shaker melodies with thrilling contemporary energy.\n\nWilliam Rexer’s camera moves enhance physical intensity. It literally draws the audience into euphoric community and lets us experience, from within, its unconventional understanding of faith and the world. With collaborators like these, Fastvold creates something close to a total work of cinema, charged throughout with an almost overwhelming creative force.",
@@ -712,27 +712,27 @@
         "description": "Zainspirowany najsłynniejszą sztuką Williama Szekspira film w reżyserii Chloé Zhao jest wrażliwym i głębokim obrazem małżeństwa, próbującego ukształtować się na nowo po śmierci ukochanego dziecka. W rolach głównych zjawiskowy duet: Jessie Buckley oraz Paul Mescal.",
         "shortDescription": "Zainspirowany najsłynniejszą sztuką Williama Szekspira film w reżyserii Chloé Zhao jest wrażliwym i głębokim obrazem małżeństwa, próbującego ukształtować się na nowo po śmierci ukochanego dziecka. W rolach głównych zjawiskowy duet: Jessie Buckley oraz Paul Mescal.",
         "genres": [
+          "Dramat",
           "Biograficzny",
-          "Kostiumowy",
-          "Dramat"
+          "Kostiumowy"
         ],
         "external": {
           "imdb": {
             "id": "tt14905854",
             "url": "https://www.imdb.com/title/tt14905854/",
             "rating": 7.8,
-            "votes": 140990
+            "votes": 141195
           },
           "filmweb": {
             "id": "10035555",
             "url": "https://www.filmweb.pl/film/Hamnet-2025-10035555",
             "genres": [
+              "Dramat",
               "Biograficzny",
-              "Kostiumowy",
-              "Dramat"
+              "Kostiumowy"
             ],
             "rating": 7.6,
-            "votes": 30462
+            "votes": 30485
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/hamnet",
@@ -741,10 +741,10 @@
             "directors": [
               "Chloé Zhao"
             ],
-            "criticsRating": 86,
+            "criticsRating": null,
             "criticsVotes": 352,
-            "audienceRating": 93,
-            "audienceVotes": 2688
+            "audienceRating": null,
+            "audienceVotes": null
           }
         },
         "longDescription": "Maggie O’Farrell w swojej powieści opisuje chłopca, który „ ma skłonności do wyślizgiwania się poza granice realnego, namacalnego świata, który go otacza. ” Nagrodzony w 2020 roku prestiżową brytyjską nagrodą Women’s Prize for Fiction tekst, został zainspirowany najsłynniejszą, a jednocześnie najbardziej enigmatyczną sztuką Williama Szekspira.\n\nW latach 80. XVI wieku pewnemu małżeństwu mieszkającemu w Stratfordzie urodziła się trójka dzieci: najmłodsza Susanna, a następnie bliźnięta – Hamnet i Judith. Chłopiec zmarł w wieku jedenastu lat. Cztery lata później jego ojciec napisał sztukę zatytułowaną Hamlet . Film wyreżyserowany przez Chloé Zhao, drugą kobietę w historii, która otrzymała Oscara za najlepszą reżyserię (NOMADLAND, 2021), jest wrażliwym i głębokim obrazem małżeństwa, próbującego ukształtować się na nowo po śmierci ukochanego dziecka. To historia Agnes – żony Williama Szekspira i jej zmagań po stracie ukochanego syna Hamneta.\n\nW rolach głównych zjawiskowy duet irlandzkich aktorów: Jessie Buckley oraz Paul Mescal. Producentami filmu są Steven Spielberg i Sam Mendes, a zdjęcia wykonał Łukasz Żal. Dopełnieniem całości jest muzyka skomponowana przez Maxa Richtera. Brytyjski HAMNET to opowieść o poszukiwaniu bliskości i sensu dalszego istnienia, mimo straty, której rany są niemożliwe do zagojenia się. Gdzieś na granicy snu i tego co realne, parafrazując bohaterów filmu, opowiemy Wam historię, ale taką, która Was poruszy. Film Zhao był nominowany do Oscara w 8 kategoriach, w tym za najlepszy film, a fantastyczna Jessie Buckley odebrała złotą statuetkę za swoją rolę. Pierwsze pokazy HAMNETA w Polsce odbyły się na British Film Festival 2025.\n\nEN\n\nMaggie O’Farrell’s novel describes a boy who “ tends to slip the bounds of the real, tangible world around him”. Winner of the Women’s Prize for Fiction in 2020, the book was inspired by William Shakespeare’s most famous and most enigmatic play.\n\nIn the 1580s, a couple living in Stratford had three children: Susanna, followed by twins Hamnet and Judith. Hamnet died at the age of eleven. Four years later, his father wrote a play entitled Hamlet . Directed by Chloé Zhao, the second woman in history to win the Academy Award for Best Director (NOMADLAND, 2021), HAMNET is a tender and deeply affecting portrait of a marriage trying to reshape itself after the death of a beloved child. At its heart is Agnes, William Shakespeare’s wife, and her struggle to live with the loss of their son.\n\nThe film is led by a remarkable pair of Irish actors, Jessie Buckley and Paul Mescal. Steven Spielberg and Sam Mendes are among the producers, Łukasz Żal is responsible for the cinematography, and the score was composed by Max Richter. HAMNET is a story about searching for closeness and meaning after a loss whose wounds can never fully heal. Hovering somewhere between dream and reality, it sets out, to borrow the language of the film itself, to tell a story that moves us.\n\nZhao’s film received eight Academy Award nominations, including Best Picture, while Jessie Buckley won the Oscar for her performance. HAMNET received its first Polish screenings at the British Film Festival in 2025.",
@@ -787,7 +787,7 @@
             "id": "tt9138170",
             "url": "https://www.imdb.com/title/tt9138170/",
             "rating": 7.2,
-            "votes": 5965
+            "votes": 5966
           },
           "filmweb": {
             "id": "848776",
@@ -805,10 +805,10 @@
             "directors": [
               "Ben Sharrock"
             ],
-            "criticsRating": 93,
+            "criticsRating": null,
             "criticsVotes": 122,
-            "audienceRating": 55,
-            "audienceVotes": 44
+            "audienceRating": null,
+            "audienceVotes": null
           }
         },
         "longDescription": "Czterech mężczyzn w ośrodku detencyjnym dla imigrantów oczekujących na rozpatrzenie wniosku o azyl. Najbliżej widzów jest Omar – młody, zdolny muzyk z Syrii, dla którego ud, tradycyjny instrument, jest na obczyźnie największym skarbem. Obok niego jest Farhad, afgański fan Freddiego Mercury’ego, do którego stara się upodobnić. Dalej stoją młodziutki Abedi z Ghany i Nigeryjczyj Wasef. Wszyscy czterej pozostają w swoistym limbo – ośrodek ulokowany jest na kompletnym bezludziu w Szkocji, a pustka tego miejsca jeszcze silniej drenuje wystarczająco już odrętwiałą psychikę bohaterów.\n\nBen Sharrock składa swój film z obrazków życia. Fabuła jest tu szczątkowa, bo też w życiu Omara i reszty niewiele się dzieje. Na wpół surrealistyczne sytuacje oddają absurd sytuacji imigrantów: system pozbawia ich szansy na włączenie się w życie społeczeństwa, choć oficjalnie tego właśnie od nich oczekuje. LIMBO gra więc nastrojem, długimi ujęciami przestrzennego, surowego krajobrazu, oszczędnością.\n\nW ten apatyczny świat wrzuca jednak i humor, który, paradoksalnie, podkreśla jeszcze smutek i dramat całości. To film ponury, lecz czuły. Choć bohaterowie tkwią w apatii, starają się wykrzesać z siebie iskrę życia. Twórcy zwracają im odebraną godność, sprawczość, indywidualność, człowieczeństwo. Formułując oskarżenie przeciw bezdusznej machinie państwa, obnażają okrucieństwo współczesnego świata.\n\nEN\n\nFour men in a detention centre for migrants awaiting the outcome of their asylum applications. At the heart of the story is Omar – a young, talented musician from Syria, for whom the ud, a traditional instrument, is his greatest treasure whilst in a foreign land. Alongside him is Farhad, an Afghan Freddie Mercury fan who does his best to emulate his idol. Then there are the very young Abedi from Ghana and Wasef from Nigeria. The centre is stuck in the middle of nowhere in Scotland, and the emptiness of the place makes the numbness that they are already feeling even worse.\n\nBen Sharrock builds his film from snapshots of life. The plot is minimal here, as not much happens in the lives of Omar and the others. The semi-surreal situations reflect the absurdity of the immigrants’ reality: the system deprives them of any chance of integrating into society, while officially that is precisely what is expected of them. Consequently, LIMBO plays on atmosphere, with long shots of a vast, austere landscape and an economy of means.\n\nYet Sharrock also brings humour into this listless world, paradoxically making the sadness and tragedy of it all more acute. It is a bleak yet tender film. Though its characters remain mired in apathy, they still try to summon some spark of life. The filmmakers restore what has been taken from them: their dignity, agency, individuality and humanity. In levelling an accusation against the soulless machinery of the state, they lay bare the cruelty of the modern world.",
@@ -844,22 +844,22 @@
         "description": "ŚWIĄTECZNY POKAZ SPECJALNY Z MINI INCHCAPE POZNAŃ (eNStudiosul. Głogowska 216).",
         "shortDescription": "ŚWIĄTECZNY POKAZ SPECJALNY Z MINI INCHCAPE POZNAŃ (eNStudiosul. Głogowska 216).",
         "genres": [
-          "Świąteczny",
-          "Komedia rom."
+          "Komedia rom.",
+          "Świąteczny"
         ],
         "external": {
           "imdb": {
             "id": "tt0314331",
             "url": "https://www.imdb.com/title/tt0314331/",
             "rating": 7.5,
-            "votes": 586100
+            "votes": 586164
           },
           "filmweb": {
             "id": "99390",
             "url": "https://www.filmweb.pl/film/To+w%C5%82a%C5%9Bnie+mi%C5%82o%C5%9B%C4%87-2003-99390",
             "genres": [
-              "Świąteczny",
-              "Komedia rom."
+              "Komedia rom.",
+              "Świąteczny"
             ],
             "rating": 7.5,
             "votes": 271330
@@ -871,10 +871,10 @@
             "directors": [
               "Richard Curtis"
             ],
-            "criticsRating": 65,
+            "criticsRating": null,
             "criticsVotes": 228,
-            "audienceRating": 72,
-            "audienceVotes": 119521
+            "audienceRating": null,
+            "audienceVotes": null
           }
         },
         "longDescription": "ŚWIĄTECZNY POKAZ SPECJALNY Z MINI INCHCAPE POZNAŃ.\n\neNStudios\n\nul. Głogowska 216\n\nMistrz wysublimowanej komedii romantycznej Richard Curtis przekonuje, że miłość najlepiej smakuje po brytyjsku w zestawie ze śmietanką aktorstwa. Powiedzieć, że film ma gwiazdorską obsadę, to jakby nic nie powiedzieć. Na ekranie błyszczą Alan Rickman, Emma Thompson, Colin Firth, Liam Neeson, Keira Knightley, Bill Nighy czy Laura Linney. Jeśli te nazwiska jeszcze Was nie przekonały, dodajmy do tego roztańczonego w rytm kawałka „Jump” The Pointer Sisters Hugh Granta jako premiera Wielkiej Brytanii oraz gościnne występy komika Rowana Atkinsona i modelki Claudii Schiffer, która za niespełna minutę ekranowego czasu zainkasowała rekordowe 200 tys. funtów.\n\nZbliża się Boże Narodzenie. Życie mieszkańców Londynu wypełniają świąteczne przygotowania i miłosne rozterki. Zakazane uczucie, miłość od pierwszego wejrzenia, przyjaźń ponad wszystko, zdrada, młodzieńcze fascynacje i rodzinne więzi… miłość przybiera wszechstronne oblicze i jest tym, czego pragną wszyscy bohaterowie.\n\nHarry i Karen to małżeństwo z długoletnim stażem, które zostaje wystawione na próbę z powodu uwodzicielskiej sekretarki mężczyzny. Nowy premier już pierwszego dnia kadencji zakochuje się w pracownicy biura. Zdradzony pisarz ucieka na południe Francji, gdzie poznaje niemówiącą w jego języku Portugalkę. Wdowiec stara się pomóc pasierbowi w żałobie po stracie mamy i zwróceniu na siebie uwagi najpiękniejszej dziewczyny w szkole. Sarah czuje się odpowiedzialna za chorego psychicznie brata i nie potrafi wyznać swych uczuć koledze z biura. Łącznie otrzymujemy 10 historii, które początkowo miały być dwoma odrębnymi produkcjami, ale ich fabularne podobieństwa złożyły się na ekranowy projekt-gwiazdka.\n\nPoza ekranem podobnie chcemy kochać i być kochani – twórca scenariuszy do komediowych hitów CZTERY WESELA I POGRZEB (1994) czy NOTTING HILL (1999) Robert Curtis ponownie trafia w uniwersalne potrzeby widzów. Dodając do tego absurd brytyjskiego humoru i pozbawiony patosu świąteczny klimat stworzył przepis na wigilijny klasyk. Amerykanie mają TO WSPANIAŁE ŻYCIE (1946), Anglicy otwierają z trzaskiem tradycyjne „crackery” przy finalnym spotkaniu bohaterów TO WŁAŚNIE MIŁOŚĆ na lotnisku Heathrow.\n\nEN\n\nRichard Curtis, a master of the romantic comedy, makes a persuasive case that love is best served British-style – with the cream of the country’s acting talent. To call the cast star-studded hardly does it justice: Alan Rickman, Emma Thompson, Colin Firth, Liam Neeson, Keira Knightley, Bill Nighy and Laura Linney all light up the screen.\n\nIf that line-up isn’t impressive enough, we have Hugh Grant portraying the British Prime Minister, dancing through Downing Street to The Pointer Sisters’ song Jump. The film also features cameos from comedian Rowan Atkinson and model Claudia Schiffer, who was reportedly paid a record £200,000 for less than a minute of screen time.\n\nChristmas is approaching, and London is awash with festive preparations and romantic complications. Forbidden love, love at first sight, friendship above all else, infidelity, youthful infatuation and family ties – love takes many forms, and every character is searching for it in one way or another. Harry and Karen’s long-standing marriage is put to the test by his seductive secretary. On his very first day in office, the new Prime Minister falls for a member of his staff. A betrayed writer retreats to the south of France, where he meets a Portuguese woman who does not speak his language. A widower tries to help his stepson cope with the loss of his mother – and win the attention of the prettiest girl at school. Sarah feels responsible for her mentally ill brother and cannot bring herself to confess her feelings for a colleague.\n\nAltogether, LOVE ACTUALLY weaves ten stories into one; two of them were originally conceived as separate films before their shared themes helped shape Curtis’s ensemble Christmas romance.\n\nOff screen, we are driven by much the same desire to love and be loved. Richard Curtis, the screenwriter behind such comedy hits as FOUR WEDDINGS AND A FUNERAL (1994) and NOTTING HILL (1999), once again taps into something universal. Add the absurdity of British humour and a Christmas atmosphere refreshingly free of sentimentality, and you have the recipe for a festive classic. Americans have IT’S A WONDERFUL LIFE (1946); in Britain, Christmas crackers go off as the characters of LOVE ACTUALLY reunite at Heathrow Airport.",
@@ -918,7 +918,7 @@
             "id": "tt31514146",
             "url": "https://www.imdb.com/title/tt31514146/",
             "rating": 8.3,
-            "votes": 72312
+            "votes": 72618
           },
           "filmweb": {
             "id": "10088817",
@@ -928,7 +928,7 @@
               "Dramat"
             ],
             "rating": 8,
-            "votes": 5010
+            "votes": 5026
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/i_swear_2025",
@@ -937,10 +937,10 @@
             "directors": [
               "Kirk Jones"
             ],
-            "criticsRating": 96,
+            "criticsRating": null,
             "criticsVotes": 138,
-            "audienceRating": 98,
-            "audienceVotes": 90
+            "audienceRating": null,
+            "audienceVotes": null
           }
         },
         "longDescription": "John Davidson (Ellis Watson), nastolatek mieszkający w Galashiels w Szkocji, marzy o graniu w piłkę nożną na profesjonalnym poziomie. Sęk w tym, że jego ciało zaczyna wymykać się spod kontroli. Pojawiają się tiki, gwałtowne ruchy i nieprzewidywalne okrzyki, w tym także wulgaryzmy (nawiązanie do nich zawarte jest już w błyskotliwie dwuznacznym tytule filmu, odnoszącym się również do przysięgania, co – chcąc zachować tę ambiwalencję – można by przetłumaczyć jako KLNĘ SIĘ NA WSZYSTKO). Z bramkarskiej kariery nici. Okazuje się, że chłopak ma zespół Tourette’a. Diagnoza niewiele zmienia, ponieważ w świecie, który nie ma zielonego pojęcia o syndromie, młodzian uchodzi za nieposłusznego i agresywnego. W szkole karany jest przez nauczycieli i wyszydzany przez rówieśników. W domu wcale nie jest lepiej. Rodzina rozpada się na jego oczach. Kilka lat później John (grany teraz przez Roberta Aramayo, uhonorowanego za tę rolę nagrodą BAFTA dla najlepszego aktora) wciąż nie potrafi znaleźć dla siebie miejsca. Przełomem okazuje się spotkanie z Dottie (Maxine Peake), matką dawnego kolegi, która pomaga mu uwierzyć w siebie i w to, że życie na jego własnych zasadach jest możliwe. I SWEAR (2025) w reżyserii Kirka Jonesa, wielki hit na Wyspach, to oparta na prawdziwej historii odznaczonego przez królową Elżbietę II Orderem Imperium Brytyjskiego Johna Davidsona opowieść, w której elementy dramatyczne spod znaku kina społecznie zaangażowanego łączą się z wywrotową wręcz komedią, co zmusza widza do nieustannego balansowania na granicy pomiędzy powagą a śmiechem. Zachowanie głównego bohatera z jednej strony skłania do refleksji nad zjawiskiem nietolerancji, a z drugiej – jest źródłem komizmu. I SWEAR przekształca dość klasyczną biografię w poruszający przekaz o empatii i godności.\n\nEN\n\nJohn Davidson (Ellis Watson), a teenager growing up in Galashiels in Scotland, dreams of becoming a professional footballer. The problem is that his body is starting to slip out of his control. Tics, sudden movements and unpredictable outbursts appear, including swearing – something already hinted at in the film’s cleverly ambiguous title, which can refer both to profanity and to making a solemn promise. His hopes of a career in goal quickly fell apart. John is diagnosed with Tourette syndrome.\n\nThe diagnosis changes little, because in a world that has no idea what the syndrome is, the young man is seen as disobedient and aggressive. At school, teachers punish him and classmates mock him. Things are no better at home. His family is falling apart before his very eyes. A few years later, John (now played by Robert Aramayo, who won a BAFTA for Best Actor for this role) still cannot find his place in the world. A turning point comes when he meets Dottie (Maxine Peake), the mother of an old friend, who helps him believe in himself and in the possibility of living on his own terms.\n\nDirected by Kirk Jones, I SWEAR (2025) became a major hit in the UK. Based on the true story of John Davidson (awarded an OBE by Queen Elizabeth II), the film combines the emotional weight of socially engaged drama with an irreverent streak of comedy, constantly keeping the audience poised between seriousness and laughter.\n\nJohn’s behaviour becomes both a source of humour and a way of confronting prejudice and intolerance. In doing so, I SWEAR turns a fairly traditional biographical story into a moving argument for empathy, dignity and the right to be understood.",
@@ -976,8 +976,8 @@
         "description": "Dylan, zmęczony życiem, pogrążony w samotności i beznadziei młody mężczyzna, daje sobie tydzień na to, by odnaleźć sens istnienia. Wróciwszy wspomnieniami do stanu śmierci klinicznej doświadczonego w dzieciństwie, podejmuje szereg desperackich działań, testując tym samym i siebie, i otoczenie.",
         "shortDescription": "Dylan, zmęczony życiem, pogrążony w samotności i beznadziei młody mężczyzna, daje sobie tydzień na to, by odnaleźć sens istnienia. Wróciwszy wspomnieniami do stanu śmierci klinicznej doświadczonego w dzieciństwie, podejmuje szereg desperackich działań, testując tym samym i siebie, i otoczenie.",
         "genres": [
-          "Dramat",
-          "Thriller"
+          "Thriller",
+          "Dramat"
         ],
         "external": {
           "imdb": {
@@ -990,8 +990,8 @@
             "id": "10080762",
             "url": "https://www.filmweb.pl/film/Mission-2026-10080762",
             "genres": [
-              "Dramat",
-              "Thriller"
+              "Thriller",
+              "Dramat"
             ],
             "rating": 3,
             "votes": 1
@@ -1049,7 +1049,7 @@
             "id": "tt0106335",
             "url": "https://www.imdb.com/title/tt0106335/",
             "rating": 6.9,
-            "votes": 5516
+            "votes": 5518
           },
           "filmweb": {
             "id": "5282",
@@ -1067,10 +1067,10 @@
             "directors": [
               "Peter Greenaway"
             ],
-            "criticsRating": 33,
+            "criticsRating": null,
             "criticsVotes": 6,
-            "audienceRating": 81,
-            "audienceVotes": 304
+            "audienceRating": null,
+            "audienceVotes": null
           }
         },
         "longDescription": "Miasto Mâcon jest bezpłodne. Od lat nie rodzą się tu dzieci, pola nie dają plonów, a mieszkańcy tracą nadzieję, że kiedykolwiek uda im się pozbyć klątwy nieurodzaju. Wszystko zmienia się, kiedy na świat przychodzi piękny, zdrowy chłopiec. Do opowieści o lokalnym cudzie nie pasuje jednak biologiczna matka dziecka, która – wedle opinii decydentów na dworze Medyceuszy – jest za stara i za brzydka, by wpisać się w historię o boskiej interwencji. Zostaje więc ukryta przed ludem i zastąpiona jej dorosłą córką, która przekonuje wszystkich, że jest dziewicą i matką cudownego dzieciątka. Od tej chwili dziecko staje się najcenniejszym towarem w mieście. Kto ma do niego dostęp, ten ma władzę – a o tę walczą ojciec, samozwańcza Madonna, Kościół i dwór. Błogosławieństwo zostaje wycenione, a cud – wyprodukowany i sprzedany jak każdy inny produkt.\n\nGreenaway nie oszczędza nikogo – ani możnych, ani duchownych, ani bezmyślnego tłumu. Szkatułkowa akcja rozgrywa się jako przedstawienie teatralne w XVII wieku, które fabularna publiczność ogląda jednocześnie z widzem kinowym. DZIECIĄTKO Z MÂCON to film olśniewający feerią barw, wystawnością kostiumów i kadrami jak z barokowych płócien, a zarazem nie stroniący od przedstawień zbrodni podłych i barbarzyńskich.\n\nPo premierze w Cannes w 1993 roku film wywołał burzę i do dziś pozostaje jednym z najbardziej kontrowersyjnych dzieł Greenawaya – bezlitosnym portretem elit, dla których wiara jest spektaklem oraz krytyką chciwości, która nie zna podziałów klasowych.\n\nEN\n\nThe city of Mâcon is barren. No children have been born there for years; the fields yield nothing, and its inhabitants are losing hope that the curse of sterility will ever be lifted. Everything changes with the birth of a beautiful, healthy boy. Yet the child’s biological mother does not fit the story of a local miracle. In the eyes of those in power at the Medici court, she is too old and too unattractive to belong in a tale of divine intervention. She is hidden from the public and replaced by her grown-up daughter, who convinces everyone that she is a virgin and the mother of the miraculous child.\n\nFrom that moment on, the boy becomes the most valuable commodity in the city. Whoever has access to it holds the power – and it is this power that the father, the self-proclaimed Madonna, the Church and the court are all fighting for. Blessings are given a price, while the miracle itself is manufactured and sold like any other product.\n\nGreenaway spares no one: neither the powerful nor the clergy nor the mindless crowd. The story unfolds as a play within a play, performed in the 17th century for an on-screen audience who watch alongside us. THE BABY OF MÂCON dazzles with saturated colour, sumptuous costumes and compositions that resemble Baroque paintings, while never shying away from acts of cruelty, degradation and violence.\n\nWhen it premiered at Cannes in 1993, the film caused an uproar and remains one of Greenaway’s most controversial works. It is a merciless portrait of elites for whom faith becomes spectacle, and a critique of greed that cuts across every social class.",
@@ -1113,7 +1113,7 @@
             "id": "tt32141377",
             "url": "https://www.imdb.com/title/tt32141377/",
             "rating": 7.2,
-            "votes": 134246
+            "votes": 134578
           },
           "filmweb": {
             "id": "10068169",
@@ -1122,7 +1122,7 @@
               "Horror"
             ],
             "rating": 6.8,
-            "votes": 21098
+            "votes": 21120
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/28_years_later_the_bone_temple",
@@ -1131,10 +1131,10 @@
             "directors": [
               "Nia DaCosta"
             ],
-            "criticsRating": 91,
-            "criticsVotes": 351,
-            "audienceRating": 88,
-            "audienceVotes": 2798
+            "criticsRating": null,
+            "criticsVotes": 352,
+            "audienceRating": null,
+            "audienceVotes": null
           }
         },
         "longDescription": "Niedawno Danny Boyle i Alex Garland powrócili do postapokaliptycznego świata opanowanego przez ludzi zainfekowanych wirusem, który wywołuje niekontrolowaną agresję. W najnowszym filmie z serii – ŚWIĄTYNI KOŚCI – młoda reżyserka Nia DaCosta przejmuje stery po Boyle’u i sięga aż po bebechy świata toczonego zarazą, aby dojść do jądra ciemności w sercu człowieka. Podobnie jak w poprzedniej części, nie brakuje refleksji, że jej okrycia nie są obce dla współczesnego człowieka. Czy do takiej rzeczywistości dzieli nas już tylko apokalipsa zombie?\n\nDaCosta powraca do bohaterów, których poznaliśmy w 28 DNI PÓŹNIEJ Boyle’a. Śledzi losy młodego Spike’a (Alfie Williams), który opuszcza swój dom i schronienie i wpada na psychopatyczną szajkę dowodzoną przez Jimmy’ego Crystala (Jack O’Connell). „Sir Lord” Crystal jest przekonany, że jego ojcem jest sam szatan, dlatego w jego imieniu jest zdolny dokonać większych okrucieństw niż zarażeni. Wkrótce sadystyczna grupa ze werbowanym Spike’iem odkrywa świątynię kości doktora Iana Kelsona (Ralph Fiennes), będącego na tropie odkrycia rewolucyjnego dla przyszłości.\n\nChoć angażowanie się w nową franczyzę wydawało się reżyserce THE MARVELS ryzykowne, do realizacji ŚWIĄTYNI KOŚCI zachęcił ją sam Jonathan Glazer. Szczęśliwie DaCosta otrzymała swobodę artystyczną od Boyle’a i doskonale ją wykorzystała opierając się na doskonałym scenariuszu Garlanda. Stworzyła filmową wersję heavy metalu (z którego zresztą chętnie korzysta w scenie z The Number of Beast) – jest bezkompromisowa, intensywna i odarta ze wszelkich świętości. Ten charakter objawia się nie tylko w wyborach muzycznych, ale też wizualnych, gdy film DaCosty aż ocieka mrożącą krew w żyłach symboliką. To przejmująca, brutalna, a przy tym skrupulatnie zrealizowana opowieść o naturze zła – choć zdecydowanie dla widowni o mocnym żołądku.\n\nEN\n\nDanny Boyle and Alex Garland recently returned to the post-apocalyptic world of 28 YEARS LATER, ravaged by a virus that drives the infected into uncontrollable violence. In the latest instalment, 28 YEARS LATER: THE BONE TEMPLE, yound director Nia DaCosta takes over directing duties from Boyle and turns her attention to the darker side of human nature. As in the previous film, the horrors she uncovers feel uncomfortably close to the present. Is a zombie apocalypse really all that separates us from such a world?\n\nDaCosta returns to the characters introduced in Boyle’s 28 YEARS LATER. She follows young Spike (Alfie Williams), who leaves the safety of his home only to fall in with a psychopathic gang led by Jimmy Crystal (Jack O’Connell). “Sir Lord” Crystal believes Satan himself to be his father and, in his name, proves capable of atrocities even worse than those committed by the infected. Before long, the sadistic group, with Spike now drawn into its ranks, comes across the bone temple of Dr Ian Kelson (Ralph Fiennes), who is on the verge of a discovery that could transform the future.\n\nAlthough joining another franchise initially seemed risky to the director of THE MARVELS, it was Jonathan Glazer himself who encouraged DaCosta to take on 28 YEARS LATER: THE BONE TEMPLE. Fortunately, Boyle gave her considerable creative freedom, and she makes full use of it, working from Garland’s assured screenplay. The result is the cinematic equivalent of heavy metal, a genre the film embraces outright in a sequence set to The Number of the Beast : uncompromising, intense and stripped of all reverence. That spirit runs through not only the music but the imagery, as DaCosta’s film positively drips with chilling symbolism. The result is a harrowing, brutal and meticulously crafted exploration of the nature of evil – though decidedly not for the faint-hearted.",
@@ -1170,22 +1170,22 @@
         "description": "Danny Bolye opowiada historię niczym z pierwszych stron gazet. W roku 1969 Rupert Murdoch (Guy Pearce) wykupił tabloid „The Sun” i zatrudnił jako naczelnego Larry’ego Lamba (Jack O&#8217;Connell). W efekcie powstało medialne imperium, które zmieniło na zawsze brytyjskie dziennikarstwo i społeczeństwo.",
         "shortDescription": "Danny Bolye opowiada historię niczym z pierwszych stron gazet. W roku 1969 Rupert Murdoch (Guy Pearce) wykupił tabloid „The Sun” i zatrudnił jako naczelnego Larry’ego Lamba (Jack O&#8217;Connell). W efekcie powstało medialne imperium, które zmieniło na zawsze brytyjskie dziennikarstwo i społeczeństwo.",
         "genres": [
-          "Biograficzny",
-          "Dramat"
+          "Dramat",
+          "Biograficzny"
         ],
         "external": {
           "imdb": {
             "id": "tt37967547",
             "url": "https://www.imdb.com/title/tt37967547/",
             "rating": 6.9,
-            "votes": 568
+            "votes": 574
           },
           "filmweb": {
             "id": "10100972",
             "url": "https://www.filmweb.pl/film/Tabloid-2026-10100972",
             "genres": [
-              "Biograficzny",
-              "Dramat"
+              "Dramat",
+              "Biograficzny"
             ],
             "rating": 6.5,
             "votes": 134
@@ -1197,7 +1197,7 @@
             "directors": [
               "Danny Boyle"
             ],
-            "criticsRating": 72,
+            "criticsRating": null,
             "criticsVotes": 65,
             "audienceRating": null,
             "audienceVotes": null
@@ -1243,7 +1243,7 @@
             "id": "tt35521922",
             "url": "https://www.imdb.com/title/tt35521922/",
             "rating": 6.1,
-            "votes": 38851
+            "votes": 38926
           },
           "filmweb": {
             "id": "10064809",
@@ -1252,7 +1252,7 @@
               "Thriller"
             ],
             "rating": 7.2,
-            "votes": 15656
+            "votes": 15681
           },
           "rottenTomatoes": null
         },
@@ -1296,7 +1296,7 @@
             "id": "tt10329560",
             "url": "https://www.imdb.com/title/tt10329560/",
             "rating": 6.6,
-            "votes": 2897
+            "votes": 2913
           },
           "filmweb": {
             "id": "10048300",
@@ -1305,7 +1305,7 @@
               "Dramat"
             ],
             "rating": 5.9,
-            "votes": 193
+            "votes": 194
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/h_is_for_hawk",
@@ -1314,10 +1314,10 @@
             "directors": [
               "Philippa Lowthorpe"
             ],
-            "criticsRating": 82,
+            "criticsRating": null,
             "criticsVotes": 104,
-            "audienceRating": 74,
-            "audienceVotes": 136
+            "audienceRating": null,
+            "audienceVotes": null
           }
         },
         "longDescription": "Pamiętacie przepięknego jastrzębia z HAMNETA, czuwającego przy Jessie Buckley? Ten ptak ponownie staje się bohaterem poruszającej historii o nieumiejętności przejścia przez żałobę, ale tym razem ma kluczową rolę. M JAK MABEL to zaskakująco kojąca i głęboko spirytualna produkcja Philippy Lowthorpe oparta na prawdziwych wspomnieniach przyrodniczki Helen Macdonald (w tej roli uwielbiana z THE CROWN Claire Foy).\n\nHelen nieoczekiwanie traci ojca (Brendan Gleeson) – cenionego fotografa prasowego i człowieka zakochanego w cudach świata. Jego córce traci poczucie sensu zawodowego, dystansuje się od rodziny i staje się coraz bardziej samotna. Jej życie zmienia się, gdy przygarnia majestatycznego jastrzębia, którego nazywa Mabel (z łaciny: „godna kochania”). Helen poświęca się całkowicie pielęgnowaniu jastrzębia, nawiązując z nim wyjątkową więź z nadzieją, że złagodzi jej cierpienie i pomoże uciec od frustrującej codzienności. Pojawiają się jednak obawy czy kobieta nie utożsamia się za bardzo z Mabel i traci kontakt z cywilizacją na rzecz natury.\n\nFilm Philippy Lowthorpe to czuła podróż po wspomnieniach bohaterki, doskonale zagranej przez Foy, łączącej w sobie tamowany potok przygnębienia i zachwyt nad dzikością natury. Ujęć na polującą Mabel nie powstydziliby się twórcy filmów przyrodniczych z Sir Davidem Attenborough, a Lowthorpe w przemyślany sposób przedstawia motyw ptaka jako ucieczki od trudnej rzeczywistości w duchu tradycji loachowskiego KESA. M JAK MABEL to budząca emocje lekcja wzbicia się ku wolności dla człowieka, którego paraliżuje żałoba i zaniedbanie samego siebie.\n\nEN\n\nRemember the magnificent hawk keeping watch beside Jessie Buckley in HAMNET? A bird of prey once again takes centre stage in a story about grief, but this time it becomes far more than a striking presence. Philippa Lowthorpe’s H IS FOR HAWK, based on the memoir by naturalist Helen Macdonald, is a surprisingly comforting and deeply spiritual story of loss, solitude and an extraordinary bond with the wild. Claire Foy, beloved for THE CROWN, stars as Helen.\n\nAfter the sudden death of her father (Brendan Gleeson), a respected photojournalist with an infectious sense of wonder about the world, Helen begins to lose her footing. Her work feels increasingly meaningless; she withdraws from her family and loneliness closes in. Everything changes when she takes on a magnificent goshawk and names her Mabel – from the Latin for “lovable”. Helen throws herself into training the bird, and an intense bond begins to form between them. She comes to see Mabel as both refuge and guide, hoping that life alongside this fierce, untamed creature might ease her grief and teach her how to inhabit the world again. But as Helen retreats further into Mabel’s world, a troubling question emerges: is she finding her way back to life, or disappearing into the wild?\n\nLowthorpe turns Helen’s memories into an intimate journey through mourning, anchored by Foy’s finely judged performance, in which barely contained sadness sits alongside an almost childlike awe at the natural world. The sequences of Mabel in flight and on the hunt have the arresting beauty of the finest wildlife filmmaking, while the hawk itself becomes a way of escaping a reality Helen can no longer bear – recalling the British tradition of KES.\n\nH IS FOR HAWK is ultimately a deeply affecting story about a person paralysed by grief learning, slowly and painfully, to take flight again.",
@@ -1363,10 +1363,10 @@
             "directors": [
               "Robert Rodriguez"
             ],
-            "criticsRating": 48,
+            "criticsRating": null,
             "criticsVotes": 96,
-            "audienceRating": 32,
-            "audienceVotes": 2308
+            "audienceRating": null,
+            "audienceVotes": null
           }
         },
         "longDescription": "To już tradycja British Film Festival! Przedstawiamy po raz trzeci filmy krótkometrażowe nominowane do nagrody Brytyjskiej Akademii Sztuk Filmowych i Telewizyjnych (BAFTA) w kategorii dedykowanej krótkiej formie filmowej. W programie zobaczymy pięć filmów: THIS IS ENDOMETRIOSIS, MAGID / ZAFAR, NOSTALGIE, TERENCE i WELCOME HOME FRECKLES.\n\nFani krótkich form będą mieli okazję zobaczyć intymny pamiętnik fotografki Georgie Wileman, która zrzuca z bolesnej dolegliwości – endometriozy – zasłonę milczenia. THIS IS ENDOMETRIOSIS przedstawia materiały archiwalne i zrekonstruowane wspomnienia o jej codzienności i walce z chorobą, która przez lata była bagatelizowana, również przez środowiska lekarskie. W zestawie znajduje się też dokument Huiju Park WELCOME HOME FRECKLES o powrocie reżyserki do rodzinnego miasta w Korei Południowej, aby skonfrontować się z rodzicami, korzystając przy tym z bogactwa języka wizualnego czerpanego z azjatyckiego kina. Park demaskuje brutalną prawdę o zaszczepionych od pokoleń mechanizmach przemocy domowej panujących w jej rodzinie, które postanawia w końcu wykorzenić. Wielbiciele serialu THE BEAR odnajdują tę samą gastro-adrenalinę w klaustrofobicznym, immersyjnym MAGID / ZAFAR Luisa Hindmana. Reżyser opowiada o szaleńczej pracy w pakistańskiej restauracji serwującej dania na wynos, w której akcentuje kontekst tożsamości migranckiej. Tytułowy bohater TERENCE (reż. Edem Kelman) reprezentuje z kolei afrykańską diasporę – pracuje jako empatyczny, cichy ochroniarz centrum handlowego o niezwykłym darze, którym dzieli się ze swoją społecznością. Jednak nie potrafi uleczyć własnych ran zadanych w otoczeniu rodzinnym, co doskonale obrazuje piękna rola Terence’a Nzaji Egnie. Kathryn Ferguson adaptuje opowiadanie NOSTALGIE o przebrzmiałym pop-gwiazdorze zaproszonym na występ do Irlandii Północnej, gdzie dokonuje niepokojącego odkrycia. To wizualna perełka z wybitną główną rolą Aidana Gillena, tematyzująca transformację muzyki w narzędzie przemocy i odpowiedzialność moralną artysty.",
@@ -1402,22 +1402,22 @@
         "description": "Legendarny Vincent Price w najlepszej roli w karierze jako Matthew Hopkins – prawnik, który w czasie angielskiej wojny domowej objeżdża wsie i za pieniądze wyszukuje w nich czarownice. Ponury, brutalny i wciąż niewygodny klasyk, bez którego nie byłoby brytyjskiego folk horroru.",
         "shortDescription": "Legendarny Vincent Price w najlepszej roli w karierze jako Matthew Hopkins – prawnik, który w czasie angielskiej wojny domowej objeżdża wsie i za pieniądze wyszukuje w nich czarownice. Ponury, brutalny i wciąż niewygodny klasyk, bez którego nie byłoby brytyjskiego folk horroru.",
         "genres": [
-          "Biograficzny",
-          "Dramat historyczny"
+          "Dramat historyczny",
+          "Biograficzny"
         ],
         "external": {
           "imdb": {
             "id": "tt0063285",
             "url": "https://www.imdb.com/title/tt0063285/",
             "rating": 6.7,
-            "votes": 14203
+            "votes": 14217
           },
           "filmweb": {
             "id": "119896",
             "url": "https://www.filmweb.pl/film/Pogromca+czarownic-1968-119896",
             "genres": [
-              "Biograficzny",
-              "Dramat historyczny"
+              "Dramat historyczny",
+              "Biograficzny"
             ],
             "rating": 6.6,
             "votes": 829
@@ -1429,10 +1429,10 @@
             "directors": [
               "Michael Reeves"
             ],
-            "criticsRating": 94,
+            "criticsRating": null,
             "criticsVotes": 16,
-            "audienceRating": 67,
-            "audienceVotes": 830
+            "audienceRating": null,
+            "audienceVotes": null
           }
         },
         "longDescription": "Anglia, połowa XVII wieku. Trwa wojna domowa, a chaos sprzyja ludziom takim jak Matthew Hopkins – prawnik, który za sowitą opłatą objeżdża wsie Anglii Wschodniej i wyszukuje w nich czarownice. Przesłuchuje, torturuje, wymusza zeznania, topi i wiesza. Gdy jego ofiarą pada wiejski pastor, w pościg za Hopkinsem i jego pomocnikiem rusza żołnierz Richard Marshall, narzeczony siostrzenicy skazanego duchownego.\n\nNakręcony za osiemdziesiąt tysięcy funtów dla wytwórni Tigon POGROMCA CZAROWNIC z miejsca wywołał skandal. Brytyjska cenzura określiła scenariusz mianem „studium sadyzmu”, krytycy pisali, że takiej awantury o filmową przemoc nie było od czasów PODGLĄDACZA, a reżyser Michael Reeves po kolejnych cięciach stwierdził, że jego film został zrujnowany.\n\nTo jednak nieprawda. Dziś POGROMCA CZAROWNIC to tytuł (nomen omen) kanoniczny – obok KULTU i pokazywanej w cyklu BLOODY HELL! w zeszłym roku KRWI NA SZPONACH SZATANA tworzy „nieświętą trylogię”, od której zaczyna się brytyjski folk horror. Ogląda się go jednak nie jak zabytek, tylko jak film kipiący od wściekłości: opowiadający o tym, że do zła nie potrzeba demonów, wystarczy człowiek z pieczątką i kilka monet za usługę. Finał, w którym Reeves odmawia widzom katharsis, do dziś pozostaje jednym z najbardziej bezlitosnych zakończeń w historii gatunku.\n\nReżyser zmarł dziewięć miesięcy po premierze, w wieku zaledwie dwudziestu pięciu lat. Ale mimo tak młodego wieku udało mu się na zawsze wejść do historii horroru.\n\nEN\n\nEngland, the mid-17th century. Civil war is raging, and the chaos provides fertile ground for men like Matthew Hopkins – a lawyer traveling from village to village across East Anglia, handsomely paid to root out witches. He interrogates, tortures, coerces confessions, drowns and hangs. When a village clergyman becomes one of his victims, soldier Richard Marshall, the fiancé of the condemned man’s niece, sets off in pursuit of Hopkins and his assistant.\n\nMade for £80,000 for Tigon, WITCHFINDER GENERAL caused an immediate scandal. British censors described the screenplay as ‘a study in sadism’; critics wrote that there had been no such outcry over screen violence since PEEPING TOM; and after yet another round of cuts, director Michael Reeves declared that his film had been ruined.\n\nIt had not. Today, WITCHFINDER GENERAL is a canonical title – quite literally, in name as well as status – and, alongside THE WICKER MAN and THE BLOOD ON SATAN’S CLAW, screened in last year’s BLOODY HELL! strand, forms the ‘unholy trinity’ from which British folk horror is generally said to begin.\n\nYet, it does not play like a museum piece. It seethes with anger, telling us that evil needs no demons: a man with an official seal and a few coins for his services will do. Its ending, in which Reeves denies the audience any catharsis, remains one of the most merciless in the history of the genre.\n\nReeves died just nine months after the film’s release, aged only twenty-five. Yet despite his youth, he had already secured a permanent place in horror history.",

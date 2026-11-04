@@ -1,12 +1,12 @@
 {
   "schemaVersion": 1,
   "date": "2026-12-11",
-  "updatedAt": "2026-11-03T17:48:35.792Z",
+  "updatedAt": "2026-11-04T17:59:47.065Z",
   "source": "https://www.kinomuza.pl/repertoire/day/",
   "day": {
-    "id": "38",
+    "id": "37",
     "date": "11.12",
-    "now": "2026-11-03 18:47:29",
+    "now": "2026-11-04 18:58:06",
     "info": [],
     "repertoire": [
       {
@@ -45,7 +45,7 @@
             "id": "tt38871399",
             "url": "https://www.imdb.com/title/tt38871399/",
             "rating": 7.2,
-            "votes": 451
+            "votes": 453
           },
           "filmweb": null,
           "rottenTomatoes": {
@@ -58,7 +58,7 @@
             "criticsRating": null,
             "criticsVotes": 4,
             "audienceRating": null,
-            "audienceVotes": 2
+            "audienceVotes": null
           }
         },
         "longDescription": "Risa to wyjątkowo samodzielna 10-latka, która mieszka z mamą (w tej roli gwiazda latynoamerykańskiej muzyki, Cazzu) w miasteczku na krańcu świata. Tam, gdzie wszystko się kończy, a co innego zaczyna. Dziewczynka odkrywa, że nieczynna budka telefoniczna pozwala rozmawiać ze zmarłymi. Każdy rozmówca ma swoją historię, niedokończoną sprawę w świecie żywych. Risa pomaga spełnić zmarłym ich prośby, a w zamian oczekuje tylko jednego – rozmowy z własnym ojcem. Jej pomocnikami zostają lekko depresyjny sąsiad  (Diego Peretti) oraz chomik.\n\nFilm pełen małych, czułych gestów, okraszonych realizmem magicznym i z muzyką argentyńskiego zespołu rockowego Babasónicos w tle. “Risa i budka telefoniczna” zdobył nagrodę na najlepszego filmu i najlepszego reżysera na argentyńskim festiwalu w Mar del Plata, gdzie został przyjęty owacją na stojąco.",

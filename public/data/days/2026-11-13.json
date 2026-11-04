@@ -1,12 +1,12 @@
 {
   "schemaVersion": 1,
   "date": "2026-11-13",
-  "updatedAt": "2026-11-03T17:48:35.792Z",
+  "updatedAt": "2026-11-04T17:59:47.065Z",
   "source": "https://www.kinomuza.pl/repertoire/day/",
   "day": {
-    "id": "10",
+    "id": "09",
     "date": "13.11",
-    "now": "2026-11-03 18:47:16",
+    "now": "2026-11-04 18:57:52",
     "info": [],
     "repertoire": [
       {
@@ -39,24 +39,24 @@
         "description": "Francja okresu Ludwika XIV. Straumatyzowana projektantka ogrodów Sabine De Barra (Kate Winslet) tworzy fontannę w Wersalu. Dworskie intrygi zmuszają ją do konfrontacji z przeszłością i męską dominacją. Alan Rickman urzeka po obu stronach kamery, podobnie jak zjawiskowe plenery i kostiumy z epoki.",
         "shortDescription": "Francja okresu Ludwika XIV. Straumatyzowana projektantka ogrodów Sabine De Barra (Kate Winslet) tworzy fontannę w Wersalu. Dworskie intrygi zmuszają ją do konfrontacji z przeszłością i męską dominacją. Alan Rickman urzeka po obu stronach kamery, podobnie jak zjawiskowe plenery i kostiumy z epoki.",
         "genres": [
-          "Romans",
           "Dramat",
-          "Komedia"
+          "Komedia",
+          "Romans"
         ],
         "external": {
           "imdb": {
             "id": "tt2639254",
             "url": "https://www.imdb.com/title/tt2639254/",
             "rating": 6.5,
-            "votes": 27160
+            "votes": 27161
           },
           "filmweb": {
             "id": "680371",
             "url": "https://www.filmweb.pl/film/Odrobina+chaosu-2014-680371",
             "genres": [
-              "Romans",
               "Dramat",
-              "Komedia"
+              "Komedia",
+              "Romans"
             ],
             "rating": 6.4,
             "votes": 8482
@@ -68,10 +68,10 @@
             "directors": [
               "Alan Rickman"
             ],
-            "criticsRating": 47,
+            "criticsRating": null,
             "criticsVotes": 91,
-            "audienceRating": 50,
-            "audienceVotes": 1158
+            "audienceRating": null,
+            "audienceVotes": null
           }
         },
         "longDescription": "Czy może istnieć piękniejsza sceneria dla płomiennego romansu od wersalskich ogrodów pachnących różami i słodką nutą gruszek? Tak w teorii smakuje miłość po francusku, ale co się stanie, gdy do przepisu dodamy… odrobinę chaosu? Stojący za kamerą Alan Rickman odszedł od lirycznego patosu. W miejsce dworskich uniesień zaproponował wyrafinowane emocje i dystans okazujące się kluczem do epoki miotającej się między konwenansem a potrzebą autentyczności.\n\nFrancja, druga połowa XVII wieku. Projektanci ogrodów zachodzą w głowę, aby stworzyć idealną przestrzeń Wersalu na zlecenie Ludwika XIV. Nadworny ogrodnik André Le Nôtre (Matthias Schoenaerts) ku powszechnemu oburzeniu męskich konkurentów angażuje do pracy młodą wdowę i pasjonatkę ogrodnictwa. Sabine De Barra (Kate Winslet) to kobieta o okaleczonej psychice, która znajduje chwilowe ukojenie w otoczeniu natury. Wraz z pojawieniem się świty króla nieobeznana w dworskiej etykiecie ani wszechobecnych spiskach kobieta musi stawić czoła nowym wyzwaniom, w tym męskiej dominacji, intrygom i własnej traumie, którą potęguje nagłe uczucie względem Le Nôtre’a.\n\nFilm podzielił krytykę pod względem tempa akcji czy emocjonalnej rezerwy, ale trzeba mu oddać sprawiedliwość w kwestii realistycznego obrazu epoki. Pod strojnymi falbankami, pudrem i maskaradą peruk nie brakuje tu społecznej diagnozy, do której dochodzi na styku dwóch światów: dostojnych intrygantów i skrytych w mglistych domostwach zwyczajnych ludzi, którzy pracują na zachcianki władzy kosztem prywatności. Nad wszystkim czuwa intensywna muzyka Petera Gregsona, w której zawiera się cały konflikt uczuć oraz interesów zamierzenie skrywany przez genialną obsadę aktorską.\n\nPierwiastek niezależnej kobiecości w niesprzyjających czasach zawdzięczamy zaś Alison Deegan, która napisała własną wersję historii Madame de Barra na wiele lat przed realizacją filmu. Powstała w cieniu urlopu macierzyńskiego i strachu przed kryzysem kariery w toksycznym środowisku opowieść wzbudziła zainteresowanie dopiero po siedemnastu latach i poskutkowała scenariuszem napisanym przez Deegan, Rickmana oraz Jeremy’ego Brocka.\n\nODROBINA CHAOSU to jeden z dwóch filmów wyreżyserowanych przez Alana Rickmana w jego blisko półwiecznym dorobku kinowym obok ZIMOWEGO GOŚCIA (1997). W 2014 roku brytyjski ulubieniec pokazał swój kostiumowy komediodramat Polakom podczas festiwalu Camerimage, na którym odebrał osobiście Nagrodę im. Krzysztofa Kieślowskiego.\n\nEN\n\nCould there be a more romantic setting than the gardens of Versailles, scented with roses and sweet pears? That may be the ideal recipe for love à la française, but what happens when you add… a little chaos? As director, Alan Rickman steers clear of lyrical grandiosity. Instead of courtly passion, he favours restraint and emotional subtlety, a fitting approach to an age caught between rigid convention and the desire for something more genuine.\n\nFrance, in the second half of the 17th century. Garden designers are competing to create the perfect grounds for Louis XIV’s Versailles. To the outrage of his male rivals, royal gardener André Le Nôtre (Matthias Schoenaerts) hires a young widow with a passion for horticulture. Sabine De Barra (Kate Winslet) is carrying deep emotional scars and finds temporary solace in nature. When the royal court arrives, Sabine, unfamiliar with its etiquette and intrigues, is forced to navigate an entirely new world. She faces male dominance, political manoeuvring and her own unresolved trauma, all complicated by her growing feelings for Le Nôtre.\n\nCritics were divided over the film’s pacing and emotional restraint, but its portrait of the period deserves attention. Beneath the elaborate frills, powder and towering wigs lies a sharp social contrast between two worlds: the elegant schemers of the court and the ordinary people living in modest, mist-shrouded homes, whose labour sustains the whims of those in power at the expense of their own private lives. Peter Gregson’s intense score runs through it all, giving voice to the clash between emotion and self-interest that the film’s accomplished cast keep carefully beneath the surface.\n\nThe film’s thread of female independence in an age that offered women little freedom owes much to Alison Deegan, who wrote her own version of Madame de Barra’s story many years before the film was made. Conceived during maternity leave and fears of a career crisis in a toxic environment, the story attracted interest only seventeen years later. It eventually became a screenplay written by Deegan, Rickman and Jeremy Brock.\n\nA LITTLE CHAOS is one of only two films directed by Alan Rickman during his nearly five-decade screen career, the other being THE WINTER GUEST (1997). In 2014, the much-loved British actor brought his period comedy-drama to Polish audiences at the Camerimage festival, where he personally received the Krzysztof Kieślowski Award.",
@@ -116,7 +116,7 @@
             "id": "tt34798706",
             "url": "https://www.imdb.com/title/tt34798706/",
             "rating": 6.9,
-            "votes": 206
+            "votes": 208
           },
           "filmweb": {
             "id": "10109750",
@@ -136,8 +136,8 @@
             "directors": [
               "Molly Manners"
             ],
-            "criticsRating": 100,
-            "criticsVotes": 31,
+            "criticsRating": null,
+            "criticsVotes": 32,
             "audienceRating": null,
             "audienceVotes": null
           }
@@ -175,27 +175,27 @@
         "description": "Zainspirowany najsłynniejszą sztuką Williama Szekspira film w reżyserii Chloé Zhao jest wrażliwym i głębokim obrazem małżeństwa, próbującego ukształtować się na nowo po śmierci ukochanego dziecka. W rolach głównych zjawiskowy duet: Jessie Buckley oraz Paul Mescal.",
         "shortDescription": "Zainspirowany najsłynniejszą sztuką Williama Szekspira film w reżyserii Chloé Zhao jest wrażliwym i głębokim obrazem małżeństwa, próbującego ukształtować się na nowo po śmierci ukochanego dziecka. W rolach głównych zjawiskowy duet: Jessie Buckley oraz Paul Mescal.",
         "genres": [
+          "Dramat",
           "Biograficzny",
-          "Kostiumowy",
-          "Dramat"
+          "Kostiumowy"
         ],
         "external": {
           "imdb": {
             "id": "tt14905854",
             "url": "https://www.imdb.com/title/tt14905854/",
             "rating": 7.8,
-            "votes": 140990
+            "votes": 141195
           },
           "filmweb": {
             "id": "10035555",
             "url": "https://www.filmweb.pl/film/Hamnet-2025-10035555",
             "genres": [
+              "Dramat",
               "Biograficzny",
-              "Kostiumowy",
-              "Dramat"
+              "Kostiumowy"
             ],
             "rating": 7.6,
-            "votes": 30462
+            "votes": 30485
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/hamnet",
@@ -204,10 +204,10 @@
             "directors": [
               "Chloé Zhao"
             ],
-            "criticsRating": 86,
+            "criticsRating": null,
             "criticsVotes": 352,
-            "audienceRating": 93,
-            "audienceVotes": 2688
+            "audienceRating": null,
+            "audienceVotes": null
           }
         },
         "longDescription": "Maggie O’Farrell w swojej powieści opisuje chłopca, który „ ma skłonności do wyślizgiwania się poza granice realnego, namacalnego świata, który go otacza. ” Nagrodzony w 2020 roku prestiżową brytyjską nagrodą Women’s Prize for Fiction tekst, został zainspirowany najsłynniejszą, a jednocześnie najbardziej enigmatyczną sztuką Williama Szekspira.\n\nW latach 80. XVI wieku pewnemu małżeństwu mieszkającemu w Stratfordzie urodziła się trójka dzieci: najmłodsza Susanna, a następnie bliźnięta – Hamnet i Judith. Chłopiec zmarł w wieku jedenastu lat. Cztery lata później jego ojciec napisał sztukę zatytułowaną Hamlet . Film wyreżyserowany przez Chloé Zhao, drugą kobietę w historii, która otrzymała Oscara za najlepszą reżyserię (NOMADLAND, 2021), jest wrażliwym i głębokim obrazem małżeństwa, próbującego ukształtować się na nowo po śmierci ukochanego dziecka. To historia Agnes – żony Williama Szekspira i jej zmagań po stracie ukochanego syna Hamneta.\n\nW rolach głównych zjawiskowy duet irlandzkich aktorów: Jessie Buckley oraz Paul Mescal. Producentami filmu są Steven Spielberg i Sam Mendes, a zdjęcia wykonał Łukasz Żal. Dopełnieniem całości jest muzyka skomponowana przez Maxa Richtera. Brytyjski HAMNET to opowieść o poszukiwaniu bliskości i sensu dalszego istnienia, mimo straty, której rany są niemożliwe do zagojenia się. Gdzieś na granicy snu i tego co realne, parafrazując bohaterów filmu, opowiemy Wam historię, ale taką, która Was poruszy. Film Zhao był nominowany do Oscara w 8 kategoriach, w tym za najlepszy film, a fantastyczna Jessie Buckley odebrała złotą statuetkę za swoją rolę. Pierwsze pokazy HAMNETA w Polsce odbyły się na British Film Festival 2025.\n\nEN\n\nMaggie O’Farrell’s novel describes a boy who “ tends to slip the bounds of the real, tangible world around him”. Winner of the Women’s Prize for Fiction in 2020, the book was inspired by William Shakespeare’s most famous and most enigmatic play.\n\nIn the 1580s, a couple living in Stratford had three children: Susanna, followed by twins Hamnet and Judith. Hamnet died at the age of eleven. Four years later, his father wrote a play entitled Hamlet . Directed by Chloé Zhao, the second woman in history to win the Academy Award for Best Director (NOMADLAND, 2021), HAMNET is a tender and deeply affecting portrait of a marriage trying to reshape itself after the death of a beloved child. At its heart is Agnes, William Shakespeare’s wife, and her struggle to live with the loss of their son.\n\nThe film is led by a remarkable pair of Irish actors, Jessie Buckley and Paul Mescal. Steven Spielberg and Sam Mendes are among the producers, Łukasz Żal is responsible for the cinematography, and the score was composed by Max Richter. HAMNET is a story about searching for closeness and meaning after a loss whose wounds can never fully heal. Hovering somewhere between dream and reality, it sets out, to borrow the language of the film itself, to tell a story that moves us.\n\nZhao’s film received eight Academy Award nominations, including Best Picture, while Jessie Buckley won the Oscar for her performance. HAMNET received its first Polish screenings at the British Film Festival in 2025.",
@@ -251,7 +251,7 @@
             "id": "tt1921149",
             "url": "https://www.imdb.com/title/tt1921149/",
             "rating": 7.1,
-            "votes": 23878
+            "votes": 23879
           },
           "filmweb": {
             "id": "693053",
@@ -270,10 +270,10 @@
             "directors": [
               "Stephen Daldry"
             ],
-            "criticsRating": 65,
+            "criticsRating": null,
             "criticsVotes": 43,
-            "audienceRating": 70,
-            "audienceVotes": 839
+            "audienceRating": null,
+            "audienceVotes": null
           }
         },
         "longDescription": "Jeśli ktoś kiedykolwiek zastanawiał się, jak wyglądałoby połączenie filmów SLUMDOG. MILIONER Z ULICY (reż. Danny Boyle, 2008) i MIASTO BOGA (reż. Fernando Meirelles, 2002), ale według scenariusza Richarda Curtisa, tego od komedii romantycznych – na czele z TO WŁAŚNIE MIŁOŚĆ (2003) – to z pomocą i gotową odpowiedzią na tę zagwozdkę przychodzi Stephen Daldry. Jego ŚMIEĆ (2014), którego tytuł jest co najmniej dwuznaczny (dotyczy bowiem nie tylko przedmiotów, ale i ludzi), to dzieło opowiadane z perspektywy młodzieży, lecz dotykające kwestii przynależących do świata dorosłych, spośród których na czoło wybija się wszechobecna korupcja. A wszystko to zamknięte w ramach kina spod znaku kryminału, thrillera i przygodówki. Na ogromnym wysypisku leżącym na obrzeżach Rio de Janeiro czternastoletni Raphael (Rickson Tevez), jeden z tych wyrzuconych poza nawias społeczeństwa, zarabia na życie, przeszukując góry odpadów. Pewnego dnia znajduje portfel, a w nim kilka banknotów, jakieś dokumenty i zdjęcia, a także klucz do dworcowej skrytki oraz ciąg cyfr, który okazuje się elementem znacznie większej układanki. Kiedy po zgubę zgłasza się niestroniąca od brutalności policja, Raphael orientuje się, że sprawa jest poważna. Wraz z najlepszymi kumplami, czyli z Gardo (Eduardo Luís) i Rato (Gabriel Weinstein), chłopak przeczesuje brazylijskie fawele, by dowiedzieć się, o co w tym chodzi. Dzieciakom pomagają lokalny ksiądz (Martin Sheen) oraz wolontariuszka (Rooney Mara). Daldry, wykorzystując gatunkową mieszankę, opowiada o nierównościach i przemocy, a równocześnie tworzy skąpaną w kolorach, ociekającą brudem i skupioną na ruchu baśń, w której metafory są proste i czytelne.\n\nEN\n\nIf you have ever wondered what you might get if you crossed Danny Boyle’s SLUMDOG MILLIONAIRE (2008) with Fernando Meirelles’s CITY OF GOD (2002), then handed the screenplay to Richard Curtis – the man behind romantic comedies such as LOVE ACTUALLY (2003) – Stephen Daldry has the answer. His TRASH (2014) has a title that works on more than one level, referring not only to discarded objects but also to people cast aside by society. Told from the perspective of young people, the film tackles distinctly adult concerns, with endemic corruption chief among them, all within a blend of crime drama, thriller and adventure.\n\nOn a vast rubbish dump on the outskirts of Rio de Janeiro, fourteen-year-old Raphael (Rickson Tevez), one of society’s outcasts, makes a living sifting through mountains of waste. One day, he finds a wallet containing a few banknotes, some documents and photographs, a key to a locker at a railway station and a string of numbers that turns out to be part of a much larger puzzle. When the police come looking for the missing wallet – and make it clear they are not above using violence – Raphael realises he has stumbled onto something serious.\n\nTogether with his best friends Gardo (Eduardo Luís) and Rato (Gabriel Weinstein), he sets off through Rio’s favelas to find out what is really going on. Along the way, they get help from a local priest (Martin Sheen) and a volunteer (Rooney Mara). Drawing on its mix of genres, Daldry tells a story about inequality and violence while creating a vividly coloured, dirt-streaked and relentlessly kinetic fable whose metaphors remain simple and easy to read.",
@@ -317,7 +317,7 @@
             "id": "tt34819091",
             "url": "https://www.imdb.com/title/tt34819091/",
             "rating": 6.4,
-            "votes": 11135
+            "votes": 11155
           },
           "filmweb": {
             "id": "10090000",
@@ -327,7 +327,7 @@
               "Musical"
             ],
             "rating": 6,
-            "votes": 2463
+            "votes": 2470
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/the_testament_of_ann_lee",
@@ -336,10 +336,10 @@
             "directors": [
               "Mona Fastvold"
             ],
-            "criticsRating": 85,
+            "criticsRating": null,
             "criticsVotes": 220,
-            "audienceRating": 82,
-            "audienceVotes": 212
+            "audienceRating": null,
+            "audienceVotes": null
           }
         },
         "longDescription": "Przywódczynie religijne stanowią w historii absolutną rzadkość. Nic dziwnego, że gdy Mona Fastvold – reżyserka i scenarzystka, która współtworzyła scenariusz THE BRUTALIST (nominowany do Oscara) – natknęła się na postać Ann Lee, poczuła wręcz obowiązek, aby zekranizować jej herstorię . Tym bardziej, że działania tej kobiety o wielkim marzeniu zrewolucjonizowania nowego świata skutecznie pogrzebano i funkcjonują przeważnie w sferze domysłów. Fastvold potraktowała je z szacunkiem bez prób współczesnych reinterpretacji. W efekcie stworzyła hipnotyzujące, ekstatyczne doświadczenie kinowe z niesamowitą wyobraźnią inscenizacyjną i wykorzystaniem wstawek musicalowych, które nie odstraszą nawet sceptyków tego gatunku.\n\nAnn Lee (Amanda Seyfried) to kobieta z Manchesteru, która zakłada sektę Shakerów w reakcji na otaczające ją zepsucie i niesprawiedliwość. Wytyka opresyjność porządkowi konstytuowanemu przez Kościół Anglikański i skrada ludzkie serca utopijną wizją równości płciowej i społecznej, której życzyłby sobie Chrystus. Ann Lee rusza ze swoją wspólnotą do Nowej Anglii za Atlantyk z nadzieją, że przeniosą na odległy grunt świeżą koncepcję społeczeństwa zbudowanego na empatii.\n\nFastvold zaangażowała do produkcji TESTAMENTU ANN LEE nieprawdopodobnie utalentowanych ludzi, którzy tchnęli w jej historię autentyczność i transcendentność. Amanda Seyfried występuje prawdopodobnie w najbardziej wymagającej roli w jej karierze, która oferuje nie tylko gamę szczerych emocji, ale też doskonałe występy wokalne i ruchowe. Shakerów wyróżniają performatywność i pieśni uwielbieniowe, a opiekę nad tymi aspektami objęła choreografka Celia Rowlson-Hall, doskonale czująca ekspresywność ich tańca oraz muzyk Daniel Blumberg, dokonujący popisowej współczesnej interpretacji tradycyjnych melodii sekty. Ruchowi scenicznemu sprzyja również kamera Williama Rexera, który wręcz zanurza widza w euforycznej wspólnocie i umożliwia partycypowanie w ich niekonwencjonalnym spojrzeniu na wiarę i świat. Mając takich ludzi u boku, Fastvold tworzy dzieło totalne, z którego emanuje szalona, twórcza siła.\n\nEN\n\nFemale religious leaders have been vanishingly rare throughout history. So when director and screenwriter Mona Fastvold, co-writer of the Oscar-nominated THE BRUTALIST, came across the figure of Ann Lee, she felt almost compelled to bring her story to the screen. All the more so because the legacy of this woman, driven by an extraordinary ambition to reshape the New World, had largely been buried and left to survive in fragments, speculation and myth. Fastvold approaches that history with respect, resisting the temptation to force it into a contemporary framework. The result is a hypnotic, ecstatic cinematic experience, full of bold visual invention and musical interludes that may win over even those normally wary of the genre.\n\nAnn Lee (Amanda Seyfried) is a woman from Manchester who founds the Shaker movement in response to the corruption and injustice she sees around her. She challenges the oppressive social order upheld by the Church of England and wins people over with a utopian vision of gender and social equality, one she believes Christ himself would have wanted. Ann and her community eventually cross the Atlantic to New England, hoping to build a new society founded on empathy.\n\nFor THE TESTAMENT OF ANN LEE, Fastvold surrounded herself with an extraordinary group of collaborators who give the film both authenticity and a sense of transcendence. Amanda Seyfried takes on what may be the most demanding role of her career, delivering not only a remarkable emotional performance but also striking vocal and physical work. Song, movement and ecstatic worship are central to Shaker practice, and choreographer Celia Rowlson-Hall captures the expressive force of their dance. Meanwhile, composer Daniel Blumberg reworks traditional Shaker melodies with thrilling contemporary energy.\n\nWilliam Rexer’s camera moves enhance physical intensity. It literally draws the audience into euphoric community and lets us experience, from within, its unconventional understanding of faith and the world. With collaborators like these, Fastvold creates something close to a total work of cinema, charged throughout with an almost overwhelming creative force.",
@@ -383,7 +383,7 @@
             "id": "tt9362736",
             "url": "https://www.imdb.com/title/tt9362736/",
             "rating": 6,
-            "votes": 50873
+            "votes": 50928
           },
           "filmweb": {
             "id": "10023025",
@@ -393,7 +393,7 @@
               "Dramat"
             ],
             "rating": 5.8,
-            "votes": 12696
+            "votes": 12702
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/die_my_love_2025",
@@ -402,10 +402,10 @@
             "directors": [
               "Lynne Ramsay"
             ],
-            "criticsRating": 74,
+            "criticsRating": null,
             "criticsVotes": 271,
-            "audienceRating": 45,
-            "audienceVotes": 629
+            "audienceRating": null,
+            "audienceVotes": null
           }
         },
         "longDescription": "Lynne Ramsay, gościni i bohaterka retrospektywy reżyserskiej podczas British Film Festival 2024, powróciła w zeszłym roku z dziełem totalnym. ZGIŃ, KOCHANIE to kolejny dowód niezwykle czujnego spojrzenia i przenikliwej wrażliwości, która jak nikt inny potrafi przełożyć mroczne stany duszy na unikalny język wizualny.\n\nRamsay zabiera nas do odległej Montany, gdzie Grace i Jackson (nominowana do Złotego Globa Jennifer Lawrence i podbijający w tym roku kina Robert Pattinson) postanawiają zrealizować marzenie o ucieczce od miejskiego zgiełku. Ich sielanka w drewnianym domu pośrodku głuszy szybko jednak odsłania swoje drugie, mroczne oblicze. Ramsay z chirurgiczną precyzją pokazuje, jak idylliczna fasada pęka pod ciężarem izolacji i nowych obowiązków po narodzinach dziecka. To właśnie wtedy rozpoczyna się hipnotyzujące studium psychologicznego rozkładu.\n\nEkranem rządzi Jennifer Lawrence w roli Grace, która tworzy kreację wybitną, być może najważniejszą w jej dotychczasowej karierze. Jej portret kobiety pogrążającej się w otchłani depresji poporodowej, uwięzionej między utraconą tożsamością a (nie)chcianą rolą matki, magnetyzuje i porywa. Ramsay prowadzi swoją aktorkę przez najciemniejsze zakamarki emocji, budując opowieść, która jest jednocześnie brutalnie szczera i poetycko piękna.\n\nZGIŃ, KOCHANIE porusza, olśniewa wizualnie i umacnia pozycję Ramsay jako jednej z najbardziej bezkompromisowych autorek współczesnego kina.\n\nEN\n\nLynne Ramsay, a guest of honour and the subject of a director’s retrospective at the 2024 British Film Festival, returned last year with one of her most uncompromising films yet. DIE, MY LOVE is further proof of her extraordinary visual instinct and rare sensitivity to the darker states of mind.\n\nRamsay takes us to remote Montana, where Grace and Jackson (Golden Globe nominee Jennifer Lawrence and Robert Pattinson, who is taking the cinema world by storm this year) decide to fulfil their dream of escaping the hustle and bustle of city life. However, their idyll in a wooden house in the middle of nowhere soon reveals its dark underbelly. With surgical precision, Ramsay shows how the idyllic façade is cracking under the weight of isolation and new responsibilities following the birth of their child. At this point, a mesmerising study of psychological breakdown begins.\n\nJennifer Lawrence dominates the screen as Grace, delivering an outstanding performance – perhaps the most significant of her career to date. Her portrayal of a woman plunging into the depths of postnatal depression, trapped between a lost sense of self and her (un)wanted role as a mother, is mesmerising and captivating. Ramsay guides her actress through the darkest recesses of emotion, crafting a story that is both brutally honest and poetically beautiful.\n\nDIE, MY LOVE is emotionally raw, visually arresting and another reminder of Ramsay’s place among the most uncompromising voices in contemporary cinema.",
@@ -448,7 +448,7 @@
             "id": "tt27811182",
             "url": "https://www.imdb.com/title/tt27811182/",
             "rating": 7.3,
-            "votes": 103
+            "votes": 104
           },
           "filmweb": {
             "id": "10112672",
@@ -512,7 +512,7 @@
             "id": "tt0041546",
             "url": "https://www.imdb.com/title/tt0041546/",
             "rating": 8,
-            "votes": 42681
+            "votes": 42684
           },
           "filmweb": {
             "id": "31660",
@@ -530,10 +530,10 @@
             "directors": [
               "Robert Hamer"
             ],
-            "criticsRating": 100,
+            "criticsRating": null,
             "criticsVotes": 49,
-            "audienceRating": 93,
-            "audienceVotes": 2297
+            "audienceRating": null,
+            "audienceVotes": null
           }
         },
         "longDescription": "SZLACHECTWO ZOBOWIĄZUJE to jeden z najbardziej cenionych klejnotów brytyjskiego kina: film elegancki, przewrotnie zabawny i po ponad siedemdziesięciu pięciu latach wciąż zaskakująco świeży. Produkcja z 1949 roku należy do serii niezwykle popularnych powojennych komedii studia Ealing. Jej bohaterem jest Louis Mazzini, czarujący, lecz bezwzględny outsider, który postanawia zemścić się na arystokratycznej rodzinie odpowiedzialnej za wydziedziczenie jego i jego matki. Aby zdobyć tytuł książęcy, planuje usunąć ośmioro krewnych stojących mu na drodze – plan tyleż potworny, co przedstawiony z rozbrajającą lekkością.\n\nO sile filmu decyduje jednak nie tylko jego makabryczna fabuła, lecz także mistrzostwo, z jakim została opowiedziana. Dennis Price obdarza Louisa gładką powierzchownością i sardoniczną inteligencją, natomiast Alec Guinness daje legendarny popis komediowego aktorstwa, wcielając się w kolejnych członków rodziny D’Ascoyne – od duchownych po sufrażystki. Humor filmu jest na wskroś brytyjski i w dużej mierze bierze się z kontrastu między nienagannymi manierami Louisa a faktem, że potajemnie jest seryjnym mordercą. Właśnie z tego rozdźwięku rodzi się najbardziej charakterystyczny dla filmu czarny humor. SZLACHECTWO ZOBOWIĄZUJE bezlitośnie obnaża snobizm i hipokryzję klas wyższych, nie tracąc przy tym lekkości\n\nLuźno oparty na powieści z epoki edwardiańskiej, SZLACHECTWO ZOBOWIĄZUJE zachwyca również rekonstrukcją minionego świata – od obyczajów po kostiumy i scenografię. Studio Ealing chciało tworzyć filmy wyraźnie zakorzenione w brytyjskiej kulturze, a zarazem atrakcyjne dla międzynarodowej widowni. Seria komedii Ealing zrealizowała ten zamysł z ogromnym powodzeniem, a SZLACHECTWO ZOBOWIĄZUJE jest powszechnie uznawane za jedno z jej najwybitniejszych osiągnięć.\n\nEN\n\nKIND HEARTS AND CORONETS is a much-loved gem of British cinema: elegant, wickedly funny, and still incredibly fresh more than seventy-five years after its release. One in a series of hugely successful comedies made by Ealing Studios after the war, this 1949 production follows Louis Mazzini, a charming but ruthless outsider determined to seek revenge on the aristocratic family who disinherited him and his mother. He plots to remove the eight relatives that stand between him and the dukedom, an outrageous, immoral and irresistibly entertaining solution. What makes the film essential viewing is not just its deliciously macabre plot, but the brilliance with which it is told. Dennis Price gives Louis a silky, sardonic intelligence, while Alec Guinness delivers a legendary comic performance as multiple members of the D’Ascoyne family, playing everything from vicars to suffragettes. The film’s humour is unmistakably British, much of it in the presentation of Louis as outwardly charming and refined, but secretly a serial killer. It exposes the snobbery and hypocrisy of the upper classes without ever losing its lightness of touch.\n\nLoosely based on an Edwardian novel, the film’s recreation of the period is exceptional, both in its manners and its costumes and décor. Ealing Studio aimed to make British films that promoted the national character but which would appeal to international audiences and they achieved this with the Ealing comedies, Kind Hearts and Coronets being widely regarded as the high point of the series.",
@@ -607,22 +607,22 @@
         "description": "Gangster Albert Spica co wieczór terroryzuje gości ekskluzywnej restauracji i własną żonę, która ucieczki szuka w ramionach cichego miłośnika książek. Gdy zdrada wyjdzie na jaw, podana zostanie zemsta. Za tą wystawną ucztą dla oka kryje się ostra satyra na thatcherowską Wielką Brytanię.",
         "shortDescription": "Gangster Albert Spica co wieczór terroryzuje gości ekskluzywnej restauracji i własną żonę, która ucieczki szuka w ramionach cichego miłośnika książek. Gdy zdrada wyjdzie na jaw, podana zostanie zemsta. Za tą wystawną ucztą dla oka kryje się ostra satyra na thatcherowską Wielką Brytanię.",
         "genres": [
-          "Komedia",
-          "Dramat"
+          "Dramat",
+          "Komedia"
         ],
         "external": {
           "imdb": {
             "id": "tt0097108",
             "url": "https://www.imdb.com/title/tt0097108/",
             "rating": 7.5,
-            "votes": 45717
+            "votes": 45727
           },
           "filmweb": {
             "id": "6923",
             "url": "https://www.filmweb.pl/film/Kucharz%2C+z%C5%82odziej%2C+jego+%C5%BCona+i+jej+kochanek-1989-6923",
             "genres": [
-              "Komedia",
-              "Dramat"
+              "Dramat",
+              "Komedia"
             ],
             "rating": 7.5,
             "votes": 8982
@@ -634,10 +634,10 @@
             "directors": [
               "Peter Greenaway"
             ],
-            "criticsRating": 87,
+            "criticsRating": null,
             "criticsVotes": 53,
-            "audienceRating": 88,
-            "audienceVotes": 4240
+            "audienceRating": null,
+            "audienceVotes": null
           }
         },
         "longDescription": "W wytwornej restauracji Le Hollandais co wieczór zasiada gangster – Albert Spica. Prostacki, chciwy i okrutny, terroryzuje gości, personel i własną żonę – Georginę. Ta jednak znajduje ucieczkę: romantycznego bibliofila, z którym romansuje pod nosem męża – w kuchni, w spiżarni, w toalecie – przy dyskretnej pomocy kucharza Richarda. Gdy Albert odkrywa zdradę, rozpoczyna się krwawa tragedia zemsty, w której nikt nie pozostanie bez winy, a ostatnie danie zapada w pamięć na długo…\n\nGreenaway inscenizuje akcję filmu na kształt sztuki teatralnej: kolejne akty wyznaczają karty menu, kamera sunie równolegle wzdłuż dekoracji, podczas gdy postaci niejednokrotnie ustawiają się przy stole po jednej stronie, jakby kłaniały się publiczności. Każda przestrzeń ma swój kolor – parking jest niebieski, kuchnia zielona, sala czerwona, a toalety białe – a wraz z przestrzenią zmienia się także kolor strojów Georginy. Na ścianie wisi Frans Hals, na stołach piętrzą się martwe natury z ryb, owoców morza i mięs, przywodząc na myśl Koheletowską sentencję vanitas vanitatum .\n\nPrzy stołach Le Hollandais zasiada cała thatcherowska Wielka Brytania: Złodziej symbolizuje arogancję i pogardę władz, Kucharz to szary obywatel, który wykonuje polecenia i przeklina pod nosem, Kochanek – intelektualista i rebeliant, a Żona – pełen godności kraj przykuty do swojego oprawcy. Klasyka, którą trzeba zobaczyć na dużym ekranie – choć może niekoniecznie przed kolacją.\n\nEN\n\nEvery evening, gangster Albert Spica takes his place at a table in the elegant Le Hollandais restaurant. Vulgar, greedy and cruel, he terrorises the diners, the staff and his own wife, Georgina. She, however, finds an escape in a bookish, romantic lover, conducting their affair under her husband’s nose – in the kitchen, the pantry and the toilets – with the discreet help of Richard, the cook. When Albert discovers the betrayal, the story tips into a bloody revenge tragedy in which no one remains innocent, and the final course is hard to forget.\n\nGreenaway stages the film’s plot in the style of a play. Menu cards divide the action into acts; the camera glides parallel to the set, whilst the characters often line up on one side of the table, as if bowing to the audience. Each space has its own colour: the car park is blue, the kitchen green, the dining room red and the toilets white. Georgina’s clothes change colour with each new setting. A Frans Hals painting hangs on the wall. At the same time, the tables groan under still lifes of fish, seafood and meat, calling to mind the old vanitas refrain: vanity of vanities.\n\nAround the tables of Le Hollandais sits an entire vision of Thatcher’s Britain. The Thief embodies the arrogance and contempt of those in power; the Cook is the ordinary citizen, carrying out orders while muttering under his breath; the Lover is the intellectual and rebel; and the Wife, a dignified country bound to its abuser.\n\nA classic that demands to be seen on the big screen – though perhaps not just before dinner.",
@@ -680,7 +680,7 @@
             "id": "tt0064866",
             "url": "https://www.imdb.com/title/tt0064866/",
             "rating": 7.1,
-            "votes": 6545
+            "votes": 6548
           },
           "filmweb": {
             "id": "9023",
@@ -698,10 +698,10 @@
             "directors": [
               "Gillo Pontecorvo"
             ],
-            "criticsRating": 80,
+            "criticsRating": null,
             "criticsVotes": 15,
-            "audienceRating": 80,
-            "audienceVotes": 273
+            "audienceRating": null,
+            "audienceVotes": null
           }
         },
         "longDescription": "Queimada – tak brzmi oryginalny tytuł filmu – to nazwa filmowej (fikcyjnej) wyspy na Antylach, skolonizowanej przez Portugalczyków. Nazwa ta oznacza tyle, co „spalona” – bo w ten właśnie sposób kolonizatorzy pozbyli się miejscowych wiosek i jej mieszkańców, by sprowadzić niewolników i rozpocząć plantacyjną eksploatację. Jest połowa XIX w., na wyspę przybywa William Walker, najęty przez Koronę Brytyjską agent, którego zadaniem będzie zradykalizowanie zniewolonych i wzniecenie powstania – to pozwoli zręcznie wyeliminować Portugalczyków i przejęcie plantacji.\n\nEpicki film Gilla Pontecorvo, włoskiego reżysera uznawanego za jednego z najważniejszych twórców zaangażowanego kina politycznego, jest jednocześnie dramatem kostiumowym, filmem akcji i przenikliwym traktatem na temat kolonializmu. Mechanizmy zniewolenia, manipulacji i eksploatacji są tu przedstawione klarownie i wprost, uderzając swoją aktualnością. Choć BURN! Nie jest filmem historycznym, a opowieść fikcyjna, można go potraktować jako wierny obraz rzeczywistości, o której mówi. W czasie, gdy powstał, traktowano go także jako mocny komentarz na temat toczącej się wojny w Wietnamie.\n\nUdział Marlona Brando w tym filmowym przedsięwzięciu w nieoczywisty sposób wzmacnia wymowę filmu. Jego bohater zdaje się być jednocześnie cynikiem i ideowcem, jest na wskroś współczesny, komplikuje sensy, wypychając film poza granice kina przygodowego. Ujawnione przez niego dyskryminacyjne zachowania wobec aktorów dodały jeszcze kontrowersji, wpisując BURN! w dyskurs, który sam film piętnował.\n\nEN\n\nThe film’s original title is the name of the fictional Caribbean island on which the story takes place, colonised by the Portuguese. The name translates as ‘burnt’ – a reference to the way the colonisers razed local villages and disposed of their inhabitants to bring in enslaved people and begin exploiting the island through plantation agriculture. In the mid-19th century, William Walker arrives on the island as an agent hired by the British Crown. His task is to radicalise the enslaved population and foment an uprising – a move designed to oust the Portuguese and enable the plantations to be taken over.\n\nThis epic film by Gillo Pontecorvo, the Italian director regarded as one of the foremost figures in politically engaged cinema, is at once a period drama, an action film, and an incisive treatise on colonialism. The mechanisms of subjugation, manipulation, and exploitation are laid bare with striking clarity and directness, and their relevance to the present day is hard to miss. Although BURN! is not a historical film and its story is fictional, it can be seen as a faithful reflection of the reality it depicts. At the time of its release, it was also regarded as a powerful commentary on the ongoing war in Vietnam.\n\nMarlon Brando’s involvement in this film project subtly enhances the film’s impact. His character appears to be both a cynic and an idealist; he is thoroughly contemporary, complicating the film’s meanings and pushing it beyond the boundaries of the adventure genre. The discriminatory behaviour towards actors that he revealed added further controversy, placing BURN! within the very discourse that the film itself condemned.",
@@ -783,7 +783,7 @@
             "id": "tt27766440",
             "url": "https://www.imdb.com/title/tt27766440/",
             "rating": 6.6,
-            "votes": 7961
+            "votes": 7963
           },
           "filmweb": {
             "id": "10058778",
@@ -793,7 +793,7 @@
               "Psychologiczny"
             ],
             "rating": 6.8,
-            "votes": 6269
+            "votes": 6274
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/the_salt_path",
@@ -802,10 +802,10 @@
             "directors": [
               "Marianne Elliott"
             ],
-            "criticsRating": 78,
+            "criticsRating": null,
             "criticsVotes": 45,
-            "audienceRating": 61,
-            "audienceVotes": 167
+            "audienceRating": null,
+            "audienceVotes": null
           }
         },
         "longDescription": "Są historie tak niezwykłe, że wydają się gotowym scenariuszem. Tak jest w przypadku opowieści Raynor Winn, której autobiograficzna książka „Słone ścieżki” stała się światowym bestsellerem i fenomenem wydawniczym.\n\nZa kamerą staje Marianne Elliot, dotychczas znana głównie z produkcji teatralnych, a za scenariusz odpowiedzialna jest Rebecca Lenkiewicz – jedna z najbardziej cenionych scenarzystek swojego pokolenia, współautorka oscarowej IDY czy autorka scenariusza do SŁONEGO LATA z sekcji High Season drugiej edycji festiwalu.\n\nElliot z niezwykłą czułością opowiada historię małżeństwa, które w jednej chwili traci wszystko: dom i poczucie bezpieczeństwa, a na dodatek staje w obliczu nieuleczalnej choroby mężczyzny. W akcie desperacji podejmują radykalną decyzję – wyruszają w pieszą podróż liczącym ponad tysiąc kilometrów szlakiem South West Coast Path, znanym jako „słona ścieżka”.\n\nTa legendarna trasa, wijąca się wzdłuż surowego i zapierającego dech w piersiach wybrzeża Kornwalii i Devon, staje się dla nich nie tylko wyzwaniem fizycznym, ale przede wszystkim drogą do wewnętrznego uzdrowienia. To kino drogi w najczystszej postaci, w którym natura jest pełnoprawnym bohaterem, a każdy krok staje się metaforą walki o przetrwanie i odnalezienie nadziei wbrew wszystkiemu.\n\nSpełnienie filmowi przynosi szczególnie subtelna, dojrzała rola Gillian Anderson w roli głównej i wyjątkowa chemia, jaka łączy ją z towarzyszącym na ekranie Jasonem Isaacsem.\n\nEN\n\nSome stories are so extraordinary they feel as though they were made for the screen. Raynor Winn’s memoir THE SALT PATH, which became an international bestseller and publishing phenomenon, is one of them.\n\nThe film marks the feature debut of Marianne Elliott, best known for her acclaimed theatre work, while the screenplay is by Rebecca Lenkiewicz, co-writer of the Oscar-winning IDA and screenwriter of HOT MILK, shown in the High Season section of the festival’s second edition.\n\nElliott tells with great tenderness the story of a married couple whose lives collapse almost overnight. They lose their home and any sense of security, only to learn that the husband is also facing an incurable illness. With nowhere else to turn, they make a drastic decision: to walk the South West Coast Path, a route stretching for more than a thousand kilometres along the coast of south-west England.\n\nRunning through the wild, breathtaking landscapes of Cornwall and Devon, the trail becomes more than a test of endurance. It offers the couple a way to keep moving when everything else has fallen apart. THE SALT PATH is road cinema in its purest form, with nature as a constant presence and each step carrying them towards a fragile sense of hope.\n\nAt the heart of the film is Gillian Anderson’s restrained, deeply felt performance, matched by the easy, convincing chemistry she shares with Jason Isaacs.",
@@ -848,7 +848,7 @@
             "id": "tt0274558",
             "url": "https://www.imdb.com/title/tt0274558/",
             "rating": 7.5,
-            "votes": 148413
+            "votes": 148434
           },
           "filmweb": {
             "id": "32380",
@@ -857,7 +857,7 @@
               "Dramat"
             ],
             "rating": 7.3,
-            "votes": 110147
+            "votes": 110149
           },
           "rottenTomatoes": null
         },
@@ -901,7 +901,7 @@
             "id": "tt10329560",
             "url": "https://www.imdb.com/title/tt10329560/",
             "rating": 6.6,
-            "votes": 2897
+            "votes": 2913
           },
           "filmweb": {
             "id": "10048300",
@@ -910,7 +910,7 @@
               "Dramat"
             ],
             "rating": 5.9,
-            "votes": 193
+            "votes": 194
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/h_is_for_hawk",
@@ -919,10 +919,10 @@
             "directors": [
               "Philippa Lowthorpe"
             ],
-            "criticsRating": 82,
+            "criticsRating": null,
             "criticsVotes": 104,
-            "audienceRating": 74,
-            "audienceVotes": 136
+            "audienceRating": null,
+            "audienceVotes": null
           }
         },
         "longDescription": "Pamiętacie przepięknego jastrzębia z HAMNETA, czuwającego przy Jessie Buckley? Ten ptak ponownie staje się bohaterem poruszającej historii o nieumiejętności przejścia przez żałobę, ale tym razem ma kluczową rolę. M JAK MABEL to zaskakująco kojąca i głęboko spirytualna produkcja Philippy Lowthorpe oparta na prawdziwych wspomnieniach przyrodniczki Helen Macdonald (w tej roli uwielbiana z THE CROWN Claire Foy).\n\nHelen nieoczekiwanie traci ojca (Brendan Gleeson) – cenionego fotografa prasowego i człowieka zakochanego w cudach świata. Jego córce traci poczucie sensu zawodowego, dystansuje się od rodziny i staje się coraz bardziej samotna. Jej życie zmienia się, gdy przygarnia majestatycznego jastrzębia, którego nazywa Mabel (z łaciny: „godna kochania”). Helen poświęca się całkowicie pielęgnowaniu jastrzębia, nawiązując z nim wyjątkową więź z nadzieją, że złagodzi jej cierpienie i pomoże uciec od frustrującej codzienności. Pojawiają się jednak obawy czy kobieta nie utożsamia się za bardzo z Mabel i traci kontakt z cywilizacją na rzecz natury.\n\nFilm Philippy Lowthorpe to czuła podróż po wspomnieniach bohaterki, doskonale zagranej przez Foy, łączącej w sobie tamowany potok przygnębienia i zachwyt nad dzikością natury. Ujęć na polującą Mabel nie powstydziliby się twórcy filmów przyrodniczych z Sir Davidem Attenborough, a Lowthorpe w przemyślany sposób przedstawia motyw ptaka jako ucieczki od trudnej rzeczywistości w duchu tradycji loachowskiego KESA. M JAK MABEL to budząca emocje lekcja wzbicia się ku wolności dla człowieka, którego paraliżuje żałoba i zaniedbanie samego siebie.\n\nEN\n\nRemember the magnificent hawk keeping watch beside Jessie Buckley in HAMNET? A bird of prey once again takes centre stage in a story about grief, but this time it becomes far more than a striking presence. Philippa Lowthorpe’s H IS FOR HAWK, based on the memoir by naturalist Helen Macdonald, is a surprisingly comforting and deeply spiritual story of loss, solitude and an extraordinary bond with the wild. Claire Foy, beloved for THE CROWN, stars as Helen.\n\nAfter the sudden death of her father (Brendan Gleeson), a respected photojournalist with an infectious sense of wonder about the world, Helen begins to lose her footing. Her work feels increasingly meaningless; she withdraws from her family and loneliness closes in. Everything changes when she takes on a magnificent goshawk and names her Mabel – from the Latin for “lovable”. Helen throws herself into training the bird, and an intense bond begins to form between them. She comes to see Mabel as both refuge and guide, hoping that life alongside this fierce, untamed creature might ease her grief and teach her how to inhabit the world again. But as Helen retreats further into Mabel’s world, a troubling question emerges: is she finding her way back to life, or disappearing into the wild?\n\nLowthorpe turns Helen’s memories into an intimate journey through mourning, anchored by Foy’s finely judged performance, in which barely contained sadness sits alongside an almost childlike awe at the natural world. The sequences of Mabel in flight and on the hunt have the arresting beauty of the finest wildlife filmmaking, while the hawk itself becomes a way of escaping a reality Helen can no longer bear – recalling the British tradition of KES.\n\nH IS FOR HAWK is ultimately a deeply affecting story about a person paralysed by grief learning, slowly and painfully, to take flight again.",
@@ -965,8 +965,8 @@
           "imdb": {
             "id": "tt13609648",
             "url": "https://www.imdb.com/title/tt13609648/",
-            "rating": 7.3,
-            "votes": 8391
+            "rating": 7.2,
+            "votes": 9206
           },
           "filmweb": {
             "id": "10087170",
@@ -976,7 +976,7 @@
               "Melodramat"
             ],
             "rating": 7.2,
-            "votes": 3063
+            "votes": 3119
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/sense_and_sensibility_2026",
@@ -985,10 +985,10 @@
             "directors": [
               "Georgia Oakley"
             ],
-            "criticsRating": 78,
-            "criticsVotes": 135,
-            "audienceRating": 89,
-            "audienceVotes": 818
+            "criticsRating": null,
+            "criticsVotes": 138,
+            "audienceRating": null,
+            "audienceVotes": null
           }
         },
         "longDescription": "Rewizja klasycznej prozy Jane Austen, która debiutując w 1811 roku pod pseudonimem The Lady zaskoczyła czytelników bardziej ironicznym niż przesiąkniętym romantyzmem tonem, zjadliwym humorem i realistycznym obrazem epoki. Twórcy nowej ROZWAŻNEJ I ROMANTYCZNEJ nie tylko idą pierwotnym śladem niezmiennie uwielbianej pisarki, lecz także rozluźniają sznurowadła społecznego gorsetu, aby wydobyć motyw kobiecej emancypacji oraz siłę siostrzanej więzi. Wnikają przy tym w zawiłe niuanse georgiańskiej mentalności, odkrywając konflikt serca i rozwagi nie zawsze kończący się kliszą happy endu.\n\nWraz ze śmiercią pana Dashwooda jego trzy córki i druga żona zostają zmuszone do opuszczenia rodzinnej posiadłości. Zgodnie z dawnym angielskim prawem jego majątek dziedziczy męski spadkobierca, w tym przypadku syn z pierwszego małżeństwa. Siostry Dashwood zostają skazane na łaskę krewnych, mając świadomość jedynej akceptowanej społecznie drogi kobiecej stabilizacji – zamążpójścia. Najstarsze siostry, roztropna Elinor (oklaskiwana po występie w GDZIE ŚPIEWAJĄ RAKI Daisy Edgar-Jones) oraz podążająca za emocjami Marianne (znana z seriali HANNA i SANDMAN Esmé Creed-Miles), muszą sprostać oczekiwaniom drżącego przed etykietą środowiska i własnym dylematom serca.\n\nStojąca za kamerą Georgia Oakley (PTASZYNA, BLUE JEAN) po raz kolejny poraża wielką świadomością stylu zakorzenionego w wizualnym języku europejskich mistrzów, w tym francuskiej intymności czy wnikliwych obserwacjach ludzkich mechanizmów rodem z hiszpańskiego ekranu. Filmowe światy nominowanej do nagrody BAFTA brytyjskiej reżyserski przenika pewna doza zmysłowości, ale na próżno szukać w nich szablonowości czy upiększeń. Drogę do wciąż aktualnej problematyki społecznej wyznacza w nich kontekst historyczny, queerowa wrażliwość i psychologia postaci. Z pomocą australijskiej scenarzystki Diany Reid twórczynie przepuszczają przez realistyczny filtr ponadczasowe emocje i perypetie sióstr Dashwood poszukujących własnego miejsca w świecie.\n\nEN\n\nA fresh take on Jane Austen’s classic novel, first published in 1811 under the pseudonym “A Lady”, which surprised readers with a tone more ironic than romantic, a sharp wit and a clear-eyed portrait of its age. The makers of the new SENSE AND SENSIBILITY not only follow in the footsteps of the ever-beloved author, but also loosen the stays of social convention to bring female emancipation and the strength of sisterhood to the fore. At the same time, they delve into the intricacies of the Georgian mindset, exploring a conflict between feeling and reason that does not always resolve itself into the reassuring shape of a happy ending.\n\nAfter Mr Dashwood’s death, his second wife and three daughters are forced to leave the family estate. Under the inheritance laws of the time, his property passed to a male heir – in this case, his son from his first marriage. The Dashwood sisters are left dependent on the goodwill of relatives and acutely aware that marriage remains the only socially acceptable route to security. The two eldest, the sensible Elinor (Daisy Edgar-Jones, acclaimed for her performance in WHERE THE CRAWDADS SING) and the more impulsive Marianne (Esmé Creed-Miles, known from HANNA and THE SANDMAN), must navigate both the expectations of a society in thrall to etiquette and the complications of their own hearts.\n\nDirector Georgia Oakley (LITTLE BIRD, BLUE JEAN) once again displays a striking command of style, rooted in the visual language of European cinema – from French intimacy to the acute observation of human behaviour associated with Spanish film. A certain sensuality runs through the work of the BAFTA-nominated British filmmaker, yet there is little room for formula or prettification. Historical context, queer sensitivity and close attention to character psychology become her routes into social questions that remain strikingly relevant. Working with Australian screenwriter Diana Reid, Oakley refracts the timeless emotions and romantic entanglements of the Dashwood sisters through a realist lens as they search for a place of their own in the world.",
@@ -1031,7 +1031,7 @@
             "id": "tt32321317",
             "url": "https://www.imdb.com/title/tt32321317/",
             "rating": 6.9,
-            "votes": 25493
+            "votes": 25556
           },
           "filmweb": {
             "id": "10053146",
@@ -1040,7 +1040,7 @@
               "Melodramat"
             ],
             "rating": 6.5,
-            "votes": 6327
+            "votes": 6332
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/pillion",
@@ -1049,10 +1049,10 @@
             "directors": [
               "Harry Lighton"
             ],
-            "criticsRating": 99,
+            "criticsRating": null,
             "criticsVotes": 201,
-            "audienceRating": 89,
-            "audienceVotes": 322
+            "audienceRating": null,
+            "audienceVotes": null
           }
         },
         "longDescription": "Harry Lighton to debiutant z Hampshire, który zaskoczył publiczność Cannes bezkompromisowym PILLIONEM, eksplorującym queerowe środowisko BDSM. Reżyser podąża raczej ścieżką DUKE OF BURGUNDY Stricklanda czy BABYGIRL Reijn (nie tylko przez świąteczną aurę) niż hollywoodzkiej serii 50 TWARZY GREYA – i bardzo dobrze na tym wychodzi. Adaptując książkę Adama Marsa-Jonesa, nie tylko zaskakuje swobodą I luzem w poruszaniu się po strefie tabu, ale ma też odwagę w stawianiu pytań o nieumiejętność komunikowania pragnień i granic.\n\nW przeciwieństwie do oryginału literackiego, PILLION dzieje się współcześnie w uroczym mieście Bromley. Colin (Harry Melling) dryfuje przez życie bez grama adrenaliny, wspierany przez swoich rodziców. Nieoczekiwanie ze strefy komfortu – ale też ku wolności seksualnej – wyciąga go tajemniczy motocyklista Ray (Alexander Skarsgård). Parafrazując Rihannę, Colina zaczynają podniecać skóry i łańcuchy i z przyjemnością zajmuje tylne siedzenie zarezerwowane dla uległego w szalonej fetyszystycznej przejażdżce z facetem marzeń.\n\nLighton ma większe ambicje niż zrealizowanie komedii erotycznej szokującej niekonwencjonalnym seksem. Nie można mu odmówić zmysłowości i humoru z pazurem, ale to uczciwa, nieoceniająca perspektywa na odkrywanie rynku randkowego przez młodego geja jest jego największym atutem. Z dużym wyczuciem i zrozumieniem podchodzi też do gejowskiego środowiska motocyklistów, a ich przedstawiciele nie tylko konsultowali pomysły Lightona, ale też zagrali jako aktorzy-naturszczycy, wzmacniając autentyczność PILLIONA. To jeden z najbardziej nieoczywistych (i ponętnie przebranych) debiutów brytyjskich, słusznie nagrodzony za scenariusz w konkursie Un Certain Regard na festiwalu w Cannes.\n\nEN\n\nHarry Lighton, a first-time filmmaker from Hampshire, made a striking Cannes debut with PILLION, an uncompromising exploration of queer BDSM culture. The film sits closer to Peter Strickland’s THE DUKE OF BURGUNDY or Halina Reijn’s BABYGIRL than to the glossy fantasy of FIFTY SHADES OF GREY – and benefits from that distinction. In adapting Adam Mars-Jones’s novel, Lighton moves through taboo territory with remarkable ease, while asking sharper questions about desire, boundaries and the difficulty of communicating both.\n\nUnlike the novel, PILLION unfolds in the present day, in the quiet suburban setting of Bromley. Colin (Harry Melling) is drifting through life without much excitement, closely supported by his parents. His routine is abruptly disrupted by Ray (Alexander Skarsgård), a mysterious biker who draws him out of his comfort zone and into a world of sexual freedom. Leather, chains and submission become part of a relationship that initially seems to offer Colin both escape and fulfilment.\n\nLighton’s ambitions reach far beyond provocation. The film is sensual, funny and often sharply observed, but its real strength lies in its candid, non-judgemental depiction of a young gay man learning how to navigate desire, intimacy and power. The gay biker community is portrayed with similar care: members of the scene advised Lighton during development and also appear as non-professional performers, giving the film an added sense of authenticity.\n\nThe result is one of the more distinctive British debuts of recent years: playful, provocative and unusually assured. Its screenplay was awarded in the Un Certain Regard section at Cannes.",
@@ -1095,7 +1095,7 @@
             "id": "tt32293052",
             "url": "https://www.imdb.com/title/tt32293052/",
             "rating": 6.1,
-            "votes": 335
+            "votes": 337
           },
           "filmweb": {
             "id": "10053069",
@@ -1149,7 +1149,7 @@
             "id": "tt36983905",
             "url": "https://www.imdb.com/title/tt36983905/",
             "rating": 6.2,
-            "votes": 13589
+            "votes": 13859
           },
           "filmweb": {
             "id": "10122362",
@@ -1159,7 +1159,7 @@
               "Akcja"
             ],
             "rating": 5.6,
-            "votes": 608
+            "votes": 610
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/the_uprising_2026",
@@ -1168,10 +1168,10 @@
             "directors": [
               "Paul Greengrass"
             ],
-            "criticsRating": 57,
+            "criticsRating": null,
             "criticsVotes": 122,
-            "audienceRating": 65,
-            "audienceVotes": 584
+            "audienceRating": null,
+            "audienceVotes": null
           }
         },
         "longDescription": "Oparte na prawdziwych wydarzeniach historycznych widowisko stawiające pytanie o cenę wolności w czasach feudalnego ucisku. XIV-wieczny lud Anglii pozostaje wyniszczony epidemią dżumy, represjami ze strony władzy i społecznymi napięciami. Na wieść o bezwzględnych planach możnowładców i nałożeniu podatku uderzającego w najuboższych, stojący na skraju wytrzymałości chłopi postanawiają sprzeciwić się tyranii Ryszarda II. Opór kilkorga z nich na czele z młodym rebeliantem (charyzmatyczny Andrew Garfield) przeistacza się w falę wściekłości, która w krótkim czasie rozprzestrzenia się na cały kraj. Uciskani postanawiają wypowiedzieć wojnę koronie.\n\nGdy w 1381 roku śmiałkowie z Esseksu i Kentu pod przewodnictwem Wata Tylera i mobilizowani przez kaznodzieję Johna Balla wszczęli bunt przeciwko wyzyskowi oraz nałożeniu podatku obciążającego jednostki niezależnie od wielkości ich dochodu, nikt nie zakładał, że powstanie doprowadzi do marszu na Londyn. Krwawe zamieszki zakończyło równie brutalne stłumienie przez siły króla, ale mit wolności i walki o sprawiedliwość na dobre zakorzenił się w mentalności angielskich chłopów, doprowadzając do narodzin legendy o Robin Hoodzie.\n\nWyróżniony BAFTA i nominowany do Oscara za LOT 93 (2006) reżyser Paul Greengrass spogląda na przepełnioną gniewem historię z charakterystycznym dla siebie reporterskim stylem, nie szczędząc jednak okrucieństwa, intensywnej konwencji i dynamicznej kamery. Rozedrgane ujęcia oddają emocjonalną motywację zrywu wyznaczającego punkt zwrotny w dziejach średniowiecznej Anglii i po upływie stuleci inspirującego polityczną lewicę.\n\nEN\n\nA historical epic based on real events, THE UPRISING asks what freedom is worth in an age of feudal oppression. Fourteenth-century England has been ravaged by plague, repression and mounting social unrest. When word spreads of the ruling elite’s ruthless plans and a tax that falls hardest on the poorest, peasants already pushed to the breaking point decide to resist the tyranny of Richard II. What begins with a handful of rebels, led by a charismatic young insurgent (Andrew Garfield), soon swells into a wave of anger sweeping across the country. The oppressed are ready to wage war on the Crown.\n\nIn 1381, rebels from Essex and Kent, led by Wat Tyler and rallied by the preacher John Ball, rose against exploitation and a poll tax levied regardless of income. Few could have foreseen that the revolt would culminate in a march on London.\n\nThe bloody riots were brought to an end by an equally brutal crackdown by the king’s forces. But the myth of freedom and the struggle for justice took firm root in the minds of the English peasants, leading to the birth of the legend of Robin Hood.\n\nBAFTA-winning director Paul Greengrass, who received an Academy Award nomination for UNITED 93 (2006), approaches this story of rage and rebellion with his characteristic journalistic immediacy, while fully embracing its brutality, intensity and restless camerawork. The jittery, urgent images capture the emotional force behind an uprising that marked a turning point in medieval English history and, centuries later, would continue to inspire the political left.",
@@ -1214,7 +1214,7 @@
             "id": "tt35521922",
             "url": "https://www.imdb.com/title/tt35521922/",
             "rating": 6.1,
-            "votes": 38851
+            "votes": 38926
           },
           "filmweb": {
             "id": "10064809",
@@ -1223,7 +1223,7 @@
               "Thriller"
             ],
             "rating": 7.2,
-            "votes": 15656
+            "votes": 15681
           },
           "rottenTomatoes": null
         },
@@ -1267,7 +1267,7 @@
             "id": "tt0091142",
             "url": "https://www.imdb.com/title/tt0091142/",
             "rating": 5.7,
-            "votes": 10233
+            "votes": 10242
           },
           "filmweb": {
             "id": "5908",
@@ -1276,7 +1276,7 @@
               "Horror"
             ],
             "rating": 6.4,
-            "votes": 2608
+            "votes": 2610
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/gothic",
@@ -1285,10 +1285,10 @@
             "directors": [
               "Ken Russell"
             ],
-            "criticsRating": 60,
+            "criticsRating": null,
             "criticsVotes": 15,
-            "audienceRating": 49,
-            "audienceVotes": 587
+            "audienceRating": null,
+            "audienceVotes": null
           }
         },
         "longDescription": "Jest czerwiec 1816 roku. W wynajętej willi zamknięci przez pogodę Lord Byron, Percy Bysshe Shelley, Mary Godwin, Claire Clairmont i doktor John Polidori rzucili sobie wyzwanie: każde z nich miało napisać opowieść o duchach. Dzięki jednej nocy powstały FRANKENSTEIN i WAMPIR – dwa teksty, na których stoi całe nowoczesne kino grozy. GOTYK Kena Russella opowiada właśnie o niej.\n\nNie jest to jednak film kostiumowy. Russell nie próbuje zrekonstruować historycznego wieczoru, tylko inscenizuje go jako zbiorowego bad tripa. Towarzystwo najpierw czyta niemieckie opowieści o duchach, potem urządza seans spirytystyczny, a następnie wspomaga się laudanum i zaczyna kolejno konfrontować z tym, czego każde z nich boi się najbardziej. Wraz z postępem nocy coraz trudniej orzec, czy w willi jest z nimi coś jeszcze, czy po prostu pięcioro romantyków wywołało własne demony i nie ma pojęcia, jak je odesłać.\n\nKen Russell, największy ekscentryk brytyjskiego kina i autor DIABŁÓW oraz ODMIENNYCH STANÓW ŚWIADOMOŚCI, chodził wokół tego tematu przez dekadę. Gdy wreszcie dostał dwa miliony funtów budżetu, nakręcił film w posiadłości w Hertfordshire udającej szwajcarską willę i puścił wodze fantazji: ze scenariusza Stephena Volka wyciął prolog i epilog i dorzucił mechanicznego manekina. A do współpracy zaprosił Gabriela Byrne’a, Juliana Sandsa, Tomothy’ego Spalla i Natashę Richardson.\n\nJeśli dodamy do tego syntezatorową muzykę, otrzymamy coś, co można nazwać filmowym odpowiednikiem majaków po absyncie. Krytycy GOTYKU nienawidzili, ale dla fanów odważnych dziwactw jest to film kultowy.\n\nEN\n\nIt is June 1816. Trapped indoors by the weather in a rented villa, Lord Byron, Percy Bysshe Shelley, Mary Godwin, Claire Clairmont and Dr John Polidori set each other a challenge: each of them was to write a ghost story. Out of that single night came FRANKENSTEIN and THE VAMPIRE – two texts on which modern horror cinema was built. Ken Russell’s GOTHIC is about that very night.\n\nThis is no conventional period drama, though. Russell does not attempt to reconstruct the evening with historical fidelity; instead, he stages it as one long collective bad trip. The group starts by reading German ghost stories; then holds a séance, doses themselves with laudanum, and, one by one, comes face to face with whatever each of them fears most. Over the course of the night, it gets harder to tell if there is really something else in the villa, or if the five Romantics have just called up their demons and don’t know how to get them back.\n\nKen Russell, British cinema’s great eccentric and the director of THE DEVILS and ALTERED STATES, had been circling the subject for a decade. When he finally secured a £2 million budget, he shot the film at a Hertfordshire country house standing in for the Swiss villa and let his imagination run wild: he cut the prologue and epilogue from Stephen Volk’s screenplay and added a mechanical mannequin. He also brought together Gabriel Byrne, Julian Sands, Timothy Spall and Natasha Richardson.\n\nAdd a synth-heavy score and the result is something close to the cinematic equivalent of an absinthe hallucination. Critics loathed GOTHIC, but devotees of fearless weirdness have made it a cult film.",
@@ -1332,7 +1332,7 @@
             "id": "tt0435625",
             "url": "https://www.imdb.com/title/tt0435625/",
             "rating": 7.2,
-            "votes": 279555
+            "votes": 279651
           },
           "filmweb": {
             "id": "214803",
@@ -1341,7 +1341,7 @@
               "Horror"
             ],
             "rating": 6.3,
-            "votes": 80330
+            "votes": 80335
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/descent",
@@ -1350,10 +1350,10 @@
             "directors": [
               "Neil Marshall"
             ],
-            "criticsRating": 87,
+            "criticsRating": null,
             "criticsVotes": 189,
-            "audienceRating": 76,
-            "audienceVotes": 26512
+            "audienceRating": null,
+            "audienceVotes": null
           }
         },
         "longDescription": "Drugi i do dziś najbardziej znany film Neila Marshalla, to opowieść o sześciu przyjaciółkach, które wyruszają na wyprawę speleologiczną w Appalachach, gdzieś na terenie Karoliny Północnej. Dla zmagającej się z traumą Sarah (Shauna Macdonald), która rok wcześniej straciła męża i córkę, ekspedycja ma być próbą powrotu do normalności. Pod przewodnictwem Juno (Natalie Mendoza) kobiety zapuszczają się w system nigdy dotąd niepenetrowanych jaskiń, gdzie jeden zły ruch oznacza utratę orientacji, a ta z kolei – walkę o przetrwanie. W ciasnych korytarzach kumpele muszą zmierzyć się nie tylko z zagrożeniami podziemnego świata – a tych oczywiście nie brakuje – lecz także z narastającą nieufnością, dawnymi urazami oraz sekretami, które podważają więzi między nimi. Im dalej w nieznane, tym mniejsze szanse na ratunek. Marshall przekształca jaskinię w przestrzeń przypominającą piekło lub przynajmniej czyścieć, a zatem miejsce zawieszone poza zwyczajnym porządkiem świata, takie, w którym bohaterki zostają zmuszone do konfrontacji z przeszłością oraz związanymi z nią lękami i poczuciem winy. Tytułowe zejście oznacza więc zarówno fizyczną podróż w głąb ziemi, jak i wędrówkę ku najciemniejszym zakamarkom psychiki, gdzie moralność zdaje się nie istnieć. Z tym wszystkim zaś koresponduje warstwa wizualna, oparta na klaustrofobicznych kompozycjach i oszczędnym oświetleniu. Im bliżej jądra planety, tym większa potworność: i obcej otchłani, i samych ludzi. Czy w takich warunkach istnieje nadzieja na odkupienie czy wręcz odrodzenie?\n\nUwaga! Seans odbędzie się na pływalni: uczestnicy pokazu zobowiązani się do pojawienia się na miejscu w adekwatnym stroju i z ręcznikiem.\n\nFilm będzie można oglądać zarówno „na sucho” – z brzegu basenu, jak i z materacy i siedzisk w wodzie.\n\nEN\n\nReleased in 2005, THE DESCENT was Neil Marshall’s second feature and remains his best-known film. It follows six friends on a caving expedition in the Appalachians, somewhere in North Carolina. For Sarah (Shauna Macdonald), still struggling with the trauma of losing her husband and daughter a year earlier, the trip is meant to be a step back towards normality. Led by Juno (Natalie Mendoza), the women venture into a previously unexplored cave system, where one wrong move can mean losing their bearings – and losing their bearings can mean a fight for survival.\n\nDeep underground, they must confront not only the dangers of the caves themselves, of which there are plenty, but also growing mistrust, old resentments and secrets that begin to strain the bonds between them. The farther they descend into the unknown, the slimmer their chances of escape.\n\nMarshall turns the cave into something resembling hell, or at least purgatory: a space outside the ordinary order of things, where the women are forced to confront their pasts, along with the fears and guilt bound up in them. The ‘descent’ referred to in the title thus signifies both a physical journey deep into the earth and a journey into the darkest recesses of the psyche, where morality seems to be non-existent.\n\nThe visual style reinforces this sense of entrapment, with claustrophobic compositions and sparse lighting closing in around the characters. The deeper they go, the more monstrous both the unfamiliar abyss and the people themselves become. In a place like this, is there still room for redemption – or even rebirth?\n\nPlease note! The screening will take place at a swimming pool. All attendees are required to arrive in appropriate swimwear and bring a towel.\n\nThe film can be watched both “on dry land” from the poolside and from inflatable mattresses and seats in the water.",

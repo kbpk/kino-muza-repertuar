@@ -1,12 +1,12 @@
 {
   "schemaVersion": 1,
   "date": "2026-11-25",
-  "updatedAt": "2026-11-03T17:48:35.792Z",
+  "updatedAt": "2026-11-04T17:59:47.065Z",
   "source": "https://www.kinomuza.pl/repertoire/day/",
   "day": {
-    "id": "22",
+    "id": "21",
     "date": "25.11",
-    "now": "2026-11-03 18:47:20",
+    "now": "2026-11-04 18:57:57",
     "info": [],
     "repertoire": [
       {
@@ -47,7 +47,7 @@
             "id": "tt29271622",
             "url": "https://www.imdb.com/title/tt29271622/",
             "rating": 7.4,
-            "votes": 8609
+            "votes": 8623
           },
           "filmweb": {
             "id": "10075691",
@@ -56,7 +56,7 @@
               "Dramat"
             ],
             "rating": 6.5,
-            "votes": 138
+            "votes": 139
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/palestine_36",
@@ -65,10 +65,10 @@
             "directors": [
               "Annemarie Jacir"
             ],
-            "criticsRating": 98,
+            "criticsRating": null,
             "criticsVotes": 65,
-            "audienceRating": 99,
-            "audienceVotes": 70
+            "audienceRating": null,
+            "audienceVotes": null
           }
         },
         "longDescription": "Rok 1936, mieszkańcy Palestyny powstają przeciwko brytyjskim rządom. Jusuf dzieli swoje życie pomiędzy Jerozolimą a życiem na prowincji, marząc o przyszłości wolnej od wojennej zawieruchy. W miarę jak rośnie liczba żydowskich osadników uciekających przed falą antysemityzmu w Europie, Palestyńczycy jednoczą się w akcie największego oporu w 30-letniej historii brytyjskiego panowania. Wszystkie strony stoją w obliczu nieuchronnej konfrontacji. Nadchodzą kluczowe chwile dla przyszłości Imperium Brytyjskiego i Palestyny.\n\nPokaz specjalny jest częścią ogólnopolskiej premiery filmu „PALESTYNA 36″. Film wprowadzony do polskich kin dzięki Portalowi Immersja oraz FFIPP Poland.\n\nPo pokazie odbędzie się dyskusja z gościem – Przemysławem Wielgoszem. Spotkanie poprowadzi Natalia Zajączkowska.",
@@ -105,8 +105,8 @@
         "shortDescription": "Odesa, 1926 rok. Miasto przeżywa niezwykły rozkwit – rozwijają się literatura, jazz, boks i przede wszystkim kino. Właśnie tutaj młody Oleksandr Dovzhenko stawia pierwsze kroki w świecie filmu.",
         "genres": [
           "Biograficzny",
-          "Historyczny",
-          "Dramat"
+          "Dramat",
+          "Historyczny"
         ],
         "external": {
           "imdb": null,
@@ -115,8 +115,8 @@
             "url": "https://www.filmweb.pl/film/Dow%C5%BCenko.+Pierwsze+spojrzenie-2025-10136847",
             "genres": [
               "Biograficzny",
-              "Historyczny",
-              "Dramat"
+              "Dramat",
+              "Historyczny"
             ],
             "rating": 0,
             "votes": 0

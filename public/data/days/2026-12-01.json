@@ -1,12 +1,12 @@
 {
   "schemaVersion": 1,
   "date": "2026-12-01",
-  "updatedAt": "2026-11-03T17:48:35.792Z",
+  "updatedAt": "2026-11-04T17:59:47.065Z",
   "source": "https://www.kinomuza.pl/repertoire/day/",
   "day": {
-    "id": "28",
+    "id": "27",
     "date": "01.12",
-    "now": "2026-11-03 18:47:28",
+    "now": "2026-11-04 18:58:03",
     "info": [],
     "repertoire": [
       {
@@ -46,7 +46,7 @@
             "id": "tt0065226",
             "url": "https://www.imdb.com/title/tt0065226/",
             "rating": 6.8,
-            "votes": 997
+            "votes": 998
           },
           "filmweb": {
             "id": "1119",
@@ -66,8 +66,8 @@
             ],
             "criticsRating": null,
             "criticsVotes": 2,
-            "audienceRating": 69,
-            "audienceVotes": 13
+            "audienceRating": null,
+            "audienceVotes": null
           }
         },
         "longDescription": "W trakcie realizacji pewnego filmu aktor grający w nim główną rolę opuszcza plan filmowy i nie wraca na zdjęcia. Reżyser (Andrzej Łapicki) organizuje dalszą pracę nad filmem, jeździ samochodem po Warszawie i jej okolicach, spotyka się kolejno z żoną (Beata Tyszkiewicz), dawną partnerką Aktora (Elżbieta Czyżewska) oraz przyjacielem (Daniel Olbrychski), próbując zrozumieć przyczyny ucieczki i jednocześnie znaleźć sposób na dokończenie filmu. Coraz bardziej zagubiony i bezradny, czuje coraz większą obcość względem środowiskowych koterii, towarzyskich animozji i kłamstwa, w którym pławią się członkowie ekipy. Nad ranem dociera do bohaterów informacja o tragicznej śmierci aktora. Film trzeba jednak kręcić dalej.\n\nWszystko na sprzedaż to autotematyczna opowieść o utracie przyjaciela i wielkiego aktora. W tym bardzo osobistym filmie, do którego Wajda po raz pierwszy samodzielnie napisał oryginalny scenariusz, reżyser snuje refleksję nad fenomenem Zbigniewa Cybulskiego, portretuje rodzime środowisko filmowe oraz – jedyny raz w tak bezpośredni sposób – mówi o samym sobie. W alter ego Wajdy wcielił się Andrzej Łapicki, a pozostali aktorzy nasycają swoje postaci własnymi doświadczeniami i cechami charakterów. Dzięki temu Wszystko na sprzedaż staje się intymną, ale zarazem brawurowo nakręconą, ekspresyjną i najbardziej modernistyczną w karierze Wajdy odpowiedzią na słowa, które o reżyserze miał wygłosić niedługo przed śmiercią Cybulski: „powiedzcie mu, że jeszcze za mną zatęskni”.",

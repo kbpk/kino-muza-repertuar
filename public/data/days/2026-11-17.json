@@ -1,12 +1,12 @@
 {
   "schemaVersion": 1,
   "date": "2026-11-17",
-  "updatedAt": "2026-11-03T17:48:35.792Z",
+  "updatedAt": "2026-11-04T17:59:47.065Z",
   "source": "https://www.kinomuza.pl/repertoire/day/",
   "day": {
-    "id": "14",
+    "id": "13",
     "date": "17.11",
-    "now": "2026-11-03 18:47:17",
+    "now": "2026-11-04 18:57:54",
     "info": [],
     "repertoire": [
       {
@@ -85,8 +85,8 @@
           "imdb": {
             "id": "tt0075454",
             "url": "https://www.imdb.com/title/tt0075454/",
-            "rating": 7.2,
-            "votes": 1273
+            "rating": 7.3,
+            "votes": 1274
           },
           "filmweb": {
             "id": "11923",
@@ -96,7 +96,7 @@
               "Obyczajowy"
             ],
             "rating": 7.8,
-            "votes": 34257
+            "votes": 34259
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/zaklete_rewiry_1975",
@@ -108,7 +108,7 @@
             "criticsRating": null,
             "criticsVotes": null,
             "audienceRating": null,
-            "audienceVotes": 4
+            "audienceVotes": null
           }
         },
         "longDescription": "Roman (Marek Kondrat), kilkunastoletni chłopak najmuje się na pomywacza w luksusowej restauracji. Bystry i grzeczny, szybko awansuje na pikolaka. Codziennie jest świadkiem drobnych oszustw i rażących niesprawiedliwości. Spotyka się też z nieuzasadnioną brutalnością szefa kelnerów i kierownika restauracji. Szczególnie demoniczny i niezrównoważony jest stary kelner Fornalski (Roman Wilhelmi). Romek próbuje zachować godność i pielęgnować lojalność wobec kolegów, ale sam jest wystawiany na nieustanne próby. Szuka i znajduje bliską osobę w kelnerce Heli (Stanisława Celińska), co zauważa jego przełożony, więc ją natychmiast zwalnia. Intrygi personelu i okrucieństwo przełożonych doprowadzają do tragedii.",

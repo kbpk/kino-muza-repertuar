@@ -1,12 +1,12 @@
 {
   "schemaVersion": 1,
   "date": "2026-11-10",
-  "updatedAt": "2026-11-03T17:48:35.792Z",
+  "updatedAt": "2026-11-04T17:59:47.065Z",
   "source": "https://www.kinomuza.pl/repertoire/day/",
   "day": {
-    "id": "07",
+    "id": "06",
     "date": "10.11",
-    "now": "2026-11-03 18:47:13",
+    "now": "2026-11-04 18:57:50",
     "info": [],
     "repertoire": [
       {
@@ -46,8 +46,8 @@
           "imdb": {
             "id": "tt37363222",
             "url": "https://www.imdb.com/title/tt37363222/",
-            "rating": 7.7,
-            "votes": 502
+            "rating": 7.6,
+            "votes": 511
           },
           "filmweb": {
             "id": "10112663",
@@ -65,7 +65,7 @@
             "directors": [
               "Simon Stone"
             ],
-            "criticsRating": 88,
+            "criticsRating": null,
             "criticsVotes": 60,
             "audienceRating": null,
             "audienceVotes": null
@@ -111,8 +111,8 @@
           "imdb": {
             "id": "tt37363222",
             "url": "https://www.imdb.com/title/tt37363222/",
-            "rating": 7.7,
-            "votes": 502
+            "rating": 7.6,
+            "votes": 511
           },
           "filmweb": {
             "id": "10112663",
@@ -130,7 +130,7 @@
             "directors": [
               "Simon Stone"
             ],
-            "criticsRating": 88,
+            "criticsRating": null,
             "criticsVotes": 60,
             "audienceRating": null,
             "audienceVotes": null
@@ -177,7 +177,7 @@
             "id": "tt31514146",
             "url": "https://www.imdb.com/title/tt31514146/",
             "rating": 8.3,
-            "votes": 72312
+            "votes": 72618
           },
           "filmweb": {
             "id": "10088817",
@@ -187,7 +187,7 @@
               "Dramat"
             ],
             "rating": 8,
-            "votes": 5010
+            "votes": 5026
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/i_swear_2025",
@@ -196,10 +196,10 @@
             "directors": [
               "Kirk Jones"
             ],
-            "criticsRating": 96,
+            "criticsRating": null,
             "criticsVotes": 138,
-            "audienceRating": 98,
-            "audienceVotes": 90
+            "audienceRating": null,
+            "audienceVotes": null
           }
         },
         "longDescription": "John Davidson (Ellis Watson), nastolatek mieszkający w Galashiels w Szkocji, marzy o graniu w piłkę nożną na profesjonalnym poziomie. Sęk w tym, że jego ciało zaczyna wymykać się spod kontroli. Pojawiają się tiki, gwałtowne ruchy i nieprzewidywalne okrzyki, w tym także wulgaryzmy (nawiązanie do nich zawarte jest już w błyskotliwie dwuznacznym tytule filmu, odnoszącym się również do przysięgania, co – chcąc zachować tę ambiwalencję – można by przetłumaczyć jako KLNĘ SIĘ NA WSZYSTKO). Z bramkarskiej kariery nici. Okazuje się, że chłopak ma zespół Tourette’a. Diagnoza niewiele zmienia, ponieważ w świecie, który nie ma zielonego pojęcia o syndromie, młodzian uchodzi za nieposłusznego i agresywnego. W szkole karany jest przez nauczycieli i wyszydzany przez rówieśników. W domu wcale nie jest lepiej. Rodzina rozpada się na jego oczach. Kilka lat później John (grany teraz przez Roberta Aramayo, uhonorowanego za tę rolę nagrodą BAFTA dla najlepszego aktora) wciąż nie potrafi znaleźć dla siebie miejsca. Przełomem okazuje się spotkanie z Dottie (Maxine Peake), matką dawnego kolegi, która pomaga mu uwierzyć w siebie i w to, że życie na jego własnych zasadach jest możliwe. I SWEAR (2025) w reżyserii Kirka Jonesa, wielki hit na Wyspach, to oparta na prawdziwej historii odznaczonego przez królową Elżbietę II Orderem Imperium Brytyjskiego Johna Davidsona opowieść, w której elementy dramatyczne spod znaku kina społecznie zaangażowanego łączą się z wywrotową wręcz komedią, co zmusza widza do nieustannego balansowania na granicy pomiędzy powagą a śmiechem. Zachowanie głównego bohatera z jednej strony skłania do refleksji nad zjawiskiem nietolerancji, a z drugiej – jest źródłem komizmu. I SWEAR przekształca dość klasyczną biografię w poruszający przekaz o empatii i godności.\n\nEN\n\nJohn Davidson (Ellis Watson), a teenager growing up in Galashiels in Scotland, dreams of becoming a professional footballer. The problem is that his body is starting to slip out of his control. Tics, sudden movements and unpredictable outbursts appear, including swearing – something already hinted at in the film’s cleverly ambiguous title, which can refer both to profanity and to making a solemn promise. His hopes of a career in goal quickly fell apart. John is diagnosed with Tourette syndrome.\n\nThe diagnosis changes little, because in a world that has no idea what the syndrome is, the young man is seen as disobedient and aggressive. At school, teachers punish him and classmates mock him. Things are no better at home. His family is falling apart before his very eyes. A few years later, John (now played by Robert Aramayo, who won a BAFTA for Best Actor for this role) still cannot find his place in the world. A turning point comes when he meets Dottie (Maxine Peake), the mother of an old friend, who helps him believe in himself and in the possibility of living on his own terms.\n\nDirected by Kirk Jones, I SWEAR (2025) became a major hit in the UK. Based on the true story of John Davidson (awarded an OBE by Queen Elizabeth II), the film combines the emotional weight of socially engaged drama with an irreverent streak of comedy, constantly keeping the audience poised between seriousness and laughter.\n\nJohn’s behaviour becomes both a source of humour and a way of confronting prejudice and intolerance. In doing so, I SWEAR turns a fairly traditional biographical story into a moving argument for empathy, dignity and the right to be understood.",
@@ -242,7 +242,7 @@
             "id": "tt38991615",
             "url": "https://www.imdb.com/title/tt38991615/",
             "rating": 7.2,
-            "votes": 235
+            "votes": 236
           },
           "filmweb": {
             "id": "10121238",
@@ -260,7 +260,7 @@
             "directors": [
               "Clio Barnard"
             ],
-            "criticsRating": 91,
+            "criticsRating": null,
             "criticsVotes": 22,
             "audienceRating": null,
             "audienceVotes": null
@@ -308,7 +308,7 @@
             "id": "tt0365748",
             "url": "https://www.imdb.com/title/tt0365748/",
             "rating": 7.8,
-            "votes": 647646
+            "votes": 647790
           },
           "filmweb": {
             "id": "121881",
@@ -318,7 +318,7 @@
               "Horror"
             ],
             "rating": 6.6,
-            "votes": 52122
+            "votes": 52125
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/shaun_of_the_dead",
@@ -327,10 +327,10 @@
             "directors": [
               "Edgar Wright"
             ],
-            "criticsRating": 92,
+            "criticsRating": null,
             "criticsVotes": 216,
-            "audienceRating": 93,
-            "audienceVotes": 107659
+            "audienceRating": null,
+            "audienceVotes": null
           }
         },
         "longDescription": "Shaun ma trzydzieści lat, nudną pracę w sklepie z elektroniką, współlokatora leżącego całymi dniami na kanapie i dziewczynę, która ma serdecznie dość tego, że każdy wieczór kończą w tym samym pubie. Gdy Londyn ogarnia epidemia zmieniająca ludzi w żywe trupy, Shaun opracowuje plan: zabrać mamę i dziewczynę, pojechać do pubu, napić się piwa i przeczekać. Ten plan zdecydowanie nie jest dobry. Ale dzięki niemu powstała jedna z najlepszych komedii w historii brytyjskiego kina.\n\nWYSYP ŻYWYCH TRUPÓW dał światu zarówno duet Simon Pegg i Nick Frost, jak i Edgara Wrighta, reżysera, który w kolejnych swoich filmach przesuwał granice wizualnych gagów, tworząc z nich coś na kształt koncertu, w którym grają nie tylko zabawne dialogi, a też przemyślane co do ułamka sekundy cięcia montażowe czy precyzyjnie zaprojektowane ujęcia. Dzięki temu w WYSYPIE ŻYWYCH TRUPÓW z wielką radością obserwujemy narodziny stylu, który później Wright rozwinie w takich arcydziełach komedii jak HOT FUZZ, SCOTT PILGRIM KONTRA ŚWIAT czy BABY DRIVER.\n\nNajlepszą recenzję wystawił jednak filmowi sam George A. Romero, który obejrzał WYSYP ŻYWYCH TRUPÓW samotnie w kinie na Florydzie, a potem zaprosił Wrighta i Pegga do ZIEMI ŻYWYCH TRUPÓW – obsadzając ich, rzecz jasna, w rolach zombie. Trudno o czytelniejsze błogosławieństwo, bo film Wrighta nie jest parodią klasyków Romera, tylko listem miłosnym napisanym przez kogoś, kto zna je na pamięć: pełnym szacunku, ale też świadomym, że w brytyjskiej wersji apokalipsy najważniejsze jest, żeby nikt nie rozlał piwa.\n\nEN\n\nShaun is thirty, stuck in a dead-end job at an electronics shop, living with a flatmate who spends his days sprawled on the sofa, and dating a woman who is thoroughly fed up with every evening ending in the same pub. When an outbreak sweeps through London, turning people into the living dead, Shaun comes up with a plan: pick up his mum and girlfriend, head to the pub, have a pint and wait for it all to blow over. It is, quite clearly, a terrible plan. But it gave us one of the finest comedies in British cinema.\n\nSHAUN OF THE DEAD introduced the world not only to the double act of Simon Pegg and Nick Frost, but also to Edgar Wright, a director who would go on to push the visual gag to its limits, turning comedy into something almost musical: not just funny dialogue, but edits timed to the split second and shots designed with extraordinary precision. That makes SHAUN OF THE DEAD a particular joy to watch as the birth of a style Wright would later develop in comedy classics such as HOT FUZZ, SCOTT PILGRIM VS. THE WORLD and BABY DRIVER.\n\nThe best review, however, came from George A. Romero himself. He watched SHAUN OF THE DEAD alone in a cinema in Florida, then invited Wright and Pegg to appear in LAND OF THE DEAD – as zombies, naturally. It is hard to imagine a clearer blessing, because Wright’s film is not a parody of Romero’s classics but a love letter written by someone who knows them by heart: reverent, affectionate and fully aware that, in a British apocalypse, the most important thing is making sure nobody spills their pint.",

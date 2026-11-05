@@ -1,12 +1,12 @@
 {
   "schemaVersion": 1,
   "date": "2026-11-11",
-  "updatedAt": "2026-11-04T17:59:47.065Z",
+  "updatedAt": "2026-11-05T18:00:26.232Z",
   "source": "https://www.kinomuza.pl/repertoire/day/",
   "day": {
-    "id": "07",
+    "id": "06",
     "date": "11.11",
-    "now": "2026-11-04 18:57:50",
+    "now": "2026-11-05 18:58:40",
     "info": [],
     "repertoire": [
       {
@@ -49,7 +49,7 @@
             "id": "tt36841161",
             "url": "https://www.imdb.com/title/tt36841161/",
             "rating": 7.1,
-            "votes": 3272
+            "votes": 3335
           },
           "filmweb": {
             "id": "10101144",
@@ -59,7 +59,7 @@
               "Familijny"
             ],
             "rating": 6.9,
-            "votes": 884
+            "votes": 900
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/shaun_the_sheep_the_beast_of_mossy_bottom",
@@ -70,7 +70,7 @@
               "Matthew Walker"
             ],
             "criticsRating": null,
-            "criticsVotes": 88,
+            "criticsVotes": 89,
             "audienceRating": null,
             "audienceVotes": null
           }
@@ -110,24 +110,24 @@
         "description": "Rodzina Thompsonów przeprowadza się z Londynu na wieś, gdzie dzieci odkrywają drzewo kryjące w koronie przejście do coraz bardziej niezwykłych krain. Współczesna, gwiazdorska ekranizacja klasyki Enid Blyton to pełna humoru brytyjska baśń o dziecięcej ciekawości, rodzinnej bliskości i mocy wyobraźni.",
         "shortDescription": "Rodzina Thompsonów przeprowadza się z Londynu na wieś, gdzie dzieci odkrywają drzewo kryjące w koronie przejście do coraz bardziej niezwykłych krain. Współczesna, gwiazdorska ekranizacja klasyki Enid Blyton to pełna humoru brytyjska baśń o dziecięcej ciekawości, rodzinnej bliskości i mocy wyobraźni.",
         "genres": [
+          "Familijny",
           "Fantasy",
-          "Przygodowy",
-          "Familijny"
+          "Przygodowy"
         ],
         "external": {
           "imdb": {
             "id": "tt7734244",
             "url": "https://www.imdb.com/title/tt7734244/",
             "rating": 6.2,
-            "votes": 6788
+            "votes": 6809
           },
           "filmweb": {
             "id": "10104409",
             "url": "https://www.filmweb.pl/film/Drzewo+magii-2026-10104409",
             "genres": [
+              "Familijny",
               "Fantasy",
-              "Przygodowy",
-              "Familijny"
+              "Przygodowy"
             ],
             "rating": 5.8,
             "votes": 765
@@ -253,7 +253,7 @@
             "id": "tt27541205",
             "url": "https://www.imdb.com/title/tt27541205/",
             "rating": 7.6,
-            "votes": 932
+            "votes": 953
           },
           "filmweb": {
             "id": "10034624",
@@ -272,7 +272,7 @@
               "Lance Hammer"
             ],
             "criticsRating": null,
-            "criticsVotes": 46,
+            "criticsVotes": 47,
             "audienceRating": null,
             "audienceVotes": null
           }
@@ -385,7 +385,7 @@
             "id": "tt34819091",
             "url": "https://www.imdb.com/title/tt34819091/",
             "rating": 6.4,
-            "votes": 11155
+            "votes": 11161
           },
           "filmweb": {
             "id": "10090000",
@@ -395,7 +395,7 @@
               "Musical"
             ],
             "rating": 6,
-            "votes": 2470
+            "votes": 2474
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/the_testament_of_ann_lee",
@@ -451,7 +451,7 @@
             "id": "tt27766440",
             "url": "https://www.imdb.com/title/tt27766440/",
             "rating": 6.6,
-            "votes": 7963
+            "votes": 7966
           },
           "filmweb": {
             "id": "10058778",
@@ -461,7 +461,7 @@
               "Psychologiczny"
             ],
             "rating": 6.8,
-            "votes": 6274
+            "votes": 6277
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/the_salt_path",
@@ -518,7 +518,7 @@
             "id": "tt0166175",
             "url": "https://www.imdb.com/title/tt0166175/",
             "rating": 6.9,
-            "votes": 19834
+            "votes": 19836
           },
           "filmweb": {
             "id": "1343",
@@ -584,7 +584,7 @@
             "id": "tt0102798",
             "url": "https://www.imdb.com/title/tt0102798/",
             "rating": 6.9,
-            "votes": 225133
+            "votes": 225143
           },
           "filmweb": {
             "id": "9183",
@@ -593,7 +593,7 @@
               "Przygodowy"
             ],
             "rating": 7.2,
-            "votes": 143515
+            "votes": 143517
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/robin_hood_prince_of_thieves",
@@ -648,7 +648,7 @@
             "id": "tt10329560",
             "url": "https://www.imdb.com/title/tt10329560/",
             "rating": 6.6,
-            "votes": 2913
+            "votes": 2916
           },
           "filmweb": {
             "id": "10048300",
@@ -657,7 +657,7 @@
               "Dramat"
             ],
             "rating": 5.9,
-            "votes": 194
+            "votes": 196
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/h_is_for_hawk",
@@ -712,7 +712,7 @@
             "id": "tt35521922",
             "url": "https://www.imdb.com/title/tt35521922/",
             "rating": 6.1,
-            "votes": 38926
+            "votes": 38953
           },
           "filmweb": {
             "id": "10064809",
@@ -721,7 +721,7 @@
               "Thriller"
             ],
             "rating": 7.2,
-            "votes": 15681
+            "votes": 15703
           },
           "rottenTomatoes": null
         },
@@ -830,7 +830,7 @@
             "id": "tt34966562",
             "url": "https://www.imdb.com/title/tt34966562/",
             "rating": 6.8,
-            "votes": 7012
+            "votes": 7023
           },
           "filmweb": {
             "id": "10093695",
@@ -896,7 +896,7 @@
             "id": "tt13609648",
             "url": "https://www.imdb.com/title/tt13609648/",
             "rating": 7.2,
-            "votes": 9206
+            "votes": 9582
           },
           "filmweb": {
             "id": "10087170",
@@ -906,7 +906,7 @@
               "Melodramat"
             ],
             "rating": 7.2,
-            "votes": 3119
+            "votes": 3192
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/sense_and_sensibility_2026",
@@ -916,7 +916,7 @@
               "Georgia Oakley"
             ],
             "criticsRating": null,
-            "criticsVotes": 138,
+            "criticsVotes": 139,
             "audienceRating": null,
             "audienceVotes": null
           }
@@ -962,7 +962,7 @@
             "id": "tt9362736",
             "url": "https://www.imdb.com/title/tt9362736/",
             "rating": 6,
-            "votes": 50928
+            "votes": 50963
           },
           "filmweb": {
             "id": "10023025",
@@ -972,7 +972,7 @@
               "Dramat"
             ],
             "rating": 5.8,
-            "votes": 12702
+            "votes": 12711
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/die_my_love_2025",
@@ -1028,7 +1028,7 @@
             "id": "tt0051554",
             "url": "https://www.imdb.com/title/tt0051554/",
             "rating": 7.2,
-            "votes": 30739
+            "votes": 30744
           },
           "filmweb": {
             "id": "35022",
@@ -1081,7 +1081,7 @@
             "id": "tt36980182",
             "url": "https://www.imdb.com/title/tt36980182/",
             "rating": 7,
-            "votes": 2721
+            "votes": 2743
           },
           "filmweb": {
             "id": "10093682",
@@ -1090,7 +1090,7 @@
               "Komedia"
             ],
             "rating": 6.5,
-            "votes": 89
+            "votes": 90
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/the_incomer",
@@ -1146,7 +1146,7 @@
             "id": "tt35674521",
             "url": "https://www.imdb.com/title/tt35674521/",
             "rating": 6.2,
-            "votes": 4025
+            "votes": 4037
           },
           "filmweb": {
             "id": "10072340",
@@ -1156,7 +1156,7 @@
               "Sci-Fi"
             ],
             "rating": 6.9,
-            "votes": 686
+            "votes": 687
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/rose_of_nevada",
@@ -1211,7 +1211,7 @@
             "id": "tt32141377",
             "url": "https://www.imdb.com/title/tt32141377/",
             "rating": 7.2,
-            "votes": 134578
+            "votes": 134714
           },
           "filmweb": {
             "id": "10068169",
@@ -1220,7 +1220,7 @@
               "Horror"
             ],
             "rating": 6.8,
-            "votes": 21120
+            "votes": 21141
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/28_years_later_the_bone_temple",
@@ -1275,7 +1275,7 @@
             "id": "tt0093177",
             "url": "https://www.imdb.com/title/tt0093177/",
             "rating": 6.9,
-            "votes": 158649
+            "votes": 158689
           },
           "filmweb": {
             "id": "31326",
@@ -1284,7 +1284,7 @@
               "Horror"
             ],
             "rating": 6.8,
-            "votes": 26618
+            "votes": 26631
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/hellraiser",
@@ -1339,7 +1339,7 @@
             "id": "tt32321317",
             "url": "https://www.imdb.com/title/tt32321317/",
             "rating": 6.9,
-            "votes": 25556
+            "votes": 25582
           },
           "filmweb": {
             "id": "10053146",
@@ -1348,7 +1348,7 @@
               "Melodramat"
             ],
             "rating": 6.5,
-            "votes": 6332
+            "votes": 6341
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/pillion",

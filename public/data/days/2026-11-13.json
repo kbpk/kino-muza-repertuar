@@ -1,12 +1,12 @@
 {
   "schemaVersion": 1,
   "date": "2026-11-13",
-  "updatedAt": "2026-11-04T17:59:47.065Z",
+  "updatedAt": "2026-11-05T18:00:26.232Z",
   "source": "https://www.kinomuza.pl/repertoire/day/",
   "day": {
-    "id": "09",
+    "id": "08",
     "date": "13.11",
-    "now": "2026-11-04 18:57:52",
+    "now": "2026-11-05 18:58:41",
     "info": [],
     "repertoire": [
       {
@@ -40,23 +40,23 @@
         "shortDescription": "Francja okresu Ludwika XIV. Straumatyzowana projektantka ogrodów Sabine De Barra (Kate Winslet) tworzy fontannę w Wersalu. Dworskie intrygi zmuszają ją do konfrontacji z przeszłością i męską dominacją. Alan Rickman urzeka po obu stronach kamery, podobnie jak zjawiskowe plenery i kostiumy z epoki.",
         "genres": [
           "Dramat",
-          "Komedia",
-          "Romans"
+          "Romans",
+          "Komedia"
         ],
         "external": {
           "imdb": {
             "id": "tt2639254",
             "url": "https://www.imdb.com/title/tt2639254/",
             "rating": 6.5,
-            "votes": 27161
+            "votes": 27164
           },
           "filmweb": {
             "id": "680371",
             "url": "https://www.filmweb.pl/film/Odrobina+chaosu-2014-680371",
             "genres": [
               "Dramat",
-              "Komedia",
-              "Romans"
+              "Romans",
+              "Komedia"
             ],
             "rating": 6.4,
             "votes": 8482
@@ -116,7 +116,7 @@
             "id": "tt34798706",
             "url": "https://www.imdb.com/title/tt34798706/",
             "rating": 6.9,
-            "votes": 208
+            "votes": 209
           },
           "filmweb": {
             "id": "10109750",
@@ -184,7 +184,7 @@
             "id": "tt14905854",
             "url": "https://www.imdb.com/title/tt14905854/",
             "rating": 7.8,
-            "votes": 141195
+            "votes": 141275
           },
           "filmweb": {
             "id": "10035555",
@@ -195,7 +195,7 @@
               "Kostiumowy"
             ],
             "rating": 7.6,
-            "votes": 30485
+            "votes": 30497
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/hamnet",
@@ -251,7 +251,7 @@
             "id": "tt1921149",
             "url": "https://www.imdb.com/title/tt1921149/",
             "rating": 7.1,
-            "votes": 23879
+            "votes": 23881
           },
           "filmweb": {
             "id": "693053",
@@ -317,7 +317,7 @@
             "id": "tt34819091",
             "url": "https://www.imdb.com/title/tt34819091/",
             "rating": 6.4,
-            "votes": 11155
+            "votes": 11161
           },
           "filmweb": {
             "id": "10090000",
@@ -327,7 +327,7 @@
               "Musical"
             ],
             "rating": 6,
-            "votes": 2470
+            "votes": 2474
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/the_testament_of_ann_lee",
@@ -383,7 +383,7 @@
             "id": "tt9362736",
             "url": "https://www.imdb.com/title/tt9362736/",
             "rating": 6,
-            "votes": 50928
+            "votes": 50963
           },
           "filmweb": {
             "id": "10023025",
@@ -393,7 +393,7 @@
               "Dramat"
             ],
             "rating": 5.8,
-            "votes": 12702
+            "votes": 12711
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/die_my_love_2025",
@@ -512,7 +512,7 @@
             "id": "tt0041546",
             "url": "https://www.imdb.com/title/tt0041546/",
             "rating": 8,
-            "votes": 42684
+            "votes": 42688
           },
           "filmweb": {
             "id": "31660",
@@ -615,7 +615,7 @@
             "id": "tt0097108",
             "url": "https://www.imdb.com/title/tt0097108/",
             "rating": 7.5,
-            "votes": 45727
+            "votes": 45730
           },
           "filmweb": {
             "id": "6923",
@@ -689,7 +689,7 @@
               "Dramat historyczny"
             ],
             "rating": 6.5,
-            "votes": 504
+            "votes": 505
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/burn",
@@ -783,7 +783,7 @@
             "id": "tt27766440",
             "url": "https://www.imdb.com/title/tt27766440/",
             "rating": 6.6,
-            "votes": 7963
+            "votes": 7966
           },
           "filmweb": {
             "id": "10058778",
@@ -793,7 +793,7 @@
               "Psychologiczny"
             ],
             "rating": 6.8,
-            "votes": 6274
+            "votes": 6277
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/the_salt_path",
@@ -848,7 +848,7 @@
             "id": "tt0274558",
             "url": "https://www.imdb.com/title/tt0274558/",
             "rating": 7.5,
-            "votes": 148434
+            "votes": 148441
           },
           "filmweb": {
             "id": "32380",
@@ -901,7 +901,7 @@
             "id": "tt10329560",
             "url": "https://www.imdb.com/title/tt10329560/",
             "rating": 6.6,
-            "votes": 2913
+            "votes": 2916
           },
           "filmweb": {
             "id": "10048300",
@@ -910,7 +910,7 @@
               "Dramat"
             ],
             "rating": 5.9,
-            "votes": 194
+            "votes": 196
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/h_is_for_hawk",
@@ -966,7 +966,7 @@
             "id": "tt13609648",
             "url": "https://www.imdb.com/title/tt13609648/",
             "rating": 7.2,
-            "votes": 9206
+            "votes": 9582
           },
           "filmweb": {
             "id": "10087170",
@@ -976,7 +976,7 @@
               "Melodramat"
             ],
             "rating": 7.2,
-            "votes": 3119
+            "votes": 3192
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/sense_and_sensibility_2026",
@@ -986,7 +986,7 @@
               "Georgia Oakley"
             ],
             "criticsRating": null,
-            "criticsVotes": 138,
+            "criticsVotes": 139,
             "audienceRating": null,
             "audienceVotes": null
           }
@@ -1031,7 +1031,7 @@
             "id": "tt32321317",
             "url": "https://www.imdb.com/title/tt32321317/",
             "rating": 6.9,
-            "votes": 25556
+            "votes": 25582
           },
           "filmweb": {
             "id": "10053146",
@@ -1040,7 +1040,7 @@
               "Melodramat"
             ],
             "rating": 6.5,
-            "votes": 6332
+            "votes": 6341
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/pillion",
@@ -1149,7 +1149,7 @@
             "id": "tt36983905",
             "url": "https://www.imdb.com/title/tt36983905/",
             "rating": 6.2,
-            "votes": 13859
+            "votes": 13973
           },
           "filmweb": {
             "id": "10122362",
@@ -1159,7 +1159,7 @@
               "Akcja"
             ],
             "rating": 5.6,
-            "votes": 610
+            "votes": 614
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/the_uprising_2026",
@@ -1214,7 +1214,7 @@
             "id": "tt35521922",
             "url": "https://www.imdb.com/title/tt35521922/",
             "rating": 6.1,
-            "votes": 38926
+            "votes": 38953
           },
           "filmweb": {
             "id": "10064809",
@@ -1223,7 +1223,7 @@
               "Thriller"
             ],
             "rating": 7.2,
-            "votes": 15681
+            "votes": 15703
           },
           "rottenTomatoes": null
         },
@@ -1267,7 +1267,7 @@
             "id": "tt0091142",
             "url": "https://www.imdb.com/title/tt0091142/",
             "rating": 5.7,
-            "votes": 10242
+            "votes": 10244
           },
           "filmweb": {
             "id": "5908",
@@ -1276,7 +1276,7 @@
               "Horror"
             ],
             "rating": 6.4,
-            "votes": 2610
+            "votes": 2611
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/gothic",
@@ -1332,7 +1332,7 @@
             "id": "tt0435625",
             "url": "https://www.imdb.com/title/tt0435625/",
             "rating": 7.2,
-            "votes": 279651
+            "votes": 279680
           },
           "filmweb": {
             "id": "214803",
@@ -1341,7 +1341,7 @@
               "Horror"
             ],
             "rating": 6.3,
-            "votes": 80335
+            "votes": 80340
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/descent",

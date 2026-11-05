@@ -1,12 +1,12 @@
 {
   "schemaVersion": 1,
   "date": "2026-11-24",
-  "updatedAt": "2026-11-04T17:59:47.065Z",
+  "updatedAt": "2026-11-05T18:00:26.232Z",
   "source": "https://www.kinomuza.pl/repertoire/day/",
   "day": {
-    "id": "20",
+    "id": "19",
     "date": "24.11",
-    "now": "2026-11-04 18:57:57",
+    "now": "2026-11-05 18:58:48",
     "info": [],
     "repertoire": [
       {
@@ -60,7 +60,7 @@
               "Psychologiczny"
             ],
             "rating": 7.8,
-            "votes": 643019
+            "votes": 643038
           },
           "rottenTomatoes": null
         },

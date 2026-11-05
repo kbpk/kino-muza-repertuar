@@ -1,12 +1,12 @@
 {
   "schemaVersion": 1,
   "date": "2026-11-12",
-  "updatedAt": "2026-11-04T17:59:47.065Z",
+  "updatedAt": "2026-11-05T18:00:26.232Z",
   "source": "https://www.kinomuza.pl/repertoire/day/",
   "day": {
-    "id": "08",
+    "id": "07",
     "date": "12.11",
-    "now": "2026-11-04 18:57:49",
+    "now": "2026-11-05 18:58:38",
     "info": [],
     "repertoire": [
       {
@@ -103,24 +103,24 @@
         "description": "Chcąc uporać się z przeszłością, ekscentryczny samotnik przeznacza ogromną wygraną na loterii, by reaktywować swój ulubiony duet muzyczny. Jego członków, którzy byli niegdyś parą i nie widzieli się od lat, zaprasza na odciętą od świata walijską wysepkę i zleca im zagranie kameralnego koncertu.",
         "shortDescription": "Chcąc uporać się z przeszłością, ekscentryczny samotnik przeznacza ogromną wygraną na loterii, by reaktywować swój ulubiony duet muzyczny. Jego członków, którzy byli niegdyś parą i nie widzieli się od lat, zaprasza na odciętą od świata walijską wysepkę i zleca im zagranie kameralnego koncertu.",
         "genres": [
+          "Dramat",
           "Komedia",
-          "Muzyczny",
-          "Dramat"
+          "Muzyczny"
         ],
         "external": {
           "imdb": {
             "id": "tt27674982",
             "url": "https://www.imdb.com/title/tt27674982/",
             "rating": 7.4,
-            "votes": 26515
+            "votes": 26523
           },
           "filmweb": {
             "id": "10070057",
             "url": "https://www.filmweb.pl/film/The+Ballad+of+Wallis+Island-2025-10070057",
             "genres": [
+              "Dramat",
               "Komedia",
-              "Muzyczny",
-              "Dramat"
+              "Muzyczny"
             ],
             "rating": 6.8,
             "votes": 999
@@ -176,7 +176,7 @@
             "id": "tt0252444",
             "url": "https://www.imdb.com/title/tt0252444/",
             "rating": 7.4,
-            "votes": 31918
+            "votes": 31917
           },
           "filmweb": null,
           "rottenTomatoes": null
@@ -274,7 +274,7 @@
             "id": "tt32321317",
             "url": "https://www.imdb.com/title/tt32321317/",
             "rating": 6.9,
-            "votes": 25556
+            "votes": 25582
           },
           "filmweb": {
             "id": "10053146",
@@ -283,7 +283,7 @@
               "Melodramat"
             ],
             "rating": 6.5,
-            "votes": 6332
+            "votes": 6341
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/pillion",
@@ -339,7 +339,7 @@
             "id": "tt27766440",
             "url": "https://www.imdb.com/title/tt27766440/",
             "rating": 6.6,
-            "votes": 7963
+            "votes": 7966
           },
           "filmweb": {
             "id": "10058778",
@@ -349,7 +349,7 @@
               "Psychologiczny"
             ],
             "rating": 6.8,
-            "votes": 6274
+            "votes": 6277
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/the_salt_path",
@@ -397,8 +397,8 @@
         "description": "Seks, skandal i zbrodnia w XVIII-wiecznej Anglii. Znudzona swoim życiem kobieta zaczyna szukać mocniejszych wrażeń: przebiera się za rozbójnika i napada na podróżnych przemierzających kraj dyliżansami. Najpopularniejszy film 1945 roku zapoczątkował serię kasowych sukcesów studia Gainsborough, dając zmęczonej wojną publiczności upragnioną odskocznię od codzienności.",
         "shortDescription": "Seks, skandal i zbrodnia w XVIII-wiecznej Anglii. Znudzona swoim życiem kobieta zaczyna szukać mocniejszych wrażeń: przebiera się za rozbójnika i napada na podróżnych przemierzających kraj dyliżansami. Najpopularniejszy film 1945 roku zapoczątkował serię kasowych sukcesów studia Gainsborough, dając zmęczonej wojną publiczności upragnioną odskocznię od codzienności.",
         "genres": [
-          "Dramat",
-          "Przygodowy"
+          "Przygodowy",
+          "Dramat"
         ],
         "external": {
           "imdb": {
@@ -411,8 +411,8 @@
             "id": "109176",
             "url": "https://www.filmweb.pl/film/Niedobra+pani-1945-109176",
             "genres": [
-              "Dramat",
-              "Przygodowy"
+              "Przygodowy",
+              "Dramat"
             ],
             "rating": 6.5,
             "votes": 21
@@ -459,7 +459,7 @@
             "id": "tt38991615",
             "url": "https://www.imdb.com/title/tt38991615/",
             "rating": 7.2,
-            "votes": 236
+            "votes": 238
           },
           "filmweb": {
             "id": "10121238",
@@ -523,7 +523,7 @@
             "id": "tt0976051",
             "url": "https://www.imdb.com/title/tt0976051/",
             "rating": 7.6,
-            "votes": 276271
+            "votes": 276278
           },
           "filmweb": {
             "id": "439584",
@@ -532,7 +532,7 @@
               "Melodramat"
             ],
             "rating": 7.8,
-            "votes": 211873
+            "votes": 211877
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/reader",
@@ -588,7 +588,7 @@
             "id": "tt0114388",
             "url": "https://www.imdb.com/title/tt0114388/",
             "rating": 7.7,
-            "votes": 139362
+            "votes": 139393
           },
           "filmweb": {
             "id": "166",
@@ -598,7 +598,7 @@
               "Kostiumowy"
             ],
             "rating": 7.3,
-            "votes": 62978
+            "votes": 62979
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/1068832-sense_and_sensibility",
@@ -654,7 +654,7 @@
             "id": "tt34819091",
             "url": "https://www.imdb.com/title/tt34819091/",
             "rating": 6.4,
-            "votes": 11155
+            "votes": 11161
           },
           "filmweb": {
             "id": "10090000",
@@ -664,7 +664,7 @@
               "Musical"
             ],
             "rating": 6,
-            "votes": 2470
+            "votes": 2474
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/the_testament_of_ann_lee",
@@ -721,7 +721,7 @@
             "id": "tt14905854",
             "url": "https://www.imdb.com/title/tt14905854/",
             "rating": 7.8,
-            "votes": 141195
+            "votes": 141275
           },
           "filmweb": {
             "id": "10035555",
@@ -732,7 +732,7 @@
               "Kostiumowy"
             ],
             "rating": 7.6,
-            "votes": 30485
+            "votes": 30497
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/hamnet",
@@ -852,7 +852,7 @@
             "id": "tt0314331",
             "url": "https://www.imdb.com/title/tt0314331/",
             "rating": 7.5,
-            "votes": 586164
+            "votes": 586213
           },
           "filmweb": {
             "id": "99390",
@@ -862,7 +862,7 @@
               "Świąteczny"
             ],
             "rating": 7.5,
-            "votes": 271330
+            "votes": 271336
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/love_actually",
@@ -918,7 +918,7 @@
             "id": "tt31514146",
             "url": "https://www.imdb.com/title/tt31514146/",
             "rating": 8.3,
-            "votes": 72618
+            "votes": 72737
           },
           "filmweb": {
             "id": "10088817",
@@ -928,7 +928,7 @@
               "Dramat"
             ],
             "rating": 8,
-            "votes": 5026
+            "votes": 5033
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/i_swear_2025",
@@ -994,7 +994,7 @@
               "Dramat"
             ],
             "rating": 3,
-            "votes": 1
+            "votes": 2
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/mission",
@@ -1113,7 +1113,7 @@
             "id": "tt32141377",
             "url": "https://www.imdb.com/title/tt32141377/",
             "rating": 7.2,
-            "votes": 134578
+            "votes": 134714
           },
           "filmweb": {
             "id": "10068169",
@@ -1122,7 +1122,7 @@
               "Horror"
             ],
             "rating": 6.8,
-            "votes": 21120
+            "votes": 21141
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/28_years_later_the_bone_temple",
@@ -1170,22 +1170,22 @@
         "description": "Danny Bolye opowiada historię niczym z pierwszych stron gazet. W roku 1969 Rupert Murdoch (Guy Pearce) wykupił tabloid „The Sun” i zatrudnił jako naczelnego Larry’ego Lamba (Jack O&#8217;Connell). W efekcie powstało medialne imperium, które zmieniło na zawsze brytyjskie dziennikarstwo i społeczeństwo.",
         "shortDescription": "Danny Bolye opowiada historię niczym z pierwszych stron gazet. W roku 1969 Rupert Murdoch (Guy Pearce) wykupił tabloid „The Sun” i zatrudnił jako naczelnego Larry’ego Lamba (Jack O&#8217;Connell). W efekcie powstało medialne imperium, które zmieniło na zawsze brytyjskie dziennikarstwo i społeczeństwo.",
         "genres": [
-          "Dramat",
-          "Biograficzny"
+          "Biograficzny",
+          "Dramat"
         ],
         "external": {
           "imdb": {
             "id": "tt37967547",
             "url": "https://www.imdb.com/title/tt37967547/",
             "rating": 6.9,
-            "votes": 574
+            "votes": 577
           },
           "filmweb": {
             "id": "10100972",
             "url": "https://www.filmweb.pl/film/Tabloid-2026-10100972",
             "genres": [
-              "Dramat",
-              "Biograficzny"
+              "Biograficzny",
+              "Dramat"
             ],
             "rating": 6.5,
             "votes": 134
@@ -1243,7 +1243,7 @@
             "id": "tt35521922",
             "url": "https://www.imdb.com/title/tt35521922/",
             "rating": 6.1,
-            "votes": 38926
+            "votes": 38953
           },
           "filmweb": {
             "id": "10064809",
@@ -1252,7 +1252,7 @@
               "Thriller"
             ],
             "rating": 7.2,
-            "votes": 15681
+            "votes": 15703
           },
           "rottenTomatoes": null
         },
@@ -1296,7 +1296,7 @@
             "id": "tt10329560",
             "url": "https://www.imdb.com/title/tt10329560/",
             "rating": 6.6,
-            "votes": 2913
+            "votes": 2916
           },
           "filmweb": {
             "id": "10048300",
@@ -1305,7 +1305,7 @@
               "Dramat"
             ],
             "rating": 5.9,
-            "votes": 194
+            "votes": 196
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/h_is_for_hawk",
@@ -1410,7 +1410,7 @@
             "id": "tt0063285",
             "url": "https://www.imdb.com/title/tt0063285/",
             "rating": 6.7,
-            "votes": 14217
+            "votes": 14219
           },
           "filmweb": {
             "id": "119896",

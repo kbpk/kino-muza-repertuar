@@ -1,12 +1,12 @@
 {
   "schemaVersion": 1,
   "date": "2026-11-15",
-  "updatedAt": "2026-11-04T17:59:47.065Z",
+  "updatedAt": "2026-11-05T18:00:26.232Z",
   "source": "https://www.kinomuza.pl/repertoire/day/",
   "day": {
-    "id": "11",
+    "id": "10",
     "date": "15.11",
-    "now": "2026-11-04 18:57:54",
+    "now": "2026-11-05 18:58:45",
     "info": [],
     "repertoire": [
       {
@@ -48,7 +48,7 @@
             "id": "tt36841161",
             "url": "https://www.imdb.com/title/tt36841161/",
             "rating": 7.1,
-            "votes": 3272
+            "votes": 3335
           },
           "filmweb": {
             "id": "10101144",
@@ -58,7 +58,7 @@
               "Familijny"
             ],
             "rating": 6.9,
-            "votes": 884
+            "votes": 900
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/shaun_the_sheep_the_beast_of_mossy_bottom",
@@ -69,7 +69,7 @@
               "Matthew Walker"
             ],
             "criticsRating": null,
-            "criticsVotes": 88,
+            "criticsVotes": 89,
             "audienceRating": null,
             "audienceVotes": null
           }
@@ -150,26 +150,26 @@
         "shortDescription": "Po dwóch dekadach ponownie otwieramy filmową starą szafę. Czworo rodzeństwa trafia do zaśnieżonej krainy pełnej mitycznych zwierząt, niebezpieczeństw i magii. Klasyczna ekranizacja C.S. Lewisa wciąż urzeka baśniowym rozmachem, wyrazistymi kreacjami postaci i historią opartą na uniwersalnych wartościach.",
         "genres": [
           "Familijny",
-          "Przygodowy",
-          "Fantasy"
+          "Fantasy",
+          "Przygodowy"
         ],
         "external": {
           "imdb": {
             "id": "tt0363771",
             "url": "https://www.imdb.com/title/tt0363771/",
             "rating": 6.9,
-            "votes": 464503
+            "votes": 464540
           },
           "filmweb": {
             "id": "112761",
             "url": "https://www.filmweb.pl/film/Opowie%C5%9Bci+z+Narnii%3A+Lew%2C+czarownica+i+stara+szafa-2005-112761",
             "genres": [
               "Familijny",
-              "Przygodowy",
-              "Fantasy"
+              "Fantasy",
+              "Przygodowy"
             ],
             "rating": 7.1,
-            "votes": 288440
+            "votes": 288446
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/chronicles_of_narnia_lion_witch_wardrobe",
@@ -227,7 +227,7 @@
             "id": "tt36841161",
             "url": "https://www.imdb.com/title/tt36841161/",
             "rating": 7.1,
-            "votes": 3272
+            "votes": 3335
           },
           "filmweb": {
             "id": "10101144",
@@ -237,7 +237,7 @@
               "Familijny"
             ],
             "rating": 6.9,
-            "votes": 884
+            "votes": 900
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/shaun_the_sheep_the_beast_of_mossy_bottom",
@@ -248,7 +248,7 @@
               "Matthew Walker"
             ],
             "criticsRating": null,
-            "criticsVotes": 88,
+            "criticsVotes": 89,
             "audienceRating": null,
             "audienceVotes": null
           }
@@ -304,7 +304,7 @@
               "Dramat"
             ],
             "rating": 3,
-            "votes": 1
+            "votes": 2
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/mission",
@@ -403,7 +403,7 @@
             "id": "tt13609648",
             "url": "https://www.imdb.com/title/tt13609648/",
             "rating": 7.2,
-            "votes": 9206
+            "votes": 9582
           },
           "filmweb": {
             "id": "10087170",
@@ -413,7 +413,7 @@
               "Melodramat"
             ],
             "rating": 7.2,
-            "votes": 3119
+            "votes": 3192
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/sense_and_sensibility_2026",
@@ -423,7 +423,7 @@
               "Georgia Oakley"
             ],
             "criticsRating": null,
-            "criticsVotes": 138,
+            "criticsVotes": 139,
             "audienceRating": null,
             "audienceVotes": null
           }
@@ -470,7 +470,7 @@
             "id": "tt14905854",
             "url": "https://www.imdb.com/title/tt14905854/",
             "rating": 7.8,
-            "votes": 141195
+            "votes": 141275
           },
           "filmweb": {
             "id": "10035555",
@@ -481,7 +481,7 @@
               "Kostiumowy"
             ],
             "rating": 7.6,
-            "votes": 30485
+            "votes": 30497
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/hamnet",
@@ -531,24 +531,24 @@
         "description": "Rodzina Thompsonów przeprowadza się z Londynu na wieś, gdzie dzieci odkrywają drzewo kryjące w koronie przejście do coraz bardziej niezwykłych krain. Współczesna, gwiazdorska ekranizacja klasyki Enid Blyton to pełna humoru brytyjska baśń o dziecięcej ciekawości, rodzinnej bliskości i mocy wyobraźni.",
         "shortDescription": "Rodzina Thompsonów przeprowadza się z Londynu na wieś, gdzie dzieci odkrywają drzewo kryjące w koronie przejście do coraz bardziej niezwykłych krain. Współczesna, gwiazdorska ekranizacja klasyki Enid Blyton to pełna humoru brytyjska baśń o dziecięcej ciekawości, rodzinnej bliskości i mocy wyobraźni.",
         "genres": [
+          "Familijny",
           "Fantasy",
-          "Przygodowy",
-          "Familijny"
+          "Przygodowy"
         ],
         "external": {
           "imdb": {
             "id": "tt7734244",
             "url": "https://www.imdb.com/title/tt7734244/",
             "rating": 6.2,
-            "votes": 6788
+            "votes": 6809
           },
           "filmweb": {
             "id": "10104409",
             "url": "https://www.filmweb.pl/film/Drzewo+magii-2026-10104409",
             "genres": [
+              "Familijny",
               "Fantasy",
-              "Przygodowy",
-              "Familijny"
+              "Przygodowy"
             ],
             "rating": 5.8,
             "votes": 765
@@ -607,7 +607,7 @@
             "id": "tt36983905",
             "url": "https://www.imdb.com/title/tt36983905/",
             "rating": 6.2,
-            "votes": 13859
+            "votes": 13973
           },
           "filmweb": {
             "id": "10122362",
@@ -617,7 +617,7 @@
               "Akcja"
             ],
             "rating": 5.6,
-            "votes": 610
+            "votes": 614
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/the_uprising_2026",
@@ -671,8 +671,8 @@
           "imdb": {
             "id": "tt37363222",
             "url": "https://www.imdb.com/title/tt37363222/",
-            "rating": 7.6,
-            "votes": 511
+            "rating": 7.7,
+            "votes": 516
           },
           "filmweb": {
             "id": "10112663",
@@ -738,7 +738,7 @@
             "id": "tt0083851",
             "url": "https://www.imdb.com/title/tt0083851/",
             "rating": 7.2,
-            "votes": 12176
+            "votes": 12177
           },
           "filmweb": {
             "id": "6845",
@@ -871,7 +871,7 @@
             "id": "tt34819091",
             "url": "https://www.imdb.com/title/tt34819091/",
             "rating": 6.4,
-            "votes": 11155
+            "votes": 11161
           },
           "filmweb": {
             "id": "10090000",
@@ -881,7 +881,7 @@
               "Musical"
             ],
             "rating": 6,
-            "votes": 2470
+            "votes": 2474
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/the_testament_of_ann_lee",
@@ -937,7 +937,7 @@
             "id": "tt34966562",
             "url": "https://www.imdb.com/title/tt34966562/",
             "rating": 6.8,
-            "votes": 7012
+            "votes": 7023
           },
           "filmweb": {
             "id": "10093695",
@@ -1003,7 +1003,7 @@
             "id": "tt0107943",
             "url": "https://www.imdb.com/title/tt0107943/",
             "rating": 7.8,
-            "votes": 94723
+            "votes": 94729
           },
           "filmweb": {
             "id": "1234",
@@ -1013,7 +1013,7 @@
               "Melodramat"
             ],
             "rating": 7.7,
-            "votes": 39690
+            "votes": 39693
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/remains_of_the_day",
@@ -1133,7 +1133,7 @@
             "id": "tt35674521",
             "url": "https://www.imdb.com/title/tt35674521/",
             "rating": 6.2,
-            "votes": 4025
+            "votes": 4037
           },
           "filmweb": {
             "id": "10072340",
@@ -1143,7 +1143,7 @@
               "Sci-Fi"
             ],
             "rating": 6.9,
-            "votes": 686
+            "votes": 687
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/rose_of_nevada",
@@ -1192,24 +1192,24 @@
         "description": "Pełnometrażowy debiut reżyserski Shane’a Madowsa, w którym Bob Hoskins wciela się w rolę mentora, oferującego młodym ludziom alternatywę dla otaczającej beznadziei. W typowym angielskim miasteczku, poprzez sport, próbuje nauczyć ich twardych reguł życia, odpowiedzialności i wychować na dobrych ludzi.",
         "shortDescription": "Pełnometrażowy debiut reżyserski Shane’a Madowsa, w którym Bob Hoskins wciela się w rolę mentora, oferującego młodym ludziom alternatywę dla otaczającej beznadziei. W typowym angielskim miasteczku, poprzez sport, próbuje nauczyć ich twardych reguł życia, odpowiedzialności i wychować na dobrych ludzi.",
         "genres": [
+          "Dramat",
           "Sportowy",
-          "Komedia",
-          "Dramat"
+          "Komedia"
         ],
         "external": {
           "imdb": {
             "id": "tt0120391",
             "url": "https://www.imdb.com/title/tt0120391/",
             "rating": 7,
-            "votes": 2917
+            "votes": 2918
           },
           "filmweb": {
             "id": "32922",
             "url": "https://www.filmweb.pl/film/Okr%C4%85g%C5%82y+tydzie%C5%84-1997-32922",
             "genres": [
+              "Dramat",
               "Sportowy",
-              "Komedia",
-              "Dramat"
+              "Komedia"
             ],
             "rating": 7.1,
             "votes": 50
@@ -1306,7 +1306,7 @@
             "id": "tt36980182",
             "url": "https://www.imdb.com/title/tt36980182/",
             "rating": 7,
-            "votes": 2721
+            "votes": 2743
           },
           "filmweb": {
             "id": "10093682",
@@ -1315,7 +1315,7 @@
               "Komedia"
             ],
             "rating": 6.5,
-            "votes": 89
+            "votes": 90
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/the_incomer",
@@ -1371,7 +1371,7 @@
             "id": "tt27766440",
             "url": "https://www.imdb.com/title/tt27766440/",
             "rating": 6.6,
-            "votes": 7963
+            "votes": 7966
           },
           "filmweb": {
             "id": "10058778",
@@ -1381,7 +1381,7 @@
               "Psychologiczny"
             ],
             "rating": 6.8,
-            "votes": 6274
+            "votes": 6277
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/the_salt_path",
@@ -1437,7 +1437,7 @@
             "id": "tt0107207",
             "url": "https://www.imdb.com/title/tt0107207/",
             "rating": 8.1,
-            "votes": 205584
+            "votes": 205594
           },
           "filmweb": {
             "id": "1231",
@@ -1447,7 +1447,7 @@
               "Dramat obyczajowy"
             ],
             "rating": 8,
-            "votes": 54034
+            "votes": 54036
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/in_the_name_of_the_father",
@@ -1502,7 +1502,7 @@
             "id": "tt0477302",
             "url": "https://www.imdb.com/title/tt0477302/",
             "rating": 6.9,
-            "votes": 108557
+            "votes": 108561
           },
           "filmweb": {
             "id": "296427",
@@ -1511,7 +1511,7 @@
               "Dramat"
             ],
             "rating": 7.4,
-            "votes": 56919
+            "votes": 56920
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/extremely_loud_and_incredibly_close",
@@ -1566,7 +1566,7 @@
             "id": "tt32141377",
             "url": "https://www.imdb.com/title/tt32141377/",
             "rating": 7.2,
-            "votes": 134578
+            "votes": 134714
           },
           "filmweb": {
             "id": "10068169",
@@ -1575,7 +1575,7 @@
               "Horror"
             ],
             "rating": 6.8,
-            "votes": 21120
+            "votes": 21141
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/28_years_later_the_bone_temple",
@@ -1630,7 +1630,7 @@
             "id": "tt38991615",
             "url": "https://www.imdb.com/title/tt38991615/",
             "rating": 7.2,
-            "votes": 236
+            "votes": 238
           },
           "filmweb": {
             "id": "10121238",
@@ -1687,24 +1687,24 @@
         "description": "Chcąc uporać się z przeszłością, ekscentryczny samotnik przeznacza ogromną wygraną na loterii, by reaktywować swój ulubiony duet muzyczny. Jego członków, którzy byli niegdyś parą i nie widzieli się od lat, zaprasza na odciętą od świata walijską wysepkę i zleca im zagranie kameralnego koncertu.",
         "shortDescription": "Chcąc uporać się z przeszłością, ekscentryczny samotnik przeznacza ogromną wygraną na loterii, by reaktywować swój ulubiony duet muzyczny. Jego członków, którzy byli niegdyś parą i nie widzieli się od lat, zaprasza na odciętą od świata walijską wysepkę i zleca im zagranie kameralnego koncertu.",
         "genres": [
+          "Dramat",
           "Komedia",
-          "Muzyczny",
-          "Dramat"
+          "Muzyczny"
         ],
         "external": {
           "imdb": {
             "id": "tt27674982",
             "url": "https://www.imdb.com/title/tt27674982/",
             "rating": 7.4,
-            "votes": 26515
+            "votes": 26523
           },
           "filmweb": {
             "id": "10070057",
             "url": "https://www.filmweb.pl/film/The+Ballad+of+Wallis+Island-2025-10070057",
             "genres": [
+              "Dramat",
               "Komedia",
-              "Muzyczny",
-              "Dramat"
+              "Muzyczny"
             ],
             "rating": 6.8,
             "votes": 999
@@ -1762,7 +1762,7 @@
             "id": "tt35521922",
             "url": "https://www.imdb.com/title/tt35521922/",
             "rating": 6.1,
-            "votes": 38926
+            "votes": 38953
           },
           "filmweb": {
             "id": "10064809",
@@ -1771,7 +1771,7 @@
               "Thriller"
             ],
             "rating": 7.2,
-            "votes": 15681
+            "votes": 15703
           },
           "rottenTomatoes": null
         },
@@ -1815,7 +1815,7 @@
             "id": "tt0419677",
             "url": "https://www.imdb.com/title/tt0419677/",
             "rating": 7.5,
-            "votes": 64365
+            "votes": 64370
           },
           "filmweb": {
             "id": "39701",

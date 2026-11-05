@@ -1,12 +1,12 @@
 {
   "schemaVersion": 1,
   "date": "2026-11-07",
-  "updatedAt": "2026-11-04T17:59:47.065Z",
+  "updatedAt": "2026-11-05T18:00:26.232Z",
   "source": "https://www.kinomuza.pl/repertoire/day/",
   "day": {
-    "id": "03",
+    "id": "02",
     "date": "07.11",
-    "now": "2026-11-04 18:57:47",
+    "now": "2026-11-05 18:58:33",
     "info": [],
     "repertoire": [
       {
@@ -136,7 +136,7 @@
             "id": "tt38468551",
             "url": "https://www.imdb.com/title/tt38468551/",
             "rating": 5.3,
-            "votes": 63
+            "votes": 66
           },
           "filmweb": {
             "id": "10121239",
@@ -145,7 +145,7 @@
               "Dramat"
             ],
             "rating": 5.8,
-            "votes": 146
+            "votes": 149
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/la_perra",
@@ -200,7 +200,7 @@
             "id": "tt45368240",
             "url": "https://www.imdb.com/title/tt45368240/",
             "rating": 9.1,
-            "votes": 25409
+            "votes": 26221
           },
           "filmweb": {
             "id": "10133825",
@@ -209,7 +209,7 @@
               "Dokumentalny"
             ],
             "rating": 8.6,
-            "votes": 8035
+            "votes": 8729
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/you_can_see_everything",
@@ -220,7 +220,7 @@
               "Lance Oppenheim"
             ],
             "criticsRating": null,
-            "criticsVotes": 206,
+            "criticsVotes": 207,
             "audienceRating": null,
             "audienceVotes": null
           }
@@ -265,7 +265,7 @@
             "id": "tt45368240",
             "url": "https://www.imdb.com/title/tt45368240/",
             "rating": 9.1,
-            "votes": 25409
+            "votes": 26221
           },
           "filmweb": {
             "id": "10133825",
@@ -274,7 +274,7 @@
               "Dokumentalny"
             ],
             "rating": 8.6,
-            "votes": 8035
+            "votes": 8729
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/you_can_see_everything",
@@ -285,7 +285,7 @@
               "Lance Oppenheim"
             ],
             "criticsRating": null,
-            "criticsVotes": 206,
+            "criticsVotes": 207,
             "audienceRating": null,
             "audienceVotes": null
           }

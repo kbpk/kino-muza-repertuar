@@ -1,12 +1,12 @@
 {
   "schemaVersion": 1,
   "date": "2026-11-10",
-  "updatedAt": "2026-11-04T17:59:47.065Z",
+  "updatedAt": "2026-11-05T18:00:26.232Z",
   "source": "https://www.kinomuza.pl/repertoire/day/",
   "day": {
-    "id": "06",
+    "id": "05",
     "date": "10.11",
-    "now": "2026-11-04 18:57:50",
+    "now": "2026-11-05 18:58:39",
     "info": [],
     "repertoire": [
       {
@@ -46,8 +46,8 @@
           "imdb": {
             "id": "tt37363222",
             "url": "https://www.imdb.com/title/tt37363222/",
-            "rating": 7.6,
-            "votes": 511
+            "rating": 7.7,
+            "votes": 516
           },
           "filmweb": {
             "id": "10112663",
@@ -111,8 +111,8 @@
           "imdb": {
             "id": "tt37363222",
             "url": "https://www.imdb.com/title/tt37363222/",
-            "rating": 7.6,
-            "votes": 511
+            "rating": 7.7,
+            "votes": 516
           },
           "filmweb": {
             "id": "10112663",
@@ -177,7 +177,7 @@
             "id": "tt31514146",
             "url": "https://www.imdb.com/title/tt31514146/",
             "rating": 8.3,
-            "votes": 72618
+            "votes": 72737
           },
           "filmweb": {
             "id": "10088817",
@@ -187,7 +187,7 @@
               "Dramat"
             ],
             "rating": 8,
-            "votes": 5026
+            "votes": 5033
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/i_swear_2025",
@@ -242,7 +242,7 @@
             "id": "tt38991615",
             "url": "https://www.imdb.com/title/tt38991615/",
             "rating": 7.2,
-            "votes": 236
+            "votes": 238
           },
           "filmweb": {
             "id": "10121238",
@@ -308,7 +308,7 @@
             "id": "tt0365748",
             "url": "https://www.imdb.com/title/tt0365748/",
             "rating": 7.8,
-            "votes": 647790
+            "votes": 647847
           },
           "filmweb": {
             "id": "121881",
@@ -318,7 +318,7 @@
               "Horror"
             ],
             "rating": 6.6,
-            "votes": 52125
+            "votes": 52127
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/shaun_of_the_dead",

@@ -1,12 +1,12 @@
 {
   "schemaVersion": 1,
   "date": "2026-11-10",
-  "updatedAt": "2026-11-05T18:00:26.232Z",
+  "updatedAt": "2026-11-06T17:27:29.431Z",
   "source": "https://www.kinomuza.pl/repertoire/day/",
   "day": {
-    "id": "05",
+    "id": "04",
     "date": "10.11",
-    "now": "2026-11-05 18:58:39",
+    "now": "2026-11-06 18:26:28",
     "info": [],
     "repertoire": [
       {
@@ -66,7 +66,7 @@
               "Simon Stone"
             ],
             "criticsRating": null,
-            "criticsVotes": 60,
+            "criticsVotes": 61,
             "audienceRating": null,
             "audienceVotes": null
           }
@@ -131,7 +131,7 @@
               "Simon Stone"
             ],
             "criticsRating": null,
-            "criticsVotes": 60,
+            "criticsVotes": 61,
             "audienceRating": null,
             "audienceVotes": null
           }
@@ -187,7 +187,7 @@
               "Dramat"
             ],
             "rating": 8,
-            "votes": 5033
+            "votes": 5044
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/i_swear_2025",
@@ -251,7 +251,7 @@
               "Dramat"
             ],
             "rating": 6.8,
-            "votes": 343
+            "votes": 345
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/i_see_buildings_fall_like_lightning",
@@ -300,8 +300,8 @@
         "description": "Trzydziestolatek bez pomysłu na życie budzi się na kacu i odkrywa, że Londyn opanowała epidemia żywych trupów. Opracowuje więc plan: zabrać mamę i dziewczynę, a potem przeczekać apokalipsę w ulubionym pubie. WYSYP ŻYWYCH TRUPÓW to najlepsza komedia o zombie w historii kina i film, któremu pobłogosławił sam George A. Romero.",
         "shortDescription": "Trzydziestolatek bez pomysłu na życie budzi się na kacu i odkrywa, że Londyn opanowała epidemia żywych trupów. Opracowuje więc plan: zabrać mamę i dziewczynę, a potem przeczekać apokalipsę w ulubionym pubie. WYSYP ŻYWYCH TRUPÓW to najlepsza komedia o zombie w historii kina i film, któremu pobłogosławił sam George A. Romero.",
         "genres": [
-          "Komedia",
-          "Horror"
+          "Horror",
+          "Komedia"
         ],
         "external": {
           "imdb": {
@@ -314,11 +314,11 @@
             "id": "121881",
             "url": "https://www.filmweb.pl/film/Wysyp+%C5%BCywych+trup%C3%B3w-2004-121881",
             "genres": [
-              "Komedia",
-              "Horror"
+              "Horror",
+              "Komedia"
             ],
             "rating": 6.6,
-            "votes": 52127
+            "votes": 52131
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/shaun_of_the_dead",

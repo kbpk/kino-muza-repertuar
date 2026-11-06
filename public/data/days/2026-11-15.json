@@ -1,12 +1,12 @@
 {
   "schemaVersion": 1,
   "date": "2026-11-15",
-  "updatedAt": "2026-11-05T18:00:26.232Z",
+  "updatedAt": "2026-11-06T17:27:29.431Z",
   "source": "https://www.kinomuza.pl/repertoire/day/",
   "day": {
-    "id": "10",
+    "id": "09",
     "date": "15.11",
-    "now": "2026-11-05 18:58:45",
+    "now": "2026-11-06 18:26:33",
     "info": [],
     "repertoire": [
       {
@@ -58,7 +58,7 @@
               "Familijny"
             ],
             "rating": 6.9,
-            "votes": 900
+            "votes": 918
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/shaun_the_sheep_the_beast_of_mossy_bottom",
@@ -169,7 +169,7 @@
               "Przygodowy"
             ],
             "rating": 7.1,
-            "votes": 288446
+            "votes": 288455
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/chronicles_of_narnia_lion_witch_wardrobe",
@@ -237,7 +237,7 @@
               "Familijny"
             ],
             "rating": 6.9,
-            "votes": 900
+            "votes": 918
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/shaun_the_sheep_the_beast_of_mossy_bottom",
@@ -413,7 +413,7 @@
               "Melodramat"
             ],
             "rating": 7.2,
-            "votes": 3192
+            "votes": 3274
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/sense_and_sensibility_2026",
@@ -481,7 +481,7 @@
               "Kostiumowy"
             ],
             "rating": 7.6,
-            "votes": 30497
+            "votes": 30506
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/hamnet",
@@ -617,7 +617,7 @@
               "Akcja"
             ],
             "rating": 5.6,
-            "votes": 614
+            "votes": 617
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/the_uprising_2026",
@@ -691,7 +691,7 @@
               "Simon Stone"
             ],
             "criticsRating": null,
-            "criticsVotes": 60,
+            "criticsVotes": 61,
             "audienceRating": null,
             "audienceVotes": null
           }
@@ -881,7 +881,7 @@
               "Musical"
             ],
             "rating": 6,
-            "votes": 2474
+            "votes": 2475
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/the_testament_of_ann_lee",
@@ -1143,7 +1143,7 @@
               "Sci-Fi"
             ],
             "rating": 6.9,
-            "votes": 687
+            "votes": 688
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/rose_of_nevada",
@@ -1315,7 +1315,7 @@
               "Komedia"
             ],
             "rating": 6.5,
-            "votes": 90
+            "votes": 91
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/the_incomer",
@@ -1381,7 +1381,7 @@
               "Psychologiczny"
             ],
             "rating": 6.8,
-            "votes": 6277
+            "votes": 6282
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/the_salt_path",
@@ -1447,7 +1447,7 @@
               "Dramat obyczajowy"
             ],
             "rating": 8,
-            "votes": 54036
+            "votes": 54038
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/in_the_name_of_the_father",
@@ -1511,7 +1511,7 @@
               "Dramat"
             ],
             "rating": 7.4,
-            "votes": 56920
+            "votes": 56921
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/extremely_loud_and_incredibly_close",
@@ -1575,7 +1575,7 @@
               "Horror"
             ],
             "rating": 6.8,
-            "votes": 21141
+            "votes": 21161
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/28_years_later_the_bone_temple",
@@ -1639,7 +1639,7 @@
               "Dramat"
             ],
             "rating": 6.8,
-            "votes": 343
+            "votes": 345
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/i_see_buildings_fall_like_lightning",
@@ -1771,7 +1771,7 @@
               "Thriller"
             ],
             "rating": 7.2,
-            "votes": 15703
+            "votes": 15732
           },
           "rottenTomatoes": null
         },

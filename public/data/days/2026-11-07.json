@@ -1,12 +1,12 @@
 {
   "schemaVersion": 1,
   "date": "2026-11-07",
-  "updatedAt": "2026-11-05T18:00:26.232Z",
+  "updatedAt": "2026-11-06T17:27:29.431Z",
   "source": "https://www.kinomuza.pl/repertoire/day/",
   "day": {
-    "id": "02",
+    "id": "01",
     "date": "07.11",
-    "now": "2026-11-05 18:58:33",
+    "now": "2026-11-06 18:26:26",
     "info": [],
     "repertoire": [
       {
@@ -145,7 +145,7 @@
               "Dramat"
             ],
             "rating": 5.8,
-            "votes": 149
+            "votes": 156
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/la_perra",
@@ -208,8 +208,8 @@
             "genres": [
               "Dokumentalny"
             ],
-            "rating": 8.6,
-            "votes": 8729
+            "rating": 8.5,
+            "votes": 9736
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/you_can_see_everything",
@@ -273,8 +273,8 @@
             "genres": [
               "Dokumentalny"
             ],
-            "rating": 8.6,
-            "votes": 8729
+            "rating": 8.5,
+            "votes": 9736
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/you_can_see_everything",

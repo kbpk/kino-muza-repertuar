@@ -1,12 +1,12 @@
 {
   "schemaVersion": 1,
   "date": "2026-11-14",
-  "updatedAt": "2026-11-05T18:00:26.232Z",
+  "updatedAt": "2026-11-06T17:27:29.431Z",
   "source": "https://www.kinomuza.pl/repertoire/day/",
   "day": {
-    "id": "09",
+    "id": "08",
     "date": "14.11",
-    "now": "2026-11-05 18:58:40",
+    "now": "2026-11-06 18:26:31",
     "info": [],
     "repertoire": [
       {
@@ -163,7 +163,7 @@
               "Familijny"
             ],
             "rating": 6.9,
-            "votes": 900
+            "votes": 918
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/shaun_the_sheep_the_beast_of_mossy_bottom",
@@ -312,7 +312,7 @@
               "Molly Manners"
             ],
             "criticsRating": null,
-            "criticsVotes": 32,
+            "criticsVotes": 33,
             "audienceRating": null,
             "audienceVotes": null
           }
@@ -366,7 +366,7 @@
               "Dramat"
             ],
             "rating": 7.2,
-            "votes": 1912
+            "votes": 1913
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/black_narcissus",
@@ -479,8 +479,8 @@
         "description": "Nagiko, młoda Japonka, ucieka przed aranżowanym małżeństwem do Hongkongu – współczesnej wieży Babel słynącej z high fashion i street foodu. Tam szuka kochanka-kaligrafa, który będzie w stanie sprostać jej fantazjom. PILLOW BOOK to zmysłowa opowieść o ciele, wyzwoleniu, sprawczości i literaturze.",
         "shortDescription": "Nagiko, młoda Japonka, ucieka przed aranżowanym małżeństwem do Hongkongu – współczesnej wieży Babel słynącej z high fashion i street foodu. Tam szuka kochanka-kaligrafa, który będzie w stanie sprostać jej fantazjom. PILLOW BOOK to zmysłowa opowieść o ciele, wyzwoleniu, sprawczości i literaturze.",
         "genres": [
-          "Melodramat",
-          "Obyczajowy"
+          "Obyczajowy",
+          "Melodramat"
         ],
         "external": {
           "imdb": {
@@ -493,8 +493,8 @@
             "id": "10738",
             "url": "https://www.filmweb.pl/film/Pillow+Book-1996-10738",
             "genres": [
-              "Melodramat",
-              "Obyczajowy"
+              "Obyczajowy",
+              "Melodramat"
             ],
             "rating": 7.2,
             "votes": 5903
@@ -563,7 +563,7 @@
               "Musical"
             ],
             "rating": 6,
-            "votes": 2474
+            "votes": 2475
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/the_testament_of_ann_lee",
@@ -631,7 +631,7 @@
               "Familijny"
             ],
             "rating": 5.2,
-            "votes": 703
+            "votes": 702
           },
           "rottenTomatoes": null
         },
@@ -748,7 +748,7 @@
               "Thriller"
             ],
             "rating": 7.2,
-            "votes": 15703
+            "votes": 15732
           },
           "rottenTomatoes": null
         },
@@ -921,7 +921,7 @@
               "Kostiumowy"
             ],
             "rating": 7.6,
-            "votes": 30497
+            "votes": 30506
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/hamnet",
@@ -1053,7 +1053,7 @@
               "Melodramat"
             ],
             "rating": 7.2,
-            "votes": 3192
+            "votes": 3274
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/sense_and_sensibility_2026",
@@ -1183,7 +1183,7 @@
               "Psychologiczny"
             ],
             "rating": 6.8,
-            "votes": 6277
+            "votes": 6282
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/the_salt_path",
@@ -1313,7 +1313,7 @@
               "Dramat"
             ],
             "rating": 7.3,
-            "votes": 540
+            "votes": 541
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/queen_at_sea",
@@ -1323,7 +1323,7 @@
               "Lance Hammer"
             ],
             "criticsRating": null,
-            "criticsVotes": 47,
+            "criticsVotes": 49,
             "audienceRating": null,
             "audienceVotes": null
           }
@@ -1361,8 +1361,8 @@
         "description": "Danny Bolye opowiada historię niczym z pierwszych stron gazet. W roku 1969 Rupert Murdoch (Guy Pearce) wykupił tabloid „The Sun” i zatrudnił jako naczelnego Larry’ego Lamba (Jack O&#8217;Connell). W efekcie powstało medialne imperium, które zmieniło na zawsze brytyjskie dziennikarstwo i społeczeństwo.",
         "shortDescription": "Danny Bolye opowiada historię niczym z pierwszych stron gazet. W roku 1969 Rupert Murdoch (Guy Pearce) wykupił tabloid „The Sun” i zatrudnił jako naczelnego Larry’ego Lamba (Jack O&#8217;Connell). W efekcie powstało medialne imperium, które zmieniło na zawsze brytyjskie dziennikarstwo i społeczeństwo.",
         "genres": [
-          "Biograficzny",
-          "Dramat"
+          "Dramat",
+          "Biograficzny"
         ],
         "external": {
           "imdb": {
@@ -1375,8 +1375,8 @@
             "id": "10100972",
             "url": "https://www.filmweb.pl/film/Tabloid-2026-10100972",
             "genres": [
-              "Biograficzny",
-              "Dramat"
+              "Dramat",
+              "Biograficzny"
             ],
             "rating": 6.5,
             "votes": 134
@@ -1507,7 +1507,7 @@
               "Horror"
             ],
             "rating": 6.8,
-            "votes": 21141
+            "votes": 21161
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/28_years_later_the_bone_temple",
@@ -1573,7 +1573,7 @@
               "Sci-Fi"
             ],
             "rating": 6.9,
-            "votes": 687
+            "votes": 688
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/rose_of_nevada",
@@ -1621,8 +1621,8 @@
         "description": "Powrót Lynne Ramsay z bezkompromisowym studium depresji poporodowej, samotności i kryzysu tożsamości. W krajobrazach Montany marzenie o romantycznej ucieczce zamienia się w koszmar. Na ekranie Pattinson i Lawrence, która tworzy hipnotyzującą i odważną kreację kobiety na skraju załamania.",
         "shortDescription": "Powrót Lynne Ramsay z bezkompromisowym studium depresji poporodowej, samotności i kryzysu tożsamości. W krajobrazach Montany marzenie o romantycznej ucieczce zamienia się w koszmar. Na ekranie Pattinson i Lawrence, która tworzy hipnotyzującą i odważną kreację kobiety na skraju załamania.",
         "genres": [
-          "Psychologiczny",
-          "Dramat"
+          "Dramat",
+          "Psychologiczny"
         ],
         "external": {
           "imdb": {
@@ -1635,11 +1635,11 @@
             "id": "10023025",
             "url": "https://www.filmweb.pl/film/Zgi%C5%84+kochanie-2025-10023025",
             "genres": [
-              "Psychologiczny",
-              "Dramat"
+              "Dramat",
+              "Psychologiczny"
             ],
             "rating": 5.8,
-            "votes": 12711
+            "votes": 12718
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/die_my_love_2025",
@@ -1899,7 +1899,7 @@
               "Melodramat"
             ],
             "rating": 6.5,
-            "votes": 6341
+            "votes": 6351
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/pillion",

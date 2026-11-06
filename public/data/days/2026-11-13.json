@@ -1,12 +1,12 @@
 {
   "schemaVersion": 1,
   "date": "2026-11-13",
-  "updatedAt": "2026-11-05T18:00:26.232Z",
+  "updatedAt": "2026-11-06T17:27:29.431Z",
   "source": "https://www.kinomuza.pl/repertoire/day/",
   "day": {
-    "id": "08",
+    "id": "07",
     "date": "13.11",
-    "now": "2026-11-05 18:58:41",
+    "now": "2026-11-06 18:26:31",
     "info": [],
     "repertoire": [
       {
@@ -137,7 +137,7 @@
               "Molly Manners"
             ],
             "criticsRating": null,
-            "criticsVotes": 32,
+            "criticsVotes": 33,
             "audienceRating": null,
             "audienceVotes": null
           }
@@ -195,7 +195,7 @@
               "Kostiumowy"
             ],
             "rating": 7.6,
-            "votes": 30497
+            "votes": 30506
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/hamnet",
@@ -261,7 +261,7 @@
               "Przygodowy"
             ],
             "rating": 7.1,
-            "votes": 15791
+            "votes": 15792
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/trash_2015",
@@ -327,7 +327,7 @@
               "Musical"
             ],
             "rating": 6,
-            "votes": 2474
+            "votes": 2475
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/the_testament_of_ann_lee",
@@ -375,8 +375,8 @@
         "description": "Powrót Lynne Ramsay z bezkompromisowym studium depresji poporodowej, samotności i kryzysu tożsamości. W krajobrazach Montany marzenie o romantycznej ucieczce zamienia się w koszmar. Na ekranie Pattinson i Lawrence, która tworzy hipnotyzującą i odważną kreację kobiety na skraju załamania.",
         "shortDescription": "Powrót Lynne Ramsay z bezkompromisowym studium depresji poporodowej, samotności i kryzysu tożsamości. W krajobrazach Montany marzenie o romantycznej ucieczce zamienia się w koszmar. Na ekranie Pattinson i Lawrence, która tworzy hipnotyzującą i odważną kreację kobiety na skraju załamania.",
         "genres": [
-          "Psychologiczny",
-          "Dramat"
+          "Dramat",
+          "Psychologiczny"
         ],
         "external": {
           "imdb": {
@@ -389,11 +389,11 @@
             "id": "10023025",
             "url": "https://www.filmweb.pl/film/Zgi%C5%84+kochanie-2025-10023025",
             "genres": [
-              "Psychologiczny",
-              "Dramat"
+              "Dramat",
+              "Psychologiczny"
             ],
             "rating": 5.8,
-            "votes": 12711
+            "votes": 12718
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/die_my_love_2025",
@@ -793,7 +793,7 @@
               "Psychologiczny"
             ],
             "rating": 6.8,
-            "votes": 6277
+            "votes": 6282
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/the_salt_path",
@@ -857,7 +857,7 @@
               "Dramat"
             ],
             "rating": 7.3,
-            "votes": 110149
+            "votes": 110150
           },
           "rottenTomatoes": null
         },
@@ -976,7 +976,7 @@
               "Melodramat"
             ],
             "rating": 7.2,
-            "votes": 3192
+            "votes": 3274
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/sense_and_sensibility_2026",
@@ -1040,7 +1040,7 @@
               "Melodramat"
             ],
             "rating": 6.5,
-            "votes": 6341
+            "votes": 6351
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/pillion",
@@ -1159,7 +1159,7 @@
               "Akcja"
             ],
             "rating": 5.6,
-            "votes": 614
+            "votes": 617
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/the_uprising_2026",
@@ -1223,7 +1223,7 @@
               "Thriller"
             ],
             "rating": 7.2,
-            "votes": 15703
+            "votes": 15732
           },
           "rottenTomatoes": null
         },
@@ -1341,7 +1341,7 @@
               "Horror"
             ],
             "rating": 6.3,
-            "votes": 80340
+            "votes": 80343
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/descent",

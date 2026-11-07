@@ -1,12 +1,12 @@
 {
   "schemaVersion": 1,
   "date": "2026-11-17",
-  "updatedAt": "2026-11-06T17:27:29.431Z",
+  "updatedAt": "2026-11-07T16:24:13.170Z",
   "source": "https://www.kinomuza.pl/repertoire/day/",
   "day": {
-    "id": "11",
+    "id": "10",
     "date": "17.11",
-    "now": "2026-11-06 18:26:34",
+    "now": "2026-11-07 17:22:45",
     "info": [],
     "repertoire": [
       {
@@ -96,7 +96,7 @@
               "Obyczajowy"
             ],
             "rating": 7.8,
-            "votes": 34264
+            "votes": 34265
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/zaklete_rewiry_1975",

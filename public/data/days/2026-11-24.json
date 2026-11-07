@@ -1,12 +1,12 @@
 {
   "schemaVersion": 1,
   "date": "2026-11-24",
-  "updatedAt": "2026-11-06T17:27:29.431Z",
+  "updatedAt": "2026-11-07T16:24:13.170Z",
   "source": "https://www.kinomuza.pl/repertoire/day/",
   "day": {
-    "id": "18",
+    "id": "17",
     "date": "24.11",
-    "now": "2026-11-06 18:26:37",
+    "now": "2026-11-07 17:22:47",
     "info": [],
     "repertoire": [
       {
@@ -40,27 +40,27 @@
         "description": "Adam Miauczyński, mężczyzna w średnim wieku, sfrustrowany polonista cierpi na nerwicę natręctw. Stał się niewolnikiem własnych rytuałów, które wymagają odliczania.",
         "shortDescription": "Adam Miauczyński, mężczyzna w średnim wieku, sfrustrowany polonista cierpi na nerwicę natręctw. Stał się niewolnikiem własnych rytuałów, które wymagają odliczania.",
         "genres": [
+          "Psychologiczny",
           "Dramat",
-          "Komedia",
-          "Psychologiczny"
+          "Komedia"
         ],
         "external": {
           "imdb": {
             "id": "tt0330243",
             "url": "https://www.imdb.com/title/tt0330243/",
             "rating": 8.1,
-            "votes": 13671
+            "votes": 13674
           },
           "filmweb": {
             "id": "31413",
             "url": "https://www.filmweb.pl/film/Dzie%C5%84+%C5%9Bwira-2002-31413",
             "genres": [
+              "Psychologiczny",
               "Dramat",
-              "Komedia",
-              "Psychologiczny"
+              "Komedia"
             ],
             "rating": 7.8,
-            "votes": 643046
+            "votes": 643061
           },
           "rottenTomatoes": null
         },

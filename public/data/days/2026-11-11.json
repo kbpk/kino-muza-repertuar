@@ -1,12 +1,12 @@
 {
   "schemaVersion": 1,
   "date": "2026-11-11",
-  "updatedAt": "2026-11-06T17:27:29.431Z",
+  "updatedAt": "2026-11-07T16:24:13.170Z",
   "source": "https://www.kinomuza.pl/repertoire/day/",
   "day": {
-    "id": "05",
+    "id": "04",
     "date": "11.11",
-    "now": "2026-11-06 18:26:28",
+    "now": "2026-11-07 17:22:40",
     "info": [],
     "repertoire": [
       {
@@ -49,7 +49,7 @@
             "id": "tt36841161",
             "url": "https://www.imdb.com/title/tt36841161/",
             "rating": 7.1,
-            "votes": 3335
+            "votes": 3452
           },
           "filmweb": {
             "id": "10101144",
@@ -59,7 +59,7 @@
               "Familijny"
             ],
             "rating": 6.9,
-            "votes": 918
+            "votes": 928
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/shaun_the_sheep_the_beast_of_mossy_bottom",
@@ -111,26 +111,26 @@
         "shortDescription": "Rodzina Thompsonów przeprowadza się z Londynu na wieś, gdzie dzieci odkrywają drzewo kryjące w koronie przejście do coraz bardziej niezwykłych krain. Współczesna, gwiazdorska ekranizacja klasyki Enid Blyton to pełna humoru brytyjska baśń o dziecięcej ciekawości, rodzinnej bliskości i mocy wyobraźni.",
         "genres": [
           "Familijny",
-          "Fantasy",
-          "Przygodowy"
+          "Przygodowy",
+          "Fantasy"
         ],
         "external": {
           "imdb": {
             "id": "tt7734244",
             "url": "https://www.imdb.com/title/tt7734244/",
             "rating": 6.2,
-            "votes": 6809
+            "votes": 6843
           },
           "filmweb": {
             "id": "10104409",
             "url": "https://www.filmweb.pl/film/Drzewo+magii-2026-10104409",
             "genres": [
               "Familijny",
-              "Fantasy",
-              "Przygodowy"
+              "Przygodowy",
+              "Fantasy"
             ],
             "rating": 5.8,
-            "votes": 765
+            "votes": 766
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/the_magic_faraway_tree",
@@ -253,7 +253,7 @@
             "id": "tt27541205",
             "url": "https://www.imdb.com/title/tt27541205/",
             "rating": 7.6,
-            "votes": 953
+            "votes": 993
           },
           "filmweb": {
             "id": "10034624",
@@ -262,7 +262,7 @@
               "Dramat"
             ],
             "rating": 7.3,
-            "votes": 541
+            "votes": 542
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/queen_at_sea",
@@ -272,7 +272,7 @@
               "Lance Hammer"
             ],
             "criticsRating": null,
-            "criticsVotes": 49,
+            "criticsVotes": 51,
             "audienceRating": null,
             "audienceVotes": null
           }
@@ -311,25 +311,25 @@
         "description": "W wyniku wypadku z udziałem łabędzia giną dwie żony. Owdowiali bliźniacy-zoolodzy próbują zrozumieć i oswoić śmierć, fotografując rozkład gnijących owoców i zwierząt. Wkrótce obaj zakochują się w ocalałej z wypadku Albie. Makabryczna, zabawna i hipnotyzująca opowieść o żałobie i… obsesji symetrii.",
         "shortDescription": "W wyniku wypadku z udziałem łabędzia giną dwie żony. Owdowiali bliźniacy-zoolodzy próbują zrozumieć i oswoić śmierć, fotografując rozkład gnijących owoców i zwierząt. Wkrótce obaj zakochują się w ocalałej z wypadku Albie. Makabryczna, zabawna i hipnotyzująca opowieść o żałobie i… obsesji symetrii.",
         "genres": [
-          "Dramat",
-          "Czarna komedia"
+          "Czarna komedia",
+          "Dramat"
         ],
         "external": {
           "imdb": {
             "id": "tt0090366",
             "url": "https://www.imdb.com/title/tt0090366/",
             "rating": 7.2,
-            "votes": 8259
+            "votes": 8263
           },
           "filmweb": {
             "id": "3671",
             "url": "https://www.filmweb.pl/film/Zet+i+dwa+zera-1985-3671",
             "genres": [
-              "Dramat",
-              "Czarna komedia"
+              "Czarna komedia",
+              "Dramat"
             ],
             "rating": 7.3,
-            "votes": 2924
+            "votes": 2925
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/zed_and_two_noughts",
@@ -377,25 +377,25 @@
         "description": "Hipnotyzujące dzieło współscenarzystki THE BRUTALIST, rzucające światło na herstorię Ann Lee – przywódczyni sekty Shakerów. Kobieta sprzeciwia się zastanemu porządkowi zepsutego świata i zakłada wspólnotę propagującą równość płciową i społeczną. Ann rusza ze swoją misją do Nowej Anglii za Atlantyk.",
         "shortDescription": "Hipnotyzujące dzieło współscenarzystki THE BRUTALIST, rzucające światło na herstorię Ann Lee – przywódczyni sekty Shakerów. Kobieta sprzeciwia się zastanemu porządkowi zepsutego świata i zakłada wspólnotę propagującą równość płciową i społeczną. Ann rusza ze swoją misją do Nowej Anglii za Atlantyk.",
         "genres": [
-          "Dramat",
-          "Musical"
+          "Musical",
+          "Dramat"
         ],
         "external": {
           "imdb": {
             "id": "tt34819091",
             "url": "https://www.imdb.com/title/tt34819091/",
             "rating": 6.4,
-            "votes": 11161
+            "votes": 11169
           },
           "filmweb": {
             "id": "10090000",
             "url": "https://www.filmweb.pl/film/Testament+Ann+Lee-2025-10090000",
             "genres": [
-              "Dramat",
-              "Musical"
+              "Musical",
+              "Dramat"
             ],
             "rating": 6,
-            "votes": 2475
+            "votes": 2478
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/the_testament_of_ann_lee",
@@ -443,25 +443,25 @@
         "description": "Ekranizacja bestsellera Raynor Winn na podstawie scenariusza Rebeki Lenkiewicz (IDA). Gdy małżeństwo traci dom i zdrowie, podejmuje radykalną decyzję: pieszą wędrówkę liczącym ponad 1000 km szlakiem South West Coast Path. Poruszająca, wizualnie urzekająca oda do siły natury i ludzkiego ducha.",
         "shortDescription": "Ekranizacja bestsellera Raynor Winn na podstawie scenariusza Rebeki Lenkiewicz (IDA). Gdy małżeństwo traci dom i zdrowie, podejmuje radykalną decyzję: pieszą wędrówkę liczącym ponad 1000 km szlakiem South West Coast Path. Poruszająca, wizualnie urzekająca oda do siły natury i ludzkiego ducha.",
         "genres": [
-          "Dramat",
-          "Psychologiczny"
+          "Psychologiczny",
+          "Dramat"
         ],
         "external": {
           "imdb": {
             "id": "tt27766440",
             "url": "https://www.imdb.com/title/tt27766440/",
             "rating": 6.6,
-            "votes": 7966
+            "votes": 7968
           },
           "filmweb": {
             "id": "10058778",
             "url": "https://www.filmweb.pl/film/%C5%9Acie%C5%BCki+%C5%BCycia-2024-10058778",
             "genres": [
-              "Dramat",
-              "Psychologiczny"
+              "Psychologiczny",
+              "Dramat"
             ],
             "rating": 6.8,
-            "votes": 6282
+            "votes": 6284
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/the_salt_path",
@@ -518,7 +518,7 @@
             "id": "tt0166175",
             "url": "https://www.imdb.com/title/tt0166175/",
             "rating": 6.9,
-            "votes": 19836
+            "votes": 19835
           },
           "filmweb": {
             "id": "1343",
@@ -584,7 +584,7 @@
             "id": "tt0102798",
             "url": "https://www.imdb.com/title/tt0102798/",
             "rating": 6.9,
-            "votes": 225143
+            "votes": 225168
           },
           "filmweb": {
             "id": "9183",
@@ -593,7 +593,7 @@
               "Przygodowy"
             ],
             "rating": 7.2,
-            "votes": 143517
+            "votes": 143519
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/robin_hood_prince_of_thieves",
@@ -648,7 +648,7 @@
             "id": "tt10329560",
             "url": "https://www.imdb.com/title/tt10329560/",
             "rating": 6.6,
-            "votes": 2916
+            "votes": 2921
           },
           "filmweb": {
             "id": "10048300",
@@ -712,7 +712,7 @@
             "id": "tt35521922",
             "url": "https://www.imdb.com/title/tt35521922/",
             "rating": 6.1,
-            "votes": 38953
+            "votes": 38999
           },
           "filmweb": {
             "id": "10064809",
@@ -721,7 +721,7 @@
               "Thriller"
             ],
             "rating": 7.2,
-            "votes": 15732
+            "votes": 15764
           },
           "rottenTomatoes": null
         },
@@ -822,22 +822,22 @@
         "description": "Aktorski popis Sir Iana McKellena (to on zainspirował powstanie scenariusza), Michaeli Coel, Jessiki Gunning i Jamesa Cordena w najnowszym filmie Stevena Soderbergha. Ekscytująca historia rozgrywająca się w świecie sztuki, pełna zarazem humoru i lekkości, jak i rodzinnych napięć i emocji. Prowokuje, pytając o różnicę między wartością a ceną. Pierwszy pokaz w Polsce.",
         "shortDescription": "Aktorski popis Sir Iana McKellena (to on zainspirował powstanie scenariusza), Michaeli Coel, Jessiki Gunning i Jamesa Cordena w najnowszym filmie Stevena Soderbergha. Ekscytująca historia rozgrywająca się w świecie sztuki, pełna zarazem humoru i lekkości, jak i rodzinnych napięć i emocji. Prowokuje, pytając o różnicę między wartością a ceną. Pierwszy pokaz w Polsce.",
         "genres": [
-          "Dramat",
-          "Komedia"
+          "Komedia",
+          "Dramat"
         ],
         "external": {
           "imdb": {
             "id": "tt34966562",
             "url": "https://www.imdb.com/title/tt34966562/",
             "rating": 6.8,
-            "votes": 7023
+            "votes": 7041
           },
           "filmweb": {
             "id": "10093695",
             "url": "https://www.filmweb.pl/film/Fa%C5%82szerka-2025-10093695",
             "genres": [
-              "Dramat",
-              "Komedia"
+              "Komedia",
+              "Dramat"
             ],
             "rating": 6,
             "votes": 118
@@ -896,7 +896,7 @@
             "id": "tt13609648",
             "url": "https://www.imdb.com/title/tt13609648/",
             "rating": 7.2,
-            "votes": 9582
+            "votes": 10129
           },
           "filmweb": {
             "id": "10087170",
@@ -906,7 +906,7 @@
               "Melodramat"
             ],
             "rating": 7.2,
-            "votes": 3274
+            "votes": 3307
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/sense_and_sensibility_2026",
@@ -962,7 +962,7 @@
             "id": "tt9362736",
             "url": "https://www.imdb.com/title/tt9362736/",
             "rating": 6,
-            "votes": 50963
+            "votes": 51005
           },
           "filmweb": {
             "id": "10023025",
@@ -972,7 +972,7 @@
               "Psychologiczny"
             ],
             "rating": 5.8,
-            "votes": 12718
+            "votes": 12728
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/die_my_love_2025",
@@ -1028,7 +1028,7 @@
             "id": "tt0051554",
             "url": "https://www.imdb.com/title/tt0051554/",
             "rating": 7.2,
-            "votes": 30744
+            "votes": 30748
           },
           "filmweb": {
             "id": "35022",
@@ -1037,7 +1037,7 @@
               "Horror"
             ],
             "rating": 6.7,
-            "votes": 3478
+            "votes": 3479
           },
           "rottenTomatoes": null
         },
@@ -1081,7 +1081,7 @@
             "id": "tt36980182",
             "url": "https://www.imdb.com/title/tt36980182/",
             "rating": 7,
-            "votes": 2743
+            "votes": 2786
           },
           "filmweb": {
             "id": "10093682",
@@ -1090,7 +1090,7 @@
               "Komedia"
             ],
             "rating": 6.5,
-            "votes": 91
+            "votes": 92
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/the_incomer",
@@ -1146,7 +1146,7 @@
             "id": "tt35674521",
             "url": "https://www.imdb.com/title/tt35674521/",
             "rating": 6.2,
-            "votes": 4037
+            "votes": 4060
           },
           "filmweb": {
             "id": "10072340",
@@ -1156,7 +1156,7 @@
               "Sci-Fi"
             ],
             "rating": 6.9,
-            "votes": 688
+            "votes": 689
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/rose_of_nevada",
@@ -1211,7 +1211,7 @@
             "id": "tt32141377",
             "url": "https://www.imdb.com/title/tt32141377/",
             "rating": 7.2,
-            "votes": 134714
+            "votes": 134994
           },
           "filmweb": {
             "id": "10068169",
@@ -1220,7 +1220,7 @@
               "Horror"
             ],
             "rating": 6.8,
-            "votes": 21161
+            "votes": 21182
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/28_years_later_the_bone_temple",
@@ -1275,7 +1275,7 @@
             "id": "tt0093177",
             "url": "https://www.imdb.com/title/tt0093177/",
             "rating": 6.9,
-            "votes": 158689
+            "votes": 158756
           },
           "filmweb": {
             "id": "31326",
@@ -1284,7 +1284,7 @@
               "Horror"
             ],
             "rating": 6.8,
-            "votes": 26634
+            "votes": 26642
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/hellraiser",
@@ -1339,7 +1339,7 @@
             "id": "tt32321317",
             "url": "https://www.imdb.com/title/tt32321317/",
             "rating": 6.9,
-            "votes": 25582
+            "votes": 25637
           },
           "filmweb": {
             "id": "10053146",
@@ -1348,7 +1348,7 @@
               "Melodramat"
             ],
             "rating": 6.5,
-            "votes": 6351
+            "votes": 6364
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/pillion",

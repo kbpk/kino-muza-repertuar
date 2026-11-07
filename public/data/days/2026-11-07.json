@@ -1,12 +1,12 @@
 {
   "schemaVersion": 1,
   "date": "2026-11-07",
-  "updatedAt": "2026-11-06T17:27:29.431Z",
+  "updatedAt": "2026-11-07T16:24:13.170Z",
   "source": "https://www.kinomuza.pl/repertoire/day/",
   "day": {
-    "id": "01",
+    "id": "00",
     "date": "07.11",
-    "now": "2026-11-06 18:26:26",
+    "now": "2026-11-07 17:22:35",
     "info": [],
     "repertoire": [
       {
@@ -265,7 +265,7 @@
             "id": "tt45368240",
             "url": "https://www.imdb.com/title/tt45368240/",
             "rating": 9.1,
-            "votes": 26221
+            "votes": 27437
           },
           "filmweb": {
             "id": "10133825",
@@ -274,7 +274,7 @@
               "Dokumentalny"
             ],
             "rating": 8.5,
-            "votes": 9736
+            "votes": 11126
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/you_can_see_everything",
@@ -285,7 +285,7 @@
               "Lance Oppenheim"
             ],
             "criticsRating": null,
-            "criticsVotes": 207,
+            "criticsVotes": 208,
             "audienceRating": null,
             "audienceVotes": null
           }

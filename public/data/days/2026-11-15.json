@@ -1,12 +1,12 @@
 {
   "schemaVersion": 1,
   "date": "2026-11-15",
-  "updatedAt": "2026-11-06T17:27:29.431Z",
+  "updatedAt": "2026-11-07T16:24:13.170Z",
   "source": "https://www.kinomuza.pl/repertoire/day/",
   "day": {
-    "id": "09",
+    "id": "08",
     "date": "15.11",
-    "now": "2026-11-06 18:26:33",
+    "now": "2026-11-07 17:22:43",
     "info": [],
     "repertoire": [
       {
@@ -48,7 +48,7 @@
             "id": "tt36841161",
             "url": "https://www.imdb.com/title/tt36841161/",
             "rating": 7.1,
-            "votes": 3335
+            "votes": 3452
           },
           "filmweb": {
             "id": "10101144",
@@ -58,7 +58,7 @@
               "Familijny"
             ],
             "rating": 6.9,
-            "votes": 918
+            "votes": 928
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/shaun_the_sheep_the_beast_of_mossy_bottom",
@@ -150,26 +150,26 @@
         "shortDescription": "Po dwóch dekadach ponownie otwieramy filmową starą szafę. Czworo rodzeństwa trafia do zaśnieżonej krainy pełnej mitycznych zwierząt, niebezpieczeństw i magii. Klasyczna ekranizacja C.S. Lewisa wciąż urzeka baśniowym rozmachem, wyrazistymi kreacjami postaci i historią opartą na uniwersalnych wartościach.",
         "genres": [
           "Familijny",
-          "Fantasy",
-          "Przygodowy"
+          "Przygodowy",
+          "Fantasy"
         ],
         "external": {
           "imdb": {
             "id": "tt0363771",
             "url": "https://www.imdb.com/title/tt0363771/",
             "rating": 6.9,
-            "votes": 464540
+            "votes": 464606
           },
           "filmweb": {
             "id": "112761",
             "url": "https://www.filmweb.pl/film/Opowie%C5%9Bci+z+Narnii%3A+Lew%2C+czarownica+i+stara+szafa-2005-112761",
             "genres": [
               "Familijny",
-              "Fantasy",
-              "Przygodowy"
+              "Przygodowy",
+              "Fantasy"
             ],
             "rating": 7.1,
-            "votes": 288455
+            "votes": 288463
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/chronicles_of_narnia_lion_witch_wardrobe",
@@ -227,7 +227,7 @@
             "id": "tt36841161",
             "url": "https://www.imdb.com/title/tt36841161/",
             "rating": 7.1,
-            "votes": 3335
+            "votes": 3452
           },
           "filmweb": {
             "id": "10101144",
@@ -237,7 +237,7 @@
               "Familijny"
             ],
             "rating": 6.9,
-            "votes": 918
+            "votes": 928
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/shaun_the_sheep_the_beast_of_mossy_bottom",
@@ -286,8 +286,8 @@
         "description": "Dylan, zmęczony życiem, pogrążony w samotności i beznadziei młody mężczyzna, daje sobie tydzień na to, by odnaleźć sens istnienia. Wróciwszy wspomnieniami do stanu śmierci klinicznej doświadczonego w dzieciństwie, podejmuje szereg desperackich działań, testując tym samym i siebie, i otoczenie.",
         "shortDescription": "Dylan, zmęczony życiem, pogrążony w samotności i beznadziei młody mężczyzna, daje sobie tydzień na to, by odnaleźć sens istnienia. Wróciwszy wspomnieniami do stanu śmierci klinicznej doświadczonego w dzieciństwie, podejmuje szereg desperackich działań, testując tym samym i siebie, i otoczenie.",
         "genres": [
-          "Thriller",
-          "Dramat"
+          "Dramat",
+          "Thriller"
         ],
         "external": {
           "imdb": {
@@ -300,11 +300,11 @@
             "id": "10080762",
             "url": "https://www.filmweb.pl/film/Mission-2026-10080762",
             "genres": [
-              "Thriller",
-              "Dramat"
+              "Dramat",
+              "Thriller"
             ],
-            "rating": 3,
-            "votes": 2
+            "rating": 3.7,
+            "votes": 3
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/mission",
@@ -403,7 +403,7 @@
             "id": "tt13609648",
             "url": "https://www.imdb.com/title/tt13609648/",
             "rating": 7.2,
-            "votes": 9582
+            "votes": 10129
           },
           "filmweb": {
             "id": "10087170",
@@ -413,7 +413,7 @@
               "Melodramat"
             ],
             "rating": 7.2,
-            "votes": 3274
+            "votes": 3307
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/sense_and_sensibility_2026",
@@ -461,8 +461,8 @@
         "description": "Zainspirowany najsłynniejszą sztuką Williama Szekspira film w reżyserii Chloé Zhao jest wrażliwym i głębokim obrazem małżeństwa, próbującego ukształtować się na nowo po śmierci ukochanego dziecka. W rolach głównych zjawiskowy duet: Jessie Buckley oraz Paul Mescal.",
         "shortDescription": "Zainspirowany najsłynniejszą sztuką Williama Szekspira film w reżyserii Chloé Zhao jest wrażliwym i głębokim obrazem małżeństwa, próbującego ukształtować się na nowo po śmierci ukochanego dziecka. W rolach głównych zjawiskowy duet: Jessie Buckley oraz Paul Mescal.",
         "genres": [
-          "Dramat",
           "Biograficzny",
+          "Dramat",
           "Kostiumowy"
         ],
         "external": {
@@ -470,18 +470,18 @@
             "id": "tt14905854",
             "url": "https://www.imdb.com/title/tt14905854/",
             "rating": 7.8,
-            "votes": 141275
+            "votes": 141446
           },
           "filmweb": {
             "id": "10035555",
             "url": "https://www.filmweb.pl/film/Hamnet-2025-10035555",
             "genres": [
-              "Dramat",
               "Biograficzny",
+              "Dramat",
               "Kostiumowy"
             ],
             "rating": 7.6,
-            "votes": 30506
+            "votes": 30524
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/hamnet",
@@ -532,26 +532,26 @@
         "shortDescription": "Rodzina Thompsonów przeprowadza się z Londynu na wieś, gdzie dzieci odkrywają drzewo kryjące w koronie przejście do coraz bardziej niezwykłych krain. Współczesna, gwiazdorska ekranizacja klasyki Enid Blyton to pełna humoru brytyjska baśń o dziecięcej ciekawości, rodzinnej bliskości i mocy wyobraźni.",
         "genres": [
           "Familijny",
-          "Fantasy",
-          "Przygodowy"
+          "Przygodowy",
+          "Fantasy"
         ],
         "external": {
           "imdb": {
             "id": "tt7734244",
             "url": "https://www.imdb.com/title/tt7734244/",
             "rating": 6.2,
-            "votes": 6809
+            "votes": 6843
           },
           "filmweb": {
             "id": "10104409",
             "url": "https://www.filmweb.pl/film/Drzewo+magii-2026-10104409",
             "genres": [
               "Familijny",
-              "Fantasy",
-              "Przygodowy"
+              "Przygodowy",
+              "Fantasy"
             ],
             "rating": 5.8,
-            "votes": 765
+            "votes": 766
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/the_magic_faraway_tree",
@@ -607,7 +607,7 @@
             "id": "tt36983905",
             "url": "https://www.imdb.com/title/tt36983905/",
             "rating": 6.2,
-            "votes": 13973
+            "votes": 14179
           },
           "filmweb": {
             "id": "10122362",
@@ -617,7 +617,7 @@
               "Akcja"
             ],
             "rating": 5.6,
-            "votes": 617
+            "votes": 618
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/the_uprising_2026",
@@ -672,7 +672,7 @@
             "id": "tt37363222",
             "url": "https://www.imdb.com/title/tt37363222/",
             "rating": 7.7,
-            "votes": 516
+            "votes": 524
           },
           "filmweb": {
             "id": "10112663",
@@ -729,24 +729,24 @@
         "description": "Anglia, 1694 rok. Arogancki rysownik przyjmuje zlecenie na 12 rysunków posiadłości, a jego wynagrodzeniem mają być nie tylko pieniądze, ale i łoże pani domu. Na rycinach zaczynają jednak pojawiać się niepokojące szczegóły. Wytworny kryminał kostiumowy, w którym sztuka widzi więcej niż ludzkie oko.",
         "shortDescription": "Anglia, 1694 rok. Arogancki rysownik przyjmuje zlecenie na 12 rysunków posiadłości, a jego wynagrodzeniem mają być nie tylko pieniądze, ale i łoże pani domu. Na rycinach zaczynają jednak pojawiać się niepokojące szczegóły. Wytworny kryminał kostiumowy, w którym sztuka widzi więcej niż ludzkie oko.",
         "genres": [
-          "Kostiumowy",
+          "Dramat",
           "Komedia",
-          "Dramat"
+          "Kostiumowy"
         ],
         "external": {
           "imdb": {
             "id": "tt0083851",
             "url": "https://www.imdb.com/title/tt0083851/",
             "rating": 7.2,
-            "votes": 12177
+            "votes": 12178
           },
           "filmweb": {
             "id": "6845",
             "url": "https://www.filmweb.pl/film/Kontrakt+rysownika-1982-6845",
             "genres": [
-              "Kostiumowy",
+              "Dramat",
               "Komedia",
-              "Dramat"
+              "Kostiumowy"
             ],
             "rating": 7.5,
             "votes": 3418
@@ -805,7 +805,7 @@
             "id": "tt0106408",
             "url": "https://www.imdb.com/title/tt0106408/",
             "rating": 6.4,
-            "votes": 1330
+            "votes": 1331
           },
           "filmweb": {
             "id": "163199",
@@ -814,8 +814,8 @@
               "Dramat",
               "Komedia"
             ],
-            "rating": 5.8,
-            "votes": 16
+            "rating": 5.5,
+            "votes": 17
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/bhaji_on_the_beach",
@@ -863,25 +863,25 @@
         "description": "Hipnotyzujące dzieło współscenarzystki THE BRUTALIST, rzucające światło na herstorię Ann Lee – przywódczyni sekty Shakerów. Kobieta sprzeciwia się zastanemu porządkowi zepsutego świata i zakłada wspólnotę propagującą równość płciową i społeczną. Ann rusza ze swoją misją do Nowej Anglii za Atlantyk.",
         "shortDescription": "Hipnotyzujące dzieło współscenarzystki THE BRUTALIST, rzucające światło na herstorię Ann Lee – przywódczyni sekty Shakerów. Kobieta sprzeciwia się zastanemu porządkowi zepsutego świata i zakłada wspólnotę propagującą równość płciową i społeczną. Ann rusza ze swoją misją do Nowej Anglii za Atlantyk.",
         "genres": [
-          "Dramat",
-          "Musical"
+          "Musical",
+          "Dramat"
         ],
         "external": {
           "imdb": {
             "id": "tt34819091",
             "url": "https://www.imdb.com/title/tt34819091/",
             "rating": 6.4,
-            "votes": 11161
+            "votes": 11169
           },
           "filmweb": {
             "id": "10090000",
             "url": "https://www.filmweb.pl/film/Testament+Ann+Lee-2025-10090000",
             "genres": [
-              "Dramat",
-              "Musical"
+              "Musical",
+              "Dramat"
             ],
             "rating": 6,
-            "votes": 2475
+            "votes": 2478
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/the_testament_of_ann_lee",
@@ -929,22 +929,22 @@
         "description": "Aktorski popis Sir Iana McKellena (to on zainspirował powstanie scenariusza), Michaeli Coel, Jessiki Gunning i Jamesa Cordena w najnowszym filmie Stevena Soderbergha. Ekscytująca historia rozgrywająca się w świecie sztuki, pełna zarazem humoru i lekkości, jak i rodzinnych napięć i emocji. Prowokuje, pytając o różnicę między wartością a ceną. Pierwszy pokaz w Polsce.",
         "shortDescription": "Aktorski popis Sir Iana McKellena (to on zainspirował powstanie scenariusza), Michaeli Coel, Jessiki Gunning i Jamesa Cordena w najnowszym filmie Stevena Soderbergha. Ekscytująca historia rozgrywająca się w świecie sztuki, pełna zarazem humoru i lekkości, jak i rodzinnych napięć i emocji. Prowokuje, pytając o różnicę między wartością a ceną. Pierwszy pokaz w Polsce.",
         "genres": [
-          "Dramat",
-          "Komedia"
+          "Komedia",
+          "Dramat"
         ],
         "external": {
           "imdb": {
             "id": "tt34966562",
             "url": "https://www.imdb.com/title/tt34966562/",
             "rating": 6.8,
-            "votes": 7023
+            "votes": 7041
           },
           "filmweb": {
             "id": "10093695",
             "url": "https://www.filmweb.pl/film/Fa%C5%82szerka-2025-10093695",
             "genres": [
-              "Dramat",
-              "Komedia"
+              "Komedia",
+              "Dramat"
             ],
             "rating": 6,
             "votes": 118
@@ -995,25 +995,25 @@
         "description": "Wzruszająca opowieść o utraconej miłości, rozgrywająca się „na dole” angielskiej wiejskiej rezydencji – w świecie, który w połowie XX wieku powoli odchodzi w przeszłość. Film studia Merchant Ivory, oparty na powieści Kazuo Ishiguro, jest znakomitym przykładem popularnego kina kostiumowego, w którym brytyjska kinematografia osiągnęła w tym okresie prawdziwe mistrzostwo.",
         "shortDescription": "Wzruszająca opowieść o utraconej miłości, rozgrywająca się „na dole” angielskiej wiejskiej rezydencji – w świecie, który w połowie XX wieku powoli odchodzi w przeszłość. Film studia Merchant Ivory, oparty na powieści Kazuo Ishiguro, jest znakomitym przykładem popularnego kina kostiumowego, w którym brytyjska kinematografia osiągnęła w tym okresie prawdziwe mistrzostwo.",
         "genres": [
-          "Obyczajowy",
-          "Melodramat"
+          "Melodramat",
+          "Obyczajowy"
         ],
         "external": {
           "imdb": {
             "id": "tt0107943",
             "url": "https://www.imdb.com/title/tt0107943/",
             "rating": 7.8,
-            "votes": 94729
+            "votes": 94742
           },
           "filmweb": {
             "id": "1234",
             "url": "https://www.filmweb.pl/film/Okruchy+dnia-1993-1234",
             "genres": [
-              "Obyczajowy",
-              "Melodramat"
+              "Melodramat",
+              "Obyczajowy"
             ],
             "rating": 7.7,
-            "votes": 39693
+            "votes": 39694
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/remains_of_the_day",
@@ -1068,7 +1068,7 @@
             "id": "tt0448124",
             "url": "https://www.imdb.com/title/tt0448124/",
             "rating": 7.4,
-            "votes": 13931
+            "votes": 13932
           },
           "filmweb": {
             "id": "182553",
@@ -1133,7 +1133,7 @@
             "id": "tt35674521",
             "url": "https://www.imdb.com/title/tt35674521/",
             "rating": 6.2,
-            "votes": 4037
+            "votes": 4060
           },
           "filmweb": {
             "id": "10072340",
@@ -1143,7 +1143,7 @@
               "Sci-Fi"
             ],
             "rating": 6.9,
-            "votes": 688
+            "votes": 689
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/rose_of_nevada",
@@ -1306,7 +1306,7 @@
             "id": "tt36980182",
             "url": "https://www.imdb.com/title/tt36980182/",
             "rating": 7,
-            "votes": 2743
+            "votes": 2786
           },
           "filmweb": {
             "id": "10093682",
@@ -1315,7 +1315,7 @@
               "Komedia"
             ],
             "rating": 6.5,
-            "votes": 91
+            "votes": 92
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/the_incomer",
@@ -1363,25 +1363,25 @@
         "description": "Ekranizacja bestsellera Raynor Winn na podstawie scenariusza Rebeki Lenkiewicz (IDA). Gdy małżeństwo traci dom i zdrowie, podejmuje radykalną decyzję: pieszą wędrówkę liczącym ponad 1000 km szlakiem South West Coast Path. Poruszająca, wizualnie urzekająca oda do siły natury i ludzkiego ducha.",
         "shortDescription": "Ekranizacja bestsellera Raynor Winn na podstawie scenariusza Rebeki Lenkiewicz (IDA). Gdy małżeństwo traci dom i zdrowie, podejmuje radykalną decyzję: pieszą wędrówkę liczącym ponad 1000 km szlakiem South West Coast Path. Poruszająca, wizualnie urzekająca oda do siły natury i ludzkiego ducha.",
         "genres": [
-          "Dramat",
-          "Psychologiczny"
+          "Psychologiczny",
+          "Dramat"
         ],
         "external": {
           "imdb": {
             "id": "tt27766440",
             "url": "https://www.imdb.com/title/tt27766440/",
             "rating": 6.6,
-            "votes": 7966
+            "votes": 7968
           },
           "filmweb": {
             "id": "10058778",
             "url": "https://www.filmweb.pl/film/%C5%9Acie%C5%BCki+%C5%BCycia-2024-10058778",
             "genres": [
-              "Dramat",
-              "Psychologiczny"
+              "Psychologiczny",
+              "Dramat"
             ],
             "rating": 6.8,
-            "votes": 6282
+            "votes": 6284
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/the_salt_path",
@@ -1437,7 +1437,7 @@
             "id": "tt0107207",
             "url": "https://www.imdb.com/title/tt0107207/",
             "rating": 8.1,
-            "votes": 205594
+            "votes": 205616
           },
           "filmweb": {
             "id": "1231",
@@ -1447,7 +1447,7 @@
               "Dramat obyczajowy"
             ],
             "rating": 8,
-            "votes": 54038
+            "votes": 54040
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/in_the_name_of_the_father",
@@ -1502,7 +1502,7 @@
             "id": "tt0477302",
             "url": "https://www.imdb.com/title/tt0477302/",
             "rating": 6.9,
-            "votes": 108561
+            "votes": 108567
           },
           "filmweb": {
             "id": "296427",
@@ -1566,7 +1566,7 @@
             "id": "tt32141377",
             "url": "https://www.imdb.com/title/tt32141377/",
             "rating": 7.2,
-            "votes": 134714
+            "votes": 134994
           },
           "filmweb": {
             "id": "10068169",
@@ -1575,7 +1575,7 @@
               "Horror"
             ],
             "rating": 6.8,
-            "votes": 21161
+            "votes": 21182
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/28_years_later_the_bone_temple",
@@ -1629,8 +1629,8 @@
           "imdb": {
             "id": "tt38991615",
             "url": "https://www.imdb.com/title/tt38991615/",
-            "rating": 7.2,
-            "votes": 238
+            "rating": 7.1,
+            "votes": 240
           },
           "filmweb": {
             "id": "10121238",
@@ -1639,7 +1639,7 @@
               "Dramat"
             ],
             "rating": 6.8,
-            "votes": 345
+            "votes": 346
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/i_see_buildings_fall_like_lightning",
@@ -1696,7 +1696,7 @@
             "id": "tt27674982",
             "url": "https://www.imdb.com/title/tt27674982/",
             "rating": 7.4,
-            "votes": 26523
+            "votes": 26533
           },
           "filmweb": {
             "id": "10070057",
@@ -1762,7 +1762,7 @@
             "id": "tt35521922",
             "url": "https://www.imdb.com/title/tt35521922/",
             "rating": 6.1,
-            "votes": 38953
+            "votes": 38999
           },
           "filmweb": {
             "id": "10064809",
@@ -1771,7 +1771,7 @@
               "Thriller"
             ],
             "rating": 7.2,
-            "votes": 15732
+            "votes": 15764
           },
           "rottenTomatoes": null
         },
@@ -1815,7 +1815,7 @@
             "id": "tt0419677",
             "url": "https://www.imdb.com/title/tt0419677/",
             "rating": 7.5,
-            "votes": 64370
+            "votes": 64377
           },
           "filmweb": {
             "id": "39701",

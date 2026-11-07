@@ -1,12 +1,12 @@
 {
   "schemaVersion": 1,
   "date": "2026-11-13",
-  "updatedAt": "2026-11-06T17:27:29.431Z",
+  "updatedAt": "2026-11-07T16:24:13.170Z",
   "source": "https://www.kinomuza.pl/repertoire/day/",
   "day": {
-    "id": "07",
+    "id": "06",
     "date": "13.11",
-    "now": "2026-11-06 18:26:31",
+    "now": "2026-11-07 17:22:40",
     "info": [],
     "repertoire": [
       {
@@ -48,7 +48,7 @@
             "id": "tt2639254",
             "url": "https://www.imdb.com/title/tt2639254/",
             "rating": 6.5,
-            "votes": 27164
+            "votes": 27166
           },
           "filmweb": {
             "id": "680371",
@@ -116,7 +116,7 @@
             "id": "tt34798706",
             "url": "https://www.imdb.com/title/tt34798706/",
             "rating": 6.9,
-            "votes": 209
+            "votes": 212
           },
           "filmweb": {
             "id": "10109750",
@@ -175,8 +175,8 @@
         "description": "Zainspirowany najsłynniejszą sztuką Williama Szekspira film w reżyserii Chloé Zhao jest wrażliwym i głębokim obrazem małżeństwa, próbującego ukształtować się na nowo po śmierci ukochanego dziecka. W rolach głównych zjawiskowy duet: Jessie Buckley oraz Paul Mescal.",
         "shortDescription": "Zainspirowany najsłynniejszą sztuką Williama Szekspira film w reżyserii Chloé Zhao jest wrażliwym i głębokim obrazem małżeństwa, próbującego ukształtować się na nowo po śmierci ukochanego dziecka. W rolach głównych zjawiskowy duet: Jessie Buckley oraz Paul Mescal.",
         "genres": [
-          "Dramat",
           "Biograficzny",
+          "Dramat",
           "Kostiumowy"
         ],
         "external": {
@@ -184,18 +184,18 @@
             "id": "tt14905854",
             "url": "https://www.imdb.com/title/tt14905854/",
             "rating": 7.8,
-            "votes": 141275
+            "votes": 141446
           },
           "filmweb": {
             "id": "10035555",
             "url": "https://www.filmweb.pl/film/Hamnet-2025-10035555",
             "genres": [
-              "Dramat",
               "Biograficzny",
+              "Dramat",
               "Kostiumowy"
             ],
             "rating": 7.6,
-            "votes": 30506
+            "votes": 30524
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/hamnet",
@@ -243,22 +243,22 @@
         "description": "Raphael, Gardo i Rato, trzej chłopcy z faweli w Rio de Janeiro, znajdują na wysypisku portfel. Jego zawartość – trochę pieniędzy, jakieś zdjęcia, dokumenty i ciągi liczb – prowadzi ich do tajemnicy związanej z korupcją. Młodzieńcy, ścigani przez policję, rozpoczynają własne śledztwo.",
         "shortDescription": "Raphael, Gardo i Rato, trzej chłopcy z faweli w Rio de Janeiro, znajdują na wysypisku portfel. Jego zawartość – trochę pieniędzy, jakieś zdjęcia, dokumenty i ciągi liczb – prowadzi ich do tajemnicy związanej z korupcją. Młodzieńcy, ścigani przez policję, rozpoczynają własne śledztwo.",
         "genres": [
-          "Kryminał",
-          "Przygodowy"
+          "Przygodowy",
+          "Kryminał"
         ],
         "external": {
           "imdb": {
             "id": "tt1921149",
             "url": "https://www.imdb.com/title/tt1921149/",
             "rating": 7.1,
-            "votes": 23881
+            "votes": 23883
           },
           "filmweb": {
             "id": "693053",
             "url": "https://www.filmweb.pl/film/%C5%9Amie%C4%87-2014-693053",
             "genres": [
-              "Kryminał",
-              "Przygodowy"
+              "Przygodowy",
+              "Kryminał"
             ],
             "rating": 7.1,
             "votes": 15792
@@ -309,25 +309,25 @@
         "description": "Hipnotyzujące dzieło współscenarzystki THE BRUTALIST, rzucające światło na herstorię Ann Lee – przywódczyni sekty Shakerów. Kobieta sprzeciwia się zastanemu porządkowi zepsutego świata i zakłada wspólnotę propagującą równość płciową i społeczną. Ann rusza ze swoją misją do Nowej Anglii za Atlantyk.",
         "shortDescription": "Hipnotyzujące dzieło współscenarzystki THE BRUTALIST, rzucające światło na herstorię Ann Lee – przywódczyni sekty Shakerów. Kobieta sprzeciwia się zastanemu porządkowi zepsutego świata i zakłada wspólnotę propagującą równość płciową i społeczną. Ann rusza ze swoją misją do Nowej Anglii za Atlantyk.",
         "genres": [
-          "Dramat",
-          "Musical"
+          "Musical",
+          "Dramat"
         ],
         "external": {
           "imdb": {
             "id": "tt34819091",
             "url": "https://www.imdb.com/title/tt34819091/",
             "rating": 6.4,
-            "votes": 11161
+            "votes": 11169
           },
           "filmweb": {
             "id": "10090000",
             "url": "https://www.filmweb.pl/film/Testament+Ann+Lee-2025-10090000",
             "genres": [
-              "Dramat",
-              "Musical"
+              "Musical",
+              "Dramat"
             ],
             "rating": 6,
-            "votes": 2475
+            "votes": 2478
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/the_testament_of_ann_lee",
@@ -383,7 +383,7 @@
             "id": "tt9362736",
             "url": "https://www.imdb.com/title/tt9362736/",
             "rating": 6,
-            "votes": 50963
+            "votes": 51005
           },
           "filmweb": {
             "id": "10023025",
@@ -393,7 +393,7 @@
               "Psychologiczny"
             ],
             "rating": 5.8,
-            "votes": 12718
+            "votes": 12728
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/die_my_love_2025",
@@ -448,7 +448,7 @@
             "id": "tt27811182",
             "url": "https://www.imdb.com/title/tt27811182/",
             "rating": 7.3,
-            "votes": 104
+            "votes": 105
           },
           "filmweb": {
             "id": "10112672",
@@ -512,7 +512,7 @@
             "id": "tt0041546",
             "url": "https://www.imdb.com/title/tt0041546/",
             "rating": 8,
-            "votes": 42688
+            "votes": 42693
           },
           "filmweb": {
             "id": "31660",
@@ -521,7 +521,7 @@
               "Komedia kryminalna"
             ],
             "rating": 7.8,
-            "votes": 1720
+            "votes": 1721
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/kind_hearts_and_coronets",
@@ -615,7 +615,7 @@
             "id": "tt0097108",
             "url": "https://www.imdb.com/title/tt0097108/",
             "rating": 7.5,
-            "votes": 45730
+            "votes": 45734
           },
           "filmweb": {
             "id": "6923",
@@ -625,7 +625,7 @@
               "Komedia"
             ],
             "rating": 7.5,
-            "votes": 8982
+            "votes": 8983
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/the_cook_the_thief_his_wife_and_her_lover",
@@ -680,7 +680,7 @@
             "id": "tt0064866",
             "url": "https://www.imdb.com/title/tt0064866/",
             "rating": 7.1,
-            "votes": 6548
+            "votes": 6553
           },
           "filmweb": {
             "id": "9023",
@@ -775,25 +775,25 @@
         "description": "Ekranizacja bestsellera Raynor Winn na podstawie scenariusza Rebeki Lenkiewicz (IDA). Gdy małżeństwo traci dom i zdrowie, podejmuje radykalną decyzję: pieszą wędrówkę liczącym ponad 1000 km szlakiem South West Coast Path. Poruszająca, wizualnie urzekająca oda do siły natury i ludzkiego ducha.",
         "shortDescription": "Ekranizacja bestsellera Raynor Winn na podstawie scenariusza Rebeki Lenkiewicz (IDA). Gdy małżeństwo traci dom i zdrowie, podejmuje radykalną decyzję: pieszą wędrówkę liczącym ponad 1000 km szlakiem South West Coast Path. Poruszająca, wizualnie urzekająca oda do siły natury i ludzkiego ducha.",
         "genres": [
-          "Dramat",
-          "Psychologiczny"
+          "Psychologiczny",
+          "Dramat"
         ],
         "external": {
           "imdb": {
             "id": "tt27766440",
             "url": "https://www.imdb.com/title/tt27766440/",
             "rating": 6.6,
-            "votes": 7966
+            "votes": 7968
           },
           "filmweb": {
             "id": "10058778",
             "url": "https://www.filmweb.pl/film/%C5%9Acie%C5%BCki+%C5%BCycia-2024-10058778",
             "genres": [
-              "Dramat",
-              "Psychologiczny"
+              "Psychologiczny",
+              "Dramat"
             ],
             "rating": 6.8,
-            "votes": 6282
+            "votes": 6284
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/the_salt_path",
@@ -848,7 +848,7 @@
             "id": "tt0274558",
             "url": "https://www.imdb.com/title/tt0274558/",
             "rating": 7.5,
-            "votes": 148441
+            "votes": 148455
           },
           "filmweb": {
             "id": "32380",
@@ -857,7 +857,7 @@
               "Dramat"
             ],
             "rating": 7.3,
-            "votes": 110150
+            "votes": 110151
           },
           "rottenTomatoes": null
         },
@@ -901,7 +901,7 @@
             "id": "tt10329560",
             "url": "https://www.imdb.com/title/tt10329560/",
             "rating": 6.6,
-            "votes": 2916
+            "votes": 2921
           },
           "filmweb": {
             "id": "10048300",
@@ -966,7 +966,7 @@
             "id": "tt13609648",
             "url": "https://www.imdb.com/title/tt13609648/",
             "rating": 7.2,
-            "votes": 9582
+            "votes": 10129
           },
           "filmweb": {
             "id": "10087170",
@@ -976,7 +976,7 @@
               "Melodramat"
             ],
             "rating": 7.2,
-            "votes": 3274
+            "votes": 3307
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/sense_and_sensibility_2026",
@@ -1031,7 +1031,7 @@
             "id": "tt32321317",
             "url": "https://www.imdb.com/title/tt32321317/",
             "rating": 6.9,
-            "votes": 25582
+            "votes": 25637
           },
           "filmweb": {
             "id": "10053146",
@@ -1040,7 +1040,7 @@
               "Melodramat"
             ],
             "rating": 6.5,
-            "votes": 6351
+            "votes": 6364
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/pillion",
@@ -1149,7 +1149,7 @@
             "id": "tt36983905",
             "url": "https://www.imdb.com/title/tt36983905/",
             "rating": 6.2,
-            "votes": 13973
+            "votes": 14179
           },
           "filmweb": {
             "id": "10122362",
@@ -1159,7 +1159,7 @@
               "Akcja"
             ],
             "rating": 5.6,
-            "votes": 617
+            "votes": 618
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/the_uprising_2026",
@@ -1214,7 +1214,7 @@
             "id": "tt35521922",
             "url": "https://www.imdb.com/title/tt35521922/",
             "rating": 6.1,
-            "votes": 38953
+            "votes": 38999
           },
           "filmweb": {
             "id": "10064809",
@@ -1223,7 +1223,7 @@
               "Thriller"
             ],
             "rating": 7.2,
-            "votes": 15732
+            "votes": 15764
           },
           "rottenTomatoes": null
         },
@@ -1267,7 +1267,7 @@
             "id": "tt0091142",
             "url": "https://www.imdb.com/title/tt0091142/",
             "rating": 5.7,
-            "votes": 10244
+            "votes": 10251
           },
           "filmweb": {
             "id": "5908",
@@ -1332,7 +1332,7 @@
             "id": "tt0435625",
             "url": "https://www.imdb.com/title/tt0435625/",
             "rating": 7.2,
-            "votes": 279680
+            "votes": 279743
           },
           "filmweb": {
             "id": "214803",
@@ -1341,7 +1341,7 @@
               "Horror"
             ],
             "rating": 6.3,
-            "votes": 80343
+            "votes": 80346
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/descent",

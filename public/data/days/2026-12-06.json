@@ -1,0 +1,88 @@
+{
+  "schemaVersion": 1,
+  "date": "2026-12-06",
+  "updatedAt": "2026-11-07T20:28:59.295Z",
+  "source": "https://www.kinomuza.pl/repertoire/day/",
+  "day": {
+    "id": "29",
+    "date": "06.12",
+    "now": "2026-11-07 21:28:48",
+    "info": [],
+    "repertoire": [
+      {
+        "hour": "14:00",
+        "datetime": "2026-12-06 14:00:00",
+        "title": "Rodzice chrzestni z Tokio",
+        "originalTitle": "Tokyo Godfathers",
+        "director": "Satoshi Kon, Shôgo Furuya",
+        "year": "2003",
+        "premiereDate": "",
+        "duration": "92",
+        "countries": "Japonia",
+        "shortDesc": "<p>Troje bezdomnych przemierza współczesne Tokio, poszukując matki porzuconego dziecka. Kolejny film Satoshiego Kona przeznaczony dla starszych widzów.</p>\n",
+        "lang": "",
+        "subtitlesLang": "pl",
+        "age": "16",
+        "credits": "reż. Satoshi Kon, Shôgo Furuya <br>Japonia <br>2003,92’",
+        "desc": "<p>Troje bezdomnych przemierza współczesne Tokio, poszukując matki porzuconego dziecka. Kolejny film Satoshiego Kona przeznaczony dla starszych widzów.</p>\n",
+        "hall": "1",
+        "movieLink": "https://www.kinomuza.pl/movie/rodzice-chrzestni-z-tokio/",
+        "ticketLink": "https://estradapoznan.bilety24.pl/kup-bilety/?id=1017619#total",
+        "prePremier": false,
+        "tape35mm": false,
+        "ad": false,
+        "deaf": false,
+        "ticketPrice": "",
+        "ticketHalfPrice": "",
+        "alt": "Rodzice chrzestni z Tokio",
+        "thumb": "https://www.kinomuza.pl/content/uploads/2021/12/rodzice-chrzestni-1-800x450.jpg",
+        "event": "ANIMUZA",
+        "cycle": "animuza",
+        "description": "Troje bezdomnych przemierza współczesne Tokio, poszukując matki porzuconego dziecka. Kolejny film Satoshiego Kona przeznaczony dla starszych widzów.",
+        "shortDescription": "Troje bezdomnych przemierza współczesne Tokio, poszukując matki porzuconego dziecka. Kolejny film Satoshiego Kona przeznaczony dla starszych widzów.",
+        "genres": [
+          "Dramat",
+          "Familijny",
+          "Anime",
+          "Komedia",
+          "Świąteczny"
+        ],
+        "external": {
+          "imdb": {
+            "id": "tt0388473",
+            "url": "https://www.imdb.com/title/tt0388473/",
+            "rating": 7.8,
+            "votes": 56234
+          },
+          "filmweb": {
+            "id": "107897",
+            "url": "https://www.filmweb.pl/film/Rodzice+chrzestni+z+Tokio-2003-107897",
+            "genres": [
+              "Dramat",
+              "Familijny",
+              "Anime",
+              "Komedia",
+              "Świąteczny"
+            ],
+            "rating": 7.6,
+            "votes": 5997
+          },
+          "rottenTomatoes": {
+            "url": "https://www.rottentomatoes.com/m/tokyo_godfathers",
+            "title": "Tokyo Godfathers",
+            "year": "2003",
+            "directors": [
+              "Satoshi Kon"
+            ],
+            "criticsRating": null,
+            "criticsVotes": 76,
+            "audienceRating": null,
+            "audienceVotes": null
+          }
+        },
+        "longDescription": "Troje bezdomnych przemierza współczesne Tokio, poszukując matki porzuconego dziecka. Kolejny film Satoshiego Kona przeznaczony dla starszych widzów.\n\nAkcja trzeciego filmu Satoshi Kona rozpoczyna się w dzień wigilii Bożego Narodzenia. Trójka bezdomnych zamieszkujących ulice Tokyo: były zawodowy kolarz Gin, podstarzała drag queen Hana oraz nastoletnia Miyuki, grzebiąc w śmieciach znajduje porzuconego niemowlaka. To niezwykłe odkrycie zmienia życie bohaterów, którzy postanawiają wspólnie zaopiekować się dzieckiem i przy pomocy wskazówek pozostawionych przy maleństwie odnaleźć jego prawdziwych rodziców.",
+        "poster": "media/posters/ce51e7d9ebb24c280d64.webp"
+      }
+    ]
+  }
+}

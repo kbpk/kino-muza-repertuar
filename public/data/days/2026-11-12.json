@@ -1,12 +1,12 @@
 {
   "schemaVersion": 1,
   "date": "2026-11-12",
-  "updatedAt": "2026-11-07T20:28:59.295Z",
+  "updatedAt": "2026-11-08T16:42:11.259Z",
   "source": "https://www.kinomuza.pl/repertoire/day/",
   "day": {
-    "id": "05",
+    "id": "04",
     "date": "12.11",
-    "now": "2026-11-07 21:28:34",
+    "now": "2026-11-08 17:38:18",
     "info": [],
     "repertoire": [
       {
@@ -103,27 +103,27 @@
         "description": "Chcąc uporać się z przeszłością, ekscentryczny samotnik przeznacza ogromną wygraną na loterii, by reaktywować swój ulubiony duet muzyczny. Jego członków, którzy byli niegdyś parą i nie widzieli się od lat, zaprasza na odciętą od świata walijską wysepkę i zleca im zagranie kameralnego koncertu.",
         "shortDescription": "Chcąc uporać się z przeszłością, ekscentryczny samotnik przeznacza ogromną wygraną na loterii, by reaktywować swój ulubiony duet muzyczny. Jego członków, którzy byli niegdyś parą i nie widzieli się od lat, zaprasza na odciętą od świata walijską wysepkę i zleca im zagranie kameralnego koncertu.",
         "genres": [
-          "Dramat",
+          "Muzyczny",
           "Komedia",
-          "Muzyczny"
+          "Dramat"
         ],
         "external": {
           "imdb": {
             "id": "tt27674982",
             "url": "https://www.imdb.com/title/tt27674982/",
             "rating": 7.4,
-            "votes": 26533
+            "votes": 26539
           },
           "filmweb": {
             "id": "10070057",
             "url": "https://www.filmweb.pl/film/The+Ballad+of+Wallis+Island-2025-10070057",
             "genres": [
-              "Dramat",
+              "Muzyczny",
               "Komedia",
-              "Muzyczny"
+              "Dramat"
             ],
             "rating": 6.8,
-            "votes": 999
+            "votes": 1003
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/the_ballad_of_wallis_island",
@@ -176,7 +176,7 @@
             "id": "tt0252444",
             "url": "https://www.imdb.com/title/tt0252444/",
             "rating": 7.4,
-            "votes": 31918
+            "votes": 31923
           },
           "filmweb": null,
           "rottenTomatoes": null
@@ -274,7 +274,7 @@
             "id": "tt32321317",
             "url": "https://www.imdb.com/title/tt32321317/",
             "rating": 6.9,
-            "votes": 25637
+            "votes": 25677
           },
           "filmweb": {
             "id": "10053146",
@@ -283,7 +283,7 @@
               "Melodramat"
             ],
             "rating": 6.5,
-            "votes": 6364
+            "votes": 6379
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/pillion",
@@ -339,7 +339,7 @@
             "id": "tt27766440",
             "url": "https://www.imdb.com/title/tt27766440/",
             "rating": 6.6,
-            "votes": 7968
+            "votes": 7971
           },
           "filmweb": {
             "id": "10058778",
@@ -349,7 +349,7 @@
               "Dramat"
             ],
             "rating": 6.8,
-            "votes": 6284
+            "votes": 6285
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/the_salt_path",
@@ -458,8 +458,8 @@
           "imdb": {
             "id": "tt38991615",
             "url": "https://www.imdb.com/title/tt38991615/",
-            "rating": 7.1,
-            "votes": 240
+            "rating": 7.2,
+            "votes": 245
           },
           "filmweb": {
             "id": "10121238",
@@ -523,7 +523,7 @@
             "id": "tt0976051",
             "url": "https://www.imdb.com/title/tt0976051/",
             "rating": 7.6,
-            "votes": 276290
+            "votes": 276304
           },
           "filmweb": {
             "id": "439584",
@@ -532,7 +532,7 @@
               "Melodramat"
             ],
             "rating": 7.8,
-            "votes": 211885
+            "votes": 211889
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/reader",
@@ -580,25 +580,25 @@
         "description": "Alan Rickman jako pułkownik Brandon stworzył portret cichego melancholika o zranionym sercu, czym zerwał z łatką filmowego złoczyńcy. Anglia, XVIII wiek. Po śmierci ojca panny Dashwood są zmuszone opuścić rodzinną posiadłość oraz sprostać skromnym realiom i zmiennym niczym londyńska mgła adoratorom.",
         "shortDescription": "Alan Rickman jako pułkownik Brandon stworzył portret cichego melancholika o zranionym sercu, czym zerwał z łatką filmowego złoczyńcy. Anglia, XVIII wiek. Po śmierci ojca panny Dashwood są zmuszone opuścić rodzinną posiadłość oraz sprostać skromnym realiom i zmiennym niczym londyńska mgła adoratorom.",
         "genres": [
-          "Melodramat",
-          "Kostiumowy"
+          "Kostiumowy",
+          "Melodramat"
         ],
         "external": {
           "imdb": {
             "id": "tt0114388",
             "url": "https://www.imdb.com/title/tt0114388/",
             "rating": 7.7,
-            "votes": 139449
+            "votes": 139478
           },
           "filmweb": {
             "id": "166",
             "url": "https://www.filmweb.pl/film/Rozwa%C5%BCna+i+romantyczna-1995-166",
             "genres": [
-              "Melodramat",
-              "Kostiumowy"
+              "Kostiumowy",
+              "Melodramat"
             ],
             "rating": 7.3,
-            "votes": 62982
+            "votes": 62984
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/1068832-sense_and_sensibility",
@@ -654,7 +654,7 @@
             "id": "tt34819091",
             "url": "https://www.imdb.com/title/tt34819091/",
             "rating": 6.4,
-            "votes": 11169
+            "votes": 11186
           },
           "filmweb": {
             "id": "10090000",
@@ -664,7 +664,7 @@
               "Dramat"
             ],
             "rating": 6,
-            "votes": 2478
+            "votes": 2479
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/the_testament_of_ann_lee",
@@ -721,7 +721,7 @@
             "id": "tt14905854",
             "url": "https://www.imdb.com/title/tt14905854/",
             "rating": 7.8,
-            "votes": 141446
+            "votes": 141564
           },
           "filmweb": {
             "id": "10035555",
@@ -732,7 +732,7 @@
               "Kostiumowy"
             ],
             "rating": 7.6,
-            "votes": 30524
+            "votes": 30549
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/hamnet",
@@ -852,7 +852,7 @@
             "id": "tt0314331",
             "url": "https://www.imdb.com/title/tt0314331/",
             "rating": 7.5,
-            "votes": 586266
+            "votes": 586304
           },
           "filmweb": {
             "id": "99390",
@@ -862,7 +862,7 @@
               "Świąteczny"
             ],
             "rating": 7.5,
-            "votes": 271346
+            "votes": 271351
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/love_actually",
@@ -918,7 +918,7 @@
             "id": "tt31514146",
             "url": "https://www.imdb.com/title/tt31514146/",
             "rating": 8.3,
-            "votes": 72911
+            "votes": 73099
           },
           "filmweb": {
             "id": "10088817",
@@ -928,7 +928,7 @@
               "Biograficzny"
             ],
             "rating": 8,
-            "votes": 5060
+            "votes": 5339
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/i_swear_2025",
@@ -1113,7 +1113,7 @@
             "id": "tt32141377",
             "url": "https://www.imdb.com/title/tt32141377/",
             "rating": 7.2,
-            "votes": 134994
+            "votes": 135169
           },
           "filmweb": {
             "id": "10068169",
@@ -1122,7 +1122,7 @@
               "Horror"
             ],
             "rating": 6.8,
-            "votes": 21182
+            "votes": 21208
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/28_years_later_the_bone_temple",
@@ -1178,7 +1178,7 @@
             "id": "tt37967547",
             "url": "https://www.imdb.com/title/tt37967547/",
             "rating": 6.9,
-            "votes": 583
+            "votes": 594
           },
           "filmweb": {
             "id": "10100972",
@@ -1243,7 +1243,7 @@
             "id": "tt35521922",
             "url": "https://www.imdb.com/title/tt35521922/",
             "rating": 6.1,
-            "votes": 38999
+            "votes": 39028
           },
           "filmweb": {
             "id": "10064809",
@@ -1252,7 +1252,7 @@
               "Thriller"
             ],
             "rating": 7.2,
-            "votes": 15764
+            "votes": 15813
           },
           "rottenTomatoes": null
         },
@@ -1296,7 +1296,7 @@
             "id": "tt10329560",
             "url": "https://www.imdb.com/title/tt10329560/",
             "rating": 6.6,
-            "votes": 2921
+            "votes": 2925
           },
           "filmweb": {
             "id": "10048300",
@@ -1305,7 +1305,7 @@
               "Dramat"
             ],
             "rating": 5.9,
-            "votes": 196
+            "votes": 197
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/h_is_for_hawk",
@@ -1402,22 +1402,22 @@
         "description": "Legendarny Vincent Price w najlepszej roli w karierze jako Matthew Hopkins – prawnik, który w czasie angielskiej wojny domowej objeżdża wsie i za pieniądze wyszukuje w nich czarownice. Ponury, brutalny i wciąż niewygodny klasyk, bez którego nie byłoby brytyjskiego folk horroru.",
         "shortDescription": "Legendarny Vincent Price w najlepszej roli w karierze jako Matthew Hopkins – prawnik, który w czasie angielskiej wojny domowej objeżdża wsie i za pieniądze wyszukuje w nich czarownice. Ponury, brutalny i wciąż niewygodny klasyk, bez którego nie byłoby brytyjskiego folk horroru.",
         "genres": [
-          "Dramat historyczny",
-          "Biograficzny"
+          "Biograficzny",
+          "Dramat historyczny"
         ],
         "external": {
           "imdb": {
             "id": "tt0063285",
             "url": "https://www.imdb.com/title/tt0063285/",
             "rating": 6.7,
-            "votes": 14229
+            "votes": 14233
           },
           "filmweb": {
             "id": "119896",
             "url": "https://www.filmweb.pl/film/Pogromca+czarownic-1968-119896",
             "genres": [
-              "Dramat historyczny",
-              "Biograficzny"
+              "Biograficzny",
+              "Dramat historyczny"
             ],
             "rating": 6.6,
             "votes": 830

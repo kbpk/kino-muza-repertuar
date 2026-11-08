@@ -1,12 +1,12 @@
 {
   "schemaVersion": 1,
   "date": "2026-12-06",
-  "updatedAt": "2026-11-07T20:28:59.295Z",
+  "updatedAt": "2026-11-08T16:42:11.259Z",
   "source": "https://www.kinomuza.pl/repertoire/day/",
   "day": {
-    "id": "29",
+    "id": "28",
     "date": "06.12",
-    "now": "2026-11-07 21:28:48",
+    "now": "2026-11-08 17:40:37",
     "info": [],
     "repertoire": [
       {
@@ -41,28 +41,28 @@
         "description": "Troje bezdomnych przemierza współczesne Tokio, poszukując matki porzuconego dziecka. Kolejny film Satoshiego Kona przeznaczony dla starszych widzów.",
         "shortDescription": "Troje bezdomnych przemierza współczesne Tokio, poszukując matki porzuconego dziecka. Kolejny film Satoshiego Kona przeznaczony dla starszych widzów.",
         "genres": [
+          "Komedia",
           "Dramat",
           "Familijny",
-          "Anime",
-          "Komedia",
-          "Świąteczny"
+          "Świąteczny",
+          "Anime"
         ],
         "external": {
           "imdb": {
             "id": "tt0388473",
             "url": "https://www.imdb.com/title/tt0388473/",
             "rating": 7.8,
-            "votes": 56234
+            "votes": 56238
           },
           "filmweb": {
             "id": "107897",
             "url": "https://www.filmweb.pl/film/Rodzice+chrzestni+z+Tokio-2003-107897",
             "genres": [
+              "Komedia",
               "Dramat",
               "Familijny",
-              "Anime",
-              "Komedia",
-              "Świąteczny"
+              "Świąteczny",
+              "Anime"
             ],
             "rating": 7.6,
             "votes": 5997

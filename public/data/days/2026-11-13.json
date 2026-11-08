@@ -1,12 +1,12 @@
 {
   "schemaVersion": 1,
   "date": "2026-11-13",
-  "updatedAt": "2026-11-07T20:28:59.295Z",
+  "updatedAt": "2026-11-08T16:42:11.259Z",
   "source": "https://www.kinomuza.pl/repertoire/day/",
   "day": {
-    "id": "06",
+    "id": "05",
     "date": "13.11",
-    "now": "2026-11-07 21:28:37",
+    "now": "2026-11-08 17:38:23",
     "info": [],
     "repertoire": [
       {
@@ -48,7 +48,7 @@
             "id": "tt2639254",
             "url": "https://www.imdb.com/title/tt2639254/",
             "rating": 6.5,
-            "votes": 27166
+            "votes": 27168
           },
           "filmweb": {
             "id": "680371",
@@ -116,7 +116,7 @@
             "id": "tt34798706",
             "url": "https://www.imdb.com/title/tt34798706/",
             "rating": 6.9,
-            "votes": 212
+            "votes": 215
           },
           "filmweb": {
             "id": "10109750",
@@ -184,7 +184,7 @@
             "id": "tt14905854",
             "url": "https://www.imdb.com/title/tt14905854/",
             "rating": 7.8,
-            "votes": 141446
+            "votes": 141564
           },
           "filmweb": {
             "id": "10035555",
@@ -195,7 +195,7 @@
               "Kostiumowy"
             ],
             "rating": 7.6,
-            "votes": 30524
+            "votes": 30549
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/hamnet",
@@ -243,8 +243,8 @@
         "description": "Raphael, Gardo i Rato, trzej chłopcy z faweli w Rio de Janeiro, znajdują na wysypisku portfel. Jego zawartość – trochę pieniędzy, jakieś zdjęcia, dokumenty i ciągi liczb – prowadzi ich do tajemnicy związanej z korupcją. Młodzieńcy, ścigani przez policję, rozpoczynają własne śledztwo.",
         "shortDescription": "Raphael, Gardo i Rato, trzej chłopcy z faweli w Rio de Janeiro, znajdują na wysypisku portfel. Jego zawartość – trochę pieniędzy, jakieś zdjęcia, dokumenty i ciągi liczb – prowadzi ich do tajemnicy związanej z korupcją. Młodzieńcy, ścigani przez policję, rozpoczynają własne śledztwo.",
         "genres": [
-          "Przygodowy",
-          "Kryminał"
+          "Kryminał",
+          "Przygodowy"
         ],
         "external": {
           "imdb": {
@@ -257,8 +257,8 @@
             "id": "693053",
             "url": "https://www.filmweb.pl/film/%C5%9Amie%C4%87-2014-693053",
             "genres": [
-              "Przygodowy",
-              "Kryminał"
+              "Kryminał",
+              "Przygodowy"
             ],
             "rating": 7.1,
             "votes": 15792
@@ -317,7 +317,7 @@
             "id": "tt34819091",
             "url": "https://www.imdb.com/title/tt34819091/",
             "rating": 6.4,
-            "votes": 11169
+            "votes": 11186
           },
           "filmweb": {
             "id": "10090000",
@@ -327,7 +327,7 @@
               "Dramat"
             ],
             "rating": 6,
-            "votes": 2478
+            "votes": 2479
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/the_testament_of_ann_lee",
@@ -383,7 +383,7 @@
             "id": "tt9362736",
             "url": "https://www.imdb.com/title/tt9362736/",
             "rating": 6,
-            "votes": 51005
+            "votes": 51045
           },
           "filmweb": {
             "id": "10023025",
@@ -393,7 +393,7 @@
               "Psychologiczny"
             ],
             "rating": 5.8,
-            "votes": 12728
+            "votes": 12743
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/die_my_love_2025",
@@ -448,7 +448,7 @@
             "id": "tt27811182",
             "url": "https://www.imdb.com/title/tt27811182/",
             "rating": 7.3,
-            "votes": 105
+            "votes": 106
           },
           "filmweb": {
             "id": "10112672",
@@ -512,7 +512,7 @@
             "id": "tt0041546",
             "url": "https://www.imdb.com/title/tt0041546/",
             "rating": 8,
-            "votes": 42693
+            "votes": 42703
           },
           "filmweb": {
             "id": "31660",
@@ -615,7 +615,7 @@
             "id": "tt0097108",
             "url": "https://www.imdb.com/title/tt0097108/",
             "rating": 7.5,
-            "votes": 45734
+            "votes": 45744
           },
           "filmweb": {
             "id": "6923",
@@ -625,7 +625,7 @@
               "Komedia"
             ],
             "rating": 7.5,
-            "votes": 8983
+            "votes": 8984
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/the_cook_the_thief_his_wife_and_her_lover",
@@ -783,7 +783,7 @@
             "id": "tt27766440",
             "url": "https://www.imdb.com/title/tt27766440/",
             "rating": 6.6,
-            "votes": 7968
+            "votes": 7971
           },
           "filmweb": {
             "id": "10058778",
@@ -793,7 +793,7 @@
               "Dramat"
             ],
             "rating": 6.8,
-            "votes": 6284
+            "votes": 6285
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/the_salt_path",
@@ -848,7 +848,7 @@
             "id": "tt0274558",
             "url": "https://www.imdb.com/title/tt0274558/",
             "rating": 7.5,
-            "votes": 148455
+            "votes": 148462
           },
           "filmweb": {
             "id": "32380",
@@ -857,7 +857,7 @@
               "Dramat"
             ],
             "rating": 7.3,
-            "votes": 110151
+            "votes": 110153
           },
           "rottenTomatoes": null
         },
@@ -901,7 +901,7 @@
             "id": "tt10329560",
             "url": "https://www.imdb.com/title/tt10329560/",
             "rating": 6.6,
-            "votes": 2921
+            "votes": 2925
           },
           "filmweb": {
             "id": "10048300",
@@ -910,7 +910,7 @@
               "Dramat"
             ],
             "rating": 5.9,
-            "votes": 196
+            "votes": 197
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/h_is_for_hawk",
@@ -966,7 +966,7 @@
             "id": "tt13609648",
             "url": "https://www.imdb.com/title/tt13609648/",
             "rating": 7.2,
-            "votes": 10129
+            "votes": 10454
           },
           "filmweb": {
             "id": "10087170",
@@ -976,7 +976,7 @@
               "Melodramat"
             ],
             "rating": 7.2,
-            "votes": 3307
+            "votes": 3366
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/sense_and_sensibility_2026",
@@ -1031,7 +1031,7 @@
             "id": "tt32321317",
             "url": "https://www.imdb.com/title/tt32321317/",
             "rating": 6.9,
-            "votes": 25637
+            "votes": 25677
           },
           "filmweb": {
             "id": "10053146",
@@ -1040,7 +1040,7 @@
               "Melodramat"
             ],
             "rating": 6.5,
-            "votes": 6364
+            "votes": 6379
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/pillion",
@@ -1141,25 +1141,25 @@
         "description": "Oparte na faktycznym powstaniu Wata Tylera z 1381 roku historyczne widowisko stawiające pytanie o cenę wolności w czasach feudalnego ucisku. Wyniszczony epidemią dżumy i represyjnym podatkiem pogłównym lud średniowiecznej Anglii wszczyna rebelię przeciwko szlachcie i tyranii króla Ryszarda II.",
         "shortDescription": "Oparte na faktycznym powstaniu Wata Tylera z 1381 roku historyczne widowisko stawiające pytanie o cenę wolności w czasach feudalnego ucisku. Wyniszczony epidemią dżumy i represyjnym podatkiem pogłównym lud średniowiecznej Anglii wszczyna rebelię przeciwko szlachcie i tyranii króla Ryszarda II.",
         "genres": [
-          "Historyczny",
-          "Akcja"
+          "Akcja",
+          "Historyczny"
         ],
         "external": {
           "imdb": {
             "id": "tt36983905",
             "url": "https://www.imdb.com/title/tt36983905/",
             "rating": 6.2,
-            "votes": 14179
+            "votes": 14437
           },
           "filmweb": {
             "id": "10122362",
             "url": "https://www.filmweb.pl/film/Rebelia-2026-10122362",
             "genres": [
-              "Historyczny",
-              "Akcja"
+              "Akcja",
+              "Historyczny"
             ],
             "rating": 5.6,
-            "votes": 618
+            "votes": 622
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/the_uprising_2026",
@@ -1214,7 +1214,7 @@
             "id": "tt35521922",
             "url": "https://www.imdb.com/title/tt35521922/",
             "rating": 6.1,
-            "votes": 38999
+            "votes": 39028
           },
           "filmweb": {
             "id": "10064809",
@@ -1223,7 +1223,7 @@
               "Thriller"
             ],
             "rating": 7.2,
-            "votes": 15764
+            "votes": 15813
           },
           "rottenTomatoes": null
         },
@@ -1267,7 +1267,7 @@
             "id": "tt0091142",
             "url": "https://www.imdb.com/title/tt0091142/",
             "rating": 5.7,
-            "votes": 10251
+            "votes": 10255
           },
           "filmweb": {
             "id": "5908",
@@ -1332,7 +1332,7 @@
             "id": "tt0435625",
             "url": "https://www.imdb.com/title/tt0435625/",
             "rating": 7.2,
-            "votes": 279743
+            "votes": 279774
           },
           "filmweb": {
             "id": "214803",
@@ -1341,7 +1341,7 @@
               "Horror"
             ],
             "rating": 6.3,
-            "votes": 80346
+            "votes": 80352
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/descent",

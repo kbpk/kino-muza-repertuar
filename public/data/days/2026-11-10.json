@@ -1,12 +1,12 @@
 {
   "schemaVersion": 1,
   "date": "2026-11-10",
-  "updatedAt": "2026-11-07T20:28:59.295Z",
+  "updatedAt": "2026-11-08T16:42:11.259Z",
   "source": "https://www.kinomuza.pl/repertoire/day/",
   "day": {
-    "id": "03",
+    "id": "02",
     "date": "10.11",
-    "now": "2026-11-07 21:28:34",
+    "now": "2026-11-08 17:38:20",
     "info": [],
     "repertoire": [
       {
@@ -47,7 +47,7 @@
             "id": "tt37363222",
             "url": "https://www.imdb.com/title/tt37363222/",
             "rating": 7.7,
-            "votes": 524
+            "votes": 533
           },
           "filmweb": {
             "id": "10112663",
@@ -112,7 +112,7 @@
             "id": "tt37363222",
             "url": "https://www.imdb.com/title/tt37363222/",
             "rating": 7.7,
-            "votes": 524
+            "votes": 533
           },
           "filmweb": {
             "id": "10112663",
@@ -177,7 +177,7 @@
             "id": "tt31514146",
             "url": "https://www.imdb.com/title/tt31514146/",
             "rating": 8.3,
-            "votes": 72911
+            "votes": 73099
           },
           "filmweb": {
             "id": "10088817",
@@ -187,7 +187,7 @@
               "Biograficzny"
             ],
             "rating": 8,
-            "votes": 5060
+            "votes": 5339
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/i_swear_2025",
@@ -241,8 +241,8 @@
           "imdb": {
             "id": "tt38991615",
             "url": "https://www.imdb.com/title/tt38991615/",
-            "rating": 7.1,
-            "votes": 240
+            "rating": 7.2,
+            "votes": 245
           },
           "filmweb": {
             "id": "10121238",
@@ -308,7 +308,7 @@
             "id": "tt0365748",
             "url": "https://www.imdb.com/title/tt0365748/",
             "rating": 7.8,
-            "votes": 647956
+            "votes": 648025
           },
           "filmweb": {
             "id": "121881",
@@ -318,7 +318,7 @@
               "Komedia"
             ],
             "rating": 6.6,
-            "votes": 52134
+            "votes": 52138
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/shaun_of_the_dead",

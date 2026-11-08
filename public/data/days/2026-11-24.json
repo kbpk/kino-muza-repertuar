@@ -1,12 +1,12 @@
 {
   "schemaVersion": 1,
   "date": "2026-11-24",
-  "updatedAt": "2026-11-07T20:28:59.295Z",
+  "updatedAt": "2026-11-08T16:42:11.259Z",
   "source": "https://www.kinomuza.pl/repertoire/day/",
   "day": {
-    "id": "17",
+    "id": "16",
     "date": "24.11",
-    "now": "2026-11-07 21:28:42",
+    "now": "2026-11-08 17:39:43",
     "info": [],
     "repertoire": [
       {
@@ -49,7 +49,7 @@
             "id": "tt0330243",
             "url": "https://www.imdb.com/title/tt0330243/",
             "rating": 8.1,
-            "votes": 13674
+            "votes": 13675
           },
           "filmweb": {
             "id": "31413",
@@ -60,7 +60,7 @@
               "Komedia"
             ],
             "rating": 7.8,
-            "votes": 643061
+            "votes": 643083
           },
           "rottenTomatoes": null
         },

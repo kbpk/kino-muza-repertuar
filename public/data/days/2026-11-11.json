@@ -1,12 +1,12 @@
 {
   "schemaVersion": 1,
   "date": "2026-11-11",
-  "updatedAt": "2026-11-07T20:28:59.295Z",
+  "updatedAt": "2026-11-08T16:42:11.259Z",
   "source": "https://www.kinomuza.pl/repertoire/day/",
   "day": {
-    "id": "04",
+    "id": "03",
     "date": "11.11",
-    "now": "2026-11-07 21:28:34",
+    "now": "2026-11-08 17:38:19",
     "info": [],
     "repertoire": [
       {
@@ -49,7 +49,7 @@
             "id": "tt36841161",
             "url": "https://www.imdb.com/title/tt36841161/",
             "rating": 7.1,
-            "votes": 3452
+            "votes": 3527
           },
           "filmweb": {
             "id": "10101144",
@@ -59,7 +59,7 @@
               "Familijny"
             ],
             "rating": 6.9,
-            "votes": 928
+            "votes": 945
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/shaun_the_sheep_the_beast_of_mossy_bottom",
@@ -111,23 +111,23 @@
         "shortDescription": "Rodzina Thompsonów przeprowadza się z Londynu na wieś, gdzie dzieci odkrywają drzewo kryjące w koronie przejście do coraz bardziej niezwykłych krain. Współczesna, gwiazdorska ekranizacja klasyki Enid Blyton to pełna humoru brytyjska baśń o dziecięcej ciekawości, rodzinnej bliskości i mocy wyobraźni.",
         "genres": [
           "Familijny",
-          "Przygodowy",
-          "Fantasy"
+          "Fantasy",
+          "Przygodowy"
         ],
         "external": {
           "imdb": {
             "id": "tt7734244",
             "url": "https://www.imdb.com/title/tt7734244/",
             "rating": 6.2,
-            "votes": 6843
+            "votes": 6876
           },
           "filmweb": {
             "id": "10104409",
             "url": "https://www.filmweb.pl/film/Drzewo+magii-2026-10104409",
             "genres": [
               "Familijny",
-              "Przygodowy",
-              "Fantasy"
+              "Fantasy",
+              "Przygodowy"
             ],
             "rating": 5.8,
             "votes": 766
@@ -253,7 +253,7 @@
             "id": "tt27541205",
             "url": "https://www.imdb.com/title/tt27541205/",
             "rating": 7.6,
-            "votes": 993
+            "votes": 1022
           },
           "filmweb": {
             "id": "10034624",
@@ -385,7 +385,7 @@
             "id": "tt34819091",
             "url": "https://www.imdb.com/title/tt34819091/",
             "rating": 6.4,
-            "votes": 11169
+            "votes": 11186
           },
           "filmweb": {
             "id": "10090000",
@@ -395,7 +395,7 @@
               "Dramat"
             ],
             "rating": 6,
-            "votes": 2478
+            "votes": 2479
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/the_testament_of_ann_lee",
@@ -451,7 +451,7 @@
             "id": "tt27766440",
             "url": "https://www.imdb.com/title/tt27766440/",
             "rating": 6.6,
-            "votes": 7968
+            "votes": 7971
           },
           "filmweb": {
             "id": "10058778",
@@ -461,7 +461,7 @@
               "Dramat"
             ],
             "rating": 6.8,
-            "votes": 6284
+            "votes": 6285
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/the_salt_path",
@@ -584,7 +584,7 @@
             "id": "tt0102798",
             "url": "https://www.imdb.com/title/tt0102798/",
             "rating": 6.9,
-            "votes": 225168
+            "votes": 225186
           },
           "filmweb": {
             "id": "9183",
@@ -593,7 +593,7 @@
               "Przygodowy"
             ],
             "rating": 7.2,
-            "votes": 143519
+            "votes": 143522
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/robin_hood_prince_of_thieves",
@@ -648,7 +648,7 @@
             "id": "tt10329560",
             "url": "https://www.imdb.com/title/tt10329560/",
             "rating": 6.6,
-            "votes": 2921
+            "votes": 2925
           },
           "filmweb": {
             "id": "10048300",
@@ -657,7 +657,7 @@
               "Dramat"
             ],
             "rating": 5.9,
-            "votes": 196
+            "votes": 197
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/h_is_for_hawk",
@@ -712,7 +712,7 @@
             "id": "tt35521922",
             "url": "https://www.imdb.com/title/tt35521922/",
             "rating": 6.1,
-            "votes": 38999
+            "votes": 39028
           },
           "filmweb": {
             "id": "10064809",
@@ -721,7 +721,7 @@
               "Thriller"
             ],
             "rating": 7.2,
-            "votes": 15764
+            "votes": 15813
           },
           "rottenTomatoes": null
         },
@@ -765,7 +765,7 @@
             "id": "tt40001182",
             "url": "https://www.imdb.com/title/tt40001182/",
             "rating": 7.9,
-            "votes": 222
+            "votes": 225
           },
           "filmweb": {
             "id": "10118884",
@@ -830,7 +830,7 @@
             "id": "tt34966562",
             "url": "https://www.imdb.com/title/tt34966562/",
             "rating": 6.8,
-            "votes": 7041
+            "votes": 7053
           },
           "filmweb": {
             "id": "10093695",
@@ -896,7 +896,7 @@
             "id": "tt13609648",
             "url": "https://www.imdb.com/title/tt13609648/",
             "rating": 7.2,
-            "votes": 10129
+            "votes": 10454
           },
           "filmweb": {
             "id": "10087170",
@@ -906,7 +906,7 @@
               "Melodramat"
             ],
             "rating": 7.2,
-            "votes": 3307
+            "votes": 3366
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/sense_and_sensibility_2026",
@@ -962,7 +962,7 @@
             "id": "tt9362736",
             "url": "https://www.imdb.com/title/tt9362736/",
             "rating": 6,
-            "votes": 51005
+            "votes": 51045
           },
           "filmweb": {
             "id": "10023025",
@@ -972,7 +972,7 @@
               "Psychologiczny"
             ],
             "rating": 5.8,
-            "votes": 12728
+            "votes": 12743
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/die_my_love_2025",
@@ -1028,7 +1028,7 @@
             "id": "tt0051554",
             "url": "https://www.imdb.com/title/tt0051554/",
             "rating": 7.2,
-            "votes": 30748
+            "votes": 30750
           },
           "filmweb": {
             "id": "35022",
@@ -1081,7 +1081,7 @@
             "id": "tt36980182",
             "url": "https://www.imdb.com/title/tt36980182/",
             "rating": 7,
-            "votes": 2786
+            "votes": 2834
           },
           "filmweb": {
             "id": "10093682",
@@ -1090,7 +1090,7 @@
               "Komedia"
             ],
             "rating": 6.5,
-            "votes": 92
+            "votes": 93
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/the_incomer",
@@ -1146,7 +1146,7 @@
             "id": "tt35674521",
             "url": "https://www.imdb.com/title/tt35674521/",
             "rating": 6.2,
-            "votes": 4060
+            "votes": 4074
           },
           "filmweb": {
             "id": "10072340",
@@ -1156,7 +1156,7 @@
               "Sci-Fi"
             ],
             "rating": 6.9,
-            "votes": 689
+            "votes": 691
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/rose_of_nevada",
@@ -1211,7 +1211,7 @@
             "id": "tt32141377",
             "url": "https://www.imdb.com/title/tt32141377/",
             "rating": 7.2,
-            "votes": 134994
+            "votes": 135169
           },
           "filmweb": {
             "id": "10068169",
@@ -1220,7 +1220,7 @@
               "Horror"
             ],
             "rating": 6.8,
-            "votes": 21182
+            "votes": 21208
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/28_years_later_the_bone_temple",
@@ -1275,7 +1275,7 @@
             "id": "tt0093177",
             "url": "https://www.imdb.com/title/tt0093177/",
             "rating": 6.9,
-            "votes": 158756
+            "votes": 158779
           },
           "filmweb": {
             "id": "31326",
@@ -1284,7 +1284,7 @@
               "Horror"
             ],
             "rating": 6.8,
-            "votes": 26642
+            "votes": 26649
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/hellraiser",
@@ -1339,7 +1339,7 @@
             "id": "tt32321317",
             "url": "https://www.imdb.com/title/tt32321317/",
             "rating": 6.9,
-            "votes": 25637
+            "votes": 25677
           },
           "filmweb": {
             "id": "10053146",
@@ -1348,7 +1348,7 @@
               "Melodramat"
             ],
             "rating": 6.5,
-            "votes": 6364
+            "votes": 6379
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/pillion",

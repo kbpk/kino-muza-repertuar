@@ -1,12 +1,12 @@
 {
   "schemaVersion": 1,
   "date": "2026-11-25",
-  "updatedAt": "2026-11-07T20:28:59.295Z",
+  "updatedAt": "2026-11-08T16:42:11.259Z",
   "source": "https://www.kinomuza.pl/repertoire/day/",
   "day": {
-    "id": "18",
+    "id": "17",
     "date": "25.11",
-    "now": "2026-11-07 21:28:43",
+    "now": "2026-11-08 17:39:44",
     "info": [],
     "repertoire": [
       {
@@ -47,7 +47,7 @@
             "id": "tt29271622",
             "url": "https://www.imdb.com/title/tt29271622/",
             "rating": 7.4,
-            "votes": 8643
+            "votes": 8648
           },
           "filmweb": {
             "id": "10075691",
@@ -118,8 +118,8 @@
               "Dramat",
               "Historyczny"
             ],
-            "rating": 6,
-            "votes": 1
+            "rating": 6.7,
+            "votes": 3
           },
           "rottenTomatoes": null
         },

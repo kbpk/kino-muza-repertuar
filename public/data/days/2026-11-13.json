@@ -1,12 +1,12 @@
 {
   "schemaVersion": 1,
   "date": "2026-11-13",
-  "updatedAt": "2026-11-08T16:42:11.259Z",
+  "updatedAt": "2026-11-10T17:48:40.418Z",
   "source": "https://www.kinomuza.pl/repertoire/day/",
   "day": {
-    "id": "05",
+    "id": "03",
     "date": "13.11",
-    "now": "2026-11-08 17:38:23",
+    "now": "2026-11-10 18:44:12",
     "info": [],
     "repertoire": [
       {
@@ -48,7 +48,7 @@
             "id": "tt2639254",
             "url": "https://www.imdb.com/title/tt2639254/",
             "rating": 6.5,
-            "votes": 27168
+            "votes": 27172
           },
           "filmweb": {
             "id": "680371",
@@ -107,27 +107,27 @@
         "description": "Minna i Flic to dwie wybitne uczennice szkoły z internatem, które wspólnie planują swoją przyszłość. Gdy odkrywają, że w ich perfekcyjnym życiorysie brakuje miłości, postanawiają potraktować zakochanie się jak kolejne dydaktyczne zadanie i stworzyć plan, który pozwoli im zdobyć romantyczne doświadczenie.",
         "shortDescription": "Minna i Flic to dwie wybitne uczennice szkoły z internatem, które wspólnie planują swoją przyszłość. Gdy odkrywają, że w ich perfekcyjnym życiorysie brakuje miłości, postanawiają potraktować zakochanie się jak kolejne dydaktyczne zadanie i stworzyć plan, który pozwoli im zdobyć romantyczne doświadczenie.",
         "genres": [
+          "Romans",
           "Dramat",
-          "Komedia",
-          "Romans"
+          "Komedia"
         ],
         "external": {
           "imdb": {
             "id": "tt34798706",
             "url": "https://www.imdb.com/title/tt34798706/",
             "rating": 6.9,
-            "votes": 215
+            "votes": 221
           },
           "filmweb": {
             "id": "10109750",
             "url": "https://www.filmweb.pl/film/Extra+Geography-2026-10109750",
             "genres": [
+              "Romans",
               "Dramat",
-              "Komedia",
-              "Romans"
+              "Komedia"
             ],
             "rating": 6.9,
-            "votes": 39
+            "votes": 40
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/extra_geography",
@@ -175,27 +175,27 @@
         "description": "Zainspirowany najsłynniejszą sztuką Williama Szekspira film w reżyserii Chloé Zhao jest wrażliwym i głębokim obrazem małżeństwa, próbującego ukształtować się na nowo po śmierci ukochanego dziecka. W rolach głównych zjawiskowy duet: Jessie Buckley oraz Paul Mescal.",
         "shortDescription": "Zainspirowany najsłynniejszą sztuką Williama Szekspira film w reżyserii Chloé Zhao jest wrażliwym i głębokim obrazem małżeństwa, próbującego ukształtować się na nowo po śmierci ukochanego dziecka. W rolach głównych zjawiskowy duet: Jessie Buckley oraz Paul Mescal.",
         "genres": [
+          "Kostiumowy",
           "Biograficzny",
-          "Dramat",
-          "Kostiumowy"
+          "Dramat"
         ],
         "external": {
           "imdb": {
             "id": "tt14905854",
             "url": "https://www.imdb.com/title/tt14905854/",
             "rating": 7.8,
-            "votes": 141564
+            "votes": 141851
           },
           "filmweb": {
             "id": "10035555",
             "url": "https://www.filmweb.pl/film/Hamnet-2025-10035555",
             "genres": [
+              "Kostiumowy",
               "Biograficzny",
-              "Dramat",
-              "Kostiumowy"
+              "Dramat"
             ],
             "rating": 7.6,
-            "votes": 30549
+            "votes": 30604
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/hamnet",
@@ -251,7 +251,7 @@
             "id": "tt1921149",
             "url": "https://www.imdb.com/title/tt1921149/",
             "rating": 7.1,
-            "votes": 23883
+            "votes": 23886
           },
           "filmweb": {
             "id": "693053",
@@ -261,7 +261,7 @@
               "Przygodowy"
             ],
             "rating": 7.1,
-            "votes": 15792
+            "votes": 15793
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/trash_2015",
@@ -317,7 +317,7 @@
             "id": "tt34819091",
             "url": "https://www.imdb.com/title/tt34819091/",
             "rating": 6.4,
-            "votes": 11186
+            "votes": 11210
           },
           "filmweb": {
             "id": "10090000",
@@ -327,7 +327,7 @@
               "Dramat"
             ],
             "rating": 6,
-            "votes": 2479
+            "votes": 2488
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/the_testament_of_ann_lee",
@@ -383,7 +383,7 @@
             "id": "tt9362736",
             "url": "https://www.imdb.com/title/tt9362736/",
             "rating": 6,
-            "votes": 51045
+            "votes": 51120
           },
           "filmweb": {
             "id": "10023025",
@@ -393,7 +393,7 @@
               "Psychologiczny"
             ],
             "rating": 5.8,
-            "votes": 12743
+            "votes": 12769
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/die_my_love_2025",
@@ -512,7 +512,7 @@
             "id": "tt0041546",
             "url": "https://www.imdb.com/title/tt0041546/",
             "rating": 8,
-            "votes": 42703
+            "votes": 42711
           },
           "filmweb": {
             "id": "31660",
@@ -615,7 +615,7 @@
             "id": "tt0097108",
             "url": "https://www.imdb.com/title/tt0097108/",
             "rating": 7.5,
-            "votes": 45744
+            "votes": 45756
           },
           "filmweb": {
             "id": "6923",
@@ -625,7 +625,7 @@
               "Komedia"
             ],
             "rating": 7.5,
-            "votes": 8984
+            "votes": 8985
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/the_cook_the_thief_his_wife_and_her_lover",
@@ -680,7 +680,7 @@
             "id": "tt0064866",
             "url": "https://www.imdb.com/title/tt0064866/",
             "rating": 7.1,
-            "votes": 6553
+            "votes": 6554
           },
           "filmweb": {
             "id": "9023",
@@ -783,7 +783,7 @@
             "id": "tt27766440",
             "url": "https://www.imdb.com/title/tt27766440/",
             "rating": 6.6,
-            "votes": 7971
+            "votes": 7979
           },
           "filmweb": {
             "id": "10058778",
@@ -793,7 +793,7 @@
               "Dramat"
             ],
             "rating": 6.8,
-            "votes": 6285
+            "votes": 6300
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/the_salt_path",
@@ -848,7 +848,7 @@
             "id": "tt0274558",
             "url": "https://www.imdb.com/title/tt0274558/",
             "rating": 7.5,
-            "votes": 148462
+            "votes": 148488
           },
           "filmweb": {
             "id": "32380",
@@ -857,7 +857,7 @@
               "Dramat"
             ],
             "rating": 7.3,
-            "votes": 110153
+            "votes": 110155
           },
           "rottenTomatoes": null
         },
@@ -901,7 +901,7 @@
             "id": "tt10329560",
             "url": "https://www.imdb.com/title/tt10329560/",
             "rating": 6.6,
-            "votes": 2925
+            "votes": 2937
           },
           "filmweb": {
             "id": "10048300",
@@ -958,25 +958,25 @@
         "description": "Rewizja Austenowskiej prozy wydobywająca z kultowej powieści siostrzeństwo, emancypację i realizm epoki. Georgiańska Anglia. Po śmierci ojca siostry Dashwood wraz z matką zostają zmuszone opuścić dom. Nowa rzeczywistość stawia je w ogniu konwenansów, finansowych trudów i miłosnej niepewności.",
         "shortDescription": "Rewizja Austenowskiej prozy wydobywająca z kultowej powieści siostrzeństwo, emancypację i realizm epoki. Georgiańska Anglia. Po śmierci ojca siostry Dashwood wraz z matką zostają zmuszone opuścić dom. Nowa rzeczywistość stawia je w ogniu konwenansów, finansowych trudów i miłosnej niepewności.",
         "genres": [
-          "Kostiumowy",
-          "Melodramat"
+          "Melodramat",
+          "Kostiumowy"
         ],
         "external": {
           "imdb": {
             "id": "tt13609648",
             "url": "https://www.imdb.com/title/tt13609648/",
             "rating": 7.2,
-            "votes": 10454
+            "votes": 11139
           },
           "filmweb": {
             "id": "10087170",
             "url": "https://www.filmweb.pl/film/Rozwa%C5%BCna+i+romantyczna-2026-10087170",
             "genres": [
-              "Kostiumowy",
-              "Melodramat"
+              "Melodramat",
+              "Kostiumowy"
             ],
             "rating": 7.2,
-            "votes": 3366
+            "votes": 3473
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/sense_and_sensibility_2026",
@@ -1031,7 +1031,7 @@
             "id": "tt32321317",
             "url": "https://www.imdb.com/title/tt32321317/",
             "rating": 6.9,
-            "votes": 25677
+            "votes": 25758
           },
           "filmweb": {
             "id": "10053146",
@@ -1040,7 +1040,7 @@
               "Melodramat"
             ],
             "rating": 6.5,
-            "votes": 6379
+            "votes": 6409
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/pillion",
@@ -1149,7 +1149,7 @@
             "id": "tt36983905",
             "url": "https://www.imdb.com/title/tt36983905/",
             "rating": 6.2,
-            "votes": 14437
+            "votes": 14959
           },
           "filmweb": {
             "id": "10122362",
@@ -1159,7 +1159,7 @@
               "Historyczny"
             ],
             "rating": 5.6,
-            "votes": 622
+            "votes": 634
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/the_uprising_2026",
@@ -1214,7 +1214,7 @@
             "id": "tt35521922",
             "url": "https://www.imdb.com/title/tt35521922/",
             "rating": 6.1,
-            "votes": 39028
+            "votes": 39087
           },
           "filmweb": {
             "id": "10064809",
@@ -1223,7 +1223,7 @@
               "Thriller"
             ],
             "rating": 7.2,
-            "votes": 15813
+            "votes": 15924
           },
           "rottenTomatoes": null
         },
@@ -1267,7 +1267,7 @@
             "id": "tt0091142",
             "url": "https://www.imdb.com/title/tt0091142/",
             "rating": 5.7,
-            "votes": 10255
+            "votes": 10258
           },
           "filmweb": {
             "id": "5908",
@@ -1276,7 +1276,7 @@
               "Horror"
             ],
             "rating": 6.4,
-            "votes": 2611
+            "votes": 2612
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/gothic",
@@ -1332,7 +1332,7 @@
             "id": "tt0435625",
             "url": "https://www.imdb.com/title/tt0435625/",
             "rating": 7.2,
-            "votes": 279774
+            "votes": 279852
           },
           "filmweb": {
             "id": "214803",
@@ -1341,7 +1341,7 @@
               "Horror"
             ],
             "rating": 6.3,
-            "votes": 80352
+            "votes": 80353
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/descent",

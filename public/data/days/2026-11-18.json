@@ -1,0 +1,81 @@
+{
+  "schemaVersion": 1,
+  "date": "2026-11-18",
+  "updatedAt": "2026-11-10T17:48:40.418Z",
+  "source": "https://www.kinomuza.pl/repertoire/day/",
+  "day": {
+    "id": "08",
+    "date": "18.11",
+    "now": "2026-11-10 18:44:16",
+    "info": [],
+    "repertoire": [
+      {
+        "hour": "15:00",
+        "datetime": "2026-11-18 15:00:00",
+        "title": "Pieśni lasu",
+        "originalTitle": "Whispers in the Woods",
+        "director": "Vincent Munier",
+        "year": "2025",
+        "premiereDate": "2026-10-23",
+        "duration": "94",
+        "countries": "Francja",
+        "shortDesc": "<p>Zatrzymaj się i poczuj magię natury podczas prawdziwego kinowego doświadczenia, które angażuje wszystkie zmysły!</p>\n",
+        "lang": "",
+        "subtitlesLang": "pl",
+        "age": "16",
+        "credits": "reż. Vincent Munier <br>Francja <br>2025,94’",
+        "desc": "<p>Zatrzymaj się i poczuj magię natury podczas prawdziwego kinowego doświadczenia, które angażuje wszystkie zmysły!</p>\n",
+        "hall": "1",
+        "movieLink": "https://www.kinomuza.pl/movie/piesni-lasu/",
+        "ticketLink": "https://estradapoznan.bilety24.pl/kup-bilety/?id=1001744#total",
+        "prePremier": false,
+        "tape35mm": false,
+        "ad": false,
+        "deaf": false,
+        "ticketPrice": "",
+        "ticketHalfPrice": "",
+        "alt": "Pieśni lasu",
+        "thumb": "https://www.kinomuza.pl/content/uploads/2026/03/piesn-lasu-3-800x450.jpg",
+        "cycle": "senior w muzie",
+        "description": "Zatrzymaj się i poczuj magię natury podczas prawdziwego kinowego doświadczenia, które angażuje wszystkie zmysły!",
+        "shortDescription": "Zatrzymaj się i poczuj magię natury podczas prawdziwego kinowego doświadczenia, które angażuje wszystkie zmysły!",
+        "genres": [
+          "Dokumentalny",
+          "Przyrodniczy"
+        ],
+        "external": {
+          "imdb": {
+            "id": "tt32368068",
+            "url": "https://www.imdb.com/title/tt32368068/",
+            "rating": 7.7,
+            "votes": 1406
+          },
+          "filmweb": {
+            "id": "10111381",
+            "url": "https://www.filmweb.pl/film/Pie%C5%9Bni+lasu-2025-10111381",
+            "genres": [
+              "Dokumentalny",
+              "Przyrodniczy"
+            ],
+            "rating": 8,
+            "votes": 1447
+          },
+          "rottenTomatoes": {
+            "url": "https://www.rottentomatoes.com/m/whispers_in_the_woods",
+            "title": "Whispers in the Woods",
+            "year": "",
+            "directors": [
+              "Vincent Munier"
+            ],
+            "criticsRating": null,
+            "criticsVotes": null,
+            "audienceRating": null,
+            "audienceVotes": null
+          }
+        },
+        "longDescription": "Zatrzymaj się i poczuj magię natury podczas prawdziwego kinowego doświadczenia, które angażuje wszystkie zmysły! Vincent Munier, twórca kinowego hitu „Duch śniegów”, zaprasza w niezwykłą podróż. W „Pieśniach lasu” dziadek, ojciec i syn wyruszają do serca francuskiego lasu, żeby wspólnie odkrywać jego sekrety i fotografować zwierzęta. Zobacz z bliska dostojne jelenie, skrytego rysia i rzadkie okazy ptaków – w tym niezwykłego głuszca. To wizualny majstersztyk, ale przede wszystkim wzruszająca opowieść o rodzinie, bliskości i przekazywaniu pasji z pokolenia na pokolenie. Wieczorne legendy przy ognisku oraz hipnotyczna muzyka Warrena Ellisa pozwalają na nowo odkryć zachwyt dziką przyrodą. To najbardziej relaksujący film roku, który poruszy każdego, niezależnie od wieku.\n\nFilm dostępny z audiodeskrypcją lub lektorem. Skorzystaj bezpłatnie z aplikacji Kino Dostępne 2.0 w Twoim telefonie – http://kinodostepne.pl",
+        "poster": "media/posters/ca9c4cfd9b42498a81b2.webp"
+      }
+    ]
+  }
+}

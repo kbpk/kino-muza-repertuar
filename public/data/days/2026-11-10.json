@@ -1,12 +1,12 @@
 {
   "schemaVersion": 1,
   "date": "2026-11-10",
-  "updatedAt": "2026-11-08T16:42:11.259Z",
+  "updatedAt": "2026-11-10T17:48:40.418Z",
   "source": "https://www.kinomuza.pl/repertoire/day/",
   "day": {
-    "id": "02",
+    "id": "00",
     "date": "10.11",
-    "now": "2026-11-08 17:38:20",
+    "now": "2026-11-10 18:44:11",
     "info": [],
     "repertoire": [
       {
@@ -47,7 +47,7 @@
             "id": "tt37363222",
             "url": "https://www.imdb.com/title/tt37363222/",
             "rating": 7.7,
-            "votes": 533
+            "votes": 548
           },
           "filmweb": {
             "id": "10112663",
@@ -66,7 +66,7 @@
               "Simon Stone"
             ],
             "criticsRating": null,
-            "criticsVotes": 61,
+            "criticsVotes": 62,
             "audienceRating": null,
             "audienceVotes": null
           }
@@ -112,7 +112,7 @@
             "id": "tt37363222",
             "url": "https://www.imdb.com/title/tt37363222/",
             "rating": 7.7,
-            "votes": 533
+            "votes": 548
           },
           "filmweb": {
             "id": "10112663",
@@ -131,7 +131,7 @@
               "Simon Stone"
             ],
             "criticsRating": null,
-            "criticsVotes": 61,
+            "criticsVotes": 62,
             "audienceRating": null,
             "audienceVotes": null
           }
@@ -177,7 +177,7 @@
             "id": "tt31514146",
             "url": "https://www.imdb.com/title/tt31514146/",
             "rating": 8.3,
-            "votes": 73099
+            "votes": 73576
           },
           "filmweb": {
             "id": "10088817",
@@ -187,7 +187,7 @@
               "Biograficzny"
             ],
             "rating": 8,
-            "votes": 5339
+            "votes": 6180
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/i_swear_2025",
@@ -242,7 +242,7 @@
             "id": "tt38991615",
             "url": "https://www.imdb.com/title/tt38991615/",
             "rating": 7.2,
-            "votes": 245
+            "votes": 246
           },
           "filmweb": {
             "id": "10121238",
@@ -251,7 +251,7 @@
               "Dramat"
             ],
             "rating": 6.8,
-            "votes": 346
+            "votes": 347
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/i_see_buildings_fall_like_lightning",
@@ -300,25 +300,25 @@
         "description": "Trzydziestolatek bez pomysłu na życie budzi się na kacu i odkrywa, że Londyn opanowała epidemia żywych trupów. Opracowuje więc plan: zabrać mamę i dziewczynę, a potem przeczekać apokalipsę w ulubionym pubie. WYSYP ŻYWYCH TRUPÓW to najlepsza komedia o zombie w historii kina i film, któremu pobłogosławił sam George A. Romero.",
         "shortDescription": "Trzydziestolatek bez pomysłu na życie budzi się na kacu i odkrywa, że Londyn opanowała epidemia żywych trupów. Opracowuje więc plan: zabrać mamę i dziewczynę, a potem przeczekać apokalipsę w ulubionym pubie. WYSYP ŻYWYCH TRUPÓW to najlepsza komedia o zombie w historii kina i film, któremu pobłogosławił sam George A. Romero.",
         "genres": [
-          "Horror",
-          "Komedia"
+          "Komedia",
+          "Horror"
         ],
         "external": {
           "imdb": {
             "id": "tt0365748",
             "url": "https://www.imdb.com/title/tt0365748/",
             "rating": 7.8,
-            "votes": 648025
+            "votes": 648156
           },
           "filmweb": {
             "id": "121881",
             "url": "https://www.filmweb.pl/film/Wysyp+%C5%BCywych+trup%C3%B3w-2004-121881",
             "genres": [
-              "Horror",
-              "Komedia"
+              "Komedia",
+              "Horror"
             ],
             "rating": 6.6,
-            "votes": 52138
+            "votes": 52144
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/shaun_of_the_dead",

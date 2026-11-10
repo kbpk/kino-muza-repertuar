@@ -1,12 +1,12 @@
 {
   "schemaVersion": 1,
   "date": "2026-11-14",
-  "updatedAt": "2026-11-08T16:42:11.259Z",
+  "updatedAt": "2026-11-10T17:48:40.418Z",
   "source": "https://www.kinomuza.pl/repertoire/day/",
   "day": {
-    "id": "06",
+    "id": "04",
     "date": "14.11",
-    "now": "2026-11-08 17:38:19",
+    "now": "2026-11-10 18:44:32",
     "info": [],
     "repertoire": [
       {
@@ -153,7 +153,7 @@
             "id": "tt36841161",
             "url": "https://www.imdb.com/title/tt36841161/",
             "rating": 7.1,
-            "votes": 3527
+            "votes": 3709
           },
           "filmweb": {
             "id": "10101144",
@@ -163,7 +163,7 @@
               "Familijny"
             ],
             "rating": 6.9,
-            "votes": 945
+            "votes": 978
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/shaun_the_sheep_the_beast_of_mossy_bottom",
@@ -215,26 +215,26 @@
         "shortDescription": "Rodzina Thompsonów przeprowadza się z Londynu na wieś, gdzie dzieci odkrywają drzewo kryjące w koronie przejście do coraz bardziej niezwykłych krain. Współczesna, gwiazdorska ekranizacja klasyki Enid Blyton to pełna humoru brytyjska baśń o dziecięcej ciekawości, rodzinnej bliskości i mocy wyobraźni.",
         "genres": [
           "Familijny",
-          "Fantasy",
-          "Przygodowy"
+          "Przygodowy",
+          "Fantasy"
         ],
         "external": {
           "imdb": {
             "id": "tt7734244",
             "url": "https://www.imdb.com/title/tt7734244/",
             "rating": 6.2,
-            "votes": 6876
+            "votes": 6955
           },
           "filmweb": {
             "id": "10104409",
             "url": "https://www.filmweb.pl/film/Drzewo+magii-2026-10104409",
             "genres": [
               "Familijny",
-              "Fantasy",
-              "Przygodowy"
+              "Przygodowy",
+              "Fantasy"
             ],
             "rating": 5.8,
-            "votes": 766
+            "votes": 770
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/the_magic_faraway_tree",
@@ -282,27 +282,27 @@
         "description": "Minna i Flic to dwie wybitne uczennice szkoły z internatem, które wspólnie planują swoją przyszłość. Gdy odkrywają, że w ich perfekcyjnym życiorysie brakuje miłości, postanawiają potraktować zakochanie się jak kolejne dydaktyczne zadanie i stworzyć plan, który pozwoli im zdobyć romantyczne doświadczenie.",
         "shortDescription": "Minna i Flic to dwie wybitne uczennice szkoły z internatem, które wspólnie planują swoją przyszłość. Gdy odkrywają, że w ich perfekcyjnym życiorysie brakuje miłości, postanawiają potraktować zakochanie się jak kolejne dydaktyczne zadanie i stworzyć plan, który pozwoli im zdobyć romantyczne doświadczenie.",
         "genres": [
+          "Romans",
           "Dramat",
-          "Komedia",
-          "Romans"
+          "Komedia"
         ],
         "external": {
           "imdb": {
             "id": "tt34798706",
             "url": "https://www.imdb.com/title/tt34798706/",
             "rating": 6.9,
-            "votes": 215
+            "votes": 221
           },
           "filmweb": {
             "id": "10109750",
             "url": "https://www.filmweb.pl/film/Extra+Geography-2026-10109750",
             "genres": [
+              "Romans",
               "Dramat",
-              "Komedia",
-              "Romans"
+              "Komedia"
             ],
             "rating": 6.9,
-            "votes": 39
+            "votes": 40
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/extra_geography",
@@ -357,7 +357,7 @@
             "id": "tt0039192",
             "url": "https://www.imdb.com/title/tt0039192/",
             "rating": 7.7,
-            "votes": 32081
+            "votes": 32094
           },
           "filmweb": {
             "id": "111145",
@@ -366,7 +366,7 @@
               "Dramat"
             ],
             "rating": 7.2,
-            "votes": 1914
+            "votes": 1919
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/black_narcissus",
@@ -479,22 +479,22 @@
         "description": "Nagiko, młoda Japonka, ucieka przed aranżowanym małżeństwem do Hongkongu – współczesnej wieży Babel słynącej z high fashion i street foodu. Tam szuka kochanka-kaligrafa, który będzie w stanie sprostać jej fantazjom. PILLOW BOOK to zmysłowa opowieść o ciele, wyzwoleniu, sprawczości i literaturze.",
         "shortDescription": "Nagiko, młoda Japonka, ucieka przed aranżowanym małżeństwem do Hongkongu – współczesnej wieży Babel słynącej z high fashion i street foodu. Tam szuka kochanka-kaligrafa, który będzie w stanie sprostać jej fantazjom. PILLOW BOOK to zmysłowa opowieść o ciele, wyzwoleniu, sprawczości i literaturze.",
         "genres": [
-          "Melodramat",
-          "Obyczajowy"
+          "Obyczajowy",
+          "Melodramat"
         ],
         "external": {
           "imdb": {
             "id": "tt0114134",
             "url": "https://www.imdb.com/title/tt0114134/",
             "rating": 6.5,
-            "votes": 14383
+            "votes": 14386
           },
           "filmweb": {
             "id": "10738",
             "url": "https://www.filmweb.pl/film/Pillow+Book-1996-10738",
             "genres": [
-              "Melodramat",
-              "Obyczajowy"
+              "Obyczajowy",
+              "Melodramat"
             ],
             "rating": 7.2,
             "votes": 5905
@@ -553,7 +553,7 @@
             "id": "tt34819091",
             "url": "https://www.imdb.com/title/tt34819091/",
             "rating": 6.4,
-            "votes": 11186
+            "votes": 11210
           },
           "filmweb": {
             "id": "10090000",
@@ -563,7 +563,7 @@
               "Dramat"
             ],
             "rating": 6,
-            "votes": 2479
+            "votes": 2488
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/the_testament_of_ann_lee",
@@ -675,7 +675,7 @@
             "id": "tt0212380",
             "url": "https://www.imdb.com/title/tt0212380/",
             "rating": 6.2,
-            "votes": 9705
+            "votes": 9707
           },
           "filmweb": {
             "id": "30869",
@@ -684,7 +684,7 @@
               "Komedia"
             ],
             "rating": 6.6,
-            "votes": 4476
+            "votes": 4477
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/1101191-blow_dry",
@@ -739,7 +739,7 @@
             "id": "tt35521922",
             "url": "https://www.imdb.com/title/tt35521922/",
             "rating": 6.1,
-            "votes": 39028
+            "votes": 39087
           },
           "filmweb": {
             "id": "10064809",
@@ -748,7 +748,7 @@
               "Thriller"
             ],
             "rating": 7.2,
-            "votes": 15813
+            "votes": 15924
           },
           "rottenTomatoes": null
         },
@@ -842,7 +842,7 @@
             "id": "tt0249462",
             "url": "https://www.imdb.com/title/tt0249462/",
             "rating": 7.7,
-            "votes": 154497
+            "votes": 154536
           },
           "filmweb": {
             "id": "1471",
@@ -853,7 +853,7 @@
               "Muzyczny"
             ],
             "rating": 7.6,
-            "votes": 150789
+            "votes": 150796
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/billy_elliot",
@@ -901,27 +901,27 @@
         "description": "Zainspirowany najsłynniejszą sztuką Williama Szekspira film w reżyserii Chloé Zhao jest wrażliwym i głębokim obrazem małżeństwa, próbującego ukształtować się na nowo po śmierci ukochanego dziecka. W rolach głównych zjawiskowy duet: Jessie Buckley oraz Paul Mescal.",
         "shortDescription": "Zainspirowany najsłynniejszą sztuką Williama Szekspira film w reżyserii Chloé Zhao jest wrażliwym i głębokim obrazem małżeństwa, próbującego ukształtować się na nowo po śmierci ukochanego dziecka. W rolach głównych zjawiskowy duet: Jessie Buckley oraz Paul Mescal.",
         "genres": [
+          "Kostiumowy",
           "Biograficzny",
-          "Dramat",
-          "Kostiumowy"
+          "Dramat"
         ],
         "external": {
           "imdb": {
             "id": "tt14905854",
             "url": "https://www.imdb.com/title/tt14905854/",
             "rating": 7.8,
-            "votes": 141564
+            "votes": 141851
           },
           "filmweb": {
             "id": "10035555",
             "url": "https://www.filmweb.pl/film/Hamnet-2025-10035555",
             "genres": [
+              "Kostiumowy",
               "Biograficzny",
-              "Dramat",
-              "Kostiumowy"
+              "Dramat"
             ],
             "rating": 7.6,
-            "votes": 30549
+            "votes": 30604
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/hamnet",
@@ -977,7 +977,7 @@
             "id": "tt0092929",
             "url": "https://www.imdb.com/title/tt0092929/",
             "rating": 7.1,
-            "votes": 10717
+            "votes": 10718
           },
           "filmweb": {
             "id": "5214",
@@ -987,7 +987,7 @@
               "Komedia kryminalna"
             ],
             "rating": 7.5,
-            "votes": 2445
+            "votes": 2446
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/drowning-by-numbers",
@@ -1035,25 +1035,25 @@
         "description": "Rewizja Austenowskiej prozy wydobywająca z kultowej powieści siostrzeństwo, emancypację i realizm epoki. Georgiańska Anglia. Po śmierci ojca siostry Dashwood wraz z matką zostają zmuszone opuścić dom. Nowa rzeczywistość stawia je w ogniu konwenansów, finansowych trudów i miłosnej niepewności.",
         "shortDescription": "Rewizja Austenowskiej prozy wydobywająca z kultowej powieści siostrzeństwo, emancypację i realizm epoki. Georgiańska Anglia. Po śmierci ojca siostry Dashwood wraz z matką zostają zmuszone opuścić dom. Nowa rzeczywistość stawia je w ogniu konwenansów, finansowych trudów i miłosnej niepewności.",
         "genres": [
-          "Kostiumowy",
-          "Melodramat"
+          "Melodramat",
+          "Kostiumowy"
         ],
         "external": {
           "imdb": {
             "id": "tt13609648",
             "url": "https://www.imdb.com/title/tt13609648/",
             "rating": 7.2,
-            "votes": 10454
+            "votes": 11139
           },
           "filmweb": {
             "id": "10087170",
             "url": "https://www.filmweb.pl/film/Rozwa%C5%BCna+i+romantyczna-2026-10087170",
             "genres": [
-              "Kostiumowy",
-              "Melodramat"
+              "Melodramat",
+              "Kostiumowy"
             ],
             "rating": 7.2,
-            "votes": 3366
+            "votes": 3473
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/sense_and_sensibility_2026",
@@ -1108,7 +1108,7 @@
             "id": "tt0050280",
             "url": "https://www.imdb.com/title/tt0050280/",
             "rating": 7,
-            "votes": 15351
+            "votes": 15355
           },
           "filmweb": {
             "id": "112951",
@@ -1173,7 +1173,7 @@
             "id": "tt27766440",
             "url": "https://www.imdb.com/title/tt27766440/",
             "rating": 6.6,
-            "votes": 7971
+            "votes": 7979
           },
           "filmweb": {
             "id": "10058778",
@@ -1183,7 +1183,7 @@
               "Dramat"
             ],
             "rating": 6.8,
-            "votes": 6285
+            "votes": 6300
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/the_salt_path",
@@ -1231,22 +1231,22 @@
         "description": "Aktorski popis Sir Iana McKellena (to on zainspirował powstanie scenariusza), Michaeli Coel, Jessiki Gunning i Jamesa Cordena w najnowszym filmie Stevena Soderbergha. Ekscytująca historia rozgrywająca się w świecie sztuki, pełna zarazem humoru i lekkości, jak i rodzinnych napięć i emocji. Prowokuje, pytając o różnicę między wartością a ceną. Pierwszy pokaz w Polsce.",
         "shortDescription": "Aktorski popis Sir Iana McKellena (to on zainspirował powstanie scenariusza), Michaeli Coel, Jessiki Gunning i Jamesa Cordena w najnowszym filmie Stevena Soderbergha. Ekscytująca historia rozgrywająca się w świecie sztuki, pełna zarazem humoru i lekkości, jak i rodzinnych napięć i emocji. Prowokuje, pytając o różnicę między wartością a ceną. Pierwszy pokaz w Polsce.",
         "genres": [
-          "Komedia",
-          "Dramat"
+          "Dramat",
+          "Komedia"
         ],
         "external": {
           "imdb": {
             "id": "tt34966562",
             "url": "https://www.imdb.com/title/tt34966562/",
             "rating": 6.8,
-            "votes": 7053
+            "votes": 7086
           },
           "filmweb": {
             "id": "10093695",
             "url": "https://www.filmweb.pl/film/Fa%C5%82szerka-2025-10093695",
             "genres": [
-              "Komedia",
-              "Dramat"
+              "Dramat",
+              "Komedia"
             ],
             "rating": 6,
             "votes": 118
@@ -1304,7 +1304,7 @@
             "id": "tt27541205",
             "url": "https://www.imdb.com/title/tt27541205/",
             "rating": 7.6,
-            "votes": 1022
+            "votes": 1078
           },
           "filmweb": {
             "id": "10034624",
@@ -1313,7 +1313,7 @@
               "Dramat"
             ],
             "rating": 7.3,
-            "votes": 542
+            "votes": 543
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/queen_at_sea",
@@ -1323,7 +1323,7 @@
               "Lance Hammer"
             ],
             "criticsRating": null,
-            "criticsVotes": 51,
+            "criticsVotes": 52,
             "audienceRating": null,
             "audienceVotes": null
           }
@@ -1369,7 +1369,7 @@
             "id": "tt37967547",
             "url": "https://www.imdb.com/title/tt37967547/",
             "rating": 6.9,
-            "votes": 594
+            "votes": 610
           },
           "filmweb": {
             "id": "10100972",
@@ -1389,7 +1389,7 @@
               "Danny Boyle"
             ],
             "criticsRating": null,
-            "criticsVotes": 65,
+            "criticsVotes": 66,
             "audienceRating": null,
             "audienceVotes": null
           }
@@ -1434,7 +1434,7 @@
             "id": "tt10329560",
             "url": "https://www.imdb.com/title/tt10329560/",
             "rating": 6.6,
-            "votes": 2925
+            "votes": 2937
           },
           "filmweb": {
             "id": "10048300",
@@ -1498,7 +1498,7 @@
             "id": "tt32141377",
             "url": "https://www.imdb.com/title/tt32141377/",
             "rating": 7.2,
-            "votes": 135169
+            "votes": 135515
           },
           "filmweb": {
             "id": "10068169",
@@ -1507,7 +1507,7 @@
               "Horror"
             ],
             "rating": 6.8,
-            "votes": 21208
+            "votes": 21275
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/28_years_later_the_bone_temple",
@@ -1563,7 +1563,7 @@
             "id": "tt35674521",
             "url": "https://www.imdb.com/title/tt35674521/",
             "rating": 6.2,
-            "votes": 4074
+            "votes": 4101
           },
           "filmweb": {
             "id": "10072340",
@@ -1573,7 +1573,7 @@
               "Sci-Fi"
             ],
             "rating": 6.9,
-            "votes": 691
+            "votes": 692
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/rose_of_nevada",
@@ -1629,7 +1629,7 @@
             "id": "tt9362736",
             "url": "https://www.imdb.com/title/tt9362736/",
             "rating": 6,
-            "votes": 51045
+            "votes": 51120
           },
           "filmweb": {
             "id": "10023025",
@@ -1639,7 +1639,7 @@
               "Psychologiczny"
             ],
             "rating": 5.8,
-            "votes": 12743
+            "votes": 12769
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/die_my_love_2025",
@@ -1687,27 +1687,27 @@
         "description": "Chcąc uporać się z przeszłością, ekscentryczny samotnik przeznacza ogromną wygraną na loterii, by reaktywować swój ulubiony duet muzyczny. Jego członków, którzy byli niegdyś parą i nie widzieli się od lat, zaprasza na odciętą od świata walijską wysepkę i zleca im zagranie kameralnego koncertu.",
         "shortDescription": "Chcąc uporać się z przeszłością, ekscentryczny samotnik przeznacza ogromną wygraną na loterii, by reaktywować swój ulubiony duet muzyczny. Jego członków, którzy byli niegdyś parą i nie widzieli się od lat, zaprasza na odciętą od świata walijską wysepkę i zleca im zagranie kameralnego koncertu.",
         "genres": [
-          "Muzyczny",
+          "Dramat",
           "Komedia",
-          "Dramat"
+          "Muzyczny"
         ],
         "external": {
           "imdb": {
             "id": "tt27674982",
             "url": "https://www.imdb.com/title/tt27674982/",
             "rating": 7.4,
-            "votes": 26539
+            "votes": 26568
           },
           "filmweb": {
             "id": "10070057",
             "url": "https://www.filmweb.pl/film/The+Ballad+of+Wallis+Island-2025-10070057",
             "genres": [
-              "Muzyczny",
+              "Dramat",
               "Komedia",
-              "Dramat"
+              "Muzyczny"
             ],
             "rating": 6.8,
-            "votes": 1003
+            "votes": 1004
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/the_ballad_of_wallis_island",
@@ -1890,7 +1890,7 @@
             "id": "tt32321317",
             "url": "https://www.imdb.com/title/tt32321317/",
             "rating": 6.9,
-            "votes": 25677
+            "votes": 25758
           },
           "filmweb": {
             "id": "10053146",
@@ -1899,7 +1899,7 @@
               "Melodramat"
             ],
             "rating": 6.5,
-            "votes": 6379
+            "votes": 6409
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/pillion",

@@ -1,12 +1,12 @@
 {
   "schemaVersion": 1,
   "date": "2026-11-18",
-  "updatedAt": "2026-11-10T17:48:40.418Z",
+  "updatedAt": "2026-11-11T17:53:19.732Z",
   "source": "https://www.kinomuza.pl/repertoire/day/",
   "day": {
-    "id": "08",
+    "id": "07",
     "date": "18.11",
-    "now": "2026-11-10 18:44:16",
+    "now": "2026-11-11 18:51:48",
     "info": [],
     "repertoire": [
       {
@@ -48,7 +48,7 @@
             "id": "tt32368068",
             "url": "https://www.imdb.com/title/tt32368068/",
             "rating": 7.7,
-            "votes": 1406
+            "votes": 1411
           },
           "filmweb": {
             "id": "10111381",
@@ -58,7 +58,7 @@
               "Przyrodniczy"
             ],
             "rating": 8,
-            "votes": 1447
+            "votes": 1469
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/whispers_in_the_woods",

@@ -1,12 +1,12 @@
 {
   "schemaVersion": 1,
   "date": "2026-11-12",
-  "updatedAt": "2026-11-10T17:48:40.418Z",
+  "updatedAt": "2026-11-11T17:53:19.732Z",
   "source": "https://www.kinomuza.pl/repertoire/day/",
   "day": {
-    "id": "02",
+    "id": "01",
     "date": "12.11",
-    "now": "2026-11-10 18:44:12",
+    "now": "2026-11-11 18:51:47",
     "info": [],
     "repertoire": [
       {
@@ -103,8 +103,8 @@
         "description": "Chcąc uporać się z przeszłością, ekscentryczny samotnik przeznacza ogromną wygraną na loterii, by reaktywować swój ulubiony duet muzyczny. Jego członków, którzy byli niegdyś parą i nie widzieli się od lat, zaprasza na odciętą od świata walijską wysepkę i zleca im zagranie kameralnego koncertu.",
         "shortDescription": "Chcąc uporać się z przeszłością, ekscentryczny samotnik przeznacza ogromną wygraną na loterii, by reaktywować swój ulubiony duet muzyczny. Jego członków, którzy byli niegdyś parą i nie widzieli się od lat, zaprasza na odciętą od świata walijską wysepkę i zleca im zagranie kameralnego koncertu.",
         "genres": [
-          "Dramat",
           "Komedia",
+          "Dramat",
           "Muzyczny"
         ],
         "external": {
@@ -112,18 +112,18 @@
             "id": "tt27674982",
             "url": "https://www.imdb.com/title/tt27674982/",
             "rating": 7.4,
-            "votes": 26568
+            "votes": 26576
           },
           "filmweb": {
             "id": "10070057",
             "url": "https://www.filmweb.pl/film/The+Ballad+of+Wallis+Island-2025-10070057",
             "genres": [
-              "Dramat",
               "Komedia",
+              "Dramat",
               "Muzyczny"
             ],
             "rating": 6.8,
-            "votes": 1004
+            "votes": 1005
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/the_ballad_of_wallis_island",
@@ -274,7 +274,7 @@
             "id": "tt32321317",
             "url": "https://www.imdb.com/title/tt32321317/",
             "rating": 6.9,
-            "votes": 25758
+            "votes": 25784
           },
           "filmweb": {
             "id": "10053146",
@@ -283,7 +283,7 @@
               "Melodramat"
             ],
             "rating": 6.5,
-            "votes": 6409
+            "votes": 6422
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/pillion",
@@ -331,25 +331,25 @@
         "description": "Ekranizacja bestsellera Raynor Winn na podstawie scenariusza Rebeki Lenkiewicz (IDA). Gdy małżeństwo traci dom i zdrowie, podejmuje radykalną decyzję: pieszą wędrówkę liczącym ponad 1000 km szlakiem South West Coast Path. Poruszająca, wizualnie urzekająca oda do siły natury i ludzkiego ducha.",
         "shortDescription": "Ekranizacja bestsellera Raynor Winn na podstawie scenariusza Rebeki Lenkiewicz (IDA). Gdy małżeństwo traci dom i zdrowie, podejmuje radykalną decyzję: pieszą wędrówkę liczącym ponad 1000 km szlakiem South West Coast Path. Poruszająca, wizualnie urzekająca oda do siły natury i ludzkiego ducha.",
         "genres": [
-          "Psychologiczny",
-          "Dramat"
+          "Dramat",
+          "Psychologiczny"
         ],
         "external": {
           "imdb": {
             "id": "tt27766440",
             "url": "https://www.imdb.com/title/tt27766440/",
             "rating": 6.6,
-            "votes": 7979
+            "votes": 7980
           },
           "filmweb": {
             "id": "10058778",
             "url": "https://www.filmweb.pl/film/%C5%9Acie%C5%BCki+%C5%BCycia-2024-10058778",
             "genres": [
-              "Psychologiczny",
-              "Dramat"
+              "Dramat",
+              "Psychologiczny"
             ],
             "rating": 6.8,
-            "votes": 6300
+            "votes": 6304
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/the_salt_path",
@@ -405,7 +405,7 @@
             "id": "tt0038250",
             "url": "https://www.imdb.com/title/tt0038250/",
             "rating": 6.8,
-            "votes": 2009
+            "votes": 2010
           },
           "filmweb": {
             "id": "109176",
@@ -468,7 +468,7 @@
               "Dramat"
             ],
             "rating": 6.8,
-            "votes": 347
+            "votes": 356
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/i_see_buildings_fall_like_lightning",
@@ -523,7 +523,7 @@
             "id": "tt0976051",
             "url": "https://www.imdb.com/title/tt0976051/",
             "rating": 7.6,
-            "votes": 276337
+            "votes": 276341
           },
           "filmweb": {
             "id": "439584",
@@ -532,7 +532,7 @@
               "Melodramat"
             ],
             "rating": 7.8,
-            "votes": 211895
+            "votes": 211896
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/reader",
@@ -580,25 +580,25 @@
         "description": "Alan Rickman jako pułkownik Brandon stworzył portret cichego melancholika o zranionym sercu, czym zerwał z łatką filmowego złoczyńcy. Anglia, XVIII wiek. Po śmierci ojca panny Dashwood są zmuszone opuścić rodzinną posiadłość oraz sprostać skromnym realiom i zmiennym niczym londyńska mgła adoratorom.",
         "shortDescription": "Alan Rickman jako pułkownik Brandon stworzył portret cichego melancholika o zranionym sercu, czym zerwał z łatką filmowego złoczyńcy. Anglia, XVIII wiek. Po śmierci ojca panny Dashwood są zmuszone opuścić rodzinną posiadłość oraz sprostać skromnym realiom i zmiennym niczym londyńska mgła adoratorom.",
         "genres": [
-          "Kostiumowy",
-          "Melodramat"
+          "Melodramat",
+          "Kostiumowy"
         ],
         "external": {
           "imdb": {
             "id": "tt0114388",
             "url": "https://www.imdb.com/title/tt0114388/",
             "rating": 7.7,
-            "votes": 139540
+            "votes": 139562
           },
           "filmweb": {
             "id": "166",
             "url": "https://www.filmweb.pl/film/Rozwa%C5%BCna+i+romantyczna-1995-166",
             "genres": [
-              "Kostiumowy",
-              "Melodramat"
+              "Melodramat",
+              "Kostiumowy"
             ],
             "rating": 7.3,
-            "votes": 62992
+            "votes": 62993
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/1068832-sense_and_sensibility",
@@ -654,7 +654,7 @@
             "id": "tt34819091",
             "url": "https://www.imdb.com/title/tt34819091/",
             "rating": 6.4,
-            "votes": 11210
+            "votes": 11221
           },
           "filmweb": {
             "id": "10090000",
@@ -664,7 +664,7 @@
               "Dramat"
             ],
             "rating": 6,
-            "votes": 2488
+            "votes": 2490
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/the_testament_of_ann_lee",
@@ -721,7 +721,7 @@
             "id": "tt14905854",
             "url": "https://www.imdb.com/title/tt14905854/",
             "rating": 7.8,
-            "votes": 141851
+            "votes": 141932
           },
           "filmweb": {
             "id": "10035555",
@@ -732,7 +732,7 @@
               "Dramat"
             ],
             "rating": 7.6,
-            "votes": 30604
+            "votes": 30633
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/hamnet",
@@ -787,7 +787,7 @@
             "id": "tt9138170",
             "url": "https://www.imdb.com/title/tt9138170/",
             "rating": 7.2,
-            "votes": 5973
+            "votes": 5975
           },
           "filmweb": {
             "id": "848776",
@@ -852,7 +852,7 @@
             "id": "tt0314331",
             "url": "https://www.imdb.com/title/tt0314331/",
             "rating": 7.5,
-            "votes": 586417
+            "votes": 586454
           },
           "filmweb": {
             "id": "99390",
@@ -862,7 +862,7 @@
               "Świąteczny"
             ],
             "rating": 7.5,
-            "votes": 271364
+            "votes": 271374
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/love_actually",
@@ -918,7 +918,7 @@
             "id": "tt31514146",
             "url": "https://www.imdb.com/title/tt31514146/",
             "rating": 8.3,
-            "votes": 73576
+            "votes": 73721
           },
           "filmweb": {
             "id": "10088817",
@@ -928,7 +928,7 @@
               "Biograficzny"
             ],
             "rating": 8,
-            "votes": 6180
+            "votes": 6464
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/i_swear_2025",
@@ -944,7 +944,7 @@
           }
         },
         "longDescription": "John Davidson (Ellis Watson), nastolatek mieszkający w Galashiels w Szkocji, marzy o graniu w piłkę nożną na profesjonalnym poziomie. Sęk w tym, że jego ciało zaczyna wymykać się spod kontroli. Pojawiają się tiki, gwałtowne ruchy i nieprzewidywalne okrzyki, w tym także wulgaryzmy (nawiązanie do nich zawarte jest już w błyskotliwie dwuznacznym tytule filmu, odnoszącym się również do przysięgania, co – chcąc zachować tę ambiwalencję – można by przetłumaczyć jako KLNĘ SIĘ NA WSZYSTKO). Z bramkarskiej kariery nici. Okazuje się, że chłopak ma zespół Tourette’a. Diagnoza niewiele zmienia, ponieważ w świecie, który nie ma zielonego pojęcia o syndromie, młodzian uchodzi za nieposłusznego i agresywnego. W szkole karany jest przez nauczycieli i wyszydzany przez rówieśników. W domu wcale nie jest lepiej. Rodzina rozpada się na jego oczach. Kilka lat później John (grany teraz przez Roberta Aramayo, uhonorowanego za tę rolę nagrodą BAFTA dla najlepszego aktora) wciąż nie potrafi znaleźć dla siebie miejsca. Przełomem okazuje się spotkanie z Dottie (Maxine Peake), matką dawnego kolegi, która pomaga mu uwierzyć w siebie i w to, że życie na jego własnych zasadach jest możliwe. I SWEAR (2025) w reżyserii Kirka Jonesa, wielki hit na Wyspach, to oparta na prawdziwej historii odznaczonego przez królową Elżbietę II Orderem Imperium Brytyjskiego Johna Davidsona opowieść, w której elementy dramatyczne spod znaku kina społecznie zaangażowanego łączą się z wywrotową wręcz komedią, co zmusza widza do nieustannego balansowania na granicy pomiędzy powagą a śmiechem. Zachowanie głównego bohatera z jednej strony skłania do refleksji nad zjawiskiem nietolerancji, a z drugiej – jest źródłem komizmu. I SWEAR przekształca dość klasyczną biografię w poruszający przekaz o empatii i godności.\n\nEN\n\nJohn Davidson (Ellis Watson), a teenager growing up in Galashiels in Scotland, dreams of becoming a professional footballer. The problem is that his body is starting to slip out of his control. Tics, sudden movements and unpredictable outbursts appear, including swearing – something already hinted at in the film’s cleverly ambiguous title, which can refer both to profanity and to making a solemn promise. His hopes of a career in goal quickly fell apart. John is diagnosed with Tourette syndrome.\n\nThe diagnosis changes little, because in a world that has no idea what the syndrome is, the young man is seen as disobedient and aggressive. At school, teachers punish him and classmates mock him. Things are no better at home. His family is falling apart before his very eyes. A few years later, John (now played by Robert Aramayo, who won a BAFTA for Best Actor for this role) still cannot find his place in the world. A turning point comes when he meets Dottie (Maxine Peake), the mother of an old friend, who helps him believe in himself and in the possibility of living on his own terms.\n\nDirected by Kirk Jones, I SWEAR (2025) became a major hit in the UK. Based on the true story of John Davidson (awarded an OBE by Queen Elizabeth II), the film combines the emotional weight of socially engaged drama with an irreverent streak of comedy, constantly keeping the audience poised between seriousness and laughter.\n\nJohn’s behaviour becomes both a source of humour and a way of confronting prejudice and intolerance. In doing so, I SWEAR turns a fairly traditional biographical story into a moving argument for empathy, dignity and the right to be understood.",
-        "poster": "media/posters/68991c52fa0e95c098c8.webp"
+        "poster": "media/posters/c30c6c3dbddf3c397c13.webp"
       },
       {
         "hour": "20:15",
@@ -983,8 +983,8 @@
           "imdb": {
             "id": "tt20264956",
             "url": "https://www.imdb.com/title/tt20264956/",
-            "rating": 7.9,
-            "votes": 39
+            "rating": 7.7,
+            "votes": 40
           },
           "filmweb": {
             "id": "10080762",
@@ -1113,7 +1113,7 @@
             "id": "tt32141377",
             "url": "https://www.imdb.com/title/tt32141377/",
             "rating": 7.2,
-            "votes": 135515
+            "votes": 135617
           },
           "filmweb": {
             "id": "10068169",
@@ -1122,7 +1122,7 @@
               "Horror"
             ],
             "rating": 6.8,
-            "votes": 21275
+            "votes": 21302
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/28_years_later_the_bone_temple",
@@ -1178,7 +1178,7 @@
             "id": "tt37967547",
             "url": "https://www.imdb.com/title/tt37967547/",
             "rating": 6.9,
-            "votes": 610
+            "votes": 618
           },
           "filmweb": {
             "id": "10100972",
@@ -1243,7 +1243,7 @@
             "id": "tt35521922",
             "url": "https://www.imdb.com/title/tt35521922/",
             "rating": 6.1,
-            "votes": 39087
+            "votes": 39109
           },
           "filmweb": {
             "id": "10064809",
@@ -1252,7 +1252,7 @@
               "Thriller"
             ],
             "rating": 7.2,
-            "votes": 15924
+            "votes": 15964
           },
           "rottenTomatoes": null
         },
@@ -1296,7 +1296,7 @@
             "id": "tt10329560",
             "url": "https://www.imdb.com/title/tt10329560/",
             "rating": 6.6,
-            "votes": 2937
+            "votes": 2943
           },
           "filmweb": {
             "id": "10048300",
@@ -1410,7 +1410,7 @@
             "id": "tt0063285",
             "url": "https://www.imdb.com/title/tt0063285/",
             "rating": 6.7,
-            "votes": 14241
+            "votes": 14246
           },
           "filmweb": {
             "id": "119896",

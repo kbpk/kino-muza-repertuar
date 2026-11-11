@@ -1,12 +1,12 @@
 {
   "schemaVersion": 1,
   "date": "2026-11-13",
-  "updatedAt": "2026-11-10T17:48:40.418Z",
+  "updatedAt": "2026-11-11T17:53:19.732Z",
   "source": "https://www.kinomuza.pl/repertoire/day/",
   "day": {
-    "id": "03",
+    "id": "02",
     "date": "13.11",
-    "now": "2026-11-10 18:44:12",
+    "now": "2026-11-11 18:51:47",
     "info": [],
     "repertoire": [
       {
@@ -48,7 +48,7 @@
             "id": "tt2639254",
             "url": "https://www.imdb.com/title/tt2639254/",
             "rating": 6.5,
-            "votes": 27172
+            "votes": 27173
           },
           "filmweb": {
             "id": "680371",
@@ -116,7 +116,7 @@
             "id": "tt34798706",
             "url": "https://www.imdb.com/title/tt34798706/",
             "rating": 6.9,
-            "votes": 221
+            "votes": 229
           },
           "filmweb": {
             "id": "10109750",
@@ -126,8 +126,8 @@
               "Dramat",
               "Komedia"
             ],
-            "rating": 6.9,
-            "votes": 40
+            "rating": 6.8,
+            "votes": 41
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/extra_geography",
@@ -184,7 +184,7 @@
             "id": "tt14905854",
             "url": "https://www.imdb.com/title/tt14905854/",
             "rating": 7.8,
-            "votes": 141851
+            "votes": 141932
           },
           "filmweb": {
             "id": "10035555",
@@ -195,7 +195,7 @@
               "Dramat"
             ],
             "rating": 7.6,
-            "votes": 30604
+            "votes": 30633
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/hamnet",
@@ -251,7 +251,7 @@
             "id": "tt1921149",
             "url": "https://www.imdb.com/title/tt1921149/",
             "rating": 7.1,
-            "votes": 23886
+            "votes": 23888
           },
           "filmweb": {
             "id": "693053",
@@ -317,7 +317,7 @@
             "id": "tt34819091",
             "url": "https://www.imdb.com/title/tt34819091/",
             "rating": 6.4,
-            "votes": 11210
+            "votes": 11221
           },
           "filmweb": {
             "id": "10090000",
@@ -327,7 +327,7 @@
               "Dramat"
             ],
             "rating": 6,
-            "votes": 2488
+            "votes": 2490
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/the_testament_of_ann_lee",
@@ -383,7 +383,7 @@
             "id": "tt9362736",
             "url": "https://www.imdb.com/title/tt9362736/",
             "rating": 6,
-            "votes": 51120
+            "votes": 51146
           },
           "filmweb": {
             "id": "10023025",
@@ -393,7 +393,7 @@
               "Psychologiczny"
             ],
             "rating": 5.8,
-            "votes": 12769
+            "votes": 12784
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/die_my_love_2025",
@@ -448,7 +448,7 @@
             "id": "tt27811182",
             "url": "https://www.imdb.com/title/tt27811182/",
             "rating": 7.3,
-            "votes": 106
+            "votes": 108
           },
           "filmweb": {
             "id": "10112672",
@@ -456,8 +456,8 @@
             "genres": [
               "Dramat"
             ],
-            "rating": 7.1,
-            "votes": 7
+            "rating": 6.8,
+            "votes": 19
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/the_education_of_jane_cumming",
@@ -512,7 +512,7 @@
             "id": "tt0041546",
             "url": "https://www.imdb.com/title/tt0041546/",
             "rating": 8,
-            "votes": 42711
+            "votes": 42716
           },
           "filmweb": {
             "id": "31660",
@@ -615,7 +615,7 @@
             "id": "tt0097108",
             "url": "https://www.imdb.com/title/tt0097108/",
             "rating": 7.5,
-            "votes": 45756
+            "votes": 45763
           },
           "filmweb": {
             "id": "6923",
@@ -680,7 +680,7 @@
             "id": "tt0064866",
             "url": "https://www.imdb.com/title/tt0064866/",
             "rating": 7.1,
-            "votes": 6554
+            "votes": 6555
           },
           "filmweb": {
             "id": "9023",
@@ -775,25 +775,25 @@
         "description": "Ekranizacja bestsellera Raynor Winn na podstawie scenariusza Rebeki Lenkiewicz (IDA). Gdy małżeństwo traci dom i zdrowie, podejmuje radykalną decyzję: pieszą wędrówkę liczącym ponad 1000 km szlakiem South West Coast Path. Poruszająca, wizualnie urzekająca oda do siły natury i ludzkiego ducha.",
         "shortDescription": "Ekranizacja bestsellera Raynor Winn na podstawie scenariusza Rebeki Lenkiewicz (IDA). Gdy małżeństwo traci dom i zdrowie, podejmuje radykalną decyzję: pieszą wędrówkę liczącym ponad 1000 km szlakiem South West Coast Path. Poruszająca, wizualnie urzekająca oda do siły natury i ludzkiego ducha.",
         "genres": [
-          "Psychologiczny",
-          "Dramat"
+          "Dramat",
+          "Psychologiczny"
         ],
         "external": {
           "imdb": {
             "id": "tt27766440",
             "url": "https://www.imdb.com/title/tt27766440/",
             "rating": 6.6,
-            "votes": 7979
+            "votes": 7980
           },
           "filmweb": {
             "id": "10058778",
             "url": "https://www.filmweb.pl/film/%C5%9Acie%C5%BCki+%C5%BCycia-2024-10058778",
             "genres": [
-              "Psychologiczny",
-              "Dramat"
+              "Dramat",
+              "Psychologiczny"
             ],
             "rating": 6.8,
-            "votes": 6300
+            "votes": 6304
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/the_salt_path",
@@ -848,7 +848,7 @@
             "id": "tt0274558",
             "url": "https://www.imdb.com/title/tt0274558/",
             "rating": 7.5,
-            "votes": 148488
+            "votes": 148494
           },
           "filmweb": {
             "id": "32380",
@@ -901,7 +901,7 @@
             "id": "tt10329560",
             "url": "https://www.imdb.com/title/tt10329560/",
             "rating": 6.6,
-            "votes": 2937
+            "votes": 2943
           },
           "filmweb": {
             "id": "10048300",
@@ -958,25 +958,25 @@
         "description": "Rewizja Austenowskiej prozy wydobywająca z kultowej powieści siostrzeństwo, emancypację i realizm epoki. Georgiańska Anglia. Po śmierci ojca siostry Dashwood wraz z matką zostają zmuszone opuścić dom. Nowa rzeczywistość stawia je w ogniu konwenansów, finansowych trudów i miłosnej niepewności.",
         "shortDescription": "Rewizja Austenowskiej prozy wydobywająca z kultowej powieści siostrzeństwo, emancypację i realizm epoki. Georgiańska Anglia. Po śmierci ojca siostry Dashwood wraz z matką zostają zmuszone opuścić dom. Nowa rzeczywistość stawia je w ogniu konwenansów, finansowych trudów i miłosnej niepewności.",
         "genres": [
-          "Melodramat",
-          "Kostiumowy"
+          "Kostiumowy",
+          "Melodramat"
         ],
         "external": {
           "imdb": {
             "id": "tt13609648",
             "url": "https://www.imdb.com/title/tt13609648/",
             "rating": 7.2,
-            "votes": 11139
+            "votes": 11345
           },
           "filmweb": {
             "id": "10087170",
             "url": "https://www.filmweb.pl/film/Rozwa%C5%BCna+i+romantyczna-2026-10087170",
             "genres": [
-              "Melodramat",
-              "Kostiumowy"
+              "Kostiumowy",
+              "Melodramat"
             ],
             "rating": 7.2,
-            "votes": 3473
+            "votes": 3496
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/sense_and_sensibility_2026",
@@ -1031,7 +1031,7 @@
             "id": "tt32321317",
             "url": "https://www.imdb.com/title/tt32321317/",
             "rating": 6.9,
-            "votes": 25758
+            "votes": 25784
           },
           "filmweb": {
             "id": "10053146",
@@ -1040,7 +1040,7 @@
               "Melodramat"
             ],
             "rating": 6.5,
-            "votes": 6409
+            "votes": 6422
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/pillion",
@@ -1141,25 +1141,25 @@
         "description": "Oparte na faktycznym powstaniu Wata Tylera z 1381 roku historyczne widowisko stawiające pytanie o cenę wolności w czasach feudalnego ucisku. Wyniszczony epidemią dżumy i represyjnym podatkiem pogłównym lud średniowiecznej Anglii wszczyna rebelię przeciwko szlachcie i tyranii króla Ryszarda II.",
         "shortDescription": "Oparte na faktycznym powstaniu Wata Tylera z 1381 roku historyczne widowisko stawiające pytanie o cenę wolności w czasach feudalnego ucisku. Wyniszczony epidemią dżumy i represyjnym podatkiem pogłównym lud średniowiecznej Anglii wszczyna rebelię przeciwko szlachcie i tyranii króla Ryszarda II.",
         "genres": [
-          "Akcja",
-          "Historyczny"
+          "Historyczny",
+          "Akcja"
         ],
         "external": {
           "imdb": {
             "id": "tt36983905",
             "url": "https://www.imdb.com/title/tt36983905/",
             "rating": 6.2,
-            "votes": 14959
+            "votes": 15108
           },
           "filmweb": {
             "id": "10122362",
             "url": "https://www.filmweb.pl/film/Rebelia-2026-10122362",
             "genres": [
-              "Akcja",
-              "Historyczny"
+              "Historyczny",
+              "Akcja"
             ],
             "rating": 5.6,
-            "votes": 634
+            "votes": 638
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/the_uprising_2026",
@@ -1214,7 +1214,7 @@
             "id": "tt35521922",
             "url": "https://www.imdb.com/title/tt35521922/",
             "rating": 6.1,
-            "votes": 39087
+            "votes": 39109
           },
           "filmweb": {
             "id": "10064809",
@@ -1223,7 +1223,7 @@
               "Thriller"
             ],
             "rating": 7.2,
-            "votes": 15924
+            "votes": 15964
           },
           "rottenTomatoes": null
         },
@@ -1267,7 +1267,7 @@
             "id": "tt0091142",
             "url": "https://www.imdb.com/title/tt0091142/",
             "rating": 5.7,
-            "votes": 10258
+            "votes": 10261
           },
           "filmweb": {
             "id": "5908",
@@ -1276,7 +1276,7 @@
               "Horror"
             ],
             "rating": 6.4,
-            "votes": 2612
+            "votes": 2613
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/gothic",
@@ -1332,7 +1332,7 @@
             "id": "tt0435625",
             "url": "https://www.imdb.com/title/tt0435625/",
             "rating": 7.2,
-            "votes": 279852
+            "votes": 279877
           },
           "filmweb": {
             "id": "214803",
@@ -1341,7 +1341,7 @@
               "Horror"
             ],
             "rating": 6.3,
-            "votes": 80353
+            "votes": 80356
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/descent",

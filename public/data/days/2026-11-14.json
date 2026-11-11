@@ -1,12 +1,12 @@
 {
   "schemaVersion": 1,
   "date": "2026-11-14",
-  "updatedAt": "2026-11-10T17:48:40.418Z",
+  "updatedAt": "2026-11-11T17:53:19.732Z",
   "source": "https://www.kinomuza.pl/repertoire/day/",
   "day": {
-    "id": "04",
+    "id": "03",
     "date": "14.11",
-    "now": "2026-11-10 18:44:32",
+    "now": "2026-11-11 18:51:46",
     "info": [],
     "repertoire": [
       {
@@ -153,7 +153,7 @@
             "id": "tt36841161",
             "url": "https://www.imdb.com/title/tt36841161/",
             "rating": 7.1,
-            "votes": 3709
+            "votes": 3748
           },
           "filmweb": {
             "id": "10101144",
@@ -163,7 +163,7 @@
               "Familijny"
             ],
             "rating": 6.9,
-            "votes": 978
+            "votes": 986
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/shaun_the_sheep_the_beast_of_mossy_bottom",
@@ -214,8 +214,8 @@
         "description": "Rodzina Thompsonów przeprowadza się z Londynu na wieś, gdzie dzieci odkrywają drzewo kryjące w koronie przejście do coraz bardziej niezwykłych krain. Współczesna, gwiazdorska ekranizacja klasyki Enid Blyton to pełna humoru brytyjska baśń o dziecięcej ciekawości, rodzinnej bliskości i mocy wyobraźni.",
         "shortDescription": "Rodzina Thompsonów przeprowadza się z Londynu na wieś, gdzie dzieci odkrywają drzewo kryjące w koronie przejście do coraz bardziej niezwykłych krain. Współczesna, gwiazdorska ekranizacja klasyki Enid Blyton to pełna humoru brytyjska baśń o dziecięcej ciekawości, rodzinnej bliskości i mocy wyobraźni.",
         "genres": [
-          "Familijny",
           "Przygodowy",
+          "Familijny",
           "Fantasy"
         ],
         "external": {
@@ -223,14 +223,14 @@
             "id": "tt7734244",
             "url": "https://www.imdb.com/title/tt7734244/",
             "rating": 6.2,
-            "votes": 6955
+            "votes": 6972
           },
           "filmweb": {
             "id": "10104409",
             "url": "https://www.filmweb.pl/film/Drzewo+magii-2026-10104409",
             "genres": [
-              "Familijny",
               "Przygodowy",
+              "Familijny",
               "Fantasy"
             ],
             "rating": 5.8,
@@ -291,7 +291,7 @@
             "id": "tt34798706",
             "url": "https://www.imdb.com/title/tt34798706/",
             "rating": 6.9,
-            "votes": 221
+            "votes": 229
           },
           "filmweb": {
             "id": "10109750",
@@ -301,8 +301,8 @@
               "Dramat",
               "Komedia"
             ],
-            "rating": 6.9,
-            "votes": 40
+            "rating": 6.8,
+            "votes": 41
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/extra_geography",
@@ -357,7 +357,7 @@
             "id": "tt0039192",
             "url": "https://www.imdb.com/title/tt0039192/",
             "rating": 7.7,
-            "votes": 32094
+            "votes": 32099
           },
           "filmweb": {
             "id": "111145",
@@ -422,7 +422,7 @@
             "id": "tt27811182",
             "url": "https://www.imdb.com/title/tt27811182/",
             "rating": 7.3,
-            "votes": 106
+            "votes": 108
           },
           "filmweb": {
             "id": "10112672",
@@ -430,8 +430,8 @@
             "genres": [
               "Dramat"
             ],
-            "rating": 7.1,
-            "votes": 7
+            "rating": 6.8,
+            "votes": 19
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/the_education_of_jane_cumming",
@@ -497,7 +497,7 @@
               "Melodramat"
             ],
             "rating": 7.2,
-            "votes": 5905
+            "votes": 5907
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/the_pillow_book",
@@ -553,7 +553,7 @@
             "id": "tt34819091",
             "url": "https://www.imdb.com/title/tt34819091/",
             "rating": 6.4,
-            "votes": 11210
+            "votes": 11221
           },
           "filmweb": {
             "id": "10090000",
@@ -563,7 +563,7 @@
               "Dramat"
             ],
             "rating": 6,
-            "votes": 2488
+            "votes": 2490
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/the_testament_of_ann_lee",
@@ -675,7 +675,7 @@
             "id": "tt0212380",
             "url": "https://www.imdb.com/title/tt0212380/",
             "rating": 6.2,
-            "votes": 9707
+            "votes": 9709
           },
           "filmweb": {
             "id": "30869",
@@ -739,7 +739,7 @@
             "id": "tt35521922",
             "url": "https://www.imdb.com/title/tt35521922/",
             "rating": 6.1,
-            "votes": 39087
+            "votes": 39109
           },
           "filmweb": {
             "id": "10064809",
@@ -748,7 +748,7 @@
               "Thriller"
             ],
             "rating": 7.2,
-            "votes": 15924
+            "votes": 15964
           },
           "rottenTomatoes": null
         },
@@ -842,7 +842,7 @@
             "id": "tt0249462",
             "url": "https://www.imdb.com/title/tt0249462/",
             "rating": 7.7,
-            "votes": 154536
+            "votes": 154551
           },
           "filmweb": {
             "id": "1471",
@@ -853,7 +853,7 @@
               "Muzyczny"
             ],
             "rating": 7.6,
-            "votes": 150796
+            "votes": 150799
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/billy_elliot",
@@ -910,7 +910,7 @@
             "id": "tt14905854",
             "url": "https://www.imdb.com/title/tt14905854/",
             "rating": 7.8,
-            "votes": 141851
+            "votes": 141932
           },
           "filmweb": {
             "id": "10035555",
@@ -921,7 +921,7 @@
               "Dramat"
             ],
             "rating": 7.6,
-            "votes": 30604
+            "votes": 30633
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/hamnet",
@@ -969,25 +969,25 @@
         "description": "Trzy Cissie Colpitts, trzy pokolenia kobiet i trzech mężów, których trzeba się pozbyć. Koroner Madgett tuszuje zgony, a jego syn Smut wymyśla gry o coraz bardziej ezoterycznych zasadach. Wśród ślimaków oblepiających kadry Greenaway pokazuje śmierć bez ohydy – jako naturalną część cyklu życia.",
         "shortDescription": "Trzy Cissie Colpitts, trzy pokolenia kobiet i trzech mężów, których trzeba się pozbyć. Koroner Madgett tuszuje zgony, a jego syn Smut wymyśla gry o coraz bardziej ezoterycznych zasadach. Wśród ślimaków oblepiających kadry Greenaway pokazuje śmierć bez ohydy – jako naturalną część cyklu życia.",
         "genres": [
-          "Dramat",
-          "Komedia kryminalna"
+          "Komedia kryminalna",
+          "Dramat"
         ],
         "external": {
           "imdb": {
             "id": "tt0092929",
             "url": "https://www.imdb.com/title/tt0092929/",
             "rating": 7.1,
-            "votes": 10718
+            "votes": 10719
           },
           "filmweb": {
             "id": "5214",
             "url": "https://www.filmweb.pl/film/Wyliczanka-1988-5214",
             "genres": [
-              "Dramat",
-              "Komedia kryminalna"
+              "Komedia kryminalna",
+              "Dramat"
             ],
             "rating": 7.5,
-            "votes": 2446
+            "votes": 2447
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/drowning-by-numbers",
@@ -1035,25 +1035,25 @@
         "description": "Rewizja Austenowskiej prozy wydobywająca z kultowej powieści siostrzeństwo, emancypację i realizm epoki. Georgiańska Anglia. Po śmierci ojca siostry Dashwood wraz z matką zostają zmuszone opuścić dom. Nowa rzeczywistość stawia je w ogniu konwenansów, finansowych trudów i miłosnej niepewności.",
         "shortDescription": "Rewizja Austenowskiej prozy wydobywająca z kultowej powieści siostrzeństwo, emancypację i realizm epoki. Georgiańska Anglia. Po śmierci ojca siostry Dashwood wraz z matką zostają zmuszone opuścić dom. Nowa rzeczywistość stawia je w ogniu konwenansów, finansowych trudów i miłosnej niepewności.",
         "genres": [
-          "Melodramat",
-          "Kostiumowy"
+          "Kostiumowy",
+          "Melodramat"
         ],
         "external": {
           "imdb": {
             "id": "tt13609648",
             "url": "https://www.imdb.com/title/tt13609648/",
             "rating": 7.2,
-            "votes": 11139
+            "votes": 11345
           },
           "filmweb": {
             "id": "10087170",
             "url": "https://www.filmweb.pl/film/Rozwa%C5%BCna+i+romantyczna-2026-10087170",
             "genres": [
-              "Melodramat",
-              "Kostiumowy"
+              "Kostiumowy",
+              "Melodramat"
             ],
             "rating": 7.2,
-            "votes": 3473
+            "votes": 3496
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/sense_and_sensibility_2026",
@@ -1108,7 +1108,7 @@
             "id": "tt0050280",
             "url": "https://www.imdb.com/title/tt0050280/",
             "rating": 7,
-            "votes": 15355
+            "votes": 15354
           },
           "filmweb": {
             "id": "112951",
@@ -1165,25 +1165,25 @@
         "description": "Ekranizacja bestsellera Raynor Winn na podstawie scenariusza Rebeki Lenkiewicz (IDA). Gdy małżeństwo traci dom i zdrowie, podejmuje radykalną decyzję: pieszą wędrówkę liczącym ponad 1000 km szlakiem South West Coast Path. Poruszająca, wizualnie urzekająca oda do siły natury i ludzkiego ducha.",
         "shortDescription": "Ekranizacja bestsellera Raynor Winn na podstawie scenariusza Rebeki Lenkiewicz (IDA). Gdy małżeństwo traci dom i zdrowie, podejmuje radykalną decyzję: pieszą wędrówkę liczącym ponad 1000 km szlakiem South West Coast Path. Poruszająca, wizualnie urzekająca oda do siły natury i ludzkiego ducha.",
         "genres": [
-          "Psychologiczny",
-          "Dramat"
+          "Dramat",
+          "Psychologiczny"
         ],
         "external": {
           "imdb": {
             "id": "tt27766440",
             "url": "https://www.imdb.com/title/tt27766440/",
             "rating": 6.6,
-            "votes": 7979
+            "votes": 7980
           },
           "filmweb": {
             "id": "10058778",
             "url": "https://www.filmweb.pl/film/%C5%9Acie%C5%BCki+%C5%BCycia-2024-10058778",
             "genres": [
-              "Psychologiczny",
-              "Dramat"
+              "Dramat",
+              "Psychologiczny"
             ],
             "rating": 6.8,
-            "votes": 6300
+            "votes": 6304
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/the_salt_path",
@@ -1239,7 +1239,7 @@
             "id": "tt34966562",
             "url": "https://www.imdb.com/title/tt34966562/",
             "rating": 6.8,
-            "votes": 7086
+            "votes": 7100
           },
           "filmweb": {
             "id": "10093695",
@@ -1249,7 +1249,7 @@
               "Komedia"
             ],
             "rating": 6,
-            "votes": 118
+            "votes": 119
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/the_christophers",
@@ -1303,8 +1303,8 @@
           "imdb": {
             "id": "tt27541205",
             "url": "https://www.imdb.com/title/tt27541205/",
-            "rating": 7.6,
-            "votes": 1078
+            "rating": 7.5,
+            "votes": 1102
           },
           "filmweb": {
             "id": "10034624",
@@ -1369,7 +1369,7 @@
             "id": "tt37967547",
             "url": "https://www.imdb.com/title/tt37967547/",
             "rating": 6.9,
-            "votes": 610
+            "votes": 618
           },
           "filmweb": {
             "id": "10100972",
@@ -1434,7 +1434,7 @@
             "id": "tt10329560",
             "url": "https://www.imdb.com/title/tt10329560/",
             "rating": 6.6,
-            "votes": 2937
+            "votes": 2943
           },
           "filmweb": {
             "id": "10048300",
@@ -1498,7 +1498,7 @@
             "id": "tt32141377",
             "url": "https://www.imdb.com/title/tt32141377/",
             "rating": 7.2,
-            "votes": 135515
+            "votes": 135617
           },
           "filmweb": {
             "id": "10068169",
@@ -1507,7 +1507,7 @@
               "Horror"
             ],
             "rating": 6.8,
-            "votes": 21275
+            "votes": 21302
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/28_years_later_the_bone_temple",
@@ -1555,25 +1555,25 @@
         "description": "Pewnego dnia w wiosce w Kornwalii pojawia się łódź, która zaginęła 30 lat temu razem z załogą. Ma wrócić na morze łowić ryby, a na pokład zgłaszają się na ochotnika Nick (George MacKay) oraz Liam (Callum Turner). Nakręcony na taśmie 16 mm film, zaprasza do rozwiązania lokalnej zagadki z przeszłości.",
         "shortDescription": "Pewnego dnia w wiosce w Kornwalii pojawia się łódź, która zaginęła 30 lat temu razem z załogą. Ma wrócić na morze łowić ryby, a na pokład zgłaszają się na ochotnika Nick (George MacKay) oraz Liam (Callum Turner). Nakręcony na taśmie 16 mm film, zaprasza do rozwiązania lokalnej zagadki z przeszłości.",
         "genres": [
-          "Dramat",
-          "Sci-Fi"
+          "Sci-Fi",
+          "Dramat"
         ],
         "external": {
           "imdb": {
             "id": "tt35674521",
             "url": "https://www.imdb.com/title/tt35674521/",
             "rating": 6.2,
-            "votes": 4101
+            "votes": 4117
           },
           "filmweb": {
             "id": "10072340",
             "url": "https://www.filmweb.pl/film/R%C3%B3%C5%BCa+z+Nevady-2025-10072340",
             "genres": [
-              "Dramat",
-              "Sci-Fi"
+              "Sci-Fi",
+              "Dramat"
             ],
             "rating": 6.9,
-            "votes": 692
+            "votes": 694
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/rose_of_nevada",
@@ -1629,7 +1629,7 @@
             "id": "tt9362736",
             "url": "https://www.imdb.com/title/tt9362736/",
             "rating": 6,
-            "votes": 51120
+            "votes": 51146
           },
           "filmweb": {
             "id": "10023025",
@@ -1639,7 +1639,7 @@
               "Psychologiczny"
             ],
             "rating": 5.8,
-            "votes": 12769
+            "votes": 12784
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/die_my_love_2025",
@@ -1687,8 +1687,8 @@
         "description": "Chcąc uporać się z przeszłością, ekscentryczny samotnik przeznacza ogromną wygraną na loterii, by reaktywować swój ulubiony duet muzyczny. Jego członków, którzy byli niegdyś parą i nie widzieli się od lat, zaprasza na odciętą od świata walijską wysepkę i zleca im zagranie kameralnego koncertu.",
         "shortDescription": "Chcąc uporać się z przeszłością, ekscentryczny samotnik przeznacza ogromną wygraną na loterii, by reaktywować swój ulubiony duet muzyczny. Jego członków, którzy byli niegdyś parą i nie widzieli się od lat, zaprasza na odciętą od świata walijską wysepkę i zleca im zagranie kameralnego koncertu.",
         "genres": [
-          "Dramat",
           "Komedia",
+          "Dramat",
           "Muzyczny"
         ],
         "external": {
@@ -1696,18 +1696,18 @@
             "id": "tt27674982",
             "url": "https://www.imdb.com/title/tt27674982/",
             "rating": 7.4,
-            "votes": 26568
+            "votes": 26576
           },
           "filmweb": {
             "id": "10070057",
             "url": "https://www.filmweb.pl/film/The+Ballad+of+Wallis+Island-2025-10070057",
             "genres": [
-              "Dramat",
               "Komedia",
+              "Dramat",
               "Muzyczny"
             ],
             "rating": 6.8,
-            "votes": 1004
+            "votes": 1005
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/the_ballad_of_wallis_island",
@@ -1762,7 +1762,7 @@
             "id": "tt0075098",
             "url": "https://www.imdb.com/title/tt0075098/",
             "rating": 7.1,
-            "votes": 433
+            "votes": 434
           },
           "filmweb": {
             "id": "176541",
@@ -1770,8 +1770,8 @@
             "genres": [
               "Dramat"
             ],
-            "rating": 7.3,
-            "votes": 12
+            "rating": 6.9,
+            "votes": 15
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/pressure1976",
@@ -1826,7 +1826,7 @@
             "id": "tt0101595",
             "url": "https://www.imdb.com/title/tt0101595/",
             "rating": 6.2,
-            "votes": 4005
+            "votes": 4006
           },
           "filmweb": {
             "id": "11886",
@@ -1890,7 +1890,7 @@
             "id": "tt32321317",
             "url": "https://www.imdb.com/title/tt32321317/",
             "rating": 6.9,
-            "votes": 25758
+            "votes": 25784
           },
           "filmweb": {
             "id": "10053146",
@@ -1899,7 +1899,7 @@
               "Melodramat"
             ],
             "rating": 6.5,
-            "votes": 6409
+            "votes": 6422
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/pillion",

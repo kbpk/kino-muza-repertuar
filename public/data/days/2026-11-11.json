@@ -1,12 +1,12 @@
 {
   "schemaVersion": 1,
   "date": "2026-11-11",
-  "updatedAt": "2026-11-10T17:48:40.418Z",
+  "updatedAt": "2026-11-11T17:53:19.732Z",
   "source": "https://www.kinomuza.pl/repertoire/day/",
   "day": {
-    "id": "01",
+    "id": "00",
     "date": "11.11",
-    "now": "2026-11-10 18:44:13",
+    "now": "2026-11-11 18:51:44",
     "info": [],
     "repertoire": [
       {
@@ -830,7 +830,7 @@
             "id": "tt34966562",
             "url": "https://www.imdb.com/title/tt34966562/",
             "rating": 6.8,
-            "votes": 7086
+            "votes": 7100
           },
           "filmweb": {
             "id": "10093695",
@@ -840,7 +840,7 @@
               "Komedia"
             ],
             "rating": 6,
-            "votes": 118
+            "votes": 119
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/the_christophers",
@@ -888,25 +888,25 @@
         "description": "Rewizja Austenowskiej prozy wydobywająca z kultowej powieści siostrzeństwo, emancypację i realizm epoki. Georgiańska Anglia. Po śmierci ojca siostry Dashwood wraz z matką zostają zmuszone opuścić dom. Nowa rzeczywistość stawia je w ogniu konwenansów, finansowych trudów i miłosnej niepewności.",
         "shortDescription": "Rewizja Austenowskiej prozy wydobywająca z kultowej powieści siostrzeństwo, emancypację i realizm epoki. Georgiańska Anglia. Po śmierci ojca siostry Dashwood wraz z matką zostają zmuszone opuścić dom. Nowa rzeczywistość stawia je w ogniu konwenansów, finansowych trudów i miłosnej niepewności.",
         "genres": [
-          "Melodramat",
-          "Kostiumowy"
+          "Kostiumowy",
+          "Melodramat"
         ],
         "external": {
           "imdb": {
             "id": "tt13609648",
             "url": "https://www.imdb.com/title/tt13609648/",
             "rating": 7.2,
-            "votes": 11139
+            "votes": 11345
           },
           "filmweb": {
             "id": "10087170",
             "url": "https://www.filmweb.pl/film/Rozwa%C5%BCna+i+romantyczna-2026-10087170",
             "genres": [
-              "Melodramat",
-              "Kostiumowy"
+              "Kostiumowy",
+              "Melodramat"
             ],
             "rating": 7.2,
-            "votes": 3473
+            "votes": 3496
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/sense_and_sensibility_2026",
@@ -962,7 +962,7 @@
             "id": "tt9362736",
             "url": "https://www.imdb.com/title/tt9362736/",
             "rating": 6,
-            "votes": 51120
+            "votes": 51146
           },
           "filmweb": {
             "id": "10023025",
@@ -972,7 +972,7 @@
               "Psychologiczny"
             ],
             "rating": 5.8,
-            "votes": 12769
+            "votes": 12784
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/die_my_love_2025",
@@ -1028,7 +1028,7 @@
             "id": "tt0051554",
             "url": "https://www.imdb.com/title/tt0051554/",
             "rating": 7.2,
-            "votes": 30758
+            "votes": 30762
           },
           "filmweb": {
             "id": "35022",
@@ -1081,7 +1081,7 @@
             "id": "tt36980182",
             "url": "https://www.imdb.com/title/tt36980182/",
             "rating": 7,
-            "votes": 2912
+            "votes": 2947
           },
           "filmweb": {
             "id": "10093682",
@@ -1090,7 +1090,7 @@
               "Komedia"
             ],
             "rating": 6.5,
-            "votes": 94
+            "votes": 96
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/the_incomer",
@@ -1138,25 +1138,25 @@
         "description": "Pewnego dnia w wiosce w Kornwalii pojawia się łódź, która zaginęła 30 lat temu razem z załogą. Ma wrócić na morze łowić ryby, a na pokład zgłaszają się na ochotnika Nick (George MacKay) oraz Liam (Callum Turner). Nakręcony na taśmie 16 mm film, zaprasza do rozwiązania lokalnej zagadki z przeszłości.",
         "shortDescription": "Pewnego dnia w wiosce w Kornwalii pojawia się łódź, która zaginęła 30 lat temu razem z załogą. Ma wrócić na morze łowić ryby, a na pokład zgłaszają się na ochotnika Nick (George MacKay) oraz Liam (Callum Turner). Nakręcony na taśmie 16 mm film, zaprasza do rozwiązania lokalnej zagadki z przeszłości.",
         "genres": [
-          "Dramat",
-          "Sci-Fi"
+          "Sci-Fi",
+          "Dramat"
         ],
         "external": {
           "imdb": {
             "id": "tt35674521",
             "url": "https://www.imdb.com/title/tt35674521/",
             "rating": 6.2,
-            "votes": 4101
+            "votes": 4117
           },
           "filmweb": {
             "id": "10072340",
             "url": "https://www.filmweb.pl/film/R%C3%B3%C5%BCa+z+Nevady-2025-10072340",
             "genres": [
-              "Dramat",
-              "Sci-Fi"
+              "Sci-Fi",
+              "Dramat"
             ],
             "rating": 6.9,
-            "votes": 692
+            "votes": 694
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/rose_of_nevada",
@@ -1211,7 +1211,7 @@
             "id": "tt32141377",
             "url": "https://www.imdb.com/title/tt32141377/",
             "rating": 7.2,
-            "votes": 135515
+            "votes": 135617
           },
           "filmweb": {
             "id": "10068169",
@@ -1220,7 +1220,7 @@
               "Horror"
             ],
             "rating": 6.8,
-            "votes": 21275
+            "votes": 21302
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/28_years_later_the_bone_temple",
@@ -1275,7 +1275,7 @@
             "id": "tt0093177",
             "url": "https://www.imdb.com/title/tt0093177/",
             "rating": 6.9,
-            "votes": 158852
+            "votes": 158874
           },
           "filmweb": {
             "id": "31326",
@@ -1284,7 +1284,7 @@
               "Horror"
             ],
             "rating": 6.8,
-            "votes": 26663
+            "votes": 26666
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/hellraiser",
@@ -1339,7 +1339,7 @@
             "id": "tt32321317",
             "url": "https://www.imdb.com/title/tt32321317/",
             "rating": 6.9,
-            "votes": 25758
+            "votes": 25784
           },
           "filmweb": {
             "id": "10053146",
@@ -1348,7 +1348,7 @@
               "Melodramat"
             ],
             "rating": 6.5,
-            "votes": 6409
+            "votes": 6422
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/pillion",

@@ -1,12 +1,12 @@
 {
   "schemaVersion": 1,
   "date": "2026-11-25",
-  "updatedAt": "2026-11-11T17:53:19.732Z",
+  "updatedAt": "2026-11-12T18:14:55.324Z",
   "source": "https://www.kinomuza.pl/repertoire/day/",
   "day": {
-    "id": "14",
+    "id": "13",
     "date": "25.11",
-    "now": "2026-11-11 18:51:54",
+    "now": "2026-11-12 19:13:00",
     "info": [],
     "repertoire": [
       {
@@ -47,7 +47,7 @@
             "id": "tt35932869",
             "url": "https://www.imdb.com/title/tt35932869/",
             "rating": 7.5,
-            "votes": 827
+            "votes": 828
           },
           "filmweb": {
             "id": "10110275",
@@ -56,7 +56,7 @@
               "Dokumentalny"
             ],
             "rating": 7.5,
-            "votes": 385
+            "votes": 397
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/the_golden_spurtle",
@@ -112,7 +112,7 @@
             "id": "tt29271622",
             "url": "https://www.imdb.com/title/tt29271622/",
             "rating": 7.4,
-            "votes": 8663
+            "votes": 8667
           },
           "filmweb": {
             "id": "10075691",

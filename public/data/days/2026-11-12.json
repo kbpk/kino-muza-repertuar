@@ -1,12 +1,12 @@
 {
   "schemaVersion": 1,
   "date": "2026-11-12",
-  "updatedAt": "2026-11-11T17:53:19.732Z",
+  "updatedAt": "2026-11-12T18:14:55.324Z",
   "source": "https://www.kinomuza.pl/repertoire/day/",
   "day": {
-    "id": "01",
+    "id": "00",
     "date": "12.11",
-    "now": "2026-11-11 18:51:47",
+    "now": "2026-11-12 19:12:51",
     "info": [],
     "repertoire": [
       {
@@ -712,8 +712,8 @@
         "description": "Zainspirowany najsłynniejszą sztuką Williama Szekspira film w reżyserii Chloé Zhao jest wrażliwym i głębokim obrazem małżeństwa, próbującego ukształtować się na nowo po śmierci ukochanego dziecka. W rolach głównych zjawiskowy duet: Jessie Buckley oraz Paul Mescal.",
         "shortDescription": "Zainspirowany najsłynniejszą sztuką Williama Szekspira film w reżyserii Chloé Zhao jest wrażliwym i głębokim obrazem małżeństwa, próbującego ukształtować się na nowo po śmierci ukochanego dziecka. W rolach głównych zjawiskowy duet: Jessie Buckley oraz Paul Mescal.",
         "genres": [
-          "Kostiumowy",
           "Biograficzny",
+          "Kostiumowy",
           "Dramat"
         ],
         "external": {
@@ -721,18 +721,18 @@
             "id": "tt14905854",
             "url": "https://www.imdb.com/title/tt14905854/",
             "rating": 7.8,
-            "votes": 141932
+            "votes": 142020
           },
           "filmweb": {
             "id": "10035555",
             "url": "https://www.filmweb.pl/film/Hamnet-2025-10035555",
             "genres": [
-              "Kostiumowy",
               "Biograficzny",
+              "Kostiumowy",
               "Dramat"
             ],
             "rating": 7.6,
-            "votes": 30633
+            "votes": 30670
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/hamnet",
@@ -787,7 +787,7 @@
             "id": "tt9138170",
             "url": "https://www.imdb.com/title/tt9138170/",
             "rating": 7.2,
-            "votes": 5975
+            "votes": 5977
           },
           "filmweb": {
             "id": "848776",
@@ -852,7 +852,7 @@
             "id": "tt0314331",
             "url": "https://www.imdb.com/title/tt0314331/",
             "rating": 7.5,
-            "votes": 586454
+            "votes": 586509
           },
           "filmweb": {
             "id": "99390",
@@ -862,7 +862,7 @@
               "Świąteczny"
             ],
             "rating": 7.5,
-            "votes": 271374
+            "votes": 271403
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/love_actually",
@@ -918,7 +918,7 @@
             "id": "tt31514146",
             "url": "https://www.imdb.com/title/tt31514146/",
             "rating": 8.3,
-            "votes": 73721
+            "votes": 73864
           },
           "filmweb": {
             "id": "10088817",
@@ -928,7 +928,7 @@
               "Biograficzny"
             ],
             "rating": 8,
-            "votes": 6464
+            "votes": 6920
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/i_swear_2025",
@@ -1113,7 +1113,7 @@
             "id": "tt32141377",
             "url": "https://www.imdb.com/title/tt32141377/",
             "rating": 7.2,
-            "votes": 135617
+            "votes": 135727
           },
           "filmweb": {
             "id": "10068169",
@@ -1122,7 +1122,7 @@
               "Horror"
             ],
             "rating": 6.8,
-            "votes": 21302
+            "votes": 21345
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/28_years_later_the_bone_temple",
@@ -1178,7 +1178,7 @@
             "id": "tt37967547",
             "url": "https://www.imdb.com/title/tt37967547/",
             "rating": 6.9,
-            "votes": 618
+            "votes": 624
           },
           "filmweb": {
             "id": "10100972",
@@ -1243,7 +1243,7 @@
             "id": "tt35521922",
             "url": "https://www.imdb.com/title/tt35521922/",
             "rating": 6.1,
-            "votes": 39109
+            "votes": 39146
           },
           "filmweb": {
             "id": "10064809",
@@ -1252,7 +1252,7 @@
               "Thriller"
             ],
             "rating": 7.2,
-            "votes": 15964
+            "votes": 16053
           },
           "rottenTomatoes": null
         },
@@ -1296,7 +1296,7 @@
             "id": "tt10329560",
             "url": "https://www.imdb.com/title/tt10329560/",
             "rating": 6.6,
-            "votes": 2943
+            "votes": 2945
           },
           "filmweb": {
             "id": "10048300",
@@ -1305,7 +1305,7 @@
               "Dramat"
             ],
             "rating": 5.9,
-            "votes": 197
+            "votes": 200
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/h_is_for_hawk",
@@ -1410,7 +1410,7 @@
             "id": "tt0063285",
             "url": "https://www.imdb.com/title/tt0063285/",
             "rating": 6.7,
-            "votes": 14246
+            "votes": 14249
           },
           "filmweb": {
             "id": "119896",

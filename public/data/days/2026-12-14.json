@@ -1,0 +1,79 @@
+{
+  "schemaVersion": 1,
+  "date": "2026-12-14",
+  "updatedAt": "2026-11-12T18:14:55.324Z",
+  "source": "https://www.kinomuza.pl/repertoire/day/",
+  "day": {
+    "id": "32",
+    "date": "14.12",
+    "now": "2026-11-12 19:13:29",
+    "info": [],
+    "repertoire": [
+      {
+        "hour": "19:00",
+        "datetime": "2026-12-14 19:00:00",
+        "title": "Szpony Świętego Mikołaja | NAJLEPSZE Z NAJGORSZYCH",
+        "originalTitle": "SANTA CLAWS",
+        "director": "John A. Russo",
+        "year": "1996",
+        "premiereDate": "",
+        "duration": "84",
+        "countries": "USA",
+        "shortDesc": "",
+        "lang": "en",
+        "subtitlesLang": "pl",
+        "age": "18",
+        "credits": "reż. John A. Russo <br>USA <br>1996,84’",
+        "desc": "",
+        "hall": "1",
+        "movieLink": "https://www.kinomuza.pl/movie/szpony-swietego-mikolaja/",
+        "ticketLink": "https://estradapoznan.bilety24.pl/kup-bilety/?id=1019646#total",
+        "prePremier": false,
+        "tape35mm": false,
+        "ad": false,
+        "deaf": false,
+        "ticketPrice": "",
+        "ticketHalfPrice": "",
+        "alt": "Szpony Świętego Mikołaja | NAJLEPSZE Z NAJGORSZYCH",
+        "thumb": "https://www.kinomuza.pl/content/uploads/2026/11/Szpony-Świętego-Mikołaja-4-800x450.jpg",
+        "cycle": "Najlepsze z Najgorszych",
+        "description": "",
+        "shortDescription": "",
+        "genres": [
+          "Horror"
+        ],
+        "external": {
+          "imdb": {
+            "id": "tt0117550",
+            "url": "https://www.imdb.com/title/tt0117550/",
+            "rating": 2.7,
+            "votes": 9986
+          },
+          "filmweb": {
+            "id": "152578",
+            "url": "https://www.filmweb.pl/film/Santa+Claws-1996-152578",
+            "genres": [
+              "Horror"
+            ],
+            "rating": 2.7,
+            "votes": 23
+          },
+          "rottenTomatoes": {
+            "url": "https://www.rottentomatoes.com/m/santa_claws",
+            "title": "Santa Claws",
+            "year": "1996",
+            "directors": [
+              "John A. Russo"
+            ],
+            "criticsRating": null,
+            "criticsVotes": 3,
+            "audienceRating": null,
+            "audienceVotes": null
+          }
+        },
+        "longDescription": "Święta, piękne kobiety i seryjny morderca. Ho, ho, horror!\n\nBoże Narodzenie to czas miłości, rodzinnych spotkań i prezentów. Wayne ma jednak z tym okresem wyjątkowo przykre wspomnienia. Jako dziecko przyłapał matkę w łóżku z mężczyzną przebranym za Świętego Mikołaja, co skutecznie odebrało mu wiarę w magię świąt. Po latach jego uwagę przyciąga piękna sąsiadka Raven, gwiazda niskobudżetowych horrorów erotycznych. Zauroczony nią do granic obsesji Wayne postanawia pozbyć się wszystkich, którzy stają mu na drodze do szczęścia. Zakłada strój Mikołaja, chwyta za ogrodowe grabki i rusza rozdawać prezenty, których nikt nie chciał.\n\n“Szpony Świętego Mikołaja” to świąteczny slasher klasy B, w którym nagich ciał jest zdecydowanie więcej niż efektownych morderstw, a największe zagrożenie stanowi nie tyle psychopata, ile jego dostęp do narzędzi ogrodniczych. Niezgrabne aktorstwo, osobliwe dialogi, erotyczne przerywniki i atmosfera tanich horrorów z wypożyczalni VHS tworzą wyjątkowo pokraczny świąteczny koszmar. To film, który nie próbuje ukrywać swojego mikroskopijnego budżetu — zresztą trudno byłoby mu to zrobić.\n\nZa tę osobliwą świąteczną produkcję odpowiada John A. Russo, współscenarzysta legendarnej “Nocy żywych trupów” George’a A. Romero. W roli Raven występuje Debbie Rochon, ikona niezależnego kina grozy, a na ekranie pojawiają się również Marilyn Eastman i Karl Hardman, znani z klasycznego horroru Romero. Film przeznaczony wyłącznie dla widzów pełnoletnich (18+).\n\nCZYM SĄ NAJLEPSZE Z NAJGORSZYCH?\n\nTo pokazy różnorodnego kina klasy B – od starych, amerykańskich filmów sci-fi z kosmitami i latającymi spodkami wiszącymi na sznurkach, przez przebojowe kino akcji lat 80. z nieskazitelnymi bohaterami w ortalionowych dresach, po horrory z gumowymi potworami.\n\nNiskie budżety, absurdalne dialogi, kiepskie aktorstwo, nielogiczna fabuła, a także zaangażowanie i pasja autorów to tylko niektóre cechy wspólne najgorszych produkcji w historii kinematografii światowej, które prezentowane są na przeglądzie. Filmy Najlepsze z Najgorszych rozbudzają wśród widzą miłość do kina klasy B od 2015 roku. Dotychczas odbyło się kilkaset seansów i wydarzeń w ramach przeglądu. Pomysłodawczynią i programerką cyklu jest Monika Stolat, a organizatorem Nowa Aleksandria. Więcej: www.najlepszeznajgorszych.pl",
+        "poster": "media/posters/d334d9f2e520065ab03a.webp"
+      }
+    ]
+  }
+}

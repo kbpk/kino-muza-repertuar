@@ -1,12 +1,12 @@
 {
   "schemaVersion": 1,
   "date": "2026-11-15",
-  "updatedAt": "2026-11-12T18:14:55.324Z",
+  "updatedAt": "2026-11-13T17:42:20.070Z",
   "source": "https://www.kinomuza.pl/repertoire/day/",
   "day": {
-    "id": "03",
+    "id": "02",
     "date": "15.11",
-    "now": "2026-11-12 19:12:55",
+    "now": "2026-11-13 18:40:42",
     "info": [],
     "repertoire": [
       {
@@ -58,7 +58,7 @@
               "Familijny"
             ],
             "rating": 6.9,
-            "votes": 1014
+            "votes": 1024
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/shaun_the_sheep_the_beast_of_mossy_bottom",
@@ -169,7 +169,7 @@
               "Przygodowy"
             ],
             "rating": 7.1,
-            "votes": 288491
+            "votes": 288496
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/chronicles_of_narnia_lion_witch_wardrobe",
@@ -237,7 +237,7 @@
               "Familijny"
             ],
             "rating": 6.9,
-            "votes": 1014
+            "votes": 1024
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/shaun_the_sheep_the_beast_of_mossy_bottom",
@@ -303,8 +303,8 @@
               "Dramat",
               "Thriller"
             ],
-            "rating": 3.7,
-            "votes": 3
+            "rating": 4.9,
+            "votes": 10
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/mission",
@@ -390,8 +390,8 @@
         "description": "Rewizja Austenowskiej prozy wydobywająca z kultowej powieści siostrzeństwo, emancypację i realizm epoki. Georgiańska Anglia. Po śmierci ojca siostry Dashwood wraz z matką zostają zmuszone opuścić dom. Nowa rzeczywistość stawia je w ogniu konwenansów, finansowych trudów i miłosnej niepewności.",
         "shortDescription": "Rewizja Austenowskiej prozy wydobywająca z kultowej powieści siostrzeństwo, emancypację i realizm epoki. Georgiańska Anglia. Po śmierci ojca siostry Dashwood wraz z matką zostają zmuszone opuścić dom. Nowa rzeczywistość stawia je w ogniu konwenansów, finansowych trudów i miłosnej niepewności.",
         "genres": [
-          "Kostiumowy",
-          "Melodramat"
+          "Melodramat",
+          "Kostiumowy"
         ],
         "external": {
           "imdb": {
@@ -404,11 +404,11 @@
             "id": "10087170",
             "url": "https://www.filmweb.pl/film/Rozwa%C5%BCna+i+romantyczna-2026-10087170",
             "genres": [
-              "Kostiumowy",
-              "Melodramat"
+              "Melodramat",
+              "Kostiumowy"
             ],
             "rating": 7.2,
-            "votes": 3556
+            "votes": 3592
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/sense_and_sensibility_2026",
@@ -418,7 +418,7 @@
               "Georgia Oakley"
             ],
             "criticsRating": null,
-            "criticsVotes": 140,
+            "criticsVotes": 141,
             "audienceRating": null,
             "audienceVotes": null
           }
@@ -476,7 +476,7 @@
               "Dramat"
             ],
             "rating": 7.6,
-            "votes": 30670
+            "votes": 30693
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/hamnet",
@@ -612,7 +612,7 @@
               "Akcja"
             ],
             "rating": 5.6,
-            "votes": 644
+            "votes": 649
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/the_uprising_2026",
@@ -622,7 +622,7 @@
               "Paul Greengrass"
             ],
             "criticsRating": null,
-            "criticsVotes": 122,
+            "criticsVotes": 123,
             "audienceRating": null,
             "audienceVotes": null
           }
@@ -676,7 +676,7 @@
               "Dramat"
             ],
             "rating": 8,
-            "votes": 69
+            "votes": 72
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/elsinore",
@@ -725,8 +725,8 @@
         "shortDescription": "Anglia, 1694 rok. Arogancki rysownik przyjmuje zlecenie na 12 rysunków posiadłości, a jego wynagrodzeniem mają być nie tylko pieniądze, ale i łoże pani domu. Na rycinach zaczynają jednak pojawiać się niepokojące szczegóły. Wytworny kryminał kostiumowy, w którym sztuka widzi więcej niż ludzkie oko.",
         "genres": [
           "Dramat",
-          "Komedia",
-          "Kostiumowy"
+          "Kostiumowy",
+          "Komedia"
         ],
         "external": {
           "imdb": {
@@ -740,11 +740,11 @@
             "url": "https://www.filmweb.pl/film/Kontrakt+rysownika-1982-6845",
             "genres": [
               "Dramat",
-              "Komedia",
-              "Kostiumowy"
+              "Kostiumowy",
+              "Komedia"
             ],
             "rating": 7.5,
-            "votes": 3419
+            "votes": 3420
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/draughtsmans_contract",
@@ -858,8 +858,8 @@
         "description": "Hipnotyzujące dzieło współscenarzystki THE BRUTALIST, rzucające światło na herstorię Ann Lee – przywódczyni sekty Shakerów. Kobieta sprzeciwia się zastanemu porządkowi zepsutego świata i zakłada wspólnotę propagującą równość płciową i społeczną. Ann rusza ze swoją misją do Nowej Anglii za Atlantyk.",
         "shortDescription": "Hipnotyzujące dzieło współscenarzystki THE BRUTALIST, rzucające światło na herstorię Ann Lee – przywódczyni sekty Shakerów. Kobieta sprzeciwia się zastanemu porządkowi zepsutego świata i zakłada wspólnotę propagującą równość płciową i społeczną. Ann rusza ze swoją misją do Nowej Anglii za Atlantyk.",
         "genres": [
-          "Musical",
-          "Dramat"
+          "Dramat",
+          "Musical"
         ],
         "external": {
           "imdb": {
@@ -872,11 +872,11 @@
             "id": "10090000",
             "url": "https://www.filmweb.pl/film/Testament+Ann+Lee-2025-10090000",
             "genres": [
-              "Musical",
-              "Dramat"
+              "Dramat",
+              "Musical"
             ],
             "rating": 6,
-            "votes": 2495
+            "votes": 2499
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/the_testament_of_ann_lee",
@@ -942,7 +942,7 @@
               "Komedia"
             ],
             "rating": 6.1,
-            "votes": 135
+            "votes": 136
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/the_christophers",
@@ -1008,7 +1008,7 @@
               "Melodramat"
             ],
             "rating": 7.7,
-            "votes": 39714
+            "votes": 39717
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/remains_of_the_day",
@@ -1138,7 +1138,7 @@
               "Dramat"
             ],
             "rating": 6.9,
-            "votes": 700
+            "votes": 707
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/rose_of_nevada",
@@ -1310,7 +1310,7 @@
               "Komedia"
             ],
             "rating": 6.7,
-            "votes": 118
+            "votes": 128
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/the_incomer",
@@ -1376,7 +1376,7 @@
               "Dramat"
             ],
             "rating": 6.8,
-            "votes": 6317
+            "votes": 6323
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/the_salt_path",
@@ -1506,7 +1506,7 @@
               "Dramat"
             ],
             "rating": 7.4,
-            "votes": 56924
+            "votes": 56923
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/extremely_loud_and_incredibly_close",
@@ -1570,7 +1570,7 @@
               "Horror"
             ],
             "rating": 6.8,
-            "votes": 21345
+            "votes": 21360
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/28_years_later_the_bone_temple",
@@ -1634,7 +1634,7 @@
               "Dramat"
             ],
             "rating": 6.8,
-            "votes": 362
+            "votes": 377
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/i_see_buildings_fall_like_lightning",
@@ -1683,8 +1683,8 @@
         "shortDescription": "Chcąc uporać się z przeszłością, ekscentryczny samotnik przeznacza ogromną wygraną na loterii, by reaktywować swój ulubiony duet muzyczny. Jego członków, którzy byli niegdyś parą i nie widzieli się od lat, zaprasza na odciętą od świata walijską wysepkę i zleca im zagranie kameralnego koncertu.",
         "genres": [
           "Dramat",
-          "Komedia",
-          "Muzyczny"
+          "Muzyczny",
+          "Komedia"
         ],
         "external": {
           "imdb": {
@@ -1698,11 +1698,11 @@
             "url": "https://www.filmweb.pl/film/The+Ballad+of+Wallis+Island-2025-10070057",
             "genres": [
               "Dramat",
-              "Komedia",
-              "Muzyczny"
+              "Muzyczny",
+              "Komedia"
             ],
             "rating": 6.8,
-            "votes": 1008
+            "votes": 1024
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/the_ballad_of_wallis_island",
@@ -1766,7 +1766,7 @@
               "Thriller"
             ],
             "rating": 7.2,
-            "votes": 16053
+            "votes": 16096
           },
           "rottenTomatoes": null
         },

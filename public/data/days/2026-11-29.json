@@ -1,12 +1,12 @@
 {
   "schemaVersion": 1,
   "date": "2026-11-29",
-  "updatedAt": "2026-11-12T18:14:55.324Z",
+  "updatedAt": "2026-11-13T17:42:20.070Z",
   "source": "https://www.kinomuza.pl/repertoire/day/",
   "day": {
-    "id": "17",
+    "id": "16",
     "date": "29.11",
-    "now": "2026-11-12 19:13:07",
+    "now": "2026-11-13 18:41:05",
     "info": [],
     "repertoire": [
       {
@@ -50,7 +50,7 @@
               "Dokumentalny"
             ],
             "rating": 5.8,
-            "votes": 40
+            "votes": 41
           },
           "rottenTomatoes": null
         },

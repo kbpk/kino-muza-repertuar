@@ -1,12 +1,12 @@
 {
   "schemaVersion": 1,
   "date": "2026-11-18",
-  "updatedAt": "2026-11-12T18:14:55.324Z",
+  "updatedAt": "2026-11-13T17:42:20.070Z",
   "source": "https://www.kinomuza.pl/repertoire/day/",
   "day": {
-    "id": "06",
+    "id": "05",
     "date": "18.11",
-    "now": "2026-11-12 19:12:54",
+    "now": "2026-11-13 18:40:42",
     "info": [],
     "repertoire": [
       {
@@ -58,7 +58,7 @@
               "Przyrodniczy"
             ],
             "rating": 8,
-            "votes": 1505
+            "votes": 1537
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/whispers_in_the_woods",

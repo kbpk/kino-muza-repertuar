@@ -1,12 +1,12 @@
 {
   "schemaVersion": 1,
   "date": "2026-11-13",
-  "updatedAt": "2026-11-12T18:14:55.324Z",
+  "updatedAt": "2026-11-13T17:42:20.070Z",
   "source": "https://www.kinomuza.pl/repertoire/day/",
   "day": {
-    "id": "01",
+    "id": "00",
     "date": "13.11",
-    "now": "2026-11-12 19:12:52",
+    "now": "2026-11-13 18:40:40",
     "info": [],
     "repertoire": [
       {
@@ -625,7 +625,7 @@
               "Dramat"
             ],
             "rating": 7.5,
-            "votes": 8985
+            "votes": 8986
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/the_cook_the_thief_his_wife_and_her_lover",
@@ -793,7 +793,7 @@
               "Dramat"
             ],
             "rating": 6.8,
-            "votes": 6317
+            "votes": 6323
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/the_salt_path",
@@ -910,7 +910,7 @@
               "Dramat"
             ],
             "rating": 5.9,
-            "votes": 200
+            "votes": 203
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/h_is_for_hawk",
@@ -958,8 +958,8 @@
         "description": "Rewizja Austenowskiej prozy wydobywająca z kultowej powieści siostrzeństwo, emancypację i realizm epoki. Georgiańska Anglia. Po śmierci ojca siostry Dashwood wraz z matką zostają zmuszone opuścić dom. Nowa rzeczywistość stawia je w ogniu konwenansów, finansowych trudów i miłosnej niepewności.",
         "shortDescription": "Rewizja Austenowskiej prozy wydobywająca z kultowej powieści siostrzeństwo, emancypację i realizm epoki. Georgiańska Anglia. Po śmierci ojca siostry Dashwood wraz z matką zostają zmuszone opuścić dom. Nowa rzeczywistość stawia je w ogniu konwenansów, finansowych trudów i miłosnej niepewności.",
         "genres": [
-          "Kostiumowy",
-          "Melodramat"
+          "Melodramat",
+          "Kostiumowy"
         ],
         "external": {
           "imdb": {
@@ -972,11 +972,11 @@
             "id": "10087170",
             "url": "https://www.filmweb.pl/film/Rozwa%C5%BCna+i+romantyczna-2026-10087170",
             "genres": [
-              "Kostiumowy",
-              "Melodramat"
+              "Melodramat",
+              "Kostiumowy"
             ],
             "rating": 7.2,
-            "votes": 3556
+            "votes": 3592
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/sense_and_sensibility_2026",
@@ -986,7 +986,7 @@
               "Georgia Oakley"
             ],
             "criticsRating": null,
-            "criticsVotes": 140,
+            "criticsVotes": 141,
             "audienceRating": null,
             "audienceVotes": null
           }
@@ -1040,7 +1040,7 @@
               "Melodramat"
             ],
             "rating": 6.5,
-            "votes": 6433
+            "votes": 6440
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/pillion",
@@ -1104,7 +1104,7 @@
               "Czarna komedia"
             ],
             "rating": 5.5,
-            "votes": 8
+            "votes": 11
           },
           "rottenTomatoes": null
         },
@@ -1159,7 +1159,7 @@
               "Akcja"
             ],
             "rating": 5.6,
-            "votes": 644
+            "votes": 649
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/the_uprising_2026",
@@ -1169,7 +1169,7 @@
               "Paul Greengrass"
             ],
             "criticsRating": null,
-            "criticsVotes": 122,
+            "criticsVotes": 123,
             "audienceRating": null,
             "audienceVotes": null
           }
@@ -1223,7 +1223,7 @@
               "Thriller"
             ],
             "rating": 7.2,
-            "votes": 16053
+            "votes": 16096
           },
           "rottenTomatoes": null
         },
@@ -1276,7 +1276,7 @@
               "Horror"
             ],
             "rating": 6.4,
-            "votes": 2613
+            "votes": 2615
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/gothic",
@@ -1341,7 +1341,7 @@
               "Horror"
             ],
             "rating": 6.3,
-            "votes": 80359
+            "votes": 80360
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/descent",

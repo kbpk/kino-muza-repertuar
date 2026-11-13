@@ -1,12 +1,12 @@
 {
   "schemaVersion": 1,
   "date": "2026-11-14",
-  "updatedAt": "2026-11-12T18:14:55.324Z",
+  "updatedAt": "2026-11-13T17:42:20.070Z",
   "source": "https://www.kinomuza.pl/repertoire/day/",
   "day": {
-    "id": "02",
+    "id": "01",
     "date": "14.11",
-    "now": "2026-11-12 19:12:52",
+    "now": "2026-11-13 18:40:41",
     "info": [],
     "repertoire": [
       {
@@ -54,8 +54,8 @@
             "genres": [
               "Dramat"
             ],
-            "rating": 6.2,
-            "votes": 10
+            "rating": 6.3,
+            "votes": 12
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/ish",
@@ -163,7 +163,7 @@
               "Familijny"
             ],
             "rating": 6.9,
-            "votes": 1014
+            "votes": 1024
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/shaun_the_sheep_the_beast_of_mossy_bottom",
@@ -301,8 +301,8 @@
               "Romans",
               "Komedia"
             ],
-            "rating": 6.8,
-            "votes": 41
+            "rating": 6.7,
+            "votes": 47
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/extra_geography",
@@ -479,8 +479,8 @@
         "description": "Nagiko, młoda Japonka, ucieka przed aranżowanym małżeństwem do Hongkongu – współczesnej wieży Babel słynącej z high fashion i street foodu. Tam szuka kochanka-kaligrafa, który będzie w stanie sprostać jej fantazjom. PILLOW BOOK to zmysłowa opowieść o ciele, wyzwoleniu, sprawczości i literaturze.",
         "shortDescription": "Nagiko, młoda Japonka, ucieka przed aranżowanym małżeństwem do Hongkongu – współczesnej wieży Babel słynącej z high fashion i street foodu. Tam szuka kochanka-kaligrafa, który będzie w stanie sprostać jej fantazjom. PILLOW BOOK to zmysłowa opowieść o ciele, wyzwoleniu, sprawczości i literaturze.",
         "genres": [
-          "Obyczajowy",
-          "Melodramat"
+          "Melodramat",
+          "Obyczajowy"
         ],
         "external": {
           "imdb": {
@@ -493,11 +493,11 @@
             "id": "10738",
             "url": "https://www.filmweb.pl/film/Pillow+Book-1996-10738",
             "genres": [
-              "Obyczajowy",
-              "Melodramat"
+              "Melodramat",
+              "Obyczajowy"
             ],
             "rating": 7.2,
-            "votes": 5908
+            "votes": 5909
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/the_pillow_book",
@@ -545,8 +545,8 @@
         "description": "Hipnotyzujące dzieło współscenarzystki THE BRUTALIST, rzucające światło na herstorię Ann Lee – przywódczyni sekty Shakerów. Kobieta sprzeciwia się zastanemu porządkowi zepsutego świata i zakłada wspólnotę propagującą równość płciową i społeczną. Ann rusza ze swoją misją do Nowej Anglii za Atlantyk.",
         "shortDescription": "Hipnotyzujące dzieło współscenarzystki THE BRUTALIST, rzucające światło na herstorię Ann Lee – przywódczyni sekty Shakerów. Kobieta sprzeciwia się zastanemu porządkowi zepsutego świata i zakłada wspólnotę propagującą równość płciową i społeczną. Ann rusza ze swoją misją do Nowej Anglii za Atlantyk.",
         "genres": [
-          "Musical",
-          "Dramat"
+          "Dramat",
+          "Musical"
         ],
         "external": {
           "imdb": {
@@ -559,11 +559,11 @@
             "id": "10090000",
             "url": "https://www.filmweb.pl/film/Testament+Ann+Lee-2025-10090000",
             "genres": [
-              "Musical",
-              "Dramat"
+              "Dramat",
+              "Musical"
             ],
             "rating": 6,
-            "votes": 2495
+            "votes": 2499
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/the_testament_of_ann_lee",
@@ -748,7 +748,7 @@
               "Thriller"
             ],
             "rating": 7.2,
-            "votes": 16053
+            "votes": 16096
           },
           "rottenTomatoes": null
         },
@@ -853,7 +853,7 @@
               "Muzyczny"
             ],
             "rating": 7.6,
-            "votes": 150801
+            "votes": 150811
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/billy_elliot",
@@ -921,7 +921,7 @@
               "Dramat"
             ],
             "rating": 7.6,
-            "votes": 30670
+            "votes": 30693
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/hamnet",
@@ -987,7 +987,7 @@
               "Dramat"
             ],
             "rating": 7.5,
-            "votes": 2447
+            "votes": 2448
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/drowning-by-numbers",
@@ -1035,8 +1035,8 @@
         "description": "Rewizja Austenowskiej prozy wydobywająca z kultowej powieści siostrzeństwo, emancypację i realizm epoki. Georgiańska Anglia. Po śmierci ojca siostry Dashwood wraz z matką zostają zmuszone opuścić dom. Nowa rzeczywistość stawia je w ogniu konwenansów, finansowych trudów i miłosnej niepewności.",
         "shortDescription": "Rewizja Austenowskiej prozy wydobywająca z kultowej powieści siostrzeństwo, emancypację i realizm epoki. Georgiańska Anglia. Po śmierci ojca siostry Dashwood wraz z matką zostają zmuszone opuścić dom. Nowa rzeczywistość stawia je w ogniu konwenansów, finansowych trudów i miłosnej niepewności.",
         "genres": [
-          "Kostiumowy",
-          "Melodramat"
+          "Melodramat",
+          "Kostiumowy"
         ],
         "external": {
           "imdb": {
@@ -1049,11 +1049,11 @@
             "id": "10087170",
             "url": "https://www.filmweb.pl/film/Rozwa%C5%BCna+i+romantyczna-2026-10087170",
             "genres": [
-              "Kostiumowy",
-              "Melodramat"
+              "Melodramat",
+              "Kostiumowy"
             ],
             "rating": 7.2,
-            "votes": 3556
+            "votes": 3592
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/sense_and_sensibility_2026",
@@ -1063,7 +1063,7 @@
               "Georgia Oakley"
             ],
             "criticsRating": null,
-            "criticsVotes": 140,
+            "criticsVotes": 141,
             "audienceRating": null,
             "audienceVotes": null
           }
@@ -1183,7 +1183,7 @@
               "Dramat"
             ],
             "rating": 6.8,
-            "votes": 6317
+            "votes": 6323
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/the_salt_path",
@@ -1249,7 +1249,7 @@
               "Komedia"
             ],
             "rating": 6.1,
-            "votes": 135
+            "votes": 136
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/the_christophers",
@@ -1313,7 +1313,7 @@
               "Dramat"
             ],
             "rating": 7.3,
-            "votes": 554
+            "votes": 555
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/queen_at_sea",
@@ -1323,7 +1323,7 @@
               "Lance Hammer"
             ],
             "criticsRating": null,
-            "criticsVotes": 52,
+            "criticsVotes": 53,
             "audienceRating": null,
             "audienceVotes": null
           }
@@ -1378,8 +1378,8 @@
               "Biograficzny",
               "Dramat"
             ],
-            "rating": 6.5,
-            "votes": 134
+            "rating": 6.6,
+            "votes": 144
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/ink_2026",
@@ -1443,7 +1443,7 @@
               "Dramat"
             ],
             "rating": 5.9,
-            "votes": 200
+            "votes": 203
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/h_is_for_hawk",
@@ -1507,7 +1507,7 @@
               "Horror"
             ],
             "rating": 6.8,
-            "votes": 21345
+            "votes": 21360
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/28_years_later_the_bone_temple",
@@ -1573,7 +1573,7 @@
               "Dramat"
             ],
             "rating": 6.9,
-            "votes": 700
+            "votes": 707
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/rose_of_nevada",
@@ -1639,7 +1639,7 @@
               "Psychologiczny"
             ],
             "rating": 5.8,
-            "votes": 12800
+            "votes": 12805
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/die_my_love_2025",
@@ -1688,8 +1688,8 @@
         "shortDescription": "Chcąc uporać się z przeszłością, ekscentryczny samotnik przeznacza ogromną wygraną na loterii, by reaktywować swój ulubiony duet muzyczny. Jego członków, którzy byli niegdyś parą i nie widzieli się od lat, zaprasza na odciętą od świata walijską wysepkę i zleca im zagranie kameralnego koncertu.",
         "genres": [
           "Dramat",
-          "Komedia",
-          "Muzyczny"
+          "Muzyczny",
+          "Komedia"
         ],
         "external": {
           "imdb": {
@@ -1703,11 +1703,11 @@
             "url": "https://www.filmweb.pl/film/The+Ballad+of+Wallis+Island-2025-10070057",
             "genres": [
               "Dramat",
-              "Komedia",
-              "Muzyczny"
+              "Muzyczny",
+              "Komedia"
             ],
             "rating": 6.8,
-            "votes": 1008
+            "votes": 1024
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/the_ballad_of_wallis_island",
@@ -1771,7 +1771,7 @@
               "Dramat"
             ],
             "rating": 6.9,
-            "votes": 18
+            "votes": 19
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/pressure1976",
@@ -1899,7 +1899,7 @@
               "Melodramat"
             ],
             "rating": 6.5,
-            "votes": 6433
+            "votes": 6440
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/pillion",

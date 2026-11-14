@@ -1,12 +1,12 @@
 {
   "schemaVersion": 1,
   "date": "2026-11-15",
-  "updatedAt": "2026-11-13T17:42:20.070Z",
+  "updatedAt": "2026-11-14T16:37:03.729Z",
   "source": "https://www.kinomuza.pl/repertoire/day/",
   "day": {
-    "id": "02",
+    "id": "01",
     "date": "15.11",
-    "now": "2026-11-13 18:40:42",
+    "now": "2026-11-14 17:34:17",
     "info": [],
     "repertoire": [
       {
@@ -48,7 +48,7 @@
             "id": "tt36841161",
             "url": "https://www.imdb.com/title/tt36841161/",
             "rating": 7.1,
-            "votes": 3789
+            "votes": 3837
           },
           "filmweb": {
             "id": "10101144",
@@ -58,7 +58,7 @@
               "Familijny"
             ],
             "rating": 6.9,
-            "votes": 1024
+            "votes": 1034
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/shaun_the_sheep_the_beast_of_mossy_bottom",
@@ -158,7 +158,7 @@
             "id": "tt0363771",
             "url": "https://www.imdb.com/title/tt0363771/",
             "rating": 6.9,
-            "votes": 464859
+            "votes": 464933
           },
           "filmweb": {
             "id": "112761",
@@ -169,7 +169,7 @@
               "Przygodowy"
             ],
             "rating": 7.1,
-            "votes": 288496
+            "votes": 288500
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/chronicles_of_narnia_lion_witch_wardrobe",
@@ -227,7 +227,7 @@
             "id": "tt36841161",
             "url": "https://www.imdb.com/title/tt36841161/",
             "rating": 7.1,
-            "votes": 3789
+            "votes": 3837
           },
           "filmweb": {
             "id": "10101144",
@@ -237,7 +237,7 @@
               "Familijny"
             ],
             "rating": 6.9,
-            "votes": 1024
+            "votes": 1034
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/shaun_the_sheep_the_beast_of_mossy_bottom",
@@ -294,7 +294,7 @@
             "id": "tt20264956",
             "url": "https://www.imdb.com/title/tt20264956/",
             "rating": 7.7,
-            "votes": 40
+            "votes": 41
           },
           "filmweb": {
             "id": "10080762",
@@ -398,7 +398,7 @@
             "id": "tt13609648",
             "url": "https://www.imdb.com/title/tt13609648/",
             "rating": 7.2,
-            "votes": 11558
+            "votes": 11821
           },
           "filmweb": {
             "id": "10087170",
@@ -407,8 +407,8 @@
               "Melodramat",
               "Kostiumowy"
             ],
-            "rating": 7.2,
-            "votes": 3592
+            "rating": 7.1,
+            "votes": 3626
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/sense_and_sensibility_2026",
@@ -465,7 +465,7 @@
             "id": "tt14905854",
             "url": "https://www.imdb.com/title/tt14905854/",
             "rating": 7.8,
-            "votes": 142020
+            "votes": 142155
           },
           "filmweb": {
             "id": "10035555",
@@ -476,7 +476,7 @@
               "Dramat"
             ],
             "rating": 7.6,
-            "votes": 30693
+            "votes": 30718
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/hamnet",
@@ -535,7 +535,7 @@
             "id": "tt7734244",
             "url": "https://www.imdb.com/title/tt7734244/",
             "rating": 6.2,
-            "votes": 6987
+            "votes": 7016
           },
           "filmweb": {
             "id": "10104409",
@@ -594,25 +594,25 @@
         "description": "Oparte na faktycznym powstaniu Wata Tylera z 1381 roku historyczne widowisko stawiające pytanie o cenę wolności w czasach feudalnego ucisku. Wyniszczony epidemią dżumy i represyjnym podatkiem pogłównym lud średniowiecznej Anglii wszczyna rebelię przeciwko szlachcie i tyranii króla Ryszarda II.",
         "shortDescription": "Oparte na faktycznym powstaniu Wata Tylera z 1381 roku historyczne widowisko stawiające pytanie o cenę wolności w czasach feudalnego ucisku. Wyniszczony epidemią dżumy i represyjnym podatkiem pogłównym lud średniowiecznej Anglii wszczyna rebelię przeciwko szlachcie i tyranii króla Ryszarda II.",
         "genres": [
-          "Historyczny",
-          "Akcja"
+          "Akcja",
+          "Historyczny"
         ],
         "external": {
           "imdb": {
             "id": "tt36983905",
             "url": "https://www.imdb.com/title/tt36983905/",
             "rating": 6.2,
-            "votes": 15261
+            "votes": 15495
           },
           "filmweb": {
             "id": "10122362",
             "url": "https://www.filmweb.pl/film/Rebelia-2026-10122362",
             "genres": [
-              "Historyczny",
-              "Akcja"
+              "Akcja",
+              "Historyczny"
             ],
             "rating": 5.6,
-            "votes": 649
+            "votes": 657
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/the_uprising_2026",
@@ -667,7 +667,7 @@
             "id": "tt37363222",
             "url": "https://www.imdb.com/title/tt37363222/",
             "rating": 7.7,
-            "votes": 558
+            "votes": 580
           },
           "filmweb": {
             "id": "10112663",
@@ -676,7 +676,7 @@
               "Dramat"
             ],
             "rating": 8,
-            "votes": 72
+            "votes": 73
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/elsinore",
@@ -686,7 +686,7 @@
               "Simon Stone"
             ],
             "criticsRating": null,
-            "criticsVotes": 65,
+            "criticsVotes": 66,
             "audienceRating": null,
             "audienceVotes": null
           }
@@ -733,7 +733,7 @@
             "id": "tt0083851",
             "url": "https://www.imdb.com/title/tt0083851/",
             "rating": 7.2,
-            "votes": 12185
+            "votes": 12186
           },
           "filmweb": {
             "id": "6845",
@@ -866,7 +866,7 @@
             "id": "tt34819091",
             "url": "https://www.imdb.com/title/tt34819091/",
             "rating": 6.4,
-            "votes": 11232
+            "votes": 11240
           },
           "filmweb": {
             "id": "10090000",
@@ -876,7 +876,7 @@
               "Musical"
             ],
             "rating": 6,
-            "votes": 2499
+            "votes": 2500
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/the_testament_of_ann_lee",
@@ -932,7 +932,7 @@
             "id": "tt34966562",
             "url": "https://www.imdb.com/title/tt34966562/",
             "rating": 6.8,
-            "votes": 7120
+            "votes": 7143
           },
           "filmweb": {
             "id": "10093695",
@@ -998,7 +998,7 @@
             "id": "tt0107943",
             "url": "https://www.imdb.com/title/tt0107943/",
             "rating": 7.8,
-            "votes": 94789
+            "votes": 94802
           },
           "filmweb": {
             "id": "1234",
@@ -1008,7 +1008,7 @@
               "Melodramat"
             ],
             "rating": 7.7,
-            "votes": 39717
+            "votes": 39722
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/remains_of_the_day",
@@ -1120,25 +1120,25 @@
         "description": "Pewnego dnia w wiosce w Kornwalii pojawia się łódź, która zaginęła 30 lat temu razem z załogą. Ma wrócić na morze łowić ryby, a na pokład zgłaszają się na ochotnika Nick (George MacKay) oraz Liam (Callum Turner). Nakręcony na taśmie 16 mm film, zaprasza do rozwiązania lokalnej zagadki z przeszłości.",
         "shortDescription": "Pewnego dnia w wiosce w Kornwalii pojawia się łódź, która zaginęła 30 lat temu razem z załogą. Ma wrócić na morze łowić ryby, a na pokład zgłaszają się na ochotnika Nick (George MacKay) oraz Liam (Callum Turner). Nakręcony na taśmie 16 mm film, zaprasza do rozwiązania lokalnej zagadki z przeszłości.",
         "genres": [
-          "Sci-Fi",
-          "Dramat"
+          "Dramat",
+          "Sci-Fi"
         ],
         "external": {
           "imdb": {
             "id": "tt35674521",
             "url": "https://www.imdb.com/title/tt35674521/",
             "rating": 6.2,
-            "votes": 4126
+            "votes": 4141
           },
           "filmweb": {
             "id": "10072340",
             "url": "https://www.filmweb.pl/film/R%C3%B3%C5%BCa+z+Nevady-2025-10072340",
             "genres": [
-              "Sci-Fi",
-              "Dramat"
+              "Dramat",
+              "Sci-Fi"
             ],
             "rating": 6.9,
-            "votes": 707
+            "votes": 711
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/rose_of_nevada",
@@ -1301,7 +1301,7 @@
             "id": "tt36980182",
             "url": "https://www.imdb.com/title/tt36980182/",
             "rating": 7,
-            "votes": 2977
+            "votes": 3031
           },
           "filmweb": {
             "id": "10093682",
@@ -1310,7 +1310,7 @@
               "Komedia"
             ],
             "rating": 6.7,
-            "votes": 128
+            "votes": 129
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/the_incomer",
@@ -1366,7 +1366,7 @@
             "id": "tt27766440",
             "url": "https://www.imdb.com/title/tt27766440/",
             "rating": 6.6,
-            "votes": 7984
+            "votes": 7991
           },
           "filmweb": {
             "id": "10058778",
@@ -1376,7 +1376,7 @@
               "Dramat"
             ],
             "rating": 6.8,
-            "votes": 6323
+            "votes": 6329
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/the_salt_path",
@@ -1432,7 +1432,7 @@
             "id": "tt0107207",
             "url": "https://www.imdb.com/title/tt0107207/",
             "rating": 8.1,
-            "votes": 205706
+            "votes": 205733
           },
           "filmweb": {
             "id": "1231",
@@ -1442,7 +1442,7 @@
               "Dramat obyczajowy"
             ],
             "rating": 8,
-            "votes": 54056
+            "votes": 54055
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/in_the_name_of_the_father",
@@ -1497,7 +1497,7 @@
             "id": "tt0477302",
             "url": "https://www.imdb.com/title/tt0477302/",
             "rating": 6.9,
-            "votes": 108590
+            "votes": 108596
           },
           "filmweb": {
             "id": "296427",
@@ -1506,7 +1506,7 @@
               "Dramat"
             ],
             "rating": 7.4,
-            "votes": 56923
+            "votes": 56925
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/extremely_loud_and_incredibly_close",
@@ -1561,7 +1561,7 @@
             "id": "tt32141377",
             "url": "https://www.imdb.com/title/tt32141377/",
             "rating": 7.2,
-            "votes": 135727
+            "votes": 135900
           },
           "filmweb": {
             "id": "10068169",
@@ -1570,7 +1570,7 @@
               "Horror"
             ],
             "rating": 6.8,
-            "votes": 21360
+            "votes": 21378
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/28_years_later_the_bone_temple",
@@ -1625,7 +1625,7 @@
             "id": "tt38991615",
             "url": "https://www.imdb.com/title/tt38991615/",
             "rating": 7.2,
-            "votes": 246
+            "votes": 250
           },
           "filmweb": {
             "id": "10121238",
@@ -1634,7 +1634,7 @@
               "Dramat"
             ],
             "rating": 6.8,
-            "votes": 377
+            "votes": 378
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/i_see_buildings_fall_like_lightning",
@@ -1691,7 +1691,7 @@
             "id": "tt27674982",
             "url": "https://www.imdb.com/title/tt27674982/",
             "rating": 7.4,
-            "votes": 26584
+            "votes": 26596
           },
           "filmweb": {
             "id": "10070057",
@@ -1702,7 +1702,7 @@
               "Komedia"
             ],
             "rating": 6.8,
-            "votes": 1024
+            "votes": 1027
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/the_ballad_of_wallis_island",
@@ -1757,7 +1757,7 @@
             "id": "tt35521922",
             "url": "https://www.imdb.com/title/tt35521922/",
             "rating": 6.1,
-            "votes": 39146
+            "votes": 39182
           },
           "filmweb": {
             "id": "10064809",
@@ -1766,7 +1766,7 @@
               "Thriller"
             ],
             "rating": 7.2,
-            "votes": 16096
+            "votes": 16140
           },
           "rottenTomatoes": null
         },
@@ -1810,7 +1810,7 @@
             "id": "tt0419677",
             "url": "https://www.imdb.com/title/tt0419677/",
             "rating": 7.5,
-            "votes": 64414
+            "votes": 64422
           },
           "filmweb": {
             "id": "39701",

@@ -1,12 +1,12 @@
 {
   "schemaVersion": 1,
   "date": "2026-11-14",
-  "updatedAt": "2026-11-13T17:42:20.070Z",
+  "updatedAt": "2026-11-14T16:37:03.729Z",
   "source": "https://www.kinomuza.pl/repertoire/day/",
   "day": {
-    "id": "01",
+    "id": "00",
     "date": "14.11",
-    "now": "2026-11-13 18:40:41",
+    "now": "2026-11-14 17:34:15",
     "info": [],
     "repertoire": [
       {
@@ -1173,7 +1173,7 @@
             "id": "tt27766440",
             "url": "https://www.imdb.com/title/tt27766440/",
             "rating": 6.6,
-            "votes": 7984
+            "votes": 7991
           },
           "filmweb": {
             "id": "10058778",
@@ -1183,7 +1183,7 @@
               "Dramat"
             ],
             "rating": 6.8,
-            "votes": 6323
+            "votes": 6329
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/the_salt_path",
@@ -1239,7 +1239,7 @@
             "id": "tt34966562",
             "url": "https://www.imdb.com/title/tt34966562/",
             "rating": 6.8,
-            "votes": 7120
+            "votes": 7143
           },
           "filmweb": {
             "id": "10093695",
@@ -1304,7 +1304,7 @@
             "id": "tt27541205",
             "url": "https://www.imdb.com/title/tt27541205/",
             "rating": 7.5,
-            "votes": 1122
+            "votes": 1157
           },
           "filmweb": {
             "id": "10034624",
@@ -1313,7 +1313,7 @@
               "Dramat"
             ],
             "rating": 7.3,
-            "votes": 555
+            "votes": 556
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/queen_at_sea",
@@ -1369,7 +1369,7 @@
             "id": "tt37967547",
             "url": "https://www.imdb.com/title/tt37967547/",
             "rating": 6.9,
-            "votes": 624
+            "votes": 635
           },
           "filmweb": {
             "id": "10100972",
@@ -1379,7 +1379,7 @@
               "Dramat"
             ],
             "rating": 6.6,
-            "votes": 144
+            "votes": 166
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/ink_2026",
@@ -1434,7 +1434,7 @@
             "id": "tt10329560",
             "url": "https://www.imdb.com/title/tt10329560/",
             "rating": 6.6,
-            "votes": 2945
+            "votes": 2948
           },
           "filmweb": {
             "id": "10048300",
@@ -1443,7 +1443,7 @@
               "Dramat"
             ],
             "rating": 5.9,
-            "votes": 203
+            "votes": 205
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/h_is_for_hawk",
@@ -1498,7 +1498,7 @@
             "id": "tt32141377",
             "url": "https://www.imdb.com/title/tt32141377/",
             "rating": 7.2,
-            "votes": 135727
+            "votes": 135900
           },
           "filmweb": {
             "id": "10068169",
@@ -1507,7 +1507,7 @@
               "Horror"
             ],
             "rating": 6.8,
-            "votes": 21360
+            "votes": 21378
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/28_years_later_the_bone_temple",
@@ -1555,25 +1555,25 @@
         "description": "Pewnego dnia w wiosce w Kornwalii pojawia się łódź, która zaginęła 30 lat temu razem z załogą. Ma wrócić na morze łowić ryby, a na pokład zgłaszają się na ochotnika Nick (George MacKay) oraz Liam (Callum Turner). Nakręcony na taśmie 16 mm film, zaprasza do rozwiązania lokalnej zagadki z przeszłości.",
         "shortDescription": "Pewnego dnia w wiosce w Kornwalii pojawia się łódź, która zaginęła 30 lat temu razem z załogą. Ma wrócić na morze łowić ryby, a na pokład zgłaszają się na ochotnika Nick (George MacKay) oraz Liam (Callum Turner). Nakręcony na taśmie 16 mm film, zaprasza do rozwiązania lokalnej zagadki z przeszłości.",
         "genres": [
-          "Sci-Fi",
-          "Dramat"
+          "Dramat",
+          "Sci-Fi"
         ],
         "external": {
           "imdb": {
             "id": "tt35674521",
             "url": "https://www.imdb.com/title/tt35674521/",
             "rating": 6.2,
-            "votes": 4126
+            "votes": 4141
           },
           "filmweb": {
             "id": "10072340",
             "url": "https://www.filmweb.pl/film/R%C3%B3%C5%BCa+z+Nevady-2025-10072340",
             "genres": [
-              "Sci-Fi",
-              "Dramat"
+              "Dramat",
+              "Sci-Fi"
             ],
             "rating": 6.9,
-            "votes": 707
+            "votes": 711
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/rose_of_nevada",
@@ -1629,7 +1629,7 @@
             "id": "tt9362736",
             "url": "https://www.imdb.com/title/tt9362736/",
             "rating": 6,
-            "votes": 51177
+            "votes": 51224
           },
           "filmweb": {
             "id": "10023025",
@@ -1639,7 +1639,7 @@
               "Psychologiczny"
             ],
             "rating": 5.8,
-            "votes": 12805
+            "votes": 12814
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/die_my_love_2025",
@@ -1696,7 +1696,7 @@
             "id": "tt27674982",
             "url": "https://www.imdb.com/title/tt27674982/",
             "rating": 7.4,
-            "votes": 26584
+            "votes": 26596
           },
           "filmweb": {
             "id": "10070057",
@@ -1707,7 +1707,7 @@
               "Komedia"
             ],
             "rating": 6.8,
-            "votes": 1024
+            "votes": 1027
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/the_ballad_of_wallis_island",
@@ -1770,8 +1770,8 @@
             "genres": [
               "Dramat"
             ],
-            "rating": 6.9,
-            "votes": 19
+            "rating": 6.6,
+            "votes": 21
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/pressure1976",
@@ -1890,7 +1890,7 @@
             "id": "tt32321317",
             "url": "https://www.imdb.com/title/tt32321317/",
             "rating": 6.9,
-            "votes": 25811
+            "votes": 25849
           },
           "filmweb": {
             "id": "10053146",
@@ -1899,7 +1899,7 @@
               "Melodramat"
             ],
             "rating": 6.5,
-            "votes": 6440
+            "votes": 6452
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/pillion",

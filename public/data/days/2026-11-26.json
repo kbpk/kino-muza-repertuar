@@ -1,12 +1,12 @@
 {
   "schemaVersion": 1,
   "date": "2026-11-26",
-  "updatedAt": "2026-11-14T20:56:24.636Z",
+  "updatedAt": "2026-11-15T17:03:53.158Z",
   "source": "https://www.kinomuza.pl/repertoire/day/",
   "day": {
-    "id": "12",
+    "id": "11",
     "date": "26.11",
-    "now": "2026-11-14 21:55:33",
+    "now": "2026-11-15 18:01:41",
     "info": [],
     "repertoire": [
       {
@@ -83,8 +83,8 @@
           "imdb": {
             "id": "tt39442922",
             "url": "https://www.imdb.com/title/tt39442922/",
-            "rating": 7.4,
-            "votes": 134
+            "rating": 7.5,
+            "votes": 137
           },
           "filmweb": {
             "id": "10121011",

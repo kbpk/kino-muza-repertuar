@@ -1,12 +1,12 @@
 {
   "schemaVersion": 1,
   "date": "2026-11-25",
-  "updatedAt": "2026-11-15T17:03:53.158Z",
+  "updatedAt": "2026-11-16T20:24:18.014Z",
   "source": "https://www.kinomuza.pl/repertoire/day/",
   "day": {
-    "id": "10",
+    "id": "09",
     "date": "25.11",
-    "now": "2026-11-15 18:01:35",
+    "now": "2026-11-16 21:22:34",
     "info": [],
     "repertoire": [
       {
@@ -47,7 +47,7 @@
             "id": "tt35932869",
             "url": "https://www.imdb.com/title/tt35932869/",
             "rating": 7.5,
-            "votes": 833
+            "votes": 836
           },
           "filmweb": {
             "id": "10110275",
@@ -56,7 +56,7 @@
               "Dokumentalny"
             ],
             "rating": 7.5,
-            "votes": 435
+            "votes": 451
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/the_golden_spurtle",
@@ -112,7 +112,7 @@
             "id": "tt29271622",
             "url": "https://www.imdb.com/title/tt29271622/",
             "rating": 7.4,
-            "votes": 8686
+            "votes": 8688
           },
           "filmweb": {
             "id": "10075691",
@@ -170,8 +170,8 @@
         "shortDescription": "Odesa, 1926 rok. Miasto przeżywa niezwykły rozkwit – rozwijają się literatura, jazz, boks i przede wszystkim kino. Właśnie tutaj młody Oleksandr Dovzhenko stawia pierwsze kroki w świecie filmu.",
         "genres": [
           "Biograficzny",
-          "Dramat",
-          "Historyczny"
+          "Historyczny",
+          "Dramat"
         ],
         "external": {
           "imdb": null,
@@ -180,8 +180,8 @@
             "url": "https://www.filmweb.pl/film/Dow%C5%BCenko.+Pierwsze+spojrzenie-2025-10136847",
             "genres": [
               "Biograficzny",
-              "Dramat",
-              "Historyczny"
+              "Historyczny",
+              "Dramat"
             ],
             "rating": 5.7,
             "votes": 6

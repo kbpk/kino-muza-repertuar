@@ -1,14 +1,380 @@
 {
   "schemaVersion": 1,
   "date": "2026-11-19",
-  "updatedAt": "2026-11-15T17:03:53.158Z",
+  "updatedAt": "2026-11-16T20:24:18.014Z",
   "source": "https://www.kinomuza.pl/repertoire/day/",
   "day": {
-    "id": "04",
+    "id": "03",
     "date": "19.11",
-    "now": "2026-11-15 18:01:27",
+    "now": "2026-11-16 21:21:55",
     "info": [],
     "repertoire": [
+      {
+        "hour": "14:30",
+        "datetime": "2026-11-19 14:30:00",
+        "title": "Nasza rewolucja",
+        "originalTitle": "",
+        "director": "Piotr Domalewski",
+        "year": "2026",
+        "premiereDate": "2026-11-17",
+        "duration": "125",
+        "countries": "Polska",
+        "shortDesc": "<p>On – żywiołowy, głośny, charyzmatyczny. Ona – odważna, delikatna, pełna ciepła. Bezgranicznie w sobie zakochani i przekonani, że razem mogą zmieniać świat.</p>\n",
+        "lang": "pl",
+        "subtitlesLang": "en",
+        "age": "16",
+        "credits": "reż. Piotr Domalewski <br>Polska <br>2026,125’",
+        "desc": "<p>On – żywiołowy, głośny, charyzmatyczny. Ona – odważna, delikatna, pełna ciepła. Bezgranicznie w sobie zakochani i przekonani, że razem mogą zmieniać świat.</p>\n",
+        "hall": "3",
+        "movieLink": "https://www.kinomuza.pl/movie/nasza-rewolucja/",
+        "ticketLink": "https://estradapoznan.bilety24.pl/kup-bilety/?id=1020831#total",
+        "prePremier": false,
+        "tape35mm": false,
+        "ad": false,
+        "deaf": false,
+        "ticketPrice": "",
+        "ticketHalfPrice": "",
+        "alt": "Nasza rewolucja",
+        "thumb": "https://www.kinomuza.pl/content/uploads/2026/10/NASZA-REWOLUCJA-fot.-Anna-Wloch-4-scaled-1-800x450.jpg",
+        "cycle": "przyzwoicie tanie czwartki",
+        "description": "On – żywiołowy, głośny, charyzmatyczny. Ona – odważna, delikatna, pełna ciepła. Bezgranicznie w sobie zakochani i przekonani, że razem mogą zmieniać świat.",
+        "shortDescription": "On – żywiołowy, głośny, charyzmatyczny. Ona – odważna, delikatna, pełna ciepła. Bezgranicznie w sobie zakochani i przekonani, że razem mogą zmieniać świat.",
+        "genres": [
+          "Biograficzny",
+          "Dramat obyczajowy"
+        ],
+        "external": {
+          "imdb": {
+            "id": "tt35571123",
+            "url": "https://www.imdb.com/title/tt35571123/",
+            "rating": 6.6,
+            "votes": 43
+          },
+          "filmweb": {
+            "id": "10065018",
+            "url": "https://www.filmweb.pl/film/Nasza+rewolucja-2026-10065018",
+            "genres": [
+              "Biograficzny",
+              "Dramat obyczajowy"
+            ],
+            "rating": 6.4,
+            "votes": 1370
+          },
+          "rottenTomatoes": null
+        },
+        "longDescription": "On – żywiołowy, głośny, charyzmatyczny. Ona – odważna, delikatna, pełna ciepła. Bezgranicznie w sobie zakochani i przekonani, że razem mogą zmieniać świat – Jacek i Grażyna Kuroniowie. Rezygnują z prywatności, by oddać życie walce o wolność. Ich mieszkanie staje się „kwaterą główną” opozycji – miejscem spotkań ludzi gotowych ryzykować wszystko w imię lepszego jutra. Ale wielka idea oznacza też ogromną cenę: chwile intensywnej intymności przeplatają się z latami rozłąki, kiedy dzielą ich więzienne kraty. Wybuch stanu wojennego zmusza ich do podejmowania decyzji, których nikt nie chciałby podejmować. Czy w tak potwornie trudnych czasach, miłość może zwyciężyć?\n\nFilm dostępny z audiodeskrypcją lub lektorem. Skorzystaj bezpłatnie z aplikacji Kino Dostępne 2.0 w Twoim telefonie – http://kinodostepne.pl",
+        "poster": "media/posters/7e322e8b52165ab8d6d7.webp"
+      },
+      {
+        "hour": "14:45",
+        "datetime": "2026-11-19 14:45:00",
+        "title": "Zobaczysz wszystko",
+        "originalTitle": "You Can See Everything",
+        "director": "Nathan Fielder, Lance Oppenheim",
+        "year": "2026",
+        "premiereDate": "2026-11-06",
+        "duration": "174",
+        "countries": "USA",
+        "shortDesc": "<p>Kinowe wydarzenie roku i zdecydowany kandydat do Oscarów, film bezczelnie zaciera granicę między fikcją a rzeczywistością.</p>\n",
+        "lang": "en",
+        "subtitlesLang": "pl",
+        "age": "16",
+        "credits": "reż. Nathan Fielder, Lance Oppenheim <br>USA <br>2026,174’",
+        "desc": "<p>Kinowe wydarzenie roku i zdecydowany kandydat do Oscarów, film bezczelnie zaciera granicę między fikcją a rzeczywistością.</p>\n",
+        "hall": "2",
+        "movieLink": "https://www.kinomuza.pl/movie/zobaczysz-wszystko/",
+        "ticketLink": "https://estradapoznan.bilety24.pl/kup-bilety/?id=1020817#total",
+        "prePremier": false,
+        "tape35mm": false,
+        "ad": false,
+        "deaf": false,
+        "ticketPrice": "",
+        "ticketHalfPrice": "",
+        "alt": "Zobaczysz wszystko",
+        "thumb": "https://www.kinomuza.pl/content/uploads/2026/10/zobacz-wszystko-800x450.jpg",
+        "cycle": "przyzwoicie tanie czwartki",
+        "description": "Kinowe wydarzenie roku i zdecydowany kandydat do Oscarów, film bezczelnie zaciera granicę między fikcją a rzeczywistością.",
+        "shortDescription": "Kinowe wydarzenie roku i zdecydowany kandydat do Oscarów, film bezczelnie zaciera granicę między fikcją a rzeczywistością.",
+        "genres": [
+          "Dokumentalny"
+        ],
+        "external": {
+          "imdb": {
+            "id": "tt45368240",
+            "url": "https://www.imdb.com/title/tt45368240/",
+            "rating": 9,
+            "votes": 35030
+          },
+          "filmweb": {
+            "id": "10133825",
+            "url": "https://www.filmweb.pl/film/Zobaczysz+wszystko-2026-10133825",
+            "genres": [
+              "Dokumentalny"
+            ],
+            "rating": 8.2,
+            "votes": 22269
+          },
+          "rottenTomatoes": {
+            "url": "https://www.rottentomatoes.com/m/you_can_see_everything",
+            "title": "You Can See Everything",
+            "year": "2026",
+            "directors": [
+              "Nathan Fielder",
+              "Lance Oppenheim"
+            ],
+            "criticsRating": null,
+            "criticsVotes": 228,
+            "audienceRating": null,
+            "audienceVotes": null
+          }
+        },
+        "longDescription": "Kinowe wydarzenie roku i zdecydowany kandydat do Oscarów. Wyreżyserowany przez Nathana Fieldera (twórcy „Próby generalnej” i „Klątwy”) oraz Lance’a Oppenheima („Primetime” z Robertem Pattinsonem), film bezczelnie zaciera granicę między fikcją a rzeczywistością.\n\nElizabeth Holmes, założycielka firmy Theranos i okrzyknięta „kobiecym Steve’em Jobsem” wizjonerka, została skazana na 11 lat więzienia za jedno z największych oszustw Doliny Krzemowej. Na 34 dni przed odbyciem kary w jej życie wkracza Nathan Fielder – bezkompromisowy komik i prowokator. Wprowadza się do jej domu, by obserwować ostatnie chwile wolności kobiety. Holmes twierdzi, że jest niewinna, i obiecuje, że kamera Fieldera ujawni prawdę, która wstrząśnie światem. Wypowiada tylko dwa słowa: „Zobaczysz wszystko”.\n\nTak zaczyna się epicka opowieść filmowa wymykająca się gatunkowym ramom. Co w tej grze jest szczerą spowiedzią, a co kolejnym, mistrzowskim oszustwem? Czegoś takiego jeszcze nie widzieliście.",
+        "poster": "media/posters/01c4a2744f0e4c297557.webp"
+      },
+      {
+        "hour": "14:45",
+        "datetime": "2026-11-19 14:45:00",
+        "title": "La Perra",
+        "originalTitle": "",
+        "director": "Dominga Sotomayor",
+        "year": "2026",
+        "premiereDate": "2026-11-06",
+        "duration": "112",
+        "countries": "Chile",
+        "shortDesc": "<p>Pełen napięcia dramat psychologiczny o tym, co ukrywamy pod powierzchnią codzienności. O miłości i odrzuceniu. O próbie oswojenia tego, co nieuchwytne.</p>\n",
+        "lang": "es",
+        "subtitlesLang": "pl",
+        "age": "16",
+        "credits": "reż. Dominga Sotomayor <br>Chile <br>2026,112’",
+        "desc": "<p>Pełen napięcia dramat psychologiczny o tym, co ukrywamy pod powierzchnią codzienności. O miłości i odrzuceniu. O próbie oswojenia tego, co nieuchwytne.</p>\n",
+        "hall": "1",
+        "movieLink": "https://www.kinomuza.pl/movie/la-perra/",
+        "ticketLink": "https://estradapoznan.bilety24.pl/kup-bilety/?id=1020806#total",
+        "prePremier": false,
+        "tape35mm": false,
+        "ad": false,
+        "deaf": false,
+        "ticketPrice": "",
+        "ticketHalfPrice": "",
+        "alt": "La Perra",
+        "thumb": "https://www.kinomuza.pl/content/uploads/2026/10/laperra-2-800x450.jpg",
+        "cycle": "przyzwoicie tanie czwartki",
+        "description": "Pełen napięcia dramat psychologiczny o tym, co ukrywamy pod powierzchnią codzienności. O miłości i odrzuceniu. O próbie oswojenia tego, co nieuchwytne.",
+        "shortDescription": "Pełen napięcia dramat psychologiczny o tym, co ukrywamy pod powierzchnią codzienności. O miłości i odrzuceniu. O próbie oswojenia tego, co nieuchwytne.",
+        "genres": [
+          "Dramat"
+        ],
+        "external": {
+          "imdb": {
+            "id": "tt38468551",
+            "url": "https://www.imdb.com/title/tt38468551/",
+            "rating": 5.5,
+            "votes": 84
+          },
+          "filmweb": {
+            "id": "10121239",
+            "url": "https://www.filmweb.pl/film/La+perra-2026-10121239",
+            "genres": [
+              "Dramat"
+            ],
+            "rating": 5.7,
+            "votes": 379
+          },
+          "rottenTomatoes": {
+            "url": "https://www.rottentomatoes.com/m/la_perra",
+            "title": "La Perra",
+            "year": "",
+            "directors": [
+              "Dominga Sotomayor"
+            ],
+            "criticsRating": null,
+            "criticsVotes": 13,
+            "audienceRating": null,
+            "audienceVotes": null
+          }
+        },
+        "longDescription": "Na odległej, smaganej południowym wiatrem wyspie u wybrzeży chilijskiej Patagonii Silvia wiedzie spokojne życie u boku swojego partnera, utrzymując się ze zbierania alg. Pewnego dnia znajduje porzuconą suczkę i nadaje jej imię Yuri — takie, jakie wybrałaby dla upragnionej córki. Głęboka więź z nieokiełznanym zwierzęciem wypełnia pustkę pozostawioną przez niespełnione pragnienie macierzyństwa. Ich relacja staje się początkiem nieoczekiwanej konfrontacji, w której miłość i czułość ścierają się z gniewem i bolesnymi wspomnieniami z przeszłości, przed którymi Silvia przez lata próbowała uciec. LA PERRA to subtelny, pełen napięcia dramat psychologiczny o tym, co ukrywamy pod powierzchnią codzienności. O miłości i odrzuceniu. O próbie oswojenia tego, co nieuchwytne. O potrzebie zniknięcia i odwadze, by wreszcie się zmierzyć z przeszłością. Film został uhonorowany nagrodą Palm Dog w Cannes za wyjątkową kreację psiej bohaterki.",
+        "poster": "media/posters/da61fb13745c465270d9.webp"
+      },
+      {
+        "hour": "16:45",
+        "datetime": "2026-11-19 16:45:00",
+        "title": "Nasza rewolucja",
+        "originalTitle": "",
+        "director": "Piotr Domalewski",
+        "year": "2026",
+        "premiereDate": "2026-11-17",
+        "duration": "125",
+        "countries": "Polska",
+        "shortDesc": "<p>On – żywiołowy, głośny, charyzmatyczny. Ona – odważna, delikatna, pełna ciepła. Bezgranicznie w sobie zakochani i przekonani, że razem mogą zmieniać świat.</p>\n",
+        "lang": "pl",
+        "subtitlesLang": "en",
+        "age": "16",
+        "credits": "reż. Piotr Domalewski <br>Polska <br>2026,125’",
+        "desc": "<p>On – żywiołowy, głośny, charyzmatyczny. Ona – odważna, delikatna, pełna ciepła. Bezgranicznie w sobie zakochani i przekonani, że razem mogą zmieniać świat.</p>\n",
+        "hall": "1",
+        "movieLink": "https://www.kinomuza.pl/movie/nasza-rewolucja/",
+        "ticketLink": "https://estradapoznan.bilety24.pl/kup-bilety/?id=1020807#total",
+        "prePremier": false,
+        "tape35mm": false,
+        "ad": false,
+        "deaf": false,
+        "ticketPrice": "",
+        "ticketHalfPrice": "",
+        "alt": "Nasza rewolucja",
+        "thumb": "https://www.kinomuza.pl/content/uploads/2026/10/NASZA-REWOLUCJA-fot.-Anna-Wloch-4-scaled-1-800x450.jpg",
+        "cycle": "przyzwoicie tanie czwartki",
+        "description": "On – żywiołowy, głośny, charyzmatyczny. Ona – odważna, delikatna, pełna ciepła. Bezgranicznie w sobie zakochani i przekonani, że razem mogą zmieniać świat.",
+        "shortDescription": "On – żywiołowy, głośny, charyzmatyczny. Ona – odważna, delikatna, pełna ciepła. Bezgranicznie w sobie zakochani i przekonani, że razem mogą zmieniać świat.",
+        "genres": [
+          "Biograficzny",
+          "Dramat obyczajowy"
+        ],
+        "external": {
+          "imdb": {
+            "id": "tt35571123",
+            "url": "https://www.imdb.com/title/tt35571123/",
+            "rating": 6.6,
+            "votes": 43
+          },
+          "filmweb": {
+            "id": "10065018",
+            "url": "https://www.filmweb.pl/film/Nasza+rewolucja-2026-10065018",
+            "genres": [
+              "Biograficzny",
+              "Dramat obyczajowy"
+            ],
+            "rating": 6.4,
+            "votes": 1370
+          },
+          "rottenTomatoes": null
+        },
+        "longDescription": "On – żywiołowy, głośny, charyzmatyczny. Ona – odważna, delikatna, pełna ciepła. Bezgranicznie w sobie zakochani i przekonani, że razem mogą zmieniać świat – Jacek i Grażyna Kuroniowie. Rezygnują z prywatności, by oddać życie walce o wolność. Ich mieszkanie staje się „kwaterą główną” opozycji – miejscem spotkań ludzi gotowych ryzykować wszystko w imię lepszego jutra. Ale wielka idea oznacza też ogromną cenę: chwile intensywnej intymności przeplatają się z latami rozłąki, kiedy dzielą ich więzienne kraty. Wybuch stanu wojennego zmusza ich do podejmowania decyzji, których nikt nie chciałby podejmować. Czy w tak potwornie trudnych czasach, miłość może zwyciężyć?\n\nFilm dostępny z audiodeskrypcją lub lektorem. Skorzystaj bezpłatnie z aplikacji Kino Dostępne 2.0 w Twoim telefonie – http://kinodostepne.pl",
+        "poster": "media/posters/7e322e8b52165ab8d6d7.webp"
+      },
+      {
+        "hour": "16:45",
+        "datetime": "2026-11-19 16:45:00",
+        "title": "Dziki Koń Dziewięć",
+        "originalTitle": "Wild Horse Nine",
+        "director": "Martin McDonagh",
+        "year": "2026",
+        "premiereDate": "2026-11-17",
+        "duration": "118",
+        "countries": "Wielka Brytania, USA, Chile",
+        "shortDesc": "<p>To polityczny thriller z czarnym humorem. Fabuła opowiada o dwóch agentach CIA.</p>\n",
+        "lang": "",
+        "subtitlesLang": "pl",
+        "age": "16",
+        "credits": "reż. Martin McDonagh <br>Wielka Brytania, USA, Chile <br>2026,118’",
+        "desc": "<p>To polityczny thriller z czarnym humorem. Fabuła opowiada o dwóch agentach CIA.</p>\n",
+        "hall": "3",
+        "movieLink": "https://www.kinomuza.pl/movie/dziki-kon-dziewiec/",
+        "ticketLink": "https://estradapoznan.bilety24.pl/kup-bilety/?id=1020832#total",
+        "prePremier": false,
+        "tape35mm": false,
+        "ad": false,
+        "deaf": false,
+        "ticketPrice": "",
+        "ticketHalfPrice": "",
+        "alt": "Dziki Koń Dziewięć",
+        "thumb": "https://www.kinomuza.pl/content/uploads/2026/10/dziki-kon-2-800x450.jpg",
+        "cycle": "przyzwoicie tanie czwartki",
+        "description": "To polityczny thriller z czarnym humorem. Fabuła opowiada o dwóch agentach CIA.",
+        "shortDescription": "To polityczny thriller z czarnym humorem. Fabuła opowiada o dwóch agentach CIA.",
+        "genres": [
+          "Dramat",
+          "Thriller"
+        ],
+        "external": {
+          "imdb": {
+            "id": "tt15799564",
+            "url": "https://www.imdb.com/title/tt15799564/",
+            "rating": 8.1,
+            "votes": 18067
+          },
+          "filmweb": {
+            "id": "10075493",
+            "url": "https://www.filmweb.pl/film/Dziki+Ko%C5%84+Dziewi%C4%99%C4%87-2026-10075493",
+            "genres": [
+              "Dramat",
+              "Thriller"
+            ],
+            "rating": 8,
+            "votes": 2209
+          },
+          "rottenTomatoes": {
+            "url": "https://www.rottentomatoes.com/m/wild_horse_nine",
+            "title": "Wild Horse Nine",
+            "year": "2026",
+            "directors": [
+              "Martin McDonagh"
+            ],
+            "criticsRating": null,
+            "criticsVotes": 254,
+            "audienceRating": null,
+            "audienceVotes": null
+          }
+        },
+        "longDescription": "Film Martina McDonagha Dziki Koń Dziewięć  otrzymał aż 13 minut owacji na stojąco podczas swojej światowej premiery na Festiwalu Filmowym w Wenecji! Odtwórca głównej roli, 72-letni John Malkovich, ocierał łzy wzruszenia, gdy publiczność nie przestawała bić braw. Krytycy natychmiast okrzyknęli jego występ „rolą życia” i wróżą mu Oscara\n\nTo polityczny thriller z czarnym humorem. Fabuła opowiada o dwóch agentach CIA (w tych rolach Malkovich i Sam Rockwell). Na krótko przed zamachem stanu w Chile w 1973 roku agenci CIA Chris i Lee zostają wysłani z Santiago na Wyspę Wielkanocną przez swoją szefową, MJ. W cieniu słynnych posągów wyspy wieloletni partnerzy muszą zmierzyć się z mroczną przeszłością i spiskami, które zaczynają wychodzić na jaw. Tymczasem nowa więź Chrisa z dwojgiem zbuntowanych studentów grozi tym, że pobyt wszystkich w tym odległym raju wymknie się spod kontroli.",
+        "poster": "media/posters/26ce6bd92d921ecc89ad.webp"
+      },
+      {
+        "hour": "18:00",
+        "datetime": "2026-11-19 18:00:00",
+        "title": "Nasza rewolucja",
+        "originalTitle": "",
+        "director": "Piotr Domalewski",
+        "year": "2026",
+        "premiereDate": "2026-11-17",
+        "duration": "125",
+        "countries": "Polska",
+        "shortDesc": "<p>On – żywiołowy, głośny, charyzmatyczny. Ona – odważna, delikatna, pełna ciepła. Bezgranicznie w sobie zakochani i przekonani, że razem mogą zmieniać świat.</p>\n",
+        "lang": "pl",
+        "subtitlesLang": "en",
+        "age": "16",
+        "credits": "reż. Piotr Domalewski <br>Polska <br>2026,125’",
+        "desc": "<p>On – żywiołowy, głośny, charyzmatyczny. Ona – odważna, delikatna, pełna ciepła. Bezgranicznie w sobie zakochani i przekonani, że razem mogą zmieniać świat.</p>\n",
+        "hall": "2",
+        "movieLink": "https://www.kinomuza.pl/movie/nasza-rewolucja/",
+        "ticketLink": "https://estradapoznan.bilety24.pl/kup-bilety/?id=1020816#total",
+        "prePremier": false,
+        "tape35mm": false,
+        "ad": false,
+        "deaf": false,
+        "ticketPrice": "",
+        "ticketHalfPrice": "",
+        "alt": "Nasza rewolucja",
+        "thumb": "https://www.kinomuza.pl/content/uploads/2026/10/NASZA-REWOLUCJA-fot.-Anna-Wloch-4-scaled-1-800x450.jpg",
+        "cycle": "przyzwoicie tanie czwartki",
+        "description": "On – żywiołowy, głośny, charyzmatyczny. Ona – odważna, delikatna, pełna ciepła. Bezgranicznie w sobie zakochani i przekonani, że razem mogą zmieniać świat.",
+        "shortDescription": "On – żywiołowy, głośny, charyzmatyczny. Ona – odważna, delikatna, pełna ciepła. Bezgranicznie w sobie zakochani i przekonani, że razem mogą zmieniać świat.",
+        "genres": [
+          "Biograficzny",
+          "Dramat obyczajowy"
+        ],
+        "external": {
+          "imdb": {
+            "id": "tt35571123",
+            "url": "https://www.imdb.com/title/tt35571123/",
+            "rating": 6.6,
+            "votes": 43
+          },
+          "filmweb": {
+            "id": "10065018",
+            "url": "https://www.filmweb.pl/film/Nasza+rewolucja-2026-10065018",
+            "genres": [
+              "Biograficzny",
+              "Dramat obyczajowy"
+            ],
+            "rating": 6.4,
+            "votes": 1370
+          },
+          "rottenTomatoes": null
+        },
+        "longDescription": "On – żywiołowy, głośny, charyzmatyczny. Ona – odważna, delikatna, pełna ciepła. Bezgranicznie w sobie zakochani i przekonani, że razem mogą zmieniać świat – Jacek i Grażyna Kuroniowie. Rezygnują z prywatności, by oddać życie walce o wolność. Ich mieszkanie staje się „kwaterą główną” opozycji – miejscem spotkań ludzi gotowych ryzykować wszystko w imię lepszego jutra. Ale wielka idea oznacza też ogromną cenę: chwile intensywnej intymności przeplatają się z latami rozłąki, kiedy dzielą ich więzienne kraty. Wybuch stanu wojennego zmusza ich do podejmowania decyzji, których nikt nie chciałby podejmować. Czy w tak potwornie trudnych czasach, miłość może zwyciężyć?\n\nFilm dostępny z audiodeskrypcją lub lektorem. Skorzystaj bezpłatnie z aplikacji Kino Dostępne 2.0 w Twoim telefonie – http://kinodostepne.pl",
+        "poster": "media/posters/7e322e8b52165ab8d6d7.webp"
+      },
       {
         "hour": "19:00",
         "datetime": "2026-11-19 19:00:00",
@@ -48,6 +414,271 @@
         },
         "longDescription": "Międzynarodowy Festiwal Filmów Animowanych w Annecy dociera do najodleglejszych zakątków świata dzięki programowi „Best of Annecy 2026”, który łączy najlepsze festiwalowe filmy krótkometrażowe – głównie zwycięzców ostatniej edycji – ze specjalnie przygotowaną sekwencją otwierającą, stworzoną przez studentów i studentki II roku paryskiej szkoły GOBELINS.\n\nPROGRAM\n\n1. La chambre aux coccinelles, GOBELINS Paris – Léana COURTOIS, Rachel Marazano, Adrienne MOURIER, Elio Nicoletti, Paola PITASSI, Capucine VILLAR, France 2026, 0’45”\n\nA child moves from world to world, each representing a film genre, and grows up through her discoveries.\n\nBohaterka przemieszcza się z jednego świata do drugiego, z których każdy reprezentuje inny gatunek filmowy. Dzięki swoim odkryciom dorasta.\n\n2. My Bellyaching Skin / Les Pelures d’estomac, Étienne BONNET, France 2026, 6’12”\n\nWhen my body suddenly started breaking out in a rash, I naturally assumed at first that it was a skin problem. But what if the cause of my itching was actually something to do with my stomach?\n\nKiedy na moim ciele nagle pojawiła się wysypka, na początku naturalnie założyłem, że to problem skórny. A co, jeśli przyczyna mojego swędzenia wiązała się w rzeczywistości z moim żołądkiem?\n\n3. Dying Embers / Les Dernières Braises, Léa PULINI, France 2025, 4’01”\n\nMagdelaine and her grandmother live a secluded life in their inn in the middle of the mountains. One cold night, as a violent storm rages outside, a traveler knocks at the door.\n\nMagdelaine i jej babcia prowadzą ustronne życie w zajeździe położonym w samym sercu gór. Pewnej mroźnej nocy, gdy na zewnątrz szaleje gwałtowna burza, do drzwi puka podróżny.\n\n4. Blessed, Birute SODEIKAITE, Sweden, Canada 2025, 7’42”\n\nA tough, no-nonsense Buffalo has always seen himself as strong and fearless. But when his dream of fatherhood comes true, he’s suddenly awkward, overwhelmed, and under constant judgment. Can he become the father he’s always imagined or will his fears hold him back?\n\nBuffalo zawsze uważał się za silnego i nieustraszonego. Jednak gdy spełnia się jego marzenie o ojcostwie, nagle staje się nieporadny, przytłoczony i nieustannie poddawany ocenie. Czy uda mu się stać się ojcem, o jakim zawsze marzył, czy też jego obawy go powstrzymają?\n\n5. God Is Shy / Dieu est timide, Jocelyn CHARLES, France 2025, 15’34”\n\nWhile travelling by train, Ariel and Paul are having some fun drawing their greatest fears when Gilda, a mysterious passenger, sits down with them and joins in. However, her own experience of fear does not seem to be as innocent as their drawings.\n\nPodczas podróży pociągiem Ariel i Paul bawią się, rysując swoje największe lęki. Dołącza do nich Gilda, nieznajoma pasażerka. Okazuje się, że jej doświadczenia związane ze strachem nie są tak niewinne, jak rysunki Ariela i Paula.\n\n6. CORE DUMP, Alona RODEH, Germany 2025, 6’06”\n\nA surreal swarm of drones is scavenging for e-waste. Drawing on the speculative frameworks of climate fiction the film addresses the geopolitics of waste. It contemplates current warfare and the entanglement of ecological and geopolitical conditions.\n\nSurrealistyczny rój dronów zbiera odpady elektroniczne. Czerpiąc z spekulatywnych ram literatury klimatycznej, film porusza temat geopolityki odpadów. Zastanawia się nad współczesnymi konfliktami zbrojnymi oraz powiązaniami między uwarunkowaniami ekologicznymi a geopolitycznymi.\n\n7. Eclosión, Luis MORILLO, Dominican Republic, Spain 2026, 12’33”\n\nIn a forgotten lab, a brilliant, obsessed inventor creates the Hatchling. Fragile yet promising, it becomes both cherished and tested. As care turns to control, the film questions the cost of perfection and whether love can outlast obsession.\n\nW zapomnianym laboratorium genialny, opętany obsesją wynalazca tworzy istotę o imieniu Hatchling. Jest ona tak samo delikatna, jak obiecująca. Staje się jednocześnie przedmiotem czułości i prób. Gdy troska przeradza się w kontrolę, film stawia pytanie o cenę doskonałości oraz o to, czy miłość może przetrwać obsesję.\n\n8. Ball Face, Laurence THÉRIEN, United Kingdom, Canada 2026, 4’32”\n\nLife throws curveballs, how you react decides if you make it through. We follow an elementary schoolgirl terrified of sports who survives a chaotic ball game by bouncing a ball off her face. By the end of the game, she’s completely transformed.\n\nŻycie rzuca kłody pod nogi. To, jak na nie zareagujesz decyduje o tym, czy dasz sobie radę. Film śledzi losy uczennicy szkoły podstawowej, która panicznie boi się sportu, i która przetrwała chaotyczny mecz, odbijając piłkę od własnej twarzy. Pod koniec meczu dziewczyna całkowicie się zmieniła.\n\n9. Paper Trial, Don HERTZFELDT, USA 2026, 14’10”\n\nA life, seen through paper.\n\nŻycie widziane przez pryzmat papieru.",
         "poster": "media/posters/14812f7b6d42399b25f3.webp"
+      },
+      {
+        "hour": "19:00",
+        "datetime": "2026-11-19 19:00:00",
+        "title": "Dziki Koń Dziewięć",
+        "originalTitle": "Wild Horse Nine",
+        "director": "Martin McDonagh",
+        "year": "2026",
+        "premiereDate": "2026-11-17",
+        "duration": "118",
+        "countries": "Wielka Brytania, USA, Chile",
+        "shortDesc": "<p>To polityczny thriller z czarnym humorem. Fabuła opowiada o dwóch agentach CIA.</p>\n",
+        "lang": "",
+        "subtitlesLang": "pl",
+        "age": "16",
+        "credits": "reż. Martin McDonagh <br>Wielka Brytania, USA, Chile <br>2026,118’",
+        "desc": "<p>To polityczny thriller z czarnym humorem. Fabuła opowiada o dwóch agentach CIA.</p>\n",
+        "hall": "3",
+        "movieLink": "https://www.kinomuza.pl/movie/dziki-kon-dziewiec/",
+        "ticketLink": "https://estradapoznan.bilety24.pl/kup-bilety/?id=1020833#total",
+        "prePremier": false,
+        "tape35mm": false,
+        "ad": false,
+        "deaf": false,
+        "ticketPrice": "",
+        "ticketHalfPrice": "",
+        "alt": "Dziki Koń Dziewięć",
+        "thumb": "https://www.kinomuza.pl/content/uploads/2026/10/dziki-kon-2-800x450.jpg",
+        "cycle": "przyzwoicie tanie czwartki",
+        "description": "To polityczny thriller z czarnym humorem. Fabuła opowiada o dwóch agentach CIA.",
+        "shortDescription": "To polityczny thriller z czarnym humorem. Fabuła opowiada o dwóch agentach CIA.",
+        "genres": [
+          "Dramat",
+          "Thriller"
+        ],
+        "external": {
+          "imdb": {
+            "id": "tt15799564",
+            "url": "https://www.imdb.com/title/tt15799564/",
+            "rating": 8.1,
+            "votes": 18067
+          },
+          "filmweb": {
+            "id": "10075493",
+            "url": "https://www.filmweb.pl/film/Dziki+Ko%C5%84+Dziewi%C4%99%C4%87-2026-10075493",
+            "genres": [
+              "Dramat",
+              "Thriller"
+            ],
+            "rating": 8,
+            "votes": 2209
+          },
+          "rottenTomatoes": {
+            "url": "https://www.rottentomatoes.com/m/wild_horse_nine",
+            "title": "Wild Horse Nine",
+            "year": "2026",
+            "directors": [
+              "Martin McDonagh"
+            ],
+            "criticsRating": null,
+            "criticsVotes": 254,
+            "audienceRating": null,
+            "audienceVotes": null
+          }
+        },
+        "longDescription": "Film Martina McDonagha Dziki Koń Dziewięć  otrzymał aż 13 minut owacji na stojąco podczas swojej światowej premiery na Festiwalu Filmowym w Wenecji! Odtwórca głównej roli, 72-letni John Malkovich, ocierał łzy wzruszenia, gdy publiczność nie przestawała bić braw. Krytycy natychmiast okrzyknęli jego występ „rolą życia” i wróżą mu Oscara\n\nTo polityczny thriller z czarnym humorem. Fabuła opowiada o dwóch agentach CIA (w tych rolach Malkovich i Sam Rockwell). Na krótko przed zamachem stanu w Chile w 1973 roku agenci CIA Chris i Lee zostają wysłani z Santiago na Wyspę Wielkanocną przez swoją szefową, MJ. W cieniu słynnych posągów wyspy wieloletni partnerzy muszą zmierzyć się z mroczną przeszłością i spiskami, które zaczynają wychodzić na jaw. Tymczasem nowa więź Chrisa z dwojgiem zbuntowanych studentów grozi tym, że pobyt wszystkich w tym odległym raju wymknie się spod kontroli.",
+        "poster": "media/posters/26ce6bd92d921ecc89ad.webp"
+      },
+      {
+        "hour": "20:15",
+        "datetime": "2026-11-19 20:15:00",
+        "title": "Zobaczysz wszystko",
+        "originalTitle": "You Can See Everything",
+        "director": "Nathan Fielder, Lance Oppenheim",
+        "year": "2026",
+        "premiereDate": "2026-11-06",
+        "duration": "174",
+        "countries": "USA",
+        "shortDesc": "<p>Kinowe wydarzenie roku i zdecydowany kandydat do Oscarów, film bezczelnie zaciera granicę między fikcją a rzeczywistością.</p>\n",
+        "lang": "en",
+        "subtitlesLang": "pl",
+        "age": "16",
+        "credits": "reż. Nathan Fielder, Lance Oppenheim <br>USA <br>2026,174’",
+        "desc": "<p>Kinowe wydarzenie roku i zdecydowany kandydat do Oscarów, film bezczelnie zaciera granicę między fikcją a rzeczywistością.</p>\n",
+        "hall": "2",
+        "movieLink": "https://www.kinomuza.pl/movie/zobaczysz-wszystko/",
+        "ticketLink": "https://estradapoznan.bilety24.pl/kup-bilety/?id=1020818#total",
+        "prePremier": false,
+        "tape35mm": false,
+        "ad": false,
+        "deaf": false,
+        "ticketPrice": "",
+        "ticketHalfPrice": "",
+        "alt": "Zobaczysz wszystko",
+        "thumb": "https://www.kinomuza.pl/content/uploads/2026/10/zobacz-wszystko-800x450.jpg",
+        "cycle": "przyzwoicie tanie czwartki",
+        "description": "Kinowe wydarzenie roku i zdecydowany kandydat do Oscarów, film bezczelnie zaciera granicę między fikcją a rzeczywistością.",
+        "shortDescription": "Kinowe wydarzenie roku i zdecydowany kandydat do Oscarów, film bezczelnie zaciera granicę między fikcją a rzeczywistością.",
+        "genres": [
+          "Dokumentalny"
+        ],
+        "external": {
+          "imdb": {
+            "id": "tt45368240",
+            "url": "https://www.imdb.com/title/tt45368240/",
+            "rating": 9,
+            "votes": 35030
+          },
+          "filmweb": {
+            "id": "10133825",
+            "url": "https://www.filmweb.pl/film/Zobaczysz+wszystko-2026-10133825",
+            "genres": [
+              "Dokumentalny"
+            ],
+            "rating": 8.2,
+            "votes": 22269
+          },
+          "rottenTomatoes": {
+            "url": "https://www.rottentomatoes.com/m/you_can_see_everything",
+            "title": "You Can See Everything",
+            "year": "2026",
+            "directors": [
+              "Nathan Fielder",
+              "Lance Oppenheim"
+            ],
+            "criticsRating": null,
+            "criticsVotes": 228,
+            "audienceRating": null,
+            "audienceVotes": null
+          }
+        },
+        "longDescription": "Kinowe wydarzenie roku i zdecydowany kandydat do Oscarów. Wyreżyserowany przez Nathana Fieldera (twórcy „Próby generalnej” i „Klątwy”) oraz Lance’a Oppenheima („Primetime” z Robertem Pattinsonem), film bezczelnie zaciera granicę między fikcją a rzeczywistością.\n\nElizabeth Holmes, założycielka firmy Theranos i okrzyknięta „kobiecym Steve’em Jobsem” wizjonerka, została skazana na 11 lat więzienia za jedno z największych oszustw Doliny Krzemowej. Na 34 dni przed odbyciem kary w jej życie wkracza Nathan Fielder – bezkompromisowy komik i prowokator. Wprowadza się do jej domu, by obserwować ostatnie chwile wolności kobiety. Holmes twierdzi, że jest niewinna, i obiecuje, że kamera Fieldera ujawni prawdę, która wstrząśnie światem. Wypowiada tylko dwa słowa: „Zobaczysz wszystko”.\n\nTak zaczyna się epicka opowieść filmowa wymykająca się gatunkowym ramom. Co w tej grze jest szczerą spowiedzią, a co kolejnym, mistrzowskim oszustwem? Czegoś takiego jeszcze nie widzieliście.",
+        "poster": "media/posters/01c4a2744f0e4c297557.webp"
+      },
+      {
+        "hour": "20:45",
+        "datetime": "2026-11-19 20:45:00",
+        "title": "Dziki Koń Dziewięć",
+        "originalTitle": "Wild Horse Nine",
+        "director": "Martin McDonagh",
+        "year": "2026",
+        "premiereDate": "2026-11-17",
+        "duration": "118",
+        "countries": "Wielka Brytania, USA, Chile",
+        "shortDesc": "<p>To polityczny thriller z czarnym humorem. Fabuła opowiada o dwóch agentach CIA.</p>\n",
+        "lang": "",
+        "subtitlesLang": "pl",
+        "age": "16",
+        "credits": "reż. Martin McDonagh <br>Wielka Brytania, USA, Chile <br>2026,118’",
+        "desc": "<p>To polityczny thriller z czarnym humorem. Fabuła opowiada o dwóch agentach CIA.</p>\n",
+        "hall": "1",
+        "movieLink": "https://www.kinomuza.pl/movie/dziki-kon-dziewiec/",
+        "ticketLink": "https://estradapoznan.bilety24.pl/kup-bilety/?id=1020808#total",
+        "prePremier": false,
+        "tape35mm": false,
+        "ad": false,
+        "deaf": false,
+        "ticketPrice": "",
+        "ticketHalfPrice": "",
+        "alt": "Dziki Koń Dziewięć",
+        "thumb": "https://www.kinomuza.pl/content/uploads/2026/10/dziki-kon-2-800x450.jpg",
+        "cycle": "przyzwoicie tanie czwartki",
+        "description": "To polityczny thriller z czarnym humorem. Fabuła opowiada o dwóch agentach CIA.",
+        "shortDescription": "To polityczny thriller z czarnym humorem. Fabuła opowiada o dwóch agentach CIA.",
+        "genres": [
+          "Dramat",
+          "Thriller"
+        ],
+        "external": {
+          "imdb": {
+            "id": "tt15799564",
+            "url": "https://www.imdb.com/title/tt15799564/",
+            "rating": 8.1,
+            "votes": 18067
+          },
+          "filmweb": {
+            "id": "10075493",
+            "url": "https://www.filmweb.pl/film/Dziki+Ko%C5%84+Dziewi%C4%99%C4%87-2026-10075493",
+            "genres": [
+              "Dramat",
+              "Thriller"
+            ],
+            "rating": 8,
+            "votes": 2209
+          },
+          "rottenTomatoes": {
+            "url": "https://www.rottentomatoes.com/m/wild_horse_nine",
+            "title": "Wild Horse Nine",
+            "year": "2026",
+            "directors": [
+              "Martin McDonagh"
+            ],
+            "criticsRating": null,
+            "criticsVotes": 254,
+            "audienceRating": null,
+            "audienceVotes": null
+          }
+        },
+        "longDescription": "Film Martina McDonagha Dziki Koń Dziewięć  otrzymał aż 13 minut owacji na stojąco podczas swojej światowej premiery na Festiwalu Filmowym w Wenecji! Odtwórca głównej roli, 72-letni John Malkovich, ocierał łzy wzruszenia, gdy publiczność nie przestawała bić braw. Krytycy natychmiast okrzyknęli jego występ „rolą życia” i wróżą mu Oscara\n\nTo polityczny thriller z czarnym humorem. Fabuła opowiada o dwóch agentach CIA (w tych rolach Malkovich i Sam Rockwell). Na krótko przed zamachem stanu w Chile w 1973 roku agenci CIA Chris i Lee zostają wysłani z Santiago na Wyspę Wielkanocną przez swoją szefową, MJ. W cieniu słynnych posągów wyspy wieloletni partnerzy muszą zmierzyć się z mroczną przeszłością i spiskami, które zaczynają wychodzić na jaw. Tymczasem nowa więź Chrisa z dwojgiem zbuntowanych studentów grozi tym, że pobyt wszystkich w tym odległym raju wymknie się spod kontroli.",
+        "poster": "media/posters/26ce6bd92d921ecc89ad.webp"
+      },
+      {
+        "hour": "21:15",
+        "datetime": "2026-11-19 21:15:00",
+        "title": "La Perra",
+        "originalTitle": "",
+        "director": "Dominga Sotomayor",
+        "year": "2026",
+        "premiereDate": "2026-11-06",
+        "duration": "112",
+        "countries": "Chile",
+        "shortDesc": "<p>Pełen napięcia dramat psychologiczny o tym, co ukrywamy pod powierzchnią codzienności. O miłości i odrzuceniu. O próbie oswojenia tego, co nieuchwytne.</p>\n",
+        "lang": "es",
+        "subtitlesLang": "pl",
+        "age": "16",
+        "credits": "reż. Dominga Sotomayor <br>Chile <br>2026,112’",
+        "desc": "<p>Pełen napięcia dramat psychologiczny o tym, co ukrywamy pod powierzchnią codzienności. O miłości i odrzuceniu. O próbie oswojenia tego, co nieuchwytne.</p>\n",
+        "hall": "3",
+        "movieLink": "https://www.kinomuza.pl/movie/la-perra/",
+        "ticketLink": "https://estradapoznan.bilety24.pl/kup-bilety/?id=1020834#total",
+        "prePremier": false,
+        "tape35mm": false,
+        "ad": false,
+        "deaf": false,
+        "ticketPrice": "",
+        "ticketHalfPrice": "",
+        "alt": "La Perra",
+        "thumb": "https://www.kinomuza.pl/content/uploads/2026/10/laperra-2-800x450.jpg",
+        "cycle": "przyzwoicie tanie czwartki",
+        "description": "Pełen napięcia dramat psychologiczny o tym, co ukrywamy pod powierzchnią codzienności. O miłości i odrzuceniu. O próbie oswojenia tego, co nieuchwytne.",
+        "shortDescription": "Pełen napięcia dramat psychologiczny o tym, co ukrywamy pod powierzchnią codzienności. O miłości i odrzuceniu. O próbie oswojenia tego, co nieuchwytne.",
+        "genres": [
+          "Dramat"
+        ],
+        "external": {
+          "imdb": {
+            "id": "tt38468551",
+            "url": "https://www.imdb.com/title/tt38468551/",
+            "rating": 5.5,
+            "votes": 84
+          },
+          "filmweb": {
+            "id": "10121239",
+            "url": "https://www.filmweb.pl/film/La+perra-2026-10121239",
+            "genres": [
+              "Dramat"
+            ],
+            "rating": 5.7,
+            "votes": 379
+          },
+          "rottenTomatoes": {
+            "url": "https://www.rottentomatoes.com/m/la_perra",
+            "title": "La Perra",
+            "year": "",
+            "directors": [
+              "Dominga Sotomayor"
+            ],
+            "criticsRating": null,
+            "criticsVotes": 13,
+            "audienceRating": null,
+            "audienceVotes": null
+          }
+        },
+        "longDescription": "Na odległej, smaganej południowym wiatrem wyspie u wybrzeży chilijskiej Patagonii Silvia wiedzie spokojne życie u boku swojego partnera, utrzymując się ze zbierania alg. Pewnego dnia znajduje porzuconą suczkę i nadaje jej imię Yuri — takie, jakie wybrałaby dla upragnionej córki. Głęboka więź z nieokiełznanym zwierzęciem wypełnia pustkę pozostawioną przez niespełnione pragnienie macierzyństwa. Ich relacja staje się początkiem nieoczekiwanej konfrontacji, w której miłość i czułość ścierają się z gniewem i bolesnymi wspomnieniami z przeszłości, przed którymi Silvia przez lata próbowała uciec. LA PERRA to subtelny, pełen napięcia dramat psychologiczny o tym, co ukrywamy pod powierzchnią codzienności. O miłości i odrzuceniu. O próbie oswojenia tego, co nieuchwytne. O potrzebie zniknięcia i odwadze, by wreszcie się zmierzyć z przeszłością. Film został uhonorowany nagrodą Palm Dog w Cannes za wyjątkową kreację psiej bohaterki.",
+        "poster": "media/posters/da61fb13745c465270d9.webp"
       }
     ]
   }

@@ -1,52 +1,14 @@
 {
   "schemaVersion": 1,
   "date": "2026-11-26",
-  "updatedAt": "2026-11-16T20:24:18.014Z",
+  "updatedAt": "2026-11-17T19:10:26.019Z",
   "source": "https://www.kinomuza.pl/repertoire/day/",
   "day": {
-    "id": "10",
+    "id": "09",
     "date": "26.11",
-    "now": "2026-11-16 21:22:32",
+    "now": "2026-11-17 20:09:03",
     "info": [],
     "repertoire": [
-      {
-        "hour": "19:00",
-        "datetime": "2026-11-26 19:00:00",
-        "title": "",
-        "originalTitle": "",
-        "director": "",
-        "year": null,
-        "premiereDate": null,
-        "duration": null,
-        "countries": null,
-        "shortDesc": null,
-        "lang": "",
-        "subtitlesLang": "pl",
-        "age": null,
-        "credits": "",
-        "desc": null,
-        "hall": "2",
-        "movieLink": null,
-        "ticketLink": "",
-        "prePremier": false,
-        "tape35mm": false,
-        "ad": false,
-        "deaf": false,
-        "ticketPrice": "",
-        "ticketHalfPrice": "",
-        "alt": null,
-        "thumb": null,
-        "description": "",
-        "shortDescription": "",
-        "genres": [],
-        "external": {
-          "imdb": null,
-          "filmweb": null,
-          "rottenTomatoes": null
-        },
-        "longDescription": "",
-        "poster": ""
-      },
       {
         "hour": "19:00",
         "datetime": "2026-11-26 19:00:00",
@@ -74,6 +36,7 @@
         "ticketHalfPrice": "",
         "alt": "Mariinka",
         "thumb": "https://www.kinomuza.pl/content/uploads/2026/03/Mariinka-2-800x450.jpg",
+        "event": "PRZEGLĄD FILMOWY",
         "description": "Pieter-Jan De Pue przez dziewięć lat dokumentował życie ludzi związanych z Mariinką – miastem na wschodzie Ukrainy, którego mieszkańcy od ponad dekady żyją w cieniu wojny.",
         "shortDescription": "Pieter-Jan De Pue przez dziewięć lat dokumentował życie ludzi związanych z Mariinką – miastem na wschodzie Ukrainy, którego mieszkańcy od ponad dekady żyją w cieniu wojny.",
         "genres": [
@@ -93,7 +56,7 @@
               "Dokumentalny"
             ],
             "rating": 7.3,
-            "votes": 266
+            "votes": 267
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/mariinka",

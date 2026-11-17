@@ -1,12 +1,12 @@
 {
   "schemaVersion": 1,
   "date": "2026-11-19",
-  "updatedAt": "2026-11-16T20:24:18.014Z",
+  "updatedAt": "2026-11-17T19:10:26.019Z",
   "source": "https://www.kinomuza.pl/repertoire/day/",
   "day": {
-    "id": "03",
+    "id": "02",
     "date": "19.11",
-    "now": "2026-11-16 21:21:55",
+    "now": "2026-11-17 20:08:40",
     "info": [],
     "repertoire": [
       {
@@ -57,8 +57,8 @@
               "Biograficzny",
               "Dramat obyczajowy"
             ],
-            "rating": 6.4,
-            "votes": 1370
+            "rating": 6.3,
+            "votes": 1470
           },
           "rottenTomatoes": null
         },
@@ -112,7 +112,7 @@
               "Dokumentalny"
             ],
             "rating": 8.2,
-            "votes": 22269
+            "votes": 22924
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/you_can_see_everything",
@@ -123,7 +123,7 @@
               "Lance Oppenheim"
             ],
             "criticsRating": null,
-            "criticsVotes": 228,
+            "criticsVotes": 230,
             "audienceRating": null,
             "audienceVotes": null
           }
@@ -178,7 +178,7 @@
               "Dramat"
             ],
             "rating": 5.7,
-            "votes": 379
+            "votes": 382
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/la_perra",
@@ -244,8 +244,8 @@
               "Biograficzny",
               "Dramat obyczajowy"
             ],
-            "rating": 6.4,
-            "votes": 1370
+            "rating": 6.3,
+            "votes": 1470
           },
           "rottenTomatoes": null
         },
@@ -301,7 +301,7 @@
               "Thriller"
             ],
             "rating": 8,
-            "votes": 2209
+            "votes": 2598
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/wild_horse_nine",
@@ -311,7 +311,7 @@
               "Martin McDonagh"
             ],
             "criticsRating": null,
-            "criticsVotes": 254,
+            "criticsVotes": 256,
             "audienceRating": null,
             "audienceVotes": null
           }
@@ -367,8 +367,8 @@
               "Biograficzny",
               "Dramat obyczajowy"
             ],
-            "rating": 6.4,
-            "votes": 1370
+            "rating": 6.3,
+            "votes": 1470
           },
           "rottenTomatoes": null
         },
@@ -464,7 +464,7 @@
               "Thriller"
             ],
             "rating": 8,
-            "votes": 2209
+            "votes": 2598
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/wild_horse_nine",
@@ -474,7 +474,7 @@
               "Martin McDonagh"
             ],
             "criticsRating": null,
-            "criticsVotes": 254,
+            "criticsVotes": 256,
             "audienceRating": null,
             "audienceVotes": null
           }
@@ -529,7 +529,7 @@
               "Dokumentalny"
             ],
             "rating": 8.2,
-            "votes": 22269
+            "votes": 22924
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/you_can_see_everything",
@@ -540,7 +540,7 @@
               "Lance Oppenheim"
             ],
             "criticsRating": null,
-            "criticsVotes": 228,
+            "criticsVotes": 230,
             "audienceRating": null,
             "audienceVotes": null
           }
@@ -597,7 +597,7 @@
               "Thriller"
             ],
             "rating": 8,
-            "votes": 2209
+            "votes": 2598
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/wild_horse_nine",
@@ -607,7 +607,7 @@
               "Martin McDonagh"
             ],
             "criticsRating": null,
-            "criticsVotes": 254,
+            "criticsVotes": 256,
             "audienceRating": null,
             "audienceVotes": null
           }
@@ -662,7 +662,7 @@
               "Dramat"
             ],
             "rating": 5.7,
-            "votes": 379
+            "votes": 382
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/la_perra",

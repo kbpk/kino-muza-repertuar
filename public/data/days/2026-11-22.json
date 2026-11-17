@@ -1,0 +1,142 @@
+{
+  "schemaVersion": 1,
+  "date": "2026-11-22",
+  "updatedAt": "2026-11-17T19:10:26.019Z",
+  "source": "https://www.kinomuza.pl/repertoire/day/",
+  "day": {
+    "id": "05",
+    "date": "22.11",
+    "now": "2026-11-17 20:09:03",
+    "info": [],
+    "repertoire": [
+      {
+        "hour": "16:30",
+        "datetime": "2026-11-22 16:30:00",
+        "title": "Kobieta nieznana",
+        "originalTitle": "Woman Unknown",
+        "director": "May el-Toukhy",
+        "year": "2026",
+        "premiereDate": "2027-02-26",
+        "duration": "124",
+        "countries": "Szwecja, Łotwa, Dania",
+        "shortDesc": "<p>Powojenna Kopenhaga. Wyzwolone miasto próbuje odzyskać spokój po okupacji, ale zamiast pojednania narasta fala samosądów.</p>\n",
+        "lang": "",
+        "subtitlesLang": "pl",
+        "age": "16",
+        "credits": "reż. May el-Toukhy <br>Szwecja, Łotwa, Dania <br>2026,124’",
+        "desc": "<p>Powojenna Kopenhaga. Wyzwolone miasto próbuje odzyskać spokój po okupacji, ale zamiast pojednania narasta fala samosądów.</p>\n",
+        "hall": "1",
+        "movieLink": "https://www.kinomuza.pl/movie/kobieta-nieznana/",
+        "ticketLink": "https://estradapoznan.bilety24.pl/kup-bilety/?id=1022698#total",
+        "prePremier": false,
+        "tape35mm": false,
+        "ad": false,
+        "deaf": false,
+        "ticketPrice": "",
+        "ticketHalfPrice": "",
+        "alt": "Kobieta nieznana",
+        "thumb": "https://www.kinomuza.pl/content/uploads/2026/11/2kobieta-n-800x450.jpg",
+        "description": "Powojenna Kopenhaga. Wyzwolone miasto próbuje odzyskać spokój po okupacji, ale zamiast pojednania narasta fala samosądów.",
+        "shortDescription": "Powojenna Kopenhaga. Wyzwolone miasto próbuje odzyskać spokój po okupacji, ale zamiast pojednania narasta fala samosądów.",
+        "genres": [
+          "Dramat"
+        ],
+        "external": {
+          "imdb": {
+            "id": "tt34888026",
+            "url": "https://www.imdb.com/title/tt34888026/",
+            "rating": 7.2,
+            "votes": 314
+          },
+          "filmweb": {
+            "id": "10130614",
+            "url": "https://www.filmweb.pl/film/Kobieta+nieznana-2026-10130614",
+            "genres": [
+              "Dramat"
+            ],
+            "rating": 6.2,
+            "votes": 99
+          },
+          "rottenTomatoes": {
+            "url": "https://www.rottentomatoes.com/m/woman_unknown",
+            "title": "Woman Unknown",
+            "year": "",
+            "directors": [
+              "May El-Toukhy"
+            ],
+            "criticsRating": null,
+            "criticsVotes": 20,
+            "audienceRating": null,
+            "audienceVotes": null
+          }
+        },
+        "longDescription": "Powojenna Kopenhaga. Wyzwolone miasto próbuje odzyskać spokój po okupacji, ale zamiast pojednania narasta fala samosądów. Marie, młoda pomoc domowa, niespodziewanie otrzymuje szansę na społeczny awans. Ma poślubić zamożnego, starszego wdowca i wejść do świata, do którego dotąd nie miała dostępu. W eleganckim domu zaczyna budować swoją przyszłość.\n\nJedno przypadkowe spotkanie z dawnym znajomym sprawia, że wokół Marie zaczyna zaciskać się pętla podejrzeń. Kobieta popada w paranoję, obawiając się, że straci wszystko: pozycję, bezpieczeństwo i tożsamość. W świecie, w którym przeszłość może stać się wyrokiem, Marie zrobi wszystko, by ocalić swoje nowe życie.\n\n„Kobieta nieznana” to pełen napięcia, bezkompromisowy thriller historyczny o winie, wstydzie, społecznej hipokryzji i cenie, jaką trzeba zapłacić za możliwość rozpoczęcia życia od nowa. To opowieść o kobiecie, która próbuje wyrwać się z narzuconej jej roli, ale odkrywa, że w świecie rządzonym przez osąd innych nie tak łatwo wymazać własną przeszłość.\n\nFilm wyreżyserowała May el-Toukhy, autorka głośnej „Królowej kier”. „Kobieta nieznana” zdobyła Złotego Lwa dla najlepszego filmu na Międzynarodowym Festiwalu Filmowym w Wenecji, a Mathilde Arcel otrzymała Puchar Volpiego dla najlepszej aktorki. Film jest także oficjalnym duńskim kandydatem do Oscara w kategorii Najlepszy Film Międzynarodowy.",
+        "poster": "media/posters/23f305577ef493950122.webp"
+      },
+      {
+        "hour": "18:45",
+        "datetime": "2026-11-22 18:45:00",
+        "title": "Natura miłości",
+        "originalTitle": "The Beloved",
+        "director": "Rodrigo Sorogoyen",
+        "year": "2026",
+        "premiereDate": "2027-01-01",
+        "duration": "135",
+        "countries": "Hiszpania",
+        "shortDesc": "<p>Temperament, skomplikowane relacje i emocje, które nie uznają półśrodków. Tu każde spojrzenie może okazać się wyzwaniem.</p>\n",
+        "lang": "",
+        "subtitlesLang": "pl",
+        "age": "16",
+        "credits": "reż. Rodrigo Sorogoyen <br>Hiszpania <br>2026,135’",
+        "desc": "<p>Temperament, skomplikowane relacje i emocje, które nie uznają półśrodków. Tu każde spojrzenie może okazać się wyzwaniem.</p>\n",
+        "hall": "1",
+        "movieLink": "https://www.kinomuza.pl/movie/natura-milosci-2/",
+        "ticketLink": "https://estradapoznan.bilety24.pl/kup-bilety/?id=1022699#total",
+        "prePremier": false,
+        "tape35mm": false,
+        "ad": false,
+        "deaf": false,
+        "ticketPrice": "",
+        "ticketHalfPrice": "",
+        "alt": "Natura miłości",
+        "thumb": "https://www.kinomuza.pl/content/uploads/2026/11/3natura-m-800x450.jpg",
+        "description": "Temperament, skomplikowane relacje i emocje, które nie uznają półśrodków. Tu każde spojrzenie może okazać się wyzwaniem.",
+        "shortDescription": "Temperament, skomplikowane relacje i emocje, które nie uznają półśrodków. Tu każde spojrzenie może okazać się wyzwaniem.",
+        "genres": [
+          "Dramat"
+        ],
+        "external": {
+          "imdb": {
+            "id": "tt33451014",
+            "url": "https://www.imdb.com/title/tt33451014/",
+            "rating": 7.2,
+            "votes": 4354
+          },
+          "filmweb": {
+            "id": "10084250",
+            "url": "https://www.filmweb.pl/film/Natura+mi%C5%82o%C5%9Bci-2026-10084250",
+            "genres": [
+              "Dramat"
+            ],
+            "rating": 7.2,
+            "votes": 890
+          },
+          "rottenTomatoes": {
+            "url": "https://www.rottentomatoes.com/m/the_beloved_2026",
+            "title": "The Beloved (2026)",
+            "year": "",
+            "directors": [
+              "Rodrigo Sorogoyen"
+            ],
+            "criticsRating": null,
+            "criticsVotes": 45,
+            "audienceRating": null,
+            "audienceVotes": null
+          }
+        },
+        "longDescription": "„Natura miłości” ma w sobie wszystko, za co kochamy hiszpańskie kino: temperament, skomplikowane relacje i emocje, które nie uznają półśrodków. Tu każde spojrzenie może okazać się wyzwaniem, każda rozmowa – corridą, a fasada gniewu i dumy kryje zranione uczucia. Nic więc dziwnego, że film Rodriga Sorogoyena (twórcy znakomitych „Bestii”) stał się kasowym przebojem hiszpańskich kin. To także zasługa magnetycznego Javiera Bardema, który ze zręcznością linoskoczka balansuje pomiędzy butą i kruchością. Aktorowi, który w „Naturze miłości” zagrał najlepszą z dotychczasowych ról, śmiało partneruje Victoria Luengo, wschodząca gwiazda hiszpańskiego kina.\n\nLuengo gra dziewczynę, która po latach rozłąki spotyka się z ojcem, uznanym reżyserem (Bardem). On proponuje jej rolę w najnowszym filmie, licząc na odbudowanie zerwanej więzi. Dla niej będzie to jednak nieunikniony powrót do bolesnych wydarzeń z przeszłości. Czy sztuka uleczy rany? A może jest ich źródłem? „Natura miłości” mistrzowsko kreśli psychologiczne portrety bohaterów i pełną napięcia dynamikę ich relacji. Jest opowieścią o granicach i odwadze, by ich bronić. O uśpionym gniewie, który domaga się ujścia. Ale choć u Sorogoyena przeszłość nie uznaje zamkniętych rozdziałów, to pozwala starym ranom stać się nowym początkiem.\n\nPytania, jakie stawia reżyser: o rodzinne więzi, pamięć i bliskość, przywołują skojarzenia z oscarową „Wartością sentymentalną”. Ale w „Naturze miłości” skandynawską precyzję rozsadza hiszpański temperament. Jest więc intensywnie, niepokornie i bardzo, bardzo gorąco.",
+        "poster": "media/posters/9289805201e8e12a2e09.webp"
+      }
+    ]
+  }
+}

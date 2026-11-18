@@ -1,0 +1,70 @@
+{
+  "schemaVersion": 1,
+  "date": "2026-12-09",
+  "updatedAt": "2026-11-18T18:53:23.366Z",
+  "source": "https://www.kinomuza.pl/repertoire/day/",
+  "day": {
+    "id": "21",
+    "date": "09.12",
+    "now": "2026-11-18 19:51:27",
+    "info": [],
+    "repertoire": [
+      {
+        "hour": "15:00",
+        "datetime": "2026-12-09 15:00:00",
+        "title": "Nasza rewolucja",
+        "originalTitle": "",
+        "director": "Piotr Domalewski",
+        "year": "2026",
+        "premiereDate": "2026-11-17",
+        "duration": "125",
+        "countries": "Polska",
+        "shortDesc": "<p>On – żywiołowy, głośny, charyzmatyczny. Ona – odważna, delikatna, pełna ciepła. Bezgranicznie w sobie zakochani i przekonani, że razem mogą zmieniać świat.</p>\n",
+        "lang": "pl",
+        "subtitlesLang": "en",
+        "age": "16",
+        "credits": "reż. Piotr Domalewski <br>Polska <br>2026,125’",
+        "desc": "<p>On – żywiołowy, głośny, charyzmatyczny. Ona – odważna, delikatna, pełna ciepła. Bezgranicznie w sobie zakochani i przekonani, że razem mogą zmieniać świat.</p>\n",
+        "hall": "1",
+        "movieLink": "https://www.kinomuza.pl/movie/nasza-rewolucja/",
+        "ticketLink": "https://estradapoznan.bilety24.pl/kup-bilety/?id=1022959#total",
+        "prePremier": false,
+        "tape35mm": false,
+        "ad": false,
+        "deaf": false,
+        "ticketPrice": "",
+        "ticketHalfPrice": "",
+        "alt": "Nasza rewolucja",
+        "thumb": "https://www.kinomuza.pl/content/uploads/2026/10/NASZA-REWOLUCJA-fot.-Anna-Wloch-4-scaled-1-800x450.jpg",
+        "cycle": "senior w muzie",
+        "description": "On – żywiołowy, głośny, charyzmatyczny. Ona – odważna, delikatna, pełna ciepła. Bezgranicznie w sobie zakochani i przekonani, że razem mogą zmieniać świat.",
+        "shortDescription": "On – żywiołowy, głośny, charyzmatyczny. Ona – odważna, delikatna, pełna ciepła. Bezgranicznie w sobie zakochani i przekonani, że razem mogą zmieniać świat.",
+        "genres": [
+          "Biograficzny",
+          "Dramat obyczajowy"
+        ],
+        "external": {
+          "imdb": {
+            "id": "tt35571123",
+            "url": "https://www.imdb.com/title/tt35571123/",
+            "rating": 6.4,
+            "votes": 49
+          },
+          "filmweb": {
+            "id": "10065018",
+            "url": "https://www.filmweb.pl/film/Nasza+rewolucja-2026-10065018",
+            "genres": [
+              "Biograficzny",
+              "Dramat obyczajowy"
+            ],
+            "rating": 6.3,
+            "votes": 1521
+          },
+          "rottenTomatoes": null
+        },
+        "longDescription": "On – żywiołowy, głośny, charyzmatyczny. Ona – odważna, delikatna, pełna ciepła. Bezgranicznie w sobie zakochani i przekonani, że razem mogą zmieniać świat – Jacek i Grażyna Kuroniowie. Rezygnują z prywatności, by oddać życie walce o wolność. Ich mieszkanie staje się „kwaterą główną” opozycji – miejscem spotkań ludzi gotowych ryzykować wszystko w imię lepszego jutra. Ale wielka idea oznacza też ogromną cenę: chwile intensywnej intymności przeplatają się z latami rozłąki, kiedy dzielą ich więzienne kraty. Wybuch stanu wojennego zmusza ich do podejmowania decyzji, których nikt nie chciałby podejmować. Czy w tak potwornie trudnych czasach, miłość może zwyciężyć?\n\nFilm dostępny z audiodeskrypcją lub lektorem. Skorzystaj bezpłatnie z aplikacji Kino Dostępne 2.0 w Twoim telefonie – http://kinodostepne.pl",
+        "poster": "media/posters/7e322e8b52165ab8d6d7.webp"
+      }
+    ]
+  }
+}

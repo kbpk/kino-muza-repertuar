@@ -1,0 +1,83 @@
+{
+  "schemaVersion": 1,
+  "date": "2026-12-30",
+  "updatedAt": "2026-11-18T18:53:23.366Z",
+  "source": "https://www.kinomuza.pl/repertoire/day/",
+  "day": {
+    "id": "42",
+    "date": "30.12",
+    "now": "2026-11-18 19:51:55",
+    "info": [],
+    "repertoire": [
+      {
+        "hour": "15:00",
+        "datetime": "2026-12-30 15:00:00",
+        "title": "Przesilenie zimowe",
+        "originalTitle": "HOLDOVERS",
+        "director": "Alexander Payne",
+        "year": "2023",
+        "premiereDate": "2024-01-26",
+        "duration": "133",
+        "countries": "USA",
+        "shortDesc": "<p>Zbliża się Boże Narodzenie w 1970 roku i Paul, nie mając rodziny nigdzie nie wyjeżdża. Nauczyciel zostaje w szkole, aby pilnować uczniów, którzy nie mogą wrócić do domu.</p>\n",
+        "lang": "en",
+        "subtitlesLang": "pl",
+        "age": "16",
+        "credits": "reż. Alexander Payne <br>USA <br>2023,133’",
+        "desc": "<p>Zbliża się Boże Narodzenie w 1970 roku i Paul, nie mając rodziny nigdzie nie wyjeżdża. Nauczyciel zostaje w szkole, aby pilnować uczniów, którzy nie mogą wrócić do domu.</p>\n",
+        "hall": "1",
+        "movieLink": "https://www.kinomuza.pl/movie/przesilenie-zimowe/",
+        "ticketLink": "https://estradapoznan.bilety24.pl/kup-bilety/?id=1022963#total",
+        "prePremier": false,
+        "tape35mm": false,
+        "ad": false,
+        "deaf": false,
+        "ticketPrice": "",
+        "ticketHalfPrice": "",
+        "alt": "Przesilenie zimowe",
+        "thumb": "https://www.kinomuza.pl/content/uploads/2023/12/zimowe-przesilenie-2-800x450.jpg",
+        "cycle": "senior w muzie",
+        "description": "Zbliża się Boże Narodzenie w 1970 roku i Paul, nie mając rodziny nigdzie nie wyjeżdża. Nauczyciel zostaje w szkole, aby pilnować uczniów, którzy nie mogą wrócić do domu.",
+        "shortDescription": "Zbliża się Boże Narodzenie w 1970 roku i Paul, nie mając rodziny nigdzie nie wyjeżdża. Nauczyciel zostaje w szkole, aby pilnować uczniów, którzy nie mogą wrócić do domu.",
+        "genres": [
+          "Komedia",
+          "Dramat",
+          "Świąteczny"
+        ],
+        "external": {
+          "imdb": {
+            "id": "tt14849194",
+            "url": "https://www.imdb.com/title/tt14849194/",
+            "rating": 7.9,
+            "votes": 276594
+          },
+          "filmweb": {
+            "id": "10032689",
+            "url": "https://www.filmweb.pl/film/Przesilenie+zimowe-2023-10032689",
+            "genres": [
+              "Komedia",
+              "Dramat",
+              "Świąteczny"
+            ],
+            "rating": 7.6,
+            "votes": 68939
+          },
+          "rottenTomatoes": {
+            "url": "https://www.rottentomatoes.com/m/the_holdovers",
+            "title": "The Holdovers",
+            "year": "2023",
+            "directors": [
+              "Alexander Payne"
+            ],
+            "criticsRating": null,
+            "criticsVotes": 364,
+            "audienceRating": null,
+            "audienceVotes": null
+          }
+        },
+        "longDescription": "Nominowany do Oscara®, Paul Giamatti w roli nielubianego nauczyciela, Paula. Paul jest postrzegany przez uczniów, nauczycieli oraz dyrektora szkoły jako osoba pompatyczna i irytująca.\n\nZbliżają się święta Bożego Narodzenia w 1970 roku i Paul, nie mając rodziny nigdzie nie wyjeżdża. Nauczyciel zostaje w szkole, aby pilnować uczniów, którzy nie mogą wrócić do domu. Po kilku dniach zostaje tylko jeden uczeń – sprawiający kłopoty 15-latek o imieniu Angus (Dominic Sessa), któremu grozi wydalenie za fatalne zachowanie. Do Paula i Angusa dołącza kucharka Mary (Randolph) , której syn niedawno zginął w Wietnamie.\n\nTych troje bardzo różnych rozbitków tworzy nieprawdopodobną świąteczną rodzinę, która dzieli się komicznymi perypetiami podczas dwóch bardzo śnieżnych tygodni w Nowej Anglii. Prawdziwą podróżą okaże się to, jak pomagają sobie nawzajem zrozumieć, że nie są przywiązani do swojej przeszłości – mogą wybrać własną przyszłość.",
+        "poster": "media/posters/23dc3b4de6ceabcc3721.webp"
+      }
+    ]
+  }
+}

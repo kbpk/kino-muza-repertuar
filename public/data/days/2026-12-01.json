@@ -1,12 +1,12 @@
 {
   "schemaVersion": 1,
   "date": "2026-12-01",
-  "updatedAt": "2026-11-17T19:10:26.019Z",
+  "updatedAt": "2026-11-18T18:53:23.366Z",
   "source": "https://www.kinomuza.pl/repertoire/day/",
   "day": {
-    "id": "14",
+    "id": "13",
     "date": "01.12",
-    "now": "2026-11-17 20:09:23",
+    "now": "2026-11-18 19:50:40",
     "info": [],
     "repertoire": [
       {
@@ -46,7 +46,7 @@
             "id": "tt0065226",
             "url": "https://www.imdb.com/title/tt0065226/",
             "rating": 6.8,
-            "votes": 1005
+            "votes": 1006
           },
           "filmweb": {
             "id": "1119",

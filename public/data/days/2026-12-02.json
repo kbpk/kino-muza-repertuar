@@ -1,0 +1,79 @@
+{
+  "schemaVersion": 1,
+  "date": "2026-12-02",
+  "updatedAt": "2026-11-18T18:53:23.366Z",
+  "source": "https://www.kinomuza.pl/repertoire/day/",
+  "day": {
+    "id": "14",
+    "date": "02.12",
+    "now": "2026-11-18 19:51:02",
+    "info": [],
+    "repertoire": [
+      {
+        "hour": "15:00",
+        "datetime": "2026-12-02 15:00:00",
+        "title": "La Perra",
+        "originalTitle": "",
+        "director": "Dominga Sotomayor",
+        "year": "2026",
+        "premiereDate": "2026-11-06",
+        "duration": "112",
+        "countries": "Chile",
+        "shortDesc": "<p>Pełen napięcia dramat psychologiczny o tym, co ukrywamy pod powierzchnią codzienności. O miłości i odrzuceniu. O próbie oswojenia tego, co nieuchwytne.</p>\n",
+        "lang": "es",
+        "subtitlesLang": "pl",
+        "age": "16",
+        "credits": "reż. Dominga Sotomayor <br>Chile <br>2026,112’",
+        "desc": "<p>Pełen napięcia dramat psychologiczny o tym, co ukrywamy pod powierzchnią codzienności. O miłości i odrzuceniu. O próbie oswojenia tego, co nieuchwytne.</p>\n",
+        "hall": "1",
+        "movieLink": "https://www.kinomuza.pl/movie/la-perra/",
+        "ticketLink": "https://estradapoznan.bilety24.pl/kup-bilety/?id=1022958#total",
+        "prePremier": false,
+        "tape35mm": false,
+        "ad": false,
+        "deaf": false,
+        "ticketPrice": "",
+        "ticketHalfPrice": "",
+        "alt": "La Perra",
+        "thumb": "https://www.kinomuza.pl/content/uploads/2026/10/laperra-2-800x450.jpg",
+        "cycle": "senior w muzie",
+        "description": "Pełen napięcia dramat psychologiczny o tym, co ukrywamy pod powierzchnią codzienności. O miłości i odrzuceniu. O próbie oswojenia tego, co nieuchwytne.",
+        "shortDescription": "Pełen napięcia dramat psychologiczny o tym, co ukrywamy pod powierzchnią codzienności. O miłości i odrzuceniu. O próbie oswojenia tego, co nieuchwytne.",
+        "genres": [
+          "Dramat"
+        ],
+        "external": {
+          "imdb": {
+            "id": "tt38468551",
+            "url": "https://www.imdb.com/title/tt38468551/",
+            "rating": 5.5,
+            "votes": 87
+          },
+          "filmweb": {
+            "id": "10121239",
+            "url": "https://www.filmweb.pl/film/La+perra-2026-10121239",
+            "genres": [
+              "Dramat"
+            ],
+            "rating": 5.7,
+            "votes": 385
+          },
+          "rottenTomatoes": {
+            "url": "https://www.rottentomatoes.com/m/la_perra",
+            "title": "La Perra",
+            "year": "",
+            "directors": [
+              "Dominga Sotomayor"
+            ],
+            "criticsRating": null,
+            "criticsVotes": 13,
+            "audienceRating": null,
+            "audienceVotes": null
+          }
+        },
+        "longDescription": "Na odległej, smaganej południowym wiatrem wyspie u wybrzeży chilijskiej Patagonii Silvia wiedzie spokojne życie u boku swojego partnera, utrzymując się ze zbierania alg. Pewnego dnia znajduje porzuconą suczkę i nadaje jej imię Yuri — takie, jakie wybrałaby dla upragnionej córki. Głęboka więź z nieokiełznanym zwierzęciem wypełnia pustkę pozostawioną przez niespełnione pragnienie macierzyństwa. Ich relacja staje się początkiem nieoczekiwanej konfrontacji, w której miłość i czułość ścierają się z gniewem i bolesnymi wspomnieniami z przeszłości, przed którymi Silvia przez lata próbowała uciec. LA PERRA to subtelny, pełen napięcia dramat psychologiczny o tym, co ukrywamy pod powierzchnią codzienności. O miłości i odrzuceniu. O próbie oswojenia tego, co nieuchwytne. O potrzebie zniknięcia i odwadze, by wreszcie się zmierzyć z przeszłością. Film został uhonorowany nagrodą Palm Dog w Cannes za wyjątkową kreację psiej bohaterki.",
+        "poster": "media/posters/da61fb13745c465270d9.webp"
+      }
+    ]
+  }
+}

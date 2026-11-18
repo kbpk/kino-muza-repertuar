@@ -1,14 +1,436 @@
 {
   "schemaVersion": 1,
   "date": "2026-11-22",
-  "updatedAt": "2026-11-17T19:10:26.019Z",
+  "updatedAt": "2026-11-18T18:53:23.366Z",
   "source": "https://www.kinomuza.pl/repertoire/day/",
   "day": {
-    "id": "05",
+    "id": "04",
     "date": "22.11",
-    "now": "2026-11-17 20:09:03",
+    "now": "2026-11-18 19:49:26",
     "info": [],
     "repertoire": [
+      {
+        "hour": "12:00",
+        "datetime": "2026-11-22 12:00:00",
+        "title": "Baranek Shaun i kudłata bestia",
+        "originalTitle": "Shaun the Sheep: The Beast of Mossy Bottom",
+        "director": "Steve Cox, Matthew Walker",
+        "year": "2026",
+        "premiereDate": "",
+        "duration": "80",
+        "countries": "Wielka Brytania",
+        "shortDesc": "<p>Uwielbiana seria wraca na wielki ekran &#8211; i to w jeszcze bardziej szalonej odsłonie! W tej przezabawnej kinowej przygodzie najsłynniejszy baranek świata zamienia się w… szalonego naukowca. Co może pójść nie tak?</p>\n",
+        "lang": "",
+        "subtitlesLang": "",
+        "age": "6",
+        "credits": "reż. Steve Cox, Matthew Walker <br>Wielka Brytania <br>2026,80’",
+        "desc": "<p>Uwielbiana seria wraca na wielki ekran &#8211; i to w jeszcze bardziej szalonej odsłonie! W tej przezabawnej kinowej przygodzie najsłynniejszy baranek świata zamienia się w… szalonego naukowca. Co może pójść nie tak?</p>\n",
+        "hall": "1",
+        "movieLink": "https://www.kinomuza.pl/movie/baranek-shaun-i-kudlata-bestia/",
+        "ticketLink": "https://estradapoznan.bilety24.pl/kup-bilety/?id=1022696#total",
+        "prePremier": false,
+        "tape35mm": false,
+        "ad": false,
+        "deaf": false,
+        "ticketPrice": "",
+        "ticketHalfPrice": "",
+        "alt": "Baranek Shaun i kudłata bestia",
+        "thumb": "https://www.kinomuza.pl/content/uploads/2026/08/1-2-800x450.jpg",
+        "dubbing": true,
+        "cycle": "przyzwoicie tanie czwartki",
+        "description": "Uwielbiana seria wraca na wielki ekran &#8211; i to w jeszcze bardziej szalonej odsłonie! W tej przezabawnej kinowej przygodzie najsłynniejszy baranek świata zamienia się w… szalonego naukowca. Co może pójść nie tak?",
+        "shortDescription": "Uwielbiana seria wraca na wielki ekran &#8211; i to w jeszcze bardziej szalonej odsłonie! W tej przezabawnej kinowej przygodzie najsłynniejszy baranek świata zamienia się w… szalonego naukowca. Co może pójść nie tak?",
+        "genres": [
+          "Animacja",
+          "Familijny"
+        ],
+        "external": {
+          "imdb": {
+            "id": "tt36841161",
+            "url": "https://www.imdb.com/title/tt36841161/",
+            "rating": 7.1,
+            "votes": 4019
+          },
+          "filmweb": {
+            "id": "10101144",
+            "url": "https://www.filmweb.pl/film/Baranek+Shaun+i+kud%C5%82ata+bestia-2026-10101144",
+            "genres": [
+              "Animacja",
+              "Familijny"
+            ],
+            "rating": 6.9,
+            "votes": 1093
+          },
+          "rottenTomatoes": {
+            "url": "https://www.rottentomatoes.com/m/shaun_the_sheep_the_beast_of_mossy_bottom",
+            "title": "Shaun the Sheep: The Beast of Mossy Bottom",
+            "year": "2026",
+            "directors": [
+              "Steve Cox",
+              "Matthew Walker"
+            ],
+            "criticsRating": null,
+            "criticsVotes": 89,
+            "audienceRating": null,
+            "audienceVotes": null
+          }
+        },
+        "longDescription": "Uwielbiana seria wraca na wielki ekran – i to w jeszcze bardziej szalonej odsłonie! W tej przezabawnej kinowej przygodzie najsłynniejszy baranek świata zamienia się w… szalonego naukowca. Co może pójść nie tak?\n\nW wieczór Halloween na farmie Mossy Bottom ekscytacja przeradza się w przerażenie, gdy niezdarny Farmer niszczy pole dyniowe. Shaun próbuje naprawić to za pomocą eksperymentów naukowych, ale sytuacja wymyka się spod kontroli, gdy w lesie pojawia się dzika bestia…",
+        "poster": "media/posters/a4559ff39299dbcd174e.webp"
+      },
+      {
+        "hour": "12:15",
+        "datetime": "2026-11-22 12:15:00",
+        "title": "Tajemnica śpiewających ptaków",
+        "originalTitle": "",
+        "director": "Antoine Lanciaux",
+        "year": "2025",
+        "premiereDate": "",
+        "duration": "77",
+        "countries": "Francja, Belgia",
+        "shortDesc": "<p class=\"has-medium-font-size wp-block-paragraph\">9-letnia Lucy jedzie na wakacje do swojej mamy, która prowadzi wykopaliska archeologiczne. Francuskie miasteczko Bectoile, choć małe i niepozorne, kryje wiele sekretów.</p>\n",
+        "lang": "",
+        "subtitlesLang": "",
+        "age": "6",
+        "credits": "reż. Antoine Lanciaux <br>Francja, Belgia <br>2025,77’",
+        "desc": "<p class=\"has-medium-font-size wp-block-paragraph\">9-letnia Lucy jedzie na wakacje do swojej mamy, która prowadzi wykopaliska archeologiczne. Francuskie miasteczko Bectoile, choć małe i niepozorne, kryje wiele sekretów.</p>\n",
+        "hall": "2",
+        "movieLink": "https://www.kinomuza.pl/movie/tajemnica-spiewajacych-ptakow/",
+        "ticketLink": "https://estradapoznan.bilety24.pl/kup-bilety/?id=1022724#total",
+        "prePremier": false,
+        "tape35mm": false,
+        "ad": false,
+        "deaf": false,
+        "ticketPrice": "",
+        "ticketHalfPrice": "",
+        "alt": "Tajemnica śpiewających ptaków",
+        "thumb": "https://www.kinomuza.pl/content/uploads/2026/11/tajemnica-1-800x450.jpg",
+        "dubbing": true,
+        "cycle": "dzieciaki, do kina!",
+        "description": "9-letnia Lucy jedzie na wakacje do swojej mamy, która prowadzi wykopaliska archeologiczne. Francuskie miasteczko Bectoile, choć małe i niepozorne, kryje wiele sekretów.",
+        "shortDescription": "9-letnia Lucy jedzie na wakacje do swojej mamy, która prowadzi wykopaliska archeologiczne. Francuskie miasteczko Bectoile, choć małe i niepozorne, kryje wiele sekretów.",
+        "genres": [
+          "Animacja",
+          "Przygodowy"
+        ],
+        "external": {
+          "imdb": {
+            "id": "tt29497084",
+            "url": "https://www.imdb.com/title/tt29497084/",
+            "rating": 7,
+            "votes": 118
+          },
+          "filmweb": {
+            "id": "10100344",
+            "url": "https://www.filmweb.pl/film/Tajemnica+%C5%9Bpiewaj%C4%85cych+ptak%C3%B3w-2025-10100344",
+            "genres": [
+              "Animacja",
+              "Przygodowy"
+            ],
+            "rating": 7.2,
+            "votes": 16
+          },
+          "rottenTomatoes": null
+        },
+        "longDescription": "9-letnia Lucy jedzie na wakacje do swojej mamy, która prowadzi wykopaliska archeologiczne. Francuskie miasteczko Bectoile, choć małe i niepozorne, kryje wiele sekretów. Pochodząca z okolicy Caroline, mama Lucy, wraz z kolegą Pierrotem zajmuje się jednym z nich: opuszczonym zamkiem. Lucy nie zostaje w tyle i próbuje rozwiązać zagadkę zniknięcia swojego dziadka. Czy ta historia ma coś wspólnego z głośnym pożarem sprzed lat i tajemniczym znachorem uzdrawiającym zwierzęta? Aby to ustalić, nie wystarczy mieć oczu dookoła głowy. Lucy musi zewrzeć szyki z nastoletnim kolegą z sąsiedztwa, słuchać wszędobylskich niebieskich sikorek i przekopywać się przez archiwalne gazety. Jedno jest pewne: te wakacje zapamięta do końca życia!\n\nFilm miał  polską premierę w Konkursie Głównym Międzynarodowego Festiwalu Filmowego Młode Horyzonty  i został świetnie przyjęty przez młodą publiczność oraz rodziców.\n\nNa szczególną uwagę zasługuje również  znakomity polski dubbing , wyreżyserowany przez Jacka Bończyka – jedną z najbardziej rozpoznawalnych postaci polskiego dubbingu. Jego udział w projekcie nie ograniczył się jednak do reżyserii: Bończyk przygotował również polskie tłumaczenie, użyczył głosu kilku postaciom, a także zaśpiewał  piosenkę finałową, będącą motywem przewodnim filmu .\n\nFilm zachwyca niezwykłą, tradycyjną techniką animacji wycinankowej , przywodzącą na myśl najpiękniejsze ilustrowane książki z dzieciństwa. Wszystkie postacie, dekoracje i rekwizyty zostały wykonane ręcznie z papieru, kartonu i tkanin, a następnie ożywione klatka po klatce. Na potrzeby filmu powstało blisko 2000 misternie wykonanych, ruchomych papierowych lalek , którym życie tchnęło kilkunastu artystów. Ta niezwykle pracochłonna, rzemieślnicza metoda nadaje animacji wyjątkową miękkość, fakturę i ciepło. To prawdziwa uczta dla oczu, w której każdy kadr jest małym dziełem sztuki, a magia ręcznie tworzonego świata doskonale współgra z opowieścią o dzieciństwie, pamięci i odkrywaniu rodzinnych tajemnic.",
+        "poster": "media/posters/650f2a4c0facbc133353.webp"
+      },
+      {
+        "hour": "12:45",
+        "datetime": "2026-11-22 12:45:00",
+        "title": "Niesamowite przygody skarpetek 4. Do roboty!",
+        "originalTitle": "",
+        "director": "",
+        "year": "2026",
+        "premiereDate": "",
+        "duration": "55",
+        "countries": "Polska, Portugalia",
+        "shortDesc": "<p>Skarpetki znów biorą się do roboty! Nie ma co liczyć na nudę – odlotowi bohaterowie będą mieć niezłe urwanie głowy. Koncerty na żywo, konkursy kulinarne, budowanie robotów, a nawet… pomaganie Świętemu Mikołajowi!</p>\n",
+        "lang": "",
+        "subtitlesLang": "",
+        "age": "3",
+        "credits": "Polska, Portugalia <br>2026,55’",
+        "desc": "<p>Skarpetki znów biorą się do roboty! Nie ma co liczyć na nudę – odlotowi bohaterowie będą mieć niezłe urwanie głowy. Koncerty na żywo, konkursy kulinarne, budowanie robotów, a nawet… pomaganie Świętemu Mikołajowi!</p>\n",
+        "hall": "3",
+        "movieLink": "https://www.kinomuza.pl/movie/niesamowite-przygody-skarpetek-4-do-roboty/",
+        "ticketLink": "https://estradapoznan.bilety24.pl/kup-bilety/?id=1022752#total",
+        "prePremier": false,
+        "tape35mm": false,
+        "ad": false,
+        "deaf": false,
+        "ticketPrice": "",
+        "ticketHalfPrice": "",
+        "alt": "Niesamowite przygody skarpetek 4. Do roboty!",
+        "thumb": "https://www.kinomuza.pl/content/uploads/2026/10/Niesamowite-przygody-skarpetek-4.-Do-roboty-4-1200x675-1-800x450.png",
+        "dubbing": true,
+        "cycle": "przyzwoicie tanie czwartki",
+        "description": "Skarpetki znów biorą się do roboty! Nie ma co liczyć na nudę – odlotowi bohaterowie będą mieć niezłe urwanie głowy. Koncerty na żywo, konkursy kulinarne, budowanie robotów, a nawet… pomaganie Świętemu Mikołajowi!",
+        "shortDescription": "Skarpetki znów biorą się do roboty! Nie ma co liczyć na nudę – odlotowi bohaterowie będą mieć niezłe urwanie głowy. Koncerty na żywo, konkursy kulinarne, budowanie robotów, a nawet… pomaganie Świętemu Mikołajowi!",
+        "genres": [],
+        "external": {
+          "imdb": {
+            "id": "tt43351027",
+            "url": "https://www.imdb.com/title/tt43351027/",
+            "rating": null,
+            "votes": null
+          },
+          "filmweb": null,
+          "rottenTomatoes": null
+        },
+        "longDescription": "Skarpetki znów biorą się do roboty! Nie ma co liczyć na nudę – odlotowi bohaterowie będą mieć niezłe urwanie głowy. Koncerty na żywo, konkursy kulinarne, budowanie robotów, a nawet… pomaganie Świętemu Mikołajowi!\n\nIść za głosem serca i robić to, co się kocha – tymi mądrymi słowami kierują się wszystkie skarpetki! Dzięki odwadze w próbowaniu nowych rzeczy oraz dzięki wrodzonemu entuzjazmowi nietypowi bohaterowie ruszają w świat, gotowi na nowe przygody. Kto powiedział, że skarpetka nie może zostać kulinarną celebrytką, odkrywcą żeglującym dookoła świata czy pomocnikiem Świętego Mikołaja? Skarpetki są zawsze chętne do roboty i wciąż zaskakują! Trzymajcie się mocno kinowych foteli, bo będzie się działo!\n\nFilm oparty na kultowej lekturze szkolnej oraz na pozostałych książkach bestsellerowej serii Justyny Bednarek i Daniela de Latoura, którą pokochały miliony młodych czytelników.\n\nW tym zestawie przygód czekają na was następujące opowieści:\n\n• O skarpetce, której słuchają się roboty – reż. Mateusz Kmieć\n\n• O skarpetce, która została muzykiem – reż. Mateusz Kmieć\n\n• O skarpetce, która odnalazła nieznany ląd – reż. Natalia Bartska-Kmieć\n\n• O skarpetce, która została pomocnikiem lekarza – reż. Małgorzata Mianowska\n\n• O skarpetce smakoszce – reż. Mateusz Kmieć\n\n• O skarpetce, która została pomocnikiem Mikołaja – reż. Anna Jadwiszczak",
+        "poster": "media/posters/bf025660e4ae028e40ee.webp"
+      },
+      {
+        "hour": "13:30",
+        "datetime": "2026-11-22 13:30:00",
+        "title": "Lalka",
+        "originalTitle": "",
+        "director": "Maciej Kawalski",
+        "year": "2026",
+        "premiereDate": "2026-09-30",
+        "duration": "162",
+        "countries": "Polska",
+        "shortDesc": "<p>Dzieło Prusa od blisko 140 lat rozpala emocje i wyobraźnię kolejnych pokoleń. Teraz ta ponadczasowa historia trafia na wielki ekran w nowej, spektakularnej, filmowej odsłonie.</p>\n",
+        "lang": "",
+        "subtitlesLang": "en",
+        "age": "16",
+        "credits": "reż. Maciej Kawalski <br>Polska <br>2026,162’",
+        "desc": "<p>Dzieło Prusa od blisko 140 lat rozpala emocje i wyobraźnię kolejnych pokoleń. Teraz ta ponadczasowa historia trafia na wielki ekran w nowej, spektakularnej, filmowej odsłonie.</p>\n",
+        "hall": "1",
+        "movieLink": "https://www.kinomuza.pl/movie/lalka/",
+        "ticketLink": "https://estradapoznan.bilety24.pl/kup-bilety/?id=1022697#total",
+        "prePremier": false,
+        "tape35mm": false,
+        "ad": false,
+        "deaf": false,
+        "ticketPrice": "",
+        "ticketHalfPrice": "",
+        "alt": "Lalka",
+        "thumb": "https://www.kinomuza.pl/content/uploads/2026/09/lalka-2-800x450.jpg",
+        "description": "Dzieło Prusa od blisko 140 lat rozpala emocje i wyobraźnię kolejnych pokoleń. Teraz ta ponadczasowa historia trafia na wielki ekran w nowej, spektakularnej, filmowej odsłonie.",
+        "shortDescription": "Dzieło Prusa od blisko 140 lat rozpala emocje i wyobraźnię kolejnych pokoleń. Teraz ta ponadczasowa historia trafia na wielki ekran w nowej, spektakularnej, filmowej odsłonie.",
+        "genres": [
+          "Kostiumowy",
+          "Dramat obyczajowy"
+        ],
+        "external": {
+          "imdb": {
+            "id": "tt37082105",
+            "url": "https://www.imdb.com/title/tt37082105/",
+            "rating": 7.7,
+            "votes": 1736
+          },
+          "filmweb": {
+            "id": "10057628",
+            "url": "https://www.filmweb.pl/film/Lalka-2026-10057628",
+            "genres": [
+              "Kostiumowy",
+              "Dramat obyczajowy"
+            ],
+            "rating": 7.7,
+            "votes": 42479
+          },
+          "rottenTomatoes": {
+            "url": "https://www.rottentomatoes.com/m/lalka",
+            "title": "Lalka",
+            "year": "",
+            "directors": [
+              "Maciej Kawalski"
+            ],
+            "criticsRating": null,
+            "criticsVotes": null,
+            "audienceRating": null,
+            "audienceVotes": null
+          }
+        },
+        "longDescription": "Dzieło Bolesława Prusa od blisko 140 lat rozpala emocje i wyobraźnię kolejnych pokoleń. Teraz ta ponadczasowa historia trafia na wielki ekran w nowej, spektakularnej, filmowej odsłonie. „Lalka” to zrealizowana z ogromnym rozmachem superprodukcja i najbardziej gwiazdorski film w historii polskiego kina, gdzie pośród wielu wybitnych nazwisk, w rolach głównych występują: Marcin Dorociński jako Stanisław Wokulski, gwiazda „Chłopów” – Kamila Urzędowska jako Izabela Łęcka oraz powracający na wielki ekran po 16 latach Marek Kondrat w roli Ignacego Rzeckiego. Nowa ekranizacja „Lalki” to opowiedziana ze współczesną wrażliwością przejmująca, uniwersalna historia o miłości i niespełnieniu, o aspiracjach i przemianie, o świecie, który właśnie się kończy. To film, który zdarza się raz na kilka dekad: epicki, pełen emocji, zrealizowany z imponującą scenografią, dopracowanymi w najdrobniejszych detalach kostiumami i charakteryzacją oraz prawdziwie gwiazdorską obsadą.\n\nWarszawa końca XIX wieku. Serce Stanisława Wokulskiego (Marcin Dorociński) owładnięte jest szaloną miłością do Izabeli Łęckiej (Kamila Urzędowska). On, dzięki fortunie zdobytej na wojnie, powraca do kraju i postanawia wkroczyć do świata wyższych sfer, aby zdobyć rękę ukochanej. Ona jest olśniewająca i wyniosła, lecz mimo arystokratycznego pochodzenia zmaga się z widmem finansowej ruiny. U boku Wokulskiego stoi jego wierny przyjaciel – Ignacy Rzecki (Marek Kondrat), romantyk, który z nostalgią obserwuje, jak świat ideałów ustępuje miejsca społecznym aspiracjom i bezwzględnej grze interesów. Wokulski wkracza w labirynt arystokratycznych salonów, gdzie każdy gest może być początkiem intrygi, a każde słowo – zapowiedzią zdrady. Stający na jego drodze rywale, niespodziewane sojusze i dramatyczne wybory wystawią na próbę jego marzenia i wiarę w ludzi. To opowieść o miłosnym zauroczeniu, które zmienia losy bohaterów i zaciera granice między sercem a rozumem.\n\nFilm dostępny z audiodeskrypcją lub lektorem. Skorzystaj bezpłatnie z aplikacji Kino Dostępne 2.0 w Twoim telefonie – http://kinodostepne.pl",
+        "poster": "media/posters/2f797fdbd82b582ae91e.webp"
+      },
+      {
+        "hour": "13:45",
+        "datetime": "2026-11-22 13:45:00",
+        "title": "Najlepsza owsianka na świecie",
+        "originalTitle": "The Golden Spurtle",
+        "director": "Constantine Costi",
+        "year": "2025",
+        "premiereDate": "2026-11-27",
+        "duration": "75",
+        "countries": "Wielka Brytania, Australia",
+        "shortDesc": "<p>Raz w roku do malowniczej wioski na północy Szkocji zjeżdżają się pasjonaci z całego świata, by rywalizować o tytuł mistrza świata w… przyrządzaniu owsianki!</p>\n",
+        "lang": "",
+        "subtitlesLang": "pl",
+        "age": "16",
+        "credits": "reż. Constantine Costi <br>Wielka Brytania, Australia <br>2025,75’",
+        "desc": "<p>Raz w roku do malowniczej wioski na północy Szkocji zjeżdżają się pasjonaci z całego świata, by rywalizować o tytuł mistrza świata w… przyrządzaniu owsianki!</p>\n",
+        "hall": "2",
+        "movieLink": "https://www.kinomuza.pl/movie/najlepsza-owsianka-na-swiecie/",
+        "ticketLink": "https://estradapoznan.bilety24.pl/kup-bilety/?id=1022725#total",
+        "prePremier": false,
+        "tape35mm": false,
+        "ad": false,
+        "deaf": false,
+        "ticketPrice": "",
+        "ticketHalfPrice": "",
+        "alt": "Najlepsza owsianka na świecie",
+        "thumb": "https://www.kinomuza.pl/content/uploads/2026/09/najlepsza-owsianka-2-800x450.jpg",
+        "description": "Raz w roku do malowniczej wioski na północy Szkocji zjeżdżają się pasjonaci z całego świata, by rywalizować o tytuł mistrza świata w… przyrządzaniu owsianki!",
+        "shortDescription": "Raz w roku do malowniczej wioski na północy Szkocji zjeżdżają się pasjonaci z całego świata, by rywalizować o tytuł mistrza świata w… przyrządzaniu owsianki!",
+        "genres": [
+          "Dokumentalny"
+        ],
+        "external": {
+          "imdb": {
+            "id": "tt35932869",
+            "url": "https://www.imdb.com/title/tt35932869/",
+            "rating": 7.5,
+            "votes": 842
+          },
+          "filmweb": {
+            "id": "10110275",
+            "url": "https://www.filmweb.pl/film/Najlepsza+owsianka+na+%C5%9Bwiecie-2025-10110275",
+            "genres": [
+              "Dokumentalny"
+            ],
+            "rating": 7.5,
+            "votes": 465
+          },
+          "rottenTomatoes": {
+            "url": "https://www.rottentomatoes.com/m/the_golden_spurtle",
+            "title": "The Golden Spurtle",
+            "year": "2025",
+            "directors": [
+              "Constantine Costi"
+            ],
+            "criticsRating": null,
+            "criticsVotes": 15,
+            "audienceRating": null,
+            "audienceVotes": null
+          }
+        },
+        "longDescription": "Raz w roku do malowniczej wioski na północy Szkocji zjeżdżają się pasjonaci z całego świata, by rywalizować o tytuł mistrza świata w… przyrządzaniu owsianki! W filmie dokumentalnym „Najlepsza owsianka na świecie” za zaciętą kulinarną rywalizacją kryje się ciepła i pełna humoru opowieść o ekscentrycznych mieszkańcach, żywej tradycji, lokalnym dziedzictwie i wspólnocie, której częścią chciałoby się zostać po seansie.\n\nKażdej jesieni senna górska wioska Carrbridge budzi się do życia, gdy miejscowi i zagraniczni zawodnicy podejmują kuchenną rękawicę i walczą o zaszczytną nagrodę Złotego Mieszadła w Mistrzostwach Świata w Gotowaniu Owsianki. Choć przepis wydaje się banalny – płatki owsiane, woda i sól – to sposobów na jej przyrządzanie jest multum. Co uczestnik, to inna metoda, filozofia i historia. Ale „Najlepsza owsianka na świecie” nie jest wyłącznie kroniką kulinarnych zmagań.\n\nDla lokalnej legendy, charyzmatycznego organizatora mistrzostw Charliego Millera, to wydarzenie znaczy o wiele więcej. Mężczyzna zbliża się do emerytury i zmaga się z problemami zdrowotnymi, jednak czuje odpowiedzialność wobec lokalnego komitetu owsiankowego i pragnie zabezpieczyć przyszłość zawodów – oraz własne dziedzictwo. O dobre imię walczy również Ian Bishop, który podejmuje ostatnią próbę zdobycia tytułu. Ale konkurencja nie śpi: niezrównana Lisa Williams, „królowa owsianki”, wraca, by odzyskać trofeum. Tymczasem nowa generacja uczestników – Toby Wilson, australijski szef kuchni znany z pomysłu na owsiankową tortillę, oraz Adam Kiani, uzbrojony w sekretną, odziedziczoną po babci technikę – zamierza zakwestionować owsiankowe status quo.\n\nUkazując życie niewielkiej szkockiej społeczności na tle zapierających dech w piersiach krajobrazów, film przywodzi na myśl dokumenty „Truflarze” czy „Kraina miodu” – tworzone z czułością i zrozumieniem dla swoich bohaterów. Urokliwa i pełna humoru „Najlepsza owsianka na świecie” to film, który wzrusza, otula i daje poczucie komfortu niczym miska gorącej owsianki w chłodny poranek.",
+        "poster": "media/posters/0489ff5b229b8e65b5c0.webp"
+      },
+      {
+        "hour": "14:00",
+        "datetime": "2026-11-22 14:00:00",
+        "title": "Rozważna i romantyczna",
+        "originalTitle": "Sense and Sensibility",
+        "director": "Georgia Oakley",
+        "year": "2026",
+        "premiereDate": "2026-10-16",
+        "duration": "131",
+        "countries": "USA",
+        "shortDesc": "<p>Akcja, osadzona w Anglii epoki georgiańskiej, podąża za losami zamożnego pana Dashwooda, który umiera, pozostawiając swoją drugą żonę oraz trzy córki w trudnej sytuacji finansowej.</p>\n",
+        "lang": "en",
+        "subtitlesLang": "pl",
+        "age": "16",
+        "credits": "reż. Georgia Oakley <br>USA <br>2026,131’",
+        "desc": "<p>Akcja, osadzona w Anglii epoki georgiańskiej, podąża za losami zamożnego pana Dashwooda, który umiera, pozostawiając swoją drugą żonę oraz trzy córki w trudnej sytuacji finansowej.</p>\n",
+        "hall": "3",
+        "movieLink": "https://www.kinomuza.pl/movie/rozwazna-i-romantyczna-2/",
+        "ticketLink": "https://estradapoznan.bilety24.pl/kup-bilety/?id=1022754#total",
+        "prePremier": false,
+        "tape35mm": false,
+        "ad": false,
+        "deaf": false,
+        "ticketPrice": "",
+        "ticketHalfPrice": "",
+        "alt": "Rozważna i romantyczna",
+        "thumb": "https://www.kinomuza.pl/content/uploads/2026/08/romantyczna-5-800x450.jpg",
+        "description": "Akcja, osadzona w Anglii epoki georgiańskiej, podąża za losami zamożnego pana Dashwooda, który umiera, pozostawiając swoją drugą żonę oraz trzy córki w trudnej sytuacji finansowej.",
+        "shortDescription": "Akcja, osadzona w Anglii epoki georgiańskiej, podąża za losami zamożnego pana Dashwooda, który umiera, pozostawiając swoją drugą żonę oraz trzy córki w trudnej sytuacji finansowej.",
+        "genres": [
+          "Melodramat",
+          "Kostiumowy"
+        ],
+        "external": {
+          "imdb": {
+            "id": "tt13609648",
+            "url": "https://www.imdb.com/title/tt13609648/",
+            "rating": 7.2,
+            "votes": 12711
+          },
+          "filmweb": {
+            "id": "10087170",
+            "url": "https://www.filmweb.pl/film/Rozwa%C5%BCna+i+romantyczna-2026-10087170",
+            "genres": [
+              "Melodramat",
+              "Kostiumowy"
+            ],
+            "rating": 7.1,
+            "votes": 3809
+          },
+          "rottenTomatoes": {
+            "url": "https://www.rottentomatoes.com/m/sense_and_sensibility_2026",
+            "title": "Sense and Sensibility (2026)",
+            "year": "2026",
+            "directors": [
+              "Georgia Oakley"
+            ],
+            "criticsRating": null,
+            "criticsVotes": 142,
+            "audienceRating": null,
+            "audienceVotes": null
+          }
+        },
+        "longDescription": "Georgeia Oakley jest reżyserką nowej interpretacji  Rozważnej i romantycznej  Jane Austen. To produkcja Working Title, oparta na scenariuszu Diany Reid, w rolach głównych zobaczymy: Daisy Edgar-Jones, Esmé Creed-Miles, Caitríonę Balfe, Franka Dillane’a, Herberta Nordruma, Bodhi Rae Breathnach, George’a MacKaya oraz Fionę Shaw.\n\nAkcja, osadzona w Anglii epoki georgiańskiej, podąża za losami zamożnego pana Dashwooda, który umiera, pozostawiając swoją drugą żonę oraz trzy córki w trudnej sytuacji finansowej. Kobiety przenoszą się do skromnej wiejskiej posiadłości, gdzie dwie starsze siostry rywalizują o względy różnych adoratorów, poszukując prawdziwej miłości.\n\nProducentami filmu są: Tim Bevan i Eric Fellner z Working Title, a także India Flint z November Pictures oraz Jo Wallett z Kiddo Films. Working Title i Focus wcześniej współpracowały przy filmowej adaptacji  Dumy i uprzedzenia  z 2005 roku, która zdobyła cztery nominacje do Oscara, oraz przy kinowej wersji  Emmy  z 2020 roku.\n\nRozważna i romantyczna  trafiła na ekrany również w 1995 roku ze studia Sony Pictures Classics — film w reżyserii Anga Lee, ze scenariuszem Emmy Thompson, nagrodzonej Oscarem za najlepszy scenariusz adaptowany. Thompson zagrała także Elinor Dashwood, a Kate Winslet wcieliła się w Marianne. Produkcja otrzymała w sumie siedem nominacji do Oscara i zarobiła ponad 134 miliony dolarów na świecie.",
+        "poster": "media/posters/f97dfdbb297b0bd5c374.webp"
+      },
+      {
+        "hour": "15:15",
+        "datetime": "2026-11-22 15:15:00",
+        "title": "Nasza rewolucja",
+        "originalTitle": "",
+        "director": "Piotr Domalewski",
+        "year": "2026",
+        "premiereDate": "2026-11-17",
+        "duration": "125",
+        "countries": "Polska",
+        "shortDesc": "<p>On – żywiołowy, głośny, charyzmatyczny. Ona – odważna, delikatna, pełna ciepła. Bezgranicznie w sobie zakochani i przekonani, że razem mogą zmieniać świat.</p>\n",
+        "lang": "pl",
+        "subtitlesLang": "en",
+        "age": "16",
+        "credits": "reż. Piotr Domalewski <br>Polska <br>2026,125’",
+        "desc": "<p>On – żywiołowy, głośny, charyzmatyczny. Ona – odważna, delikatna, pełna ciepła. Bezgranicznie w sobie zakochani i przekonani, że razem mogą zmieniać świat.</p>\n",
+        "hall": "2",
+        "movieLink": "https://www.kinomuza.pl/movie/nasza-rewolucja/",
+        "ticketLink": "https://estradapoznan.bilety24.pl/kup-bilety/?id=1022726#total",
+        "prePremier": false,
+        "tape35mm": false,
+        "ad": false,
+        "deaf": false,
+        "ticketPrice": "",
+        "ticketHalfPrice": "",
+        "alt": "Nasza rewolucja",
+        "thumb": "https://www.kinomuza.pl/content/uploads/2026/10/NASZA-REWOLUCJA-fot.-Anna-Wloch-4-scaled-1-800x450.jpg",
+        "description": "On – żywiołowy, głośny, charyzmatyczny. Ona – odważna, delikatna, pełna ciepła. Bezgranicznie w sobie zakochani i przekonani, że razem mogą zmieniać świat.",
+        "shortDescription": "On – żywiołowy, głośny, charyzmatyczny. Ona – odważna, delikatna, pełna ciepła. Bezgranicznie w sobie zakochani i przekonani, że razem mogą zmieniać świat.",
+        "genres": [
+          "Biograficzny",
+          "Dramat obyczajowy"
+        ],
+        "external": {
+          "imdb": {
+            "id": "tt35571123",
+            "url": "https://www.imdb.com/title/tt35571123/",
+            "rating": 6.4,
+            "votes": 49
+          },
+          "filmweb": {
+            "id": "10065018",
+            "url": "https://www.filmweb.pl/film/Nasza+rewolucja-2026-10065018",
+            "genres": [
+              "Biograficzny",
+              "Dramat obyczajowy"
+            ],
+            "rating": 6.3,
+            "votes": 1521
+          },
+          "rottenTomatoes": null
+        },
+        "longDescription": "On – żywiołowy, głośny, charyzmatyczny. Ona – odważna, delikatna, pełna ciepła. Bezgranicznie w sobie zakochani i przekonani, że razem mogą zmieniać świat – Jacek i Grażyna Kuroniowie. Rezygnują z prywatności, by oddać życie walce o wolność. Ich mieszkanie staje się „kwaterą główną” opozycji – miejscem spotkań ludzi gotowych ryzykować wszystko w imię lepszego jutra. Ale wielka idea oznacza też ogromną cenę: chwile intensywnej intymności przeplatają się z latami rozłąki, kiedy dzielą ich więzienne kraty. Wybuch stanu wojennego zmusza ich do podejmowania decyzji, których nikt nie chciałby podejmować. Czy w tak potwornie trudnych czasach, miłość może zwyciężyć?\n\nFilm dostępny z audiodeskrypcją lub lektorem. Skorzystaj bezpłatnie z aplikacji Kino Dostępne 2.0 w Twoim telefonie – http://kinodostepne.pl",
+        "poster": "media/posters/7e322e8b52165ab8d6d7.webp"
+      },
       {
         "hour": "16:30",
         "datetime": "2026-11-22 16:30:00",
@@ -46,7 +468,7 @@
             "id": "tt34888026",
             "url": "https://www.imdb.com/title/tt34888026/",
             "rating": 7.2,
-            "votes": 314
+            "votes": 321
           },
           "filmweb": {
             "id": "10130614",
@@ -55,7 +477,7 @@
               "Dramat"
             ],
             "rating": 6.2,
-            "votes": 99
+            "votes": 100
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/woman_unknown",
@@ -72,6 +494,127 @@
         },
         "longDescription": "Powojenna Kopenhaga. Wyzwolone miasto próbuje odzyskać spokój po okupacji, ale zamiast pojednania narasta fala samosądów. Marie, młoda pomoc domowa, niespodziewanie otrzymuje szansę na społeczny awans. Ma poślubić zamożnego, starszego wdowca i wejść do świata, do którego dotąd nie miała dostępu. W eleganckim domu zaczyna budować swoją przyszłość.\n\nJedno przypadkowe spotkanie z dawnym znajomym sprawia, że wokół Marie zaczyna zaciskać się pętla podejrzeń. Kobieta popada w paranoję, obawiając się, że straci wszystko: pozycję, bezpieczeństwo i tożsamość. W świecie, w którym przeszłość może stać się wyrokiem, Marie zrobi wszystko, by ocalić swoje nowe życie.\n\n„Kobieta nieznana” to pełen napięcia, bezkompromisowy thriller historyczny o winie, wstydzie, społecznej hipokryzji i cenie, jaką trzeba zapłacić za możliwość rozpoczęcia życia od nowa. To opowieść o kobiecie, która próbuje wyrwać się z narzuconej jej roli, ale odkrywa, że w świecie rządzonym przez osąd innych nie tak łatwo wymazać własną przeszłość.\n\nFilm wyreżyserowała May el-Toukhy, autorka głośnej „Królowej kier”. „Kobieta nieznana” zdobyła Złotego Lwa dla najlepszego filmu na Międzynarodowym Festiwalu Filmowym w Wenecji, a Mathilde Arcel otrzymała Puchar Volpiego dla najlepszej aktorki. Film jest także oficjalnym duńskim kandydatem do Oscara w kategorii Najlepszy Film Międzynarodowy.",
         "poster": "media/posters/23f305577ef493950122.webp"
+      },
+      {
+        "hour": "16:30",
+        "datetime": "2026-11-22 16:30:00",
+        "title": "Nasza rewolucja",
+        "originalTitle": "",
+        "director": "Piotr Domalewski",
+        "year": "2026",
+        "premiereDate": "2026-11-17",
+        "duration": "125",
+        "countries": "Polska",
+        "shortDesc": "<p>On – żywiołowy, głośny, charyzmatyczny. Ona – odważna, delikatna, pełna ciepła. Bezgranicznie w sobie zakochani i przekonani, że razem mogą zmieniać świat.</p>\n",
+        "lang": "pl",
+        "subtitlesLang": "en",
+        "age": "16",
+        "credits": "reż. Piotr Domalewski <br>Polska <br>2026,125’",
+        "desc": "<p>On – żywiołowy, głośny, charyzmatyczny. Ona – odważna, delikatna, pełna ciepła. Bezgranicznie w sobie zakochani i przekonani, że razem mogą zmieniać świat.</p>\n",
+        "hall": "3",
+        "movieLink": "https://www.kinomuza.pl/movie/nasza-rewolucja/",
+        "ticketLink": "https://estradapoznan.bilety24.pl/kup-bilety/?id=1022755#total",
+        "prePremier": false,
+        "tape35mm": false,
+        "ad": false,
+        "deaf": false,
+        "ticketPrice": "",
+        "ticketHalfPrice": "",
+        "alt": "Nasza rewolucja",
+        "thumb": "https://www.kinomuza.pl/content/uploads/2026/10/NASZA-REWOLUCJA-fot.-Anna-Wloch-4-scaled-1-800x450.jpg",
+        "description": "On – żywiołowy, głośny, charyzmatyczny. Ona – odważna, delikatna, pełna ciepła. Bezgranicznie w sobie zakochani i przekonani, że razem mogą zmieniać świat.",
+        "shortDescription": "On – żywiołowy, głośny, charyzmatyczny. Ona – odważna, delikatna, pełna ciepła. Bezgranicznie w sobie zakochani i przekonani, że razem mogą zmieniać świat.",
+        "genres": [
+          "Biograficzny",
+          "Dramat obyczajowy"
+        ],
+        "external": {
+          "imdb": {
+            "id": "tt35571123",
+            "url": "https://www.imdb.com/title/tt35571123/",
+            "rating": 6.4,
+            "votes": 49
+          },
+          "filmweb": {
+            "id": "10065018",
+            "url": "https://www.filmweb.pl/film/Nasza+rewolucja-2026-10065018",
+            "genres": [
+              "Biograficzny",
+              "Dramat obyczajowy"
+            ],
+            "rating": 6.3,
+            "votes": 1521
+          },
+          "rottenTomatoes": null
+        },
+        "longDescription": "On – żywiołowy, głośny, charyzmatyczny. Ona – odważna, delikatna, pełna ciepła. Bezgranicznie w sobie zakochani i przekonani, że razem mogą zmieniać świat – Jacek i Grażyna Kuroniowie. Rezygnują z prywatności, by oddać życie walce o wolność. Ich mieszkanie staje się „kwaterą główną” opozycji – miejscem spotkań ludzi gotowych ryzykować wszystko w imię lepszego jutra. Ale wielka idea oznacza też ogromną cenę: chwile intensywnej intymności przeplatają się z latami rozłąki, kiedy dzielą ich więzienne kraty. Wybuch stanu wojennego zmusza ich do podejmowania decyzji, których nikt nie chciałby podejmować. Czy w tak potwornie trudnych czasach, miłość może zwyciężyć?\n\nFilm dostępny z audiodeskrypcją lub lektorem. Skorzystaj bezpłatnie z aplikacji Kino Dostępne 2.0 w Twoim telefonie – http://kinodostepne.pl",
+        "poster": "media/posters/7e322e8b52165ab8d6d7.webp"
+      },
+      {
+        "hour": "17:30",
+        "datetime": "2026-11-22 17:30:00",
+        "title": "Dziki Koń Dziewięć",
+        "originalTitle": "Wild Horse Nine",
+        "director": "Martin McDonagh",
+        "year": "2026",
+        "premiereDate": "2026-11-17",
+        "duration": "118",
+        "countries": "Wielka Brytania, USA, Chile",
+        "shortDesc": "<p>To polityczny thriller z czarnym humorem. Fabuła opowiada o dwóch agentach CIA.</p>\n",
+        "lang": "",
+        "subtitlesLang": "pl",
+        "age": "16",
+        "credits": "reż. Martin McDonagh <br>Wielka Brytania, USA, Chile <br>2026,118’",
+        "desc": "<p>To polityczny thriller z czarnym humorem. Fabuła opowiada o dwóch agentach CIA.</p>\n",
+        "hall": "2",
+        "movieLink": "https://www.kinomuza.pl/movie/dziki-kon-dziewiec/",
+        "ticketLink": "https://estradapoznan.bilety24.pl/kup-bilety/?id=1022727#total",
+        "prePremier": false,
+        "tape35mm": false,
+        "ad": false,
+        "deaf": false,
+        "ticketPrice": "",
+        "ticketHalfPrice": "",
+        "alt": "Dziki Koń Dziewięć",
+        "thumb": "https://www.kinomuza.pl/content/uploads/2026/10/dziki-kon-2-800x450.jpg",
+        "description": "To polityczny thriller z czarnym humorem. Fabuła opowiada o dwóch agentach CIA.",
+        "shortDescription": "To polityczny thriller z czarnym humorem. Fabuła opowiada o dwóch agentach CIA.",
+        "genres": [
+          "Dramat",
+          "Thriller"
+        ],
+        "external": {
+          "imdb": {
+            "id": "tt15799564",
+            "url": "https://www.imdb.com/title/tt15799564/",
+            "rating": 8.1,
+            "votes": 20739
+          },
+          "filmweb": {
+            "id": "10075493",
+            "url": "https://www.filmweb.pl/film/Dziki+Ko%C5%84+Dziewi%C4%99%C4%87-2026-10075493",
+            "genres": [
+              "Dramat",
+              "Thriller"
+            ],
+            "rating": 8,
+            "votes": 2997
+          },
+          "rottenTomatoes": {
+            "url": "https://www.rottentomatoes.com/m/wild_horse_nine",
+            "title": "Wild Horse Nine",
+            "year": "2026",
+            "directors": [
+              "Martin McDonagh"
+            ],
+            "criticsRating": null,
+            "criticsVotes": 261,
+            "audienceRating": null,
+            "audienceVotes": null
+          }
+        },
+        "longDescription": "Film Martina McDonagha Dziki Koń Dziewięć  otrzymał aż 13 minut owacji na stojąco podczas swojej światowej premiery na Festiwalu Filmowym w Wenecji! Odtwórca głównej roli, 72-letni John Malkovich, ocierał łzy wzruszenia, gdy publiczność nie przestawała bić braw. Krytycy natychmiast okrzyknęli jego występ „rolą życia” i wróżą mu Oscara\n\nTo polityczny thriller z czarnym humorem. Fabuła opowiada o dwóch agentach CIA (w tych rolach Malkovich i Sam Rockwell). Na krótko przed zamachem stanu w Chile w 1973 roku agenci CIA Chris i Lee zostają wysłani z Santiago na Wyspę Wielkanocną przez swoją szefową, MJ. W cieniu słynnych posągów wyspy wieloletni partnerzy muszą zmierzyć się z mroczną przeszłością i spiskami, które zaczynają wychodzić na jaw. Tymczasem nowa więź Chrisa z dwojgiem zbuntowanych studentów grozi tym, że pobyt wszystkich w tym odległym raju wymknie się spod kontroli.",
+        "poster": "media/posters/26ce6bd92d921ecc89ad.webp"
       },
       {
         "hour": "18:45",
@@ -110,7 +653,7 @@
             "id": "tt33451014",
             "url": "https://www.imdb.com/title/tt33451014/",
             "rating": 7.2,
-            "votes": 4354
+            "votes": 4427
           },
           "filmweb": {
             "id": "10084250",
@@ -119,7 +662,7 @@
               "Dramat"
             ],
             "rating": 7.2,
-            "votes": 890
+            "votes": 891
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/the_beloved_2026",
@@ -136,6 +679,331 @@
         },
         "longDescription": "„Natura miłości” ma w sobie wszystko, za co kochamy hiszpańskie kino: temperament, skomplikowane relacje i emocje, które nie uznają półśrodków. Tu każde spojrzenie może okazać się wyzwaniem, każda rozmowa – corridą, a fasada gniewu i dumy kryje zranione uczucia. Nic więc dziwnego, że film Rodriga Sorogoyena (twórcy znakomitych „Bestii”) stał się kasowym przebojem hiszpańskich kin. To także zasługa magnetycznego Javiera Bardema, który ze zręcznością linoskoczka balansuje pomiędzy butą i kruchością. Aktorowi, który w „Naturze miłości” zagrał najlepszą z dotychczasowych ról, śmiało partneruje Victoria Luengo, wschodząca gwiazda hiszpańskiego kina.\n\nLuengo gra dziewczynę, która po latach rozłąki spotyka się z ojcem, uznanym reżyserem (Bardem). On proponuje jej rolę w najnowszym filmie, licząc na odbudowanie zerwanej więzi. Dla niej będzie to jednak nieunikniony powrót do bolesnych wydarzeń z przeszłości. Czy sztuka uleczy rany? A może jest ich źródłem? „Natura miłości” mistrzowsko kreśli psychologiczne portrety bohaterów i pełną napięcia dynamikę ich relacji. Jest opowieścią o granicach i odwadze, by ich bronić. O uśpionym gniewie, który domaga się ujścia. Ale choć u Sorogoyena przeszłość nie uznaje zamkniętych rozdziałów, to pozwala starym ranom stać się nowym początkiem.\n\nPytania, jakie stawia reżyser: o rodzinne więzi, pamięć i bliskość, przywołują skojarzenia z oscarową „Wartością sentymentalną”. Ale w „Naturze miłości” skandynawską precyzję rozsadza hiszpański temperament. Jest więc intensywnie, niepokornie i bardzo, bardzo gorąco.",
         "poster": "media/posters/9289805201e8e12a2e09.webp"
+      },
+      {
+        "hour": "18:45",
+        "datetime": "2026-11-22 18:45:00",
+        "title": "Dziki Koń Dziewięć",
+        "originalTitle": "Wild Horse Nine",
+        "director": "Martin McDonagh",
+        "year": "2026",
+        "premiereDate": "2026-11-17",
+        "duration": "118",
+        "countries": "Wielka Brytania, USA, Chile",
+        "shortDesc": "<p>To polityczny thriller z czarnym humorem. Fabuła opowiada o dwóch agentach CIA.</p>\n",
+        "lang": "",
+        "subtitlesLang": "pl",
+        "age": "16",
+        "credits": "reż. Martin McDonagh <br>Wielka Brytania, USA, Chile <br>2026,118’",
+        "desc": "<p>To polityczny thriller z czarnym humorem. Fabuła opowiada o dwóch agentach CIA.</p>\n",
+        "hall": "3",
+        "movieLink": "https://www.kinomuza.pl/movie/dziki-kon-dziewiec/",
+        "ticketLink": "https://estradapoznan.bilety24.pl/kup-bilety/?id=1022756#total",
+        "prePremier": false,
+        "tape35mm": false,
+        "ad": false,
+        "deaf": false,
+        "ticketPrice": "",
+        "ticketHalfPrice": "",
+        "alt": "Dziki Koń Dziewięć",
+        "thumb": "https://www.kinomuza.pl/content/uploads/2026/10/dziki-kon-2-800x450.jpg",
+        "description": "To polityczny thriller z czarnym humorem. Fabuła opowiada o dwóch agentach CIA.",
+        "shortDescription": "To polityczny thriller z czarnym humorem. Fabuła opowiada o dwóch agentach CIA.",
+        "genres": [
+          "Dramat",
+          "Thriller"
+        ],
+        "external": {
+          "imdb": {
+            "id": "tt15799564",
+            "url": "https://www.imdb.com/title/tt15799564/",
+            "rating": 8.1,
+            "votes": 20739
+          },
+          "filmweb": {
+            "id": "10075493",
+            "url": "https://www.filmweb.pl/film/Dziki+Ko%C5%84+Dziewi%C4%99%C4%87-2026-10075493",
+            "genres": [
+              "Dramat",
+              "Thriller"
+            ],
+            "rating": 8,
+            "votes": 2997
+          },
+          "rottenTomatoes": {
+            "url": "https://www.rottentomatoes.com/m/wild_horse_nine",
+            "title": "Wild Horse Nine",
+            "year": "2026",
+            "directors": [
+              "Martin McDonagh"
+            ],
+            "criticsRating": null,
+            "criticsVotes": 261,
+            "audienceRating": null,
+            "audienceVotes": null
+          }
+        },
+        "longDescription": "Film Martina McDonagha Dziki Koń Dziewięć  otrzymał aż 13 minut owacji na stojąco podczas swojej światowej premiery na Festiwalu Filmowym w Wenecji! Odtwórca głównej roli, 72-letni John Malkovich, ocierał łzy wzruszenia, gdy publiczność nie przestawała bić braw. Krytycy natychmiast okrzyknęli jego występ „rolą życia” i wróżą mu Oscara\n\nTo polityczny thriller z czarnym humorem. Fabuła opowiada o dwóch agentach CIA (w tych rolach Malkovich i Sam Rockwell). Na krótko przed zamachem stanu w Chile w 1973 roku agenci CIA Chris i Lee zostają wysłani z Santiago na Wyspę Wielkanocną przez swoją szefową, MJ. W cieniu słynnych posągów wyspy wieloletni partnerzy muszą zmierzyć się z mroczną przeszłością i spiskami, które zaczynają wychodzić na jaw. Tymczasem nowa więź Chrisa z dwojgiem zbuntowanych studentów grozi tym, że pobyt wszystkich w tym odległym raju wymknie się spod kontroli.",
+        "poster": "media/posters/26ce6bd92d921ecc89ad.webp"
+      },
+      {
+        "hour": "19:45",
+        "datetime": "2026-11-22 19:45:00",
+        "title": "NAZA",
+        "originalTitle": "",
+        "director": "Yuval Abraham, Rachel Szor",
+        "year": "2026",
+        "premiereDate": "2026-10-23",
+        "duration": "80",
+        "countries": "Wielka Brytania",
+        "shortDesc": "<p>Nocą, na dachach Tel Awiwu, z dala od oficjalnych komunikatów i kamer, byli i obecni członkowie izraelskich struktur wojskowych opowiadają o systemach, które współtworzyli.</p>\n",
+        "lang": "",
+        "subtitlesLang": "pl+en",
+        "age": "16",
+        "credits": "reż. Yuval Abraham, Rachel Szor <br>Wielka Brytania <br>2026,80’",
+        "desc": "<p>Nocą, na dachach Tel Awiwu, z dala od oficjalnych komunikatów i kamer, byli i obecni członkowie izraelskich struktur wojskowych opowiadają o systemach, które współtworzyli.</p>\n",
+        "hall": "2",
+        "movieLink": "https://www.kinomuza.pl/movie/naza/",
+        "ticketLink": "https://estradapoznan.bilety24.pl/kup-bilety/?id=1022728#total",
+        "prePremier": false,
+        "tape35mm": false,
+        "ad": false,
+        "deaf": false,
+        "ticketPrice": "",
+        "ticketHalfPrice": "",
+        "alt": "NAZA",
+        "thumb": "https://www.kinomuza.pl/content/uploads/2026/10/NAZA-GŁÓWNY-1_fot.-The-Guardian-800x450.png",
+        "description": "Nocą, na dachach Tel Awiwu, z dala od oficjalnych komunikatów i kamer, byli i obecni członkowie izraelskich struktur wojskowych opowiadają o systemach, które współtworzyli.",
+        "shortDescription": "Nocą, na dachach Tel Awiwu, z dala od oficjalnych komunikatów i kamer, byli i obecni członkowie izraelskich struktur wojskowych opowiadają o systemach, które współtworzyli.",
+        "genres": [
+          "Dokumentalny"
+        ],
+        "external": {
+          "imdb": {
+            "id": "tt44766123",
+            "url": "https://www.imdb.com/title/tt44766123/",
+            "rating": 8.4,
+            "votes": 7642
+          },
+          "filmweb": {
+            "id": "10133039",
+            "url": "https://www.filmweb.pl/film/Naza-2026-10133039",
+            "genres": [
+              "Dokumentalny"
+            ],
+            "rating": 8.1,
+            "votes": 1185
+          },
+          "rottenTomatoes": {
+            "url": "https://www.rottentomatoes.com/m/naza",
+            "title": "NAZA",
+            "year": "2026",
+            "directors": [
+              "Yuval Abraham",
+              "Rachel Szor"
+            ],
+            "criticsRating": null,
+            "criticsVotes": 82,
+            "audienceRating": null,
+            "audienceVotes": null
+          }
+        },
+        "longDescription": "Nocą, na dachach Tel Awiwu, z dala od oficjalnych komunikatów i kamer, byli i obecni członkowie izraelskich struktur wojskowych opowiadają o systemach, które sami współtworzyli i obsługiwali. Ich świadectwa odsłaniają mechanizmy podejmowania decyzji prowadzących do masowego zabijania palestyńskich cywilów w Strefie Gazy – od procedur i technologii po sposób, w jaki odpowiedzialność za ludzkie życie zostaje rozproszona pomiędzy ludzi, dane i algorytmy.\n\nZa filmem stoją Yuval Abraham – filmowiec i dziennikarz śledczy – oraz Rachel Szor – reżyserka i operatorka filmowa. Oboje należą do czworga twórców „Nie chcemy innej ziemi” („No Other Land”), jednego z najgłośniejszych dokumentów ostatnich lat, nagrodzonego w 2025 roku Oscarem dla najlepszego pełnometrażowego filmu dokumentalnego.\n\n„NAZA” wyrasta z ponad trzech lat pracy dziennikarskiej i śledczej. Wiele ustaleń, do których twórcy docierali podczas pracy nad filmem, było publikowanych na bieżąco przez „The Guardian”, we współpracy z izraelsko-palestyńskim magazynem +972 oraz Local Call. „The Guardian” jest również jednym z producentów filmu, co podkreśla jego wyjątkowe połączenie kina dokumentalnego z dziennikarstwem śledczym.\n\nProducentem wykonawczym filmu jest Jonathan Glazer – nagrodzony Oscarem za „Strefę interesów”. Obecność Glazera przy „NAZA” tworzy dodatkowy kontekst dla filmu, który podobnie jak „Strefa interesów” przygląda się mechanizmom przemocy z perspektywy ludzi funkcjonujących wewnątrz systemu, podczas gdy jego ofiary pozostają w dużej mierze poza kadrem.\n\nW „NAZA” Abraham i Szor kierują uwagę na ludzi znajdujących się wewnątrz izraelskiego systemu wojskowego i próbują zrozumieć nie tylko konsekwencje wojny, ale również mechanizmy, które umożliwiają jej prowadzenie. Film powstał na podstawie rozmów z 24 izraelskimi oficerami wywiadu i żołnierzami, których świadectwa składają się na obraz systemu, w którym decyzje dotyczące życia cywilów zostają wpisane w procedury wojskowe i technologiczne.\n\nFilm miał światową premierę w konkursie głównym Międzynarodowego Festiwalu Filmowego w Wenecji, gdzie zdobył Nagrodę Specjalną Jury. Międzynarodowa prasa zwracała uwagę na bezkompromisowość filmu oraz siłę świadectw osób mówiących z wnętrza systemu.\n\nTo wstrząsający dokument o wojnie widzianej nie z pola bitwy, lecz z miejsc, w których zapadają decyzje. O technologii, odpowiedzialności i granicach posłuszeństwa. O tym, co dzieje się, kiedy przemoc zostaje zamieniona w procedurę, a decyzje o ludzkim życiu stają się częścią systemu.",
+        "poster": "media/posters/a026d469e2bd9e7451cc.webp"
+      },
+      {
+        "hour": "21:00",
+        "datetime": "2026-11-22 21:00:00",
+        "title": "La Perra",
+        "originalTitle": "",
+        "director": "Dominga Sotomayor",
+        "year": "2026",
+        "premiereDate": "2026-11-06",
+        "duration": "112",
+        "countries": "Chile",
+        "shortDesc": "<p>Pełen napięcia dramat psychologiczny o tym, co ukrywamy pod powierzchnią codzienności. O miłości i odrzuceniu. O próbie oswojenia tego, co nieuchwytne.</p>\n",
+        "lang": "es",
+        "subtitlesLang": "pl",
+        "age": "16",
+        "credits": "reż. Dominga Sotomayor <br>Chile <br>2026,112’",
+        "desc": "<p>Pełen napięcia dramat psychologiczny o tym, co ukrywamy pod powierzchnią codzienności. O miłości i odrzuceniu. O próbie oswojenia tego, co nieuchwytne.</p>\n",
+        "hall": "3",
+        "movieLink": "https://www.kinomuza.pl/movie/la-perra/",
+        "ticketLink": "https://estradapoznan.bilety24.pl/kup-bilety/?id=1022757#total",
+        "prePremier": false,
+        "tape35mm": false,
+        "ad": false,
+        "deaf": false,
+        "ticketPrice": "",
+        "ticketHalfPrice": "",
+        "alt": "La Perra",
+        "thumb": "https://www.kinomuza.pl/content/uploads/2026/10/laperra-2-800x450.jpg",
+        "description": "Pełen napięcia dramat psychologiczny o tym, co ukrywamy pod powierzchnią codzienności. O miłości i odrzuceniu. O próbie oswojenia tego, co nieuchwytne.",
+        "shortDescription": "Pełen napięcia dramat psychologiczny o tym, co ukrywamy pod powierzchnią codzienności. O miłości i odrzuceniu. O próbie oswojenia tego, co nieuchwytne.",
+        "genres": [
+          "Dramat"
+        ],
+        "external": {
+          "imdb": {
+            "id": "tt38468551",
+            "url": "https://www.imdb.com/title/tt38468551/",
+            "rating": 5.5,
+            "votes": 87
+          },
+          "filmweb": {
+            "id": "10121239",
+            "url": "https://www.filmweb.pl/film/La+perra-2026-10121239",
+            "genres": [
+              "Dramat"
+            ],
+            "rating": 5.7,
+            "votes": 385
+          },
+          "rottenTomatoes": {
+            "url": "https://www.rottentomatoes.com/m/la_perra",
+            "title": "La Perra",
+            "year": "",
+            "directors": [
+              "Dominga Sotomayor"
+            ],
+            "criticsRating": null,
+            "criticsVotes": 13,
+            "audienceRating": null,
+            "audienceVotes": null
+          }
+        },
+        "longDescription": "Na odległej, smaganej południowym wiatrem wyspie u wybrzeży chilijskiej Patagonii Silvia wiedzie spokojne życie u boku swojego partnera, utrzymując się ze zbierania alg. Pewnego dnia znajduje porzuconą suczkę i nadaje jej imię Yuri — takie, jakie wybrałaby dla upragnionej córki. Głęboka więź z nieokiełznanym zwierzęciem wypełnia pustkę pozostawioną przez niespełnione pragnienie macierzyństwa. Ich relacja staje się początkiem nieoczekiwanej konfrontacji, w której miłość i czułość ścierają się z gniewem i bolesnymi wspomnieniami z przeszłości, przed którymi Silvia przez lata próbowała uciec. LA PERRA to subtelny, pełen napięcia dramat psychologiczny o tym, co ukrywamy pod powierzchnią codzienności. O miłości i odrzuceniu. O próbie oswojenia tego, co nieuchwytne. O potrzebie zniknięcia i odwadze, by wreszcie się zmierzyć z przeszłością. Film został uhonorowany nagrodą Palm Dog w Cannes za wyjątkową kreację psiej bohaterki.",
+        "poster": "media/posters/da61fb13745c465270d9.webp"
+      },
+      {
+        "hour": "21:15",
+        "datetime": "2026-11-22 21:15:00",
+        "title": "Róża",
+        "originalTitle": "Rose",
+        "director": "Markus Schleinzer",
+        "year": "2026",
+        "premiereDate": "2026-10-09",
+        "duration": "93",
+        "countries": "Niemcy, Austria",
+        "shortDesc": "<p>Oto prawdziwa historia oszustki, która zwodziła władze i lud. Urodziła się kobietą, acz nosiła po męsku i pod fałszywym imieniem dopuściła wielu niecnych czynów.</p>\n",
+        "lang": "de",
+        "subtitlesLang": "pl",
+        "age": "16",
+        "credits": "reż. Markus Schleinzer <br>Niemcy, Austria <br>2026,93’",
+        "desc": "<p>Oto prawdziwa historia oszustki, która zwodziła władze i lud. Urodziła się kobietą, acz nosiła po męsku i pod fałszywym imieniem dopuściła wielu niecnych czynów.</p>\n",
+        "hall": "2",
+        "movieLink": "https://www.kinomuza.pl/movie/roza/",
+        "ticketLink": "https://estradapoznan.bilety24.pl/kup-bilety/?id=1022729#total",
+        "prePremier": false,
+        "tape35mm": false,
+        "ad": false,
+        "deaf": false,
+        "ticketPrice": "",
+        "ticketHalfPrice": "",
+        "alt": "Róża",
+        "thumb": "https://www.kinomuza.pl/content/uploads/2026/08/róża-1-800x450.jpg",
+        "description": "Oto prawdziwa historia oszustki, która zwodziła władze i lud. Urodziła się kobietą, acz nosiła po męsku i pod fałszywym imieniem dopuściła wielu niecnych czynów.",
+        "shortDescription": "Oto prawdziwa historia oszustki, która zwodziła władze i lud. Urodziła się kobietą, acz nosiła po męsku i pod fałszywym imieniem dopuściła wielu niecnych czynów.",
+        "genres": [
+          "Dramat historyczny"
+        ],
+        "external": {
+          "imdb": {
+            "id": "tt25399154",
+            "url": "https://www.imdb.com/title/tt25399154/",
+            "rating": 7.5,
+            "votes": 3656
+          },
+          "filmweb": {
+            "id": "10113205",
+            "url": "https://www.filmweb.pl/film/R%C3%B3%C5%BCa-2026-10113205",
+            "genres": [
+              "Dramat historyczny"
+            ],
+            "rating": 7.2,
+            "votes": 2564
+          },
+          "rottenTomatoes": {
+            "url": "https://www.rottentomatoes.com/m/rose_2026",
+            "title": "Rose (2026)",
+            "year": "2026",
+            "directors": [
+              "Markus Schleinzer"
+            ],
+            "criticsRating": null,
+            "criticsVotes": 36,
+            "audienceRating": null,
+            "audienceVotes": null
+          }
+        },
+        "longDescription": "Oto prawdziwa historia oszustki, która zwodziła władze i lud. Urodziła się kobietą, acz nosiła po męsku i pod fałszywym imieniem dopuściła wielu niecnych czynów.\n\n„Róża” to jeden z najgłośniejszych tytułów ostatniego Berlinale za sprawą brawurowej roli Sandry Hüller, nagrodzonej Srebrnym Niedźwiedziem za tytułową kreację. Aktorka znana z „Anatomii upadku”, „Projektu Hail Mary”, „Strefy interesów” i „Toniego Erdmanna” wciela się tym razem w tajemniczego żołnierza. Do tej roli przeszła nie tylko niezwykłą fizyczną metamorfozę, ukrywając kobiecość pod męskim strojem, ale też fenomenalnie połączyła szorstkość z łagodnością i humorem.\n\nDo położonej na uboczu wsi przybywa naznaczony wojną żołnierz, który podaje się za spadkobiercę porzuconego gospodarstwa. Obcy budzi początkowo nieufność, ale szybko przekonuje do siebie wieśniaków dzięki przywiezionym dokumentom, niepospolitej pracowitości i gotowości, by podporządkować się surowym regułom protestanckiej wspólnoty. W okrutnych realiach XVII-wiecznych Niemiec ktoś, kto nie ma żadnych praw, może być sobą wyłącznie w przebraniu – dlatego tytułowa postać musi skrzętnie ukrywać swoją prawdziwą naturę i tożsamość.\n\n„Róża” jest przewrotną opowieścią o cenie wolności i o odwadze życia na własnych zasadach. Kwestionujący patriarchalny przywilej i binarny podział płci, chłodno analizujący mechanizmy społeczne, film Markusa Schleinzera okazuje się zaskakująco współczesny. Choć minimalistyczny, to pieczołowicie odtwarza detale życia XVII-wiecznej niemieckiej wsi, a eleganckie, surowe zdjęcia budują gęstą atmosferę narastającego zagrożenia. Schleinzer, podobnie jak Robert Eggers, jest mistrzem stylizacji i niepokojącej aury. Dla obu historia bywa pretekstem do filmowej przypowieści o naszych czasach. „Róża” składa hołd tym, którzy przetarli nam ścieżki, ale też przypomina, że prawo do bycia sobą jest zdobyczą, o którą wciąż trzeba walczyć.\n\nFilm dostępny z audiodeskrypcją lub lektorem. Skorzystaj bezpłatnie z aplikacji Kino Dostępne 2.0 w Twoim telefonie – http://kinodostepne.pl",
+        "poster": "media/posters/f190e242c80162aa1316.webp"
+      },
+      {
+        "hour": "21:15",
+        "datetime": "2026-11-22 21:15:00",
+        "title": "Dziki Koń Dziewięć",
+        "originalTitle": "Wild Horse Nine",
+        "director": "Martin McDonagh",
+        "year": "2026",
+        "premiereDate": "2026-11-17",
+        "duration": "118",
+        "countries": "Wielka Brytania, USA, Chile",
+        "shortDesc": "<p>To polityczny thriller z czarnym humorem. Fabuła opowiada o dwóch agentach CIA.</p>\n",
+        "lang": "",
+        "subtitlesLang": "pl",
+        "age": "16",
+        "credits": "reż. Martin McDonagh <br>Wielka Brytania, USA, Chile <br>2026,118’",
+        "desc": "<p>To polityczny thriller z czarnym humorem. Fabuła opowiada o dwóch agentach CIA.</p>\n",
+        "hall": "1",
+        "movieLink": "https://www.kinomuza.pl/movie/dziki-kon-dziewiec/",
+        "ticketLink": "https://estradapoznan.bilety24.pl/kup-bilety/?id=1022700#total",
+        "prePremier": false,
+        "tape35mm": false,
+        "ad": false,
+        "deaf": false,
+        "ticketPrice": "",
+        "ticketHalfPrice": "",
+        "alt": "Dziki Koń Dziewięć",
+        "thumb": "https://www.kinomuza.pl/content/uploads/2026/10/dziki-kon-2-800x450.jpg",
+        "description": "To polityczny thriller z czarnym humorem. Fabuła opowiada o dwóch agentach CIA.",
+        "shortDescription": "To polityczny thriller z czarnym humorem. Fabuła opowiada o dwóch agentach CIA.",
+        "genres": [
+          "Dramat",
+          "Thriller"
+        ],
+        "external": {
+          "imdb": {
+            "id": "tt15799564",
+            "url": "https://www.imdb.com/title/tt15799564/",
+            "rating": 8.1,
+            "votes": 20739
+          },
+          "filmweb": {
+            "id": "10075493",
+            "url": "https://www.filmweb.pl/film/Dziki+Ko%C5%84+Dziewi%C4%99%C4%87-2026-10075493",
+            "genres": [
+              "Dramat",
+              "Thriller"
+            ],
+            "rating": 8,
+            "votes": 2997
+          },
+          "rottenTomatoes": {
+            "url": "https://www.rottentomatoes.com/m/wild_horse_nine",
+            "title": "Wild Horse Nine",
+            "year": "2026",
+            "directors": [
+              "Martin McDonagh"
+            ],
+            "criticsRating": null,
+            "criticsVotes": 261,
+            "audienceRating": null,
+            "audienceVotes": null
+          }
+        },
+        "longDescription": "Film Martina McDonagha Dziki Koń Dziewięć  otrzymał aż 13 minut owacji na stojąco podczas swojej światowej premiery na Festiwalu Filmowym w Wenecji! Odtwórca głównej roli, 72-letni John Malkovich, ocierał łzy wzruszenia, gdy publiczność nie przestawała bić braw. Krytycy natychmiast okrzyknęli jego występ „rolą życia” i wróżą mu Oscara\n\nTo polityczny thriller z czarnym humorem. Fabuła opowiada o dwóch agentach CIA (w tych rolach Malkovich i Sam Rockwell). Na krótko przed zamachem stanu w Chile w 1973 roku agenci CIA Chris i Lee zostają wysłani z Santiago na Wyspę Wielkanocną przez swoją szefową, MJ. W cieniu słynnych posągów wyspy wieloletni partnerzy muszą zmierzyć się z mroczną przeszłością i spiskami, które zaczynają wychodzić na jaw. Tymczasem nowa więź Chrisa z dwojgiem zbuntowanych studentów grozi tym, że pobyt wszystkich w tym odległym raju wymknie się spod kontroli.",
+        "poster": "media/posters/26ce6bd92d921ecc89ad.webp"
       }
     ]
   }

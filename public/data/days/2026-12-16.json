@@ -1,0 +1,70 @@
+{
+  "schemaVersion": 1,
+  "date": "2026-12-16",
+  "updatedAt": "2026-11-18T18:53:23.366Z",
+  "source": "https://www.kinomuza.pl/repertoire/day/",
+  "day": {
+    "id": "28",
+    "date": "16.12",
+    "now": "2026-11-18 19:51:55",
+    "info": [],
+    "repertoire": [
+      {
+        "hour": "15:00",
+        "datetime": "2026-12-16 15:00:00",
+        "title": "Witajcie w Laponii",
+        "originalTitle": "Welcome to Lapland",
+        "director": "David Serrano",
+        "year": "2026",
+        "premiereDate": "2026-12-04",
+        "duration": "89",
+        "countries": "Hiszpania ",
+        "shortDesc": "<p>Magia rodzinnych świąt, dwie siostry, niewygodna prawda, zero filtrów… i ta jedna noc, która zmieni wszystko! Absolutnie wszystko!</p>\n",
+        "lang": "",
+        "subtitlesLang": "pl",
+        "age": "16",
+        "credits": "reż. David Serrano <br>Hiszpania  <br>2026,89’",
+        "desc": "<p>Magia rodzinnych świąt, dwie siostry, niewygodna prawda, zero filtrów… i ta jedna noc, która zmieni wszystko! Absolutnie wszystko!</p>\n",
+        "hall": "1",
+        "movieLink": "https://www.kinomuza.pl/movie/witajcie-w-laponii/",
+        "ticketLink": "https://estradapoznan.bilety24.pl/kup-bilety/?id=1022962#total",
+        "prePremier": false,
+        "tape35mm": false,
+        "ad": false,
+        "deaf": false,
+        "ticketPrice": "",
+        "ticketHalfPrice": "",
+        "alt": "Witajcie w Laponii",
+        "thumb": "https://www.kinomuza.pl/content/uploads/2026/11/witajcie-w-laponi-2-800x450.jpg",
+        "cycle": "senior w muzie",
+        "description": "Magia rodzinnych świąt, dwie siostry, niewygodna prawda, zero filtrów… i ta jedna noc, która zmieni wszystko! Absolutnie wszystko!",
+        "shortDescription": "Magia rodzinnych świąt, dwie siostry, niewygodna prawda, zero filtrów… i ta jedna noc, która zmieni wszystko! Absolutnie wszystko!",
+        "genres": [
+          "Komedia",
+          "Dramat"
+        ],
+        "external": {
+          "imdb": {
+            "id": "tt36932751",
+            "url": "https://www.imdb.com/title/tt36932751/",
+            "rating": 6.2,
+            "votes": 359
+          },
+          "filmweb": {
+            "id": "10111691",
+            "url": "https://www.filmweb.pl/film/Witajcie+w+Laponii-2026-10111691",
+            "genres": [
+              "Komedia",
+              "Dramat"
+            ],
+            "rating": 6.8,
+            "votes": 4
+          },
+          "rottenTomatoes": null
+        },
+        "longDescription": "Magia rodzinnych świąt, dwie siostry, niewygodna prawda, zero filtrów… i ta jedna noc, która zmieni wszystko! Absolutnie wszystko!\n\nNuria, która od kilku lat mieszka z rodziną w Laponii, zaprasza na Boże Narodzenie swoją siostrę Monicę wraz z mężem i synem. Marzy o magicznych świętach w śnieżnej scenerii, pełnych rodzinnego ciepła i bliskości. Wszystko idzie zgodnie z planem, aż do momentu, kiedy wybucha spór o to, czy dzieciom należy mówić prawdę o Świętym Mikołaju.\n\nNiewinna z pozoru uwaga, jaka pada z ust jednego z dzieci, szybko zamienia się w pełną emocji rodzinną awanturę. Na wierzch wychodzą dawne urazy, ukrywane frustracje, różnice kulturowe między gorącym hiszpańskim temperamentem a północ­nym spokojem oraz odmienne poglądy na wychowanie dzieci. Czy tę lawinę da się jeszcze zatrzymać?\n\nFilm Davida Serrano oparty jest na popularnej sztuce teatralnej. Hiszpański reżyser z humorem i czułością przygląda się niełatwym relacjom rodzinnym, zderzeniu dwóch kultur oraz cenie, jaką przychodzi nam czasem zapłacić za szczerość.",
+        "poster": "media/posters/8c0e48c43161d8d0f2a4.webp"
+      }
+    ]
+  }
+}

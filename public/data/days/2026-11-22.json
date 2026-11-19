@@ -1,12 +1,12 @@
 {
   "schemaVersion": 1,
   "date": "2026-11-22",
-  "updatedAt": "2026-11-18T18:53:23.366Z",
+  "updatedAt": "2026-11-19T19:01:18.901Z",
   "source": "https://www.kinomuza.pl/repertoire/day/",
   "day": {
-    "id": "04",
+    "id": "03",
     "date": "22.11",
-    "now": "2026-11-18 19:49:26",
+    "now": "2026-11-19 19:58:04",
     "info": [],
     "repertoire": [
       {
@@ -49,7 +49,7 @@
             "id": "tt36841161",
             "url": "https://www.imdb.com/title/tt36841161/",
             "rating": 7.1,
-            "votes": 4019
+            "votes": 4049
           },
           "filmweb": {
             "id": "10101144",
@@ -59,7 +59,7 @@
               "Familijny"
             ],
             "rating": 6.9,
-            "votes": 1093
+            "votes": 1100
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/shaun_the_sheep_the_beast_of_mossy_bottom",
@@ -218,7 +218,7 @@
             "id": "tt37082105",
             "url": "https://www.imdb.com/title/tt37082105/",
             "rating": 7.7,
-            "votes": 1736
+            "votes": 1741
           },
           "filmweb": {
             "id": "10057628",
@@ -228,7 +228,7 @@
               "Dramat obyczajowy"
             ],
             "rating": 7.7,
-            "votes": 42479
+            "votes": 42653
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/lalka",
@@ -292,7 +292,7 @@
               "Dokumentalny"
             ],
             "rating": 7.5,
-            "votes": 465
+            "votes": 475
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/the_golden_spurtle",
@@ -340,25 +340,25 @@
         "description": "Akcja, osadzona w Anglii epoki georgiańskiej, podąża za losami zamożnego pana Dashwooda, który umiera, pozostawiając swoją drugą żonę oraz trzy córki w trudnej sytuacji finansowej.",
         "shortDescription": "Akcja, osadzona w Anglii epoki georgiańskiej, podąża za losami zamożnego pana Dashwooda, który umiera, pozostawiając swoją drugą żonę oraz trzy córki w trudnej sytuacji finansowej.",
         "genres": [
-          "Melodramat",
-          "Kostiumowy"
+          "Kostiumowy",
+          "Melodramat"
         ],
         "external": {
           "imdb": {
             "id": "tt13609648",
             "url": "https://www.imdb.com/title/tt13609648/",
             "rating": 7.2,
-            "votes": 12711
+            "votes": 12824
           },
           "filmweb": {
             "id": "10087170",
             "url": "https://www.filmweb.pl/film/Rozwa%C5%BCna+i+romantyczna-2026-10087170",
             "genres": [
-              "Melodramat",
-              "Kostiumowy"
+              "Kostiumowy",
+              "Melodramat"
             ],
             "rating": 7.1,
-            "votes": 3809
+            "votes": 3824
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/sense_and_sensibility_2026",
@@ -368,7 +368,7 @@
               "Georgia Oakley"
             ],
             "criticsRating": null,
-            "criticsVotes": 142,
+            "criticsVotes": 143,
             "audienceRating": null,
             "audienceVotes": null
           }
@@ -413,8 +413,8 @@
           "imdb": {
             "id": "tt35571123",
             "url": "https://www.imdb.com/title/tt35571123/",
-            "rating": 6.4,
-            "votes": 49
+            "rating": 6.5,
+            "votes": 51
           },
           "filmweb": {
             "id": "10065018",
@@ -423,8 +423,8 @@
               "Biograficzny",
               "Dramat obyczajowy"
             ],
-            "rating": 6.3,
-            "votes": 1521
+            "rating": 6.4,
+            "votes": 1594
           },
           "rottenTomatoes": null
         },
@@ -467,8 +467,8 @@
           "imdb": {
             "id": "tt34888026",
             "url": "https://www.imdb.com/title/tt34888026/",
-            "rating": 7.2,
-            "votes": 321
+            "rating": 7.3,
+            "votes": 324
           },
           "filmweb": {
             "id": "10130614",
@@ -477,7 +477,7 @@
               "Dramat"
             ],
             "rating": 6.2,
-            "votes": 100
+            "votes": 101
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/woman_unknown",
@@ -532,8 +532,8 @@
           "imdb": {
             "id": "tt35571123",
             "url": "https://www.imdb.com/title/tt35571123/",
-            "rating": 6.4,
-            "votes": 49
+            "rating": 6.5,
+            "votes": 51
           },
           "filmweb": {
             "id": "10065018",
@@ -542,8 +542,8 @@
               "Biograficzny",
               "Dramat obyczajowy"
             ],
-            "rating": 6.3,
-            "votes": 1521
+            "rating": 6.4,
+            "votes": 1594
           },
           "rottenTomatoes": null
         },
@@ -588,7 +588,7 @@
             "id": "tt15799564",
             "url": "https://www.imdb.com/title/tt15799564/",
             "rating": 8.1,
-            "votes": 20739
+            "votes": 21986
           },
           "filmweb": {
             "id": "10075493",
@@ -597,8 +597,8 @@
               "Dramat",
               "Thriller"
             ],
-            "rating": 8,
-            "votes": 2997
+            "rating": 7.9,
+            "votes": 3408
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/wild_horse_nine",
@@ -608,7 +608,7 @@
               "Martin McDonagh"
             ],
             "criticsRating": null,
-            "criticsVotes": 261,
+            "criticsVotes": 266,
             "audienceRating": null,
             "audienceVotes": null
           }
@@ -653,7 +653,7 @@
             "id": "tt33451014",
             "url": "https://www.imdb.com/title/tt33451014/",
             "rating": 7.2,
-            "votes": 4427
+            "votes": 4447
           },
           "filmweb": {
             "id": "10084250",
@@ -662,7 +662,7 @@
               "Dramat"
             ],
             "rating": 7.2,
-            "votes": 891
+            "votes": 893
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/the_beloved_2026",
@@ -672,7 +672,7 @@
               "Rodrigo Sorogoyen"
             ],
             "criticsRating": null,
-            "criticsVotes": 45,
+            "criticsVotes": 46,
             "audienceRating": null,
             "audienceVotes": null
           }
@@ -718,7 +718,7 @@
             "id": "tt15799564",
             "url": "https://www.imdb.com/title/tt15799564/",
             "rating": 8.1,
-            "votes": 20739
+            "votes": 21986
           },
           "filmweb": {
             "id": "10075493",
@@ -727,8 +727,8 @@
               "Dramat",
               "Thriller"
             ],
-            "rating": 8,
-            "votes": 2997
+            "rating": 7.9,
+            "votes": 3408
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/wild_horse_nine",
@@ -738,7 +738,7 @@
               "Martin McDonagh"
             ],
             "criticsRating": null,
-            "criticsVotes": 261,
+            "criticsVotes": 266,
             "audienceRating": null,
             "audienceVotes": null
           }
@@ -783,7 +783,7 @@
             "id": "tt44766123",
             "url": "https://www.imdb.com/title/tt44766123/",
             "rating": 8.4,
-            "votes": 7642
+            "votes": 7699
           },
           "filmweb": {
             "id": "10133039",
@@ -792,7 +792,7 @@
               "Dokumentalny"
             ],
             "rating": 8.1,
-            "votes": 1185
+            "votes": 1197
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/naza",
@@ -803,7 +803,7 @@
               "Rachel Szor"
             ],
             "criticsRating": null,
-            "criticsVotes": 82,
+            "criticsVotes": 83,
             "audienceRating": null,
             "audienceVotes": null
           }
@@ -848,7 +848,7 @@
             "id": "tt38468551",
             "url": "https://www.imdb.com/title/tt38468551/",
             "rating": 5.5,
-            "votes": 87
+            "votes": 88
           },
           "filmweb": {
             "id": "10121239",
@@ -857,7 +857,7 @@
               "Dramat"
             ],
             "rating": 5.7,
-            "votes": 385
+            "votes": 395
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/la_perra",
@@ -912,7 +912,7 @@
             "id": "tt25399154",
             "url": "https://www.imdb.com/title/tt25399154/",
             "rating": 7.5,
-            "votes": 3656
+            "votes": 3680
           },
           "filmweb": {
             "id": "10113205",
@@ -921,7 +921,7 @@
               "Dramat historyczny"
             ],
             "rating": 7.2,
-            "votes": 2564
+            "votes": 2580
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/rose_2026",
@@ -931,7 +931,7 @@
               "Markus Schleinzer"
             ],
             "criticsRating": null,
-            "criticsVotes": 36,
+            "criticsVotes": 38,
             "audienceRating": null,
             "audienceVotes": null
           }
@@ -977,7 +977,7 @@
             "id": "tt15799564",
             "url": "https://www.imdb.com/title/tt15799564/",
             "rating": 8.1,
-            "votes": 20739
+            "votes": 21986
           },
           "filmweb": {
             "id": "10075493",
@@ -986,8 +986,8 @@
               "Dramat",
               "Thriller"
             ],
-            "rating": 8,
-            "votes": 2997
+            "rating": 7.9,
+            "votes": 3408
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/wild_horse_nine",
@@ -997,7 +997,7 @@
               "Martin McDonagh"
             ],
             "criticsRating": null,
-            "criticsVotes": 261,
+            "criticsVotes": 266,
             "audienceRating": null,
             "audienceVotes": null
           }

@@ -1,12 +1,12 @@
 {
   "schemaVersion": 1,
   "date": "2026-12-16",
-  "updatedAt": "2026-11-18T18:53:23.366Z",
+  "updatedAt": "2026-11-19T19:01:18.901Z",
   "source": "https://www.kinomuza.pl/repertoire/day/",
   "day": {
-    "id": "28",
+    "id": "27",
     "date": "16.12",
-    "now": "2026-11-18 19:51:55",
+    "now": "2026-11-19 20:00:21",
     "info": [],
     "repertoire": [
       {
@@ -63,7 +63,7 @@
           "rottenTomatoes": null
         },
         "longDescription": "Magia rodzinnych świąt, dwie siostry, niewygodna prawda, zero filtrów… i ta jedna noc, która zmieni wszystko! Absolutnie wszystko!\n\nNuria, która od kilku lat mieszka z rodziną w Laponii, zaprasza na Boże Narodzenie swoją siostrę Monicę wraz z mężem i synem. Marzy o magicznych świętach w śnieżnej scenerii, pełnych rodzinnego ciepła i bliskości. Wszystko idzie zgodnie z planem, aż do momentu, kiedy wybucha spór o to, czy dzieciom należy mówić prawdę o Świętym Mikołaju.\n\nNiewinna z pozoru uwaga, jaka pada z ust jednego z dzieci, szybko zamienia się w pełną emocji rodzinną awanturę. Na wierzch wychodzą dawne urazy, ukrywane frustracje, różnice kulturowe między gorącym hiszpańskim temperamentem a północ­nym spokojem oraz odmienne poglądy na wychowanie dzieci. Czy tę lawinę da się jeszcze zatrzymać?\n\nFilm Davida Serrano oparty jest na popularnej sztuce teatralnej. Hiszpański reżyser z humorem i czułością przygląda się niełatwym relacjom rodzinnym, zderzeniu dwóch kultur oraz cenie, jaką przychodzi nam czasem zapłacić za szczerość.",
-        "poster": "media/posters/8c0e48c43161d8d0f2a4.webp"
+        "poster": "media/posters/10667ec33b53fbac9c30.webp"
       }
     ]
   }

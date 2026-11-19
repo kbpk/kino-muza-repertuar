@@ -1,12 +1,12 @@
 {
   "schemaVersion": 1,
   "date": "2026-11-19",
-  "updatedAt": "2026-11-18T18:53:23.366Z",
+  "updatedAt": "2026-11-19T19:01:18.901Z",
   "source": "https://www.kinomuza.pl/repertoire/day/",
   "day": {
-    "id": "01",
+    "id": "00",
     "date": "19.11",
-    "now": "2026-11-18 19:49:02",
+    "now": "2026-11-19 19:57:44",
     "info": [],
     "repertoire": [
       {
@@ -520,7 +520,7 @@
             "id": "tt45368240",
             "url": "https://www.imdb.com/title/tt45368240/",
             "rating": 9,
-            "votes": 36483
+            "votes": 37037
           },
           "filmweb": {
             "id": "10133825",
@@ -529,7 +529,7 @@
               "Dokumentalny"
             ],
             "rating": 8.2,
-            "votes": 23478
+            "votes": 24036
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/you_can_see_everything",
@@ -540,7 +540,7 @@
               "Lance Oppenheim"
             ],
             "criticsRating": null,
-            "criticsVotes": 233,
+            "criticsVotes": 235,
             "audienceRating": null,
             "audienceVotes": null
           }
@@ -587,7 +587,7 @@
             "id": "tt15799564",
             "url": "https://www.imdb.com/title/tt15799564/",
             "rating": 8.1,
-            "votes": 20739
+            "votes": 21986
           },
           "filmweb": {
             "id": "10075493",
@@ -596,8 +596,8 @@
               "Dramat",
               "Thriller"
             ],
-            "rating": 8,
-            "votes": 2997
+            "rating": 7.9,
+            "votes": 3408
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/wild_horse_nine",
@@ -607,7 +607,7 @@
               "Martin McDonagh"
             ],
             "criticsRating": null,
-            "criticsVotes": 261,
+            "criticsVotes": 266,
             "audienceRating": null,
             "audienceVotes": null
           }
@@ -653,7 +653,7 @@
             "id": "tt38468551",
             "url": "https://www.imdb.com/title/tt38468551/",
             "rating": 5.5,
-            "votes": 87
+            "votes": 88
           },
           "filmweb": {
             "id": "10121239",
@@ -662,7 +662,7 @@
               "Dramat"
             ],
             "rating": 5.7,
-            "votes": 385
+            "votes": 395
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/la_perra",

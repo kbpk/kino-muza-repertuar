@@ -1,12 +1,12 @@
 {
   "schemaVersion": 1,
   "date": "2026-11-28",
-  "updatedAt": "2026-11-18T18:53:23.366Z",
+  "updatedAt": "2026-11-19T19:01:18.901Z",
   "source": "https://www.kinomuza.pl/repertoire/day/",
   "day": {
-    "id": "10",
+    "id": "09",
     "date": "28.11",
-    "now": "2026-11-18 19:50:24",
+    "now": "2026-11-19 19:58:58",
     "info": [],
     "repertoire": [
       {
@@ -40,23 +40,23 @@
         "shortDescription": "W niedalekiej przyszłości wojna w Ukrainie dobiegła końca. Roman, reżyser filmowy, pozostaje w kraju, podczas gdy jego żona i córka rozpoczynają nowe życie w Wiedniu. Próbuje wrócić do pracy i jednocześnie odbudować relację z rodziną.",
         "genres": [
           "Dramat",
-          "Wojenny",
-          "Komedia"
+          "Komedia",
+          "Wojenny"
         ],
         "external": {
           "imdb": {
             "id": "tt37661902",
             "url": "https://www.imdb.com/title/tt37661902/",
             "rating": 6.8,
-            "votes": 115
+            "votes": 116
           },
           "filmweb": {
             "id": "10090787",
             "url": "https://www.filmweb.pl/film/Za+zwyci%C4%99stwo!-2025-10090787",
             "genres": [
               "Dramat",
-              "Wojenny",
-              "Komedia"
+              "Komedia",
+              "Wojenny"
             ],
             "rating": 6.4,
             "votes": 93

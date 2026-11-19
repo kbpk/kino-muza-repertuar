@@ -1,12 +1,12 @@
 {
   "schemaVersion": 1,
   "date": "2026-12-06",
-  "updatedAt": "2026-11-18T18:53:23.366Z",
+  "updatedAt": "2026-11-19T19:01:18.901Z",
   "source": "https://www.kinomuza.pl/repertoire/day/",
   "day": {
-    "id": "18",
+    "id": "17",
     "date": "06.12",
-    "now": "2026-11-18 19:51:24",
+    "now": "2026-11-19 19:59:31",
     "info": [],
     "repertoire": [
       {
@@ -52,7 +52,7 @@
             "id": "tt0388473",
             "url": "https://www.imdb.com/title/tt0388473/",
             "rating": 7.8,
-            "votes": 56313
+            "votes": 56321
           },
           "filmweb": {
             "id": "107897",

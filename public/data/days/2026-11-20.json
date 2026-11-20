@@ -1,12 +1,12 @@
 {
   "schemaVersion": 1,
   "date": "2026-11-20",
-  "updatedAt": "2026-11-19T19:01:18.901Z",
+  "updatedAt": "2026-11-20T18:36:50.557Z",
   "source": "https://www.kinomuza.pl/repertoire/day/",
   "day": {
-    "id": "01",
+    "id": "00",
     "date": "20.11",
-    "now": "2026-11-19 19:57:45",
+    "now": "2026-11-20 19:34:25",
     "info": [],
     "repertoire": [
       {
@@ -556,7 +556,7 @@
               "Thriller"
             ],
             "rating": 7.9,
-            "votes": 3408
+            "votes": 3663
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/wild_horse_nine",
@@ -566,7 +566,7 @@
               "Martin McDonagh"
             ],
             "criticsRating": null,
-            "criticsVotes": 266,
+            "criticsVotes": 267,
             "audienceRating": null,
             "audienceVotes": null
           }
@@ -620,7 +620,7 @@
               "Dokumentalny"
             ],
             "rating": 8.2,
-            "votes": 24036
+            "votes": 24512
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/you_can_see_everything",
@@ -631,7 +631,7 @@
               "Lance Oppenheim"
             ],
             "criticsRating": null,
-            "criticsVotes": 235,
+            "criticsVotes": 241,
             "audienceRating": null,
             "audienceVotes": null
           }
@@ -685,7 +685,7 @@
               "Dramat"
             ],
             "rating": 5.7,
-            "votes": 395
+            "votes": 401
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/la_perra",

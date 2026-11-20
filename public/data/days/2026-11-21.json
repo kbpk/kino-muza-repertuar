@@ -1,12 +1,12 @@
 {
   "schemaVersion": 1,
   "date": "2026-11-21",
-  "updatedAt": "2026-11-19T19:01:18.901Z",
+  "updatedAt": "2026-11-20T18:36:50.557Z",
   "source": "https://www.kinomuza.pl/repertoire/day/",
   "day": {
-    "id": "02",
+    "id": "01",
     "date": "21.11",
-    "now": "2026-11-19 19:58:02",
+    "now": "2026-11-20 19:34:26",
     "info": [],
     "repertoire": [
       {
@@ -81,8 +81,8 @@
         "description": "9-letnia Lucy jedzie na wakacje do swojej mamy, która prowadzi wykopaliska archeologiczne. Francuskie miasteczko Bectoile, choć małe i niepozorne, kryje wiele sekretów.",
         "shortDescription": "9-letnia Lucy jedzie na wakacje do swojej mamy, która prowadzi wykopaliska archeologiczne. Francuskie miasteczko Bectoile, choć małe i niepozorne, kryje wiele sekretów.",
         "genres": [
-          "Animacja",
-          "Przygodowy"
+          "Przygodowy",
+          "Animacja"
         ],
         "external": {
           "imdb": {
@@ -95,11 +95,11 @@
             "id": "10100344",
             "url": "https://www.filmweb.pl/film/Tajemnica+%C5%9Bpiewaj%C4%85cych+ptak%C3%B3w-2025-10100344",
             "genres": [
-              "Animacja",
-              "Przygodowy"
+              "Przygodowy",
+              "Animacja"
             ],
-            "rating": 7.2,
-            "votes": 16
+            "rating": 7.3,
+            "votes": 17
           },
           "rottenTomatoes": null
         },
@@ -154,7 +154,7 @@
               "Dramat obyczajowy"
             ],
             "rating": 7.7,
-            "votes": 42653
+            "votes": 42800
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/lalka",
@@ -218,7 +218,7 @@
               "Dokumentalny"
             ],
             "rating": 8.2,
-            "votes": 24036
+            "votes": 24512
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/you_can_see_everything",
@@ -229,7 +229,7 @@
               "Lance Oppenheim"
             ],
             "criticsRating": null,
-            "criticsVotes": 235,
+            "criticsVotes": 241,
             "audienceRating": null,
             "audienceVotes": null
           }
@@ -283,7 +283,7 @@
               "Dramat obyczajowy"
             ],
             "rating": 6.1,
-            "votes": 43
+            "votes": 44
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/yakushimas_illusion",
@@ -347,7 +347,7 @@
               "Dokumentalny"
             ],
             "rating": 8.2,
-            "votes": 24036
+            "votes": 24512
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/you_can_see_everything",
@@ -358,7 +358,7 @@
               "Lance Oppenheim"
             ],
             "criticsRating": null,
-            "criticsVotes": 235,
+            "criticsVotes": 241,
             "audienceRating": null,
             "audienceVotes": null
           }
@@ -414,7 +414,7 @@
               "Dramat obyczajowy"
             ],
             "rating": 6.4,
-            "votes": 1594
+            "votes": 1663
           },
           "rottenTomatoes": null
         },
@@ -469,7 +469,7 @@
               "Melodramat"
             ],
             "rating": 7.1,
-            "votes": 3824
+            "votes": 3845
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/sense_and_sensibility_2026",
@@ -535,7 +535,7 @@
               "Thriller"
             ],
             "rating": 7.9,
-            "votes": 3408
+            "votes": 3663
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/wild_horse_nine",
@@ -545,7 +545,7 @@
               "Martin McDonagh"
             ],
             "criticsRating": null,
-            "criticsVotes": 266,
+            "criticsVotes": 267,
             "audienceRating": null,
             "audienceVotes": null
           }
@@ -601,7 +601,7 @@
               "Dramat obyczajowy"
             ],
             "rating": 6.4,
-            "votes": 1594
+            "votes": 1663
           },
           "rottenTomatoes": null
         },
@@ -654,7 +654,7 @@
               "Dramat"
             ],
             "rating": 5.7,
-            "votes": 395
+            "votes": 401
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/la_perra",
@@ -718,7 +718,7 @@
               "Dokumentalny"
             ],
             "rating": 8.2,
-            "votes": 24036
+            "votes": 24512
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/you_can_see_everything",
@@ -729,7 +729,7 @@
               "Lance Oppenheim"
             ],
             "criticsRating": null,
-            "criticsVotes": 235,
+            "criticsVotes": 241,
             "audienceRating": null,
             "audienceVotes": null
           }
@@ -785,7 +785,7 @@
               "Dramat"
             ],
             "rating": 6.3,
-            "votes": 13142
+            "votes": 13209
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/primetime",
@@ -795,7 +795,7 @@
               "Lance Oppenheim"
             ],
             "criticsRating": null,
-            "criticsVotes": 279,
+            "criticsVotes": 280,
             "audienceRating": null,
             "audienceVotes": null
           }
@@ -851,7 +851,7 @@
               "Thriller"
             ],
             "rating": 7.9,
-            "votes": 3408
+            "votes": 3663
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/wild_horse_nine",
@@ -861,7 +861,7 @@
               "Martin McDonagh"
             ],
             "criticsRating": null,
-            "criticsVotes": 266,
+            "criticsVotes": 267,
             "audienceRating": null,
             "audienceVotes": null
           }

@@ -1,12 +1,12 @@
 {
   "schemaVersion": 1,
   "date": "2026-12-16",
-  "updatedAt": "2026-11-19T19:01:18.901Z",
+  "updatedAt": "2026-11-20T18:36:50.557Z",
   "source": "https://www.kinomuza.pl/repertoire/day/",
   "day": {
-    "id": "27",
+    "id": "26",
     "date": "16.12",
-    "now": "2026-11-19 20:00:21",
+    "now": "2026-11-20 19:36:29",
     "info": [],
     "repertoire": [
       {
@@ -40,8 +40,8 @@
         "description": "Magia rodzinnych świąt, dwie siostry, niewygodna prawda, zero filtrów… i ta jedna noc, która zmieni wszystko! Absolutnie wszystko!",
         "shortDescription": "Magia rodzinnych świąt, dwie siostry, niewygodna prawda, zero filtrów… i ta jedna noc, która zmieni wszystko! Absolutnie wszystko!",
         "genres": [
-          "Komedia",
-          "Dramat"
+          "Dramat",
+          "Komedia"
         ],
         "external": {
           "imdb": {
@@ -54,8 +54,8 @@
             "id": "10111691",
             "url": "https://www.filmweb.pl/film/Witajcie+w+Laponii-2026-10111691",
             "genres": [
-              "Komedia",
-              "Dramat"
+              "Dramat",
+              "Komedia"
             ],
             "rating": 6.8,
             "votes": 4

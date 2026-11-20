@@ -1,12 +1,12 @@
 {
   "schemaVersion": 1,
   "date": "2026-11-24",
-  "updatedAt": "2026-11-19T19:01:18.901Z",
+  "updatedAt": "2026-11-20T18:36:50.557Z",
   "source": "https://www.kinomuza.pl/repertoire/day/",
   "day": {
-    "id": "05",
+    "id": "04",
     "date": "24.11",
-    "now": "2026-11-19 19:58:07",
+    "now": "2026-11-20 19:34:27",
     "info": [],
     "repertoire": [
       {
@@ -55,7 +55,7 @@
               "Dramat historyczny"
             ],
             "rating": 7.2,
-            "votes": 2580
+            "votes": 2588
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/rose_2026",
@@ -65,7 +65,7 @@
               "Markus Schleinzer"
             ],
             "criticsRating": null,
-            "criticsVotes": 38,
+            "criticsVotes": 39,
             "audienceRating": null,
             "audienceVotes": null
           }
@@ -121,7 +121,7 @@
               "Thriller"
             ],
             "rating": 7.9,
-            "votes": 3408
+            "votes": 3663
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/wild_horse_nine",
@@ -131,7 +131,7 @@
               "Martin McDonagh"
             ],
             "criticsRating": null,
-            "criticsVotes": 266,
+            "criticsVotes": 267,
             "audienceRating": null,
             "audienceVotes": null
           }
@@ -187,7 +187,7 @@
               "Dramat obyczajowy"
             ],
             "rating": 6.4,
-            "votes": 1594
+            "votes": 1663
           },
           "rottenTomatoes": null
         },
@@ -242,7 +242,7 @@
               "Dramat obyczajowy"
             ],
             "rating": 6.4,
-            "votes": 1594
+            "votes": 1663
           },
           "rottenTomatoes": null
         },
@@ -295,7 +295,7 @@
               "Dramat"
             ],
             "rating": 5.7,
-            "votes": 395
+            "votes": 401
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/la_perra",
@@ -359,7 +359,7 @@
               "Dokumentalny"
             ],
             "rating": 8.2,
-            "votes": 24036
+            "votes": 24512
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/you_can_see_everything",
@@ -370,7 +370,7 @@
               "Lance Oppenheim"
             ],
             "criticsRating": null,
-            "criticsVotes": 235,
+            "criticsVotes": 241,
             "audienceRating": null,
             "audienceVotes": null
           }
@@ -426,7 +426,7 @@
               "Thriller"
             ],
             "rating": 7.9,
-            "votes": 3408
+            "votes": 3663
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/wild_horse_nine",
@@ -436,7 +436,7 @@
               "Martin McDonagh"
             ],
             "criticsRating": null,
-            "criticsVotes": 266,
+            "criticsVotes": 267,
             "audienceRating": null,
             "audienceVotes": null
           }
@@ -492,7 +492,7 @@
               "Melodramat"
             ],
             "rating": 7.1,
-            "votes": 3824
+            "votes": 3845
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/sense_and_sensibility_2026",
@@ -561,7 +561,7 @@
               "Psychologiczny"
             ],
             "rating": 7.8,
-            "votes": 643337
+            "votes": 643348
           },
           "rottenTomatoes": null
         },
@@ -616,7 +616,7 @@
               "Thriller"
             ],
             "rating": 7.9,
-            "votes": 3408
+            "votes": 3663
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/wild_horse_nine",
@@ -626,7 +626,7 @@
               "Martin McDonagh"
             ],
             "criticsRating": null,
-            "criticsVotes": 266,
+            "criticsVotes": 267,
             "audienceRating": null,
             "audienceVotes": null
           }
@@ -680,7 +680,7 @@
               "Dramat obyczajowy"
             ],
             "rating": 6.1,
-            "votes": 43
+            "votes": 44
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/yakushimas_illusion",

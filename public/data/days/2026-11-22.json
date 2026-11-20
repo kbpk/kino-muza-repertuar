@@ -1,12 +1,12 @@
 {
   "schemaVersion": 1,
   "date": "2026-11-22",
-  "updatedAt": "2026-11-19T19:01:18.901Z",
+  "updatedAt": "2026-11-20T18:36:50.557Z",
   "source": "https://www.kinomuza.pl/repertoire/day/",
   "day": {
-    "id": "03",
+    "id": "02",
     "date": "22.11",
-    "now": "2026-11-19 19:58:04",
+    "now": "2026-11-20 19:34:26",
     "info": [],
     "repertoire": [
       {
@@ -41,8 +41,8 @@
         "description": "Uwielbiana seria wraca na wielki ekran &#8211; i to w jeszcze bardziej szalonej odsłonie! W tej przezabawnej kinowej przygodzie najsłynniejszy baranek świata zamienia się w… szalonego naukowca. Co może pójść nie tak?",
         "shortDescription": "Uwielbiana seria wraca na wielki ekran &#8211; i to w jeszcze bardziej szalonej odsłonie! W tej przezabawnej kinowej przygodzie najsłynniejszy baranek świata zamienia się w… szalonego naukowca. Co może pójść nie tak?",
         "genres": [
-          "Animacja",
-          "Familijny"
+          "Familijny",
+          "Animacja"
         ],
         "external": {
           "imdb": {
@@ -55,11 +55,11 @@
             "id": "10101144",
             "url": "https://www.filmweb.pl/film/Baranek+Shaun+i+kud%C5%82ata+bestia-2026-10101144",
             "genres": [
-              "Animacja",
-              "Familijny"
+              "Familijny",
+              "Animacja"
             ],
             "rating": 6.9,
-            "votes": 1100
+            "votes": 1103
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/shaun_the_sheep_the_beast_of_mossy_bottom",
@@ -70,7 +70,7 @@
               "Matthew Walker"
             ],
             "criticsRating": null,
-            "criticsVotes": 89,
+            "criticsVotes": 90,
             "audienceRating": null,
             "audienceVotes": null
           }
@@ -110,8 +110,8 @@
         "description": "9-letnia Lucy jedzie na wakacje do swojej mamy, która prowadzi wykopaliska archeologiczne. Francuskie miasteczko Bectoile, choć małe i niepozorne, kryje wiele sekretów.",
         "shortDescription": "9-letnia Lucy jedzie na wakacje do swojej mamy, która prowadzi wykopaliska archeologiczne. Francuskie miasteczko Bectoile, choć małe i niepozorne, kryje wiele sekretów.",
         "genres": [
-          "Animacja",
-          "Przygodowy"
+          "Przygodowy",
+          "Animacja"
         ],
         "external": {
           "imdb": {
@@ -124,11 +124,11 @@
             "id": "10100344",
             "url": "https://www.filmweb.pl/film/Tajemnica+%C5%9Bpiewaj%C4%85cych+ptak%C3%B3w-2025-10100344",
             "genres": [
-              "Animacja",
-              "Przygodowy"
+              "Przygodowy",
+              "Animacja"
             ],
-            "rating": 7.2,
-            "votes": 16
+            "rating": 7.3,
+            "votes": 17
           },
           "rottenTomatoes": null
         },
@@ -228,7 +228,7 @@
               "Dramat obyczajowy"
             ],
             "rating": 7.7,
-            "votes": 42653
+            "votes": 42800
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/lalka",
@@ -292,7 +292,7 @@
               "Dokumentalny"
             ],
             "rating": 7.5,
-            "votes": 475
+            "votes": 570
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/the_golden_spurtle",
@@ -358,7 +358,7 @@
               "Melodramat"
             ],
             "rating": 7.1,
-            "votes": 3824
+            "votes": 3845
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/sense_and_sensibility_2026",
@@ -424,7 +424,7 @@
               "Dramat obyczajowy"
             ],
             "rating": 6.4,
-            "votes": 1594
+            "votes": 1663
           },
           "rottenTomatoes": null
         },
@@ -477,7 +477,7 @@
               "Dramat"
             ],
             "rating": 6.2,
-            "votes": 101
+            "votes": 102
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/woman_unknown",
@@ -543,7 +543,7 @@
               "Dramat obyczajowy"
             ],
             "rating": 6.4,
-            "votes": 1594
+            "votes": 1663
           },
           "rottenTomatoes": null
         },
@@ -598,7 +598,7 @@
               "Thriller"
             ],
             "rating": 7.9,
-            "votes": 3408
+            "votes": 3663
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/wild_horse_nine",
@@ -608,7 +608,7 @@
               "Martin McDonagh"
             ],
             "criticsRating": null,
-            "criticsVotes": 266,
+            "criticsVotes": 267,
             "audienceRating": null,
             "audienceVotes": null
           }
@@ -662,7 +662,7 @@
               "Dramat"
             ],
             "rating": 7.2,
-            "votes": 893
+            "votes": 897
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/the_beloved_2026",
@@ -672,7 +672,7 @@
               "Rodrigo Sorogoyen"
             ],
             "criticsRating": null,
-            "criticsVotes": 46,
+            "criticsVotes": 47,
             "audienceRating": null,
             "audienceVotes": null
           }
@@ -728,7 +728,7 @@
               "Thriller"
             ],
             "rating": 7.9,
-            "votes": 3408
+            "votes": 3663
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/wild_horse_nine",
@@ -738,7 +738,7 @@
               "Martin McDonagh"
             ],
             "criticsRating": null,
-            "criticsVotes": 266,
+            "criticsVotes": 267,
             "audienceRating": null,
             "audienceVotes": null
           }
@@ -792,7 +792,7 @@
               "Dokumentalny"
             ],
             "rating": 8.1,
-            "votes": 1197
+            "votes": 1203
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/naza",
@@ -857,7 +857,7 @@
               "Dramat"
             ],
             "rating": 5.7,
-            "votes": 395
+            "votes": 401
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/la_perra",
@@ -921,7 +921,7 @@
               "Dramat historyczny"
             ],
             "rating": 7.2,
-            "votes": 2580
+            "votes": 2588
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/rose_2026",
@@ -931,7 +931,7 @@
               "Markus Schleinzer"
             ],
             "criticsRating": null,
-            "criticsVotes": 38,
+            "criticsVotes": 39,
             "audienceRating": null,
             "audienceVotes": null
           }
@@ -987,7 +987,7 @@
               "Thriller"
             ],
             "rating": 7.9,
-            "votes": 3408
+            "votes": 3663
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/wild_horse_nine",
@@ -997,7 +997,7 @@
               "Martin McDonagh"
             ],
             "criticsRating": null,
-            "criticsVotes": 266,
+            "criticsVotes": 267,
             "audienceRating": null,
             "audienceVotes": null
           }

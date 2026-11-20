@@ -1,12 +1,12 @@
 {
   "schemaVersion": 1,
   "date": "2026-12-09",
-  "updatedAt": "2026-11-19T19:01:18.901Z",
+  "updatedAt": "2026-11-20T18:36:50.557Z",
   "source": "https://www.kinomuza.pl/repertoire/day/",
   "day": {
-    "id": "20",
+    "id": "19",
     "date": "09.12",
-    "now": "2026-11-19 19:59:31",
+    "now": "2026-11-20 19:35:52",
     "info": [],
     "repertoire": [
       {
@@ -58,7 +58,7 @@
               "Dramat obyczajowy"
             ],
             "rating": 6.4,
-            "votes": 1594
+            "votes": 1663
           },
           "rottenTomatoes": null
         },

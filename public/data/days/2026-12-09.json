@@ -1,12 +1,12 @@
 {
   "schemaVersion": 1,
   "date": "2026-12-09",
-  "updatedAt": "2026-11-20T18:36:50.557Z",
+  "updatedAt": "2026-11-21T22:28:06.908Z",
   "source": "https://www.kinomuza.pl/repertoire/day/",
   "day": {
-    "id": "19",
+    "id": "18",
     "date": "09.12",
-    "now": "2026-11-20 19:35:52",
+    "now": "2026-11-21 23:24:55",
     "info": [],
     "repertoire": [
       {
@@ -48,7 +48,7 @@
             "id": "tt35571123",
             "url": "https://www.imdb.com/title/tt35571123/",
             "rating": 6.5,
-            "votes": 51
+            "votes": 57
           },
           "filmweb": {
             "id": "10065018",
@@ -58,7 +58,7 @@
               "Dramat obyczajowy"
             ],
             "rating": 6.4,
-            "votes": 1663
+            "votes": 1717
           },
           "rottenTomatoes": null
         },

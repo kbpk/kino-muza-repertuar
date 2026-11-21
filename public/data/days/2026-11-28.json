@@ -1,14 +1,54 @@
 {
   "schemaVersion": 1,
   "date": "2026-11-28",
-  "updatedAt": "2026-11-20T18:36:50.557Z",
+  "updatedAt": "2026-11-21T22:28:06.908Z",
   "source": "https://www.kinomuza.pl/repertoire/day/",
   "day": {
-    "id": "08",
+    "id": "07",
     "date": "28.11",
-    "now": "2026-11-20 19:34:28",
+    "now": "2026-11-21 23:22:18",
     "info": [],
     "repertoire": [
+      {
+        "hour": "11:00",
+        "datetime": "2026-11-28 11:00:00",
+        "title": "Poranek rodzinny z Zakamarkami | Zima Mamy Mu",
+        "originalTitle": "",
+        "director": "Christian Ryltenius",
+        "year": "2023",
+        "premiereDate": "",
+        "duration": "67",
+        "countries": "Szwecja",
+        "shortDesc": "<p>Mama Mu nie jest taka jak wszystkie krowy. Kiedy inne zwierzęta grzecznie żują trawę, ona wpada na coraz to nowsze pomysły! Teraz zamarzył jej się zimowy muuusical, ale najpierw trzeba wyplątać się z nieprzewidzianych tarapatów…</p>\n",
+        "lang": "",
+        "subtitlesLang": "",
+        "age": "4",
+        "credits": "reż. Christian Ryltenius <br>Szwecja <br>2023,67’",
+        "desc": "<p>Mama Mu nie jest taka jak wszystkie krowy. Kiedy inne zwierzęta grzecznie żują trawę, ona wpada na coraz to nowsze pomysły! Teraz zamarzył jej się zimowy muuusical, ale najpierw trzeba wyplątać się z nieprzewidzianych tarapatów…</p>\n",
+        "hall": "1",
+        "movieLink": "https://www.kinomuza.pl/movie/poranek-rodzinny-zima-mamy-mu/",
+        "ticketLink": "https://estradapoznan.bilety24.pl/kup-bilety/?id=1023278",
+        "prePremier": false,
+        "tape35mm": false,
+        "ad": false,
+        "deaf": false,
+        "ticketPrice": "",
+        "ticketHalfPrice": "",
+        "alt": "Poranek rodzinny z Zakamarkami | Zima Mamy Mu",
+        "thumb": "https://www.kinomuza.pl/content/uploads/2024/12/Zima-Mamy-Mu-10-800x450.jpg",
+        "dubbing": true,
+        "cycle": "poranki rodzinne",
+        "description": "Mama Mu nie jest taka jak wszystkie krowy. Kiedy inne zwierzęta grzecznie żują trawę, ona wpada na coraz to nowsze pomysły! Teraz zamarzył jej się zimowy muuusical, ale najpierw trzeba wyplątać się z nieprzewidzianych tarapatów…",
+        "shortDescription": "Mama Mu nie jest taka jak wszystkie krowy. Kiedy inne zwierzęta grzecznie żują trawę, ona wpada na coraz to nowsze pomysły! Teraz zamarzył jej się zimowy muuusical, ale najpierw trzeba wyplątać się z nieprzewidzianych tarapatów…",
+        "genres": [],
+        "external": {
+          "imdb": null,
+          "filmweb": null,
+          "rottenTomatoes": null
+        },
+        "longDescription": "Mama Mu nie jest taka jak wszystkie krowy. Kiedy inne zwierzęta grzecznie żują trawę, ona wpada na coraz to nowsze pomysły! Teraz zamarzył jej się zimowy muuusical, ale najpierw trzeba wyplątać się z nieprzewidzianych tarapatów…",
+        "poster": "media/posters/399d02342675d13a1b2c.webp"
+      },
       {
         "hour": "19:00",
         "datetime": "2026-11-28 19:00:00",
@@ -39,27 +79,27 @@
         "description": "W niedalekiej przyszłości wojna w Ukrainie dobiegła końca. Roman, reżyser filmowy, pozostaje w kraju, podczas gdy jego żona i córka rozpoczynają nowe życie w Wiedniu. Próbuje wrócić do pracy i jednocześnie odbudować relację z rodziną.",
         "shortDescription": "W niedalekiej przyszłości wojna w Ukrainie dobiegła końca. Roman, reżyser filmowy, pozostaje w kraju, podczas gdy jego żona i córka rozpoczynają nowe życie w Wiedniu. Próbuje wrócić do pracy i jednocześnie odbudować relację z rodziną.",
         "genres": [
-          "Wojenny",
+          "Dramat",
           "Komedia",
-          "Dramat"
+          "Wojenny"
         ],
         "external": {
           "imdb": {
             "id": "tt37661902",
             "url": "https://www.imdb.com/title/tt37661902/",
             "rating": 6.8,
-            "votes": 116
+            "votes": 119
           },
           "filmweb": {
             "id": "10090787",
             "url": "https://www.filmweb.pl/film/Za+zwyci%C4%99stwo!-2025-10090787",
             "genres": [
-              "Wojenny",
+              "Dramat",
               "Komedia",
-              "Dramat"
+              "Wojenny"
             ],
             "rating": 6.3,
-            "votes": 94
+            "votes": 95
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/to_the_victory",

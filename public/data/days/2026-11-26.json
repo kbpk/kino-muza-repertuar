@@ -1,12 +1,12 @@
 {
   "schemaVersion": 1,
   "date": "2026-11-26",
-  "updatedAt": "2026-11-20T18:36:50.557Z",
+  "updatedAt": "2026-11-21T22:28:06.908Z",
   "source": "https://www.kinomuza.pl/repertoire/day/",
   "day": {
-    "id": "06",
+    "id": "05",
     "date": "26.11",
-    "now": "2026-11-20 19:34:40",
+    "now": "2026-11-21 23:21:24",
     "info": [],
     "repertoire": [
       {
@@ -47,7 +47,7 @@
             "id": "tt25399154",
             "url": "https://www.imdb.com/title/tt25399154/",
             "rating": 7.5,
-            "votes": 3680
+            "votes": 3716
           },
           "filmweb": {
             "id": "10113205",
@@ -56,7 +56,7 @@
               "Dramat historyczny"
             ],
             "rating": 7.2,
-            "votes": 2588
+            "votes": 2598
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/rose_2026",
@@ -113,7 +113,7 @@
             "id": "tt35571123",
             "url": "https://www.imdb.com/title/tt35571123/",
             "rating": 6.5,
-            "votes": 51
+            "votes": 57
           },
           "filmweb": {
             "id": "10065018",
@@ -123,7 +123,7 @@
               "Dramat obyczajowy"
             ],
             "rating": 6.4,
-            "votes": 1663
+            "votes": 1717
           },
           "rottenTomatoes": null
         },
@@ -176,8 +176,8 @@
             "genres": [
               "Dramat obyczajowy"
             ],
-            "rating": 6.1,
-            "votes": 44
+            "rating": 6,
+            "votes": 52
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/yakushimas_illusion",
@@ -234,7 +234,7 @@
             "id": "tt35571123",
             "url": "https://www.imdb.com/title/tt35571123/",
             "rating": 6.5,
-            "votes": 51
+            "votes": 57
           },
           "filmweb": {
             "id": "10065018",
@@ -244,7 +244,7 @@
               "Dramat obyczajowy"
             ],
             "rating": 6.4,
-            "votes": 1663
+            "votes": 1717
           },
           "rottenTomatoes": null
         },
@@ -290,7 +290,7 @@
             "id": "tt15799564",
             "url": "https://www.imdb.com/title/tt15799564/",
             "rating": 8.1,
-            "votes": 21986
+            "votes": 23622
           },
           "filmweb": {
             "id": "10075493",
@@ -299,8 +299,8 @@
               "Dramat",
               "Thriller"
             ],
-            "rating": 7.9,
-            "votes": 3663
+            "rating": 8,
+            "votes": 3989
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/wild_horse_nine",
@@ -310,7 +310,7 @@
               "Martin McDonagh"
             ],
             "criticsRating": null,
-            "criticsVotes": 267,
+            "criticsVotes": 270,
             "audienceRating": null,
             "audienceVotes": null
           }
@@ -356,7 +356,7 @@
             "id": "tt38468551",
             "url": "https://www.imdb.com/title/tt38468551/",
             "rating": 5.5,
-            "votes": 88
+            "votes": 91
           },
           "filmweb": {
             "id": "10121239",
@@ -365,7 +365,7 @@
               "Dramat"
             ],
             "rating": 5.7,
-            "votes": 401
+            "votes": 402
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/la_perra",
@@ -422,7 +422,7 @@
             "id": "tt15799564",
             "url": "https://www.imdb.com/title/tt15799564/",
             "rating": 8.1,
-            "votes": 21986
+            "votes": 23622
           },
           "filmweb": {
             "id": "10075493",
@@ -431,8 +431,8 @@
               "Dramat",
               "Thriller"
             ],
-            "rating": 7.9,
-            "votes": 3663
+            "rating": 8,
+            "votes": 3989
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/wild_horse_nine",
@@ -442,7 +442,7 @@
               "Martin McDonagh"
             ],
             "criticsRating": null,
-            "criticsVotes": 267,
+            "criticsVotes": 270,
             "audienceRating": null,
             "audienceVotes": null
           }
@@ -489,7 +489,7 @@
             "id": "tt13609648",
             "url": "https://www.imdb.com/title/tt13609648/",
             "rating": 7.2,
-            "votes": 12824
+            "votes": 13039
           },
           "filmweb": {
             "id": "10087170",
@@ -499,7 +499,7 @@
               "Melodramat"
             ],
             "rating": 7.1,
-            "votes": 3845
+            "votes": 3865
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/sense_and_sensibility_2026",
@@ -555,7 +555,7 @@
             "id": "tt39442922",
             "url": "https://www.imdb.com/title/tt39442922/",
             "rating": 7.5,
-            "votes": 145
+            "votes": 147
           },
           "filmweb": {
             "id": "10121011",
@@ -620,7 +620,7 @@
             "id": "tt45368240",
             "url": "https://www.imdb.com/title/tt45368240/",
             "rating": 9,
-            "votes": 37037
+            "votes": 38596
           },
           "filmweb": {
             "id": "10133825",
@@ -629,7 +629,7 @@
               "Dokumentalny"
             ],
             "rating": 8.2,
-            "votes": 24512
+            "votes": 24952
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/you_can_see_everything",
@@ -640,7 +640,7 @@
               "Lance Oppenheim"
             ],
             "criticsRating": null,
-            "criticsVotes": 241,
+            "criticsVotes": 246,
             "audienceRating": null,
             "audienceVotes": null
           }
@@ -687,7 +687,7 @@
             "id": "tt35571123",
             "url": "https://www.imdb.com/title/tt35571123/",
             "rating": 6.5,
-            "votes": 51
+            "votes": 57
           },
           "filmweb": {
             "id": "10065018",
@@ -697,7 +697,7 @@
               "Dramat obyczajowy"
             ],
             "rating": 6.4,
-            "votes": 1663
+            "votes": 1717
           },
           "rottenTomatoes": null
         },
@@ -743,7 +743,7 @@
             "id": "tt15799564",
             "url": "https://www.imdb.com/title/tt15799564/",
             "rating": 8.1,
-            "votes": 21986
+            "votes": 23622
           },
           "filmweb": {
             "id": "10075493",
@@ -752,8 +752,8 @@
               "Dramat",
               "Thriller"
             ],
-            "rating": 7.9,
-            "votes": 3663
+            "rating": 8,
+            "votes": 3989
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/wild_horse_nine",
@@ -763,7 +763,7 @@
               "Martin McDonagh"
             ],
             "criticsRating": null,
-            "criticsVotes": 267,
+            "criticsVotes": 270,
             "audienceRating": null,
             "audienceVotes": null
           }

@@ -1,12 +1,12 @@
 {
   "schemaVersion": 1,
   "date": "2026-11-25",
-  "updatedAt": "2026-11-20T18:36:50.557Z",
+  "updatedAt": "2026-11-21T22:28:06.908Z",
   "source": "https://www.kinomuza.pl/repertoire/day/",
   "day": {
-    "id": "05",
+    "id": "04",
     "date": "25.11",
-    "now": "2026-11-20 19:34:27",
+    "now": "2026-11-21 23:22:16",
     "info": [],
     "repertoire": [
       {
@@ -47,7 +47,7 @@
             "id": "tt35571123",
             "url": "https://www.imdb.com/title/tt35571123/",
             "rating": 6.5,
-            "votes": 51
+            "votes": 57
           },
           "filmweb": {
             "id": "10065018",
@@ -57,7 +57,7 @@
               "Dramat obyczajowy"
             ],
             "rating": 6.4,
-            "votes": 1663
+            "votes": 1717
           },
           "rottenTomatoes": null
         },
@@ -101,7 +101,7 @@
             "id": "tt38468551",
             "url": "https://www.imdb.com/title/tt38468551/",
             "rating": 5.5,
-            "votes": 88
+            "votes": 91
           },
           "filmweb": {
             "id": "10121239",
@@ -110,7 +110,7 @@
               "Dramat"
             ],
             "rating": 5.7,
-            "votes": 401
+            "votes": 402
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/la_perra",
@@ -166,7 +166,7 @@
             "id": "tt35932869",
             "url": "https://www.imdb.com/title/tt35932869/",
             "rating": 7.5,
-            "votes": 842
+            "votes": 850
           },
           "filmweb": {
             "id": "10110275",
@@ -175,7 +175,7 @@
               "Dokumentalny"
             ],
             "rating": 7.5,
-            "votes": 570
+            "votes": 598
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/the_golden_spurtle",
@@ -231,7 +231,7 @@
             "id": "tt35571123",
             "url": "https://www.imdb.com/title/tt35571123/",
             "rating": 6.5,
-            "votes": 51
+            "votes": 57
           },
           "filmweb": {
             "id": "10065018",
@@ -241,7 +241,7 @@
               "Dramat obyczajowy"
             ],
             "rating": 6.4,
-            "votes": 1663
+            "votes": 1717
           },
           "rottenTomatoes": null
         },
@@ -286,7 +286,7 @@
             "id": "tt15799564",
             "url": "https://www.imdb.com/title/tt15799564/",
             "rating": 8.1,
-            "votes": 21986
+            "votes": 23622
           },
           "filmweb": {
             "id": "10075493",
@@ -295,8 +295,8 @@
               "Dramat",
               "Thriller"
             ],
-            "rating": 7.9,
-            "votes": 3663
+            "rating": 8,
+            "votes": 3989
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/wild_horse_nine",
@@ -306,7 +306,7 @@
               "Martin McDonagh"
             ],
             "criticsRating": null,
-            "criticsVotes": 267,
+            "criticsVotes": 270,
             "audienceRating": null,
             "audienceVotes": null
           }
@@ -352,7 +352,7 @@
             "id": "tt29271622",
             "url": "https://www.imdb.com/title/tt29271622/",
             "rating": 7.4,
-            "votes": 8703
+            "votes": 8715
           },
           "filmweb": {
             "id": "10075691",
@@ -409,8 +409,8 @@
         "description": "Odesa, 1926 rok. Miasto przeżywa niezwykły rozkwit – rozwijają się literatura, jazz, boks i przede wszystkim kino. Właśnie tutaj młody Oleksandr Dovzhenko stawia pierwsze kroki w świecie filmu.",
         "shortDescription": "Odesa, 1926 rok. Miasto przeżywa niezwykły rozkwit – rozwijają się literatura, jazz, boks i przede wszystkim kino. Właśnie tutaj młody Oleksandr Dovzhenko stawia pierwsze kroki w świecie filmu.",
         "genres": [
-          "Biograficzny",
           "Dramat",
+          "Biograficzny",
           "Historyczny"
         ],
         "external": {
@@ -419,8 +419,8 @@
             "id": "10136847",
             "url": "https://www.filmweb.pl/film/Dow%C5%BCenko.+Pierwsze+spojrzenie-2025-10136847",
             "genres": [
-              "Biograficzny",
               "Dramat",
+              "Biograficzny",
               "Historyczny"
             ],
             "rating": 5.7,
@@ -469,7 +469,7 @@
             "id": "tt15799564",
             "url": "https://www.imdb.com/title/tt15799564/",
             "rating": 8.1,
-            "votes": 21986
+            "votes": 23622
           },
           "filmweb": {
             "id": "10075493",
@@ -478,8 +478,8 @@
               "Dramat",
               "Thriller"
             ],
-            "rating": 7.9,
-            "votes": 3663
+            "rating": 8,
+            "votes": 3989
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/wild_horse_nine",
@@ -489,7 +489,7 @@
               "Martin McDonagh"
             ],
             "criticsRating": null,
-            "criticsVotes": 267,
+            "criticsVotes": 270,
             "audienceRating": null,
             "audienceVotes": null
           }
@@ -534,7 +534,7 @@
             "id": "tt45368240",
             "url": "https://www.imdb.com/title/tt45368240/",
             "rating": 9,
-            "votes": 37037
+            "votes": 38596
           },
           "filmweb": {
             "id": "10133825",
@@ -543,7 +543,7 @@
               "Dokumentalny"
             ],
             "rating": 8.2,
-            "votes": 24512
+            "votes": 24952
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/you_can_see_everything",
@@ -554,7 +554,7 @@
               "Lance Oppenheim"
             ],
             "criticsRating": null,
-            "criticsVotes": 241,
+            "criticsVotes": 246,
             "audienceRating": null,
             "audienceVotes": null
           }
@@ -600,7 +600,7 @@
             "id": "tt15799564",
             "url": "https://www.imdb.com/title/tt15799564/",
             "rating": 8.1,
-            "votes": 21986
+            "votes": 23622
           },
           "filmweb": {
             "id": "10075493",
@@ -609,8 +609,8 @@
               "Dramat",
               "Thriller"
             ],
-            "rating": 7.9,
-            "votes": 3663
+            "rating": 8,
+            "votes": 3989
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/wild_horse_nine",
@@ -620,7 +620,7 @@
               "Martin McDonagh"
             ],
             "criticsRating": null,
-            "criticsVotes": 267,
+            "criticsVotes": 270,
             "audienceRating": null,
             "audienceVotes": null
           }
@@ -666,7 +666,7 @@
             "id": "tt13609648",
             "url": "https://www.imdb.com/title/tt13609648/",
             "rating": 7.2,
-            "votes": 12824
+            "votes": 13039
           },
           "filmweb": {
             "id": "10087170",
@@ -676,7 +676,7 @@
               "Melodramat"
             ],
             "rating": 7.1,
-            "votes": 3845
+            "votes": 3865
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/sense_and_sensibility_2026",

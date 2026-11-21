@@ -1,12 +1,12 @@
 {
   "schemaVersion": 1,
   "date": "2026-12-16",
-  "updatedAt": "2026-11-20T18:36:50.557Z",
+  "updatedAt": "2026-11-21T22:28:06.908Z",
   "source": "https://www.kinomuza.pl/repertoire/day/",
   "day": {
-    "id": "26",
+    "id": "25",
     "date": "16.12",
-    "now": "2026-11-20 19:36:29",
+    "now": "2026-11-21 23:26:42",
     "info": [],
     "repertoire": [
       {
@@ -48,7 +48,7 @@
             "id": "tt36932751",
             "url": "https://www.imdb.com/title/tt36932751/",
             "rating": 6.2,
-            "votes": 359
+            "votes": 361
           },
           "filmweb": {
             "id": "10111691",
@@ -57,8 +57,8 @@
               "Dramat",
               "Komedia"
             ],
-            "rating": 6.8,
-            "votes": 4
+            "rating": 6.6,
+            "votes": 5
           },
           "rottenTomatoes": null
         },

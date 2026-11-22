@@ -1,12 +1,12 @@
 {
   "schemaVersion": 1,
   "date": "2026-12-02",
-  "updatedAt": "2026-11-21T22:28:06.908Z",
+  "updatedAt": "2026-11-22T17:49:16.320Z",
   "source": "https://www.kinomuza.pl/repertoire/day/",
   "day": {
-    "id": "11",
+    "id": "10",
     "date": "02.12",
-    "now": "2026-11-21 23:24:01",
+    "now": "2026-11-22 18:48:21",
     "info": [],
     "repertoire": [
       {
@@ -120,7 +120,7 @@
               "Dramat"
             ],
             "rating": 7.2,
-            "votes": 902
+            "votes": 903
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/the_beloved_2026",

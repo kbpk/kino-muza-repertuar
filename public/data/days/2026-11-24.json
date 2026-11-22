@@ -1,12 +1,12 @@
 {
   "schemaVersion": 1,
   "date": "2026-11-24",
-  "updatedAt": "2026-11-21T22:28:06.908Z",
+  "updatedAt": "2026-11-22T17:49:16.320Z",
   "source": "https://www.kinomuza.pl/repertoire/day/",
   "day": {
-    "id": "03",
+    "id": "02",
     "date": "24.11",
-    "now": "2026-11-21 23:22:15",
+    "now": "2026-11-22 18:46:41",
     "info": [],
     "repertoire": [
       {
@@ -55,7 +55,7 @@
               "Dramat historyczny"
             ],
             "rating": 7.2,
-            "votes": 2598
+            "votes": 2604
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/rose_2026",
@@ -65,7 +65,7 @@
               "Markus Schleinzer"
             ],
             "criticsRating": null,
-            "criticsVotes": 39,
+            "criticsVotes": 40,
             "audienceRating": null,
             "audienceVotes": null
           }
@@ -121,7 +121,7 @@
               "Thriller"
             ],
             "rating": 8,
-            "votes": 3989
+            "votes": 4431
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/wild_horse_nine",
@@ -187,7 +187,7 @@
               "Dramat obyczajowy"
             ],
             "rating": 6.4,
-            "votes": 1717
+            "votes": 1792
           },
           "rottenTomatoes": null
         },
@@ -242,7 +242,7 @@
               "Dramat obyczajowy"
             ],
             "rating": 6.4,
-            "votes": 1717
+            "votes": 1792
           },
           "rottenTomatoes": null
         },
@@ -359,7 +359,7 @@
               "Dokumentalny"
             ],
             "rating": 8.2,
-            "votes": 24952
+            "votes": 25573
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/you_can_see_everything",
@@ -426,7 +426,7 @@
               "Thriller"
             ],
             "rating": 8,
-            "votes": 3989
+            "votes": 4431
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/wild_horse_nine",
@@ -492,7 +492,7 @@
               "Melodramat"
             ],
             "rating": 7.1,
-            "votes": 3865
+            "votes": 3884
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/sense_and_sensibility_2026",
@@ -561,7 +561,7 @@
               "Dramat"
             ],
             "rating": 7.8,
-            "votes": 643372
+            "votes": 643403
           },
           "rottenTomatoes": null
         },
@@ -616,7 +616,7 @@
               "Thriller"
             ],
             "rating": 8,
-            "votes": 3989
+            "votes": 4431
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/wild_horse_nine",
@@ -680,7 +680,7 @@
               "Dramat obyczajowy"
             ],
             "rating": 6,
-            "votes": 52
+            "votes": 62
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/yakushimas_illusion",

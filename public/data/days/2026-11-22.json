@@ -1,12 +1,12 @@
 {
   "schemaVersion": 1,
   "date": "2026-11-22",
-  "updatedAt": "2026-11-21T22:28:06.908Z",
+  "updatedAt": "2026-11-22T17:49:16.320Z",
   "source": "https://www.kinomuza.pl/repertoire/day/",
   "day": {
-    "id": "01",
+    "id": "00",
     "date": "22.11",
-    "now": "2026-11-21 23:21:22",
+    "now": "2026-11-22 18:46:40",
     "info": [],
     "repertoire": [
       {
@@ -662,7 +662,7 @@
               "Dramat"
             ],
             "rating": 7.2,
-            "votes": 902
+            "votes": 903
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/the_beloved_2026",
@@ -728,7 +728,7 @@
               "Thriller"
             ],
             "rating": 8,
-            "votes": 3989
+            "votes": 4431
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/wild_horse_nine",
@@ -792,7 +792,7 @@
               "Dokumentalny"
             ],
             "rating": 8.1,
-            "votes": 1213
+            "votes": 1226
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/naza",
@@ -921,7 +921,7 @@
               "Dramat historyczny"
             ],
             "rating": 7.2,
-            "votes": 2598
+            "votes": 2604
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/rose_2026",
@@ -931,7 +931,7 @@
               "Markus Schleinzer"
             ],
             "criticsRating": null,
-            "criticsVotes": 39,
+            "criticsVotes": 40,
             "audienceRating": null,
             "audienceVotes": null
           }
@@ -987,7 +987,7 @@
               "Thriller"
             ],
             "rating": 8,
-            "votes": 3989
+            "votes": 4431
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/wild_horse_nine",

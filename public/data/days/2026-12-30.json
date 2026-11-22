@@ -1,12 +1,12 @@
 {
   "schemaVersion": 1,
   "date": "2026-12-30",
-  "updatedAt": "2026-11-21T22:28:06.908Z",
+  "updatedAt": "2026-11-22T17:49:16.320Z",
   "source": "https://www.kinomuza.pl/repertoire/day/",
   "day": {
-    "id": "39",
+    "id": "38",
     "date": "30.12",
-    "now": "2026-11-21 23:26:43",
+    "now": "2026-11-22 18:48:57",
     "info": [],
     "repertoire": [
       {
@@ -40,8 +40,8 @@
         "description": "Zbliża się Boże Narodzenie w 1970 roku i Paul, nie mając rodziny nigdzie nie wyjeżdża. Nauczyciel zostaje w szkole, aby pilnować uczniów, którzy nie mogą wrócić do domu.",
         "shortDescription": "Zbliża się Boże Narodzenie w 1970 roku i Paul, nie mając rodziny nigdzie nie wyjeżdża. Nauczyciel zostaje w szkole, aby pilnować uczniów, którzy nie mogą wrócić do domu.",
         "genres": [
-          "Dramat",
           "Komedia",
+          "Dramat",
           "Świąteczny"
         ],
         "external": {
@@ -55,12 +55,12 @@
             "id": "10032689",
             "url": "https://www.filmweb.pl/film/Przesilenie+zimowe-2023-10032689",
             "genres": [
-              "Dramat",
               "Komedia",
+              "Dramat",
               "Świąteczny"
             ],
             "rating": 7.6,
-            "votes": 68988
+            "votes": 69018
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/the_holdovers",

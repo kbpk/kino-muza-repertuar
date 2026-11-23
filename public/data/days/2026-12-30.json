@@ -1,12 +1,12 @@
 {
   "schemaVersion": 1,
   "date": "2026-12-30",
-  "updatedAt": "2026-11-22T17:49:16.320Z",
+  "updatedAt": "2026-11-23T22:03:47.760Z",
   "source": "https://www.kinomuza.pl/repertoire/day/",
   "day": {
-    "id": "38",
+    "id": "37",
     "date": "30.12",
-    "now": "2026-11-22 18:48:57",
+    "now": "2026-11-23 23:03:10",
     "info": [],
     "repertoire": [
       {
@@ -49,7 +49,7 @@
             "id": "tt14849194",
             "url": "https://www.imdb.com/title/tt14849194/",
             "rating": 7.9,
-            "votes": 276698
+            "votes": 276804
           },
           "filmweb": {
             "id": "10032689",
@@ -60,7 +60,7 @@
               "Świąteczny"
             ],
             "rating": 7.6,
-            "votes": 69018
+            "votes": 69046
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/the_holdovers",

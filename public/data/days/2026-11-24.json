@@ -1,12 +1,12 @@
 {
   "schemaVersion": 1,
   "date": "2026-11-24",
-  "updatedAt": "2026-11-22T17:49:16.320Z",
+  "updatedAt": "2026-11-23T22:03:47.760Z",
   "source": "https://www.kinomuza.pl/repertoire/day/",
   "day": {
-    "id": "02",
+    "id": "01",
     "date": "24.11",
-    "now": "2026-11-22 18:46:41",
+    "now": "2026-11-23 23:00:39",
     "info": [],
     "repertoire": [
       {
@@ -46,7 +46,7 @@
             "id": "tt25399154",
             "url": "https://www.imdb.com/title/tt25399154/",
             "rating": 7.5,
-            "votes": 3716
+            "votes": 3780
           },
           "filmweb": {
             "id": "10113205",
@@ -55,7 +55,7 @@
               "Dramat historyczny"
             ],
             "rating": 7.2,
-            "votes": 2604
+            "votes": 2614
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/rose_2026",
@@ -103,25 +103,25 @@
         "description": "To polityczny thriller z czarnym humorem. Fabuła opowiada o dwóch agentach CIA.",
         "shortDescription": "To polityczny thriller z czarnym humorem. Fabuła opowiada o dwóch agentach CIA.",
         "genres": [
-          "Dramat",
-          "Thriller"
+          "Szpiegowski",
+          "Czarna komedia"
         ],
         "external": {
           "imdb": {
             "id": "tt15799564",
             "url": "https://www.imdb.com/title/tt15799564/",
             "rating": 8.1,
-            "votes": 23622
+            "votes": 25684
           },
           "filmweb": {
             "id": "10075493",
             "url": "https://www.filmweb.pl/film/Dziki+Ko%C5%84+Dziewi%C4%99%C4%87-2026-10075493",
             "genres": [
-              "Dramat",
-              "Thriller"
+              "Szpiegowski",
+              "Czarna komedia"
             ],
             "rating": 8,
-            "votes": 4431
+            "votes": 4918
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/wild_horse_nine",
@@ -176,8 +176,8 @@
           "imdb": {
             "id": "tt35571123",
             "url": "https://www.imdb.com/title/tt35571123/",
-            "rating": 6.5,
-            "votes": 57
+            "rating": 6.6,
+            "votes": 63
           },
           "filmweb": {
             "id": "10065018",
@@ -187,7 +187,7 @@
               "Dramat obyczajowy"
             ],
             "rating": 6.4,
-            "votes": 1792
+            "votes": 1895
           },
           "rottenTomatoes": null
         },
@@ -231,8 +231,8 @@
           "imdb": {
             "id": "tt35571123",
             "url": "https://www.imdb.com/title/tt35571123/",
-            "rating": 6.5,
-            "votes": 57
+            "rating": 6.6,
+            "votes": 63
           },
           "filmweb": {
             "id": "10065018",
@@ -242,7 +242,7 @@
               "Dramat obyczajowy"
             ],
             "rating": 6.4,
-            "votes": 1792
+            "votes": 1895
           },
           "rottenTomatoes": null
         },
@@ -286,7 +286,7 @@
             "id": "tt38468551",
             "url": "https://www.imdb.com/title/tt38468551/",
             "rating": 5.5,
-            "votes": 91
+            "votes": 92
           },
           "filmweb": {
             "id": "10121239",
@@ -294,8 +294,8 @@
             "genres": [
               "Dramat"
             ],
-            "rating": 5.7,
-            "votes": 402
+            "rating": 5.6,
+            "votes": 406
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/la_perra",
@@ -350,7 +350,7 @@
             "id": "tt45368240",
             "url": "https://www.imdb.com/title/tt45368240/",
             "rating": 9,
-            "votes": 38596
+            "votes": 42246
           },
           "filmweb": {
             "id": "10133825",
@@ -359,7 +359,7 @@
               "Dokumentalny"
             ],
             "rating": 8.2,
-            "votes": 25573
+            "votes": 26262
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/you_can_see_everything",
@@ -370,7 +370,7 @@
               "Lance Oppenheim"
             ],
             "criticsRating": null,
-            "criticsVotes": 246,
+            "criticsVotes": 249,
             "audienceRating": null,
             "audienceVotes": null
           }
@@ -408,25 +408,25 @@
         "description": "To polityczny thriller z czarnym humorem. Fabuła opowiada o dwóch agentach CIA.",
         "shortDescription": "To polityczny thriller z czarnym humorem. Fabuła opowiada o dwóch agentach CIA.",
         "genres": [
-          "Dramat",
-          "Thriller"
+          "Szpiegowski",
+          "Czarna komedia"
         ],
         "external": {
           "imdb": {
             "id": "tt15799564",
             "url": "https://www.imdb.com/title/tt15799564/",
             "rating": 8.1,
-            "votes": 23622
+            "votes": 25684
           },
           "filmweb": {
             "id": "10075493",
             "url": "https://www.filmweb.pl/film/Dziki+Ko%C5%84+Dziewi%C4%99%C4%87-2026-10075493",
             "genres": [
-              "Dramat",
-              "Thriller"
+              "Szpiegowski",
+              "Czarna komedia"
             ],
             "rating": 8,
-            "votes": 4431
+            "votes": 4918
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/wild_horse_nine",
@@ -474,25 +474,25 @@
         "description": "Akcja, osadzona w Anglii epoki georgiańskiej, podąża za losami zamożnego pana Dashwooda, który umiera, pozostawiając swoją drugą żonę oraz trzy córki w trudnej sytuacji finansowej.",
         "shortDescription": "Akcja, osadzona w Anglii epoki georgiańskiej, podąża za losami zamożnego pana Dashwooda, który umiera, pozostawiając swoją drugą żonę oraz trzy córki w trudnej sytuacji finansowej.",
         "genres": [
-          "Kostiumowy",
-          "Melodramat"
+          "Melodramat",
+          "Kostiumowy"
         ],
         "external": {
           "imdb": {
             "id": "tt13609648",
             "url": "https://www.imdb.com/title/tt13609648/",
             "rating": 7.2,
-            "votes": 13039
+            "votes": 13355
           },
           "filmweb": {
             "id": "10087170",
             "url": "https://www.filmweb.pl/film/Rozwa%C5%BCna+i+romantyczna-2026-10087170",
             "genres": [
-              "Kostiumowy",
-              "Melodramat"
+              "Melodramat",
+              "Kostiumowy"
             ],
             "rating": 7.1,
-            "votes": 3884
+            "votes": 3912
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/sense_and_sensibility_2026",
@@ -550,7 +550,7 @@
             "id": "tt0330243",
             "url": "https://www.imdb.com/title/tt0330243/",
             "rating": 8.1,
-            "votes": 13705
+            "votes": 13708
           },
           "filmweb": {
             "id": "31413",
@@ -561,7 +561,7 @@
               "Dramat"
             ],
             "rating": 7.8,
-            "votes": 643403
+            "votes": 643432
           },
           "rottenTomatoes": null
         },
@@ -598,25 +598,25 @@
         "description": "To polityczny thriller z czarnym humorem. Fabuła opowiada o dwóch agentach CIA.",
         "shortDescription": "To polityczny thriller z czarnym humorem. Fabuła opowiada o dwóch agentach CIA.",
         "genres": [
-          "Dramat",
-          "Thriller"
+          "Szpiegowski",
+          "Czarna komedia"
         ],
         "external": {
           "imdb": {
             "id": "tt15799564",
             "url": "https://www.imdb.com/title/tt15799564/",
             "rating": 8.1,
-            "votes": 23622
+            "votes": 25684
           },
           "filmweb": {
             "id": "10075493",
             "url": "https://www.filmweb.pl/film/Dziki+Ko%C5%84+Dziewi%C4%99%C4%87-2026-10075493",
             "genres": [
-              "Dramat",
-              "Thriller"
+              "Szpiegowski",
+              "Czarna komedia"
             ],
             "rating": 8,
-            "votes": 4431
+            "votes": 4918
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/wild_horse_nine",
@@ -679,8 +679,8 @@
             "genres": [
               "Dramat obyczajowy"
             ],
-            "rating": 6,
-            "votes": 62
+            "rating": 5.9,
+            "votes": 66
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/yakushimas_illusion",

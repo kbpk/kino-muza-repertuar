@@ -1,12 +1,12 @@
 {
   "schemaVersion": 1,
   "date": "2026-12-02",
-  "updatedAt": "2026-11-22T17:49:16.320Z",
+  "updatedAt": "2026-11-23T22:03:47.760Z",
   "source": "https://www.kinomuza.pl/repertoire/day/",
   "day": {
-    "id": "10",
+    "id": "09",
     "date": "02.12",
-    "now": "2026-11-22 18:48:21",
+    "now": "2026-11-23 23:00:41",
     "info": [],
     "repertoire": [
       {
@@ -47,7 +47,7 @@
             "id": "tt38468551",
             "url": "https://www.imdb.com/title/tt38468551/",
             "rating": 5.5,
-            "votes": 91
+            "votes": 92
           },
           "filmweb": {
             "id": "10121239",
@@ -55,8 +55,8 @@
             "genres": [
               "Dramat"
             ],
-            "rating": 5.7,
-            "votes": 402
+            "rating": 5.6,
+            "votes": 406
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/la_perra",
@@ -111,7 +111,7 @@
             "id": "tt33451014",
             "url": "https://www.imdb.com/title/tt33451014/",
             "rating": 7.2,
-            "votes": 4484
+            "votes": 4549
           },
           "filmweb": {
             "id": "10084250",
@@ -120,7 +120,7 @@
               "Dramat"
             ],
             "rating": 7.2,
-            "votes": 903
+            "votes": 942
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/the_beloved_2026",

@@ -1,12 +1,12 @@
 {
   "schemaVersion": 1,
   "date": "2026-12-11",
-  "updatedAt": "2026-11-22T17:49:16.320Z",
+  "updatedAt": "2026-11-23T22:03:47.760Z",
   "source": "https://www.kinomuza.pl/repertoire/day/",
   "day": {
-    "id": "19",
+    "id": "18",
     "date": "11.12",
-    "now": "2026-11-22 18:48:38",
+    "now": "2026-11-23 23:02:22",
     "info": [],
     "repertoire": [
       {
@@ -45,7 +45,7 @@
             "id": "tt38871399",
             "url": "https://www.imdb.com/title/tt38871399/",
             "rating": 7.2,
-            "votes": 463
+            "votes": 465
           },
           "filmweb": null,
           "rottenTomatoes": {

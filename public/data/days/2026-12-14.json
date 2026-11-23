@@ -1,12 +1,12 @@
 {
   "schemaVersion": 1,
   "date": "2026-12-14",
-  "updatedAt": "2026-11-22T17:49:16.320Z",
+  "updatedAt": "2026-11-23T22:03:47.760Z",
   "source": "https://www.kinomuza.pl/repertoire/day/",
   "day": {
-    "id": "22",
+    "id": "21",
     "date": "14.12",
-    "now": "2026-11-22 18:48:56",
+    "now": "2026-11-23 23:02:43",
     "info": [],
     "repertoire": [
       {
@@ -47,7 +47,7 @@
             "id": "tt0117550",
             "url": "https://www.imdb.com/title/tt0117550/",
             "rating": 2.7,
-            "votes": 9991
+            "votes": 9992
           },
           "filmweb": {
             "id": "152578",

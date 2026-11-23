@@ -1,12 +1,12 @@
 {
   "schemaVersion": 1,
   "date": "2026-12-16",
-  "updatedAt": "2026-11-22T17:49:16.320Z",
+  "updatedAt": "2026-11-23T22:03:47.760Z",
   "source": "https://www.kinomuza.pl/repertoire/day/",
   "day": {
-    "id": "24",
+    "id": "23",
     "date": "16.12",
-    "now": "2026-11-22 18:48:56",
+    "now": "2026-11-23 23:03:08",
     "info": [],
     "repertoire": [
       {
@@ -48,7 +48,7 @@
             "id": "tt36932751",
             "url": "https://www.imdb.com/title/tt36932751/",
             "rating": 6.2,
-            "votes": 361
+            "votes": 362
           },
           "filmweb": {
             "id": "10111691",

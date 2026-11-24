@@ -1,0 +1,70 @@
+{
+  "schemaVersion": 1,
+  "date": "2026-12-15",
+  "updatedAt": "2026-11-24T23:02:53.750Z",
+  "source": "https://www.kinomuza.pl/repertoire/day/",
+  "day": {
+    "id": "20",
+    "date": "15.12",
+    "now": "2026-11-25 00:00:48",
+    "info": [],
+    "repertoire": [
+      {
+        "hour": "20:00",
+        "datetime": "2026-12-15 20:00:00",
+        "title": "Prawo pożądania",
+        "originalTitle": "LA LEY DEL DESEO",
+        "director": "Pedro Almodóvar",
+        "year": "1987",
+        "premiereDate": "",
+        "duration": "100",
+        "countries": "Hiszpania",
+        "shortDesc": "<p>Tina jest siostrą Pabla. Ich rodzice rozstali się, kiedy Tina miała na imię Tino i była chłopcem, a gdy zamieszkała z ojcem, od pewnego czasu już z nim sypiała.</p>\n",
+        "lang": "es",
+        "subtitlesLang": "pl",
+        "age": "18",
+        "credits": "reż. Pedro Almodóvar <br>Hiszpania <br>1987,100’",
+        "desc": "<p>Tina jest siostrą Pabla. Ich rodzice rozstali się, kiedy Tina miała na imię Tino i była chłopcem, a gdy zamieszkała z ojcem, od pewnego czasu już z nim sypiała.</p>\n",
+        "hall": "1",
+        "movieLink": "https://www.kinomuza.pl/movie/prawo-pozadania/",
+        "ticketLink": "https://estradapoznan.bilety24.pl/kup-bilety/?id=1026660#total",
+        "prePremier": false,
+        "tape35mm": false,
+        "ad": false,
+        "deaf": false,
+        "ticketPrice": "",
+        "ticketHalfPrice": "",
+        "alt": "Prawo pożądania",
+        "thumb": "https://www.kinomuza.pl/content/uploads/2026/03/1-2-800x450.jpg",
+        "cycle": "dkf kamera",
+        "description": "Tina jest siostrą Pabla. Ich rodzice rozstali się, kiedy Tina miała na imię Tino i była chłopcem, a gdy zamieszkała z ojcem, od pewnego czasu już z nim sypiała.",
+        "shortDescription": "Tina jest siostrą Pabla. Ich rodzice rozstali się, kiedy Tina miała na imię Tino i była chłopcem, a gdy zamieszkała z ojcem, od pewnego czasu już z nim sypiała.",
+        "genres": [
+          "Romans",
+          "Dramat"
+        ],
+        "external": {
+          "imdb": {
+            "id": "tt0093412",
+            "url": "https://www.imdb.com/title/tt0093412/",
+            "rating": 7.1,
+            "votes": 15718
+          },
+          "filmweb": {
+            "id": "7061",
+            "url": "https://www.filmweb.pl/film/Prawo+po%C5%BC%C4%85dania-1987-7061",
+            "genres": [
+              "Romans",
+              "Dramat"
+            ],
+            "rating": 7.1,
+            "votes": 6080
+          },
+          "rottenTomatoes": null
+        },
+        "longDescription": "Tina (Carmen Maura) jest siostrą Pabla. Ich rodzice rozstali się, kiedy Tina miała na imię Tino i była chłopcem, a gdy zamieszkała z ojcem, od pewnego czasu już z nim sypiała. Tino przechodzi zmianę płci, staje się Tiną i jednocześnie żoną ojca, którą ten po kilku latach porzuca, a zraniona Tina nie chce nawet słyszeć o mężczyznach. Nienawidzi ich. Pablo (Eusebio Poncela) jest zakochany w Juanie (Miguel Molina), który nie jest pewien swoich uczuć, więc Pablo próbuje o nim zapomnieć. Poznaje zaborczego, pełnego sprzeczności Antonia (Antonio Banderas) i nawiązuje z nim romans, jednak jego życie staje się jeszcze bardziej skomplikowane. Nie może z tego wyjść nic dobrego…",
+        "poster": "media/posters/8dbc899174cb4eed3fa2.webp"
+      }
+    ]
+  }
+}

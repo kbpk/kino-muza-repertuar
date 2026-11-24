@@ -1,14 +1,135 @@
 {
   "schemaVersion": 1,
   "date": "2026-12-02",
-  "updatedAt": "2026-11-23T22:03:47.760Z",
+  "updatedAt": "2026-11-24T23:02:53.750Z",
   "source": "https://www.kinomuza.pl/repertoire/day/",
   "day": {
-    "id": "09",
+    "id": "08",
     "date": "02.12",
-    "now": "2026-11-23 23:00:41",
+    "now": "2026-11-24 23:59:54",
     "info": [],
     "repertoire": [
+      {
+        "hour": "14:00",
+        "datetime": "2026-12-02 14:00:00",
+        "title": "Papierowy tygrys",
+        "originalTitle": "Paper Tiger",
+        "director": "James Gray",
+        "year": "2026",
+        "premiereDate": "2026-11-27",
+        "duration": "115",
+        "countries": "USA",
+        "shortDesc": "<p>Dwaj bracia prowadzący biznes w Nowym Jorku muszą ocalić rodzinę przed zemstą rosyjskiej mafii.</p>\n",
+        "lang": "en",
+        "subtitlesLang": "pl",
+        "age": "16",
+        "credits": "reż. James Gray <br>USA <br>2026,115’",
+        "desc": "<p>Dwaj bracia prowadzący biznes w Nowym Jorku muszą ocalić rodzinę przed zemstą rosyjskiej mafii.</p>\n",
+        "hall": "3",
+        "movieLink": "https://www.kinomuza.pl/movie/papierowy-tygrys/",
+        "ticketLink": "https://estradapoznan.bilety24.pl/kup-bilety/?id=1026872#total",
+        "prePremier": false,
+        "tape35mm": false,
+        "ad": false,
+        "deaf": false,
+        "ticketPrice": "",
+        "ticketHalfPrice": "",
+        "alt": "Papierowy tygrys",
+        "thumb": "https://www.kinomuza.pl/content/uploads/2026/11/3papierowy-tygrys-800x450.jpg",
+        "description": "Dwaj bracia prowadzący biznes w Nowym Jorku muszą ocalić rodzinę przed zemstą rosyjskiej mafii.",
+        "shortDescription": "Dwaj bracia prowadzący biznes w Nowym Jorku muszą ocalić rodzinę przed zemstą rosyjskiej mafii.",
+        "genres": [
+          "Dramat",
+          "Kryminał"
+        ],
+        "external": {
+          "imdb": {
+            "id": "tt34385689",
+            "url": "https://www.imdb.com/title/tt34385689/",
+            "rating": 6.9,
+            "votes": 1993
+          },
+          "filmweb": {
+            "id": "10113103",
+            "url": "https://www.filmweb.pl/film/Papierowy+tygrys-2026-10113103",
+            "genres": [
+              "Dramat",
+              "Kryminał"
+            ],
+            "rating": 5.7,
+            "votes": 658
+          },
+          "rottenTomatoes": {
+            "url": "https://www.rottentomatoes.com/m/paper_tiger",
+            "title": "Paper Tiger",
+            "year": "2026",
+            "directors": [
+              "James Gray"
+            ],
+            "criticsRating": null,
+            "criticsVotes": 146,
+            "audienceRating": null,
+            "audienceVotes": null
+          }
+        },
+        "longDescription": "Dwaj bracia prowadzący biznes w Nowym Jorku muszą ocalić rodzinę przed zemstą rosyjskiej mafii.\n\nWielkie gwiazdy ADAM DRIVER, SCARLETT JOHANSSON i MILES TELLER w znakomitym thrillerze twórcy „AD ASTRA” i „MAŁEJ ODESSY”.\n\nJeden błąd, który może odebrać Ci wszystko, co kochasz.\n\nTrzymająca w nieustającym napięciu historia zwykłej rodziny, która staje się celem ludzi bez żadnych skrupułów.\n\nZdesperowany ojciec próbuje ocalić bliskich przed okrucieństwem rosyjskiej mafii.\n\nPrecyzyjna intryga, wybitne aktorstwo, klimatyczne plenery Nowego Jorku i po mistrzowsku zbudowana atmosfera narastającego zagrożenia.\n\nGary, były nowojorski policjant wciąga swojego brata Irwina w interes, który ma wreszcie ustawić finansowo jego rodzinę. Plan zakłada nawiązanie współpracy ze społecznością rosyjskich imigrantów. Gdy Irwin orientuje się, że ci „imigranci” to w rzeczywistości potężny rosyjski gang, na wycofanie się z interesu jest już późno. Nowi wspólnicy szybko zmieniają się w bezwzględnych wrogów, a stroniący od przemocy Irwin będzie musiał stanąć w obronie swojej rodziny. W przeżartym korupcją Nowym Jorku żadne służby nie kwapią się do konfliktu z rosyjską mafią, znaną z nieludzkiego wręcz okrucieństwa. Irwin może liczyć tylko na Gary’ego, o którego zaczyna upominać się również mroczna policyjna przeszłość.",
+        "poster": "media/posters/ca4ee99ec929922b48e0.webp"
+      },
+      {
+        "hour": "14:45",
+        "datetime": "2026-12-02 14:45:00",
+        "title": "Nasza rewolucja",
+        "originalTitle": "",
+        "director": "Piotr Domalewski",
+        "year": "2026",
+        "premiereDate": "2026-11-17",
+        "duration": "125",
+        "countries": "Polska",
+        "shortDesc": "<p>On – żywiołowy, głośny, charyzmatyczny. Ona – odważna, delikatna, pełna ciepła. Bezgranicznie w sobie zakochani i przekonani, że razem mogą zmieniać świat.</p>\n",
+        "lang": "pl",
+        "subtitlesLang": "en",
+        "age": "16",
+        "credits": "reż. Piotr Domalewski <br>Polska <br>2026,125’",
+        "desc": "<p>On – żywiołowy, głośny, charyzmatyczny. Ona – odważna, delikatna, pełna ciepła. Bezgranicznie w sobie zakochani i przekonani, że razem mogą zmieniać świat.</p>\n",
+        "hall": "2",
+        "movieLink": "https://www.kinomuza.pl/movie/nasza-rewolucja/",
+        "ticketLink": "https://estradapoznan.bilety24.pl/kup-bilety/?id=1026840#total",
+        "prePremier": false,
+        "tape35mm": false,
+        "ad": false,
+        "deaf": false,
+        "ticketPrice": "",
+        "ticketHalfPrice": "",
+        "alt": "Nasza rewolucja",
+        "thumb": "https://www.kinomuza.pl/content/uploads/2026/10/NASZA-REWOLUCJA-fot.-Anna-Wloch-4-scaled-1-800x450.jpg",
+        "description": "On – żywiołowy, głośny, charyzmatyczny. Ona – odważna, delikatna, pełna ciepła. Bezgranicznie w sobie zakochani i przekonani, że razem mogą zmieniać świat.",
+        "shortDescription": "On – żywiołowy, głośny, charyzmatyczny. Ona – odważna, delikatna, pełna ciepła. Bezgranicznie w sobie zakochani i przekonani, że razem mogą zmieniać świat.",
+        "genres": [
+          "Biograficzny",
+          "Dramat obyczajowy"
+        ],
+        "external": {
+          "imdb": {
+            "id": "tt35571123",
+            "url": "https://www.imdb.com/title/tt35571123/",
+            "rating": 6.6,
+            "votes": 69
+          },
+          "filmweb": {
+            "id": "10065018",
+            "url": "https://www.filmweb.pl/film/Nasza+rewolucja-2026-10065018",
+            "genres": [
+              "Biograficzny",
+              "Dramat obyczajowy"
+            ],
+            "rating": 6.4,
+            "votes": 1950
+          },
+          "rottenTomatoes": null
+        },
+        "longDescription": "On – żywiołowy, głośny, charyzmatyczny. Ona – odważna, delikatna, pełna ciepła. Bezgranicznie w sobie zakochani i przekonani, że razem mogą zmieniać świat – Jacek i Grażyna Kuroniowie. Rezygnują z prywatności, by oddać życie walce o wolność. Ich mieszkanie staje się „kwaterą główną” opozycji – miejscem spotkań ludzi gotowych ryzykować wszystko w imię lepszego jutra. Ale wielka idea oznacza też ogromną cenę: chwile intensywnej intymności przeplatają się z latami rozłąki, kiedy dzielą ich więzienne kraty. Wybuch stanu wojennego zmusza ich do podejmowania decyzji, których nikt nie chciałby podejmować. Czy w tak potwornie trudnych czasach, miłość może zwyciężyć?\n\nFilm dostępny z audiodeskrypcją lub lektorem. Skorzystaj bezpłatnie z aplikacji Kino Dostępne 2.0 w Twoim telefonie – http://kinodostepne.pl",
+        "poster": "media/posters/7e322e8b52165ab8d6d7.webp"
+      },
       {
         "hour": "15:00",
         "datetime": "2026-12-02 15:00:00",
@@ -55,8 +176,8 @@
             "genres": [
               "Dramat"
             ],
-            "rating": 5.6,
-            "votes": 406
+            "rating": 5.7,
+            "votes": 409
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/la_perra",
@@ -73,6 +194,321 @@
         },
         "longDescription": "Na odległej, smaganej południowym wiatrem wyspie u wybrzeży chilijskiej Patagonii Silvia wiedzie spokojne życie u boku swojego partnera, utrzymując się ze zbierania alg. Pewnego dnia znajduje porzuconą suczkę i nadaje jej imię Yuri — takie, jakie wybrałaby dla upragnionej córki. Głęboka więź z nieokiełznanym zwierzęciem wypełnia pustkę pozostawioną przez niespełnione pragnienie macierzyństwa. Ich relacja staje się początkiem nieoczekiwanej konfrontacji, w której miłość i czułość ścierają się z gniewem i bolesnymi wspomnieniami z przeszłości, przed którymi Silvia przez lata próbowała uciec. LA PERRA to subtelny, pełen napięcia dramat psychologiczny o tym, co ukrywamy pod powierzchnią codzienności. O miłości i odrzuceniu. O próbie oswojenia tego, co nieuchwytne. O potrzebie zniknięcia i odwadze, by wreszcie się zmierzyć z przeszłością. Film został uhonorowany nagrodą Palm Dog w Cannes za wyjątkową kreację psiej bohaterki.",
         "poster": "media/posters/da61fb13745c465270d9.webp"
+      },
+      {
+        "hour": "16:15",
+        "datetime": "2026-12-02 16:15:00",
+        "title": "Rozważna i romantyczna",
+        "originalTitle": "Sense and Sensibility",
+        "director": "Georgia Oakley",
+        "year": "2026",
+        "premiereDate": "2026-10-16",
+        "duration": "131",
+        "countries": "USA",
+        "shortDesc": "<p>Akcja, osadzona w Anglii epoki georgiańskiej, podąża za losami zamożnego pana Dashwooda, który umiera, pozostawiając swoją drugą żonę oraz trzy córki w trudnej sytuacji finansowej.</p>\n",
+        "lang": "en",
+        "subtitlesLang": "pl",
+        "age": "16",
+        "credits": "reż. Georgia Oakley <br>USA <br>2026,131’",
+        "desc": "<p>Akcja, osadzona w Anglii epoki georgiańskiej, podąża za losami zamożnego pana Dashwooda, który umiera, pozostawiając swoją drugą żonę oraz trzy córki w trudnej sytuacji finansowej.</p>\n",
+        "hall": "3",
+        "movieLink": "https://www.kinomuza.pl/movie/rozwazna-i-romantyczna-2/",
+        "ticketLink": "https://estradapoznan.bilety24.pl/kup-bilety/?id=1026873#total",
+        "prePremier": false,
+        "tape35mm": false,
+        "ad": false,
+        "deaf": false,
+        "ticketPrice": "",
+        "ticketHalfPrice": "",
+        "alt": "Rozważna i romantyczna",
+        "thumb": "https://www.kinomuza.pl/content/uploads/2026/08/romantyczna-5-800x450.jpg",
+        "description": "Akcja, osadzona w Anglii epoki georgiańskiej, podąża za losami zamożnego pana Dashwooda, który umiera, pozostawiając swoją drugą żonę oraz trzy córki w trudnej sytuacji finansowej.",
+        "shortDescription": "Akcja, osadzona w Anglii epoki georgiańskiej, podąża za losami zamożnego pana Dashwooda, który umiera, pozostawiając swoją drugą żonę oraz trzy córki w trudnej sytuacji finansowej.",
+        "genres": [
+          "Kostiumowy",
+          "Melodramat"
+        ],
+        "external": {
+          "imdb": {
+            "id": "tt13609648",
+            "url": "https://www.imdb.com/title/tt13609648/",
+            "rating": 7.2,
+            "votes": 13497
+          },
+          "filmweb": {
+            "id": "10087170",
+            "url": "https://www.filmweb.pl/film/Rozwa%C5%BCna+i+romantyczna-2026-10087170",
+            "genres": [
+              "Kostiumowy",
+              "Melodramat"
+            ],
+            "rating": 7.1,
+            "votes": 3932
+          },
+          "rottenTomatoes": {
+            "url": "https://www.rottentomatoes.com/m/sense_and_sensibility_2026",
+            "title": "Sense and Sensibility (2026)",
+            "year": "2026",
+            "directors": [
+              "Georgia Oakley"
+            ],
+            "criticsRating": null,
+            "criticsVotes": 143,
+            "audienceRating": null,
+            "audienceVotes": null
+          }
+        },
+        "longDescription": "Georgeia Oakley jest reżyserką nowej interpretacji  Rozważnej i romantycznej  Jane Austen. To produkcja Working Title, oparta na scenariuszu Diany Reid, w rolach głównych zobaczymy: Daisy Edgar-Jones, Esmé Creed-Miles, Caitríonę Balfe, Franka Dillane’a, Herberta Nordruma, Bodhi Rae Breathnach, George’a MacKaya oraz Fionę Shaw.\n\nAkcja, osadzona w Anglii epoki georgiańskiej, podąża za losami zamożnego pana Dashwooda, który umiera, pozostawiając swoją drugą żonę oraz trzy córki w trudnej sytuacji finansowej. Kobiety przenoszą się do skromnej wiejskiej posiadłości, gdzie dwie starsze siostry rywalizują o względy różnych adoratorów, poszukując prawdziwej miłości.\n\nProducentami filmu są: Tim Bevan i Eric Fellner z Working Title, a także India Flint z November Pictures oraz Jo Wallett z Kiddo Films. Working Title i Focus wcześniej współpracowały przy filmowej adaptacji  Dumy i uprzedzenia  z 2005 roku, która zdobyła cztery nominacje do Oscara, oraz przy kinowej wersji  Emmy  z 2020 roku.\n\nRozważna i romantyczna  trafiła na ekrany również w 1995 roku ze studia Sony Pictures Classics — film w reżyserii Anga Lee, ze scenariuszem Emmy Thompson, nagrodzonej Oscarem za najlepszy scenariusz adaptowany. Thompson zagrała także Elinor Dashwood, a Kate Winslet wcieliła się w Marianne. Produkcja otrzymała w sumie siedem nominacji do Oscara i zarobiła ponad 134 miliony dolarów na świecie.",
+        "poster": "media/posters/f97dfdbb297b0bd5c374.webp"
+      },
+      {
+        "hour": "17:00",
+        "datetime": "2026-12-02 17:00:00",
+        "title": "Najlepsza owsianka na świecie",
+        "originalTitle": "The Golden Spurtle",
+        "director": "Constantine Costi",
+        "year": "2025",
+        "premiereDate": "2026-11-27",
+        "duration": "75",
+        "countries": "Wielka Brytania, Australia",
+        "shortDesc": "<p>Raz w roku do malowniczej wioski na północy Szkocji zjeżdżają się pasjonaci z całego świata, by rywalizować o tytuł mistrza świata w… przyrządzaniu owsianki!</p>\n",
+        "lang": "",
+        "subtitlesLang": "pl",
+        "age": "16",
+        "credits": "reż. Constantine Costi <br>Wielka Brytania, Australia <br>2025,75’",
+        "desc": "<p>Raz w roku do malowniczej wioski na północy Szkocji zjeżdżają się pasjonaci z całego świata, by rywalizować o tytuł mistrza świata w… przyrządzaniu owsianki!</p>\n",
+        "hall": "2",
+        "movieLink": "https://www.kinomuza.pl/movie/najlepsza-owsianka-na-swiecie/",
+        "ticketLink": "https://estradapoznan.bilety24.pl/kup-bilety/?id=1026841#total",
+        "prePremier": false,
+        "tape35mm": false,
+        "ad": false,
+        "deaf": false,
+        "ticketPrice": "",
+        "ticketHalfPrice": "",
+        "alt": "Najlepsza owsianka na świecie",
+        "thumb": "https://www.kinomuza.pl/content/uploads/2026/09/najlepsza-owsianka-2-800x450.jpg",
+        "description": "Raz w roku do malowniczej wioski na północy Szkocji zjeżdżają się pasjonaci z całego świata, by rywalizować o tytuł mistrza świata w… przyrządzaniu owsianki!",
+        "shortDescription": "Raz w roku do malowniczej wioski na północy Szkocji zjeżdżają się pasjonaci z całego świata, by rywalizować o tytuł mistrza świata w… przyrządzaniu owsianki!",
+        "genres": [
+          "Dokumentalny"
+        ],
+        "external": {
+          "imdb": {
+            "id": "tt35932869",
+            "url": "https://www.imdb.com/title/tt35932869/",
+            "rating": 7.5,
+            "votes": 863
+          },
+          "filmweb": {
+            "id": "10110275",
+            "url": "https://www.filmweb.pl/film/Najlepsza+owsianka+na+%C5%9Bwiecie-2025-10110275",
+            "genres": [
+              "Dokumentalny"
+            ],
+            "rating": 7.5,
+            "votes": 775
+          },
+          "rottenTomatoes": {
+            "url": "https://www.rottentomatoes.com/m/the_golden_spurtle",
+            "title": "The Golden Spurtle",
+            "year": "2025",
+            "directors": [
+              "Constantine Costi"
+            ],
+            "criticsRating": null,
+            "criticsVotes": 15,
+            "audienceRating": null,
+            "audienceVotes": null
+          }
+        },
+        "longDescription": "Raz w roku do malowniczej wioski na północy Szkocji zjeżdżają się pasjonaci z całego świata, by rywalizować o tytuł mistrza świata w… przyrządzaniu owsianki! W filmie dokumentalnym „Najlepsza owsianka na świecie” za zaciętą kulinarną rywalizacją kryje się ciepła i pełna humoru opowieść o ekscentrycznych mieszkańcach, żywej tradycji, lokalnym dziedzictwie i wspólnocie, której częścią chciałoby się zostać po seansie.\n\nKażdej jesieni senna górska wioska Carrbridge budzi się do życia, gdy miejscowi i zagraniczni zawodnicy podejmują kuchenną rękawicę i walczą o zaszczytną nagrodę Złotego Mieszadła w Mistrzostwach Świata w Gotowaniu Owsianki. Choć przepis wydaje się banalny – płatki owsiane, woda i sól – to sposobów na jej przyrządzanie jest multum. Co uczestnik, to inna metoda, filozofia i historia. Ale „Najlepsza owsianka na świecie” nie jest wyłącznie kroniką kulinarnych zmagań.\n\nDla lokalnej legendy, charyzmatycznego organizatora mistrzostw Charliego Millera, to wydarzenie znaczy o wiele więcej. Mężczyzna zbliża się do emerytury i zmaga się z problemami zdrowotnymi, jednak czuje odpowiedzialność wobec lokalnego komitetu owsiankowego i pragnie zabezpieczyć przyszłość zawodów – oraz własne dziedzictwo. O dobre imię walczy również Ian Bishop, który podejmuje ostatnią próbę zdobycia tytułu. Ale konkurencja nie śpi: niezrównana Lisa Williams, „królowa owsianki”, wraca, by odzyskać trofeum. Tymczasem nowa generacja uczestników – Toby Wilson, australijski szef kuchni znany z pomysłu na owsiankową tortillę, oraz Adam Kiani, uzbrojony w sekretną, odziedziczoną po babci technikę – zamierza zakwestionować owsiankowe status quo.\n\nUkazując życie niewielkiej szkockiej społeczności na tle zapierających dech w piersiach krajobrazów, film przywodzi na myśl dokumenty „Truflarze” czy „Kraina miodu” – tworzone z czułością i zrozumieniem dla swoich bohaterów. Urokliwa i pełna humoru „Najlepsza owsianka na świecie” to film, który wzrusza, otula i daje poczucie komfortu niczym miska gorącej owsianki w chłodny poranek.",
+        "poster": "media/posters/0489ff5b229b8e65b5c0.webp"
+      },
+      {
+        "hour": "18:00",
+        "datetime": "2026-12-02 18:00:00",
+        "title": "Kraina czerwonych gór",
+        "originalTitle": "Red Path",
+        "director": "Lotfi Achour",
+        "year": "2024",
+        "premiereDate": "",
+        "duration": "100",
+        "countries": "Belgia, Francja, Polska, Tunezja, Arabia Saudyjska, Katar",
+        "shortDesc": "<p>W odległych górskich zakątkach słonecznej Tunezji, z dala od turystycznych szlaków, 13-letni Achraf prowadzi życie zwyczajnego chłopca.</p>\n",
+        "lang": "",
+        "subtitlesLang": "pl",
+        "age": "16",
+        "credits": "reż. Lotfi Achour <br>Belgia, Francja, Polska, Tunezja, Arabia Saudyjska, Katar <br>2024,100’",
+        "desc": "<p>W odległych górskich zakątkach słonecznej Tunezji, z dala od turystycznych szlaków, 13-letni Achraf prowadzi życie zwyczajnego chłopca.</p>\n",
+        "hall": "1",
+        "movieLink": "https://www.kinomuza.pl/movie/kraina-czerwonych-gor/",
+        "ticketLink": "https://estradapoznan.bilety24.pl/kup-bilety/?id=1026812#total",
+        "prePremier": false,
+        "tape35mm": false,
+        "ad": false,
+        "deaf": false,
+        "ticketPrice": "",
+        "ticketHalfPrice": "",
+        "alt": "Kraina czerwonych gór",
+        "thumb": "https://www.kinomuza.pl/content/uploads/2026/11/2czer-go-800x450.jpg",
+        "description": "W odległych górskich zakątkach słonecznej Tunezji, z dala od turystycznych szlaków, 13-letni Achraf prowadzi życie zwyczajnego chłopca.",
+        "shortDescription": "W odległych górskich zakątkach słonecznej Tunezji, z dala od turystycznych szlaków, 13-letni Achraf prowadzi życie zwyczajnego chłopca.",
+        "genres": [
+          "Dramat"
+        ],
+        "external": {
+          "imdb": {
+            "id": "tt23782554",
+            "url": "https://www.imdb.com/title/tt23782554/",
+            "rating": 6.9,
+            "votes": 272
+          },
+          "filmweb": {
+            "id": "10058003",
+            "url": "https://www.filmweb.pl/film/Kraina+czerwonych+g%C3%B3r-2024-10058003",
+            "genres": [
+              "Dramat"
+            ],
+            "rating": 6.6,
+            "votes": 122
+          },
+          "rottenTomatoes": null
+        },
+        "longDescription": "W odległych górskich zakątkach słonecznej Tunezji, z dala od turystycznych szlaków, 13-letni Achraf prowadzi życie zwyczajnego chłopca. Wszystko zmienia się, gdy jego codzienność zostaje brutalnie przerwana. W świecie, w którym przemoc staje się częścią rzeczywistości, chłopiec musi zmierzyć się z odpowiedzialnością, która spada na niego zdecydowanie zbyt wcześnie.",
+        "poster": "media/posters/b0c04e7b508e41360dd8.webp"
+      },
+      {
+        "hour": "18:30",
+        "datetime": "2026-12-02 18:30:00",
+        "title": "Dziki Koń Dziewięć",
+        "originalTitle": "Wild Horse Nine",
+        "director": "Martin McDonagh",
+        "year": "2026",
+        "premiereDate": "2026-11-17",
+        "duration": "118",
+        "countries": "Wielka Brytania, USA, Chile",
+        "shortDesc": "<p>To polityczny thriller z czarnym humorem. Fabuła opowiada o dwóch agentach CIA.</p>\n",
+        "lang": "",
+        "subtitlesLang": "pl",
+        "age": "16",
+        "credits": "reż. Martin McDonagh <br>Wielka Brytania, USA, Chile <br>2026,118’",
+        "desc": "<p>To polityczny thriller z czarnym humorem. Fabuła opowiada o dwóch agentach CIA.</p>\n",
+        "hall": "2",
+        "movieLink": "https://www.kinomuza.pl/movie/dziki-kon-dziewiec/",
+        "ticketLink": "https://estradapoznan.bilety24.pl/kup-bilety/?id=1026842#total",
+        "prePremier": false,
+        "tape35mm": false,
+        "ad": false,
+        "deaf": false,
+        "ticketPrice": "",
+        "ticketHalfPrice": "",
+        "alt": "Dziki Koń Dziewięć",
+        "thumb": "https://www.kinomuza.pl/content/uploads/2026/10/dziki-kon-2-800x450.jpg",
+        "description": "To polityczny thriller z czarnym humorem. Fabuła opowiada o dwóch agentach CIA.",
+        "shortDescription": "To polityczny thriller z czarnym humorem. Fabuła opowiada o dwóch agentach CIA.",
+        "genres": [
+          "Czarna komedia",
+          "Szpiegowski"
+        ],
+        "external": {
+          "imdb": {
+            "id": "tt15799564",
+            "url": "https://www.imdb.com/title/tt15799564/",
+            "rating": 8.1,
+            "votes": 26593
+          },
+          "filmweb": {
+            "id": "10075493",
+            "url": "https://www.filmweb.pl/film/Dziki+Ko%C5%84+Dziewi%C4%99%C4%87-2026-10075493",
+            "genres": [
+              "Czarna komedia",
+              "Szpiegowski"
+            ],
+            "rating": 8,
+            "votes": 5230
+          },
+          "rottenTomatoes": {
+            "url": "https://www.rottentomatoes.com/m/wild_horse_nine",
+            "title": "Wild Horse Nine",
+            "year": "2026",
+            "directors": [
+              "Martin McDonagh"
+            ],
+            "criticsRating": null,
+            "criticsVotes": 271,
+            "audienceRating": null,
+            "audienceVotes": null
+          }
+        },
+        "longDescription": "Film Martina McDonagha Dziki Koń Dziewięć  otrzymał aż 13 minut owacji na stojąco podczas swojej światowej premiery na Festiwalu Filmowym w Wenecji! Odtwórca głównej roli, 72-letni John Malkovich, ocierał łzy wzruszenia, gdy publiczność nie przestawała bić braw. Krytycy natychmiast okrzyknęli jego występ „rolą życia” i wróżą mu Oscara\n\nTo polityczny thriller z czarnym humorem. Fabuła opowiada o dwóch agentach CIA (w tych rolach Malkovich i Sam Rockwell). Na krótko przed zamachem stanu w Chile w 1973 roku agenci CIA Chris i Lee zostają wysłani z Santiago na Wyspę Wielkanocną przez swoją szefową, MJ. W cieniu słynnych posągów wyspy wieloletni partnerzy muszą zmierzyć się z mroczną przeszłością i spiskami, które zaczynają wychodzić na jaw. Tymczasem nowa więź Chrisa z dwojgiem zbuntowanych studentów grozi tym, że pobyt wszystkich w tym odległym raju wymknie się spod kontroli.",
+        "poster": "media/posters/26ce6bd92d921ecc89ad.webp"
+      },
+      {
+        "hour": "18:45",
+        "datetime": "2026-12-02 18:45:00",
+        "title": "Papierowy tygrys",
+        "originalTitle": "Paper Tiger",
+        "director": "James Gray",
+        "year": "2026",
+        "premiereDate": "2026-11-27",
+        "duration": "115",
+        "countries": "USA",
+        "shortDesc": "<p>Dwaj bracia prowadzący biznes w Nowym Jorku muszą ocalić rodzinę przed zemstą rosyjskiej mafii.</p>\n",
+        "lang": "en",
+        "subtitlesLang": "pl",
+        "age": "16",
+        "credits": "reż. James Gray <br>USA <br>2026,115’",
+        "desc": "<p>Dwaj bracia prowadzący biznes w Nowym Jorku muszą ocalić rodzinę przed zemstą rosyjskiej mafii.</p>\n",
+        "hall": "3",
+        "movieLink": "https://www.kinomuza.pl/movie/papierowy-tygrys/",
+        "ticketLink": "https://estradapoznan.bilety24.pl/kup-bilety/?id=1026874#total",
+        "prePremier": false,
+        "tape35mm": false,
+        "ad": false,
+        "deaf": false,
+        "ticketPrice": "",
+        "ticketHalfPrice": "",
+        "alt": "Papierowy tygrys",
+        "thumb": "https://www.kinomuza.pl/content/uploads/2026/11/3papierowy-tygrys-800x450.jpg",
+        "description": "Dwaj bracia prowadzący biznes w Nowym Jorku muszą ocalić rodzinę przed zemstą rosyjskiej mafii.",
+        "shortDescription": "Dwaj bracia prowadzący biznes w Nowym Jorku muszą ocalić rodzinę przed zemstą rosyjskiej mafii.",
+        "genres": [
+          "Dramat",
+          "Kryminał"
+        ],
+        "external": {
+          "imdb": {
+            "id": "tt34385689",
+            "url": "https://www.imdb.com/title/tt34385689/",
+            "rating": 6.9,
+            "votes": 1993
+          },
+          "filmweb": {
+            "id": "10113103",
+            "url": "https://www.filmweb.pl/film/Papierowy+tygrys-2026-10113103",
+            "genres": [
+              "Dramat",
+              "Kryminał"
+            ],
+            "rating": 5.7,
+            "votes": 658
+          },
+          "rottenTomatoes": {
+            "url": "https://www.rottentomatoes.com/m/paper_tiger",
+            "title": "Paper Tiger",
+            "year": "2026",
+            "directors": [
+              "James Gray"
+            ],
+            "criticsRating": null,
+            "criticsVotes": 146,
+            "audienceRating": null,
+            "audienceVotes": null
+          }
+        },
+        "longDescription": "Dwaj bracia prowadzący biznes w Nowym Jorku muszą ocalić rodzinę przed zemstą rosyjskiej mafii.\n\nWielkie gwiazdy ADAM DRIVER, SCARLETT JOHANSSON i MILES TELLER w znakomitym thrillerze twórcy „AD ASTRA” i „MAŁEJ ODESSY”.\n\nJeden błąd, który może odebrać Ci wszystko, co kochasz.\n\nTrzymająca w nieustającym napięciu historia zwykłej rodziny, która staje się celem ludzi bez żadnych skrupułów.\n\nZdesperowany ojciec próbuje ocalić bliskich przed okrucieństwem rosyjskiej mafii.\n\nPrecyzyjna intryga, wybitne aktorstwo, klimatyczne plenery Nowego Jorku i po mistrzowsku zbudowana atmosfera narastającego zagrożenia.\n\nGary, były nowojorski policjant wciąga swojego brata Irwina w interes, który ma wreszcie ustawić finansowo jego rodzinę. Plan zakłada nawiązanie współpracy ze społecznością rosyjskich imigrantów. Gdy Irwin orientuje się, że ci „imigranci” to w rzeczywistości potężny rosyjski gang, na wycofanie się z interesu jest już późno. Nowi wspólnicy szybko zmieniają się w bezwzględnych wrogów, a stroniący od przemocy Irwin będzie musiał stanąć w obronie swojej rodziny. W przeżartym korupcją Nowym Jorku żadne służby nie kwapią się do konfliktu z rosyjską mafią, znaną z nieludzkiego wręcz okrucieństwa. Irwin może liczyć tylko na Gary’ego, o którego zaczyna upominać się również mroczna policyjna przeszłość.",
+        "poster": "media/posters/ca4ee99ec929922b48e0.webp"
       },
       {
         "hour": "20:00",
@@ -111,7 +547,7 @@
             "id": "tt33451014",
             "url": "https://www.imdb.com/title/tt33451014/",
             "rating": 7.2,
-            "votes": 4549
+            "votes": 4584
           },
           "filmweb": {
             "id": "10084250",
@@ -120,7 +556,7 @@
               "Dramat"
             ],
             "rating": 7.2,
-            "votes": 942
+            "votes": 946
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/the_beloved_2026",
@@ -137,6 +573,138 @@
         },
         "longDescription": "„Natura miłości” ma w sobie wszystko, za co kochamy hiszpańskie kino: temperament, skomplikowane relacje i emocje, które nie uznają półśrodków. Tu każde spojrzenie może okazać się wyzwaniem, każda rozmowa – corridą, a fasada gniewu i dumy kryje zranione uczucia. Nic więc dziwnego, że film Rodriga Sorogoyena (twórcy znakomitych „Bestii”) stał się kasowym przebojem hiszpańskich kin. To także zasługa magnetycznego Javiera Bardema, który ze zręcznością linoskoczka balansuje pomiędzy butą i kruchością. Aktorowi, który w „Naturze miłości” zagrał najlepszą z dotychczasowych ról, śmiało partneruje Victoria Luengo, wschodząca gwiazda hiszpańskiego kina.\n\nLuengo gra dziewczynę, która po latach rozłąki spotyka się z ojcem, uznanym reżyserem (Bardem). On proponuje jej rolę w najnowszym filmie, licząc na odbudowanie zerwanej więzi. Dla niej będzie to jednak nieunikniony powrót do bolesnych wydarzeń z przeszłości. Czy sztuka uleczy rany? A może jest ich źródłem? „Natura miłości” mistrzowsko kreśli psychologiczne portrety bohaterów i pełną napięcia dynamikę ich relacji. Jest opowieścią o granicach i odwadze, by ich bronić. O uśpionym gniewie, który domaga się ujścia. Ale choć u Sorogoyena przeszłość nie uznaje zamkniętych rozdziałów, to pozwala starym ranom stać się nowym początkiem.\n\nPytania, jakie stawia reżyser: o rodzinne więzi, pamięć i bliskość, przywołują skojarzenia z oscarową „Wartością sentymentalną”. Ale w „Naturze miłości” skandynawską precyzję rozsadza hiszpański temperament. Jest więc intensywnie, niepokornie i bardzo, bardzo gorąco.",
         "poster": "media/posters/9289805201e8e12a2e09.webp"
+      },
+      {
+        "hour": "20:45",
+        "datetime": "2026-12-02 20:45:00",
+        "title": "Papierowy tygrys",
+        "originalTitle": "Paper Tiger",
+        "director": "James Gray",
+        "year": "2026",
+        "premiereDate": "2026-11-27",
+        "duration": "115",
+        "countries": "USA",
+        "shortDesc": "<p>Dwaj bracia prowadzący biznes w Nowym Jorku muszą ocalić rodzinę przed zemstą rosyjskiej mafii.</p>\n",
+        "lang": "en",
+        "subtitlesLang": "pl",
+        "age": "16",
+        "credits": "reż. James Gray <br>USA <br>2026,115’",
+        "desc": "<p>Dwaj bracia prowadzący biznes w Nowym Jorku muszą ocalić rodzinę przed zemstą rosyjskiej mafii.</p>\n",
+        "hall": "2",
+        "movieLink": "https://www.kinomuza.pl/movie/papierowy-tygrys/",
+        "ticketLink": "https://estradapoznan.bilety24.pl/kup-bilety/?id=1026843#total",
+        "prePremier": false,
+        "tape35mm": false,
+        "ad": false,
+        "deaf": false,
+        "ticketPrice": "",
+        "ticketHalfPrice": "",
+        "alt": "Papierowy tygrys",
+        "thumb": "https://www.kinomuza.pl/content/uploads/2026/11/3papierowy-tygrys-800x450.jpg",
+        "description": "Dwaj bracia prowadzący biznes w Nowym Jorku muszą ocalić rodzinę przed zemstą rosyjskiej mafii.",
+        "shortDescription": "Dwaj bracia prowadzący biznes w Nowym Jorku muszą ocalić rodzinę przed zemstą rosyjskiej mafii.",
+        "genres": [
+          "Dramat",
+          "Kryminał"
+        ],
+        "external": {
+          "imdb": {
+            "id": "tt34385689",
+            "url": "https://www.imdb.com/title/tt34385689/",
+            "rating": 6.9,
+            "votes": 1993
+          },
+          "filmweb": {
+            "id": "10113103",
+            "url": "https://www.filmweb.pl/film/Papierowy+tygrys-2026-10113103",
+            "genres": [
+              "Dramat",
+              "Kryminał"
+            ],
+            "rating": 5.7,
+            "votes": 658
+          },
+          "rottenTomatoes": {
+            "url": "https://www.rottentomatoes.com/m/paper_tiger",
+            "title": "Paper Tiger",
+            "year": "2026",
+            "directors": [
+              "James Gray"
+            ],
+            "criticsRating": null,
+            "criticsVotes": 146,
+            "audienceRating": null,
+            "audienceVotes": null
+          }
+        },
+        "longDescription": "Dwaj bracia prowadzący biznes w Nowym Jorku muszą ocalić rodzinę przed zemstą rosyjskiej mafii.\n\nWielkie gwiazdy ADAM DRIVER, SCARLETT JOHANSSON i MILES TELLER w znakomitym thrillerze twórcy „AD ASTRA” i „MAŁEJ ODESSY”.\n\nJeden błąd, który może odebrać Ci wszystko, co kochasz.\n\nTrzymająca w nieustającym napięciu historia zwykłej rodziny, która staje się celem ludzi bez żadnych skrupułów.\n\nZdesperowany ojciec próbuje ocalić bliskich przed okrucieństwem rosyjskiej mafii.\n\nPrecyzyjna intryga, wybitne aktorstwo, klimatyczne plenery Nowego Jorku i po mistrzowsku zbudowana atmosfera narastającego zagrożenia.\n\nGary, były nowojorski policjant wciąga swojego brata Irwina w interes, który ma wreszcie ustawić finansowo jego rodzinę. Plan zakłada nawiązanie współpracy ze społecznością rosyjskich imigrantów. Gdy Irwin orientuje się, że ci „imigranci” to w rzeczywistości potężny rosyjski gang, na wycofanie się z interesu jest już późno. Nowi wspólnicy szybko zmieniają się w bezwzględnych wrogów, a stroniący od przemocy Irwin będzie musiał stanąć w obronie swojej rodziny. W przeżartym korupcją Nowym Jorku żadne służby nie kwapią się do konfliktu z rosyjską mafią, znaną z nieludzkiego wręcz okrucieństwa. Irwin może liczyć tylko na Gary’ego, o którego zaczyna upominać się również mroczna policyjna przeszłość.",
+        "poster": "media/posters/ca4ee99ec929922b48e0.webp"
+      },
+      {
+        "hour": "21:00",
+        "datetime": "2026-12-02 21:00:00",
+        "title": "Dziki Koń Dziewięć",
+        "originalTitle": "Wild Horse Nine",
+        "director": "Martin McDonagh",
+        "year": "2026",
+        "premiereDate": "2026-11-17",
+        "duration": "118",
+        "countries": "Wielka Brytania, USA, Chile",
+        "shortDesc": "<p>To polityczny thriller z czarnym humorem. Fabuła opowiada o dwóch agentach CIA.</p>\n",
+        "lang": "",
+        "subtitlesLang": "pl",
+        "age": "16",
+        "credits": "reż. Martin McDonagh <br>Wielka Brytania, USA, Chile <br>2026,118’",
+        "desc": "<p>To polityczny thriller z czarnym humorem. Fabuła opowiada o dwóch agentach CIA.</p>\n",
+        "hall": "3",
+        "movieLink": "https://www.kinomuza.pl/movie/dziki-kon-dziewiec/",
+        "ticketLink": "https://estradapoznan.bilety24.pl/kup-bilety/?id=1026875#total",
+        "prePremier": false,
+        "tape35mm": false,
+        "ad": false,
+        "deaf": false,
+        "ticketPrice": "",
+        "ticketHalfPrice": "",
+        "alt": "Dziki Koń Dziewięć",
+        "thumb": "https://www.kinomuza.pl/content/uploads/2026/10/dziki-kon-2-800x450.jpg",
+        "description": "To polityczny thriller z czarnym humorem. Fabuła opowiada o dwóch agentach CIA.",
+        "shortDescription": "To polityczny thriller z czarnym humorem. Fabuła opowiada o dwóch agentach CIA.",
+        "genres": [
+          "Czarna komedia",
+          "Szpiegowski"
+        ],
+        "external": {
+          "imdb": {
+            "id": "tt15799564",
+            "url": "https://www.imdb.com/title/tt15799564/",
+            "rating": 8.1,
+            "votes": 26593
+          },
+          "filmweb": {
+            "id": "10075493",
+            "url": "https://www.filmweb.pl/film/Dziki+Ko%C5%84+Dziewi%C4%99%C4%87-2026-10075493",
+            "genres": [
+              "Czarna komedia",
+              "Szpiegowski"
+            ],
+            "rating": 8,
+            "votes": 5230
+          },
+          "rottenTomatoes": {
+            "url": "https://www.rottentomatoes.com/m/wild_horse_nine",
+            "title": "Wild Horse Nine",
+            "year": "2026",
+            "directors": [
+              "Martin McDonagh"
+            ],
+            "criticsRating": null,
+            "criticsVotes": 271,
+            "audienceRating": null,
+            "audienceVotes": null
+          }
+        },
+        "longDescription": "Film Martina McDonagha Dziki Koń Dziewięć  otrzymał aż 13 minut owacji na stojąco podczas swojej światowej premiery na Festiwalu Filmowym w Wenecji! Odtwórca głównej roli, 72-letni John Malkovich, ocierał łzy wzruszenia, gdy publiczność nie przestawała bić braw. Krytycy natychmiast okrzyknęli jego występ „rolą życia” i wróżą mu Oscara\n\nTo polityczny thriller z czarnym humorem. Fabuła opowiada o dwóch agentach CIA (w tych rolach Malkovich i Sam Rockwell). Na krótko przed zamachem stanu w Chile w 1973 roku agenci CIA Chris i Lee zostają wysłani z Santiago na Wyspę Wielkanocną przez swoją szefową, MJ. W cieniu słynnych posągów wyspy wieloletni partnerzy muszą zmierzyć się z mroczną przeszłością i spiskami, które zaczynają wychodzić na jaw. Tymczasem nowa więź Chrisa z dwojgiem zbuntowanych studentów grozi tym, że pobyt wszystkich w tym odległym raju wymknie się spod kontroli.",
+        "poster": "media/posters/26ce6bd92d921ecc89ad.webp"
       }
     ]
   }

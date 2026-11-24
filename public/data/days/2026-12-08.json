@@ -1,0 +1,81 @@
+{
+  "schemaVersion": 1,
+  "date": "2026-12-08",
+  "updatedAt": "2026-11-24T23:02:53.750Z",
+  "source": "https://www.kinomuza.pl/repertoire/day/",
+  "day": {
+    "id": "14",
+    "date": "08.12",
+    "now": "2026-11-25 00:00:05",
+    "info": [],
+    "repertoire": [
+      {
+        "hour": "20:00",
+        "datetime": "2026-12-08 20:00:00",
+        "title": "Matador",
+        "originalTitle": "",
+        "director": "Pedro Almodóvar",
+        "year": "1986",
+        "premiereDate": "",
+        "duration": "110",
+        "countries": "Hiszpania ",
+        "shortDesc": "<p>Były torreador, Diego Montes zmuszony do zejścia z areny z powodu ciężkiej rany zadanej przez byka i prawniczka, María Cardenal dzielą chorobliwą obsesję na punkcie śmierci i niczym dwa magnesy przyciągają się do siebie.</p>\n",
+        "lang": "es",
+        "subtitlesLang": "pl",
+        "age": "18",
+        "credits": "reż. Pedro Almodóvar <br>Hiszpania  <br>1986,110’",
+        "desc": "<p>Były torreador, Diego Montes zmuszony do zejścia z areny z powodu ciężkiej rany zadanej przez byka i prawniczka, María Cardenal dzielą chorobliwą obsesję na punkcie śmierci i niczym dwa magnesy przyciągają się do siebie.</p>\n",
+        "hall": "1",
+        "movieLink": "https://www.kinomuza.pl/movie/matador/",
+        "ticketLink": "https://estradapoznan.bilety24.pl/kup-bilety/?id=1026659#total",
+        "prePremier": false,
+        "tape35mm": false,
+        "ad": false,
+        "deaf": false,
+        "ticketPrice": "",
+        "ticketHalfPrice": "",
+        "alt": "Matador",
+        "thumb": "https://www.kinomuza.pl/content/uploads/2026/11/3matador-800x450.jpg",
+        "cycle": "dkf kamera",
+        "description": "Były torreador, Diego Montes zmuszony do zejścia z areny z powodu ciężkiej rany zadanej przez byka i prawniczka, María Cardenal dzielą chorobliwą obsesję na punkcie śmierci i niczym dwa magnesy przyciągają się do siebie.",
+        "shortDescription": "Były torreador, Diego Montes zmuszony do zejścia z areny z powodu ciężkiej rany zadanej przez byka i prawniczka, María Cardenal dzielą chorobliwą obsesję na punkcie śmierci i niczym dwa magnesy przyciągają się do siebie.",
+        "genres": [
+          "Dramat",
+          "Psychologiczny"
+        ],
+        "external": {
+          "imdb": {
+            "id": "tt0091495",
+            "url": "https://www.imdb.com/title/tt0091495/",
+            "rating": 6.9,
+            "votes": 14378
+          },
+          "filmweb": {
+            "id": "7596",
+            "url": "https://www.filmweb.pl/film/Matador-1986-7596",
+            "genres": [
+              "Dramat",
+              "Psychologiczny"
+            ],
+            "rating": 7.1,
+            "votes": 7121
+          },
+          "rottenTomatoes": {
+            "url": "https://www.rottentomatoes.com/m/matador",
+            "title": "Matador",
+            "year": "1986",
+            "directors": [
+              "Pedro Almodóvar"
+            ],
+            "criticsRating": null,
+            "criticsVotes": 28,
+            "audienceRating": null,
+            "audienceVotes": null
+          }
+        },
+        "longDescription": "Thriller psychologiczny o zabarwieniu melodramatycznym. Były torreador, Diego Montes (Nacho Martínez) zmuszony do zejścia z areny z powodu ciężkiej rany zadanej przez byka i prawniczka, María Cardenal (Assumpta Serna) dzielą chorobliwą obsesję na punkcie śmierci i niczym dwa magnesy przyciągają się do siebie. Wokół nich krążą skrywające niejeden sekret, ekscentryczne postacie: dręczony nagłymi wizjami morderstw adept sztuki walki z bykami, Ángel (Antonio Banderas), jego psychiatra, Julia (Carmen Maura), narzeczona Diega, Eva (Eva Cobo), i jej matka, Pilar (Chus Lampreave). Wreszcie do akcji wkracza komisarz policji (Eusebio Poncela). Ich historie splatają się w fatalistycznej atmosferze i zbiegają w tragicznym zakończeniu.",
+        "poster": "media/posters/dbd32035ab550f348f84.webp"
+      }
+    ]
+  }
+}

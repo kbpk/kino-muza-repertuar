@@ -1,0 +1,70 @@
+{
+  "schemaVersion": 1,
+  "date": "2026-12-29",
+  "updatedAt": "2026-11-25T19:54:10.706Z",
+  "source": "https://www.kinomuza.pl/repertoire/day/",
+  "day": {
+    "id": "34",
+    "date": "29.12",
+    "now": "2026-11-25 20:53:47",
+    "info": [],
+    "repertoire": [
+      {
+        "hour": "20:00",
+        "datetime": "2026-12-29 20:00:00",
+        "title": "Kobiety na skraju załamania nerwowego",
+        "originalTitle": "MUJERES AL BORDE DE UN ATAQUE DE NERVIOS",
+        "director": "Pedro Almodóvar",
+        "year": "1988",
+        "premiereDate": "",
+        "duration": "89",
+        "countries": "Hiszpania",
+        "shortDesc": "<p>Pepa próbuje skontaktować się Ivanem, który z nią zerwał po latach związku, ale natyka się na jego byłą żonę, Lucíę i nową kochankę, Paulinę.</p>\n",
+        "lang": "es",
+        "subtitlesLang": "pl",
+        "age": "18",
+        "credits": "reż. Pedro Almodóvar <br>Hiszpania <br>1988,89’",
+        "desc": "<p>Pepa próbuje skontaktować się Ivanem, który z nią zerwał po latach związku, ale natyka się na jego byłą żonę, Lucíę i nową kochankę, Paulinę.</p>\n",
+        "hall": "1",
+        "movieLink": "https://www.kinomuza.pl/movie/kobiety-na-skraju-zalamania-nerwowego/",
+        "ticketLink": "https://estradapoznan.bilety24.pl/kup-bilety/?id=1026661#total",
+        "prePremier": false,
+        "tape35mm": false,
+        "ad": false,
+        "deaf": false,
+        "ticketPrice": "",
+        "ticketHalfPrice": "",
+        "alt": "Kobiety na skraju załamania nerwowego",
+        "thumb": "https://www.kinomuza.pl/content/uploads/2026/03/1-1-800x450.jpg",
+        "cycle": "dkf kamera",
+        "description": "Pepa próbuje skontaktować się Ivanem, który z nią zerwał po latach związku, ale natyka się na jego byłą żonę, Lucíę i nową kochankę, Paulinę.",
+        "shortDescription": "Pepa próbuje skontaktować się Ivanem, który z nią zerwał po latach związku, ale natyka się na jego byłą żonę, Lucíę i nową kochankę, Paulinę.",
+        "genres": [
+          "Dramat",
+          "Komedia"
+        ],
+        "external": {
+          "imdb": {
+            "id": "tt0095675",
+            "url": "https://www.imdb.com/title/tt0095675/",
+            "rating": 7.5,
+            "votes": 51654
+          },
+          "filmweb": {
+            "id": "6796",
+            "url": "https://www.filmweb.pl/film/Kobiety+na+skraju+za%C5%82amania+nerwowego-1988-6796",
+            "genres": [
+              "Dramat",
+              "Komedia"
+            ],
+            "rating": 7.5,
+            "votes": 18064
+          },
+          "rottenTomatoes": null
+        },
+        "longDescription": "Pepa (Carmen Maura) próbuje skontaktować się Ivanem (Fernando Guillén), który z nią zerwał po latach związku, ale natyka się na jego byłą żonę, Lucíę (Julieta Serrano) i nową kochankę, Paulinę (Kiti Mánver). Zdeterminowana, by zostawić przeszłość za sobą, chce wynająć apartament w centrum Madrytu, w którym mieszkali razem. Zrządzeniem losu, to syn Ivana – Carlos (Antonio Banderas) i jego narzeczona, Marisa (Rossy de Palma) chcą w nim zamieszkać. Sytuację komplikują okoliczności, w które wplątała się przyjaciółka Pepy, Candela (María Barranco). Dom powoli zapełnia się ludźmi, którzy gaszą pragnienie kusząco orzeźwiającym gazpacho, przygotowanym przez Pepę.",
+        "poster": "media/posters/ea9d43651ac42be37039.webp"
+      }
+    ]
+  }
+}

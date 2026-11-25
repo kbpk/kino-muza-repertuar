@@ -1,12 +1,12 @@
 {
   "schemaVersion": 1,
   "date": "2026-11-25",
-  "updatedAt": "2026-11-24T23:02:53.750Z",
+  "updatedAt": "2026-11-25T19:54:10.706Z",
   "source": "https://www.kinomuza.pl/repertoire/day/",
   "day": {
-    "id": "01",
+    "id": "00",
     "date": "25.11",
-    "now": "2026-11-24 23:59:19",
+    "now": "2026-11-25 20:53:25",
     "info": [],
     "repertoire": [
       {
@@ -543,7 +543,7 @@
               "Dokumentalny"
             ],
             "rating": 8.2,
-            "votes": 26625
+            "votes": 26987
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/you_can_see_everything",
@@ -554,7 +554,7 @@
               "Lance Oppenheim"
             ],
             "criticsRating": null,
-            "criticsVotes": 251,
+            "criticsVotes": 253,
             "audienceRating": null,
             "audienceVotes": null
           }
@@ -610,7 +610,7 @@
               "Szpiegowski"
             ],
             "rating": 8,
-            "votes": 5230
+            "votes": 5499
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/wild_horse_nine",
@@ -620,7 +620,7 @@
               "Martin McDonagh"
             ],
             "criticsRating": null,
-            "criticsVotes": 271,
+            "criticsVotes": 272,
             "audienceRating": null,
             "audienceVotes": null
           }
@@ -676,7 +676,7 @@
               "Melodramat"
             ],
             "rating": 7.1,
-            "votes": 3932
+            "votes": 3947
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/sense_and_sensibility_2026",

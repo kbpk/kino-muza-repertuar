@@ -1,12 +1,12 @@
 {
   "schemaVersion": 1,
   "date": "2026-12-15",
-  "updatedAt": "2026-11-24T23:02:53.750Z",
+  "updatedAt": "2026-11-25T19:54:10.706Z",
   "source": "https://www.kinomuza.pl/repertoire/day/",
   "day": {
     "id": "20",
     "date": "15.12",
-    "now": "2026-11-25 00:00:48",
+    "now": "2026-11-25 20:53:46",
     "info": [],
     "repertoire": [
       {
@@ -40,8 +40,8 @@
         "description": "Tina jest siostrą Pabla. Ich rodzice rozstali się, kiedy Tina miała na imię Tino i była chłopcem, a gdy zamieszkała z ojcem, od pewnego czasu już z nim sypiała.",
         "shortDescription": "Tina jest siostrą Pabla. Ich rodzice rozstali się, kiedy Tina miała na imię Tino i była chłopcem, a gdy zamieszkała z ojcem, od pewnego czasu już z nim sypiała.",
         "genres": [
-          "Romans",
-          "Dramat"
+          "Dramat",
+          "Romans"
         ],
         "external": {
           "imdb": {
@@ -54,8 +54,8 @@
             "id": "7061",
             "url": "https://www.filmweb.pl/film/Prawo+po%C5%BC%C4%85dania-1987-7061",
             "genres": [
-              "Romans",
-              "Dramat"
+              "Dramat",
+              "Romans"
             ],
             "rating": 7.1,
             "votes": 6080

@@ -1,12 +1,12 @@
 {
   "schemaVersion": 1,
   "date": "2026-12-30",
-  "updatedAt": "2026-11-24T23:02:53.750Z",
+  "updatedAt": "2026-11-25T19:54:10.706Z",
   "source": "https://www.kinomuza.pl/repertoire/day/",
   "day": {
     "id": "35",
     "date": "30.12",
-    "now": "2026-11-25 00:01:06",
+    "now": "2026-11-25 20:53:48",
     "info": [],
     "repertoire": [
       {
@@ -60,7 +60,7 @@
               "Komedia"
             ],
             "rating": 7.6,
-            "votes": 69054
+            "votes": 69064
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/the_holdovers",

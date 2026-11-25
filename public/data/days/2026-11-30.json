@@ -1,12 +1,12 @@
 {
   "schemaVersion": 1,
   "date": "2026-11-30",
-  "updatedAt": "2026-11-24T23:02:53.750Z",
+  "updatedAt": "2026-11-25T19:54:10.706Z",
   "source": "https://www.kinomuza.pl/repertoire/day/",
   "day": {
-    "id": "06",
+    "id": "05",
     "date": "30.11",
-    "now": "2026-11-24 23:59:41",
+    "now": "2026-11-25 20:53:26",
     "info": [],
     "repertoire": [
       {
@@ -57,7 +57,7 @@
               "Dramat obyczajowy"
             ],
             "rating": 6.4,
-            "votes": 1950
+            "votes": 2008
           },
           "rottenTomatoes": null
         },
@@ -109,8 +109,8 @@
             "genres": [
               "Dramat obyczajowy"
             ],
-            "rating": 6,
-            "votes": 75
+            "rating": 5.9,
+            "votes": 80
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/yakushimas_illusion",
@@ -174,7 +174,7 @@
               "Dokumentalny"
             ],
             "rating": 8.1,
-            "votes": 1256
+            "votes": 1262
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/naza",
@@ -241,7 +241,7 @@
               "Szpiegowski"
             ],
             "rating": 8,
-            "votes": 5230
+            "votes": 5499
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/wild_horse_nine",
@@ -251,7 +251,7 @@
               "Martin McDonagh"
             ],
             "criticsRating": null,
-            "criticsVotes": 271,
+            "criticsVotes": 272,
             "audienceRating": null,
             "audienceVotes": null
           }
@@ -307,7 +307,7 @@
               "Dramat obyczajowy"
             ],
             "rating": 6.4,
-            "votes": 1950
+            "votes": 2008
           },
           "rottenTomatoes": null
         },
@@ -360,7 +360,7 @@
               "Dokumentalny"
             ],
             "rating": 7.5,
-            "votes": 775
+            "votes": 846
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/the_golden_spurtle",
@@ -408,8 +408,8 @@
         "description": "Dwaj bracia prowadzący biznes w Nowym Jorku muszą ocalić rodzinę przed zemstą rosyjskiej mafii.",
         "shortDescription": "Dwaj bracia prowadzący biznes w Nowym Jorku muszą ocalić rodzinę przed zemstą rosyjskiej mafii.",
         "genres": [
-          "Dramat",
-          "Kryminał"
+          "Kryminał",
+          "Dramat"
         ],
         "external": {
           "imdb": {
@@ -422,11 +422,11 @@
             "id": "10113103",
             "url": "https://www.filmweb.pl/film/Papierowy+tygrys-2026-10113103",
             "genres": [
-              "Dramat",
-              "Kryminał"
+              "Kryminał",
+              "Dramat"
             ],
             "rating": 5.7,
-            "votes": 658
+            "votes": 659
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/paper_tiger",
@@ -436,7 +436,7 @@
               "James Gray"
             ],
             "criticsRating": null,
-            "criticsVotes": 146,
+            "criticsVotes": 149,
             "audienceRating": null,
             "audienceVotes": null
           }
@@ -492,7 +492,7 @@
               "Melodramat"
             ],
             "rating": 7.1,
-            "votes": 3932
+            "votes": 3947
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/sense_and_sensibility_2026",
@@ -558,7 +558,7 @@
               "Szpiegowski"
             ],
             "rating": 8,
-            "votes": 5230
+            "votes": 5499
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/wild_horse_nine",
@@ -568,7 +568,7 @@
               "Martin McDonagh"
             ],
             "criticsRating": null,
-            "criticsVotes": 271,
+            "criticsVotes": 272,
             "audienceRating": null,
             "audienceVotes": null
           }
@@ -622,7 +622,7 @@
               "Dokumentalny"
             ],
             "rating": 7.5,
-            "votes": 775
+            "votes": 846
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/the_golden_spurtle",
@@ -735,8 +735,8 @@
         "description": "Dwaj bracia prowadzący biznes w Nowym Jorku muszą ocalić rodzinę przed zemstą rosyjskiej mafii.",
         "shortDescription": "Dwaj bracia prowadzący biznes w Nowym Jorku muszą ocalić rodzinę przed zemstą rosyjskiej mafii.",
         "genres": [
-          "Dramat",
-          "Kryminał"
+          "Kryminał",
+          "Dramat"
         ],
         "external": {
           "imdb": {
@@ -749,11 +749,11 @@
             "id": "10113103",
             "url": "https://www.filmweb.pl/film/Papierowy+tygrys-2026-10113103",
             "genres": [
-              "Dramat",
-              "Kryminał"
+              "Kryminał",
+              "Dramat"
             ],
             "rating": 5.7,
-            "votes": 658
+            "votes": 659
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/paper_tiger",
@@ -763,7 +763,7 @@
               "James Gray"
             ],
             "criticsRating": null,
-            "criticsVotes": 146,
+            "criticsVotes": 149,
             "audienceRating": null,
             "audienceVotes": null
           }

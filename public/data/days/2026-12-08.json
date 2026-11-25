@@ -1,12 +1,12 @@
 {
   "schemaVersion": 1,
   "date": "2026-12-08",
-  "updatedAt": "2026-11-24T23:02:53.750Z",
+  "updatedAt": "2026-11-25T19:54:10.706Z",
   "source": "https://www.kinomuza.pl/repertoire/day/",
   "day": {
-    "id": "14",
+    "id": "13",
     "date": "08.12",
-    "now": "2026-11-25 00:00:05",
+    "now": "2026-11-25 20:53:36",
     "info": [],
     "repertoire": [
       {
@@ -58,7 +58,7 @@
               "Psychologiczny"
             ],
             "rating": 7.1,
-            "votes": 7121
+            "votes": 7122
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/matador",

@@ -1,12 +1,12 @@
 {
   "schemaVersion": 1,
   "date": "2026-11-26",
-  "updatedAt": "2026-11-24T23:02:53.750Z",
+  "updatedAt": "2026-11-25T19:54:10.706Z",
   "source": "https://www.kinomuza.pl/repertoire/day/",
   "day": {
-    "id": "02",
+    "id": "01",
     "date": "26.11",
-    "now": "2026-11-24 23:59:21",
+    "now": "2026-11-25 20:53:25",
     "info": [],
     "repertoire": [
       {
@@ -56,7 +56,7 @@
               "Dramat historyczny"
             ],
             "rating": 7.2,
-            "votes": 2616
+            "votes": 2618
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/rose_2026",
@@ -123,7 +123,7 @@
               "Dramat obyczajowy"
             ],
             "rating": 6.4,
-            "votes": 1950
+            "votes": 2008
           },
           "rottenTomatoes": null
         },
@@ -176,8 +176,8 @@
             "genres": [
               "Dramat obyczajowy"
             ],
-            "rating": 6,
-            "votes": 75
+            "rating": 5.9,
+            "votes": 80
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/yakushimas_illusion",
@@ -244,7 +244,7 @@
               "Dramat obyczajowy"
             ],
             "rating": 6.4,
-            "votes": 1950
+            "votes": 2008
           },
           "rottenTomatoes": null
         },
@@ -300,7 +300,7 @@
               "Szpiegowski"
             ],
             "rating": 8,
-            "votes": 5230
+            "votes": 5499
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/wild_horse_nine",
@@ -310,7 +310,7 @@
               "Martin McDonagh"
             ],
             "criticsRating": null,
-            "criticsVotes": 271,
+            "criticsVotes": 272,
             "audienceRating": null,
             "audienceVotes": null
           }
@@ -432,7 +432,7 @@
               "Szpiegowski"
             ],
             "rating": 8,
-            "votes": 5230
+            "votes": 5499
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/wild_horse_nine",
@@ -442,7 +442,7 @@
               "Martin McDonagh"
             ],
             "criticsRating": null,
-            "criticsVotes": 271,
+            "criticsVotes": 272,
             "audienceRating": null,
             "audienceVotes": null
           }
@@ -499,7 +499,7 @@
               "Melodramat"
             ],
             "rating": 7.1,
-            "votes": 3932
+            "votes": 3947
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/sense_and_sensibility_2026",
@@ -629,7 +629,7 @@
               "Dokumentalny"
             ],
             "rating": 8.2,
-            "votes": 26625
+            "votes": 26987
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/you_can_see_everything",
@@ -640,7 +640,7 @@
               "Lance Oppenheim"
             ],
             "criticsRating": null,
-            "criticsVotes": 251,
+            "criticsVotes": 253,
             "audienceRating": null,
             "audienceVotes": null
           }
@@ -697,7 +697,7 @@
               "Dramat obyczajowy"
             ],
             "rating": 6.4,
-            "votes": 1950
+            "votes": 2008
           },
           "rottenTomatoes": null
         },
@@ -753,7 +753,7 @@
               "Szpiegowski"
             ],
             "rating": 8,
-            "votes": 5230
+            "votes": 5499
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/wild_horse_nine",
@@ -763,7 +763,7 @@
               "Martin McDonagh"
             ],
             "criticsRating": null,
-            "criticsVotes": 271,
+            "criticsVotes": 272,
             "audienceRating": null,
             "audienceVotes": null
           }

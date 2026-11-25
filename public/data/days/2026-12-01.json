@@ -1,12 +1,12 @@
 {
   "schemaVersion": 1,
   "date": "2026-12-01",
-  "updatedAt": "2026-11-24T23:02:53.750Z",
+  "updatedAt": "2026-11-25T19:54:10.706Z",
   "source": "https://www.kinomuza.pl/repertoire/day/",
   "day": {
-    "id": "07",
+    "id": "06",
     "date": "01.12",
-    "now": "2026-11-24 23:59:41",
+    "now": "2026-11-25 20:53:26",
     "info": [],
     "repertoire": [
       {
@@ -54,8 +54,8 @@
             "genres": [
               "Dramat obyczajowy"
             ],
-            "rating": 6,
-            "votes": 75
+            "rating": 5.9,
+            "votes": 80
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/yakushimas_illusion",
@@ -119,7 +119,7 @@
               "Dokumentalny"
             ],
             "rating": 8.1,
-            "votes": 1256
+            "votes": 1262
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/naza",
@@ -184,7 +184,7 @@
               "Dokumentalny"
             ],
             "rating": 7.5,
-            "votes": 775
+            "votes": 846
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/the_golden_spurtle",
@@ -232,8 +232,8 @@
         "description": "Dwaj bracia prowadzący biznes w Nowym Jorku muszą ocalić rodzinę przed zemstą rosyjskiej mafii.",
         "shortDescription": "Dwaj bracia prowadzący biznes w Nowym Jorku muszą ocalić rodzinę przed zemstą rosyjskiej mafii.",
         "genres": [
-          "Dramat",
-          "Kryminał"
+          "Kryminał",
+          "Dramat"
         ],
         "external": {
           "imdb": {
@@ -246,11 +246,11 @@
             "id": "10113103",
             "url": "https://www.filmweb.pl/film/Papierowy+tygrys-2026-10113103",
             "genres": [
-              "Dramat",
-              "Kryminał"
+              "Kryminał",
+              "Dramat"
             ],
             "rating": 5.7,
-            "votes": 658
+            "votes": 659
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/paper_tiger",
@@ -260,7 +260,7 @@
               "James Gray"
             ],
             "criticsRating": null,
-            "criticsVotes": 146,
+            "criticsVotes": 149,
             "audienceRating": null,
             "audienceVotes": null
           }
@@ -316,7 +316,7 @@
               "Dramat obyczajowy"
             ],
             "rating": 6.4,
-            "votes": 1950
+            "votes": 2008
           },
           "rottenTomatoes": null
         },
@@ -371,7 +371,7 @@
               "Melodramat"
             ],
             "rating": 7.1,
-            "votes": 3932
+            "votes": 3947
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/sense_and_sensibility_2026",
@@ -437,7 +437,7 @@
               "Szpiegowski"
             ],
             "rating": 8,
-            "votes": 5230
+            "votes": 5499
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/wild_horse_nine",
@@ -447,7 +447,7 @@
               "Martin McDonagh"
             ],
             "criticsRating": null,
-            "criticsVotes": 271,
+            "criticsVotes": 272,
             "audienceRating": null,
             "audienceVotes": null
           }
@@ -487,8 +487,8 @@
         "shortDescription": "Hipnotyzuje i konsekwentnie podkopuje poczucie pewności, pokazując, jak łatwo pozory mogą mylić.",
         "genres": [
           "Thriller",
-          "Dramat",
-          "Psychologiczny"
+          "Psychologiczny",
+          "Dramat"
         ],
         "external": {
           "imdb": {
@@ -502,11 +502,11 @@
             "url": "https://www.filmweb.pl/film/S%C5%82u%C5%BC%C4%85cy-1963-32557",
             "genres": [
               "Thriller",
-              "Dramat",
-              "Psychologiczny"
+              "Psychologiczny",
+              "Dramat"
             ],
             "rating": 7.6,
-            "votes": 3389
+            "votes": 3398
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/servant",
@@ -573,7 +573,7 @@
               "Dramat obyczajowy"
             ],
             "rating": 6.4,
-            "votes": 1950
+            "votes": 2008
           },
           "rottenTomatoes": null
         },
@@ -626,7 +626,7 @@
               "Dramat"
             ],
             "rating": 7.2,
-            "votes": 7227
+            "votes": 7232
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/everything_for_sale_1987",
@@ -692,7 +692,7 @@
               "Szpiegowski"
             ],
             "rating": 8,
-            "votes": 5230
+            "votes": 5499
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/wild_horse_nine",
@@ -702,7 +702,7 @@
               "Martin McDonagh"
             ],
             "criticsRating": null,
-            "criticsVotes": 271,
+            "criticsVotes": 272,
             "audienceRating": null,
             "audienceVotes": null
           }
@@ -740,8 +740,8 @@
         "description": "Dwaj bracia prowadzący biznes w Nowym Jorku muszą ocalić rodzinę przed zemstą rosyjskiej mafii.",
         "shortDescription": "Dwaj bracia prowadzący biznes w Nowym Jorku muszą ocalić rodzinę przed zemstą rosyjskiej mafii.",
         "genres": [
-          "Dramat",
-          "Kryminał"
+          "Kryminał",
+          "Dramat"
         ],
         "external": {
           "imdb": {
@@ -754,11 +754,11 @@
             "id": "10113103",
             "url": "https://www.filmweb.pl/film/Papierowy+tygrys-2026-10113103",
             "genres": [
-              "Dramat",
-              "Kryminał"
+              "Kryminał",
+              "Dramat"
             ],
             "rating": 5.7,
-            "votes": 658
+            "votes": 659
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/paper_tiger",
@@ -768,7 +768,7 @@
               "James Gray"
             ],
             "criticsRating": null,
-            "criticsVotes": 146,
+            "criticsVotes": 149,
             "audienceRating": null,
             "audienceVotes": null
           }

@@ -1,12 +1,12 @@
 {
   "schemaVersion": 1,
   "date": "2026-11-26",
-  "updatedAt": "2026-11-25T19:54:10.706Z",
+  "updatedAt": "2026-11-26T19:36:56.005Z",
   "source": "https://www.kinomuza.pl/repertoire/day/",
   "day": {
-    "id": "01",
+    "id": "00",
     "date": "26.11",
-    "now": "2026-11-25 20:53:25",
+    "now": "2026-11-26 20:33:54",
     "info": [],
     "repertoire": [
       {
@@ -619,8 +619,8 @@
           "imdb": {
             "id": "tt45368240",
             "url": "https://www.imdb.com/title/tt45368240/",
-            "rating": 9,
-            "votes": 43846
+            "rating": 8.9,
+            "votes": 47644
           },
           "filmweb": {
             "id": "10133825",
@@ -628,8 +628,8 @@
             "genres": [
               "Dokumentalny"
             ],
-            "rating": 8.2,
-            "votes": 26987
+            "rating": 8.1,
+            "votes": 27391
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/you_can_see_everything",
@@ -640,7 +640,7 @@
               "Lance Oppenheim"
             ],
             "criticsRating": null,
-            "criticsVotes": 253,
+            "criticsVotes": 254,
             "audienceRating": null,
             "audienceVotes": null
           }
@@ -687,7 +687,7 @@
             "id": "tt35571123",
             "url": "https://www.imdb.com/title/tt35571123/",
             "rating": 6.6,
-            "votes": 69
+            "votes": 77
           },
           "filmweb": {
             "id": "10065018",
@@ -697,7 +697,7 @@
               "Dramat obyczajowy"
             ],
             "rating": 6.4,
-            "votes": 2008
+            "votes": 2056
           },
           "rottenTomatoes": null
         },
@@ -743,7 +743,7 @@
             "id": "tt15799564",
             "url": "https://www.imdb.com/title/tt15799564/",
             "rating": 8.1,
-            "votes": 26593
+            "votes": 27930
           },
           "filmweb": {
             "id": "10075493",
@@ -753,7 +753,7 @@
               "Szpiegowski"
             ],
             "rating": 8,
-            "votes": 5499
+            "votes": 5791
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/wild_horse_nine",
@@ -763,7 +763,7 @@
               "Martin McDonagh"
             ],
             "criticsRating": null,
-            "criticsVotes": 272,
+            "criticsVotes": 275,
             "audienceRating": null,
             "audienceVotes": null
           }

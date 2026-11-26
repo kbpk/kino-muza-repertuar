@@ -1,12 +1,12 @@
 {
   "schemaVersion": 1,
   "date": "2026-12-15",
-  "updatedAt": "2026-11-25T19:54:10.706Z",
+  "updatedAt": "2026-11-26T19:36:56.005Z",
   "source": "https://www.kinomuza.pl/repertoire/day/",
   "day": {
-    "id": "20",
+    "id": "19",
     "date": "15.12",
-    "now": "2026-11-25 20:53:46",
+    "now": "2026-11-26 20:35:32",
     "info": [],
     "repertoire": [
       {
@@ -48,7 +48,7 @@
             "id": "tt0093412",
             "url": "https://www.imdb.com/title/tt0093412/",
             "rating": 7.1,
-            "votes": 15718
+            "votes": 15720
           },
           "filmweb": {
             "id": "7061",
@@ -58,7 +58,7 @@
               "Romans"
             ],
             "rating": 7.1,
-            "votes": 6080
+            "votes": 6083
           },
           "rottenTomatoes": null
         },

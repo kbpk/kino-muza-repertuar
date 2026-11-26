@@ -1,12 +1,12 @@
 {
   "schemaVersion": 1,
   "date": "2026-11-29",
-  "updatedAt": "2026-11-25T19:54:10.706Z",
+  "updatedAt": "2026-11-26T19:36:56.005Z",
   "source": "https://www.kinomuza.pl/repertoire/day/",
   "day": {
-    "id": "04",
+    "id": "03",
     "date": "29.11",
-    "now": "2026-11-25 20:53:26",
+    "now": "2026-11-26 20:33:59",
     "info": [],
     "repertoire": [
       {
@@ -113,8 +113,8 @@
               "Animacja",
               "Przygodowy"
             ],
-            "rating": 7.5,
-            "votes": 34
+            "rating": 7.4,
+            "votes": 36
           },
           "rottenTomatoes": null
         },
@@ -155,8 +155,8 @@
         "genres": [],
         "external": {
           "imdb": {
-            "id": "tt43351027",
-            "url": "https://www.imdb.com/title/tt43351027/",
+            "id": "tt52455221",
+            "url": "https://www.imdb.com/title/tt52455221/",
             "rating": null,
             "votes": null
           },
@@ -200,8 +200,8 @@
         "genres": [],
         "external": {
           "imdb": {
-            "id": "tt43351027",
-            "url": "https://www.imdb.com/title/tt43351027/",
+            "id": "tt52455221",
+            "url": "https://www.imdb.com/title/tt52455221/",
             "rating": null,
             "votes": null
           },
@@ -247,8 +247,8 @@
           "imdb": {
             "id": "tt45368240",
             "url": "https://www.imdb.com/title/tt45368240/",
-            "rating": 9,
-            "votes": 43846
+            "rating": 8.9,
+            "votes": 47644
           },
           "filmweb": {
             "id": "10133825",
@@ -256,8 +256,8 @@
             "genres": [
               "Dokumentalny"
             ],
-            "rating": 8.2,
-            "votes": 26987
+            "rating": 8.1,
+            "votes": 27391
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/you_can_see_everything",
@@ -268,7 +268,7 @@
               "Lance Oppenheim"
             ],
             "criticsRating": null,
-            "criticsVotes": 253,
+            "criticsVotes": 254,
             "audienceRating": null,
             "audienceVotes": null
           }
@@ -306,25 +306,25 @@
         "description": "Dzieło Prusa od blisko 140 lat rozpala emocje i wyobraźnię kolejnych pokoleń. Teraz ta ponadczasowa historia trafia na wielki ekran w nowej, spektakularnej, filmowej odsłonie.",
         "shortDescription": "Dzieło Prusa od blisko 140 lat rozpala emocje i wyobraźnię kolejnych pokoleń. Teraz ta ponadczasowa historia trafia na wielki ekran w nowej, spektakularnej, filmowej odsłonie.",
         "genres": [
-          "Kostiumowy",
-          "Dramat obyczajowy"
+          "Dramat obyczajowy",
+          "Kostiumowy"
         ],
         "external": {
           "imdb": {
             "id": "tt37082105",
             "url": "https://www.imdb.com/title/tt37082105/",
             "rating": 7.7,
-            "votes": 1780
+            "votes": 1784
           },
           "filmweb": {
             "id": "10057628",
             "url": "https://www.filmweb.pl/film/Lalka-2026-10057628",
             "genres": [
-              "Kostiumowy",
-              "Dramat obyczajowy"
+              "Dramat obyczajowy",
+              "Kostiumowy"
             ],
             "rating": 7.7,
-            "votes": 43606
+            "votes": 43733
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/lalka",
@@ -380,7 +380,7 @@
             "id": "tt13609648",
             "url": "https://www.imdb.com/title/tt13609648/",
             "rating": 7.2,
-            "votes": 13497
+            "votes": 13664
           },
           "filmweb": {
             "id": "10087170",
@@ -390,7 +390,7 @@
               "Melodramat"
             ],
             "rating": 7.1,
-            "votes": 3947
+            "votes": 3956
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/sense_and_sensibility_2026",
@@ -400,7 +400,7 @@
               "Georgia Oakley"
             ],
             "criticsRating": null,
-            "criticsVotes": 143,
+            "criticsVotes": 144,
             "audienceRating": null,
             "audienceVotes": null
           }
@@ -446,7 +446,7 @@
             "id": "tt35571123",
             "url": "https://www.imdb.com/title/tt35571123/",
             "rating": 6.6,
-            "votes": 69
+            "votes": 77
           },
           "filmweb": {
             "id": "10065018",
@@ -456,7 +456,7 @@
               "Dramat obyczajowy"
             ],
             "rating": 6.4,
-            "votes": 2008
+            "votes": 2056
           },
           "rottenTomatoes": null
         },
@@ -501,7 +501,7 @@
             "id": "tt15799564",
             "url": "https://www.imdb.com/title/tt15799564/",
             "rating": 8.1,
-            "votes": 26593
+            "votes": 27930
           },
           "filmweb": {
             "id": "10075493",
@@ -511,7 +511,7 @@
               "Szpiegowski"
             ],
             "rating": 8,
-            "votes": 5499
+            "votes": 5791
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/wild_horse_nine",
@@ -521,7 +521,7 @@
               "Martin McDonagh"
             ],
             "criticsRating": null,
-            "criticsVotes": 272,
+            "criticsVotes": 275,
             "audienceRating": null,
             "audienceVotes": null
           }
@@ -567,7 +567,7 @@
             "id": "tt34385689",
             "url": "https://www.imdb.com/title/tt34385689/",
             "rating": 6.9,
-            "votes": 1993
+            "votes": 2256
           },
           "filmweb": {
             "id": "10113103",
@@ -577,7 +577,7 @@
               "Dramat"
             ],
             "rating": 5.7,
-            "votes": 659
+            "votes": 660
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/paper_tiger",
@@ -587,7 +587,7 @@
               "James Gray"
             ],
             "criticsRating": null,
-            "criticsVotes": 149,
+            "criticsVotes": 151,
             "audienceRating": null,
             "audienceVotes": null
           }
@@ -633,7 +633,7 @@
             "id": "tt15799564",
             "url": "https://www.imdb.com/title/tt15799564/",
             "rating": 8.1,
-            "votes": 26593
+            "votes": 27930
           },
           "filmweb": {
             "id": "10075493",
@@ -643,7 +643,7 @@
               "Szpiegowski"
             ],
             "rating": 8,
-            "votes": 5499
+            "votes": 5791
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/wild_horse_nine",
@@ -653,7 +653,7 @@
               "Martin McDonagh"
             ],
             "criticsRating": null,
-            "criticsVotes": 272,
+            "criticsVotes": 275,
             "audienceRating": null,
             "audienceVotes": null
           }
@@ -746,7 +746,7 @@
             "id": "tt35932869",
             "url": "https://www.imdb.com/title/tt35932869/",
             "rating": 7.5,
-            "votes": 863
+            "votes": 865
           },
           "filmweb": {
             "id": "10110275",
@@ -755,7 +755,7 @@
               "Dokumentalny"
             ],
             "rating": 7.5,
-            "votes": 846
+            "votes": 879
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/the_golden_spurtle",
@@ -811,7 +811,7 @@
             "id": "tt35571123",
             "url": "https://www.imdb.com/title/tt35571123/",
             "rating": 6.6,
-            "votes": 69
+            "votes": 77
           },
           "filmweb": {
             "id": "10065018",
@@ -821,7 +821,7 @@
               "Dramat obyczajowy"
             ],
             "rating": 6.4,
-            "votes": 2008
+            "votes": 2056
           },
           "rottenTomatoes": null
         },
@@ -866,7 +866,7 @@
             "id": "tt15799564",
             "url": "https://www.imdb.com/title/tt15799564/",
             "rating": 8.1,
-            "votes": 26593
+            "votes": 27930
           },
           "filmweb": {
             "id": "10075493",
@@ -876,7 +876,7 @@
               "Szpiegowski"
             ],
             "rating": 8,
-            "votes": 5499
+            "votes": 5791
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/wild_horse_nine",
@@ -886,7 +886,7 @@
               "Martin McDonagh"
             ],
             "criticsRating": null,
-            "criticsVotes": 272,
+            "criticsVotes": 275,
             "audienceRating": null,
             "audienceVotes": null
           }
@@ -932,7 +932,7 @@
             "id": "tt34385689",
             "url": "https://www.imdb.com/title/tt34385689/",
             "rating": 6.9,
-            "votes": 1993
+            "votes": 2256
           },
           "filmweb": {
             "id": "10113103",
@@ -942,7 +942,7 @@
               "Dramat"
             ],
             "rating": 5.7,
-            "votes": 659
+            "votes": 660
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/paper_tiger",
@@ -952,7 +952,7 @@
               "James Gray"
             ],
             "criticsRating": null,
-            "criticsVotes": 149,
+            "criticsVotes": 151,
             "audienceRating": null,
             "audienceVotes": null
           }

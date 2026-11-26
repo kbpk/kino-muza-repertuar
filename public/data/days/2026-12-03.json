@@ -1,12 +1,12 @@
 {
   "schemaVersion": 1,
   "date": "2026-12-03",
-  "updatedAt": "2026-11-25T19:54:10.706Z",
+  "updatedAt": "2026-11-26T19:36:56.005Z",
   "source": "https://www.kinomuza.pl/repertoire/day/",
   "day": {
-    "id": "08",
+    "id": "07",
     "date": "03.12",
-    "now": "2026-11-25 20:53:30",
+    "now": "2026-11-26 20:34:01",
     "info": [],
     "repertoire": [
       {
@@ -56,7 +56,7 @@
               "Dramat"
             ],
             "rating": 5.7,
-            "votes": 409
+            "votes": 410
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/la_perra",
@@ -112,7 +112,7 @@
             "id": "tt35932869",
             "url": "https://www.imdb.com/title/tt35932869/",
             "rating": 7.5,
-            "votes": 863
+            "votes": 865
           },
           "filmweb": {
             "id": "10110275",
@@ -121,7 +121,7 @@
               "Dokumentalny"
             ],
             "rating": 7.5,
-            "votes": 846
+            "votes": 879
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/the_golden_spurtle",
@@ -178,7 +178,7 @@
             "id": "tt35571123",
             "url": "https://www.imdb.com/title/tt35571123/",
             "rating": 6.6,
-            "votes": 69
+            "votes": 77
           },
           "filmweb": {
             "id": "10065018",
@@ -188,7 +188,7 @@
               "Dramat obyczajowy"
             ],
             "rating": 6.4,
-            "votes": 2008
+            "votes": 2056
           },
           "rottenTomatoes": null
         },
@@ -234,7 +234,7 @@
             "id": "tt34385689",
             "url": "https://www.imdb.com/title/tt34385689/",
             "rating": 6.9,
-            "votes": 1993
+            "votes": 2256
           },
           "filmweb": {
             "id": "10113103",
@@ -244,7 +244,7 @@
               "Dramat"
             ],
             "rating": 5.7,
-            "votes": 659
+            "votes": 660
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/paper_tiger",
@@ -254,7 +254,7 @@
               "James Gray"
             ],
             "criticsRating": null,
-            "criticsVotes": 149,
+            "criticsVotes": 151,
             "audienceRating": null,
             "audienceVotes": null
           }
@@ -300,7 +300,7 @@
             "id": "tt36364208",
             "url": "https://www.imdb.com/title/tt36364208/",
             "rating": 6.8,
-            "votes": 139
+            "votes": 142
           },
           "filmweb": {
             "id": "10090938",
@@ -308,8 +308,8 @@
             "genres": [
               "Dramat obyczajowy"
             ],
-            "rating": 5.9,
-            "votes": 80
+            "rating": 6,
+            "votes": 84
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/yakushimas_illusion",
@@ -366,7 +366,7 @@
             "id": "tt35571123",
             "url": "https://www.imdb.com/title/tt35571123/",
             "rating": 6.6,
-            "votes": 69
+            "votes": 77
           },
           "filmweb": {
             "id": "10065018",
@@ -376,7 +376,7 @@
               "Dramat obyczajowy"
             ],
             "rating": 6.4,
-            "votes": 2008
+            "votes": 2056
           },
           "rottenTomatoes": null
         },
@@ -422,7 +422,7 @@
             "id": "tt15799564",
             "url": "https://www.imdb.com/title/tt15799564/",
             "rating": 8.1,
-            "votes": 26593
+            "votes": 27930
           },
           "filmweb": {
             "id": "10075493",
@@ -432,7 +432,7 @@
               "Szpiegowski"
             ],
             "rating": 8,
-            "votes": 5499
+            "votes": 5791
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/wild_horse_nine",
@@ -442,7 +442,7 @@
               "Martin McDonagh"
             ],
             "criticsRating": null,
-            "criticsVotes": 272,
+            "criticsVotes": 275,
             "audienceRating": null,
             "audienceVotes": null
           }
@@ -489,7 +489,7 @@
             "id": "tt13609648",
             "url": "https://www.imdb.com/title/tt13609648/",
             "rating": 7.2,
-            "votes": 13497
+            "votes": 13664
           },
           "filmweb": {
             "id": "10087170",
@@ -499,7 +499,7 @@
               "Melodramat"
             ],
             "rating": 7.1,
-            "votes": 3947
+            "votes": 3956
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/sense_and_sensibility_2026",
@@ -509,7 +509,7 @@
               "Georgia Oakley"
             ],
             "criticsRating": null,
-            "criticsVotes": 143,
+            "criticsVotes": 144,
             "audienceRating": null,
             "audienceVotes": null
           }
@@ -555,7 +555,7 @@
             "id": "tt35932869",
             "url": "https://www.imdb.com/title/tt35932869/",
             "rating": 7.5,
-            "votes": 863
+            "votes": 865
           },
           "filmweb": {
             "id": "10110275",
@@ -564,7 +564,7 @@
               "Dokumentalny"
             ],
             "rating": 7.5,
-            "votes": 846
+            "votes": 879
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/the_golden_spurtle",
@@ -613,22 +613,22 @@
         "description": "Cynthia pracuje w fabryce i spędza dni na kłótniach ze swą zgorzkniałą córką. Jej brat Maurice przeżywa gorzki kryzys małżeński, zarazem namawiając klientów swego zakładu fotograficznego do jak najszerszego uśmiechu.",
         "shortDescription": "Cynthia pracuje w fabryce i spędza dni na kłótniach ze swą zgorzkniałą córką. Jej brat Maurice przeżywa gorzki kryzys małżeński, zarazem namawiając klientów swego zakładu fotograficznego do jak najszerszego uśmiechu.",
         "genres": [
-          "Dramat",
-          "Komedia obycz."
+          "Komedia obycz.",
+          "Dramat"
         ],
         "external": {
           "imdb": {
             "id": "tt0117589",
             "url": "https://www.imdb.com/title/tt0117589/",
             "rating": 8,
-            "votes": 51252
+            "votes": 51261
           },
           "filmweb": {
             "id": "701",
             "url": "https://www.filmweb.pl/film/Sekrety+i+k%C5%82amstwa-1996-701",
             "genres": [
-              "Dramat",
-              "Komedia obycz."
+              "Komedia obycz.",
+              "Dramat"
             ],
             "rating": 7.7,
             "votes": 9928
@@ -688,7 +688,7 @@
             "id": "tt34385689",
             "url": "https://www.imdb.com/title/tt34385689/",
             "rating": 6.9,
-            "votes": 1993
+            "votes": 2256
           },
           "filmweb": {
             "id": "10113103",
@@ -698,7 +698,7 @@
               "Dramat"
             ],
             "rating": 5.7,
-            "votes": 659
+            "votes": 660
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/paper_tiger",
@@ -708,7 +708,7 @@
               "James Gray"
             ],
             "criticsRating": null,
-            "criticsVotes": 149,
+            "criticsVotes": 151,
             "audienceRating": null,
             "audienceVotes": null
           }
@@ -755,7 +755,7 @@
             "id": "tt15799564",
             "url": "https://www.imdb.com/title/tt15799564/",
             "rating": 8.1,
-            "votes": 26593
+            "votes": 27930
           },
           "filmweb": {
             "id": "10075493",
@@ -765,7 +765,7 @@
               "Szpiegowski"
             ],
             "rating": 8,
-            "votes": 5499
+            "votes": 5791
           },
           "rottenTomatoes": {
             "url": "https://www.rottentomatoes.com/m/wild_horse_nine",
@@ -775,7 +775,7 @@
               "Martin McDonagh"
             ],
             "criticsRating": null,
-            "criticsVotes": 272,
+            "criticsVotes": 275,
             "audienceRating": null,
             "audienceVotes": null
           }

@@ -1,12 +1,12 @@
 {
   "schemaVersion": 1,
   "date": "2026-12-06",
-  "updatedAt": "2026-11-25T19:54:10.706Z",
+  "updatedAt": "2026-11-26T19:36:56.005Z",
   "source": "https://www.kinomuza.pl/repertoire/day/",
   "day": {
-    "id": "11",
+    "id": "10",
     "date": "06.12",
-    "now": "2026-11-25 20:53:34",
+    "now": "2026-11-26 20:34:03",
     "info": [],
     "repertoire": [
       {
@@ -44,15 +44,15 @@
           "Familijny",
           "Dramat",
           "Anime",
-          "Świąteczny",
-          "Komedia"
+          "Komedia",
+          "Świąteczny"
         ],
         "external": {
           "imdb": {
             "id": "tt0388473",
             "url": "https://www.imdb.com/title/tt0388473/",
             "rating": 7.8,
-            "votes": 56358
+            "votes": 56367
           },
           "filmweb": {
             "id": "107897",
@@ -61,8 +61,8 @@
               "Familijny",
               "Dramat",
               "Anime",
-              "Świąteczny",
-              "Komedia"
+              "Komedia",
+              "Świąteczny"
             ],
             "rating": 7.6,
             "votes": 6003
